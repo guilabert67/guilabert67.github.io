@@ -127,10 +127,10 @@ const FAVICON = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
 /* --- páginas fijas --------------------------------------------------------- */
 
 const QUIENES = `
-<p><strong>La Prida</strong> es un diario de la mañana para cuatro concejos del oriente y el centro de Asturias:
-Piloña, Nava, Cabrales y Villaviciosa. Sale temprano, se lee en cinco minutos y está pensado para el rato del café.</p>
+<p><strong>La Prida</strong> es un diario de la mañana para cinco concejos del oriente y el centro de Asturias:
+Piloña, Nava, Cabranes, Cabrales y Villaviciosa. Sale temprano, se lee en cinco minutos y está pensado para el rato del café.</p>
 <p>La idea es sencilla. Cada madrugada se repasan los medios de la comarca, los tablones de los ayuntamientos, el
-BOPA y la agenda cultural. Lo que afecta a estos cuatro concejos se ordena, se comprueba y se cuenta con
+BOPA y la agenda cultural. Lo que afecta a estos cinco concejos se ordena, se comprueba y se cuenta con
 palabras propias, siempre citando y enlazando de dónde sale. Ni copiamos textos ajenos ni inventamos datos:
 si una cifra no está en la fuente, no aparece aquí.</p>
 <p>No somos un medio de sucesos ni de titulares a gritos. Nos interesan las obras que cortan una carretera, el
@@ -163,7 +163,7 @@ lo que pide un dedo.</p>
 <p>Si tienes activado «reducir movimiento» en tu sistema, aquí no se mueve nada. No hay carruseles automáticos,
 ni ventanas que salten, ni vídeos que arranquen solos.</p>
 <h2>Lectores de pantalla</h2>
-<p>Las páginas usan encabezados en orden, regiones marcadas y textos alternativos. El esquema de los cuatro
+<p>Las páginas usan encabezados en orden, regiones marcadas y textos alternativos. El esquema de los cinco
 concejos lleva una descripción escrita, porque un mapa sin describir es un mapa que excluye.</p>
 <h2>Si algo falla</h2>
 <p>Escríbenos y se arregla. Una barrera de accesibilidad es un error de programación, no una opinión.</p>
@@ -171,7 +171,7 @@ concejos lleva una descripción escrita, porque un mapa sin describir es un mapa
 
 const LEGAL = `
 <h2>Titularidad</h2>
-<p>Este sitio web es un proyecto de información local sobre los concejos de Piloña, Nava, Cabrales y Villaviciosa.
+<p>Este sitio web es un proyecto de información local sobre los concejos de Piloña, Nava, Cabranes, Cabrales y Villaviciosa.
 Para cualquier asunto relacionado con esta web puedes escribir a la dirección de contacto que figura en el pie.</p>
 
 <h2>Contenidos y fuentes</h2>
@@ -222,11 +222,11 @@ sobre sus contenidos.</p>
 const FIJAS = {
   quienes: {
     en: `
-<p><strong>La Prida</strong> is a morning paper for four councils in central and eastern Asturias:
-Piloña, Nava, Cabrales and Villaviciosa. It comes out early, takes five minutes to read and is meant
+<p><strong>La Prida</strong> is a morning paper for five councils in central and eastern Asturias:
+Piloña, Nava, Cabranes, Cabrales and Villaviciosa. It comes out early, takes five minutes to read and is meant
 for the coffee.</p>
 <p>The idea is simple. Every night we go through the local press, the council noticeboards, the
-regional gazette and the cultural calendar. Whatever affects these four councils is sorted, checked
+regional gazette and the cultural calendar. Whatever affects these five councils is sorted, checked
 and retold in our own words, always citing and linking the source. We do not copy other people's
 text and we do not invent figures: if a number is not in the source, it is not here.</p>
 <p>We are not a crime paper and we do not shout. What interests us is the roadworks that close a
@@ -242,11 +242,11 @@ always marked as such and never decide what gets published.</p>
 version is the original; the others are machine translations checked by the system. When a story has
 not been translated yet, it says so and links to the Spanish.</p>`,
     fr: `
-<p><strong>La Prida</strong> est un quotidien du matin pour quatre communes du centre et de l'est des
-Asturies : Piloña, Nava, Cabrales et Villaviciosa. Il paraît tôt, se lit en cinq minutes et il est
+<p><strong>La Prida</strong> est un quotidien du matin pour cinq communes du centre et de l'est des
+Asturies : Piloña, Nava, Cabranes, Cabrales et Villaviciosa. Il paraît tôt, se lit en cinq minutes et il est
 fait pour le café.</p>
 <p>L'idée est simple. Chaque nuit nous parcourons la presse locale, les panneaux d'affichage des
-mairies, le journal officiel des Asturies et l'agenda culturel. Ce qui concerne ces quatre communes
+mairies, le journal officiel des Asturies et l'agenda culturel. Ce qui concerne ces cinq communes
 est trié, vérifié et raconté avec nos mots, en citant et en liant toujours la source. Nous ne
 copions pas les textes des autres et nous n'inventons pas de chiffres : si un chiffre n'est pas dans
 la source, il n'est pas ici.</p>
@@ -265,11 +265,11 @@ toujours signalés comme tels et ne décident jamais de ce qui est publié.</p>
 espagnole est l'originale ; les autres sont des traductions automatiques vérifiées par le système.
 Quand un article n'est pas encore traduit, c'est indiqué et un lien renvoie à l'espagnol.</p>`,
     de: `
-<p><strong>La Prida</strong> ist eine Morgenzeitung für vier Gemeinden im Zentrum und Osten
-Asturiens: Piloña, Nava, Cabrales und Villaviciosa. Sie erscheint früh, ist in fünf Minuten gelesen
+<p><strong>La Prida</strong> ist eine Morgenzeitung für fünf Gemeinden im Zentrum und Osten
+Asturiens: Piloña, Nava, Cabranes, Cabrales und Villaviciosa. Sie erscheint früh, ist in fünf Minuten gelesen
 und ist für den Kaffee gedacht.</p>
 <p>Die Idee ist einfach. Jede Nacht gehen wir die Presse der Gegend durch, die Aushänge der
-Rathäuser, das Amtsblatt und den Kulturkalender. Was diese vier Gemeinden betrifft, wird sortiert,
+Rathäuser, das Amtsblatt und den Kulturkalender. Was diese fünf Gemeinden betrifft, wird sortiert,
 geprüft und mit eigenen Worten erzählt — immer mit Quellenangabe und Link. Wir kopieren keine fremden
 Texte und wir erfinden keine Zahlen: Was nicht in der Quelle steht, steht auch nicht hier.</p>
 <p>Wir sind kein Boulevardblatt und wir schreien nicht. Uns interessieren die Bauarbeiten, die eine
@@ -304,18 +304,18 @@ function paginaAnunciate(piezas, tiempo) {
   return marco({
     titulo: 'Anúnciate en La Prida',
     descripcion:
-      'Pon tu negocio delante de la gente de Piloña, Nava, Cabrales y Villaviciosa, cada mañana. Formatos, precios y cómo contratarlo.',
+      'Pon tu negocio delante de la gente de Piloña, Nava, Cabranes, Cabrales y Villaviciosa, cada mañana. Formatos, precios y cómo contratarlo.',
     url: '/anunciate/',
     tiempo,
     contenido: `<div class="contenedor">
   <section class="portico">
     <span class="rotulo" style="color:var(--tinta-3)">Para negocios de casa</span>
     <h1 style="max-width:15ch">Tu negocio, en el desayuno de tus vecinos</h1>
-    <p style="max-width:56ch">La Prida se lee a primera hora, en casa y con el café. No competimos con la tele ni con el periódico de Oviedo: solo contamos lo de estos cuatro concejos.</p>
+    <p style="max-width:56ch">La Prida se lee a primera hora, en casa y con el café. No competimos con la tele ni con el periódico de Oviedo: solo contamos lo de estos cinco concejos.</p>
   </section>
 
   <section class="datos">
-    <div class="dato"><span class="dato__cifra">4</span><span class="dato__que">concejos: Piloña, Nava, Cabrales y Villaviciosa</span></div>
+    <div class="dato"><span class="dato__cifra">4</span><span class="dato__que">concejos: Piloña, Nava, Cabranes, Cabrales y Villaviciosa</span></div>
     <div class="dato"><span class="dato__cifra">${piezas.length}</span><span class="dato__que">piezas publicadas ahora mismo</span></div>
     <div class="dato"><span class="dato__cifra">7:00</span><span class="dato__que">hora a la que sale la edición, cada día</span></div>
   </section>

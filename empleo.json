@@ -1,0 +1,27 @@
+[
+  {
+    "ejemplo": true,
+    "puesto": "Ayudante de cocina para fin de semana",
+    "empresa": "Casa de comidas (ejemplo)",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "texto": "Así se vería una oferta publicada por un negocio del concejo. Esta es de muestra: sirve para enseñar el formato.",
+    "jornada": "Viernes a domingo",
+    "contrato": "Temporal, con posibilidad de continuidad",
+    "desde": "2026-09-08",
+    "hasta": "2026-10-15",
+    "contacto": "hola@laprida.example",
+    "destacada": true
+  },
+  {
+    "ejemplo": true,
+    "puesto": "Operario/a de quesería",
+    "empresa": "Quesería del concejo (ejemplo)",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "texto": "Otra muestra, con menos datos: una oferta no necesita rellenarlo todo para publicarse.",
+    "jornada": "Jornada completa",
+    "desde": "2026-09-05",
+    "contacto": "hola@laprida.example"
+  }
+]

@@ -2,7 +2,7 @@
   "name": "la-prida",
   "version": "1.0.0",
   "private": true,
-  "description": "El diario de la mañana de Piloña, Nava, Cabrales y Villaviciosa. Generador estático sin dependencias.",
+  "description": "El diario de la mañana de Piloña, Nava, Cabranes, Cabrales y Villaviciosa. Generador estático sin dependencias.",
   "type": "module",
   "engines": {
     "node": ">=20"

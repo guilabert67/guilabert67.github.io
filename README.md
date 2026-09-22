@@ -1,6 +1,6 @@
 # La Prida
 
-El diario de la mañana de **Piloña, Nava, Cabrales y Villaviciosa**. Se lee con el café, en cinco
+El diario de la mañana de **Piloña, Nava, Cabranes, Cabrales y Villaviciosa**. Se lee con el café, en cinco
 minutos, y se actualiza solo cada madrugada.
 
 Es un generador de sitio estático **sin ninguna dependencia**: solo Node 20 o superior. No hay
@@ -38,7 +38,7 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 Sin clave, la ingesta sigue funcionando: en vez de reescribir, guarda titular + extracto + enlace a
 la fuente. Con `npm run ingesta:sin-ia` fuerzas ese modo a propósito.
 
-El tiempo de los cuatro concejos sale de Open-Meteo, que **no pide clave ni registro**. Las
+El tiempo de los cinco concejos sale de Open-Meteo, que **no pide clave ni registro**. Las
 coordenadas están en `concejos[].coords`.
 
 ---
@@ -86,7 +86,7 @@ díselo ahí y en la siguiente edición ya sale distinto.
 
 Funcionando y en `config.mjs`:
 
-- `elfielato.es` — tiene **feed propio por concejo** para los cuatro. Es la fuente principal.
+- `elfielato.es` — tiene **feed propio por concejo** para los cinco. Es la fuente principal.
 - `rtpa.es`, `asturiasmundial.com`, `eldiario.es/asturias` — regionales, se filtran por topónimo.
 - Open-Meteo para el tiempo, sin clave. Si algún día quieres AEMET, los códigos INE son: Piloña
   `33049`, Nava `33040`, Cabrales `33008`, Villaviciosa `33076`.
