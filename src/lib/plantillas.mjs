@@ -4,7 +4,7 @@ import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, a
 import { tipoPorSlug, tiposPresentes, esFuturo, fechaDelPlan } from './eventos.mjs';
 import {
   idiomas, IDIOMA_BASE, idiomaDe, ruta, t as texto,
-  fechaLargaEn, haceCuantoEn, mesCortoEn,
+  fechaLargaEn, haceCuantoEn, mesCortoEn, nombreTipoEn,
 } from '../idiomas.mjs';
 
 /* --- utilidades ---------------------------------------------------------- */
@@ -309,10 +309,14 @@ export function bloqueDespertador(puntos, fecha) {
 /* --- actividad cultural ------------------------------------------------------ */
 
 /** El distintivo del tipo de plan. El icono nunca va solo: siempre lleva el nombre. */
+export function nombreTipo(t) {
+  return t ? nombreTipoEn(t.slug, t.nombre, estado.idioma) : '';
+}
+
 export function selloTipo(slug) {
   const t = tipoPorSlug(slug);
   if (!t) return '';
-  return `<span class="sello"><span class="sello__icono" aria-hidden="true">${t.icono}</span>${esc(t.nombre)}</span>`;
+  return `<span class="sello"><span class="sello__icono" aria-hidden="true">${t.icono}</span>${esc(nombreTipo(t))}</span>`;
 }
 
 /**
@@ -368,7 +372,7 @@ export function filtrosAgenda(piezas) {
   ${tipos
     .map(
       (t) =>
-        `<button class="filtro" type="button" data-filtro="${esc(t.slug)}"><span aria-hidden="true">${t.icono}</span> ${esc(t.nombre)}</button>`
+        `<button class="filtro" type="button" data-filtro="${esc(t.slug)}"><span aria-hidden="true">${t.icono}</span> ${esc(nombreTipo(t))}</button>`
     )
     .join('')}
 </div>`;
@@ -1025,7 +1029,10 @@ export function paginaArticulo(p, relacionadas, tiempo, cuentas = {}) {
     <div class="articulo__chapas">
       <a href="${U(`/${p.concejoSlug}/`)}" style="text-decoration:none">${chapa(p)}</a>
       <span class="rotulo" style="color:var(--tinta-3)">${esc(
-        secciones.find((x) => x.slug === p.seccion)?.nombre ?? 'Actualidad'
+        (() => {
+          const s = secciones.find((x) => x.slug === p.seccion);
+          return s ? nombreSeccion(s) : T('portada');
+        })()
       )}</span>
       ${p.tipoEvento ? selloTipo(p.tipoEvento) : ''}
     </div>

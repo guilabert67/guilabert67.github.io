@@ -148,7 +148,8 @@ const ACCESIBILIDAD = `
 <p>La Prida se lee a las siete de la mañana, muchas veces con una mano en la taza y media luz. Si no se puede
 leer bien en esas condiciones, no sirve. Estos son los compromisos, y son verificables.</p>
 <h2>El color nunca va solo</h2>
-<p>Cada concejo tiene un color, pero también una letra: P de Piloña, N de Nava, C de Cabrales, V de Villaviciosa.
+<p>Cada concejo tiene un color, pero también una letra: N de Nava, V de Villaviciosa, CN de Cabranes, P de Piloña
+y CL de Cabrales. Las dos «C» llevan dos letras precisamente para no depender del color para distinguirlas.
 Si no distingues los colores, o si tu navegador está en modo de alto contraste, la letra sigue diciéndote dónde
 estás. Ningún dato de este sitio se transmite solo con color.</p>
 <h2>Contraste y tamaño</h2>
@@ -219,6 +220,34 @@ sobre sus contenidos.</p>
 
 // Las páginas fijas, en los cuatro idiomas. Traducidas a mano: son la voz de
 // la casa y lo que un extranjero lee para decidir si fiarse.
+// Las descripciones (meta) de las páginas fijas, también en los cuatro idiomas:
+// es lo que se ve en Google y en el enlace compartido.
+const DESCRIPCIONES = {
+  legal: {
+    es: 'Titularidad, fuentes, protección de datos, cookies y publicidad de La Prida.',
+    en: 'Who runs La Prida, where the news comes from, data protection, cookies and advertising.',
+    fr: "Qui édite La Prida, d'où viennent les informations, protection des données, cookies et publicité.",
+    de: 'Verantwortliche, Quellen, Datenschutz, Cookies und Werbung von La Prida.',
+  },
+  accesibilidad: {
+    es: 'Cómo está pensada La Prida para que se pueda leer con cualquier ojo, cualquier dedo y cualquier navegador.',
+    en: 'How La Prida is built to be read with any eye, any finger and any browser.',
+    fr: "Comment La Prida est conçue pour être lue avec n'importe quel œil, n'importe quel doigt et n'importe quel navigateur.",
+    de: 'Wie La Prida gebaut ist, damit sie mit jedem Auge, jedem Finger und jedem Browser lesbar ist.',
+  },
+  quienes: {
+    es: 'Cómo se hace La Prida, de dónde salen las noticias y cómo corregimos.',
+    en: 'How La Prida is made, where the news comes from and how we correct mistakes.',
+    fr: "Comment se fait La Prida, d'où viennent les informations et comment nous corrigeons.",
+    de: 'Wie La Prida entsteht, woher die Nachrichten kommen und wie wir korrigieren.',
+  },
+};
+
+/** El texto de una página fija en el idioma actual, con el español de reserva. */
+const fija = (grupo, castellano) =>
+  estado.idioma === IDIOMA_BASE ? castellano : (FIJAS[grupo]?.[estado.idioma] ?? castellano);
+const descripcionFija = (grupo) => DESCRIPCIONES[grupo][estado.idioma] ?? DESCRIPCIONES[grupo].es;
+
 const FIJAS = {
   quienes: {
     en: `
@@ -285,6 +314,207 @@ Gesponserte Plätze sind immer als solche gekennzeichnet und entscheiden nie dar
 <p>La Prida wird auf Spanisch geschrieben und erscheint außerdem auf Englisch, Französisch und
 Deutsch. Maßgeblich ist die spanische Fassung; die anderen sind maschinelle Übersetzungen, vom System
 geprüft. Wenn ein Beitrag noch nicht übersetzt ist, steht das dabei und ein Link führt zum Spanischen.</p>`,
+  },
+  accesibilidad: {
+    en: `
+<p>La Prida is read at seven in the morning, often with one hand on the cup and half the lights on. If it cannot
+be read comfortably like that, it is no use. These are the commitments, and every one of them can be checked.</p>
+<h2>Colour never travels alone</h2>
+<p>Each council has a colour, but it also has a letter: N for Nava, V for Villaviciosa, CN for Cabranes, P for
+Piloña and CL for Cabrales. The two Cs carry two letters precisely so that telling them apart never depends on
+colour. If you cannot distinguish colours, or your browser is in high-contrast mode, the letter still tells you
+where you are. Nothing on this site is conveyed by colour alone.</p>
+<h2>Contrast and size</h2>
+<p>Body text is 17 pixels with generous line spacing, and every text meets the AA contrast level of WCAG 2.2.
+Each council colour comes in two versions: one for fills and a darker one for when that colour is text on a light
+background. Nava's yellow is never used as lettering on white.</p>
+<h2>Keyboard</h2>
+<p>Everything can be reached with the tab key, the focus is always visible as a three-pixel blue outline, and the
+first jump on the page takes you straight to the content. Buttons and links are at least 44 pixels, which is what
+a finger needs.</p>
+<h2>Motion</h2>
+<p>If you have "reduce motion" switched on in your system, nothing here moves. There are no automatic carousels,
+no windows that jump out, no videos that start on their own.</p>
+<h2>Screen readers</h2>
+<p>Pages use headings in order, labelled regions and alternative text. The diagram of the five councils carries a
+written description, because an undescribed map is a map that excludes.</p>
+<h2>If something breaks</h2>
+<p>Write to us and it gets fixed. An accessibility barrier is a programming error, not a matter of opinion.</p>
+`,
+    fr: `
+<p>La Prida se lit à sept heures du matin, souvent une main sur la tasse et à demi-lumière. Si on ne peut pas la
+lire correctement dans ces conditions, elle ne sert à rien. Voici les engagements, et ils sont tous vérifiables.</p>
+<h2>La couleur ne voyage jamais seule</h2>
+<p>Chaque commune a une couleur, mais aussi une lettre : N pour Nava, V pour Villaviciosa, CN pour Cabranes,
+P pour Piloña et CL pour Cabrales. Les deux « C » portent deux lettres précisément pour que les distinguer ne
+dépende jamais de la couleur. Si vous ne distinguez pas les couleurs, ou si votre navigateur est en mode contraste
+élevé, la lettre vous dit toujours où vous êtes. Aucune information de ce site n'est transmise par la seule couleur.</p>
+<h2>Contraste et taille</h2>
+<p>Le texte courant fait 17 pixels avec un interlignage généreux, et tous les textes respectent le niveau AA des
+règles WCAG 2.2. Chaque couleur de commune existe en deux versions : une pour les aplats et une autre, plus foncée,
+pour quand cette couleur devient du texte sur fond clair. Le jaune de Nava n'est jamais utilisé comme lettrage sur
+du blanc.</p>
+<h2>Clavier</h2>
+<p>Tout se parcourt à la tabulation, le focus est toujours visible par un contour bleu de trois pixels, et le
+premier saut de la page mène directement au contenu. Les boutons et les liens mesurent au moins 44 pixels, ce
+qu'exige un doigt.</p>
+<h2>Mouvement</h2>
+<p>Si vous avez activé « réduire les animations » dans votre système, rien ne bouge ici. Pas de carrousels
+automatiques, pas de fenêtres qui surgissent, pas de vidéos qui démarrent seules.</p>
+<h2>Lecteurs d'écran</h2>
+<p>Les pages utilisent des titres dans l'ordre, des régions balisées et des textes alternatifs. Le schéma des cinq
+communes est accompagné d'une description écrite, parce qu'une carte non décrite est une carte qui exclut.</p>
+<h2>Si quelque chose ne va pas</h2>
+<p>Écrivez-nous et ce sera corrigé. Une barrière d'accessibilité est une erreur de programmation, pas une opinion.</p>
+`,
+    de: `
+<p>La Prida wird um sieben Uhr morgens gelesen, oft mit einer Hand an der Tasse und bei halbem Licht. Wenn sie sich
+so nicht gut lesen lässt, taugt sie nichts. Das sind die Zusagen, und sie sind alle überprüfbar.</p>
+<h2>Farbe steht nie allein</h2>
+<p>Jede Gemeinde hat eine Farbe, aber auch einen Buchstaben: N für Nava, V für Villaviciosa, CN für Cabranes,
+P für Piloña und CL für Cabrales. Die beiden «C» tragen zwei Buchstaben, gerade damit ihre Unterscheidung nie von
+der Farbe abhängt. Wer Farben nicht unterscheidet oder den Browser im hohen Kontrast betreibt, erfährt weiterhin
+über den Buchstaben, wo er ist. Keine Information dieser Seite wird allein über Farbe vermittelt.</p>
+<h2>Kontrast und Größe</h2>
+<p>Der Fließtext ist 17 Pixel groß mit großzügigem Zeilenabstand, und alle Texte erfüllen die Kontraststufe AA der
+WCAG 2.2. Jede Gemeindefarbe gibt es in zwei Fassungen: eine für Flächen und eine dunklere für den Fall, dass die
+Farbe als Text auf hellem Grund erscheint. Navas Gelb wird nie als Schrift auf Weiß verwendet.</p>
+<h2>Tastatur</h2>
+<p>Alles ist mit der Tabulatortaste erreichbar, der Fokus ist stets als drei Pixel breite blaue Umrandung sichtbar,
+und der erste Sprung auf der Seite führt direkt zum Inhalt. Schaltflächen und Links messen mindestens 44 Pixel,
+so viel braucht ein Finger.</p>
+<h2>Bewegung</h2>
+<p>Wenn in Ihrem System «Bewegung reduzieren» aktiv ist, bewegt sich hier nichts. Keine automatischen Karussells,
+keine aufspringenden Fenster, keine Videos, die von selbst starten.</p>
+<h2>Screenreader</h2>
+<p>Die Seiten verwenden Überschriften in der richtigen Reihenfolge, ausgezeichnete Regionen und Alternativtexte.
+Das Schema der fünf Gemeinden hat eine geschriebene Beschreibung, denn eine unbeschriebene Karte ist eine Karte,
+die ausschließt.</p>
+<h2>Wenn etwas nicht funktioniert</h2>
+<p>Schreiben Sie uns, und es wird behoben. Eine Barriere ist ein Programmierfehler, keine Meinungsfrage.</p>
+`,
+  },
+  legal: {
+    en: `
+<h2>Who runs this</h2>
+<p>This website is a local news project covering the councils of Piloña, Nava, Cabranes, Cabrales and Villaviciosa.
+For anything to do with this site, write to the contact address given in the footer.</p>
+<h2>Content and sources</h2>
+<p>The pieces published here are written from scratch, based on information from public sources (official gazettes,
+councils, public bodies) and from news media, which are named and linked explicitly at the foot of each piece. We do
+not reproduce anyone else's text: we report the same fact in our own words. Where a third party's exact wording is
+used, it appears in quotation marks and attributed to whoever said it, under the right of quotation in article 32 of
+the Spanish Intellectual Property Act.</p>
+<p>Before publication, every piece passes an automatic check that compares its text against the source and blocks
+anything sharing runs of consecutive words with it.</p>
+<h2>Images</h2>
+<p>Photographs come from free-content repositories, chiefly Wikimedia Commons, and are published with the credit,
+the licence and a link to the original beneath each image. We do not use photographs belonging to the media the
+information came from, not even hotlinked from their servers. When no suitable free image exists, the site publishes
+an illustration it generates itself, which is original work.</p>
+<p>The typefaces used (Bricolage Grotesque, Inter and Martian Mono) are distributed under the SIL Open Font License 1.1,
+which permits commercial use. The logo and the illustrations are original to this site.</p>
+<h2>Taking content down</h2>
+<p>If you hold rights over any content and feel its use here is not appropriate, write to the contact address and we
+will remove or amend it without delay and without asking for explanations. The same applies if you are a news outlet
+and would rather we stopped reading your feed.</p>
+<h2>Data protection</h2>
+<p>No personal data is collected beyond what you send voluntarily when subscribing to the newsletter (your email
+address) or writing to us. That data is used only to send you the newsletter or to reply to you, is not passed to
+third parties, and you may ask for its deletion at any time by writing to the contact address.</p>
+<h2>Cookies</h2>
+<p>We use technical cookies necessary for the site to work and to remember your preferences (night mode, for
+example), which are stored only in your browser. If you accept, we also use third-party cookies for audience
+measurement and advertising. You can change your mind by clearing this site's data in your browser.</p>
+<h2>Advertising</h2>
+<p>Advertising space and sponsored content are always identified as such. Advertising plays no part in choosing or
+writing the news pieces.</p>
+<h2>Liability</h2>
+<p>Every care is taken over the accuracy of what is published, but information may contain errors or fall out of
+date. Links to external sites are offered for information and imply no responsibility for their content.</p>
+`,
+    fr: `
+<h2>Qui édite ce site</h2>
+<p>Ce site est un projet d'information locale portant sur les communes de Piloña, Nava, Cabranes, Cabrales et
+Villaviciosa. Pour toute question relative à ce site, écrivez à l'adresse de contact figurant en pied de page.</p>
+<h2>Contenus et sources</h2>
+<p>Les articles publiés sont des textes rédigés par nos soins, à partir d'informations de sources publiques
+(bulletins officiels, mairies, organismes) et de médias, qui sont cités et liés explicitement au bas de chaque
+article. Nous ne reproduisons pas le texte d'autrui : nous rapportons le même fait avec nos propres mots. Lorsqu'une
+formulation exacte d'un tiers est reprise, elle est entre guillemets et attribuée à son auteur, au titre du droit de
+citation de l'article 32 de la loi espagnole sur la propriété intellectuelle.</p>
+<p>Avant publication, chaque article passe un contrôle automatique qui compare son texte à celui de la source et
+bloque ceux qui partageraient des suites de mots avec elle.</p>
+<h2>Images</h2>
+<p>Les photographies proviennent de dépôts de contenu libre, principalement Wikimedia Commons, et sont publiées avec
+le crédit, la licence et le lien vers l'original sous chaque image. Nous n'utilisons pas les photographies des médias
+dont provient l'information, pas même en lien depuis leur serveur. Quand aucune image libre ne convient, le site
+publie une illustration qu'il génère lui-même, et qui est une œuvre originale.</p>
+<p>Les polices employées (Bricolage Grotesque, Inter et Martian Mono) sont distribuées sous licence SIL Open Font
+License 1.1, qui autorise l'usage commercial. Le logotype et les illustrations sont une création propre à ce site.</p>
+<h2>Retrait de contenus</h2>
+<p>Si vous détenez des droits sur un contenu et estimez que son usage ici n'est pas approprié, écrivez à l'adresse de
+contact : nous le retirerons ou le modifierons sans délai et sans demander d'explications. De même si vous êtes un
+média et préférez que nous cessions de suivre votre fil d'actualité.</p>
+<h2>Protection des données</h2>
+<p>Aucune donnée personnelle n'est collectée en dehors de celles que vous envoyez volontairement en vous abonnant à
+la lettre d'information (votre adresse électronique) ou en nous écrivant. Ces données servent uniquement à vous
+envoyer la lettre ou à vous répondre, ne sont pas cédées à des tiers, et vous pouvez en demander la suppression à
+tout moment en écrivant à l'adresse de contact.</p>
+<h2>Cookies</h2>
+<p>Nous utilisons des cookies techniques nécessaires au fonctionnement du site et à la mémorisation de vos
+préférences (le mode nuit, par exemple), conservés uniquement dans votre navigateur. Si vous acceptez, nous
+employons en outre des cookies tiers de mesure d'audience et de publicité. Vous pouvez revenir sur votre choix en
+effaçant les données de ce site dans votre navigateur.</p>
+<h2>Publicité</h2>
+<p>Les espaces publicitaires et les contenus sponsorisés sont toujours identifiés comme tels. La publicité
+n'intervient ni dans le choix ni dans la rédaction des articles d'information.</p>
+<h2>Responsabilité</h2>
+<p>Le plus grand soin est apporté à l'exactitude de ce qui est publié, mais l'information peut comporter des erreurs
+ou vieillir. Les liens vers des sites externes sont fournis à titre indicatif et n'impliquent aucune responsabilité
+quant à leur contenu.</p>
+`,
+    de: `
+<h2>Verantwortlich</h2>
+<p>Diese Website ist ein lokales Informationsprojekt über die Gemeinden Piloña, Nava, Cabranes, Cabrales und
+Villaviciosa. Für alles, was diese Seite betrifft, schreiben Sie an die im Fußbereich angegebene Kontaktadresse.</p>
+<h2>Inhalte und Quellen</h2>
+<p>Die veröffentlichten Beiträge sind selbst verfasste Texte, erstellt auf Grundlage öffentlicher Quellen
+(Amtsblätter, Gemeinden, Behörden) und von Medien, die am Fuß jedes Beitrags ausdrücklich genannt und verlinkt
+werden. Wir geben keine fremden Texte wieder: Wir berichten denselben Sachverhalt mit eigenen Worten. Wird der
+genaue Wortlaut eines Dritten übernommen, steht er in Anführungszeichen und wird dem Urheber zugeschrieben, gestützt
+auf das Zitatrecht nach Artikel 32 des spanischen Urheberrechtsgesetzes.</p>
+<p>Vor der Veröffentlichung durchläuft jeder Beitrag eine automatische Prüfung, die seinen Text mit der Quelle
+vergleicht und alles blockiert, was zusammenhängende Wortfolgen mit ihr teilt.</p>
+<h2>Bilder</h2>
+<p>Die Fotografien stammen aus Repositorien freier Inhalte, vor allem Wikimedia Commons, und werden mit Urhebernennung,
+Lizenz und Link zum Original unter jedem Bild veröffentlicht. Fotos der Medien, aus denen die Information stammt,
+werden nicht verwendet, auch nicht von deren Server eingebunden. Gibt es kein geeignetes freies Bild, veröffentlicht
+die Seite eine selbst erzeugte Illustration, die ein eigenes Werk ist.</p>
+<p>Die verwendeten Schriften (Bricolage Grotesque, Inter und Martian Mono) stehen unter der SIL Open Font License 1.1,
+die kommerzielle Nutzung erlaubt. Logo und Illustrationen sind eigene Schöpfungen dieser Seite.</p>
+<h2>Entfernung von Inhalten</h2>
+<p>Wenn Sie Rechte an einem Inhalt halten und seine Verwendung hier für unangemessen halten, schreiben Sie an die
+Kontaktadresse: Wir entfernen oder ändern ihn unverzüglich und ohne Nachfragen. Dasselbe gilt, wenn Sie ein Medium
+sind und lieber möchten, dass wir Ihren Nachrichtenkanal nicht mehr auswerten.</p>
+<h2>Datenschutz</h2>
+<p>Es werden keine personenbezogenen Daten erhoben außer denen, die Sie freiwillig beim Abonnieren des Newsletters
+(Ihre E-Mail-Adresse) oder beim Schreiben an uns übermitteln. Diese Daten dienen ausschließlich dem Versand des
+Newsletters oder der Antwort an Sie, werden nicht an Dritte weitergegeben, und Sie können ihre Löschung jederzeit
+unter der Kontaktadresse verlangen.</p>
+<h2>Cookies</h2>
+<p>Wir verwenden technische Cookies, die für den Betrieb der Seite und das Merken Ihrer Einstellungen nötig sind
+(etwa den Nachtmodus); sie werden nur in Ihrem Browser gespeichert. Wenn Sie zustimmen, setzen wir zusätzlich
+Cookies Dritter zur Reichweitenmessung und für Werbung ein. Sie können Ihre Entscheidung ändern, indem Sie die Daten
+dieser Seite in Ihrem Browser löschen.</p>
+<h2>Werbung</h2>
+<p>Werbeflächen und gesponserte Inhalte werden stets als solche gekennzeichnet. Werbung hat keinen Einfluss auf die
+Auswahl oder die Abfassung der redaktionellen Beiträge.</p>
+<h2>Haftung</h2>
+<p>Auf die Richtigkeit des Veröffentlichten wird größte Sorgfalt verwendet, doch können Informationen Fehler
+enthalten oder veralten. Links zu externen Seiten dienen der Information und begründen keine Verantwortung für
+deren Inhalte.</p>
+`,
   },
 };
 
@@ -495,9 +725,9 @@ async function main() {
       'quienes-somos/index.html',
       paginaTexto({
         titulo: T('quienesSomos'),
-        descripcion: 'Cómo se hace La Prida, de dónde salen las noticias y cómo corregimos.',
+        descripcion: descripcionFija('quienes'),
         url: '/quienes-somos/',
-        html: estado.idioma === IDIOMA_BASE ? QUIENES : (FIJAS.quienes[estado.idioma] ?? QUIENES),
+        html: fija('quienes', QUIENES),
         activo: 'quienes-somos',
         cuentas,
       })
@@ -506,9 +736,9 @@ async function main() {
       'aviso-legal/index.html',
       paginaTexto({
         titulo: T('avisoLegal'),
-        descripcion: 'Titularidad, fuentes, protección de datos, cookies y publicidad de La Prida.',
+        descripcion: descripcionFija('legal'),
         url: '/aviso-legal/',
-        html: LEGAL,
+        html: fija('legal', LEGAL),
         cuentas,
       })
     );
@@ -517,9 +747,9 @@ async function main() {
       'accesibilidad/index.html',
       paginaTexto({
         titulo: T('accesibilidad'),
-        descripcion: 'Cómo está pensada La Prida para que se pueda leer con cualquier ojo, cualquier dedo y cualquier navegador.',
+        descripcion: descripcionFija('accesibilidad'),
         url: '/accesibilidad/',
-        html: ACCESIBILIDAD,
+        html: fija('accesibilidad', ACCESIBILIDAD),
         cuentas,
       })
     );

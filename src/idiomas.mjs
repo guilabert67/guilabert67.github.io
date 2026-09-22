@@ -55,6 +55,30 @@ export function ruta(idioma, camino = '/') {
 
 // ── Textos de la interfaz ───────────────────────────────────────────────────
 // Traducidos a mano, no a máquina. Si añades una clave, ponla en los cuatro.
+/**
+ * El nombre de cada tipo de plan, en los cuatro idiomas. El icono no basta:
+ * un emoji no lo lee un lector de pantalla ni lo entiende todo el mundo igual,
+ * así que el sello siempre lleva el nombre escrito, y escrito en su idioma.
+ */
+export const nombresTipo = {
+  concierto: { en: 'Live music', fr: 'Concert', de: 'Konzert' },
+  escena: { en: 'Theatre and dance', fr: 'Théâtre et danse', de: 'Theater und Tanz' },
+  cine: { en: 'Cinema', fr: 'Cinéma', de: 'Kino' },
+  expo: { en: 'Exhibition', fr: 'Exposition', de: 'Ausstellung' },
+  feria: { en: 'Fair and contest', fr: 'Foire et concours', de: 'Messe und Wettbewerb' },
+  mercado: { en: 'Market and brocante', fr: 'Marché et brocante', de: 'Markt und Trödel' },
+  fiesta: { en: 'Village festival', fr: 'Fête et pèlerinage', de: 'Dorffest und Wallfahrt' },
+  gastro: { en: 'Food and drink', fr: 'Gastronomie', de: 'Essen und Trinken' },
+  letras: { en: 'Talks and books', fr: 'Rencontres et livres', de: 'Vorträge und Bücher' },
+  taller: { en: 'Workshops and courses', fr: 'Ateliers et cours', de: 'Workshops und Kurse' },
+};
+
+/** El nombre del tipo en el idioma pedido, con el español de reserva. */
+export function nombreTipoEn(slug, nombreEs, idioma = IDIOMA_BASE) {
+  if (idioma === IDIOMA_BASE) return nombreEs;
+  return nombresTipo[slug]?.[idioma] ?? nombreEs;
+}
+
 export const textos = {
   es: {
     lema: 'Diario de la mañana · cinco concejos, una línea',
