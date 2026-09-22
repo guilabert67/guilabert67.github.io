@@ -1,0 +1,19 @@
+{
+  "name": "la-prida",
+  "version": "1.0.0",
+  "private": true,
+  "description": "El diario de la mañana de Piloña, Nava, Cabrales y Villaviciosa. Generador estático sin dependencias.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "ingesta": "node scripts/ingesta.mjs",
+    "ingesta:sin-ia": "node scripts/ingesta.mjs --sin-ia",
+    "fotos": "node scripts/fotos.mjs",
+    "build": "node build.mjs",
+    "diario": "npm run ingesta && npm run fotos && npm run build",
+    "ver": "node build.mjs && node scripts/servidor.mjs",
+    "vista-previa": "node build.mjs && node scripts/empaquetar.mjs"
+  }
+}

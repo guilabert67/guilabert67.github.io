@@ -1,0 +1,465 @@
+<title>Ganar dinero con La Prida</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style id="css">
+:root {
+  color-scheme: light dark;
+  --papel: #fbf7f0; --papel-2: #f4eee3; --papel-3: #ece4d5;
+  --tinta: #17150f; --tinta-2: #56503f; --tinta-3: #857c67;
+  --linea: #e2d8c5; --linea-fuerte: #cdc0a7;
+  --rojo: #c4361f; --verde: #2f6f4e; --verde-hondo: #1c4a33; --dorado: #b8860b;
+  --neg-fondo: #17150f; --neg-texto: #fbf7f0;
+  --display: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+  --texto: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --radio: 4px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papel: #14120d; --papel-2: #1c1a14; --papel-3: #26231a;
+    --tinta: #f4efe4; --tinta-2: #b9b1a0; --tinta-3: #8b8474;
+    --linea: #332f24; --linea-fuerte: #4a4433;
+    --rojo: #e8674f; --verde: #6cc79a; --verde-hondo: #163d2a; --dorado: #e0ac3c;
+    --neg-fondo: #241f16; --neg-texto: #f4efe4;
+  }
+}
+:root[data-theme="dark"] {
+  --papel: #14120d; --papel-2: #1c1a14; --papel-3: #26231a;
+  --tinta: #f4efe4; --tinta-2: #b9b1a0; --tinta-3: #8b8474;
+  --linea: #332f24; --linea-fuerte: #4a4433;
+  --rojo: #e8674f; --verde: #6cc79a; --verde-hondo: #163d2a; --dorado: #e0ac3c;
+  --neg-fondo: #241f16; --neg-texto: #f4efe4;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--papel); color: var(--tinta);
+  font-family: var(--texto); font-size: 16.5px; line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+.env { max-width: 860px; margin-inline: auto; padding: 0 20px 80px; }
+
+.portico { padding: 46px 0 8px; }
+.eyebrow {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--verde-hondo);
+}
+.eyebrow::before { content: ''; width: 9px; height: 9px; border-radius: 50%; background: var(--verde); }
+h1 {
+  font-family: var(--display); font-weight: 900;
+  font-size: clamp(32px, 6vw, 52px); line-height: 1.03; letter-spacing: -0.03em;
+  margin: 14px 0 14px; text-wrap: balance; max-width: 17ch;
+}
+.entradilla {
+  font-family: var(--display); font-size: clamp(18px, 2.4vw, 21px);
+  line-height: 1.5; color: var(--tinta-2); margin: 0; max-width: 58ch;
+}
+
+.avance {
+  position: sticky; top: 0; z-index: 20;
+  background: var(--papel); border-bottom: 1px solid var(--linea);
+  margin: 34px 0 0; padding: 12px 0;
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+}
+.avance__cifra {
+  font-family: var(--display); font-weight: 900; font-size: 15px;
+  letter-spacing: 0.02em; white-space: nowrap;
+}
+.avance__barra {
+  flex: 1 1 180px; height: 8px; border-radius: 999px;
+  background: var(--papel-3); overflow: hidden; min-width: 140px;
+}
+.avance__hecho { height: 100%; background: var(--verde); border-radius: 999px; transition: width .3s ease; }
+.avance__nota { font-size: 12px; color: var(--tinta-3); }
+
+.semana { margin-top: 46px; }
+.semana__cab { display: flex; align-items: baseline; gap: 14px; margin-bottom: 6px; }
+.semana__num {
+  font-family: var(--display); font-weight: 900; font-size: 13px;
+  letter-spacing: 0.16em; text-transform: uppercase; color: var(--verde-hondo); white-space: nowrap;
+}
+.semana__regla { flex: 1; height: 1px; background: var(--linea-fuerte); }
+.semana__titulo {
+  font-family: var(--display); font-weight: 900;
+  font-size: clamp(22px, 3.4vw, 28px); line-height: 1.15;
+  letter-spacing: -0.02em; margin: 0 0 6px;
+}
+.semana__meta { font-size: 15px; color: var(--tinta-2); margin: 0 0 22px; max-width: 60ch; }
+
+.tarea {
+  display: grid; grid-template-columns: 30px 1fr; gap: 14px;
+  padding: 18px 0; border-top: 1px solid var(--linea); align-items: start;
+}
+.tarea:first-of-type { border-top: 0; }
+.tick {
+  appearance: none; -webkit-appearance: none; margin: 2px 0 0;
+  width: 24px; height: 24px; border: 2px solid var(--linea-fuerte);
+  border-radius: 6px; background: var(--papel); cursor: pointer;
+  display: grid; place-items: center; flex: none; transition: all .15s ease;
+}
+.tick:hover { border-color: var(--verde); }
+.tick:focus-visible { outline: 3px solid var(--verde); outline-offset: 2px; }
+.tick:checked { background: var(--verde); border-color: var(--verde); }
+.tick:checked::after {
+  content: ''; width: 11px; height: 6px;
+  border-left: 2.5px solid #fff; border-bottom: 2.5px solid #fff;
+  transform: rotate(-45deg) translate(1px, -1px);
+}
+.tarea__cuerpo { min-width: 0; }
+.tarea__que {
+  font-family: var(--display); font-weight: 700; font-size: 18.5px;
+  line-height: 1.28; margin: 0 0 4px; cursor: pointer;
+}
+.tarea--hecha .tarea__que { text-decoration: line-through; color: var(--tinta-3); }
+.tarea--hecha .tarea__como { opacity: .55; }
+.tarea__como { font-size: 15px; color: var(--tinta-2); margin: 0; }
+.tarea__ojo {
+  margin: 9px 0 0; font-size: 14px; line-height: 1.5;
+  background: color-mix(in srgb, var(--dorado) 13%, transparent);
+  border-left: 3px solid var(--dorado); padding: 9px 12px; border-radius: 0 3px 3px 0;
+}
+.tarea__ojo b { font-weight: 700; }
+.tarea__pie { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 9px; align-items: center; }
+.tarea__enlace {
+  font-size: 13px; font-weight: 600; color: var(--verde-hondo);
+  text-decoration: none; border-bottom: 1px solid currentColor;
+}
+.tarea__enlace:hover { color: var(--tinta); }
+.pega {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 12px; background: var(--papel-3); color: var(--tinta-2);
+  padding: 3px 8px; border-radius: 3px; word-break: break-all;
+}
+.coste {
+  font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 3px 9px; border-radius: 999px; white-space: nowrap;
+}
+.coste--gratis { background: color-mix(in srgb, var(--verde) 15%, transparent); color: var(--verde); }
+.coste--paga { background: color-mix(in srgb, var(--dorado) 20%, transparent); color: var(--dorado); }
+
+.guion {
+  margin: 52px 0 0; border-left: 4px solid var(--verde);
+  background: var(--papel-2); border-radius: 0 var(--radio) var(--radio) 0;
+  padding: 26px clamp(20px, 4vw, 32px) 28px;
+}
+.guion h2 {
+  font-family: var(--display); font-weight: 900; font-size: 22px;
+  margin: 0 0 4px; letter-spacing: -0.01em;
+}
+.guion__nota { font-size: 14px; color: var(--tinta-2); margin: 0 0 20px; }
+.linea { margin: 0 0 18px; }
+.linea__quien {
+  font-size: 11px; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--tinta-3); display: block; margin-bottom: 4px;
+}
+.linea__dice {
+  font-family: var(--display); font-size: 17px; line-height: 1.5; margin: 0;
+  padding-left: 14px; border-left: 2px solid var(--linea-fuerte);
+}
+.linea--tu .linea__dice { border-left-color: var(--verde); }
+
+.tabla-envoltorio { overflow-x: auto; margin: 22px 0 0; }
+table { border-collapse: collapse; width: 100%; min-width: 460px; font-size: 15px; }
+th, td { text-align: left; padding: 11px 14px 11px 0; border-bottom: 1px solid var(--linea); }
+th {
+  font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--tinta-3); border-bottom: 2px solid var(--tinta);
+}
+td:not(:first-child), th:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+tfoot td { font-weight: 700; border-bottom: 0; border-top: 2px solid var(--tinta); }
+
+.cierre {
+  margin: 52px 0 0; background: var(--neg-fondo); color: var(--neg-texto);
+  border-radius: var(--radio); padding: 28px clamp(20px, 4vw, 34px);
+}
+.cierre h2 { font-family: var(--display); font-weight: 900; font-size: 22px; margin: 0 0 10px; }
+.cierre p { margin: 0 0 10px; opacity: .86; font-size: 15.5px; max-width: 62ch; }
+.cierre p:last-child { margin-bottom: 0; }
+
+.aviso-guardado {
+  position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: 20px; z-index: 40;
+  background: var(--neg-fondo); color: var(--neg-texto);
+  padding: 10px 18px; border-radius: 999px; font-size: 13.5px;
+  box-shadow: 0 8px 30px -10px rgba(0,0,0,.5); opacity: 0; pointer-events: none;
+  transition: opacity .25s ease;
+}
+.aviso-guardado[data-visible="si"] { opacity: 1; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="env" id="raiz"></div>
+<div class="aviso-guardado" id="aviso"></div>
+
+<script id="estado" type="application/json">
+{"hechas":[]}
+</script>
+
+<script id="app">
+(function () {
+  var PLAN = [
+    {
+      semana: 'Semana 1',
+      titulo: 'Encender la máquina',
+      meta: 'Esto es lo único que no puedo hacer yo, porque hace falta entrar con tu cuenta. Son unos veinte minutos, una sola vez. Cuando acabes, el diario se publica solo a las 07:00, las 14:00 y las 20:00 aunque tengas el ordenador apagado.',
+      tareas: [
+        { id: 'cuenta', que: 'Tener cuenta en GitHub',
+          como: 'Si ya tienes, entra y pasa a la siguiente. Si no, se crea en dos minutos y es gratis. Apunta bien tu nombre de usuario: lo necesitas en el paso siguiente.',
+          enlace: { texto: 'github.com/signup', url: 'https://github.com/signup' },
+          coste: 'gratis' },
+        { id: 'repo', que: 'Crear el repositorio con el nombre exacto',
+          como: 'Botón "New repository". En "Repository name" escribe tu usuario seguido de .github.io — por ejemplo, si tu usuario es guilabert67, el repositorio se llama guilabert67.github.io. Márcalo como Public y créalo vacío, sin README.',
+          ojo: 'El nombre tiene que ser EXACTAMENTE ese. Con cualquier otro nombre, GitHub sirve la web dentro de una subcarpeta y se rompen todos los enlaces, las fotos y los cuatro idiomas. El flujo comprueba el nombre y se para con un aviso claro si no cuadra, así que no vas a romper nada sin enterarte.',
+          enlace: { texto: 'github.com/new', url: 'https://github.com/new' },
+          coste: 'gratis' },
+        { id: 'subir', que: 'Subir la carpeta del proyecto',
+          como: 'Descomprime laprida-paquete.tgz. En el repositorio recién creado pincha en "uploading an existing file" y arrastra TODO el contenido de la carpeta (no la carpeta, lo de dentro). Incluida la carpeta oculta .github, que es la que lleva las instrucciones de publicación.',
+          pega: 'tar xzf laprida-paquete.tgz --overwrite', coste: 'gratis' },
+        { id: 'pages', que: 'Encender GitHub Pages',
+          como: 'Settings → Pages → en "Source" elige "GitHub Actions". Nada más. La web queda en https://tu-usuario.github.io y el certificado de seguridad lo pone GitHub solo.',
+          coste: 'gratis' },
+        { id: 'probar', que: 'Lanzar la primera edición a mano',
+          como: 'Pestaña Actions → "Ediciones de La Prida" → botón "Run workflow". En un par de minutos tienes la web publicada. A partir de ahí sale sola tres veces al día y no hay que volver a entrar.',
+          coste: 'gratis' },
+        { id: 'clave', que: 'Decidir si la IA redacta y traduce',
+          como: 'Con una clave de API en Settings → Secrets and variables → Actions → New repository secret, con el nombre ANTHROPIC_API_KEY, cada pieza se reescribe con voz propia y se traduce sola al inglés, francés y alemán. Sin clave, el diario sigue publicando: agrega titular, extracto y enlace, y las versiones extranjeras avisan de que el texto está en español.',
+          coste: 'paga', costeTexto: '0 € o ~3 €/mes' },
+        { id: 'searchconsole', que: 'Dar de alta el sitio en Search Console',
+          como: 'Verifica el sitio y envía el sitemap (tu-usuario.github.io/sitemap.xml). Es lo que hace que Google encuentre las piezas el mismo día, y ya va preparado con las cuatro versiones de idioma declaradas.',
+          enlace: { texto: 'search.google.com/search-console', url: 'https://search.google.com/search-console' },
+          pega: 'src/config.mjs → verificacion.google', coste: 'gratis' },
+        { id: 'dominio', que: 'Dominio propio — más adelante',
+          como: 'La dirección de GitHub funciona perfectamente y no cuesta nada. Un dominio propio da mejor imagen, pero no corre prisa y no aporta nada que no tengas ya.',
+          ojo: 'Antes de pagar un dominio, pregunta al GDR si esa compra puede leerse como inicio del proyecto de la casa rural. La ayuda LEADER exige el certificado de no inicio, la casa está en standby y la web se llama igual. Mientras haya duda, la dirección gratuita no bloquea nada.',
+          coste: 'paga', costeTexto: '~12 €/año' }
+      ]
+    },
+    {
+      semana: 'Semana 2',
+      titulo: 'El boletín y los vecinos',
+      meta: 'El correo de la mañana es tu activo más valioso: un negocio paga bastante más por estar en un correo que abren 800 vecinos que por mil impresiones anónimas.',
+      tareas: [
+        { id: 'mailerlite', que: 'Abrir cuenta de boletín',
+          como: 'MailerLite es gratis hasta 1.000 suscriptores y 12.000 envíos al mes. Crea un formulario de suscripción y copia la URL a la que envía.',
+          enlace: { texto: 'mailerlite.com', url: 'https://www.mailerlite.com' },
+          pega: 'src/config.mjs → boletin.accion y boletin.campoCorreo', coste: 'gratis' },
+        { id: 'facebook', que: 'Crear la página y entrar en los grupos de los cuatro concejos',
+          como: 'En Asturias la vida vecinal online está en los grupos de Facebook de cada concejo. Pide entrar en los de Piloña, Nava, Cabrales y Villaviciosa, y preséntate sin vender nada.',
+          coste: 'gratis' },
+        { id: 'rutina', que: 'Publicar El Despertador cada mañana en esos grupos',
+          como: 'Diez minutos al día: copias las tres líneas del Despertador y pones el enlace. Es la distribución más barata que existe y la que trae a los primeros lectores fieles.',
+          coste: 'gratis' },
+        { id: 'primeros', que: 'Llegar a 100 suscriptores antes de vender nada',
+          como: 'Con 100 correos ya puedes enseñar una cifra a un anunciante. Sin cifra, la conversación es mucho más cuesta arriba.',
+          coste: 'gratis' }
+      ]
+    },
+    {
+      semana: 'Semana 3',
+      titulo: 'Los diez primeros patrocinadores',
+      meta: 'Aquí está el dinero de verdad. No hace falta tráfico enorme: hace falta que el dueño del llagar vea su nombre donde lo ven sus vecinos.',
+      tareas: [
+        { id: 'lista', que: 'Hacer la lista de veinte negocios',
+          como: 'Llagares de Nava y Villaviciosa, queserías de Cabrales, hoteles y casas rurales, sidrerías, ferreterías, talleres, la inmobiliaria del pueblo, la clínica dental. Nombre, teléfono y concejo.',
+          ojo: 'Las casas rurales de la zona son competencia directa de la tuya. O las dejas fuera de la lista, o las tratas exactamente igual que a las demás y lo dices. Lo que no puede pasar es que un vecino note el trato desigual.',
+          coste: 'gratis' },
+        { id: 'llamadas', que: 'Llamar a los diez primeros con el guion de abajo',
+          como: 'Diez llamadas en una mañana. Cuentas con que siete digan que no. Con dos que digan que sí ya tienes 70 € al mes recurrentes.',
+          coste: 'gratis' },
+        { id: 'alta', que: 'Dar de alta a los que digan que sí',
+          como: 'Cada patrocinador es tres líneas en la configuración: título, frase, enlace y hasta cuándo. Al pasar la fecha desaparece solo, sin que tengas que acordarte.',
+          pega: 'src/config.mjs → anuncios.patrocinios', coste: 'gratis' },
+        { id: 'renovar', que: 'Apuntar en el calendario la renovación a los 25 días',
+          como: 'Renovar a un patrocinador contento cuesta una llamada de dos minutos. Perderlo por no llamar cuesta un mes entero.',
+          coste: 'gratis' }
+      ]
+    },
+    {
+      semana: 'Semana 4',
+      titulo: 'Lo que entra solo',
+      meta: 'Ingresos que no requieren llamar a nadie. Son los más pequeños, pero se cobran mientras duermes y no dan trabajo una vez puestos.',
+      tareas: [
+        { id: 'adsense', que: 'Solicitar AdSense',
+          como: 'Pídelo cuando lleves un mes publicando a diario: necesitan contenido original y páginas legales, que ya tienes. Al aprobarte, pega tu ca-pub y los IDs de bloque; el ads.txt se genera solo.',
+          enlace: { texto: 'adsense.google.com', url: 'https://adsense.google.com' },
+          pega: 'src/config.mjs → anuncios.adsense + activo: true', coste: 'gratis' },
+        { id: 'booking', que: 'Alta en Booking Partner y GetYourGuide',
+          como: 'Gratis y sin tráfico mínimo. Quien busca dónde dormir en Cabrales o qué hacer en Villaviciosa ya viene decidido: convierte mucho mejor que la publicidad normal.',
+          enlace: { texto: 'Booking Partner', url: 'https://www.booking.com/affiliate-program/v2/index.html' },
+          pega: 'src/config.mjs → afiliados.programas', coste: 'gratis' },
+        { id: 'civitatis', que: 'Alta en Civitatis y Amazon Afiliados',
+          como: 'Civitatis paga bien las excursiones del norte. Amazon sirve para el queso, la sidra y los libros de Asturias. Los dos son gratis.',
+          enlace: { texto: 'Civitatis Afiliados', url: 'https://www.civitatis.com/es/afiliados/' },
+          coste: 'gratis' },
+        { id: 'guias', que: 'Escribir cuatro guías que no caduquen',
+          como: '«Cómo subir a Bulnes», «Qué ver en Villaviciosa en un día», «Dónde comprar Cabrales de verdad» y «Todas las fiestas del año en los cuatro concejos». Son las páginas que traen visitas todo el año y donde viven los enlaces de afiliado.',
+          pega: 'usa bloqueAfiliado() en las plantillas', coste: 'gratis' }
+      ]
+    }
+  ];
+
+  var GUION = [
+    { quien: 'Tú', dice: 'Buenos días, ¿hablo con el llagar? Soy Emilio, de La Prida, el diario de la mañana de Piloña, Nava, Cabrales y Villaviciosa.', tuyo: true },
+    { quien: 'Tú', dice: 'Llamo por una cosa concreta y en dos minutos. Publicamos cada mañana lo que pasa en los cuatro concejos, y la gente lo lee desayunando. Tenemos sitio para un patrocinador por concejo.', tuyo: true },
+    { quien: 'Él', dice: '¿Y eso cuánto cuesta?' },
+    { quien: 'Tú', dice: 'Treinta y cinco euros al mes, sin permanencia. Sale su nombre, una frase y el enlace, en todas las páginas de su concejo. Si un mes no le compensa, me avisa y lo quitamos.', tuyo: true },
+    { quien: 'Él', dice: '¿Y cuánta gente lo lee?' },
+    { quien: 'Tú', dice: 'Ahora mismo estamos empezando: le digo la cifra real, sin inflarla. Por eso el precio es este y por eso le interesa entrar ahora, que se queda con el sitio bueno.', tuyo: true },
+    { quien: 'Él', dice: 'Déjame pensarlo.' },
+    { quien: 'Tú', dice: 'Claro. Le hago una cosa: se lo pongo una semana gratis para que lo vea funcionando, y el lunes que viene me dice. ¿Le paso el enlace por WhatsApp?', tuyo: true }
+  ];
+
+  var INGRESOS = [
+    ['Patrocinios locales', '0 €', '140 €', '350 €'],
+    ['Boletín patrocinado', '0 €', '25 €', '100 €'],
+    ['Afiliación turística', '0 €', '20 €', '120 €'],
+    ['AdSense', '0 €', '15 €', '60 €'],
+    ['Esquelas y avisos', '0 €', '0 €', '45 €']
+  ];
+
+  var raiz = document.getElementById('raiz');
+  var aviso = document.getElementById('aviso');
+  var estado = JSON.parse(document.getElementById('estado').textContent);
+  var hechas = new Set(estado.hechas || []);
+  var artifact = null;
+  var pendiente = null;
+
+  function total() {
+    return PLAN.reduce(function (n, s) { return n + s.tareas.length; }, 0);
+  }
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function pintar() {
+    var hechoN = 0;
+    PLAN.forEach(function (s) {
+      s.tareas.forEach(function (t) { if (hechas.has(t.id)) hechoN++; });
+    });
+    var pct = Math.round((hechoN / total()) * 100);
+
+    var html = '';
+    html += '<header class="portico">' +
+      '<span class="eyebrow">Plan de La Prida</span>' +
+      '<h1>Ganar dinero con La Prida</h1>' +
+      '<p class="entradilla">Cuatro semanas. La primera son veinte minutos de encender la máquina; el resto es tiempo y llamadas de teléfono. Gasto obligatorio: cero.</p>' +
+      '</header>';
+
+    html += '<div class="avance">' +
+      '<span class="avance__cifra">' + hechoN + ' de ' + total() + ' hechas</span>' +
+      '<span class="avance__barra"><span class="avance__hecho" style="width:' + pct + '%"></span></span>' +
+      '<span class="avance__nota">Se guarda solo al marcar</span>' +
+      '</div>';
+
+    PLAN.forEach(function (s) {
+      html += '<section class="semana">' +
+        '<div class="semana__cab"><span class="semana__num">' + esc(s.semana) + '</span><span class="semana__regla"></span></div>' +
+        '<h2 class="semana__titulo">' + esc(s.titulo) + '</h2>' +
+        '<p class="semana__meta">' + esc(s.meta) + '</p>';
+      s.tareas.forEach(function (t) {
+        var hecha = hechas.has(t.id);
+        html += '<div class="tarea' + (hecha ? ' tarea--hecha' : '') + '">' +
+          '<input class="tick" type="checkbox" id="t-' + esc(t.id) + '" data-id="' + esc(t.id) + '"' + (hecha ? ' checked' : '') + '>' +
+          '<div class="tarea__cuerpo">' +
+          '<label class="tarea__que" for="t-' + esc(t.id) + '">' + esc(t.que) + '</label>' +
+          '<p class="tarea__como">' + esc(t.como) + '</p>' +
+          (t.ojo ? '<p class="tarea__ojo"><b>Ojo:</b> ' + esc(t.ojo) + '</p>' : '') +
+          '<div class="tarea__pie">' +
+          '<span class="coste coste--' + (t.coste === 'paga' ? 'paga' : 'gratis') + '">' +
+          esc(t.coste === 'paga' ? (t.costeTexto || 'cuesta') : 'gratis') + '</span>' +
+          (t.enlace ? '<a class="tarea__enlace" href="' + esc(t.enlace.url) + '" target="_blank" rel="noopener">' + esc(t.enlace.texto) + ' ↗</a>' : '') +
+          (t.pega ? '<span class="pega">' + esc(t.pega) + '</span>' : '') +
+          '</div></div></div>';
+      });
+      html += '</section>';
+    });
+
+    html += '<section class="guion"><h2>El guion de la llamada</h2>' +
+      '<p class="guion__nota">Léelo una vez en voz alta antes de la primera. Después ya sale solo.</p>';
+    GUION.forEach(function (l) {
+      html += '<div class="linea' + (l.tuyo ? ' linea--tu' : '') + '">' +
+        '<span class="linea__quien">' + esc(l.quien) + '</span>' +
+        '<p class="linea__dice">' + esc(l.dice) + '</p></div>';
+    });
+    html += '</section>';
+
+    html += '<section class="semana"><div class="semana__cab">' +
+      '<span class="semana__num">Qué esperar</span><span class="semana__regla"></span></div>' +
+      '<h2 class="semana__titulo">Ingresos al mes, con los pies en el suelo</h2>' +
+      '<p class="semana__meta">Estimación para una web local de estos cuatro concejos que publique a diario y se comparta en los grupos del pueblo. El primer mes se cobra cero: es lo normal.</p>' +
+      '<div class="tabla-envoltorio"><table><thead><tr>' +
+      '<th>De dónde sale</th><th>Mes 1</th><th>Mes 6</th><th>Mes 12</th>' +
+      '</tr></thead><tbody>';
+    var sumas = [0, 0, 0];
+    INGRESOS.forEach(function (f) {
+      html += '<tr><td>' + esc(f[0]) + '</td><td>' + esc(f[1]) + '</td><td>' + esc(f[2]) + '</td><td>' + esc(f[3]) + '</td></tr>';
+      for (var i = 0; i < 3; i++) sumas[i] += parseInt(f[i + 1], 10) || 0;
+    });
+    html += '</tbody><tfoot><tr><td>Total</td><td>' + sumas[0] + ' €</td><td>' + sumas[1] + ' €</td><td>' + sumas[2] + ' €</td></tr></tfoot>';
+    html += '</table></div></section>';
+
+    html += '<section class="cierre"><h2>Lo único que no puedes saltarte</h2>' +
+      '<p>Publicar todos los días. Un diario local que falla tres mañanas seguidas deja de ser una costumbre, y sin costumbre no hay audiencia ni patrocinadores.</p>' +
+      '<p>Eso ya lo tienes resuelto: el workflow recoge, redacta y publica solo a las siete y diez. Tu trabajo son los diez minutos de compartirlo y las llamadas de la semana tres.</p>' +
+      '<p>Y una advertencia que vale más que todo lo anterior: la web y la casa rural se llaman igual. Eso multiplica la marca, pero solo funciona si la transparencia va por delante. Dilo tú antes de que lo diga otro.</p>' +
+      '</section>';
+
+    raiz.innerHTML = html;
+  }
+
+  function decir(texto) {
+    aviso.textContent = texto;
+    aviso.dataset.visible = 'si';
+    clearTimeout(decir._t);
+    decir._t = setTimeout(function () { aviso.dataset.visible = 'no'; }, 2200);
+  }
+
+  function documento() {
+    var css = document.getElementById('css').textContent;
+    var app = document.getElementById('app').textContent;
+    var fuentes = '<link rel="preconnect" href="https://fonts.googleapis.com">' +
+      '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>' +
+      '<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">';
+    return '<!doctype html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n' +
+      '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
+      '<title>Ganar dinero con La Prida</title>\n' + fuentes + '\n' +
+      '<style id="css">' + css + '</style>\n</head>\n<body style="margin:0">\n' +
+      '<div class="env" id="raiz"></div>\n<div class="aviso-guardado" id="aviso"></div>\n' +
+      '<script id="estado" type="application/json">' +
+      JSON.stringify({ hechas: Array.from(hechas) }) +
+      '<\/script>\n<script id="app">' + app + '<\/script>\n</body>\n</html>';
+  }
+
+  function guardar() {
+    if (!artifact) return;
+    clearTimeout(pendiente);
+    pendiente = setTimeout(function () {
+      artifact.publish(documento()).then(function () {
+        decir('Guardado');
+      }).catch(function (e) {
+        if (e && (e.code === 'not_granted' || e.code === 'not_writer')) return;
+        if (e && e.code === 'conflict') return;
+        decir('No se pudo guardar');
+      });
+    }, 500);
+  }
+
+  raiz.addEventListener('change', function (ev) {
+    var id = ev.target && ev.target.dataset && ev.target.dataset.id;
+    if (!id) return;
+    if (ev.target.checked) hechas.add(id); else hechas.delete(id);
+    pintar();
+    guardar();
+  });
+
+  pintar();
+
+  if (window.claude && window.claude.use) {
+    window.claude.use('artifact').then(function (a) { artifact = a; }).catch(function () {});
+  }
+})();
+</script>

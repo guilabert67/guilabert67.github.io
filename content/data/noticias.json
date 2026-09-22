@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "la-balsa-de-becena-vuelve-a-dar-agua",
+    "url": "/cabrales/la-balsa-de-becena-vuelve-a-dar-agua/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "La balsa de Beceña vuelve a dar agua",
+    "entradilla": "Volverá a servir a dos frentes a la vez: los helicópteros de extinción y el ganado de la zona.",
+    "cuerpo": [
+      "La balsa forestal de Beceña vuelve a estar en servicio. Tendrá el doble uso de siempre: punto de carga para los helicópteros de extinción de incendios y abrevadero para el ganado que anda por la zona.",
+      "En un concejo de montaña, tener agua cerca cambia las cosas. Para un helicóptero, cada minuto que no gasta yendo a buscarla es un minuto que pasa sobre el fuego; para el ganadero, es no tener que bajar el ganado a beber.",
+      "Es de esas obras que no salen en ninguna foto bonita y que se echan de menos el día que hacen falta."
+    ],
+    "etiquetas": [
+      "Beceña",
+      "Incendios",
+      "Ganadería"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-07T08:39:42.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/balsa-forestal-becena-volvera/20260907103942102965.html",
+      "titularOriginal": "La balsa forestal de Beceña volverá a dar servicio tanto a ganaderos como a servicios de emergencia"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "La balsa forestal de Beceña, en Cabrales, vuelve a estar en servicio después de un tiempo parada.",
+      "Sirve para dos cosas a la vez: que los helicópteros de extinción carguen agua sin bajar al valle, y que el ganado beba donde pasta.",
+      "En un concejo de montaña, la distancia al agua es tiempo, y el tiempo es el fuego avanzando."
+    ],
+    "cifra": {
+      "numero": "3",
+      "unidad": "minutos por viaje",
+      "glosa": "Es lo que suele tardar un helicóptero de extinción en cargar y volver cuando el agua está cerca. Si tiene que bajar al fondo del valle, el viaje se puede multiplicar, y cada viaje perdido es fuego que sigue subiendo."
+    },
+    "palabra": {
+      "termino": "Balsa forestal",
+      "como": "balsa, sin más, por aquí",
+      "definicion": "Un depósito abierto colocado a media altura para que los medios aéreos carguen sin alejarse del incendio. No es un estanque decorativo ni un abrevadero cualquiera: está donde está por una cuenta de minutos."
+    },
+    "porQue": "Cabrales es todo pendiente. Cada punto de agua a media ladera decide si un incendio se apaga en una tarde o en tres días, y si el ganadero tiene que bajar el ganado al río en agosto.",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "The Beceña reservoir is holding water again",
+        "entradilla": "It will serve two fronts at once: the firefighting helicopters and the livestock grazing nearby.",
+        "cuerpo": [
+          "The forestry reservoir at Beceña is back in service. It will do the same double job as always: a filling point for firefighting helicopters, and a drinking trough for the cattle grazing in the area.",
+          "In a mountain council, having water close by changes things. For a helicopter, every minute not spent going to fetch it is a minute spent over the fire; for the farmer, it means not having to walk the herd down to drink.",
+          "It is one of those pieces of work that never makes a pretty photograph, and that everyone misses on the day it is needed."
+        ],
+        "enVeinte": [
+          "The forestry reservoir at Beceña, in Cabrales, is working again after a spell out of use.",
+          "It does two jobs at once: firefighting helicopters can load water without dropping into the valley, and the livestock can drink where they graze.",
+          "In a mountain council, distance to water is time, and time is the fire moving uphill."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "minutes per run",
+          "glosa": "That is roughly how long a firefighting helicopter takes to load and return when the water is close. If it has to drop to the valley floor, the run can take several times longer, and every lost run is fire still climbing."
+        },
+        "palabra": {
+          "termino": "Balsa forestal",
+          "como": "BAL-sa fo-res-TAL — just balsa around here",
+          "definicion": "An open reservoir set part-way up a slope so that aircraft can load without leaving the fire. It is not an ornamental pond or an ordinary trough: it sits where it sits because of an arithmetic of minutes."
+        },
+        "porQue": "Cabrales is all gradient. Every water point halfway up a hillside decides whether a fire is out in an afternoon or in three days, and whether the farmer has to walk his cattle down to the river in August."
+      },
+      "fr": {
+        "titular": "Le réservoir de Beceña retient de nouveau l’eau",
+        "entradilla": "Il servira sur deux fronts à la fois : les hélicoptères anti-incendie et le bétail des environs.",
+        "cuerpo": [
+          "Le réservoir forestier de Beceña est de nouveau en service. Il aura le même double usage que toujours : point de remplissage pour les hélicoptères anti-incendie et abreuvoir pour le bétail qui pâture dans le secteur.",
+          "Dans une commune de montagne, avoir de l’eau à proximité change tout. Pour un hélicoptère, chaque minute qu’il ne passe pas à aller la chercher est une minute passée au-dessus du feu ; pour l’éleveur, c’est ne pas avoir à faire descendre le troupeau pour boire.",
+          "C’est un de ces ouvrages qui ne feront jamais une belle photo, et qui manquent cruellement le jour où l’on en a besoin."
+        ],
+        "enVeinte": [
+          "Le réservoir forestier de Beceña, à Cabrales, refonctionne après une période à l’arrêt.",
+          "Il sert à deux choses à la fois : les hélicoptères anti-incendie chargent sans descendre dans la vallée, et le bétail boit là où il pâture.",
+          "Dans une commune de montagne, la distance à l’eau, c’est du temps, et le temps, c’est le feu qui monte."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "minutes par rotation",
+          "glosa": "C’est le temps qu’il faut à un hélicoptère pour charger et revenir quand l’eau est proche. S’il doit descendre au fond de la vallée, la rotation peut être plusieurs fois plus longue, et chaque rotation perdue, c’est du feu qui continue de monter."
+        },
+        "palabra": {
+          "termino": "Balsa forestal",
+          "como": "bal-sa fo-res-tal — ici, on dit simplement balsa",
+          "definicion": "Un réservoir à ciel ouvert placé à mi-pente pour que les moyens aériens chargent sans s’éloigner de l’incendie. Ce n’est ni un bassin d’agrément ni un abreuvoir ordinaire : il est là où il est à cause d’un calcul de minutes."
+        },
+        "porQue": "Cabrales n’est que pente. Chaque point d’eau à mi-versant décide si un incendie s’éteint en un après-midi ou en trois jours, et si l’éleveur doit descendre son troupeau à la rivière en août."
+      },
+      "de": {
+        "titular": "Das Becken von Beceña führt wieder Wasser",
+        "entradilla": "Es dient gleich zwei Zwecken: den Löschhubschraubern und dem Vieh, das dort weidet.",
+        "cuerpo": [
+          "Das Löschwasserbecken von Beceña ist wieder in Betrieb. Es erfüllt denselben doppelten Zweck wie immer: Ladepunkt für die Löschhubschrauber und Tränke für das Vieh, das in der Gegend weidet.",
+          "In einer Berggemeinde ändert Wasser in der Nähe alles. Für einen Hubschrauber ist jede Minute, die er nicht mit dem Holen verbringt, eine Minute über dem Feuer; für den Viehhalter heißt es, die Herde nicht zum Trinken hinunterführen zu müssen.",
+          "Es ist eine dieser Arbeiten, die nie auf ein schönes Foto kommen — und die an dem Tag fehlen, an dem man sie braucht."
+        ],
+        "enVeinte": [
+          "Das Löschwasserbecken von Beceña in Cabrales funktioniert wieder, nachdem es eine Zeit lang stillgelegt war.",
+          "Es dient zwei Zwecken zugleich: Löschhubschrauber können Wasser aufnehmen, ohne ins Tal zu fliegen, und das Vieh trinkt dort, wo es weidet.",
+          "In einer Berggemeinde ist die Entfernung zum Wasser Zeit — und Zeit ist das Feuer, das weiter hangaufwärts zieht."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "Minuten pro Anflug",
+          "glosa": "So lange braucht ein Löschhubschrauber ungefähr zum Aufnehmen und Zurückfliegen, wenn das Wasser nah ist. Muss er bis auf den Talgrund, dauert der Anflug ein Vielfaches — und jeder verlorene Anflug ist Feuer, das weiter steigt."
+        },
+        "palabra": {
+          "termino": "Balsa forestal",
+          "como": "BAL-sa fo-res-TAL — hier sagt man einfach balsa",
+          "definicion": "Ein offenes Becken auf halber Hanghöhe, damit Löschflugzeuge Wasser aufnehmen können, ohne sich vom Feuer zu entfernen. Kein Zierteich und keine gewöhnliche Tränke: Es liegt dort, wo es liegt, wegen einer Rechnung in Minuten."
+        },
+        "porQue": "Cabrales ist nichts als Gefälle. Jede Wasserstelle auf halber Höhe entscheidet, ob ein Brand an einem Nachmittag oder in drei Tagen aus ist — und ob der Viehhalter sein Vieh im August zum Fluss hinunterführen muss."
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-mantiene-vivo-el-portal-con-un-homenaje-al-mundo-rural",
+    "url": "/villaviciosa/villaviciosa-mantiene-vivo-el-portal-con-un-homenaje-al-mundo-rural/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Portal se queda sin concurso ganadero, pero no sin fiesta",
+    "entradilla": "En lugar del concurso ganadero, que este año no puede celebrarse, habrá una jornada dedicada al campo.",
+    "cuerpo": [
+      "No habrá Concurso Ganadero del Portal. Lo impiden las restricciones sanitarias por la dermatosis nodular, así que Villaviciosa ha buscado la vuelta: una jornada dedicada al campo y a quienes viven de él.",
+      "El concurso es una de esas citas que ordenan el calendario de un concejo entero, y quedarse sin él un año se nota más allá del día de la fiesta. La alternativa mantiene la cita viva mientras dure la restricción.",
+      "Quien tenga el Portal marcado en el calendario que no lo borre: cambia el formato, no la fecha."
+    ],
+    "etiquetas": [
+      "El Portal",
+      "Ganadería",
+      "Fiestas"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-05T06:26:58.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-portal-homenaje-mundo-rural/20260905082658102864.html",
+      "titularOriginal": "Villaviciosa mantiene vivo el espíritu del Portal con una jornada de homenaje al mundo rural"
+    },
+    "reescrito": true,
+    "apunte": "Sin vaques nel prau, pero con xente na plaza. Menos da una piedra.",
+    "enVeinte": [
+      "Este año no hay Concurso Ganadero del Portal: lo impiden las restricciones sanitarias por la dermatosis nodular.",
+      "Villaviciosa no cancela la fecha: la sustituye por una jornada dedicada al campo y a quien vive de él.",
+      "El día sigue en el calendario; lo que cambia es lo que pasa dentro."
+    ],
+    "cifra": {
+      "numero": "0",
+      "unidad": "reses en la pista",
+      "glosa": "Por primera vez en muchos años el concurso se queda sin animales. La restricción sanitaria prohíbe concentrar ganado de distintas explotaciones, que es exactamente lo que es un concurso."
+    },
+    "palabra": {
+      "termino": "Dermatosis nodular",
+      "como": "la nodular",
+      "definicion": "Enfermedad vírica del ganado bovino que se transmite sobre todo por insectos. No afecta a las personas ni a la carne o la leche, pero obliga a prohibir el movimiento y la concentración de animales, y por eso tumba ferias y concursos enteros."
+    },
+    "porQue": "El Portal ordena el calendario de medio concejo: hoteles, sidrerías, tratantes y familias que vuelven ese fin de semana. Que la fecha aguante aunque cambie el formato es la diferencia entre una pausa y una costumbre perdida.",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "El Portal loses its cattle show but keeps the party",
+        "entradilla": "Instead of the cattle show, which cannot be held this year, there will be a day devoted to farming.",
+        "cuerpo": [
+          "There will be no El Portal Cattle Show. Health restrictions over lumpy skin disease rule it out, so Villaviciosa has found a way round: a day devoted to farming and to the people who live from it.",
+          "The show is one of those dates that organise a whole council’s calendar, and losing it for a year is felt well beyond the day of the fair. The alternative keeps the date alive for as long as the restriction lasts.",
+          "If you have El Portal marked in your diary, do not cross it out: the format changes, the date does not."
+        ],
+        "enVeinte": [
+          "There is no El Portal Cattle Show this year: health restrictions over lumpy skin disease prevent it.",
+          "Villaviciosa is not cancelling the date; it is replacing it with a day devoted to farming and to those who live from it.",
+          "The day stays in the calendar. What changes is what happens inside it."
+        ],
+        "cifra": {
+          "numero": "0",
+          "unidad": "animals in the ring",
+          "glosa": "For the first time in many years the show has no animals. The health restriction bans bringing together livestock from different holdings, which is precisely what a cattle show is."
+        },
+        "palabra": {
+          "termino": "Dermatosis nodular",
+          "como": "lumpy skin disease, la nodular in local shorthand",
+          "definicion": "A viral cattle disease spread mainly by insects. It does not affect people, meat or milk, but it forces a ban on moving and gathering animals — and that is what brings down entire fairs and shows."
+        },
+        "porQue": "El Portal organises half the council’s year: hotels, cider houses, dealers and families who come back for that weekend. Keeping the date even when the format changes is the difference between a pause and a lost custom."
+      },
+      "fr": {
+        "titular": "El Portal perd son concours bovin mais garde la fête",
+        "entradilla": "À la place du concours bovin, impossible cette année, il y aura une journée consacrée au monde rural.",
+        "cuerpo": [
+          "Il n’y aura pas de concours bovin d’El Portal. Les restrictions sanitaires liées à la dermatose nodulaire l’empêchent, alors Villaviciosa a trouvé une parade : une journée consacrée à l’agriculture et à ceux qui en vivent.",
+          "Le concours est de ces rendez-vous qui structurent le calendrier d’une commune entière, et s’en passer une année se ressent bien au-delà du jour de la fête. L’alternative maintient le rendez-vous en vie tant que dure la restriction.",
+          "Si vous avez El Portal noté dans l’agenda, ne le rayez pas : c’est le format qui change, pas la date."
+        ],
+        "enVeinte": [
+          "Pas de concours bovin d’El Portal cette année : les restrictions sanitaires liées à la dermatose nodulaire l’interdisent.",
+          "Villaviciosa n’annule pas la date : elle la remplace par une journée consacrée au monde rural et à ceux qui en vivent.",
+          "Le jour reste au calendrier ; ce qui change, c’est ce qui s’y passe."
+        ],
+        "cifra": {
+          "numero": "0",
+          "unidad": "bête sur le ring",
+          "glosa": "Pour la première fois depuis de longues années, le concours se tient sans animaux. La restriction sanitaire interdit de rassembler du bétail d’élevages différents, ce qui est exactement la définition d’un concours."
+        },
+        "palabra": {
+          "termino": "Dermatosis nodular",
+          "como": "dermatose nodulaire contagieuse, « la nodular » ici",
+          "definicion": "Maladie virale des bovins transmise surtout par les insectes. Sans danger pour l’homme, la viande ou le lait, elle impose d’interdire le mouvement et le rassemblement des animaux — et c’est ce qui fait tomber des foires entières."
+        },
+        "porQue": "El Portal organise la moitié de l’année de la commune : hôtels, cidreries, marchands et familles qui reviennent ce week-end-là. Que la date tienne même si le format change, c’est la différence entre une pause et une coutume perdue."
+      },
+      "de": {
+        "titular": "El Portal verliert die Viehschau, aber nicht das Fest",
+        "entradilla": "Statt der Viehschau, die dieses Jahr nicht stattfinden kann, gibt es einen Tag für die Landwirtschaft.",
+        "cuerpo": [
+          "Eine Viehschau von El Portal wird es nicht geben. Die Gesundheitsauflagen wegen der Lumpy-Skin-Krankheit verhindern sie, also hat Villaviciosa einen Ausweg gesucht: einen Tag für die Landwirtschaft und für die Menschen, die von ihr leben.",
+          "Die Schau ist einer jener Termine, die den Kalender einer ganzen Gemeinde ordnen, und ein Jahr ohne sie spürt man weit über den Festtag hinaus. Die Alternative hält den Termin am Leben, solange die Auflage gilt.",
+          "Wer El Portal im Kalender stehen hat, soll es nicht streichen: Das Format ändert sich, das Datum nicht."
+        ],
+        "enVeinte": [
+          "Dieses Jahr gibt es keine Viehschau von El Portal: Gesundheitsauflagen wegen der Lumpy-Skin-Krankheit verhindern sie.",
+          "Villaviciosa streicht den Termin nicht, sondern ersetzt ihn durch einen Tag für die Landwirtschaft und ihre Leute.",
+          "Der Tag bleibt im Kalender. Was sich ändert, ist, was an ihm passiert."
+        ],
+        "cifra": {
+          "numero": "0",
+          "unidad": "Tiere im Ring",
+          "glosa": "Zum ersten Mal seit vielen Jahren findet die Schau ohne Tiere statt. Die Auflage verbietet, Vieh aus verschiedenen Betrieben zusammenzubringen — und genau das ist eine Viehschau."
+        },
+        "palabra": {
+          "termino": "Dermatosis nodular",
+          "como": "Lumpy-Skin-Krankheit, hier kurz „la nodular“",
+          "definicion": "Eine Viruserkrankung der Rinder, die vor allem über Insekten übertragen wird. Für Menschen, Fleisch und Milch ungefährlich, zwingt sie aber dazu, Transport und Zusammenführung von Tieren zu verbieten — und das legt ganze Messen lahm."
+        },
+        "porQue": "El Portal ordnet das halbe Jahr der Gemeinde: Hotels, Sidrerías, Händler und Familien, die für dieses Wochenende zurückkommen. Dass das Datum hält, auch wenn das Format wechselt, ist der Unterschied zwischen einer Pause und einem verlorenen Brauch."
+      }
+    }
+  },
+  {
+    "id": "cien-anos-en-coru",
+    "url": "/villaviciosa/cien-anos-en-coru/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Cien años en Coru",
+    "entradilla": "Irene ha vivido toda su vida en la misma parroquia maliaya, y este mes cumple el siglo.",
+    "cuerpo": [
+      "Hay quien mide su vida en mudanzas. Irene la ha medido en la misma parroquia: Coru, en Villaviciosa, donde ha vivido siempre y donde acaba de cumplir cien años.",
+      "Un siglo en el mismo sitio es una manera de conocer un concejo que no está a la venta en ninguna guía. Se sabe qué año heló la manzana, qué año se arregló el camino y quién vivía en cada casa antes de que la casa cambiara de nombre.",
+      "Enhorabuena desde aquí."
+    ],
+    "etiquetas": [
+      "Coru",
+      "Centenaria",
+      "Vecinos"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-04T17:16:49.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/centenaria-villaviciosa/20260904172949102845.html",
+      "titularOriginal": "Cien años en Coru-Villaviciosa"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "Irene, de la parroquia de Coru (Villaviciosa), acaba de cumplir cien años.",
+      "Ha vivido toda su vida en la misma parroquia, algo cada vez más raro en el concejo.",
+      "Un siglo en el mismo sitio es un archivo andante: qué año heló la manzana, quién vivía en cada casa."
+    ],
+    "cifra": {
+      "numero": "100",
+      "unidad": "años en la misma parroquia",
+      "glosa": "En España viven unas 20.000 personas de cien años o más, y la mayoría ha cambiado de casa varias veces. Cumplirlos sin haberse movido de la parroquia en la que naciste es lo verdaderamente infrecuente."
+    },
+    "palabra": {
+      "termino": "Parroquia",
+      "como": "parroquia, con acento en la o",
+      "definicion": "En Asturias no es solo lo de la iglesia: es la unidad de territorio en la que se divide un concejo, con su nombre, sus caserías y su identidad. Villaviciosa tiene más de treinta. Cuando alguien de aquí dice de dónde es, muchas veces dice la parroquia antes que el concejo."
+    },
+    "porQue": "La memoria de un concejo no está escrita en ningún sitio: está en la gente que lleva ochenta años viendo el mismo camino. Cada centenaria es una biblioteca sin catalogar.",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "A hundred years in Coru",
+        "entradilla": "Irene has lived her whole life in the same parish of Villaviciosa, and this month she turns a century.",
+        "cuerpo": [
+          "Some people measure their lives in house moves. Irene has measured hers in one parish: Coru, in Villaviciosa, where she has always lived and where she has just turned a hundred.",
+          "A century in the same place is a way of knowing a council that no guidebook sells. You know which year the apple blossom froze, which year the lane was mended, and who lived in each house before the house changed its name.",
+          "Congratulations from here."
+        ],
+        "enVeinte": [
+          "Irene, from the parish of Coru in Villaviciosa, has just turned a hundred.",
+          "She has lived her whole life in the same parish, which is increasingly rare in the council.",
+          "A century in one place is a walking archive: which year the apple froze, who lived in which house."
+        ],
+        "cifra": {
+          "numero": "100",
+          "unidad": "years in the same parish",
+          "glosa": "Around 20,000 people aged a hundred or over live in Spain, and most have moved house several times. Reaching that age without leaving the parish you were born in is the genuinely uncommon part."
+        },
+        "palabra": {
+          "termino": "Parroquia",
+          "como": "pa-RRO-quia, stress on the second syllable",
+          "definicion": "In Asturias this is not only a church matter: it is the unit a council is divided into, with its own name, its farmsteads and its identity. Villaviciosa has more than thirty. When someone from here says where they are from, they often name the parish before the council."
+        },
+        "porQue": "A council’s memory is not written down anywhere: it lives in the people who have watched the same lane for eighty years. Every centenarian is an uncatalogued library."
+      },
+      "fr": {
+        "titular": "Cent ans à Coru",
+        "entradilla": "Irene a vécu toute sa vie dans la même paroisse de Villaviciosa, et elle fête ce mois-ci son siècle.",
+        "cuerpo": [
+          "Certains mesurent leur vie en déménagements. Irene a mesuré la sienne en une seule paroisse : Coru, à Villaviciosa, où elle a toujours vécu et où elle vient de fêter ses cent ans.",
+          "Un siècle au même endroit, c’est une façon de connaître une commune qu’aucun guide ne vend. On sait quelle année le pommier a gelé, quelle année le chemin a été refait, et qui habitait chaque maison avant qu’elle change de nom.",
+          "Félicitations d’ici."
+        ],
+        "enVeinte": [
+          "Irene, de la paroisse de Coru (Villaviciosa), vient d’avoir cent ans.",
+          "Elle a vécu toute sa vie dans la même paroisse, ce qui devient rare dans la commune.",
+          "Un siècle au même endroit, c’est une archive vivante : l’année du gel des pommiers, qui habitait quelle maison."
+        ],
+        "cifra": {
+          "numero": "100",
+          "unidad": "ans dans la même paroisse",
+          "glosa": "Environ 20 000 personnes de cent ans ou plus vivent en Espagne, et la plupart ont déménagé plusieurs fois. Les atteindre sans avoir quitté sa paroisse de naissance, voilà ce qui est vraiment rare."
+        },
+        "palabra": {
+          "termino": "Parroquia",
+          "como": "pa-RRO-quia, accent sur la deuxième syllabe",
+          "definicion": "En Asturies, ce n’est pas qu’une affaire d’église : c’est l’unité en laquelle se divise une commune, avec son nom, ses fermes et son identité. Villaviciosa en compte plus de trente. Quand quelqu’un d’ici dit d’où il vient, il nomme souvent la paroisse avant la commune."
+        },
+        "porQue": "La mémoire d’une commune n’est écrite nulle part : elle est chez ceux qui regardent le même chemin depuis quatre-vingts ans. Chaque centenaire est une bibliothèque non cataloguée."
+      },
+      "de": {
+        "titular": "Hundert Jahre in Coru",
+        "entradilla": "Irene hat ihr ganzes Leben in derselben Pfarrei von Villaviciosa verbracht, und diesen Monat wird sie hundert.",
+        "cuerpo": [
+          "Manche messen ihr Leben in Umzügen. Irene hat es in einer einzigen Pfarrei gemessen: Coru in Villaviciosa, wo sie immer gelebt hat und wo sie gerade hundert geworden ist.",
+          "Ein Jahrhundert am selben Ort ist eine Art, eine Gemeinde zu kennen, die kein Reiseführer verkauft. Man weiß, in welchem Jahr die Apfelblüte erfror, in welchem Jahr der Weg ausgebessert wurde und wer in welchem Haus wohnte, bevor das Haus seinen Namen wechselte.",
+          "Herzlichen Glückwunsch von hier."
+        ],
+        "enVeinte": [
+          "Irene aus der Pfarrei Coru in Villaviciosa ist gerade hundert geworden.",
+          "Sie hat ihr ganzes Leben in derselben Pfarrei verbracht — in der Gemeinde immer seltener.",
+          "Ein Jahrhundert an einem Ort ist ein wandelndes Archiv: welches Jahr die Äpfel erfroren, wer in welchem Haus wohnte."
+        ],
+        "cifra": {
+          "numero": "100",
+          "unidad": "Jahre in derselben Pfarrei",
+          "glosa": "In Spanien leben rund 20.000 Menschen von hundert Jahren oder älter, und die meisten sind mehrmals umgezogen. Sie zu erreichen, ohne die Pfarrei der Geburt je verlassen zu haben, ist das wirklich Seltene."
+        },
+        "palabra": {
+          "termino": "Parroquia",
+          "como": "pa-RRO-kia, Betonung auf der zweiten Silbe",
+          "definicion": "In Asturien nicht bloß eine Kirchensache: die Einheit, in die eine Gemeinde gegliedert ist, mit eigenem Namen, eigenen Höfen und eigener Identität. Villaviciosa hat über dreißig. Wer von hier kommt, nennt oft die Pfarrei vor der Gemeinde."
+        },
+        "porQue": "Das Gedächtnis einer Gemeinde steht nirgends geschrieben: Es lebt in denen, die seit achtzig Jahren denselben Weg sehen. Jede Hundertjährige ist eine unkatalogisierte Bibliothek."
+      }
+    }
+  },
+  {
+    "id": "el-comercio-de-villaviciosa-celebra-los-40-anos-de-la-banda-de-gaites",
+    "url": "/villaviciosa/el-comercio-de-villaviciosa-celebra-los-40-anos-de-la-banda-de-gaites/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El comercio se suma a los 40 años de la Banda de Gaites",
+    "entradilla": "Exposición fotográfica en los escaparates de la villa y pines conmemorativos, coincidiendo con el Festival de la Gaita.",
+    "cuerpo": [
+      "La Asociación de Autónomos, Comerciantes y Servicios de Villaviciosa se ha propuesto que el 40 aniversario de la Banda de Gaites no pase de largo por la villa. Habrá exposición fotográfica repartida por el comercio y pines conmemorativos.",
+      "La cosa cuadra con el Festival Internacional de la Gaita, que este año vuelve a llenar Villaviciosa de música. Cuarenta años de banda son cuarenta años de chavales aprendiendo a soplar en un local prestado.",
+      "Quien se dé una vuelta por la villa estos días verá la historia de la banda repartida entre escaparates."
+    ],
+    "etiquetas": [
+      "Banda de Gaites",
+      "Comercio",
+      "Aniversario"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-03T11:27:24.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/comercio-villaviciosa-banda-gaites-40-aniversario/20260903132724102810.html",
+      "titularOriginal": "El comercio de Villaviciosa homenajea a la Banda Gaites por su 40 aniversario"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "Los comercios de Villaviciosa van a celebrar los 40 años de la Banda de Gaites del concejo.",
+      "Habrá exposición fotográfica repartida por los escaparates de la villa y pines conmemorativos.",
+      "Coincide con el Festival Internacional de la Gaita, que vuelve a llenar la villa de música."
+    ],
+    "cifra": {
+      "numero": "40",
+      "unidad": "años de banda",
+      "glosa": "Cuarenta años son unas cuatro generaciones de músicos: los chavales que empezaron en 1986 hoy pueden estar enseñando a los nietos de sus primeros compañeros de fila."
+    },
+    "palabra": {
+      "termino": "Banda de gaites",
+      "como": "gai-tes, en asturiano",
+      "definicion": "Agrupación de gaita asturiana, caja y bombo, con formación y repertorio propios. No es lo mismo que una banda de música ni que un bagad bretón: cambia el instrumento, la afinación y la manera de marchar."
+    },
+    "porQue": "Que el comercio pague la fiesta de la banda dice algo del concejo: aquí la cultura local no vive solo de subvención, vive de que el de la ferretería ponga una foto en el escaparate.",
+    "tipoEvento": "concierto",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Local shops join the Banda de Gaites’ 40th birthday",
+        "entradilla": "A photography exhibition in the town’s shop windows and commemorative pins, timed with the bagpipe festival.",
+        "cuerpo": [
+          "The Villaviciosa association of traders and self-employed businesses has decided that the Banda de Gaites’ 40th anniversary will not slip past the town unnoticed. There will be a photography exhibition spread across the shops, and commemorative pins.",
+          "It fits with the International Bagpipe Festival, which fills Villaviciosa with music again this year.",
+          "Forty years of a band is forty years of youngsters learning to blow in a borrowed room. Anyone walking through the town over the next few days will find the band’s history scattered between shop windows."
+        ],
+        "enVeinte": [
+          "The shops of Villaviciosa are marking the 40th anniversary of the council’s Banda de Gaites.",
+          "There will be a photography exhibition across the town’s shop windows and commemorative pins.",
+          "It coincides with the International Bagpipe Festival, which fills the town with music."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "years of the band",
+          "glosa": "Forty years is about four generations of players: the youngsters who started in 1986 may now be teaching the grandchildren of their first row-mates."
+        },
+        "palabra": {
+          "termino": "Banda de gaites",
+          "como": "GAI-tes, the Asturian plural of gaita",
+          "definicion": "An ensemble of Asturian bagpipes, snare and bass drum, with its own training and repertoire. Not the same as a brass band, and not the same as a Breton bagad: the instrument, the tuning and the way of marching all differ."
+        },
+        "porQue": "That the shopkeepers pay for the band’s birthday says something about the council: here local culture does not live on grants alone, it lives on the hardware shop putting a photograph in the window."
+      },
+      "fr": {
+        "titular": "Les commerces fêtent les 40 ans de la Banda de Gaites",
+        "entradilla": "Une exposition photographique dans les vitrines de la ville et des pin’s commémoratifs, en même temps que le festival de cornemuse.",
+        "cuerpo": [
+          "L’association des commerçants et indépendants de Villaviciosa a décidé que les 40 ans de la Banda de Gaites ne passeraient pas inaperçus dans la ville. Il y aura une exposition photographique répartie dans les commerces et des pin’s commémoratifs.",
+          "Cela tombe en même temps que le Festival international de la cornemuse, qui remplit de nouveau Villaviciosa de musique cette année.",
+          "Quarante ans de fanfare, c’est quarante ans de gamins qui apprennent à souffler dans un local prêté. Qui se promènera en ville ces jours-ci verra l’histoire de la banda répartie entre les vitrines."
+        ],
+        "enVeinte": [
+          "Les commerces de Villaviciosa fêtent les 40 ans de la Banda de Gaites de la commune.",
+          "Exposition photographique dans les vitrines de la ville et pin’s commémoratifs.",
+          "Cela coïncide avec le Festival international de la cornemuse, qui remplit la ville de musique."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "ans de fanfare",
+          "glosa": "Quarante ans, c’est environ quatre générations de musiciens : les gamins qui ont commencé en 1986 enseignent peut-être aujourd’hui aux petits-enfants de leurs premiers voisins de rang."
+        },
+        "palabra": {
+          "termino": "Banda de gaites",
+          "como": "GAI-tes, pluriel asturien de gaita",
+          "definicion": "Formation de cornemuses asturiennes, caisse claire et grosse caisse, avec sa propre école et son répertoire. Ce n’est ni un orchestre d’harmonie ni un bagad breton : l’instrument, l’accord et la façon de défiler changent."
+        },
+        "porQue": "Que les commerçants financent la fête de la fanfare en dit long sur la commune : ici, la culture locale ne vit pas que de subventions, elle vit du quincaillier qui met une photo en vitrine."
+      },
+      "de": {
+        "titular": "Der Handel feiert 40 Jahre Banda de Gaites",
+        "entradilla": "Eine Fotoausstellung in den Schaufenstern der Stadt und Gedenk-Anstecker, passend zum Dudelsackfestival.",
+        "cuerpo": [
+          "Der Verband der Händler und Selbständigen von Villaviciosa will nicht, dass der 40. Geburtstag der Banda de Gaites unbemerkt an der Stadt vorbeigeht. Geplant sind eine über die Geschäfte verteilte Fotoausstellung und Gedenk-Anstecker.",
+          "Das passt zum Internationalen Dudelsackfestival, das Villaviciosa auch dieses Jahr wieder mit Musik füllt.",
+          "Vierzig Jahre Kapelle sind vierzig Jahre Jugendliche, die in einem geliehenen Raum das Blasen lernen. Wer in diesen Tagen durch die Stadt geht, findet die Geschichte der Kapelle auf die Schaufenster verteilt."
+        ],
+        "enVeinte": [
+          "Die Geschäfte von Villaviciosa feiern den 40. Geburtstag der Banda de Gaites der Gemeinde.",
+          "Es gibt eine Fotoausstellung in den Schaufenstern der Stadt und Gedenk-Anstecker.",
+          "Es fällt mit dem Internationalen Dudelsackfestival zusammen, das die Stadt mit Musik füllt."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "Jahre Kapelle",
+          "glosa": "Vierzig Jahre sind etwa vier Musikergenerationen: Wer 1986 als Jugendlicher anfing, unterrichtet heute vielleicht die Enkel der damaligen Reihennachbarn."
+        },
+        "palabra": {
+          "termino": "Banda de gaites",
+          "como": "GAI-tes, asturischer Plural von gaita",
+          "definicion": "Eine Formation aus asturischen Dudelsäcken, kleiner und großer Trommel, mit eigener Ausbildung und eigenem Repertoire. Weder ein Blasorchester noch ein bretonischer Bagad: Instrument, Stimmung und Marschweise sind andere."
+        },
+        "porQue": "Dass der Handel das Fest der Kapelle bezahlt, sagt etwas über die Gemeinde: Hier lebt die lokale Kultur nicht allein von Zuschüssen, sondern davon, dass der Eisenwarenhändler ein Foto ins Schaufenster stellt."
+      }
+    }
+  },
+  {
+    "id": "el-bagad-kemper-debuta-en-asturias",
+    "url": "/villaviciosa/el-bagad-kemper-debuta-en-asturias/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Bagad Kemper debuta en Asturias",
+    "entradilla": "La formación bretona toca por primera vez en Asturias, en la decimonovena edición del festival.",
+    "cuerpo": [
+      "Villaviciosa vuelve a juntar en septiembre a bandas que el resto del año andan repartidas por el Atlántico, y este año con estreno: el Bagad Kemper, una de las formaciones bretonas de más peso, toca por primera vez en Asturias.",
+      "El Festival Internacional de la Gaita lleva diecinueve ediciones haciendo lo mismo y funcionando. Poca fórmula y mucha constancia.",
+      "Para quien nunca haya oído un bagad de cerca, suena distinto a una banda de gaites de aquí. Merece acercarse."
+    ],
+    "etiquetas": [
+      "Festival de la Gaita",
+      "Bretaña",
+      "Música"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-02T16:57:26.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/bagad-kemper-debuta-asturias-villaviciosa-reune-algunas-grandes-gaitas-europa/20260902185726102789.html",
+      "titularOriginal": "El Bagad Kemper debuta en Asturias: Villaviciosa reúne a algunas de las grandes gaitas de Europa"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "El Bagad Kemper, una de las formaciones bretonas más importantes, toca por primera vez en Asturias.",
+      "Lo hace en el Festival Internacional de la Gaita de Villaviciosa, que llega a su decimonovena edición.",
+      "Un bagad suena distinto a una banda de gaites de aquí: merece acercarse aunque sea por curiosidad."
+    ],
+    "cifra": {
+      "numero": "19",
+      "unidad": "ediciones del festival",
+      "glosa": "Diecinueve años seguidos juntando en septiembre a bandas de todo el arco atlántico. Poca fórmula y mucha constancia: es lo que convierte un festival en una cita."
+    },
+    "palabra": {
+      "termino": "Bagad",
+      "como": "bá-gad, plural bagadoù",
+      "definicion": "Formación musical bretona con gaitas escocesas (binioù braz), bombardas y percusión. La bombarda es la diferencia que se nota: un instrumento de lengüeta doble, potente y áspero, que no existe en las bandas asturianas."
+    },
+    "porQue": "Villaviciosa lleva casi veinte años siendo el sitio donde Asturias y Bretaña se escuchan de cerca. Este año, además, con una banda que nunca había cruzado.",
+    "tipoEvento": "concierto",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Bagad Kemper plays Asturias for the first time",
+        "entradilla": "The Breton band makes its Asturian debut at the festival’s nineteenth edition."
+      },
+      "fr": {
+        "titular": "Le Bagad Kemper joue pour la première fois en Asturies",
+        "entradilla": "La formation bretonne fait ses débuts asturiens à la dix-neuvième édition du festival."
+      },
+      "de": {
+        "titular": "Bagad Kemper spielt erstmals in Asturien",
+        "entradilla": "Die bretonische Formation gibt ihr asturisches Debüt bei der neunzehnten Ausgabe des Festivals."
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-renueva-los-5000-euros-de-la-banda-de-gaites",
+    "url": "/villaviciosa/villaviciosa-renueva-los-5000-euros-de-la-banda-de-gaites/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "5.000 euros más para la escuela de la Banda de Gaites",
+    "entradilla": "Cuarta renovación seguida del convenio, que mantiene además el local de las Escuelas Graduadas.",
+    "cuerpo": [
+      "Villaviciosa vuelve a firmar con la Banda de Gaites: cinco mil euros para sostener la escuela de música y el local de las Escuelas Graduadas, que sigue cedido como hasta ahora.",
+      "Es la cuarta vez seguida que se renueva, y ahí está la gracia. Una escuela de música local no vive de una subvención suelta, sino de saber en septiembre que en enero seguirá abierta.",
+      "Con cuarenta años de banda a la espalda, la escuela es la parte que garantiza que haya cuarenta más."
+    ],
+    "etiquetas": [
+      "Ayuntamiento",
+      "Banda de Gaites",
+      "Música"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-02T16:44:52.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-garantiza-5000-euros-banda-gaites-sostener-escuela-musica/20260902184452102788.html",
+      "titularOriginal": "Villaviciosa garantiza 5.000 euros a la Banda de Gaites para sostener su escuela de música"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "Villaviciosa renueva el convenio con la Banda de Gaites: 5.000 euros para la escuela de música.",
+      "Mantiene además cedido el local de las Escuelas Graduadas donde ensayan.",
+      "Es la cuarta renovación seguida, y en eso está la gracia: la escuela puede planificar el curso."
+    ],
+    "cifra": {
+      "numero": "5.000",
+      "unidad": "euros al año",
+      "glosa": "No es una cifra grande para un ayuntamiento, pero es la que sostiene el curso entero de una escuela de música pequeña: profesorado, instrumentos de préstamo y material."
+    },
+    "palabra": {
+      "termino": "Convenio",
+      "como": "convenio nominativo",
+      "definicion": "La fórmula por la que un ayuntamiento financia directamente a una entidad concreta, sin concurso, porque presta un servicio que nadie más presta en el concejo. Se renueva año a año, y ahí está su fragilidad y su virtud."
+    },
+    "porQue": "Una escuela de música local no vive de una subvención suelta: vive de saber en septiembre que en enero seguirá abierta. Cuatro renovaciones seguidas son eso.",
+    "tipoEvento": "concierto",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Another €5,000 for the Banda de Gaites music school",
+        "entradilla": "The fourth renewal in a row, which also keeps the rehearsal room at the old Escuelas Graduadas."
+      },
+      "fr": {
+        "titular": "Encore 5 000 € pour l’école de la Banda de Gaites",
+        "entradilla": "Quatrième reconduction d’affilée, qui maintient aussi le local des Escuelas Graduadas."
+      },
+      "de": {
+        "titular": "Weitere 5.000 € für die Musikschule der Banda de Gaites",
+        "entradilla": "Die vierte Verlängerung in Folge, die auch den Proberaum in den Escuelas Graduadas sichert."
+      }
+    }
+  },
+  {
+    "id": "recuperan-tres-hectareas-de-pastizal-en-la-caballar",
+    "url": "/cabrales/recuperan-tres-hectareas-de-pastizal-en-la-caballar/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Sotres recupera tres hectáreas de pastu en La Caballar",
+    "entradilla": "La actuación en La Caballar ha costado alrededor de 78.000 euros.",
+    "cuerpo": [
+      "Sotres vuelve a tener pastu aprovechable donde llevaba tiempo sin haberlo. La intervención en La Caballar ha devuelto al uso más de tres hectáreas de monte alto, con un coste que ronda los 78.000 euros.",
+      "Recuperar pastu de altura no es cosa de paisaje: es lo que permite que el ganado siga subiendo en verano. Y el ganado subiendo es lo que mantiene el monte abierto y el queso donde está.",
+      "En Cabrales, tira uno del hilo que quiera y acaba siempre en el mismo sitio."
+    ],
+    "etiquetas": [
+      "Sotres",
+      "Pastos",
+      "Picos de Europa"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-01T15:00:00.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/recuperan-hectareas-pastizales-montana-caballar-sotres/20260901170000102735.html",
+      "titularOriginal": "Recuperan más de tres hectáreas de pastizales de montaña en La Caballar, en Sotres"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Sotres wins back three hectares of pasture at La Caballar",
+        "entradilla": "The work at La Caballar cost around €78,000."
+      },
+      "fr": {
+        "titular": "Sotres récupère trois hectares de pâture à La Caballar",
+        "entradilla": "Les travaux à La Caballar ont coûté environ 78 000 €."
+      },
+      "de": {
+        "titular": "Sotres gewinnt drei Hektar Weide bei La Caballar zurück",
+        "entradilla": "Die Arbeiten bei La Caballar haben rund 78.000 € gekostet."
+      }
+    }
+  },
+  {
+    "id": "el-no-a-la-planta-de-biogas-llega-al-certamen-del-cabrales",
+    "url": "/cabrales/el-no-a-la-planta-de-biogas-llega-al-certamen-del-cabrales/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "La protesta contra la planta de biogás entra en el Certamen",
+    "entradilla": "Concentración y cadena humana en Arenas el domingo, con los queseros del concejo detrás.",
+    "cuerpo": [
+      "El Certamen del Queso de Cabrales tuvo este año algo más que queso. La plataforma que se opone a la planta de biogás, purines y sueros convocó en Arenas una concentración y una cadena humana, y los queseros del concejo se sumaron.",
+      "Desde la plataforma habían anunciado que la protesta sería «pacífica, silenciosa y ordenada», y eligieron esa fecha precisamente por ser el día del año en que Arenas reúne a más gente de fuera.",
+      "El asunto sigue abierto. Lo que se ha visto por ahora es que el rechazo tiene detrás al sector que da nombre al concejo."
+    ],
+    "etiquetas": [
+      "Biogás",
+      "Arenas",
+      "Queseros"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-01T10:28:12.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/planta-biogas-queso-cabrales/20260901122812102719.html",
+      "titularOriginal": "El NO a la planta de biogás también estuvo presente el domingo en el Certamen del Cabrales"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "The protest against the biogas plant reaches the cheese fair",
+        "entradilla": "A rally and a human chain in Arenas on Sunday, with the council’s cheesemakers behind it."
+      },
+      "fr": {
+        "titular": "La contestation de l’usine de biogaz gagne le concours du fromage",
+        "entradilla": "Rassemblement et chaîne humaine à Arenas dimanche, avec les fromagers de la commune derrière."
+      },
+      "de": {
+        "titular": "Der Protest gegen die Biogasanlage erreicht den Käsewettbewerb",
+        "entradilla": "Kundgebung und Menschenkette am Sonntag in Arenas, mit den Käsereien der Gemeinde dahinter."
+      }
+    }
+  },
+  {
+    "id": "pepe-figaredo-maya-la-mejor-sidra-casera-de-villaviciosa",
+    "url": "/villaviciosa/pepe-figaredo-maya-la-mejor-sidra-casera-de-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "La mejor sidra casera de Villaviciosa la maya Pepe Figaredo",
+    "entradilla": "Ganó el domingo la decimonovena edición del concurso del concejo.",
+    "cuerpo": [
+      "Ya hay ganador en el concurso de sidra casera de Villaviciosa, que llegaba este año a su decimonovena edición. Se lo llevó Pepe Figaredo, en la cita celebrada el domingo.",
+      "La sidra casera es un mundo aparte del de los llagares grandes. Se hace en cantidades pequeñas, se bebe entre conocidos y se compite sobre todo por el gusto de ganarles a los del pueblo de al lado.",
+      "Diecinueve ediciones dan para muchas botellas y para bastantes más discusiones."
+    ],
+    "etiquetas": [
+      "Sidra casera",
+      "Concurso",
+      "Villaviciosa"
+    ],
+    "imagen": "",
+    "fecha": "2026-09-01T12:46:07.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/pepe-figaredo-sidra-casera-villaviciosa/20260901124127102720.html",
+      "titularOriginal": "Pepe Figaredo maya la mejor sidra casera de Villaviciosa"
+    },
+    "reescrito": true,
+    "apunte": "Yo cato todes. Por rigor, entiéndase.",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Pepe Figaredo presses the best home-made cider in Villaviciosa",
+        "entradilla": "He won the council’s nineteenth competition on Sunday."
+      },
+      "fr": {
+        "titular": "Pepe Figaredo presse le meilleur cidre maison de Villaviciosa",
+        "entradilla": "Il a remporté dimanche la dix-neuvième édition du concours communal."
+      },
+      "de": {
+        "titular": "Pepe Figaredo keltert den besten hausgemachten Cidre von Villaviciosa",
+        "entradilla": "Am Sonntag gewann er die neunzehnte Ausgabe des Wettbewerbs der Gemeinde."
+      }
+    }
+  },
+  {
+    "id": "pilona-estrena-la-benefilmica",
+    "url": "/pilona/pilona-estrena-la-benefilmica/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piloña estrena La Benefílmica: cine en los praos",
+    "entradilla": "Tres días de proyecciones y música por cuatro sitios del concejo, del viernes al domingo pasados.",
+    "cuerpo": [
+      "Piloña ya tiene muestra de cine. La primera Benefílmica juntó a cineastas y artistas durante tres días, del 4 al 6, y repartió las sesiones por cuatro sitios: la sala de La Benéfica y los praos de Vegarrionda, Antrialgo y Borines.",
+      "Sacar el cine de la sala y llevarlo al prau tiene su punto. Proyectar en un pueblo pequeño convierte la sesión en algo más parecido a una fiesta que a una función.",
+      "Primera edición hecha. Ahora toca ver si hay segunda, que es donde se sabe si un festival ha nacido o solo ha pasado por aquí."
+    ],
+    "etiquetas": [
+      "La Benefílmica",
+      "Cine",
+      "La Benéfica"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-31T11:00:52.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/pilona-estrena-benefilmica-tres-dias-cine-musica-proyecciones/20260831130052102703.html",
+      "titularOriginal": "Piloña estrena La Benefílmica con tres días de cine, música y proyecciones en los praos"
+    },
+    "reescrito": true,
+    "apunte": "Cine al aire libre n'Asturies: media película y media atención al cielu.",
+    "enVeinte": [
+      "Piloña estrenó La Benefílmica, un festival de cine al aire libre repartido por el concejo.",
+      "Tres días de proyecciones y música en cuatro sitios distintos, del viernes al domingo.",
+      "La idea es llevar el cine a los praos en vez de esperar a que la gente baje a la villa."
+    ],
+    "palabra": {
+      "termino": "Prau",
+      "como": "prau, plural praos",
+      "definicion": "Prado de siega o de pasto en asturiano. No es cualquier campo: un prau es tierra trabajada, con nombre propio y dueño conocido. Que un festival se celebre «en los praos» dice dónde está el pueblo, no solo dónde está la pantalla."
+    },
+    "porQue": "En un concejo tan repartido como Piloña, llevar el acto a cuatro sitios en vez de concentrarlo en Infiesto es la diferencia entre una fiesta de la capital y una fiesta del concejo.",
+    "tipoEvento": "cine",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Piloña launches La Benefílmica: cinema out in the fields",
+        "entradilla": "Three days of screenings and music in four different corners of the council, from Friday to Sunday."
+      },
+      "fr": {
+        "titular": "Piloña lance La Benefílmica : du cinéma dans les prés",
+        "entradilla": "Trois jours de projections et de musique dans quatre endroits de la commune, du vendredi au dimanche."
+      },
+      "de": {
+        "titular": "Piloña startet La Benefílmica: Kino auf der Wiese",
+        "entradilla": "Drei Tage Filme und Musik an vier Orten der Gemeinde, von Freitag bis Sonntag."
+      }
+    }
+  },
+  {
+    "id": "nuevo-record-en-la-puja-del-queso-de-cabrales",
+    "url": "/cabrales/nuevo-record-en-la-puja-del-queso-de-cabrales/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Récord en la puja del Cabrales: gana una coalición de restaurantes",
+    "entradilla": "El queso ganador se repartirá entre mesas de Madrid y de Gijón, y no entre las paredes de una sola casa.",
+    "cuerpo": [
+      "La subasta del mejor Queso de Cabrales del año volvió a batir su marca. Esta vez se lo llevó una «coalición» de restaurantes que pujó por encima de lo que se pagó en la edición anterior.",
+      "La novedad no es solo el dinero. La pieza acabará repartida entre mesas de Madrid y de Gijón, en vez de quedarse en una sola casa como venía siendo costumbre.",
+      "La puja del Cabrales lleva años funcionando de termómetro: lo que se paga por ese queso dice bastante de cómo va el nombre del concejo ahí fuera."
+    ],
+    "etiquetas": [
+      "Certamen",
+      "Subasta",
+      "Queso"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-30T14:39:37.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/nuevo-record-queso-cabrales-coalicion-restaurantes-supera-puja-ano-pasado/20260830163937102541.html",
+      "titularOriginal": "Nuevo récord para el Queso de Cabrales: una \"coalición\" de restaurantes supera la puja del año pasado"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "enVeinte": [
+      "El queso ganador del Certamen de Cabrales se ha subastado por una cifra récord.",
+      "Lo compró una coalición de restaurantes, no un solo establecimiento.",
+      "Se repartirá entre mesas de Madrid y de Gijón, en vez de quedarse en una sola casa."
+    ],
+    "palabra": {
+      "termino": "Cabrales",
+      "como": "ca-bra-les, con denominación de origen",
+      "definicion": "Queso azul de leche cruda madurado en cueva natural de los Picos de Europa. La denominación exige que la cueva esté en el concejo de Cabrales o en tres parroquias de Peñamellera Alta: el moho azul no se añade, viene del aire de la cueva."
+    },
+    "porQue": "La puja no es solo folclore: fija el precio de referencia de todo un año y es el mejor escaparate que tienen las queserías del concejo.",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Record price at the Cabrales auction: a coalition of restaurants wins",
+        "entradilla": "The winning cheese will be shared between tables in Madrid and Gijón rather than kept in one house."
+      },
+      "fr": {
+        "titular": "Prix record aux enchères du Cabrales : une coalition de restaurants l’emporte",
+        "entradilla": "Le fromage gagnant sera partagé entre des tables de Madrid et de Gijón, et non gardé dans une seule maison."
+      },
+      "de": {
+        "titular": "Rekordpreis bei der Cabrales-Versteigerung: ein Zusammenschluss von Restaurants gewinnt",
+        "entradilla": "Der Siegerkäse wird zwischen Tischen in Madrid und Gijón geteilt, statt in einem Haus zu bleiben."
+      }
+    }
+  },
+  {
+    "id": "la-sidra-de-papel-en-villaviciosa",
+    "url": "/villaviciosa/la-sidra-de-papel-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "«La sidra de papel»: la publicidad sidrera de sesenta países",
+    "entradilla": "Se puede ver en Villaviciosa hasta el día 16, dentro del programa del Portal.",
+    "cuerpo": [
+      "Etiquetas, carteles, cromos, postales y hasta facturas. «La sidra de papel» junta en Villaviciosa material publicitario de la sidra asturiana y de otros sesenta países.",
+      "Es una manera distinta de contar la bebida: no por el vaso, sino por el papel que la ha ido acompañando durante más de un siglo, del llagar de aldea a la exportación.",
+      "Está abierta hasta el día 16 y forma parte del programa de las Fiestas del Portal."
+    ],
+    "etiquetas": [
+      "Exposición",
+      "Sidra",
+      "Fiestas del Portal"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-28T08:47:07.000Z",
+    "fechaEvento": "2026-09-16T18:00:00.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/muestra-sidra-papel-villaviciosa/20260828104707102280.html",
+      "titularOriginal": "La muestra \"La sidra de papel\" ya se puede ver en Villaviciosa"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "expo",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "“Cider on paper”: sixty countries of cider advertising",
+        "entradilla": "On show in Villaviciosa until the 16th, as part of the El Portal programme."
+      },
+      "fr": {
+        "titular": "« Le cidre en papier » : la publicité cidricole de soixante pays",
+        "entradilla": "À voir à Villaviciosa jusqu’au 16, dans le cadre du programme d’El Portal."
+      },
+      "de": {
+        "titular": "„Cidre auf Papier“: Cidre-Werbung aus sechzig Ländern",
+        "entradilla": "In Villaviciosa bis zum 16. zu sehen, im Rahmen des Programms von El Portal."
+      }
+    }
+  },
+  {
+    "id": "homenaje-a-amador-robles-en-pilona",
+    "url": "/pilona/homenaje-a-amador-robles-en-pilona/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piloña le devuelve el homenaje a Amador Robles",
+    "entradilla": "Suyo fue el Tren Fluvial, el que baja por la orilla al ritmo de las piraguas cada Descenso del Sella.",
+    "cuerpo": [
+      "Piloña ha homenajeado a Amador Robles, a quien se debe el Tren Fluvial que cada año acompaña la bajada de las piraguas por el Sella.",
+      "El tren es de esas cosas que parece que estuvieron siempre y que en realidad se le ocurrieron a alguien. Sin él, el Descenso sería una carrera; con él, es una fiesta que va por la orilla al mismo paso.",
+      "Homenaje merecido y, como suele pasar con estas cosas, con algún año de retraso."
+    ],
+    "etiquetas": [
+      "Sella",
+      "Tren Fluvial",
+      "Homenaje"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-28T05:49:10.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/homenaje-amador-robles-tren-fluvial-piragues/20260828074910102277.html",
+      "titularOriginal": "Merecido homenaje a Amador Robles en Piloña"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Piloña returns the tribute to Amador Robles",
+        "entradilla": "The Tren Fluvial was his idea: the train that runs down the riverbank alongside the canoes at every Descenso del Sella."
+      },
+      "fr": {
+        "titular": "Piloña rend hommage à Amador Robles",
+        "entradilla": "Le Tren Fluvial était son idée : le train qui descend la berge au rythme des canoës à chaque Descenso del Sella."
+      },
+      "de": {
+        "titular": "Piloña erweist Amador Robles die Ehre zurück",
+        "entradilla": "Der Tren Fluvial war seine Idee: der Zug, der bei jedem Descenso del Sella am Ufer neben den Kanus herfährt."
+      }
+    }
+  },
+  {
+    "id": "los-ganaderos-piden-solucion-para-los-residuos-de-las-queserias",
+    "url": "/cabrales/los-ganaderos-piden-solucion-para-los-residuos-de-las-queserias/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Los ganaderos piden solución para los residuos de las queserías",
+    "entradilla": "COAG pone dos condiciones: que los vecinos tengan garantías y que las administraciones se sienten a hablar.",
+    "cuerpo": [
+      "La organización agraria COAG ha reclamado que se resuelva de una vez qué se hace con los residuos que generan las queserías del concejo. Y lo plantea con dos condiciones encima de la mesa: garantías para el vecindario y una conversación seria con las administraciones.",
+      "El asunto está en el mismo nudo que la planta de biogás. Los residuos hay que gestionarlos en algún sitio; la discusión es dónde y cómo, no si hace falta.",
+      "Según COAG, de resolverlo depende que el sector quesero del concejo pueda seguir adelante."
+    ],
+    "etiquetas": [
+      "COAG",
+      "Queserías",
+      "Residuos"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-27T09:21:08.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/ganaderos-piden-solucion-gestionar-residuos-queserias-cabrales/20260827112108102243.html",
+      "titularOriginal": "Los ganaderos piden una solución para gestionar los residuos de las queserías de Cabrales"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Farmers want a solution for the dairies’ waste",
+        "entradilla": "The COAG union sets two conditions: guarantees for residents, and the authorities sitting down to talk."
+      },
+      "fr": {
+        "titular": "Les éleveurs réclament une solution pour les déchets des fromageries",
+        "entradilla": "Le syndicat COAG pose deux conditions : des garanties pour les habitants et des administrations qui s’assoient pour discuter."
+      },
+      "de": {
+        "titular": "Die Viehhalter fordern eine Lösung für die Abfälle der Käsereien",
+        "entradilla": "Die Gewerkschaft COAG stellt zwei Bedingungen: Garantien für die Anwohner und Behörden, die sich an einen Tisch setzen."
+      }
+    }
+  },
+  {
+    "id": "pilona-celebra-el-x-concurso-de-sidra-casera",
+    "url": "/pilona/pilona-celebra-el-x-concurso-de-sidra-casera/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piloña llega al X Concurso de Sidra Casera con Mieres de invitado",
+    "entradilla": "Décima edición, con Mieres invitado y programa festivo alrededor del concurso.",
+    "cuerpo": [
+      "El concurso de sidra casera de Piloña llega a la décima edición con un programa festivo montado alrededor. Mieres es el concejo invitado de este año.",
+      "Lo de invitar a otro concejo funciona mejor de lo que parece: saca la fiesta del círculo de siempre y trae gente que de otro modo no habría venido.",
+      "Diez ediciones son suficientes para que un concurso deje de ser una ocurrencia y pase a ser una cita."
+    ],
+    "etiquetas": [
+      "Sidra casera",
+      "Concurso",
+      "Mieres"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-27T10:46:51.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/pilona-x-concurso-sidra-casera/20260827124651102249.html",
+      "titularOriginal": "Piloña celebra el X Concurso de Sidra Casera con un completo programa festivo"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Piloña reaches its 10th home-made cider competition, with Mieres as guest",
+        "entradilla": "A tenth edition, with Mieres invited and a festive programme around the judging."
+      },
+      "fr": {
+        "titular": "Piloña arrive au 10e concours de cidre maison, avec Mieres en invité",
+        "entradilla": "Dixième édition, avec Mieres invité et un programme festif autour du concours."
+      },
+      "de": {
+        "titular": "Piloña feiert den 10. Wettbewerb für hausgemachten Cidre, mit Mieres als Gast",
+        "entradilla": "Zehnte Ausgabe, mit Mieres als Gast und einem Festprogramm rund um den Wettbewerb."
+      }
+    }
+  },
+  {
+    "id": "un-corto-rodado-en-el-oriente-triunfa-en-sudafrica",
+    "url": "/pilona/un-corto-rodado-en-el-oriente-triunfa-en-sudafrica/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un corto rodado en Cabrales, Piloña y Onís triunfa en Sudáfrica",
+    "entradilla": "«IUS del tiempo» ha sido reconocido como Mejor Película LGBTQIA+ y ya suma ocho premios internacionales.",
+    "cuerpo": [
+      "«IUS del tiempo», filmado en Cabrales, Piloña y Onís, se ha llevado en Sudáfrica el premio a Mejor Película LGBTQIA+. Con este, el corto acumula ya ocho premios y distinciones internacionales.",
+      "Que un rodaje hecho en tres concejos del oriente ande dando vueltas por festivales de medio mundo dice algo del paisaje y bastante del equipo que lo aprovechó.",
+      "Ocho reconocimientos son muchos para un corto. Y el recuento sigue abierto."
+    ],
+    "etiquetas": [
+      "Cine",
+      "Premios",
+      "Oriente"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-24T09:48:26.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/corto-rodado-oriente-asturias-triunfa-sudafrica/20260824114826102109.html",
+      "titularOriginal": "El corto rodado en el Oriente de Asturias 'IUS del tiempo' triunfa en Sudáfrica"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "A short film shot in Cabrales, Piloña and Onís wins in South Africa",
+        "entradilla": "“IUS del tiempo” took Best LGBTQIA+ Film and now has eight international awards."
+      },
+      "fr": {
+        "titular": "Un court-métrage tourné à Cabrales, Piloña et Onís primé en Afrique du Sud",
+        "entradilla": "« IUS del tiempo » a reçu le prix du meilleur film LGBTQIA+ et compte désormais huit récompenses internationales."
+      },
+      "de": {
+        "titular": "Ein in Cabrales, Piloña und Onís gedrehter Kurzfilm gewinnt in Südafrika",
+        "entradilla": "„IUS del tiempo“ wurde als bester LGBTQIA+-Film ausgezeichnet und hat nun acht internationale Preise."
+      }
+    }
+  },
+  {
+    "id": "isidro-cueto-una-vida-entre-asturcones",
+    "url": "/pilona/isidro-cueto-una-vida-entre-asturcones/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "El pastor que se pasó la vida con los asturcones",
+    "entradilla": "Isidro Cueto, de Cereceda y 81 años, fue el homenajeado de la XLVI Fiesta del Asturcón.",
+    "cuerpo": [
+      "La Fiesta del Asturcón llegó este año a su cuadragésima sexta edición, y el homenaje fue para Isidro Cueto: ochenta y un años, de Cereceda, y una biografía entera hecha de campo y de ganado.",
+      "El asturcón sigue existiendo porque hubo quien se ocupó de que siguiera existiendo. Detrás de la estampa del caballín suelto en el monte hay gente como Isidro, con muchos inviernos encima y pocas fotos.",
+      "La cita se celebró el 22 de agosto en Piloña."
+    ],
+    "etiquetas": [
+      "Asturcón",
+      "Cereceda",
+      "Homenaje"
+    ],
+    "imagen": "",
+    "fecha": "2026-08-19T14:00:43.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/isidro-cueto-vida-entre-asturcones/20260819160043101907.html",
+      "titularOriginal": "Isidro Cueto, una vida entre asturcones"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "The shepherd who spent his life among asturcón ponies",
+        "entradilla": "Isidro Cueto, 81, from Cereceda, was honoured at the 46th Fiesta del Asturcón."
+      },
+      "fr": {
+        "titular": "Le berger qui a passé sa vie parmi les poneys asturcones",
+        "entradilla": "Isidro Cueto, 81 ans, de Cereceda, a été mis à l’honneur lors de la 46e Fiesta del Asturcón."
+      },
+      "de": {
+        "titular": "Der Hirte, der sein Leben unter Asturcón-Ponys verbrachte",
+        "entradilla": "Isidro Cueto, 81, aus Cereceda, wurde bei der 46. Fiesta del Asturcón geehrt."
+      }
+    }
+  },
+  {
+    "id": "jonathan-trabanco-gana-el-concurso-de-escanciadores-de-nava",
+    "url": "/nava/jonathan-trabanco-gana-el-concurso-de-escanciadores-de-nava/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un escanciador de Siero se lleva el título de Nava",
+    "entradilla": "Jonathan Trabanco gana el concurso internacional por primera vez en la villa sidrera.",
+    "cuerpo": [
+      "Jonathan Trabanco, de Pola de Siero, se impuso en el concurso internacional de escanciadores que se celebra dentro del Festival de Nava. Es la primera vez que se lleva el título.",
+      "Escanciar delante de un jurado no se parece en nada a hacerlo en una espicha: se mide el culete, la altura, el chorro y los nervios, y todo con medio pueblo mirando.",
+      "Es uno de los platos fuertes del festival, y de los pocos concursos donde el público sabe exactamente lo que está juzgando."
+    ],
+    "etiquetas": [
+      "Escanciadores",
+      "Festival de la Sidra",
+      "Nava"
+    ],
+    "imagen": "",
+    "fecha": "2026-07-12T18:04:53.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/nava/jonathan-trabanco-concurso-escanciadores-nava/20260712190453099570.html",
+      "titularOriginal": "El polesu Jonathan Trabanco gana el Concurso de Escanciadores de Nava"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "A cider pourer from Siero takes the Nava title",
+        "entradilla": "Jonathan Trabanco wins the international competition for the first time in the cider town."
+      },
+      "fr": {
+        "titular": "Un verseur de cidre de Siero remporte le titre de Nava",
+        "entradilla": "Jonathan Trabanco gagne pour la première fois le concours international dans la capitale du cidre."
+      },
+      "de": {
+        "titular": "Ein Cidre-Einschenker aus Siero holt den Titel von Nava",
+        "entradilla": "Jonathan Trabanco gewinnt den internationalen Wettbewerb erstmals in der Cidre-Stadt."
+      }
+    }
+  },
+  {
+    "id": "viuda-de-corsino-mejor-sidra-local-en-el-festival-de-nava",
+    "url": "/nava/viuda-de-corsino-mejor-sidra-local-en-el-festival-de-nava/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "El título local del Festival de Nava, para Viuda de Corsino",
+    "entradilla": "En la categoría general ganó Sidra Contrueces, que se lo lleva para Gijón.",
+    "cuerpo": [
+      "El jurado del Festival de Nava dio el título de mejor sidra local a Viuda de Corsino. En la categoría general, el reconocimiento a la mejor de Asturias se fue a Gijón, para Contrueces.",
+      "El de Nava es el certamen que más pesa del año en el sector, y el premio local tiene un prestigio propio: se compite en casa y contra los vecinos, que es contra quien de verdad duele perder.",
+      "Los fallos se dieron a conocer dentro del programa del Festival, que cada julio convierte la villa en la capital de la manzana."
+    ],
+    "etiquetas": [
+      "Sidra",
+      "Premios",
+      "Festival de la Sidra"
+    ],
+    "imagen": "",
+    "fecha": "2026-07-12T09:28:28.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/nava/viuda-corsino-mejor-sidra-festival-nava/20260712112828099464.html",
+      "titularOriginal": "Viuda de Corsino, Mejor Sidra Local en el Festival de Nava"
+    },
+    "reescrito": true,
+    "apunte": "",
+    "tipoEvento": "concierto",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Viuda de Corsino takes the local title at the Nava festival",
+        "entradilla": "In the open category the winner was Sidra Contrueces, which takes the prize back to Gijón."
+      },
+      "fr": {
+        "titular": "Viuda de Corsino remporte le titre local au festival de Nava",
+        "entradilla": "Dans la catégorie générale, c’est Sidra Contrueces qui l’emporte et ramène le prix à Gijón."
+      },
+      "de": {
+        "titular": "Viuda de Corsino gewinnt den Lokaltitel beim Festival von Nava",
+        "entradilla": "In der offenen Kategorie siegte Sidra Contrueces und nimmt den Preis mit nach Gijón."
+      }
+    }
+  },
+  {
+    "id": "fuensanta-180-anos-brotando-en-nava",
+    "url": "/nava/fuensanta-180-anos-brotando-en-nava/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "actualidad",
+    "titular": "Fuensanta cumple 180 años brotando en Nava",
+    "entradilla": "La casa naveta cumple el aniversario reivindicándose como referente del agua embotellada asturiana.",
+    "cuerpo": [
+      "Ciento ochenta años lleva Fuensanta embotellando en Nava. La empresa celebra el aniversario reivindicando su papel dentro del agua mineromedicinal de Asturias y su apuesta por seguir innovando sin moverse del sitio.",
+      "Casi dos siglos en el mismo manantial son muchos para cualquier negocio, y más para uno que depende de que el agua siga saliendo donde salía.",
+      "En un concejo conocido sobre todo por la sidra, conviene acordarse de que la otra botella de Nava también lleva desde 1846 llenándose."
+    ],
+    "etiquetas": [
+      "Fuensanta",
+      "Aniversario",
+      "Empresas"
+    ],
+    "imagen": "",
+    "fecha": "2026-06-17T07:30:52.000Z",
+    "fechaEvento": "",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/nava/fuensanta-180-anos-brotando-asturias/20260614123343098204.html",
+      "titularOriginal": "Fuensanta, 180 años brotando de Asturias"
+    },
+    "reescrito": true,
+    "apunte": "Nava tien dos agües: una pica y otra non.",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "trad": {
+      "en": {
+        "titular": "Fuensanta marks 180 years of flowing in Nava",
+        "entradilla": "The Nava company celebrates the anniversary by staking its claim as Asturias’ benchmark bottled water."
+      },
+      "fr": {
+        "titular": "Fuensanta fête 180 ans de source à Nava",
+        "entradilla": "La maison navète célèbre l’anniversaire en revendiquant sa place de référence de l’eau embouteillée asturienne."
+      },
+      "de": {
+        "titular": "Fuensanta feiert 180 Jahre Quelle in Nava",
+        "entradilla": "Das Unternehmen aus Nava begeht das Jubiläum und beansprucht seinen Platz als Maßstab für asturisches Flaschenwasser."
+      }
+    }
+  }
+]
