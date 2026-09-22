@@ -57,7 +57,7 @@ export function ruta(idioma, camino = '/') {
 // Traducidos a mano, no a máquina. Si añades una clave, ponla en los cuatro.
 export const textos = {
   es: {
-    lema: 'Diario de la mañana · cuatro concejos, una línea',
+    lema: 'Diario de la mañana · cinco concejos, una línea',
     edicion: 'Edición de las',
     saltar: 'Ir al contenido',
     modoNoche: 'Modo noche',
@@ -80,7 +80,7 @@ export const textos = {
     planoTitulo: 'Dónde cae cada uno',
     planoNota: 'Esquema, no escala · el mar arriba',
     planoAlt:
-      'Esquema de la posición relativa de Nava, Villaviciosa, Piloña y Cabrales, con el mar Cantábrico al norte.',
+      'Esquema de la posición relativa de los cinco concejos, de oeste a este: Nava, Villaviciosa, Cabranes, Piloña y Cabrales, con el mar Cantábrico al norte.',
     pieza: 'pieza',
     piezas: 'piezas',
     parada: 'Parada',
@@ -108,7 +108,7 @@ export const textos = {
     publicidad: 'Publicidad',
     espacioLibre: 'Espacio disponible',
     sitioLibre: 'Este sitio está libre',
-    sitioLibreTexto: 'Aquí puede ir tu negocio, delante de la gente de los cuatro concejos, cada mañana.',
+    sitioLibreTexto: 'Aquí puede ir tu negocio, delante de la gente de los cinco concejos, cada mañana.',
     sitioLibreEnlace: 'Ver cómo anunciarse →',
     conApoyo: 'Con el apoyo de',
     patrocinado: 'Patrocinado',
@@ -141,7 +141,7 @@ export const textos = {
       'Todavía no hay ninguna oferta publicada. Si buscas gente para tu negocio, publicarla aquí no cuesta nada.',
     buscasAlguien: '¿Buscas a alguien?',
     buscasAlguienTexto:
-      'Publicar una oferta aquí es <strong>gratis</strong> para cualquier negocio de los cuatro concejos. Mándanos el puesto, la jornada y cómo apuntarse, y sale a la mañana siguiente.',
+      'Publicar una oferta aquí es <strong>gratis</strong> para cualquier negocio de los cinco concejos. Mándanos el puesto, la jornada y cómo apuntarse, y sale a la mañana siguiente.',
     escribirA: 'Escribir a',
     dondeMirarAdemas: 'Dónde mirar además',
     dondeMirarTexto: 'Aquí sale lo que llega. Lo oficial y lo grande está en estos sitios:',
@@ -168,7 +168,7 @@ export const textos = {
   },
 
   en: {
-    lema: 'Morning paper · four councils, one line',
+    lema: 'Morning paper · five councils, one line',
     edicion: 'Edition of',
     saltar: 'Skip to content',
     modoNoche: 'Night mode',
@@ -191,7 +191,7 @@ export const textos = {
     planoTitulo: 'Where each one is',
     planoNota: 'Diagram, not to scale · the sea is at the top',
     planoAlt:
-      'Diagram of the relative positions of Nava, Villaviciosa, Piloña and Cabrales, with the Cantabrian Sea to the north.',
+      'Diagram of the relative positions of the five councils, west to east: Nava, Villaviciosa, Cabranes, Piloña and Cabrales, with the Cantabrian Sea to the north.',
     pieza: 'story',
     piezas: 'stories',
     parada: 'Stop',
@@ -219,7 +219,7 @@ export const textos = {
     publicidad: 'Advertisement',
     espacioLibre: 'Space available',
     sitioLibre: 'This spot is free',
-    sitioLibreTexto: 'Your business could be here, in front of the four councils, every morning.',
+    sitioLibreTexto: 'Your business could be here, in front of the five councils, every morning.',
     sitioLibreEnlace: 'See how to advertise →',
     conApoyo: 'Supported by',
     patrocinado: 'Sponsored',
@@ -251,7 +251,7 @@ export const textos = {
       'No vacancies posted yet. If you are looking for someone for your business, posting here costs nothing.',
     buscasAlguien: 'Looking for someone?',
     buscasAlguienTexto:
-      'Posting a vacancy here is <strong>free</strong> for any business in the four councils. Send us the job, the hours and how to apply, and it goes up the next morning.',
+      'Posting a vacancy here is <strong>free</strong> for any business in the five councils. Send us the job, the hours and how to apply, and it goes up the next morning.',
     escribirA: 'Write to',
     dondeMirarAdemas: 'Where else to look',
     dondeMirarTexto: 'What reaches us shows up here. The official and the large-scale is on these sites:',
@@ -278,7 +278,7 @@ export const textos = {
   },
 
   fr: {
-    lema: 'Le quotidien du matin · quatre communes, une ligne',
+    lema: 'Le quotidien du matin · cinq communes, une ligne',
     edicion: 'Édition de',
     saltar: 'Aller au contenu',
     modoNoche: 'Mode nuit',
@@ -301,7 +301,7 @@ export const textos = {
     planoTitulo: 'Où se trouve chacune',
     planoNota: 'Schéma, pas à l’échelle · la mer en haut',
     planoAlt:
-      'Schéma de la position relative de Nava, Villaviciosa, Piloña et Cabrales, avec la mer Cantabrique au nord.',
+      'Schéma de la position relative des cinq communes, d’ouest en est : Nava, Villaviciosa, Cabranes, Piloña et Cabrales, avec la mer Cantabrique au nord.',
     pieza: 'article',
     piezas: 'articles',
     parada: 'Arrêt',
@@ -329,7 +329,7 @@ export const textos = {
     publicidad: 'Publicité',
     espacioLibre: 'Espace disponible',
     sitioLibre: 'Cette place est libre',
-    sitioLibreTexto: 'Votre commerce peut être ici, devant les quatre communes, chaque matin.',
+    sitioLibreTexto: 'Votre commerce peut être ici, devant les cinq communes, chaque matin.',
     sitioLibreEnlace: 'Voir comment annoncer →',
     conApoyo: 'Avec le soutien de',
     patrocinado: 'Sponsorisé',
@@ -362,7 +362,7 @@ export const textos = {
       'Aucune offre publiée pour le moment. Si vous cherchez quelqu’un pour votre commerce, la publier ici ne coûte rien.',
     buscasAlguien: 'Vous cherchez quelqu’un ?',
     buscasAlguienTexto:
-      'Publier une offre ici est <strong>gratuit</strong> pour tout commerce des quatre communes. Envoyez-nous le poste, les horaires et comment postuler, et elle paraît le lendemain matin.',
+      'Publier une offre ici est <strong>gratuit</strong> pour tout commerce des cinq communes. Envoyez-nous le poste, les horaires et comment postuler, et elle paraît le lendemain matin.',
     escribirA: 'Écrire à',
     dondeMirarAdemas: 'Où chercher aussi',
     dondeMirarTexto: 'Ici paraît ce qui nous arrive. L’officiel et le grand se trouve sur ces sites :',
@@ -389,7 +389,7 @@ export const textos = {
   },
 
   de: {
-    lema: 'Die Morgenzeitung · vier Gemeinden, eine Linie',
+    lema: 'Die Morgenzeitung · fünf Gemeinden, eine Linie',
     edicion: 'Ausgabe von',
     saltar: 'Zum Inhalt springen',
     modoNoche: 'Nachtmodus',
@@ -412,7 +412,7 @@ export const textos = {
     planoTitulo: 'Wo welche liegt',
     planoNota: 'Schema, nicht maßstabsgetreu · das Meer oben',
     planoAlt:
-      'Schema der Lage von Nava, Villaviciosa, Piloña und Cabrales zueinander, mit dem Kantabrischen Meer im Norden.',
+      'Schema der Lage der fünf Gemeinden von West nach Ost: Nava, Villaviciosa, Cabranes, Piloña und Cabrales, mit dem Kantabrischen Meer im Norden.',
     pieza: 'Beitrag',
     piezas: 'Beiträge',
     parada: 'Haltestelle',
@@ -440,7 +440,7 @@ export const textos = {
     publicidad: 'Anzeige',
     espacioLibre: 'Platz frei',
     sitioLibre: 'Dieser Platz ist frei',
-    sitioLibreTexto: 'Hier könnte Ihr Betrieb stehen, jeden Morgen vor den Leuten der vier Gemeinden.',
+    sitioLibreTexto: 'Hier könnte Ihr Betrieb stehen, jeden Morgen vor den Leuten der fünf Gemeinden.',
     sitioLibreEnlace: 'So wird geworben →',
     conApoyo: 'Unterstützt von',
     patrocinado: 'Gesponsert',
@@ -473,7 +473,7 @@ export const textos = {
       'Noch keine Stelle veröffentlicht. Wenn Sie jemanden für Ihren Betrieb suchen, kostet die Anzeige hier nichts.',
     buscasAlguien: 'Suchen Sie jemanden?',
     buscasAlguienTexto:
-      'Eine Stellenanzeige hier ist für jeden Betrieb der vier Gemeinden <strong>kostenlos</strong>. Schicken Sie uns die Stelle, die Arbeitszeit und den Weg zur Bewerbung, und sie erscheint am nächsten Morgen.',
+      'Eine Stellenanzeige hier ist für jeden Betrieb der fünf Gemeinden <strong>kostenlos</strong>. Schicken Sie uns die Stelle, die Arbeitszeit und den Weg zur Bewerbung, und sie erscheint am nächsten Morgen.',
     escribirA: 'Schreiben an',
     dondeMirarAdemas: 'Wo Sie außerdem suchen können',
     dondeMirarTexto: 'Hier steht, was uns erreicht. Das Amtliche und das Große steht auf diesen Seiten:',

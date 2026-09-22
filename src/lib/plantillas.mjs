@@ -73,7 +73,7 @@ const letraDe = (slug) => dato(slug)?.letra ?? '·';
 const claroDe = (slug) => (slug === 'nava' ? ' data-claro="si"' : '');
 
 // El orden de la línea es geográfico, de oeste a este, no el de la lista.
-const ORDEN_LINEA = ['nava', 'villaviciosa', 'pilona', 'cabrales'];
+const ORDEN_LINEA = ['nava', 'villaviciosa', 'cabranes', 'pilona', 'cabrales'];
 const enLinea = () => ORDEN_LINEA.map((k) => dato(k)).filter(Boolean);
 
 /** Las variables de color que hereda cualquier bloque de un concejo. */
@@ -83,7 +83,7 @@ export function vars(slug) {
 
 /** El disco: el mismo objeto es el logotipo, la parada del riel y la chapa. */
 export function disco(slug, extra = '') {
-  return `<span class="disco"${claroDe(slug)} style="--c:${colorDe(slug)}" aria-hidden="true"${extra}>${esc(letraDe(slug))}</span>`;
+  return `<span class="disco"${claroDe(slug)} data-largo="${String(letraDe(slug)).length}" style="--c:${colorDe(slug)}" aria-hidden="true"${extra}>${esc(letraDe(slug))}</span>`;
 }
 
 /**
@@ -132,9 +132,9 @@ export function descripcionSeccion(seccion) {
       de: 'Vereine, Säle, Erbe und Tradition: was rund um das passiert, was man sich ansieht.',
     },
     trabajo: {
-      en: 'Job vacancies in the four councils: who is hiring, for what, and until when. Posting a vacancy is free for local businesses.',
-      fr: 'Offres d’emploi des quatre communes : qui recrute, pour quoi et jusqu’à quand. Publier une offre est gratuit pour les commerces d’ici.',
-      de: 'Stellenangebote der vier Gemeinden: wer sucht, wofür und bis wann. Für Betriebe von hier ist die Anzeige kostenlos.',
+      en: 'Job vacancies in the five councils: who is hiring, for what, and until when. Posting a vacancy is free for local businesses.',
+      fr: 'Offres d’emploi des cinq communes : qui recrute, pour quoi et jusqu’à quand. Publier une offre est gratuit pour les commerces d’ici.',
+      de: 'Stellenangebote der fünf Gemeinden: wer sucht, wofür und bis wann. Für Betriebe von hier ist die Anzeige kostenlos.',
     },
     avisos: {
       en: 'Roadworks, closures, on-call pharmacies and the practical side of the day.',
@@ -142,9 +142,9 @@ export function descripcionSeccion(seccion) {
       de: 'Bauarbeiten, Sperrungen, Notdienste und das Praktische des Tages.',
     },
     actualidad: {
-      en: 'What has happened today across the four councils.',
-      fr: 'Ce qui s’est passé aujourd’hui dans les quatre communes.',
-      de: 'Was heute in den vier Gemeinden passiert ist.',
+      en: 'What has happened today across the five councils.',
+      fr: 'Ce qui s’est passé aujourd’hui dans les cinq communes.',
+      de: 'Was heute in den fünf Gemeinden passiert ist.',
     },
   };
   return mapa[seccion.slug]?.[estado.idioma] ?? seccion.descripcion;
@@ -437,7 +437,7 @@ export function tarjetaEmpleo(o) {
 export function publicaTuOferta() {
   return `<div class="caja caja--llamada">
   <h2 class="caja__titulo">${esc(T('buscasAlguien'))}</h2>
-  <p style="margin:0 0 14px;font-size:15px;color:var(--tinta-2)">Publicar una oferta aquí es <strong>gratis</strong> para cualquier negocio de los cuatro concejos. Mándanos el puesto, la jornada y cómo apuntarse, y sale a la mañana siguiente.</p>
+  <p style="margin:0 0 14px;font-size:15px;color:var(--tinta-2)">Publicar una oferta aquí es <strong>gratis</strong> para cualquier negocio de los cinco concejos. Mándanos el puesto, la jornada y cómo apuntarse, y sale a la mañana siguiente.</p>
   <p style="margin:0"><a class="volver" style="margin:0" href="mailto:${esc(sitio.email)}">Escribir a ${esc(sitio.email)} →</a></p>
 </div>`;
 }
@@ -503,16 +503,17 @@ export function porQueImporta(texto, slug = '') {
 </aside>`;
 }
 
-/** El plano: dónde caen los cuatro concejos, que casi nadie lo sabe de memoria. */
+/** El plano: dónde caen los cinco concejos, que casi nadie lo sabe de memoria. */
 export function plano(activo = '', cuentas = {}) {
   // Esquema, no escala: el mar arriba, Nava al oeste, Cabrales al este.
   const puntos = {
-    nava: [58, 118],
-    villaviciosa: [128, 52],
-    pilona: [176, 132],
-    cabrales: [312, 106],
+    nava: [48, 128],
+    villaviciosa: [118, 50],
+    cabranes: [124, 122],
+    pilona: [190, 146],
+    cabrales: [316, 104],
   };
-  const orden = ['nava', 'villaviciosa', 'pilona', 'cabrales'];
+  const orden = ORDEN_LINEA;
   const linea = orden.map((k) => puntos[k].join(',')).join(' ');
   return `<div class="plano">
   <h2 class="plano__titulo">${esc(T('planoTitulo'))}</h2>
@@ -528,7 +529,7 @@ export function plano(activo = '', cuentas = {}) {
         const act = slug === activo;
         return `<g>
       <circle cx="${x}" cy="${y}" r="${act ? 17 : 13}" fill="${c.color}" stroke="currentColor" stroke-width="2.5"/>
-      <text x="${x}" y="${y + 5}" text-anchor="middle" font-family="var(--display)" font-weight="800" font-size="${act ? 17 : 14}" fill="${slug === 'nava' ? '#14120F' : '#fff'}">${esc(c.letra)}</text>
+      <text x="${x}" y="${y + 5}" text-anchor="middle" font-family="var(--display)" font-weight="800" font-size="${(act ? 17 : 14) - (String(c.letra).length > 1 ? 4 : 0)}" fill="${slug === 'nava' ? '#14120F' : '#fff'}">${esc(c.letra)}</text>
       <text x="${x}" y="${y + (act ? 34 : 30)}" text-anchor="middle" font-family="var(--display)" font-weight="700" font-size="12" fill="currentColor">${esc(c.nombre)}</text>
     </g>`;
       })
@@ -612,7 +613,7 @@ function cintaTiempo(tiempo) {
     .filter((c) => tiempo.concejos[c.slug])
     .map((c) => {
       const t = tiempo.concejos[c.slug];
-      return `<span>${esc(c.capital)} <b>${t.max ?? '–'}°</b>/${t.min ?? '–'}°</span>`;
+      return `<span>${esc(c.nombre)} <b>${t.max ?? '–'}°</b>/${t.min ?? '–'}°</span>`;
     })
     .join('')}</div>`;
 }
@@ -890,7 +891,7 @@ export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
 }
 
 export function itemAviso(a) {
-  return `<a class="aviso" href="${esc(a.url ?? '/avisos/')}">
+  return `<a class="aviso" href="${esc(U(a.url ?? '/avisos/'))}">
   <span class="aviso__icono" aria-hidden="true">${esc(a.icono ?? '⚠️')}</span>
   <span><span class="aviso__que">${esc(a.titular)}</span>
   <span class="aviso__detalle">${esc(a.entradilla ?? a.concejo ?? '')}</span></span>

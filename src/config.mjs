@@ -9,7 +9,7 @@ export const sitio = {
   nombre: 'La Prida',
   lema: 'Lo que se ve dende la collada',
   descripcion:
-    'El diario de la mañana de Piloña, Nava, Cabrales y Villaviciosa. Lo que pasa en casa, contado corto y con gracia, para leer con el café.',
+    'El diario de la mañana de Piloña, Nava, Cabranes, Cabrales y Villaviciosa. Lo que pasa en casa, contado corto y con gracia, para leer con el café.',
   // La dirección del sitio. NO hace falta tocarla: al publicar desde GitHub, el
   // propio flujo la rellena con https://tu-usuario.github.io. Solo se cambia a
   // mano el día que haya dominio propio (sin barra final).
@@ -66,7 +66,7 @@ export const tarifas = [
   {
     nombre: 'Patrocinador del diario',
     precio: '80 € al mes',
-    descripcion: 'En la portada y en los cuatro concejos. El sitio de más visibilidad que hay.',
+    descripcion: 'En la portada y en los cinco concejos. El sitio de más visibilidad que hay.',
     incluye: ['Portada y todas las secciones', 'Mención en el boletín de la mañana', 'Sin permanencia'],
     destacado: true,
   },
@@ -158,6 +158,25 @@ export const concejos = [
     ],
   },
   {
+    slug: 'cabranes',
+    coords: [43.3800, -5.4200], // Santolaya
+    nombre: 'Cabranes',
+    capital: 'Santolaya',
+    gentilicio: 'cabraneses',
+    ine: '33009',
+    color: '#00A39B',
+    colorTexto: '#00807A',
+    letra: 'CN',
+    lema: 'El concejo que toca a los otros tres',
+    feeds: ['https://www.elfielato.es/rss/cabranes/'],
+    web: 'https://www.cabranes.es/',
+    claves: [
+      'cabranes', 'torazu', 'torazo', 'viñón', 'vinon', 'pandenes', 'gramedo',
+      'santolaya de cabranes', 'santa eulalia de cabranes',
+      'festival del arroz con leche', 'boroña de forna', 'borona de forna',
+    ],
+  },
+  {
     slug: 'cabrales',
     coords: [43.3000, -4.8500], // lat, lon (para el tiempo)
     nombre: 'Cabrales',
@@ -166,7 +185,7 @@ export const concejos = [
     ine: '33008',
     color: '#1B4DFF',
     colorTexto: '#1B4DFF',
-    letra: 'C',
+    letra: 'CL',
     emoji: '⛰️',
     lema: 'Donde el mapa se pone vertical',
     feeds: ['https://www.elfielato.es/rss/cabrales/'],
@@ -295,6 +314,7 @@ export const enlacesEmpleo = [
   { nombre: 'BOPA — convocatorias y oposiciones', url: 'https://sede.asturias.es/bopa' },
   { nombre: 'Ayuntamiento de Piloña', url: 'https://www.ayto-pilona.es/', concejo: 'pilona' },
   { nombre: 'Ayuntamiento de Nava', url: 'https://www.ayto-nava.es/', concejo: 'nava' },
+  { nombre: 'Ayuntamiento de Cabranes', url: 'https://www.cabranes.es/', concejo: 'cabranes' },
   { nombre: 'Ayuntamiento de Cabrales', url: 'https://www.cabrales.es/', concejo: 'cabrales' },
   { nombre: 'Ayuntamiento de Villaviciosa', url: 'https://www.villaviciosa.es/', concejo: 'villaviciosa' },
 ];
@@ -307,6 +327,7 @@ export const enlacesAgenda = [
   { concejo: 'pilona', nombre: 'Ayuntamiento de Piloña', url: 'https://www.ayto-pilona.es/' },
   { concejo: 'nava', nombre: 'Museo de la Sidra de Nava', url: 'https://www.museodelasidra.com/' },
   { concejo: 'nava', nombre: 'Ayuntamiento de Nava', url: 'https://www.ayto-nava.es/' },
+  { concejo: 'cabranes', nombre: 'Ayuntamiento de Cabranes', url: 'https://www.cabranes.es/' },
   { concejo: 'cabrales', nombre: 'Ayuntamiento de Cabrales', url: 'https://www.cabrales.es/' },
   { concejo: 'villaviciosa', nombre: 'Teatro Riera y cultura de Villaviciosa', url: 'https://www.culturavillaviciosa.es/agenda/' },
   { concejo: 'villaviciosa', nombre: 'Turismo de Villaviciosa', url: 'https://www.turismovillaviciosa.es/turismo/agenda-y-eventos/' },
@@ -314,17 +335,17 @@ export const enlacesAgenda = [
 
 // ── Secciones ───────────────────────────────────────────────────────────────
 export const secciones = [
-  { slug: 'actualidad', nombre: 'Actualidad', descripcion: 'Lo que ha pasado hoy en los cuatro concejos.' },
+  { slug: 'actualidad', nombre: 'Actualidad', descripcion: 'Lo que ha pasado hoy en los cinco concejos.' },
   { slug: 'agenda', nombre: 'Agenda', descripcion: 'Todo lo que se puede ir a ver: conciertos, teatro, cine, ferias, mercadillos, almonedas, romerías y exposiciones, con su fecha, su hora y su sitio.' },
   { slug: 'deporte-y-cultura', nombre: 'Deporte y cultura', descripcion: 'Equipos, salas, patrimonio y tradición: lo que pasa alrededor de lo que se va a ver.' },
-  { slug: 'trabajo', nombre: 'Trabajo', descripcion: 'Ofertas de empleo de los cuatro concejos: quién busca gente, para qué y hasta cuándo. Publicar una oferta es gratis para los negocios de casa.' },
+  { slug: 'trabajo', nombre: 'Trabajo', descripcion: 'Ofertas de empleo de los cinco concejos: quién busca gente, para qué y hasta cuándo. Publicar una oferta es gratis para los negocios de casa.' },
   { slug: 'avisos', nombre: 'Avisos y servicios', descripcion: 'Obras, cortes, guardias y lo práctico del día.' },
 ];
 
 // ── Tono de redacción ───────────────────────────────────────────────────────
 // Esto es literalmente lo que se le pasa al modelo al reescribir. Tócalo sin miedo.
 export const manualDeEstilo = `
-Escribes para LA PRIDA, el diario de la mañana de Piloña, Nava, Cabrales y Villaviciosa (Asturias).
+Escribes para LA PRIDA, el diario de la mañana de Piloña, Nava, Cabranes, Cabrales y Villaviciosa (Asturias).
 Quien te lee está desayunando: tiene cinco minutos, una taza en la mano y ganas de enterarse sin esfuerzo.
 
 TONO

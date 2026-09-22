@@ -134,6 +134,10 @@ a { color: inherit; }
   line-height: 1; letter-spacing: 0;
   border: 2px solid var(--linea);
 }
+/* dos letras (Cabrales CL, Cabranes CN) piden cuerpo menor para caber */
+.disco[data-largo='2'] { font-size: 11px; letter-spacing: -0.03em; }
+.chapa .disco[data-largo='2'] { font-size: 8.5px; }
+
 /* el amarillo pide tinta negra para poder leerse */
 .disco[data-claro='si'] { color: #14120f; }
 
@@ -198,15 +202,26 @@ a { color: inherit; }
 .cabecera__fecha { font-family: var(--display); font-weight: 700; font-size: 15px; }
 .cabecera__hora { font-family: var(--mono); font-size: 10.5px; color: var(--tinta-2); letter-spacing: 0.06em; }
 
-/* El riel: cuatro paradas unidas por una línea de verdad */
+/* El riel: cinco paradas unidas por una línea de verdad */
 .riel { position: relative; padding: 0 0 4px; }
 .riel__lista {
   display: flex; gap: 0; list-style: none; margin: 0; padding: 0 0 16px;
   overflow-x: auto; scrollbar-width: thin;
+  scroll-snap-type: x proximity; overscroll-behavior-x: contain;
+}
+.riel__parada { scroll-snap-align: center; }
+/* En pantallas estrechas el riel no cabe entero: un degradado en el borde
+   derecho avisa de que la línea sigue, y la barra fina confirma que se arrastra. */
+@media (max-width: 660px) {
+  .riel::after {
+    content: ''; position: absolute; inset: 0 -16px 0 auto; width: 40px;
+    background: linear-gradient(to left, var(--fondo), transparent);
+    pointer-events: none;
+  }
 }
 .riel__lista::-webkit-scrollbar { height: 4px; }
 .riel__lista::-webkit-scrollbar-thumb { background: var(--linea-suave); border-radius: 999px; }
-.riel__parada { flex: 1 1 0; min-width: 132px; position: relative; }
+.riel__parada { flex: 1 1 0; min-width: 116px; position: relative; }
 /* el trozo de línea que sale de cada parada hacia la derecha */
 .riel__parada::before {
   content: ''; position: absolute; left: 50%; right: -50%; top: 15px;
