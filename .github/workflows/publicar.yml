@@ -1,0 +1,82 @@
+name: Ediciones de La Prida
+
+# Tres ediciones al día: 07:00, 14:00 y 20:00 hora de Asturias.
+# Cron va en UTC y no sabe del cambio de hora, así que se dispara en las dos
+# horas UTC posibles de cada edición y el primer paso mira qué hora es de
+# verdad en Asturias: si no toca, se para sin hacer nada.
+
+on:
+  schedule:
+    - cron: '5 5,6,12,13,18,19 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: laprida
+  cancel-in-progress: false
+
+jobs:
+  edicion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Toca edicion ahora
+        id: reloj
+        run: |
+          HORA=$(TZ=Europe/Madrid date +'%H')
+          echo "hora_local=$HORA" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "seguir=si" >> "$GITHUB_OUTPUT"
+          elif [ "$HORA" = "07" ] || [ "$HORA" = "14" ] || [ "$HORA" = "20" ]; then
+            echo "seguir=si" >> "$GITHUB_OUTPUT"
+          else
+            echo "seguir=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.reloj.outputs.seguir == 'si'
+
+      - uses: actions/setup-node@v4
+        if: steps.reloj.outputs.seguir == 'si'
+        with:
+          node-version: 22
+
+      - name: Recoger las noticias
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/ingesta.mjs
+
+      - name: Buscar fotos libres
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        run: node scripts/fotos.mjs
+
+      - name: Construir el sitio en los cuatro idiomas
+        if: steps.reloj.outputs.seguir == 'si'
+        env:
+          SITIO_URL: https://${{ github.repository_owner }}.github.io
+        run: node build.mjs
+
+      - name: Guardar el archivo de noticias
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        run: |
+          git config user.name  "La Prida"
+          git config user.email "bot@laprida.local"
+          git add content/data content/fotos
+          git diff --staged --quiet || git commit -m "Edicion de las ${{ steps.reloj.outputs.hora_local }}:00"
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: steps.reloj.outputs.seguir == 'si'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.reloj.outputs.seguir == 'si'
+        with:
+          path: dist
+      - id: despliegue
+        if: steps.reloj.outputs.seguir == 'si'
+        uses: actions/deploy-pages@v4
