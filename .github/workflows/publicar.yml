@@ -1,14 +1,21 @@
 name: Ediciones de La Prida
 
 # Tres ediciones al día: 07:00, 14:00 y 20:00 hora de Asturias.
-# Cron va en UTC y no sabe del cambio de hora, así que se dispara en las dos
-# horas UTC posibles de cada edición y el primer paso mira qué hora es de
-# verdad en Asturias: si no toca, se para sin hacer nada.
+#
+# Cron va siempre en UTC y no sabe nada del cambio de hora, así que España se
+# desplaza una hora dos veces al año. Para que las ediciones salgan SIEMPRE a
+# la hora local correcta, se dispara en las dos horas UTC posibles de cada
+# edición (verano e invierno) y el primer paso comprueba qué hora es de verdad
+# en Asturias: si no toca, el trabajo se para ahí sin hacer nada.
+#
+#   07:00 local → 05:00 UTC en verano (CEST), 06:00 UTC en invierno (CET)
+#   14:00 local → 12:00 UTC en verano,        13:00 UTC en invierno
+#   20:00 local → 18:00 UTC en verano,        19:00 UTC en invierno
 
 on:
   schedule:
     - cron: '5 5,6,12,13,18,19 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # botón manual en la pestaña Actions
   push:
     branches: [main]
 
@@ -17,6 +24,7 @@ permissions:
   pages: write
   id-token: write
 
+# Nunca dos ediciones a la vez: la segunda espera, no se cancela.
 concurrency:
   group: laprida
   cancel-in-progress: false
@@ -24,17 +32,26 @@ concurrency:
 jobs:
   edicion:
     runs-on: ubuntu-latest
+    # actions/deploy-pages exige que el trabajo declare el entorno github-pages.
+    # Sin estas tres líneas el sitio se construye bien pero el despliegue falla
+    # con «Missing environment» y la web se queda como estaba.
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
     steps:
-      - name: Toca edicion ahora
+      - name: ¿Toca edición ahora?
         id: reloj
         run: |
           HORA=$(TZ=Europe/Madrid date +'%H')
           echo "hora_local=$HORA" >> "$GITHUB_OUTPUT"
           if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Lanzado a mano (${{ github.event_name }}): se publica igual."
             echo "seguir=si" >> "$GITHUB_OUTPUT"
           elif [ "$HORA" = "07" ] || [ "$HORA" = "14" ] || [ "$HORA" = "20" ]; then
+            echo "Son las $HORA:00 en Asturias. Toca edición."
             echo "seguir=si" >> "$GITHUB_OUTPUT"
           else
+            echo "Son las $HORA:00 en Asturias. No toca; esta pasada se salta."
             echo "seguir=no" >> "$GITHUB_OUTPUT"
           fi
 
@@ -52,9 +69,22 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/ingesta.mjs
 
-      - name: Buscar fotos libres
+      - name: Buscar fotos libres para los temas del día
         if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
         run: node scripts/fotos.mjs
+
+      - name: Comprobar el nombre del repositorio
+        if: steps.reloj.outputs.seguir == 'si'
+        run: |
+          ESPERADO="${{ github.repository_owner }}.github.io"
+          ACTUAL="${GITHUB_REPOSITORY#*/}"
+          if [ "$ACTUAL" != "$ESPERADO" ]; then
+            echo "::error::El repositorio se llama '$ACTUAL' y debería llamarse '$ESPERADO'."
+            echo "::error::Con otro nombre, GitHub sirve la web en una subcarpeta y se rompen todos los enlaces."
+            echo "::error::Solución: Settings → General → Repository name → cámbialo a $ESPERADO."
+            exit 1
+          fi
+          echo "Repositorio correcto: la web se servirá en https://$ESPERADO/"
 
       - name: Construir el sitio en los cuatro idiomas
         if: steps.reloj.outputs.seguir == 'si'
@@ -68,7 +98,7 @@ jobs:
           git config user.name  "La Prida"
           git config user.email "bot@laprida.local"
           git add content/data content/fotos
-          git diff --staged --quiet || git commit -m "Edicion de las ${{ steps.reloj.outputs.hora_local }}:00"
+          git diff --staged --quiet || git commit -m "Edición de las ${{ steps.reloj.outputs.hora_local }}:00 del $(TZ=Europe/Madrid date +'%d/%m/%Y')"
           git push
 
       - uses: actions/configure-pages@v5
