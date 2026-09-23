@@ -61,8 +61,13 @@ const consultas = (pieza) => {
   const heno = `${pieza.titular} ${pieza.entradilla} ${(pieza.etiquetas ?? []).join(' ')}`;
   const lista = [];
   for (const [re, q] of TEMAS) if (re.test(heno)) lista.push(`${q} ${lugar}`.trim());
-  lista.push(`${lugar} Asturias`);
-  if (c?.capital && c.capital !== lugar) lista.push(`${c.capital} Asturias`);
+  // NO hay consulta comodín del tipo «<Concejo> Asturias». La había, y por ella
+  // un reportaje sobre un obrador de chocolate en Cabranes salió ilustrado con
+  // un bandu del ayuntamiento sobre el COVID, y otro con unos escudos del museo
+  // arqueolóxicu. Eran de Cabranes, sí, pero no tenían nada que ver.
+  //
+  // La regla: la foto tiene que ser del ASUNTO, no solo del sitio. Si el tema no
+  // casa con ninguna categoría, la pieza se queda con su ilustración propia.
   return [...new Set(lista)];
 };
 
@@ -114,6 +119,25 @@ function esDeAqui(c) {
   return DE_AQUI.test(rastro);
 }
 
+/**
+ * El nombre del autor, y solo el nombre.
+ *
+ * Commons mete a veces el aviso legal entero en el campo «Artist»: una entrada
+ * traía los cuatro párrafos de la Ley 1/1996 de Propiedad Intelectual como si
+ * fueran el nombre del fotógrafo, y así salía al pie de la foto. Se limpia el
+ * HTML, se corta en la primera línea y se limita a algo que quepa en un crédito.
+ */
+function nombreDeAutor(bruto) {
+  const limpio = String(bruto ?? '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (!limpio) return 'Autoría desconocida';
+  const primera = limpio.split(/[.\n]/)[0].trim();
+  if (!primera || primera.length > 80) return 'Autoría desconocida';
+  return primera;
+}
+
 const cabeceras = { 'user-agent': 'LaPrida/1.0 (diario local de Asturias; contacto en la web)' };
 
 async function conTiempo(url, opciones = {}, ms = 25000) {
@@ -144,7 +168,7 @@ async function buscarOpenverse(q) {
     .filter((r) => r.url && (r.width ?? 0) >= 1200)
     .map((r) => ({
       descarga: r.url,
-      autor: r.creator || 'Autoría desconocida',
+      autor: nombreDeAutor(r.creator),
       pie: r.title || '',
       licencia: (r.license || '').toUpperCase(),
       origen: r.foreign_landing_url || r.url,
@@ -180,7 +204,7 @@ async function buscarCommons(q) {
     .filter((i) => (i.width ?? 0) >= 1200)
     .map((i) => ({
       descarga: i.thumburl || i.url,
-      autor: (i.extmetadata?.Artist?.value ?? '').replace(/<[^>]+>/g, '').trim() || 'Autoría desconocida',
+      autor: nombreDeAutor(i.extmetadata?.Artist?.value),
       pie: (i.extmetadata?.ObjectName?.value ?? '').replace(/<[^>]+>/g, '').trim(),
       licencia: i.extmetadata?.LicenseShortName?.value ?? 'Dominio público',
       origen: i.descriptionurl || i.url,
@@ -217,11 +241,23 @@ async function main() {
   const vistas = new Set();
   const porId = Object.fromEntries(piezas.map((p) => [p.id, p]));
   for (const [id, c] of Object.entries({ ...creditos })) {
+    // Las consultas comodín de la versión anterior («Villaviciosa Asturias»,
+    // «Nava asturias landscape») traían fotos del sitio pero ajenas al asunto.
+    // Se retiran para que la pieza se ilustre o busque otra vez con las reglas
+    // nuevas, que solo aceptan fotos del tema.
+    const comodin = /^\S+\s+asturias(\s+landscape)?$/i.test(String(c.consulta ?? '').trim());
+
     let motivo = '';
-    if (!esDeAqui(c)) motivo = 'no acredita ser de aquí';
+    if (!porId[id]) motivo = 'la pieza ya no existe';
+    else if (!esDeAqui(c)) motivo = 'no acredita ser de aquí';
     else if (c.origen && vistas.has(c.origen)) motivo = 'repetida en otra pieza';
-    else if (porId[id] && esDelicada(porId[id])) motivo = 'pieza delicada (suceso)';
+    else if (esDelicada(porId[id])) motivo = 'pieza delicada (suceso)';
+    else if (comodin) motivo = 'consulta comodín: del sitio pero no del asunto';
     if (!motivo) {
+      // El autor se sanea también en lo ya guardado: hubo un crédito con la ley
+      // de propiedad intelectual entera dentro.
+      c.autor = nombreDeAutor(c.autor);
+      creditos[id] = c;
       if (c.origen) vistas.add(c.origen);
       continue;
     }
