@@ -83,6 +83,12 @@ export const tarifas = [
     incluye: ['Publicación gratuita siempre', 'Destacada 15 días', 'Sale en el boletín'],
   },
   {
+    nombre: 'Anuncio destacado en el tablón',
+    precio: '10 € por anuncio',
+    descripcion: 'Poner un anuncio es gratis y lo será siempre. Por 10 € sale arriba del tablón y en la portada de su concejo.',
+    incluye: ['Publicación gratuita siempre', 'Destacado 15 días', 'También en el boletín'],
+  },
+  {
     nombre: 'Esquelas y avisos',
     precio: '15 € por aviso',
     descripcion: 'Esquelas, funerales y avisos de vecinos. Publicación el mismo día.',
@@ -428,7 +434,56 @@ export const secciones = [
   { slug: 'deporte-y-cultura', nombre: 'Deporte y cultura', descripcion: 'Equipos, salas, patrimonio y tradición: lo que pasa alrededor de lo que se va a ver.' },
   { slug: 'trabajo', nombre: 'Trabajo', descripcion: 'Ofertas de empleo de los cinco concejos: quién busca gente, para qué y hasta cuándo. Publicar una oferta es gratis para los negocios de casa.' },
   { slug: 'avisos', nombre: 'Avisos y servicios', descripcion: 'Obras, cortes, guardias y lo práctico del día.' },
+  { slug: 'tablon', nombre: 'Tablón', descripcion: 'Los anuncios por palabras de la comarca: casas, coches, ganado, aperos y lo que haga falta. Publicar es gratis; los vecinos de los cinco concejos ponen y quitan.' },
 ];
+
+// ── El tablón de anuncios ───────────────────────────────────────────────────
+//
+// La versión sencilla, y a propósito: el vecino manda el anuncio, Emilio lo
+// aprueba, y sale en la siguiente edición. Sin servidor, sin cuentas, sin
+// subida de fotos y sin coste. La moderación va POR DELANTE de la publicación,
+// que es lo que mantiene fuera las estafas en un sitio que vive de la confianza.
+//
+// Para publicar un anuncio: añádelo a content/data/anuncios.json y sube el
+// fichero. Para retirarlo: bórralo de ahí, o pon "hasta" con una fecha pasada.
+export const categoriasAnuncio = [
+  {
+    slug: 'inmuebles',
+    nombre: 'Casas y fincas',
+    icono: '🏠',
+    descripcion: 'Venta y alquiler de casas, pisos, fincas, cuadras y terrenos.',
+    // La ley española exige la etiqueta de eficiencia energética en los
+    // anuncios de venta y alquiler de vivienda. Sin ella el anuncio no sale.
+    exigeCertificadoEnergetico: true,
+  },
+  {
+    slug: 'motor',
+    nombre: 'Motor y maquinaria',
+    icono: '🚜',
+    descripcion: 'Coches, furgonetas, tractores y maquinaria agrícola.',
+  },
+  {
+    slug: 'ganado-y-agro',
+    nombre: 'Ganado y agro',
+    icono: '🐄',
+    descripcion: 'Reses, aperos, pienso, madera, manzana y todo lo del campo.',
+  },
+  {
+    slug: 'varios',
+    nombre: 'Varios y servicios',
+    icono: '🧰',
+    descripcion: 'Muebles, leña, clases, cuidados, arreglos y lo que no cabe en las otras.',
+  },
+];
+
+export const tablon = {
+  // A dónde manda la gente su anuncio. Cámbialo por tu correo de verdad.
+  correo: 'tablon@laprida.example',
+  // Cuánto dura un anuncio si no trae fecha de caducidad.
+  diasPorDefecto: 30,
+  // Los anuncios de particulares no cuestan nada. Nunca.
+  gratis: true,
+};
 
 // ── Tono de redacción ───────────────────────────────────────────────────────
 // Esto es literalmente lo que se le pasa al modelo al reescribir. Tócalo sin miedo.

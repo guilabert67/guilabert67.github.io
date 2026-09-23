@@ -7,6 +7,14 @@
     "fuente": "Wikimedia Commons",
     "pie": "Queso de Cabrales"
   },
+  "la-balsa-de-becena-vuelve-a-dar-agua": {
+    "archivo": "la-balsa-de-becena-vuelve-a-dar-agua.webp",
+    "autor": "Formica Custodis",
+    "licencia": "Dominio público",
+    "origen": "https://commons.wikimedia.org/wiki/File:Asturian_Mountain_Cattle.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Ganado asturiano de montaña"
+  },
   "el-no-a-la-planta-de-biogas-llega-al-certamen-del-cabrales": {
     "archivo": "el-no-a-la-planta-de-biogas-llega-al-certamen-del-cabrales.webp",
     "autor": "Jordi Gili",
@@ -111,13 +119,20 @@
     "fuente": "Wikimedia Commons",
     "pie": "El Tren Piragüero del Sella"
   },
-  "el-comercio-de-villaviciosa-homenajea-a-la-banda-gaites-por-su-40-aniv": {
-    "archivo": "el-comercio-de-villaviciosa-homenajea-a-la-banda-gaites-por-su-40-aniv.jpg",
-    "autor": "Zarateman",
-    "licencia": "CC0",
-    "origen": "https://commons.wikimedia.org/w/index.php?curid=136471512",
-    "fuente": "wikimedia",
-    "pie": "Puelles, Villaviciosa - Iglesia de San Salvador de Valdediós 01",
-    "consulta": "iglesia asturias Villaviciosa"
+  "pilona-estrena-la-benefilmica": {
+    "archivo": "pilona-estrena-la-benefilmica.webp",
+    "autor": "Mentxuwiki",
+    "licencia": "CC BY-SA 4.0",
+    "origen": "https://commons.wikimedia.org/wiki/File:Proyector_de_cine_Wassmann_35mm_2.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Proyector de cine de 35 mm"
+  },
+  "fuensanta-180-anos-brotando-en-nava": {
+    "archivo": "fuensanta-180-anos-brotando-en-nava.webp",
+    "autor": "AsturiasVerde",
+    "licencia": "Dominio público",
+    "origen": "https://commons.wikimedia.org/wiki/File:Candas-fuente-santarua2.JPG",
+    "fuente": "Wikimedia Commons",
+    "pie": "Fuente de Santa Rúa"
   }
 }

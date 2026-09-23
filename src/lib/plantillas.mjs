@@ -1,6 +1,6 @@
 // Plantillas HTML de La Prida. Todo se genera con plantillas de cadena: cero dependencias.
 
-import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo } from '../config.mjs';
+import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo, categoriasAnuncio, tablon } from '../config.mjs';
 import { tipoPorSlug, tiposPresentes, esFuturo, fechaDelPlan } from './eventos.mjs';
 import {
   idiomas, IDIOMA_BASE, idiomaDe, ruta, t as texto,
@@ -113,6 +113,7 @@ export function nombreSeccion(seccion) {
     trabajo: { en: 'Jobs', fr: 'Emploi', de: 'Stellen' },
     avisos: { en: 'Notices', fr: 'Infos pratiques', de: 'Hinweise' },
     actualidad: { en: 'News', fr: 'Actualités', de: 'Aktuelles' },
+    tablon: { en: 'Noticeboard', fr: 'Petites annonces', de: 'Schwarzes Brett' },
   };
   return mapa[seccion.slug]?.[estado.idioma] ?? seccion.nombre;
 }
@@ -145,6 +146,11 @@ export function descripcionSeccion(seccion) {
       en: 'What has happened today across the five councils.',
       fr: 'Ce qui s’est passé aujourd’hui dans les cinq communes.',
       de: 'Was heute in den fünf Gemeinden passiert ist.',
+    },
+    tablon: {
+      en: 'The local small ads: houses, cars, cattle, tools and whatever else. Posting is free; neighbours of the five councils put things up and take them down.',
+      fr: 'Les petites annonces d’ici : maisons, voitures, bétail, outillage et le reste. Publier est gratuit ; ce sont les habitants des cinq communes qui mettent et retirent.',
+      de: 'Die Kleinanzeigen der Gegend: Häuser, Autos, Vieh, Gerät und was sonst anfällt. Aufgeben ist kostenlos; die Nachbarn der fünf Gemeinden stellen ein und nehmen heraus.',
     },
   };
   return mapa[seccion.slug]?.[estado.idioma] ?? seccion.descripcion;
@@ -306,6 +312,124 @@ export function bloqueDespertador(puntos, fecha) {
 </section>`;
 }
 
+/* --- el tablón de anuncios --------------------------------------------------- */
+
+export const categoriaPorSlug = (slug) => categoriasAnuncio.find((c) => c.slug === slug);
+
+/** El nombre de la categoría en el idioma que toca. */
+export function nombreCategoria(cat) {
+  if (!cat) return '';
+  const mapa = {
+    inmuebles: { en: 'Houses and land', fr: 'Maisons et terrains', de: 'Häuser und Land' },
+    motor: { en: 'Vehicles and machinery', fr: 'Véhicules et matériel', de: 'Fahrzeuge und Maschinen' },
+    'ganado-y-agro': { en: 'Livestock and farming', fr: 'Bétail et agriculture', de: 'Vieh und Landwirtschaft' },
+    varios: { en: 'Odds and services', fr: 'Divers et services', de: 'Verschiedenes und Dienste' },
+  };
+  if (estado.idioma === IDIOMA_BASE) return cat.nombre;
+  return mapa[cat.slug]?.[estado.idioma] ?? cat.nombre;
+}
+
+/** ¿Sigue vivo el anuncio? Caduca solo, sin que nadie tenga que acordarse. */
+export function anuncioVivo(a, ahora = new Date()) {
+  const hoy = ahora.toISOString().slice(0, 10);
+  if (a.hasta) return a.hasta >= hoy;
+  const desde = a.desde ? new Date(a.desde) : null;
+  if (!desde) return true;
+  const limite = new Date(desde.getTime() + (tablon.diasPorDefecto ?? 30) * 86400000);
+  return limite >= ahora;
+}
+
+export function categoriasPresentes(lista) {
+  const hay = new Set(lista.map((a) => a.categoria));
+  return categoriasAnuncio.filter((c) => hay.has(c.slug));
+}
+
+/**
+ * La ficha de un anuncio.
+ *
+ * Solo se pinta lo que el anunciante haya dado de verdad: ni un dato inventado,
+ * ni un hueco con guion. En inmuebles el certificado energético va SIEMPRE
+ * visible, porque en España es obligatorio en los anuncios de venta y alquiler.
+ */
+export function tarjetaAnuncio(a) {
+  const slug = a.concejoSlug ?? '';
+  const cat = categoriaPorSlug(a.categoria);
+  const vivo = anuncioVivo(a);
+  const filas = [
+    a.precio ? [T('precio'), esc(a.precio)] : null,
+    a.zona ? [T('donde'), esc([a.zona, a.concejo].filter(Boolean).join(', '))] : null,
+    a.anunciante ? [T('quienAnuncia'), esc(T(a.anunciante === 'profesional' ? 'profesional' : 'particular'))] : null,
+    cat?.exigeCertificadoEnergetico && a.certificadoEnergetico
+      ? [T('certificadoEnergetico'), esc(a.certificadoEnergetico)]
+      : null,
+    a.hasta ? [T('hasta'), esc(fechaCorta(a.hasta))] : null,
+  ].filter(Boolean);
+
+  return `<article class="anuncio${a.destacado ? ' anuncio--destacado' : ''}${vivo ? '' : ' anuncio--caducado'}" style="${vars(slug)}" data-clave="${esc(a.categoria ?? '')}">
+  <div class="anuncio__cab">
+    ${cat ? `<span class="sello"><span class="sello__icono" aria-hidden="true">${cat.icono}</span>${esc(nombreCategoria(cat))}</span>` : ''}
+    ${slug ? `<span class="chapa" style="${vars(slug)}">${disco(slug)}${esc(a.concejo ?? '')}</span>` : ''}
+    ${a.ejemplo ? `<span class="empleo__ejemplo">${esc(T('ejemplo'))}</span>` : ''}
+    ${a.destacado && !a.ejemplo ? `<span class="empleo__destaca">${esc(T('destacada'))}</span>` : ''}
+    ${vivo ? '' : `<span class="empleo__cerrada">${esc(T('anuncioCaducado'))}</span>`}
+  </div>
+  <h3 class="anuncio__titulo">${esc(a.titulo)}</h3>
+  ${a.texto ? `<p class="anuncio__texto">${esc(a.texto)}</p>` : ''}
+  ${
+    filas.length
+      ? `<dl class="empleo__datos">${filas
+          .map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`)
+          .join('')}</dl>`
+      : ''
+  }
+  ${
+    a.contacto && vivo
+      ? `<p class="empleo__contacto"><a href="${esc(
+          a.contacto.startsWith('http') ? a.contacto : `mailto:${a.contacto}`
+        )}"${a.contacto.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${esc(T('contactar'))}</a></p>`
+      : ''
+  }
+</article>`;
+}
+
+/** Los filtros por categoría. Sin JS se ve todo, que es lo correcto. */
+export function filtrosTablon(lista) {
+  const cats = categoriasPresentes(lista);
+  if (cats.length < 2) return '';
+  return `<div class="filtros" role="group" aria-label="${esc(T('filtrarTablon'))}">
+  <button class="filtro filtro--activo" type="button" data-filtro="todo" aria-pressed="true">${esc(T('filtroTodo'))}</button>
+  ${cats
+    .map(
+      (c) =>
+        `<button class="filtro" type="button" data-filtro="${esc(c.slug)}" aria-pressed="false"><span aria-hidden="true">${c.icono}</span> ${esc(nombreCategoria(c))}</button>`
+    )
+    .join('')}
+</div>`;
+}
+
+export function publicaTuAnuncio() {
+  const correo = tablon.correo || sitio.email;
+  return `<div class="caja caja--llamada">
+  <h2 class="caja__titulo">${esc(T('vendesAlgo'))}</h2>
+  <p style="margin:0 0 14px;font-size:15px;color:var(--tinta-2)">${esc(T('comoPublicar'))}</p>
+  <p style="margin:0"><a class="volver" style="margin:0" href="mailto:${esc(correo)}">${esc(T('escribirA'))} ${esc(correo)} →</a></p>
+</div>`;
+}
+
+/**
+ * El aviso del tablón. No es letra pequeña: va arriba y se lee.
+ *
+ * La Prida publica, no media. Decirlo claro protege al vecino de la estafa
+ * típica del anuncio y deja clara la posición del diario, que no es parte del
+ * trato ni cobra comisión.
+ */
+export function avisoTablon() {
+  return `<aside class="caja" aria-labelledby="avisotablon">
+  <h2 class="caja__titulo" id="avisotablon">${esc(T('antesDeCerrarTrato'))}</h2>
+  <p style="margin:0;font-size:15px;color:var(--tinta-2)">${esc(T('avisoTablon'))}</p>
+</aside>`;
+}
+
 /* --- actividad cultural ------------------------------------------------------ */
 
 /** El distintivo del tipo de plan. El icono nunca va solo: siempre lleva el nombre. */
@@ -352,7 +476,7 @@ export function itemAgenda(e) {
   const slug = e.concejoSlug ?? concejos.find((c) => c.nombre === e.concejo)?.slug ?? '';
   const donde = [e.lugar, e.concejo].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i).join(' · ');
   return `<a class="agenda__item" href="${U(e.url ?? '/agenda/')}" style="${vars(slug)}"${
-    e.tipoEvento ? ` data-tipo="${esc(e.tipoEvento)}"` : ''
+    e.tipoEvento ? ` data-tipo="${esc(e.tipoEvento)}" data-clave="${esc(e.tipoEvento)}"` : ''
   }${slug ? ` data-concejo="${esc(slug)}"` : ''}>
   <span class="agenda__fecha"><span class="agenda__dia">${f.getDate()}</span><span class="agenda__mes">${mesCortoEn(f, estado.idioma)}</span></span>
   <span class="agenda__que-cuerpo">
@@ -809,11 +933,11 @@ ${contenido}
         x.classList.toggle('filtro--activo', x === b);
         x.setAttribute('aria-pressed', x === b ? 'true' : 'false');
       });
-      document.querySelectorAll('[data-cartelera] .agenda__item').forEach(function (it) {
-        it.hidden = quiere !== 'todo' && it.dataset.tipo !== quiere;
+      document.querySelectorAll('[data-cartelera] [data-clave]').forEach(function (it) {
+        it.hidden = quiere !== 'todo' && it.dataset.clave !== quiere;
       });
       document.querySelectorAll('[data-cartelera]').forEach(function (lista) {
-        var vivos = lista.querySelectorAll('.agenda__item:not([hidden])').length;
+        var vivos = lista.querySelectorAll('[data-clave]:not([hidden])').length;
         var titulo = lista.previousElementSibling;
         lista.hidden = vivos === 0;
         if (titulo && titulo.classList.contains('titulo-seccion')) titulo.hidden = vivos === 0;

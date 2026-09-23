@@ -4,10 +4,15 @@
 //   node scripts/fotos.mjs            → solo las piezas que aún no tienen foto
 //   node scripts/fotos.mjs --todas    → revisa también las que ya tienen
 //
-// Solo descarga imágenes en dominio público o CC0: se pueden usar sin ninguna
-// restricción, sin pedir permiso y sin obligación de citar. Aun así se guarda el
-// crédito en content/fotos/creditos.json y se muestra al pie de cada foto, que es
-// lo correcto aunque la licencia no lo exija.
+// POLÍTICA DE LICENCIAS — no se toca sin pensarlo dos veces.
+//
+// SOLO dominio público y CC0. Nada de CC BY ni CC BY-SA: son legales citando al
+// autor, pero arrastran condiciones (y la SA, además, sobre obras derivadas), y
+// este diario no puede permitirse un lío de derechos por una foto de relleno.
+// CC0 y dominio público no piden permiso, ni cita, ni condiciones de ningún tipo.
+//
+// El crédito se guarda igual en content/fotos/creditos.json y se muestra al pie
+// de cada foto. La licencia no lo exige; se hace porque es lo correcto.
 //
 // Fuentes: Openverse (agregador de la Fundación Wikimedia) y Wikimedia Commons.
 // Necesita salida a internet: se ejecuta en tu ordenador o en el workflow de GitHub.
@@ -127,6 +132,16 @@ function esDeAqui(c) {
  * fueran el nombre del fotógrafo, y así salía al pie de la foto. Se limpia el
  * HTML, se corta en la primera línea y se limita a algo que quepa en un crédito.
  */
+/**
+ * ¿Esta licencia es de las que no piden nada?
+ *
+ * Dominio público y CC0, y se acabó. Se comprueba también lo ya guardado, así
+ * que si un día entró una CC BY-SA, en la siguiente edición se va sola.
+ */
+const LICENCIA_LIBRE = /^\s*(cc0|cc[\s-]?zero|public\s*domain|dominio\s*p[úu]blico|pd(m)?|no\s*known\s*copyright)/i;
+
+const licenciaVale = (licencia) => LICENCIA_LIBRE.test(String(licencia ?? ''));
+
 function nombreDeAutor(bruto) {
   const limpio = String(bruto ?? '')
     .replace(/<[^>]+>/g, ' ')
@@ -196,11 +211,11 @@ async function buscarCommons(q) {
   const res = await conTiempo(url);
   if (!res.ok) throw new Error(`Commons HTTP ${res.status}`);
   const paginas = Object.values((await res.json())?.query?.pages ?? {});
-  const libre = /^(cc0|public domain|pd|pdm)/i;
+
   return paginas
     .map((p) => p.imageinfo?.[0])
     .filter(Boolean)
-    .filter((i) => libre.test(i.extmetadata?.LicenseShortName?.value ?? ''))
+    .filter((i) => licenciaVale(i.extmetadata?.LicenseShortName?.value))
     .filter((i) => (i.width ?? 0) >= 1200)
     .map((i) => ({
       descarga: i.thumburl || i.url,
@@ -249,6 +264,7 @@ async function main() {
 
     let motivo = '';
     if (!porId[id]) motivo = 'la pieza ya no existe';
+    else if (!licenciaVale(c.licencia)) motivo = `licencia con condiciones (${c.licencia})`;
     else if (!esDeAqui(c)) motivo = 'no acredita ser de aquí';
     else if (c.origen && vistas.has(c.origen)) motivo = 'repetida en otra pieza';
     else if (esDelicada(porId[id])) motivo = 'pieza delicada (suceso)';
@@ -270,7 +286,7 @@ async function main() {
   }
   if (fuera) {
     await fs.writeFile(path.join(FOTOS, 'creditos.json'), JSON.stringify(creditos, null, 2) + '\n');
-    console.log(`🧹 ${fuera} fotos retiradas por no acreditar que sean de aquí.\n`);
+    console.log(`🧹 ${fuera} fotos retiradas del banco.\n`);
   }
   if (process.argv.includes('--limpiar')) return;
 

@@ -1,20 +1,35 @@
 {
-  "fecha": "2026-09-23T05:30:14.071Z",
+  "fecha": "2026-09-08T05:00:00.000Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa organiza un campamento urbano gratuito para el Puente de Todos los Santos",
-      "enlace": "/villaviciosa/villaviciosa-organiza-un-campamento-urbano-gratuito-para-el-puente-de-/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Piloña incorpora dos nuevas baterías de reciclaje en Infiesto y La Cueva",
-      "enlace": "/pilona/pilona-incorpora-dos-nuevas-baterias-de-reciclaje-en-infiesto-y-la-cue/"
-    },
-    {
       "concejo": "Cabrales",
-      "frase": "Fin de semana intenso de rescates en Picos de Europa: el último, en el Pico Turbina",
-      "enlace": "/cabrales/fin-de-semana-intenso-de-rescates-en-picos-de-europa-el-ultimo-en-el-p/"
+      "frase": "La balsa de Beceña vuelve a dar agua a helicópteros y ganado.",
+      "enlace": "/cabrales/la-balsa-de-becena-vuelve-a-dar-agua/",
+      "trad": {
+        "en": "The Beceña reservoir is holding water again, for helicopters and for cattle.",
+        "fr": "Le réservoir de Beceña retient de nouveau l’eau, pour les hélicoptères et le bétail.",
+        "de": "Das Becken von Beceña führt wieder Wasser — für Hubschrauber und für das Vieh."
+      }
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Portal se queda sin concurso ganadero: habrá homenaje al mundo rural.",
+      "enlace": "/villaviciosa/villaviciosa-mantiene-vivo-el-portal-con-un-homenaje-al-mundo-rural/",
+      "trad": {
+        "en": "El Portal loses its cattle show: there will be a tribute to farming instead.",
+        "fr": "El Portal perd son concours bovin : il y aura un hommage au monde rural.",
+        "de": "El Portal verliert die Viehschau: Stattdessen gibt es eine Hommage an die Landwirtschaft."
+      }
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "«La sidra de papel» se puede ver hasta el día 16, y merece la vuelta.",
+      "enlace": "/villaviciosa/la-sidra-de-papel-en-villaviciosa/",
+      "trad": {
+        "en": "“Cider on paper” runs until the 16th, and it is worth the detour.",
+        "fr": "« Le cidre en papier » est visible jusqu’au 16, et vaut le détour.",
+        "de": "„Cidre auf Papier“ läuft bis zum 16. und lohnt den Umweg."
+      }
     }
   ]
 }

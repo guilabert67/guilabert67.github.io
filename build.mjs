@@ -10,6 +10,7 @@ import {
   filtrosAgenda, programasOficiales, tarjetaEmpleo, publicaTuOferta, dondeBuscarEmpleo,
   estado, T, U, tr, nombreSeccion,
   itemAgenda, itemAviso, esc, fechaLarga, LOGO, pagina as marco,
+  tarjetaAnuncio, filtrosTablon, publicaTuAnuncio, avisoTablon, anuncioVivo,
 } from './src/lib/plantillas.mjs';
 import { portadaSvg } from './src/lib/portadas.mjs';
 
@@ -185,8 +186,11 @@ del derecho de cita del artículo 32 de la Ley de Propiedad Intelectual.</p>
 las que compartan frases seguidas con ella.</p>
 
 <h2>Imágenes</h2>
-<p>Las fotografías proceden de repositorios de contenido libre, principalmente Wikimedia Commons, y se publican
-con el crédito, la licencia y el enlace al original al pie de cada imagen. No se utilizan fotografías de los
+<p>Solo se publican fotografías en <strong>dominio público o CC0</strong>: las que no exigen permiso, ni cita, ni
+condición alguna. No se usan imágenes con licencia CC BY ni CC BY-SA, aunque citarlas sería legal, para no
+arrastrar obligaciones sobre obras derivadas. Proceden de repositorios de contenido libre, principalmente
+Wikimedia Commons, y se publican con el crédito, la licencia y el enlace al original al pie de cada imagen,
+que es lo correcto aunque la licencia no lo exija. No se utilizan fotografías de los
 medios de los que procede la información, ni siquiera enlazadas desde su servidor. Cuando no hay ninguna imagen
 libre adecuada, se publica una ilustración generada por el propio sitio, que es obra original.</p>
 <p>Las tipografías empleadas (Bricolage Grotesque, Inter y Martian Mono) se distribuyen bajo licencia SIL Open Font License 1.1, que
@@ -207,6 +211,16 @@ terceros y puedes solicitar su supresión en cualquier momento escribiendo a la 
 (por ejemplo, el modo noche), que se guardan solo en tu navegador. Si aceptas, empleamos además cookies de
 terceros de medición de audiencia y de publicidad. Puedes cambiar tu decisión borrando los datos de este sitio
 en tu navegador.</p>
+
+<h2>El tablón de anuncios</h2>
+<p>Los anuncios del tablón los envían vecinos y negocios de los cinco concejos, y se publican tras revisarlos.
+La Prida <strong>no es parte del trato ni cobra comisión</strong>: publica el anuncio, no verifica lo anunciado
+ni interviene en la compraventa. La responsabilidad de lo que se anuncia es de quien lo anuncia, que debe
+poder ser identificado y cumplir lo que le exija la ley según lo que ofrezca: en la venta o el alquiler de
+vivienda, por ejemplo, la etiqueta de eficiencia energética es obligatoria y sin ella el anuncio no se publica.</p>
+<p>No publicamos direcciones postales ni referencias catastrales. Cualquiera puede pedir que se retire su
+anuncio escribiendo a la dirección de contacto, y retiramos sin demora el que nos conste falso, fraudulento
+o contrario a la ley.</p>
 
 <h2>Publicidad</h2>
 <p>Los espacios publicitarios y los contenidos patrocinados se identifican siempre como tales. La publicidad no
@@ -408,12 +422,26 @@ the Spanish Intellectual Property Act.</p>
 <p>Before publication, every piece passes an automatic check that compares its text against the source and blocks
 anything sharing runs of consecutive words with it.</p>
 <h2>Images</h2>
-<p>Photographs come from free-content repositories, chiefly Wikimedia Commons, and are published with the credit,
-the licence and a link to the original beneath each image. We do not use photographs belonging to the media the
+<p>Only <strong>public domain and CC0</strong> photographs are published: the ones that require no permission, no
+credit and no conditions at all. Images under CC BY or CC BY-SA are not used, even though crediting them would be
+lawful, so as not to carry obligations over derivative works. They come from free-content repositories, chiefly
+Wikimedia Commons, and are published with the credit, the licence and a link to the original beneath each image,
+which is the right thing to do even where the licence does not demand it. We do not use photographs belonging to the media the
 information came from, not even hotlinked from their servers. When no suitable free image exists, the site publishes
 an illustration it generates itself, which is original work.</p>
 <p>The typefaces used (Bricolage Grotesque, Inter and Martian Mono) are distributed under the SIL Open Font License 1.1,
 which permits commercial use. The logo and the illustrations are original to this site.</p>
+<h2>The noticeboard</h2>
+<p>Noticeboard listings are sent in by residents and businesses of the five councils and are published after
+being reviewed. La Prida <strong>is not a party to the deal and takes no commission</strong>: we publish the
+listing, we do not verify what is offered and we take no part in the sale. Responsibility lies with whoever
+placed the listing, who must be identifiable and must meet whatever the law requires of what they offer: for
+the sale or rental of a home, for instance, the energy efficiency rating is compulsory, and without it the
+listing is not published.</p>
+<p>We do not publish postal addresses or land-registry references. Anyone may ask for their listing to be
+removed by writing to the contact address, and we take down without delay any listing we know to be false,
+fraudulent or unlawful.</p>
+
 <h2>Taking content down</h2>
 <p>If you hold rights over any content and feel its use here is not appropriate, write to the contact address and we
 will remove or amend it without delay and without asking for explanations. The same applies if you are a news outlet
@@ -446,12 +474,26 @@ citation de l'article 32 de la loi espagnole sur la propriété intellectuelle.<
 <p>Avant publication, chaque article passe un contrôle automatique qui compare son texte à celui de la source et
 bloque ceux qui partageraient des suites de mots avec elle.</p>
 <h2>Images</h2>
-<p>Les photographies proviennent de dépôts de contenu libre, principalement Wikimedia Commons, et sont publiées avec
-le crédit, la licence et le lien vers l'original sous chaque image. Nous n'utilisons pas les photographies des médias
+<p>Seules sont publiées des photographies du <strong>domaine public ou en CC0</strong> : celles qui n'exigent ni
+autorisation, ni citation, ni aucune condition. Les images sous CC BY ou CC BY-SA ne sont pas utilisées, même s'il
+serait licite de les citer, afin de ne pas traîner d'obligations sur les œuvres dérivées. Elles proviennent de dépôts
+de contenu libre, principalement Wikimedia Commons, et sont publiées avec le crédit, la licence et le lien vers
+l'original sous chaque image, ce qui est correct même quand la licence ne l'exige pas. Nous n'utilisons pas les photographies des médias
 dont provient l'information, pas même en lien depuis leur serveur. Quand aucune image libre ne convient, le site
 publie une illustration qu'il génère lui-même, et qui est une œuvre originale.</p>
 <p>Les polices employées (Bricolage Grotesque, Inter et Martian Mono) sont distribuées sous licence SIL Open Font
 License 1.1, qui autorise l'usage commercial. Le logotype et les illustrations sont une création propre à ce site.</p>
+<h2>Les petites annonces</h2>
+<p>Les annonces sont envoyées par des habitants et des commerces des cinq communes et publiées après relecture.
+La Prida <strong>n'est pas partie au contrat et ne prend aucune commission</strong> : nous publions l'annonce,
+nous ne vérifions pas ce qui est proposé et n'intervenons pas dans la vente. La responsabilité incombe à
+l'annonceur, qui doit pouvoir être identifié et respecter ce que la loi exige de ce qu'il propose : pour la
+vente ou la location d'un logement, par exemple, le diagnostic de performance énergétique est obligatoire, et
+sans lui l'annonce n'est pas publiée.</p>
+<p>Nous ne publions ni adresses postales ni références cadastrales. Chacun peut demander le retrait de son
+annonce en écrivant à l'adresse de contact, et nous retirons sans délai toute annonce que nous savons fausse,
+frauduleuse ou illicite.</p>
+
 <h2>Retrait de contenus</h2>
 <p>Si vous détenez des droits sur un contenu et estimez que son usage ici n'est pas approprié, écrivez à l'adresse de
 contact : nous le retirerons ou le modifierons sans délai et sans demander d'explications. De même si vous êtes un
@@ -487,12 +529,25 @@ auf das Zitatrecht nach Artikel 32 des spanischen Urheberrechtsgesetzes.</p>
 <p>Vor der Veröffentlichung durchläuft jeder Beitrag eine automatische Prüfung, die seinen Text mit der Quelle
 vergleicht und alles blockiert, was zusammenhängende Wortfolgen mit ihr teilt.</p>
 <h2>Bilder</h2>
-<p>Die Fotografien stammen aus Repositorien freier Inhalte, vor allem Wikimedia Commons, und werden mit Urhebernennung,
-Lizenz und Link zum Original unter jedem Bild veröffentlicht. Fotos der Medien, aus denen die Information stammt,
+<p>Veröffentlicht werden ausschließlich Fotografien in <strong>Gemeinfreiheit oder CC0</strong>: solche, die weder
+Erlaubnis noch Nennung noch irgendeine Bedingung verlangen. Bilder unter CC BY oder CC BY-SA werden nicht verwendet,
+obwohl ihre Nennung rechtmäßig wäre, um keine Pflichten bei Bearbeitungen mitzuschleppen. Sie stammen aus Repositorien
+freier Inhalte, vor allem Wikimedia Commons, und werden mit Urhebernennung, Lizenz und Link zum Original unter jedem
+Bild veröffentlicht, was richtig ist, auch wo die Lizenz es nicht fordert. Fotos der Medien, aus denen die Information stammt,
 werden nicht verwendet, auch nicht von deren Server eingebunden. Gibt es kein geeignetes freies Bild, veröffentlicht
 die Seite eine selbst erzeugte Illustration, die ein eigenes Werk ist.</p>
 <p>Die verwendeten Schriften (Bricolage Grotesque, Inter und Martian Mono) stehen unter der SIL Open Font License 1.1,
 die kommerzielle Nutzung erlaubt. Logo und Illustrationen sind eigene Schöpfungen dieser Seite.</p>
+<h2>Das schwarze Brett</h2>
+<p>Die Anzeigen schicken Anwohner und Betriebe der fünf Gemeinden; sie werden nach Prüfung veröffentlicht.
+La Prida <strong>ist nicht Vertragspartei und nimmt keine Provision</strong>: Wir veröffentlichen die Anzeige,
+prüfen das Angebotene nicht und wirken am Verkauf nicht mit. Die Verantwortung trägt, wer die Anzeige aufgibt;
+er muss identifizierbar sein und erfüllen, was das Gesetz für sein Angebot verlangt: beim Verkauf oder der
+Vermietung einer Wohnung etwa ist der Energieausweis Pflicht, ohne ihn wird die Anzeige nicht veröffentlicht.</p>
+<p>Postanschriften und Katasterangaben veröffentlichen wir nicht. Jede und jeder kann die Entfernung der
+eigenen Anzeige unter der Kontaktadresse verlangen, und wir nehmen unverzüglich herunter, was uns als falsch,
+betrügerisch oder rechtswidrig bekannt wird.</p>
+
 <h2>Entfernung von Inhalten</h2>
 <p>Wenn Sie Rechte an einem Inhalt halten und seine Verwendung hier für unangemessen halten, schreiben Sie an die
 Kontaktadresse: Wir entfernen oder ändern ihn unverzüglich und ohne Nachfragen. Dasselbe gilt, wenn Sie ein Medium
@@ -621,6 +676,7 @@ async function main() {
   const tiempo = await json('tiempo.json', null);
   const agendaManual = await json('agenda.json', []);
   const empleoManual = await json('empleo.json', []);
+  const anunciosTablon = await json('anuncios.json', []);
 
   const cuando = (e) => new Date(e.fechaEvento || e.fecha).getTime();
   const ayer = Date.now() - 86400000;
@@ -702,6 +758,28 @@ async function main() {
   }
   <div style="display:grid;gap:22px;max-width:520px;margin:0 0 40px">${publicaTuOferta()}${dondeBuscarEmpleo()}</div>
   ${lista.length ? `<h2 class="titulo-seccion">${T('empleoPrensa')}</h2>` : ''}`;
+      }
+      if (s.slug === 'tablon') {
+        // El tablón no lleva noticias: lo que hay es lo que mandan los vecinos.
+        // Primero los vivos, los destacados arriba, y los caducados al final
+        // para que se vea que el tablón se mueve.
+        const orden = [...anunciosTablon].sort((a, b) => {
+          const vivoA = anuncioVivo(a);
+          const vivoB = anuncioVivo(b);
+          if (vivoA !== vivoB) return vivoA ? -1 : 1;
+          if (!!a.destacado !== !!b.destacado) return a.destacado ? -1 : 1;
+          return String(b.desde ?? '').localeCompare(String(a.desde ?? ''));
+        });
+        extra = `
+  <div style="max-width:620px;margin:0 0 28px">${avisoTablon()}</div>
+  ${filtrosTablon(orden)}
+  ${
+    orden.length
+      ? `<div class="anuncios" data-cartelera>${orden.map(tarjetaAnuncio).join('\n')}</div>`
+      : `<p class="vacio">${T('sinAnuncios')}</p>`
+  }
+  <div style="display:grid;gap:22px;max-width:520px;margin:32px 0 40px">${publicaTuAnuncio()}</div>`;
+        lista = [];
       }
       if (s.slug === 'avisos' && avisos.length) {
         extra = `<div class="avisos" style="margin-bottom:36px">${avisos.map(itemAviso).join('\n')}</div>`;
