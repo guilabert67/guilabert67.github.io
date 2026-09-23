@@ -2,15 +2,30 @@ name: Ediciones de La Prida
 
 # Tres ediciones al día: 07:00, 14:00 y 20:00 hora de Asturias.
 #
-# Cron va siempre en UTC y no sabe nada del cambio de hora, así que España se
-# desplaza una hora dos veces al año. Para que las ediciones salgan SIEMPRE a
-# la hora local correcta, se dispara en las dos horas UTC posibles de cada
-# edición (verano e invierno) y el primer paso comprueba qué hora es de verdad
-# en Asturias: si no toca, el trabajo se para ahí sin hacer nada.
+# POR QUÉ ESTO NO ES UN SIMPLE CRON. Dos problemas encadenados:
 #
-#   07:00 local → 05:00 UTC en verano (CEST), 06:00 UTC en invierno (CET)
-#   14:00 local → 12:00 UTC en verano,        13:00 UTC en invierno
-#   20:00 local → 18:00 UTC en verano,        19:00 UTC en invierno
+# 1. Cron va en UTC y no sabe del cambio de hora, así que España se desplaza una
+#    hora dos veces al año.
+# 2. Y el gordo: **GitHub NO cumple la hora del cron**. Los disparos programados
+#    se retrasan con frecuencia, y bastante: el 22/9/2026 el de las 19:05 UTC
+#    saltó a las 21:12, con dos horas y siete minutos de retraso.
+#
+# La primera versión comprobaba «¿son las 07, las 14 o las 20 en Asturias?» y,
+# si no, se paraba. Con el retraso de GitHub esa comprobación fallaba SIEMPRE y
+# el diario no llegó a publicarse solo ni una vez en dos días. El fallo era
+# silencioso: la ejecución salía en verde, en once segundos, sin hacer nada.
+#
+# La solución no es afinar la hora, que no está en nuestra mano: es dejar de
+# preguntar por la hora exacta y preguntar por la FRANJA. Si estamos dentro de
+# una franja y esa edición todavía no se ha publicado hoy, se publica — dé la
+# hora que dé el reloj. Un disparo con dos horas de retraso sigue sirviendo, y
+# dos disparos de la misma franja no duplican nada.
+#
+#   07:00 – 13:59  →  edición de las 07:00
+#   14:00 – 19:59  →  edición de las 14:00
+#   20:00 – 06:59  →  edición de las 20:00 (la de madrugada es de la víspera)
+#
+# Se dispara en las seis horas UTC posibles para no depender de un solo intento.
 
 on:
   schedule:
@@ -39,24 +54,40 @@ jobs:
       name: github-pages
       url: ${{ steps.despliegue.outputs.page_url }}
     steps:
+      # El checkout va PRIMERO: para saber si una edición ya salió hay que poder
+      # mirar el historial. Con profundidad suficiente para varios días.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
       - name: ¿Toca edición ahora?
         id: reloj
         run: |
           HORA=$(TZ=Europe/Madrid date +'%H')
-          echo "hora_local=$HORA" >> "$GITHUB_OUTPUT"
+          HOY=$(TZ=Europe/Madrid date +'%d/%m/%Y')
+          AYER=$(TZ=Europe/Madrid date -d 'yesterday' +'%d/%m/%Y')
+          HORA_N=$((10#$HORA))
+
+          if   [ "$HORA_N" -ge 7 ]  && [ "$HORA_N" -lt 14 ]; then FRANJA=07; FECHA=$HOY
+          elif [ "$HORA_N" -ge 14 ] && [ "$HORA_N" -lt 20 ]; then FRANJA=14; FECHA=$HOY
+          elif [ "$HORA_N" -ge 20 ]; then                        FRANJA=20; FECHA=$HOY
+          else                                                   FRANJA=20; FECHA=$AYER
+          fi
+
+          echo "hora_local=$FRANJA" >> "$GITHUB_OUTPUT"
+          echo "fecha_edicion=$FECHA" >> "$GITHUB_OUTPUT"
+          echo "Son las $HORA:00 en Asturias · franja de las $FRANJA:00 del $FECHA"
+
           if [ "${{ github.event_name }}" != "schedule" ]; then
             echo "Lanzado a mano (${{ github.event_name }}): se publica igual."
             echo "seguir=si" >> "$GITHUB_OUTPUT"
-          elif [ "$HORA" = "07" ] || [ "$HORA" = "14" ] || [ "$HORA" = "20" ]; then
-            echo "Son las $HORA:00 en Asturias. Toca edición."
-            echo "seguir=si" >> "$GITHUB_OUTPUT"
-          else
-            echo "Son las $HORA:00 en Asturias. No toca; esta pasada se salta."
+          elif git log --pretty=%s -n 40 | grep -qF "Edición de las $FRANJA:00 del $FECHA"; then
+            echo "Esa edición ya salió. No se repite."
             echo "seguir=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "Esta edición todavía no ha salido. Adelante."
+            echo "seguir=si" >> "$GITHUB_OUTPUT"
           fi
-
-      - uses: actions/checkout@v4
-        if: steps.reloj.outputs.seguir == 'si'
 
       - uses: actions/setup-node@v4
         if: steps.reloj.outputs.seguir == 'si'
@@ -69,6 +100,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/ingesta.mjs
 
+      # fotos.mjs retira primero las que no acrediten ser de Asturias (una calle
+      # de Filipinas llegó a portada el 22/9/2026) y luego busca las que falten.
       - name: Buscar fotos libres para los temas del día
         if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
         run: node scripts/fotos.mjs
@@ -98,7 +131,11 @@ jobs:
           git config user.name  "La Prida"
           git config user.email "bot@laprida.local"
           git add content/data content/fotos
-          git diff --staged --quiet || git commit -m "Edición de las ${{ steps.reloj.outputs.hora_local }}:00 del $(TZ=Europe/Madrid date +'%d/%m/%Y')"
+          # La fecha la pone el paso del reloj, NO `date`: la edición de las 20:00
+          # que se publica a las 02:00 pertenece a la víspera, y si el mensaje
+          # llevara la fecha de hoy el control de franjas no la reconocería y la
+          # repetiría en cada disparo de la noche.
+          git diff --staged --quiet || git commit -m "Edición de las ${{ steps.reloj.outputs.hora_local }}:00 del ${{ steps.reloj.outputs.fecha_edicion }}"
           git push
 
       - uses: actions/configure-pages@v5
