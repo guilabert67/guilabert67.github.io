@@ -88,6 +88,19 @@ const DE_AQUI = new RegExp(
 );
 
 /**
+ * Piezas que NO llevan foto de archivo.
+ *
+ * Una muerte, un rescate o un accidente no se ilustran con una foto bonita del
+ * concejo: el lector la lee como si fuera del suceso, y además queda indecente.
+ * El 23/9/2026 la portada llevaba una iglesia de Inguanzo sobre «Muere una
+ * senderista noruega de 71 años». Estas piezas se quedan sin fotografía.
+ */
+const SIN_FOTO = /\b(muere|muerte|fallec\w+|falleci\w+|herid[oa]s?|grave|rescat\w+|accidente|siniestro|atropell\w+|incendio|desaparecid[oa]s?|precipit\w+|ahogad[oa]s?|suceso|víctima|funeral|esquela|luto)\b/i;
+
+const esDelicada = (pieza) =>
+  SIN_FOTO.test(`${pieza.titular ?? ''} ${pieza.entradilla ?? ''}`);
+
+/**
  * ¿La imagen es de aquí?
  *
  * Un periódico local no ilustra una noticia de Infiestu con una foto de otro
@@ -201,9 +214,18 @@ async function main() {
   // No se borra a ciegas: se retira el crédito y su fichero, y la pieza vuelve
   // a su ilustración propia en la siguiente construcción.
   let fuera = 0;
+  const vistas = new Set();
+  const porId = Object.fromEntries(piezas.map((p) => [p.id, p]));
   for (const [id, c] of Object.entries({ ...creditos })) {
-    if (esDeAqui(c)) continue;
-    console.log(`✗ fuera: ${id}\n    «${c.pie || 'sin pie'}» · ${c.origen}`);
+    let motivo = '';
+    if (!esDeAqui(c)) motivo = 'no acredita ser de aquí';
+    else if (c.origen && vistas.has(c.origen)) motivo = 'repetida en otra pieza';
+    else if (porId[id] && esDelicada(porId[id])) motivo = 'pieza delicada (suceso)';
+    if (!motivo) {
+      if (c.origen) vistas.add(c.origen);
+      continue;
+    }
+    console.log(`✗ fuera (${motivo}): ${id}\n    «${c.pie || 'sin pie'}» · ${c.origen}`);
     try {
       await fs.unlink(path.join(FOTOS, c.archivo));
     } catch {}
@@ -221,8 +243,19 @@ async function main() {
 
   let puestas = 0;
   let sinFoto = 0;
+  // Ninguna foto se usa en dos piezas: el buscador devuelve el mismo primer
+  // resultado para «Villaviciosa Asturias» una y otra vez, y el 23/9/2026 el
+  // mismo trepador azul ilustró siete noticias distintas.
+  const yaUsadas = new Set(Object.values(creditos).map((c) => c.origen).filter(Boolean));
+
   for (const p of pendientes) {
     process.stdout.write(`· ${p.titular}\n`);
+
+    if (esDelicada(p)) {
+      console.log('    pieza delicada (suceso): sin foto de archivo, a propósito');
+      sinFoto++;
+      continue;
+    }
 
     // Se prueban las consultas de la más concreta a la más general, y de cada
     // una solo sobreviven los candidatos que acrediten ser de Asturias.
@@ -237,7 +270,7 @@ async function main() {
           console.log(`    (${err.message})`);
           continue;
         }
-        const buenos = brutos.filter(esDeAqui);
+        const buenos = brutos.filter(esDeAqui).filter((c) => !yaUsadas.has(c.origen));
         if (brutos.length && !buenos.length) {
           console.log(`    "${q}" → ${brutos.length} resultados, ninguno acredita ser de aquí`);
         }
@@ -269,6 +302,7 @@ async function main() {
           pie: c.pie ?? '',
           consulta: usada,
         };
+        yaUsadas.add(c.origen);
         console.log(`    ✓ ${archivo} · ${c.licencia} · ${c.autor} · «${c.pie}»`);
         puestas++;
         ok = true;

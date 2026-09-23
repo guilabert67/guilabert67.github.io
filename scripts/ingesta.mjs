@@ -9,8 +9,8 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { concejos, fuentesRegionales, ingesta } from '../src/config.mjs';
-import { leerFeed, mencionaConcejo } from '../src/lib/rss.mjs';
+import { concejos, fuentesRegionales, otrosLugares, ingesta } from '../src/config.mjs';
+import { leerFeed, mencionaConcejo, esResumenRegional } from '../src/lib/rss.mjs';
 import { reescribir, despertador, traducir } from '../src/lib/redactor.mjs';
 import { tipoDeEvento, esFuturo, esEmpleo } from '../src/lib/eventos.mjs';
 import { revisarPieza } from '../src/lib/antiplagio.mjs';
@@ -105,7 +105,9 @@ async function main() {
     console.log(`· ${c.nombre}`);
     for (const url of c.feeds) {
       const items = await leerFeed(url, `${c.nombre} · feed propio`);
-      const suyas = items.filter((i) => mencionaConcejo(i, c, { usarEnlace: false }));
+      const suyas = items.filter(
+        (i) => mencionaConcejo(i, c, { usarEnlace: false }) && !esResumenRegional(i, otrosLugares)
+      );
       porConcejo.get(c.slug).push(...suyas);
       const fuera = items.length - suyas.length;
       descartadas += fuera;
@@ -125,7 +127,7 @@ async function main() {
     let colocadas = 0;
     for (const item of items) {
       for (const c of concejos) {
-        if (mencionaConcejo(item, c)) {
+        if (mencionaConcejo(item, c) && !esResumenRegional(item, otrosLugares)) {
           porConcejo.get(c.slug).push(item);
           colocadas++;
           break;
@@ -154,8 +156,15 @@ async function main() {
       categorias: p.etiquetas ?? [],
       enlace: p.fuente?.url ?? '',
     };
-    if (mencionaConcejo(comoItem, c, { usarEnlace: false })) return true;
-    console.log(`  ✗ retirada por no ser de aquí: [${c.nombre}] ${p.titular}`);
+    // Para detectar un repaso regional solo valen el titular y la entradilla:
+    // es lo que ve la ingesta cuando llega la pieza. Un cuerpo largo nombra de
+    // paso a los concejos vecinos (Onís, Peñamellera) sin ser un repaso, y
+    // mirarlo entero tiraba noticias buenas de casa.
+    const comoTitular = { ...comoItem, resumenOriginal: p.entradilla ?? '' };
+    const repaso = esResumenRegional(comoTitular, otrosLugares);
+    if (mencionaConcejo(comoItem, c, { usarEnlace: false }) && !repaso) return true;
+    const motivo = repaso ? `repaso regional (${repaso.join(', ')})` : 'no nombra el concejo';
+    console.log(`  ✗ retirada, ${motivo}: [${c.nombre}] ${p.titular}`);
     return false;
   });
   if (previas.length !== guardadas.length) {

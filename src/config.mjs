@@ -235,6 +235,9 @@ export const concejos = [
       'canales de cabrales',
       'puertas de cabrales',
       'cares',
+    
+      'beceña','becena','la caballar','queso de cabrales','queserías de cabrales',
+      'queserias de cabrales','denominación de origen cabrales','picu urriellu','naranjo de bulnes',
     ],
   },
   {
@@ -277,6 +280,34 @@ export const concejos = [
 ];
 
 // Fuentes regionales: se leen enteras y se filtran por las palabras clave de cada concejo.
+/**
+ * Otros lugares de Asturias que NO son de la línea.
+ *
+ * Sirven para detectar los resúmenes regionales: «del gochu gratis de Noreña al
+ * cordero de Saliencia, los figos de Villaviciosa y 40 mesas indianas en Oviedo»
+ * menciona Villaviciosa de pasada, así que colaba el filtro de topónimos. Si una
+ * pieza nombra DOS o más sitios de fuera, es un repaso a toda Asturias y no una
+ * noticia de casa.
+ *
+ * Están fuera a propósito los nombres que son también palabras corrientes
+ * (Caso, Salas, Grado, Illas, Lena): darían falsos positivos a mansalva.
+ * Amplíala cuando veas colarse un repaso regional.
+ */
+export const otrosLugares = [
+  'oviedo', 'uviéu', 'gijón', 'xixón', 'avilés', 'siero', 'pola de siero', 'langreo',
+  'mieres', 'noreña', 'llanera', 'carreño', 'candás', 'luanco', 'gozón', 'corvera',
+  'castrillón', 'piedras blancas', 'laviana', 'pola de laviana', 'san martín del rey aurelio',
+  'sotrondio', 'bimenes', 'sariego', 'nava de asturias', 'llanes', 'ribadesella',
+  'cangas de onís', 'parres', 'arriondas', 'colunga', 'lastres', 'caravia', 'onís',
+  'peñamellera alta', 'peñamellera baja', 'panes', 'ribadedeva', 'colombres', 'amieva',
+  'ponga', 'sobrescobio', 'tineo', 'cangas del narcea', 'valdés', 'luarca', 'navia',
+  'pravia', 'cudillero', 'muros de nalón', 'soto del barco', 'somiedo', 'saliencia',
+  'teverga', 'quirós', 'proaza', 'santo adriano', 'candamo', 'las regueras', 'riosa',
+  'morcín', 'ribera de arriba', 'belmonte de miranda', 'allande', 'ibias', 'degaña',
+  'boal', 'coaña', 'el franco', 'tapia de casariego', 'castropol', 'vegadeo', 'taramundi',
+  'villayón', 'grandas de salime', 'pesoz', 'illano', 'oscos',
+];
+
 export const fuentesRegionales = [
   { nombre: 'El Fielato', url: 'https://www.elfielato.es/rss/', tipo: 'rss' },
   { nombre: 'El Fielato · Cultura', url: 'https://www.elfielato.es/rss/cultura/', tipo: 'rss' },

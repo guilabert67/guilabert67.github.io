@@ -114,6 +114,27 @@ export async function leerFeed(url, origen = '', { timeoutMs = 20000 } = {}) {
 }
 
 /** ¿Habla esta pieza de un concejo concreto? */
+const limpiarTexto = (s) => String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
+/**
+ * ¿Es un repaso a toda Asturias disfrazado de noticia de casa?
+ *
+ * Los medios regionales publican resúmenes que tocan media región y nombran uno
+ * de nuestros concejos de pasada. Pasan el filtro de topónimos con todas las de
+ * la ley, pero no son noticia local. Si la pieza nombra DOS o más lugares de
+ * fuera de la línea, no entra.
+ */
+export function esResumenRegional(item, otrosLugares, minimo = 2) {
+  const heno = limpiarTexto(`${item.titulo} ${item.resumenOriginal} ${item.categorias.join(' ')}`);
+  const fuera = new Set();
+  for (const lugar of otrosLugares) {
+    const l = limpiarTexto(lugar).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (new RegExp(`(^|[^a-z])${l}([^a-z]|$)`).test(heno)) fuera.add(lugar);
+    if (fuera.size >= minimo) return [...fuera];
+  }
+  return fuera.size >= minimo ? [...fuera] : null;
+}
+
 /**
  * ¿La pieza nombra este concejo o alguno de sus pueblos?
  *
