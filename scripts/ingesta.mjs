@@ -95,12 +95,27 @@ async function main() {
   // 1. Descarga
   const porConcejo = new Map(concejos.map((c) => [c.slug, []]));
 
+  // El feed propio de un concejo NO es garantía de que la pieza sea de aquí:
+  // los medios de comarca cuelan en él noticias regionales (el gochu de Noreña,
+  // recetas de una abuela asturiana). La Prida es hiperlocal, así que toda
+  // pieza —venga del feed que venga— tiene que nombrar el concejo o alguno de
+  // sus pueblos. Si de un titular no se puede decir dónde ha pasado, no entra.
+  let descartadas = 0;
   for (const c of concejos) {
     console.log(`· ${c.nombre}`);
     for (const url of c.feeds) {
       const items = await leerFeed(url, `${c.nombre} · feed propio`);
-      porConcejo.get(c.slug).push(...items);
-      console.log(`    ${items.length} piezas de ${new URL(url).hostname}`);
+      const suyas = items.filter((i) => mencionaConcejo(i, c, { usarEnlace: false }));
+      porConcejo.get(c.slug).push(...suyas);
+      const fuera = items.length - suyas.length;
+      descartadas += fuera;
+      console.log(
+        `    ${suyas.length} de casa de ${items.length} en ${new URL(url).hostname}` +
+          (fuera ? ` · ${fuera} descartadas por no nombrar el concejo` : '')
+      );
+      for (const i of items.filter((x) => !suyas.includes(x))) {
+        console.log(`      ✗ ${i.titulo}`);
+      }
     }
   }
 
@@ -117,11 +132,35 @@ async function main() {
         }
       }
     }
+    descartadas += items.length - colocadas;
     console.log(`    ${f.nombre}: ${items.length} leídas, ${colocadas} de casa`);
+  }
+  if (descartadas) {
+    console.log(`\n  ${descartadas} piezas descartadas por no ser de los cinco concejos.`);
   }
 
   // 2. Deduplicar contra lo ya publicado
-  const previas = await leerJSON('noticias.json', []);
+  //
+  // Antes de nada, se retiran las piezas guardadas que hoy no pasarían el
+  // filtro: las que entraron cuando el feed propio se daba por bueno sin más.
+  // Así lo que se coló ayer se va solo, sin que nadie tenga que revisarlo.
+  const guardadas = await leerJSON('noticias.json', []);
+  const previas = guardadas.filter((p) => {
+    const c = concejos.find((x) => x.slug === p.concejoSlug);
+    if (!c) return false;
+    const comoItem = {
+      titulo: p.titular ?? '',
+      resumenOriginal: `${p.entradilla ?? ''} ${p.cuerpo ?? ''}`,
+      categorias: p.etiquetas ?? [],
+      enlace: p.fuente?.url ?? '',
+    };
+    if (mencionaConcejo(comoItem, c, { usarEnlace: false })) return true;
+    console.log(`  ✗ retirada por no ser de aquí: [${c.nombre}] ${p.titular}`);
+    return false;
+  });
+  if (previas.length !== guardadas.length) {
+    console.log(`  ${guardadas.length - previas.length} piezas antiguas retiradas del archivo.\n`);
+  }
   const conocidas = new Set(previas.map((p) => p.id));
   const limite = Date.now() - ingesta.diasDeVigencia * 86400000;
 

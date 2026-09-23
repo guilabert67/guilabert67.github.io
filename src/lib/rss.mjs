@@ -114,10 +114,20 @@ export async function leerFeed(url, origen = '', { timeoutMs = 20000 } = {}) {
 }
 
 /** ¿Habla esta pieza de un concejo concreto? */
-export function mencionaConcejo(item, concejo) {
+/**
+ * ¿La pieza nombra este concejo o alguno de sus pueblos?
+ *
+ * `usarEnlace` existe por una trampa sutil: en el feed propio de un concejo la
+ * URL de cada noticia ya lleva el nombre del concejo dentro
+ * (elfielato.es/villaviciosa/...), así que mirarla haría que TODO pasara el
+ * filtro, incluida una noticia del gochu de Noreña. Al comprobar una pieza
+ * contra el concejo de su propio feed hay que dejar el enlace fuera: es prueba
+ * circular. Para las fuentes regionales, en cambio, el enlace sí informa.
+ */
+export function mencionaConcejo(item, concejo, { usarEnlace = true } = {}) {
   const limpiar = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const heno = limpiar(
-    `${item.titulo} ${item.resumenOriginal} ${item.categorias.join(' ')} ${item.enlace}`
+    `${item.titulo} ${item.resumenOriginal} ${item.categorias.join(' ')} ${usarEnlace ? item.enlace : ''}`
   );
   return concejo.claves.some((clave) => {
     const c = limpiar(clave);

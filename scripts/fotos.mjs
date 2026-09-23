@@ -22,33 +22,84 @@ const FOTOS = path.join(RAIZ, 'content', 'fotos');
 const TODAS = process.argv.includes('--todas');
 
 // Del asunto de la pieza a algo que un banco de imágenes entienda.
-// Amplíalo sin miedo: cuanto más concreto, mejor sale la foto.
+//
+// Dos reglas que se aprendieron por las malas, el 22/9/2026:
+//
+// 1. TODAS las búsquedas van ancladas a Asturias y al concejo. Una consulta
+//    genérica como "school bus rural road" devuelve cualquier calle del mundo:
+//    así apareció en portada una calle de Bayambang, en Pangasinan (Filipinas),
+//    ilustrando un campamento urbano de Villaviciosa.
+// 2. Los límites de palabra (\b) son obligatorios. Sin ellos, /obra/ casaba
+//    dentro de «obrador» y un reportaje sobre un obrador de chocolate en
+//    Cabranes se ilustraba con una carretera de montaña.
 const TEMAS = [
-  [/sidra|llagar|escanci|espicha|pumarada|mayada/i, 'asturian cider pouring llagar'],
-  [/manzana|pumar|mayar/i, 'apple orchard harvest'],
-  [/queso|quesería|cueva/i, 'blue cheese cave asturias'],
-  [/ganado|feria|vaca|res|puerto|pasto/i, 'cattle cows mountain pasture asturias'],
-  [/carretera|obra|firme|tráfico|corte|desvío/i, 'mountain road asturias'],
-  [/agua|abastecimiento|red|saneamiento/i, 'water tap supply'],
-  [/pleno|ayuntamiento|presupuesto|consistorio|acta/i, 'town hall council chamber spain'],
-  [/colegio|escolar|curso|instituto|niñ/i, 'school bus rural road'],
-  [/fútbol|liga|equipo|partido|deporte|cantera/i, 'amateur football pitch village'],
-  [/museo|exposición|cultura|patrimonio|románico|iglesia/i, 'romanesque church asturias'],
-  [/concierto|música|banda|fiesta|verbena/i, 'outdoor concert village square'],
-  [/río|caudal|pesca|salmón|sella|truch/i, 'river valley northern spain'],
-  [/playa|ría|marisma|rodiles|barco|puerto de mar/i, 'estuary sandbar northern spain'],
-  [/picos de europa|urriellu|montaña|cumbre|sotres|bulnes/i, 'picos de europa limestone peaks'],
-  [/parque|infantil|juego|familia/i, 'village playground park'],
-  [/turismo|verano|visitante|alojamiento/i, 'asturias green landscape village'],
-  [/bosque|monte|castañ|avellan|árbol/i, 'chestnut forest atlantic'],
+  [/\b(sidra|llagar|escanci\w*|espicha|pumarada|mayada)\b/i, 'sidra llagar asturias'],
+  [/\b(manzana|pumar|mayar)\w*\b/i, 'pumarada manzana asturias'],
+  [/\b(queso|quesería|cueva)\w*\b/i, 'queso cabrales asturias'],
+  [/\b(ganado|feria|vaca|res|puertu|pastos?)\b/i, 'ganado vacuno asturias'],
+  [/\b(carretera|firme|tráfico|desvío)\b/i, 'carretera asturias'],
+  [/\b(agua|abastecimiento|saneamiento)\b/i, 'fuente agua asturias'],
+  [/\b(pleno|ayuntamiento|presupuesto|consistorio)\b/i, 'casa consistorial asturias'],
+  [/\b(colegio|escolar|instituto)\b/i, 'escuela rural asturias'],
+  [/\b(fútbol|liga|equipo|partido|cantera)\b/i, 'campo de futbol asturias'],
+  [/\b(museo|exposición|patrimonio|románic\w+|iglesia)\b/i, 'iglesia asturias'],
+  [/\b(concierto|música|banda|verbena|romería)\b/i, 'gaita banda asturias'],
+  [/\b(río|caudal|pesca|salmón|sella|trucha)\b/i, 'rio sella asturias'],
+  [/\b(playa|ría|marisma|rodiles|barco)\b/i, 'ria villaviciosa asturias'],
+  [/\b(picos de europa|urriellu|cumbre|sotres|bulnes)\b/i, 'picos de europa asturias'],
+  [/\b(parque|infantil|juegos)\b/i, 'parque asturias'],
+  [/\b(bosque|monte|castañ\w+|avellan\w+)\b/i, 'bosque asturias'],
 ];
 
-const consulta = (pieza) => {
+/**
+ * Las consultas de una pieza, de la más concreta a la más general. Todas
+ * llevan el concejo o Asturias dentro: no hay consulta sin anclaje.
+ */
+const consultas = (pieza) => {
+  const c = concejos.find((x) => x.slug === pieza.concejoSlug);
+  const lugar = c?.nombre ?? 'Asturias';
   const heno = `${pieza.titular} ${pieza.entradilla} ${(pieza.etiquetas ?? []).join(' ')}`;
-  for (const [re, q] of TEMAS) if (re.test(heno)) return q;
-  const c = concejos.find((c) => c.slug === pieza.concejoSlug);
-  return `${c?.nombre ?? 'asturias'} asturias landscape`;
+  const lista = [];
+  for (const [re, q] of TEMAS) if (re.test(heno)) lista.push(`${q} ${lugar}`.trim());
+  lista.push(`${lugar} Asturias`);
+  if (c?.capital && c.capital !== lugar) lista.push(`${c.capital} Asturias`);
+  return [...new Set(lista)];
 };
+
+// Palabras que acreditan que una imagen es de aquí. Se comprueban contra el
+// título, el pie, las etiquetas y la URL de origen del candidato.
+//
+// Ojo con el escapado: los nombres de sitio se escapan porque pueden traer
+// paréntesis o puntos, pero los patrones escritos a mano NO, o dejarían de ser
+// patrones. Mezclarlos costó que «Ganado asturiano» se diera por extranjero.
+const escapar = (x) => String(x).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+const PATRONES_AQUI = ['asturia[sn]', 'asturian[oa]s?', 'asturies', 'picos de europa'];
+
+const LUGARES_AQUI = [
+  ...concejos.map((c) => c.nombre),
+  ...concejos.map((c) => c.capital),
+  ...concejos.flatMap((c) => c.claves ?? []),
+].filter((x) => x && String(x).length >= 4);
+
+const DE_AQUI = new RegExp(
+  '(' + [...PATRONES_AQUI, ...LUGARES_AQUI.map(escapar)].join('|') + ')',
+  'i'
+);
+
+/**
+ * ¿La imagen es de aquí?
+ *
+ * Un periódico local no ilustra una noticia de Infiestu con una foto de otro
+ * sitio: el lector entiende que la foto ES el lugar, y se le estaría mintiendo.
+ * Así que solo pasa lo que se pueda acreditar como asturiano. Si nada pasa, la
+ * pieza se queda con la ilustración propia, que es honesta porque se ve que es
+ * un dibujo y va firmada como tal.
+ */
+function esDeAqui(c) {
+  const rastro = [c.pie, c.origen, c.fuente, (c.etiquetas ?? []).join(' ')].filter(Boolean).join(' ');
+  return DE_AQUI.test(rastro);
+}
 
 const cabeceras = { 'user-agent': 'LaPrida/1.0 (diario local de Asturias; contacto en la web)' };
 
@@ -85,6 +136,7 @@ async function buscarOpenverse(q) {
       licencia: (r.license || '').toUpperCase(),
       origen: r.foreign_landing_url || r.url,
       fuente: r.source || 'Openverse',
+      etiquetas: (r.tags ?? []).map((t) => t.name ?? t).filter(Boolean),
     }));
 }
 
@@ -144,25 +196,63 @@ async function main() {
     creditos = JSON.parse(await fs.readFile(path.join(FOTOS, 'creditos.json'), 'utf8'));
   } catch {}
 
+  // La limpieza va SIEMPRE por delante, no solo con --limpiar: así una foto
+  // que se coló ayer desaparece hoy sola, sin que nadie tenga que mirarlo.
+  // No se borra a ciegas: se retira el crédito y su fichero, y la pieza vuelve
+  // a su ilustración propia en la siguiente construcción.
+  let fuera = 0;
+  for (const [id, c] of Object.entries({ ...creditos })) {
+    if (esDeAqui(c)) continue;
+    console.log(`✗ fuera: ${id}\n    «${c.pie || 'sin pie'}» · ${c.origen}`);
+    try {
+      await fs.unlink(path.join(FOTOS, c.archivo));
+    } catch {}
+    delete creditos[id];
+    fuera++;
+  }
+  if (fuera) {
+    await fs.writeFile(path.join(FOTOS, 'creditos.json'), JSON.stringify(creditos, null, 2) + '\n');
+    console.log(`🧹 ${fuera} fotos retiradas por no acreditar que sean de aquí.\n`);
+  }
+  if (process.argv.includes('--limpiar')) return;
+
   const pendientes = piezas.filter((p) => TODAS || (!p.imagen && !creditos[p.id]));
   console.log(`🖼  ${pendientes.length} piezas sin foto propia\n`);
 
   let puestas = 0;
+  let sinFoto = 0;
   for (const p of pendientes) {
-    const q = consulta(p);
-    process.stdout.write(`· ${p.titular}\n    busco: "${q}" … `);
+    process.stdout.write(`· ${p.titular}\n`);
 
+    // Se prueban las consultas de la más concreta a la más general, y de cada
+    // una solo sobreviven los candidatos que acrediten ser de Asturias.
     let candidatos = [];
-    for (const buscador of [buscarOpenverse, buscarCommons]) {
-      try {
-        candidatos = await buscador(q);
-        if (candidatos.length) break;
-      } catch (err) {
-        console.log(`(${err.message})`);
+    let usada = '';
+    for (const q of consultas(p)) {
+      for (const buscador of [buscarCommons, buscarOpenverse]) {
+        let brutos = [];
+        try {
+          brutos = await buscador(q);
+        } catch (err) {
+          console.log(`    (${err.message})`);
+          continue;
+        }
+        const buenos = brutos.filter(esDeAqui);
+        if (brutos.length && !buenos.length) {
+          console.log(`    "${q}" → ${brutos.length} resultados, ninguno acredita ser de aquí`);
+        }
+        if (buenos.length) {
+          candidatos = buenos;
+          usada = q;
+          break;
+        }
       }
+      if (candidatos.length) break;
     }
+
     if (!candidatos.length) {
-      console.log('sin resultados libres, se queda con la ilustración');
+      console.log('    sin foto de aquí: se queda con la ilustración propia');
+      sinFoto++;
       continue;
     }
 
@@ -177,9 +267,9 @@ async function main() {
           origen: c.origen,
           fuente: c.fuente,
           pie: c.pie ?? '',
-          consulta: q,
+          consulta: usada,
         };
-        console.log(`✓ ${archivo} · ${c.licencia} · ${c.autor}`);
+        console.log(`    ✓ ${archivo} · ${c.licencia} · ${c.autor} · «${c.pie}»`);
         puestas++;
         ok = true;
         break;
@@ -187,11 +277,14 @@ async function main() {
         // probamos con el siguiente candidato
       }
     }
-    if (!ok) console.log('no se pudo descargar ninguna, se queda con la ilustración');
+    if (!ok) {
+      console.log('    no se pudo descargar ninguna: se queda con la ilustración');
+      sinFoto++;
+    }
   }
 
   await fs.writeFile(path.join(FOTOS, 'creditos.json'), JSON.stringify(creditos, null, 2) + '\n');
-  console.log(`\n🖼  ${puestas} fotos nuevas. Ejecuta "node build.mjs" para verlas.`);
+  console.log(`\n🖼  ${puestas} fotos nuevas · ${sinFoto} piezas con ilustración propia.`);
 }
 
 main().catch((e) => {
