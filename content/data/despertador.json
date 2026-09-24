@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-09-24T09:53:46.222Z",
+  "fecha": "2026-09-24T17:02:33.005Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "\"Cartón y acero corten\", la primera muestra del artista maliayés Julio César Quintes, ya se puede ver",
-      "enlace": "/villaviciosa/carton-y-acero-corten-la-primera-muestra-del-artista-maliayes-julio-ce/"
+      "frase": "Buenos Aires será la sede del Congreso de Asturianía a principios de octubre",
+      "enlace": "/villaviciosa/buenos-aires-sera-la-sede-del-congreso-de-asturiania-a-principios-de-o/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Principado licita la segunda fase del saneamiento de Poreñu, en Villaviciosa",
+      "enlace": "/villaviciosa/el-principado-licita-la-segunda-fase-del-saneamiento-de-porenu-en-vill/"
     }
   ]
 }
