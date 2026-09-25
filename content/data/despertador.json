@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-09-25T10:08:01.984Z",
+  "fecha": "2026-09-25T15:54:31.597Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "Fallece un montañero tras caer unos 60 metros en el entorno del Pico Torrecerredo",
-      "enlace": "/cabrales/fallece-un-montanero-tras-caer-unos-60-metros-en-el-entorno-del-pico-t/"
-    },
-    {
-      "concejo": "Cabrales",
-      "frase": "Muere un montañero de 28 años tras caer 60 metros cuando descendía del Torrecerredo",
-      "enlace": "/cabrales/muere-un-montanero-de-28-anos-tras-caer-60-metros-cuando-descendia-del/"
+      "concejo": "Nava",
+      "frase": "Medio Rural licita en 214.000 euros la mejora de infraestructuras en montes de Nava y Villaviciosa",
+      "enlace": "/nava/medio-rural-licita-en-214-000-euros-la-mejora-de-infraestructuras-en-m/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Buenos Aires será la sede del Congreso de Asturianía a principios de octubre",
-      "enlace": "/villaviciosa/buenos-aires-sera-la-sede-del-congreso-de-asturiania-a-principios-de-o/"
+      "frase": "El Festival de la Manzana de Villaviciosa recibe el título de Fiesta de Interés Turístico Nacional",
+      "enlace": "/villaviciosa/el-festival-de-la-manzana-de-villaviciosa-recibe-el-titulo-de-fiesta-d/"
     }
   ]
 }
