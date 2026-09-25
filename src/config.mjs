@@ -18,10 +18,26 @@ export const sitio = {
   autor: 'Redacción de La Prida',
   email: 'hola@laprida.example',
   zonaHoraria: 'Europe/Madrid',
-  // Las tres ediciones del día, hora de Asturias. El sello de portada dice
-  // cuál de ellas estás leyendo, y el flujo de GitHub las dispara a esas horas.
-  // Si añades o quitas una, cámbiala también en .github/workflows/publicar.yml.
-  ediciones: ['07:00', '14:00', '20:00'],
+  // Las tres ediciones del día, hora de Asturias. Llevan NOMBRE, no hora: el
+  // sello de portada dice «Edición de la mañana», no «Edición de las 07:00».
+  //
+  // Por qué. GitHub no cumple la hora de los disparos programados: los retrasa
+  // y a veces se los salta. Una edición anunciada a las 07:00 puede acabar
+  // saliendo a las 07:40, y entonces la portada se desmiente a sí misma. Jurar
+  // un minuto exacto que no está en nuestra mano es prometer de más tres veces
+  // al día; nombrar la edición, en cambio, nunca es mentira.
+  //
+  // `desde` es la hora a partir de la cual esa edición pasa a ser la vigente.
+  // El rótulo que se imprime no vive aquí sino en idiomas.mjs, porque cambia
+  // con el idioma; la clave es lo que los une.
+  //
+  // Si añades o quitas una, cámbiala también en .github/workflows/publicar.yml
+  // y añade su rótulo en los cuatro idiomas.
+  ediciones: [
+    { clave: 'manana', desde: 7 },
+    { clave: 'mediodia', desde: 14 },
+    { clave: 'noche', desde: 20 },
+  ],
 };
 
 // ── Monetización ────────────────────────────────────────────────────────────
@@ -434,7 +450,111 @@ export const secciones = [
   { slug: 'deporte-y-cultura', nombre: 'Deporte y cultura', descripcion: 'Equipos, salas, patrimonio y tradición: lo que pasa alrededor de lo que se va a ver.' },
   { slug: 'trabajo', nombre: 'Trabajo', descripcion: 'Ofertas de empleo de los cinco concejos: quién busca gente, para qué y hasta cuándo. Publicar una oferta es gratis para los negocios de casa.' },
   { slug: 'avisos', nombre: 'Avisos y servicios', descripcion: 'Obras, cortes, guardias y lo práctico del día.' },
+  { slug: 'cursos', nombre: 'Cursos', descripcion: 'Todo lo que se puede aprender por aquí: formación para el empleo, oficios, idiomas, informática, carnés y los talleres de las casas de cultura. Con el plazo para apuntarse, que es lo que se pasa.' },
   { slug: 'tablon', nombre: 'Tablón', descripcion: 'Los anuncios por palabras de la comarca: casas, coches, ganado, aperos y lo que haga falta. Publicar es gratis; los vecinos de los cinco concejos ponen y quitan.' },
+];
+
+// ── Cursos y formación ─────────────────────────────────────────────────────
+//
+// Lo que se puede aprender por aquí. Llega por tres vías a la vez: lo que
+// detectamos en los medios y tablones que ya leemos, lo que añadimos a mano en
+// content/data/cursos.json (la escuela de adultos, una academia, alguien que da
+// clases) y los enlaces oficiales de abajo, que no caducan nunca.
+export const categoriasCurso = [
+  {
+    slug: 'formacion-empleo',
+    nombre: 'Formación para el empleo',
+    icono: '📈',
+    descripcion: 'Certificados de profesionalidad, cursos del SEPE y de Trabajastur, programas de empleo-formación.',
+  },
+  {
+    slug: 'oficios-y-campo',
+    nombre: 'Oficios y campo',
+    icono: '🪵',
+    descripcion: 'Poda, injerto, quesería, llagar, apicultura, madera, cantería, ganadería.',
+  },
+  {
+    slug: 'carnes-y-certificados',
+    nombre: 'Carnés y certificados',
+    icono: '🪪',
+    descripcion: 'Manipulador de alimentos, carné de aplicador de fitosanitarios, carretillero, socorrismo, primeros auxilios.',
+  },
+  {
+    slug: 'idiomas',
+    nombre: 'Idiomas',
+    icono: '🗣️',
+    descripcion: 'Inglés, francés, alemán, y español para quien llega de fuera.',
+  },
+  {
+    slug: 'digital',
+    nombre: 'Informática y digital',
+    icono: '💻',
+    descripcion: 'Ofimática, trámites por internet, móvil para mayores, Aula Mentor.',
+  },
+  {
+    slug: 'cultura-y-ocio',
+    nombre: 'Cultura y ocio',
+    icono: '🎨',
+    descripcion: 'Los talleres de las casas de cultura: cerámica, pintura, baile, teatro, cocina, música.',
+  },
+];
+
+export const formacion = {
+  // A dónde manda la gente un curso para que salga. Cámbialo por el tuyo.
+  correo: 'cursos@laprida.example',
+  // Un curso sin fecha de cierre se retira a los 60 días de publicarse.
+  diasPorDefecto: 60,
+};
+
+// Lo que hace que una pieza de prensa se reconozca como curso. Se puntúa igual
+// que el empleo: en el titular vale 3, en el cuerpo 1, y hace falta llegar a 3.
+export const clavesCurso = [
+  'curso', 'cursos', 'cursillo', 'taller', 'talleres', 'obrador', 'monográfico', 'monografico',
+  'formación', 'formacion', 'formativo', 'formativa', 'capacitación', 'capacitacion',
+  'certificado de profesionalidad', 'aula mentor', 'escuela de adultos', 'educación de adultos',
+  'educacion de adultos', 'cepa', 'epa', 'trabajastur', 'plan de formación', 'plan de formacion',
+  'matrícula', 'matricula', 'matriculación', 'matriculacion', 'plazo de inscripción',
+  'plazo de inscripcion', 'inscripciones abiertas', 'plazas limitadas', 'se abre el plazo',
+  'carné de', 'carne de', 'manipulador de alimentos', 'fitosanitarios', 'carretillero',
+  'socorrismo', 'primeros auxilios', 'escuela taller', 'taller de empleo', 'casa de oficios',
+  'alfabetización digital', 'alfabetizacion digital', 'clases de', 'aprender a',
+  'oferta formativa', 'universidad popular', 'extensión universitaria', 'extension universitaria',
+];
+
+// Dónde se publican los cursos, para quien quiera ir a la fuente. Comprobados
+// el 23/9/2026. Las casas de cultura no tienen web propia: sus talleres se
+// anuncian en la del ayuntamiento, que es la que va aquí.
+export const enlacesFormacion = [
+  {
+    nombre: 'Trabajastur · Fórmate',
+    url: 'https://trabajastur.asturias.es/formate',
+    nota: 'Los cursos de formación para el empleo del Principado, para gente en paro y trabajando.',
+  },
+  {
+    nombre: 'Trabajastur · Cursos para ocupados',
+    url: 'https://trabajastur.asturias.es/cursos-de-formacion-de-ocupados',
+    nota: 'Formación prioritaria para quien ya está trabajando.',
+  },
+  {
+    nombre: 'Educastur · Educación de personas adultas',
+    url: 'https://www.educastur.es/estudiantes/epa/oferta',
+    nota: 'La oferta de las escuelas de adultos: graduado, acceso a ciclos, idiomas.',
+  },
+  {
+    nombre: 'Educastur · Mapa de centros de adultos',
+    url: 'https://www.educastur.es/mapa-personas-adultas/',
+    nota: 'Para encontrar el centro que te pilla cerca.',
+  },
+  {
+    nombre: 'Aula Mentor',
+    url: 'https://aulamentor.es/aulas/',
+    nota: 'Cursos en línea del Ministerio, con aula de apoyo en muchos ayuntamientos.',
+  },
+  {
+    nombre: 'Juventud · Principado de Asturias',
+    url: 'https://juventud.asturias.es',
+    nota: 'Cursos, campos de trabajo y actividades para gente joven.',
+  },
 ];
 
 // ── El tablón de anuncios ───────────────────────────────────────────────────
@@ -521,6 +641,21 @@ LÍMITES (importante)
 `.trim();
 
 // ── Ingesta ─────────────────────────────────────────────────────────────────
+// ── Qué se considera noticia hoy ───────────────────────────────────────────
+//
+// El archivo guarda 90 días, pero la PORTADA no es el archivo. Un diario que
+// sale tres veces al día no puede abrir con algo de hace tres semanas: le está
+// diciendo al lector que aquí no pasa nada.
+//
+// Si un día no hay material fresco, la portada sale CORTA. Es lo honesto: un
+// periódico local un martes flojo es corto, y eso se entiende. Rellenar hacia
+// atrás con noticias viejas, no.
+export const frescura = {
+  portada: 4,   // días: apertura, medianas y menores no pasan de aquí
+  tira: 14,     // días: la tira de titulares admite algo más de recorrido
+  despertador: 1, // días: «Las tres paradas» se esconde si es de ayer o más
+};
+
 export const ingesta = {
   maxPorConcejo: 12,       // piezas que se guardan por concejo en cada pasada
   diasDeVigencia: 90,      // en concejos pequeños hay semanas sin noticias: conviene ser generoso
