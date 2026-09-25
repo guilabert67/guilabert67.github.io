@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-09-24T21:26:47.914Z",
+  "fecha": "2026-09-25T10:08:01.984Z",
   "puntos": [
     {
       "concejo": "Cabrales",
@@ -10,6 +10,11 @@
       "concejo": "Cabrales",
       "frase": "Muere un montañero de 28 años tras caer 60 metros cuando descendía del Torrecerredo",
       "enlace": "/cabrales/muere-un-montanero-de-28-anos-tras-caer-60-metros-cuando-descendia-del/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Buenos Aires será la sede del Congreso de Asturianía a principios de octubre",
+      "enlace": "/villaviciosa/buenos-aires-sera-la-sede-del-congreso-de-asturiania-a-principios-de-o/"
     }
   ]
 }
