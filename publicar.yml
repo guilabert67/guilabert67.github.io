@@ -1,0 +1,164 @@
+name: Ediciones de La Prida
+
+# Tres ediciones al día: 07:00, 14:00 y 20:00 hora de Asturias.
+#
+# POR QUÉ ESTO NO ES UN SIMPLE CRON. Dos problemas encadenados:
+#
+# 1. Cron va en UTC y no sabe del cambio de hora, así que España se desplaza una
+#    hora dos veces al año.
+# 2. Y el gordo: **GitHub NO cumple la hora del cron**. Los disparos programados
+#    se retrasan con frecuencia, y bastante: el 22/9/2026 el de las 19:05 UTC
+#    saltó a las 21:12, con dos horas y siete minutos de retraso.
+#
+# La primera versión comprobaba «¿son las 07, las 14 o las 20 en Asturias?» y,
+# si no, se paraba. Con el retraso de GitHub esa comprobación fallaba SIEMPRE y
+# el diario no llegó a publicarse solo ni una vez en dos días. El fallo era
+# silencioso: la ejecución salía en verde, en once segundos, sin hacer nada.
+#
+# La solución no es afinar la hora, que no está en nuestra mano: es dejar de
+# preguntar por la hora exacta y preguntar por la FRANJA. Si estamos dentro de
+# una franja y esa edición todavía no se ha publicado hoy, se publica — dé la
+# hora que dé el reloj. Un disparo con dos horas de retraso sigue sirviendo, y
+# dos disparos de la misma franja no duplican nada.
+#
+#   07:00 – 13:59  →  edición de la mañana
+#   14:00 – 19:59  →  edición del mediodía
+#   20:00 – 06:59  →  edición de la noche (la de madrugada es la de la víspera)
+#
+# Y por eso mismo las ediciones se NOMBRAN en vez de fecharse a la hora: si el
+# disparo llega tarde, el nombre sigue siendo verdad. Ver src/config.mjs.
+#
+# Y como GitHub además de retrasar disparos a veces se los salta directamente
+# (el 23/9/2026 el de las 12:05 UTC no llegó a existir), no se apuesta por seis
+# disparos concretos: se mira el reloj UNA VEZ POR HORA. Casi todas las veces la
+# respuesta será «esta edición ya salió» y la ejecución termina en segundos sin
+# tocar nada. Es barato —el repositorio es público y los minutos no se cobran— y
+# quita de en medio el único punto que no controlamos: la puntualidad de GitHub.
+# Basta con que UNO de los seis o siete intentos de cada franja llegue.
+#
+# El minuto 37 no es capricho: en :00 y en :05 se agolpa medio mundo y es cuando
+# más se retrasa la cola. A media hora hay menos cola.
+
+on:
+  schedule:
+    - cron: '37 * * * *' # cada hora; el guardián de abajo decide si toca
+  workflow_dispatch: # botón manual en la pestaña Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Nunca dos ediciones a la vez: la segunda espera, no se cancela.
+concurrency:
+  group: laprida
+  cancel-in-progress: false
+
+jobs:
+  edicion:
+    runs-on: ubuntu-latest
+    # actions/deploy-pages exige que el trabajo declare el entorno github-pages.
+    # Sin estas tres líneas el sitio se construye bien pero el despliegue falla
+    # con «Missing environment» y la web se queda como estaba.
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      # El checkout va PRIMERO: para saber si una edición ya salió hay que poder
+      # mirar el historial. Con profundidad suficiente para varios días.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
+      - name: ¿Toca edición ahora?
+        id: reloj
+        run: |
+          HORA=$(TZ=Europe/Madrid date +'%H')
+          HOY=$(TZ=Europe/Madrid date +'%d/%m/%Y')
+          AYER=$(TZ=Europe/Madrid date -d 'yesterday' +'%d/%m/%Y')
+          HORA_N=$((10#$HORA))
+
+          # Las ediciones se llaman por su nombre, no por su hora: una edición
+          # anunciada a las 07:00 que sale a las 07:40 se desmiente sola, y la
+          # puntualidad de GitHub no está en nuestra mano. El nombre nunca falla.
+          if   [ "$HORA_N" -ge 7 ]  && [ "$HORA_N" -lt 14 ]; then FRANJA='de la mañana'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 14 ] && [ "$HORA_N" -lt 20 ]; then FRANJA='del mediodía'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 20 ]; then                        FRANJA='de la noche';  FECHA=$HOY
+          else                                                   FRANJA='de la noche';  FECHA=$AYER
+          fi
+
+          echo "edicion=$FRANJA" >> "$GITHUB_OUTPUT"
+          echo "fecha_edicion=$FECHA" >> "$GITHUB_OUTPUT"
+          echo "Son las $HORA:00 en Asturias · toca la edición $FRANJA del $FECHA"
+
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Lanzado a mano (${{ github.event_name }}): se publica igual."
+            echo "seguir=si" >> "$GITHUB_OUTPUT"
+          elif git log --pretty=%s -n 40 | grep -qF "Edición $FRANJA del $FECHA"; then
+            echo "Esa edición ya salió. No se repite."
+            echo "seguir=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "Esta edición todavía no ha salido. Adelante."
+            echo "seguir=si" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.reloj.outputs.seguir == 'si'
+        with:
+          node-version: 22
+
+      - name: Recoger las noticias
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/ingesta.mjs
+
+      # fotos.mjs retira primero las que no acrediten ser de Asturias (una calle
+      # de Filipinas llegó a portada el 22/9/2026) y luego busca las que falten.
+      - name: Buscar fotos libres para los temas del día
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        run: node scripts/fotos.mjs
+
+      - name: Comprobar el nombre del repositorio
+        if: steps.reloj.outputs.seguir == 'si'
+        run: |
+          ESPERADO="${{ github.repository_owner }}.github.io"
+          ACTUAL="${GITHUB_REPOSITORY#*/}"
+          if [ "$ACTUAL" != "$ESPERADO" ]; then
+            echo "::error::El repositorio se llama '$ACTUAL' y debería llamarse '$ESPERADO'."
+            echo "::error::Con otro nombre, GitHub sirve la web en una subcarpeta y se rompen todos los enlaces."
+            echo "::error::Solución: Settings → General → Repository name → cámbialo a $ESPERADO."
+            exit 1
+          fi
+          echo "Repositorio correcto: la web se servirá en https://$ESPERADO/"
+
+      - name: Construir el sitio en los cuatro idiomas
+        if: steps.reloj.outputs.seguir == 'si'
+        env:
+          SITIO_URL: https://${{ github.repository_owner }}.github.io
+        run: node build.mjs
+
+      - name: Guardar el archivo de noticias
+        if: steps.reloj.outputs.seguir == 'si' && github.event_name != 'push'
+        run: |
+          git config user.name  "La Prida"
+          git config user.email "bot@laprida.local"
+          git add content/data content/fotos
+          # La fecha la pone el paso del reloj, NO `date`: la edición de las 20:00
+          # que se publica a las 02:00 pertenece a la víspera, y si el mensaje
+          # llevara la fecha de hoy el control de franjas no la reconocería y la
+          # repetiría en cada disparo de la noche.
+          git diff --staged --quiet || git commit -m "Edición ${{ steps.reloj.outputs.edicion }} del ${{ steps.reloj.outputs.fecha_edicion }}"
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: steps.reloj.outputs.seguir == 'si'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.reloj.outputs.seguir == 'si'
+        with:
+          path: dist
+      - id: despliegue
+        if: steps.reloj.outputs.seguir == 'si'
+        uses: actions/deploy-pages@v4
