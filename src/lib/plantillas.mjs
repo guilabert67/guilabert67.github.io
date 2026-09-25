@@ -1,6 +1,6 @@
 // Plantillas HTML de La Prida. Todo se genera con plantillas de cadena: cero dependencias.
 
-import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo, categoriasAnuncio, tablon } from '../config.mjs';
+import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo, categoriasAnuncio, tablon, categoriasCurso, formacion, enlacesFormacion, frescura } from '../config.mjs';
 import { tipoPorSlug, tiposPresentes, esFuturo, fechaDelPlan } from './eventos.mjs';
 import {
   idiomas, IDIOMA_BASE, idiomaDe, ruta, t as texto,
@@ -87,17 +87,57 @@ export function disco(slug, extra = '') {
 }
 
 /**
+ * Las ediciones del día ordenadas por hora de salida. Se ordena aquí y no se
+ * confía en el orden del fichero de ajustes: así añadir una nueva no obliga a
+ * colocarla en su sitio.
+ */
+function ediciones() {
+  return (sitio.ediciones ?? [])
+    .filter((e) => e && typeof e.clave === 'string' && Number.isFinite(e.desde))
+    .slice()
+    .sort((a, b) => a.desde - b.desde);
+}
+
+/**
  * Qué edición se está leyendo: la última de las tres que ya ha salido.
  * Antes de la primera del día, la de la noche anterior.
+ *
+ * Devuelve la edición, no una hora. El sello de portada la NOMBRA en vez de
+ * jurar un minuto exacto, porque el minuto exacto no está en nuestra mano:
+ * GitHub retrasa los disparos programados y a veces se los salta. Ver la nota
+ * larga en src/config.mjs.
  */
-export function horaDeEdicion(ahora = new Date()) {
-  const horas = (sitio.ediciones ?? ['07:00']).map((h) => Number(h.slice(0, 2)));
+export function edicionActual(ahora = new Date()) {
+  const lista = ediciones();
+  if (!lista.length) return { clave: 'manana', desde: 0 };
   // la hora real en Asturias, sin importar dónde corra el generador
   const enAsturias = new Date(ahora.toLocaleString('en-US', { timeZone: sitio.zonaHoraria }));
   const h = enAsturias.getHours();
-  const pasadas = horas.filter((x) => x <= h);
-  const elegida = pasadas.length ? Math.max(...pasadas) : Math.max(...horas);
-  return `${String(elegida).padStart(2, '0')}:00`;
+  const pasadas = lista.filter((e) => e.desde <= h);
+  // De madrugada todavía no ha salido ninguna de hoy: se lee la última de ayer.
+  return pasadas.length ? pasadas[pasadas.length - 1] : lista[lista.length - 1];
+}
+
+/** La que vendrá después de la que se está leyendo. */
+export function edicionSiguiente(ahora = new Date()) {
+  const lista = ediciones();
+  if (!lista.length) return null;
+  const i = lista.findIndex((e) => e.clave === edicionActual(ahora).clave);
+  return lista[(i + 1) % lista.length];
+}
+
+/** «manana» → «edicionManana», «cuandoManana». */
+const enMayuscula = (clave) => String(clave).charAt(0).toUpperCase() + String(clave).slice(1);
+export const rotuloDeEdicion = (ed) => T(`edicion${enMayuscula(ed?.clave ?? 'manana')}`);
+
+/**
+ * «Todavía no hay nada nuevo de hoy. La próxima edición sale al mediodía.»
+ * Antes decía siempre «a las 14:00», dijera la hora que dijese el reloj.
+ */
+export function textoSinNovedad(ahora = new Date()) {
+  const proxima = edicionSiguiente(ahora);
+  const cuando = proxima ? T(`cuando${enMayuscula(proxima.clave)}`) : '';
+  return T('sinNovedadHoy').replace('{cuando}', cuando);
 }
 
 /** El nombre de una sección en el idioma en curso. */
@@ -251,13 +291,22 @@ export function chapa(pieza) {
   return `<span class="chapa" style="${vars(slug)}">${disco(slug)}${esc(pieza.concejo)}</span>`;
 }
 
-export function tarjeta(p, { foto = true } = {}) {
-  return `<a class="pieza" href="${U(p.url)}" style="${vars(p.concejoSlug)}">
-  ${foto && p.imagen ? `<img class="pieza__foto" src="${esc(p.imagen)}" alt="" loading="lazy">` : ''}
+/**
+ * La tarjeta de una pieza, en dos tamaños.
+ *
+ * `nivel: 'media'` lleva foto y entradilla; `'menor'` no lleva ninguna de las
+ * dos. La imagen es una señal de jerarquía, no un adorno: si todas las piezas
+ * llevan foto, ninguna destaca, y además la portada se convierte en un muro de
+ * ilustraciones. Quitarla en el tercer nivel ordena la página y la aligera.
+ */
+export function tarjeta(p, { foto = true, nivel = 'media' } = {}) {
+  const menor = nivel === 'menor';
+  return `<a class="pieza${menor ? ' pieza--menor' : ''}" href="${U(p.url)}" style="${vars(p.concejoSlug)}">
+  ${!menor && foto && p.imagen ? `<img class="pieza__foto" src="${esc(p.imagen)}" alt="" loading="lazy">` : ''}
   <span class="pieza__cuerpo">
     ${chapa(p)}
     <span class="pieza__titular">${esc(tr(p, 'titular'))}</span>
-    ${tr(p, 'entradilla') ? `<span class="pieza__entradilla">${esc(tr(p, 'entradilla'))}</span>` : ''}
+    ${!menor && tr(p, 'entradilla') ? `<span class="pieza__entradilla">${esc(tr(p, 'entradilla'))}</span>` : ''}
     <span class="firma"><time datetime="${esc(p.fecha)}">${haceCuanto(p.fecha)}</time></span>
   </span>
 </a>`;
@@ -289,13 +338,31 @@ export function filaLista(p) {
 </a></li>`;
 }
 
+/**
+ * ¿Es de hoy?
+ *
+ * El módulo llegó a decir «lo que no te puedes perder HOY · martes, 8 de
+ * septiembre» estando a 23. Si la fecha es la de hoy se dice «hoy» y no hace
+ * falta repetirla; si no lo es, se pone la fecha y se calla lo de «hoy». Una
+ * cosa o la otra, nunca las dos peleándose.
+ */
+const esHoy = (fecha) => {
+  const d = new Date(fecha);
+  if (Number.isNaN(d.getTime())) return false;
+  return d.toDateString() === new Date().toDateString();
+};
+
 /** Las tres paradas del día: tres números enormes en la línea de su concejo. */
 export function bloqueDespertador(puntos, fecha) {
   if (!puntos?.length) return '';
   return `<section class="arranque" aria-labelledby="arranque">
   <div class="arranque__cab">
     <h2 class="arranque__titulo" id="arranque">${esc(T('tresParadas'))}</h2>
-    <p class="arranque__pie">${esc(T('tresParadasPie'))} · ${esc(fechaLarga(fecha))}</p>
+    <p class="arranque__pie">${
+      esHoy(fecha)
+        ? esc(T('tresParadasPie'))
+        : esc(fechaLarga(fecha))
+    }</p>
   </div>
   <ol class="arranque__lista">
     ${puntos
@@ -310,6 +377,146 @@ export function bloqueDespertador(puntos, fecha) {
       .join('\n')}
   </ol>
 </section>`;
+}
+
+/* --- cursos y formación ------------------------------------------------------ */
+
+export const categoriaCursoPorSlug = (slug) => categoriasCurso.find((c) => c.slug === slug);
+
+export function nombreCategoriaCurso(cat) {
+  if (!cat) return '';
+  const mapa = {
+    'formacion-empleo': { en: 'Job training', fr: "Formation à l'emploi", de: 'Berufliche Bildung' },
+    'oficios-y-campo': { en: 'Trades and farming', fr: 'Métiers et campagne', de: 'Handwerk und Landwirtschaft' },
+    'carnes-y-certificados': { en: 'Licences and certificates', fr: 'Permis et certificats', de: 'Scheine und Zertifikate' },
+    idiomas: { en: 'Languages', fr: 'Langues', de: 'Sprachen' },
+    digital: { en: 'Computers and digital', fr: 'Informatique et numérique', de: 'Computer und Digitales' },
+    'cultura-y-ocio': { en: 'Arts and leisure', fr: 'Culture et loisirs', de: 'Kultur und Freizeit' },
+  };
+  if (estado.idioma === IDIOMA_BASE) return cat.nombre;
+  return mapa[cat.slug]?.[estado.idioma] ?? cat.nombre;
+}
+
+/** ¿Sigue abierto el plazo? Un curso se retira solo cuando se pasa. */
+export function cursoAbierto(c, ahora = new Date()) {
+  const hoy = ahora.toISOString().slice(0, 10);
+  if (c.inscripcionHasta) return c.inscripcionHasta >= hoy;
+  if (c.empieza) return c.empieza >= hoy;
+  const desde = c.desde ? new Date(c.desde) : null;
+  if (!desde) return true;
+  return new Date(desde.getTime() + (formacion.diasPorDefecto ?? 60) * 86400000) >= ahora;
+}
+
+export function categoriasCursoPresentes(lista) {
+  const hay = new Set(lista.map((c) => c.categoria));
+  return categoriasCurso.filter((c) => hay.has(c.slug));
+}
+
+const modalidadEn = (m) => {
+  const mapa = {
+    presencial: { en: 'In person', fr: 'En présentiel', de: 'In Präsenz' },
+    'en línea': { en: 'Online', fr: 'En ligne', de: 'Online' },
+    'en linea': { en: 'Online', fr: 'En ligne', de: 'Online' },
+    mixta: { en: 'Blended', fr: 'Hybride', de: 'Gemischt' },
+  };
+  if (estado.idioma === IDIOMA_BASE) return m;
+  return mapa[String(m).toLowerCase()]?.[estado.idioma] ?? m;
+};
+
+/**
+ * La ficha de un curso.
+ *
+ * El dato que de verdad importa es el PLAZO: lo que se le pasa a la gente no es
+ * el curso, es la fecha de apuntarse. Por eso va en la ficha y ordena la lista.
+ */
+export function tarjetaCurso(c) {
+  const slug = c.concejoSlug ?? '';
+  const cat = categoriaCursoPorSlug(c.categoria);
+  const abierto = cursoAbierto(c);
+  const filas = [
+    c.quien ? [T('quienLoDa'), esc(c.quien)] : null,
+    c.donde ? [T('donde'), esc([c.donde, c.concejo].filter(Boolean).join(', '))] : null,
+    c.modalidad ? [T('modalidad'), esc(modalidadEn(c.modalidad))] : null,
+    c.duracion ? [T('duracion'), esc(c.duracion)] : null,
+    c.precio ? [T('precio'), esc(c.precio)] : null,
+    c.plazas ? [T('plazas'), esc(c.plazas)] : null,
+    c.empieza ? [T('empieza'), esc(fechaCorta(c.empieza))] : null,
+    c.inscripcionHasta ? [T('inscripcionHasta'), esc(fechaCorta(c.inscripcionHasta))] : null,
+  ].filter(Boolean);
+
+  return `<article class="anuncio curso${c.destacado ? ' anuncio--destacado' : ''}${abierto ? '' : ' anuncio--caducado'}" style="${vars(slug)}" data-clave="${esc(c.categoria ?? '')}">
+  <div class="anuncio__cab">
+    ${cat ? `<span class="sello"><span class="sello__icono" aria-hidden="true">${cat.icono}</span>${esc(nombreCategoriaCurso(cat))}</span>` : ''}
+    ${slug ? `<span class="chapa" style="${vars(slug)}">${disco(slug)}${esc(c.concejo ?? '')}</span>` : ''}
+    ${c.ejemplo ? `<span class="empleo__ejemplo">${esc(T('ejemplo'))}</span>` : ''}
+    ${c.destacado && !c.ejemplo ? `<span class="empleo__destaca">${esc(T('destacada'))}</span>` : ''}
+    ${abierto ? '' : `<span class="empleo__cerrada">${esc(T('plazoInscripcionCerrado'))}</span>`}
+  </div>
+  <h3 class="anuncio__titulo">${esc(c.titulo)}</h3>
+  ${c.texto ? `<p class="anuncio__texto">${esc(c.texto)}</p>` : ''}
+  ${
+    filas.length
+      ? `<dl class="empleo__datos">${filas
+          .map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`)
+          .join('')}</dl>`
+      : ''
+  }
+  ${
+    c.contacto && abierto
+      ? `<p class="empleo__contacto"><a href="${esc(
+          c.contacto.startsWith('http') ? c.contacto : `mailto:${c.contacto}`
+        )}"${c.contacto.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${esc(T('comoApuntarseCurso'))}</a></p>`
+      : ''
+  }
+</article>`;
+}
+
+export function filtrosCursos(lista) {
+  const cats = categoriasCursoPresentes(lista);
+  if (cats.length < 2) return '';
+  return `<div class="filtros" role="group" aria-label="${esc(T('filtrarCursos'))}">
+  <button class="filtro filtro--activo" type="button" data-filtro="todo" aria-pressed="true">${esc(T('filtroTodo'))}</button>
+  ${cats
+    .map(
+      (c) =>
+        `<button class="filtro" type="button" data-filtro="${esc(c.slug)}" aria-pressed="false"><span aria-hidden="true">${c.icono}</span> ${esc(nombreCategoriaCurso(c))}</button>`
+    )
+    .join('')}
+</div>`;
+}
+
+export function publicaTuCurso() {
+  const correo = formacion.correo || sitio.email;
+  return `<div class="caja caja--llamada">
+  <h2 class="caja__titulo">${esc(T('dasCursos'))}</h2>
+  <p style="margin:0 0 14px;font-size:15px;color:var(--tinta-2)">${esc(T('comoPublicarCurso'))}</p>
+  <p style="margin:0"><a class="volver" style="margin:0" href="mailto:${esc(correo)}">${esc(T('escribirA'))} ${esc(correo)} →</a></p>
+</div>`;
+}
+
+/** Los sitios oficiales. No caducan, así que siempre hay algo que mirar. */
+export function dondeBuscarCursos() {
+  const ayuntamientos = concejos
+    .filter((c) => c.web)
+    .map(
+      (c) => `<li style="${vars(c.slug)}"><a href="${esc(c.web)}" target="_blank" rel="noopener">
+    ${disco(c.slug)}${esc(T('ayuntamientoDe'))} ${esc(c.nombre)}</a></li>`
+    )
+    .join('\n');
+  return `<aside class="caja" aria-labelledby="dondecursos">
+  <h2 class="caja__titulo" id="dondecursos">${esc(T('dondeBuscarCursos'))}</h2>
+  <p style="margin:0 0 14px;font-size:15px;color:var(--tinta-2)">${esc(T('dondeBuscarCursosPie'))}</p>
+  <ul class="enlaces">
+    ${enlacesFormacion
+      .map(
+        (e) => `<li><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.nombre)}</a>${
+          e.nota ? `<small>${esc(e.nota)}</small>` : ''
+        }</li>`
+      )
+      .join('\n')}
+    ${ayuntamientos}
+  </ul>
+</aside>`;
 }
 
 /* --- el tablón de anuncios --------------------------------------------------- */
@@ -748,6 +955,7 @@ function cintaTiempo(tiempo) {
 
 export function pagina({
   titulo,
+  esPortada = false,
   descripcion,
   url = '/',
   activo = '',
@@ -833,13 +1041,21 @@ ${
       <a class="marca" href="${U('/')}">
         ${LOGO(54)}
         <span>
-          <span class="marca__nombre">La Prida</span>
+          ${
+            // En la portada, el nombre del diario ES el encabezado de la
+            // página: no había ningún h1 y eso deja a un lector de pantalla
+            // sin punto de entrada, además de perjudicar en buscadores. En el
+            // resto de páginas el h1 es el titular, y aquí va un simple span.
+            esPortada
+              ? `<h1 class="marca__nombre">La Prida</h1>`
+              : `<span class="marca__nombre">La Prida</span>`
+          }
           <span class="marca__lema">${esc(T('lema'))}</span>
         </span>
       </a>
       <p class="cabecera__data">
         <span class="cabecera__fecha">${esc(fechaLarga(fecha))}</span>
-        <span class="cabecera__hora">${esc(T('edicion'))} ${esc(horaDeEdicion())}</span>
+        <span class="cabecera__hora">${esc(rotuloDeEdicion(edicionActual()))}</span>
       </p>
     </div>
     ${riel(activo, cuentas)}
@@ -860,16 +1076,16 @@ ${contenido}
   <div class="contenedor">
     <div class="pie__rejilla">
       <div>
-        <h3>La Prida</h3>
+        <h2 class="pie__titulo">La Prida</h2>
         <p style="margin:0 0 12px;color:var(--tinta-2);max-width:44ch">${esc(sitio.descripcion)}</p>
         <p style="margin:0;color:var(--tinta-3);font-size:13.5px;line-height:1.6">Las piezas se redactan a partir de fuentes públicas y de medios locales, siempre citados y enlazados. Si algo está mal, se corrige: ${esc(sitio.email)}.</p>
       </div>
       <div>
-        <h3>${esc(T('concejosPie'))}</h3>
+        <h2 class="pie__titulo">${esc(T('concejosPie'))}</h2>
         <ul>${concejos.map((c) => `<li><a href="${U(`/${c.slug}/`)}">${esc(c.nombre)}</a></li>`).join('')}</ul>
       </div>
       <div>
-        <h3>${esc(T('laLinea'))}</h3>
+        <h2 class="pie__titulo">${esc(T('laLinea'))}</h2>
         <ul>
           ${secciones
             .filter((x) => x.slug !== 'actualidad')
@@ -964,9 +1180,49 @@ ${contenido}
 /* --- páginas --------------------------------------------------------------- */
 
 export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
-  const [primera, ...resto] = piezas;
-  const rejillaAlta = resto.slice(0, 3);
-  const listaLarga = resto.slice(3, 11);
+  // Cuatro niveles, como un periódico de papel: la de apertura, dos medianas,
+  // tres menores sin foto, y una tira de titulares. Con dos niveles todo lo que
+  // no era la apertura pesaba igual, y el lector no tenía por dónde empezar.
+  //
+  // Y antes de repartir, el filtro que faltaba: solo entra lo FRESCO. La
+  // portada llegó a abrir con una pieza de hacía diecinueve días porque cogía
+  // las más recientes sin preguntarse si eran recientes de verdad. Si no hay
+  // material, la portada sale corta; rellenar hacia atrás, no.
+  const recientes = (dias) => {
+    const limite = Date.now() - dias * 86400000;
+    return piezas.filter((p) => {
+      const t = new Date(p.fecha).getTime();
+      return Number.isFinite(t) ? t >= limite : false;
+    });
+  };
+  const delDia = recientes(frescura.portada);
+  const [primera, ...resto] = delDia;
+  const medianas = resto.slice(0, 2);
+  const menores = resto.slice(2, 5);
+
+  // Lo que ya va arriba no se repite abajo.
+  const yaPuestas = new Set(delDia.slice(0, 6).map((p) => p.url));
+
+  // La tira admite más recorrido. Y si un día NO hay nada fresco, la portada no
+  // se queda en blanco ni finge: se enseña lo último que hay, bajo un rótulo
+  // que dice exactamente eso. Abrir con algo de hace tres semanas es mentir;
+  // decir «lo último» y poner la fecha, no.
+  const tiraFresca = recientes(frescura.tira).filter((p) => !yaPuestas.has(p.url));
+  // El rótulo describe lo que hay DEBAJO de él, no lo que haya arriba. Si la
+  // tira ha tenido que tirar de archivo, se llama «lo último» aunque la
+  // apertura sí sea de hoy: si no, se estaría vendiendo como novedad algo de
+  // hace tres semanas, que es justo lo que había que quitar.
+  const hayArchivo = tiraFresca.length === 0;
+  const listaLarga = (hayArchivo ? piezas.filter((p) => !yaPuestas.has(p.url)) : tiraFresca).slice(0, 8);
+  const rotuloTira = hayArchivo ? T('loUltimo') : T('sigueLinea');
+
+  // «Las tres paradas» se esconde si es de ayer: un módulo caducado hace más
+  // daño que no tenerlo.
+  const puntosFrescos = (() => {
+    const f = despertadorDatos?.fecha ? new Date(despertadorDatos.fecha).getTime() : NaN;
+    if (!Number.isFinite(f)) return null;
+    return Date.now() - f <= frescura.despertador * 86400000 ? despertadorDatos.puntos : null;
+  })();
   const cuentas = Object.fromEntries(
     concejos.map((c) => [c.slug, piezas.filter((p) => p.concejoSlug === c.slug).length])
   );
@@ -976,19 +1232,21 @@ export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
     descripcion: sitio.descripcion,
     url: '/',
     activo: 'portada',
+    esPortada: true,
     tiempo,
     cuentas,
     contenido: `<div class="contenedor">
-  ${bloqueDespertador(despertadorDatos?.puntos, despertadorDatos?.fecha ?? new Date().toISOString())}
+  ${bloqueDespertador(puntosFrescos, despertadorDatos?.fecha ?? new Date().toISOString())}
 
   <div class="rejilla">
     <div>
-      ${primera ? destacada(primera) : `<p class="vacio">${esc(T('noHayNada'))}</p>`}
-      ${rejillaAlta.length ? `<div class="piezas piezas--3">${rejillaAlta.map((p) => tarjeta(p)).join('\n')}</div>` : ''}
+      ${primera ? destacada(primera) : `<p class="vacio">${esc(textoSinNovedad())}</p>`}
+      ${medianas.length ? `<div class="piezas piezas--2">${medianas.map((p) => tarjeta(p)).join('\n')}</div>` : ''}
+      ${menores.length ? `<div class="piezas piezas--3 piezas--menores">${menores.map((p) => tarjeta(p, { nivel: 'menor' })).join('\n')}</div>` : ''}
       ${hueco('portadaMedia')}
       ${
         listaLarga.length
-          ? `<h2 class="titulo-seccion">${esc(T('sigueLinea'))} <span class="cuenta">${listaLarga.length} ${T('piezas')}</span></h2>
+          ? `<h2 class="titulo-seccion">${esc(rotuloTira)} <span class="cuenta">${listaLarga.length} ${T('piezas')}</span></h2>
       <ul class="tira">${listaLarga.map(filaLista).join('\n')}</ul>`
           : ''
       }
@@ -1046,7 +1304,7 @@ export function paginaConcejo(concejo, piezas, tiempo, cuentas = {}) {
   </div>
   <div class="rejilla">
     <div>
-      ${primera ? destacada(primera) : `<p class="vacio">${esc(T('noHayNada'))}</p>`}
+      ${primera ? destacada(primera) : `<p class="vacio">${esc(textoSinNovedad())}</p>`}
       ${resto.length ? `<div class="piezas piezas--2">${resto.slice(0, 8).map((p) => tarjeta(p)).join('\n')}</div>` : ''}
       ${resto.length > 8 ? `<h2 class="titulo-seccion">${esc(T('loQueSeHizo'))}</h2><ul class="tira">${resto.slice(8).map(filaLista).join('\n')}</ul>` : ''}
       ${boletin()}
