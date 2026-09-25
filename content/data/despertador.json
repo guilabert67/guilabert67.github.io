@@ -1,15 +1,10 @@
 {
-  "fecha": "2026-09-25T15:54:31.597Z",
+  "fecha": "2026-09-25T20:06:06.923Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "Medio Rural licita en 214.000 euros la mejora de infraestructuras en montes de Nava y Villaviciosa",
-      "enlace": "/nava/medio-rural-licita-en-214-000-euros-la-mejora-de-infraestructuras-en-m/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "El Festival de la Manzana de Villaviciosa recibe el título de Fiesta de Interés Turístico Nacional",
-      "enlace": "/villaviciosa/el-festival-de-la-manzana-de-villaviciosa-recibe-el-titulo-de-fiesta-d/"
+      "frase": "Villaviciosa recibe en Madrid el título de Fiesta de Interés Turístico Nacional para su Festival de la Manzana",
+      "enlace": "/villaviciosa/villaviciosa-recibe-en-madrid-el-titulo-de-fiesta-de-interes-turistico/"
     }
   ]
 }
