@@ -21,15 +21,27 @@ name: Ediciones de La Prida
 # hora que dé el reloj. Un disparo con dos horas de retraso sigue sirviendo, y
 # dos disparos de la misma franja no duplican nada.
 #
-#   07:00 – 13:59  →  edición de las 07:00
-#   14:00 – 19:59  →  edición de las 14:00
-#   20:00 – 06:59  →  edición de las 20:00 (la de madrugada es de la víspera)
+#   07:00 – 13:59  →  edición de la mañana
+#   14:00 – 19:59  →  edición del mediodía
+#   20:00 – 06:59  →  edición de la noche (la de madrugada es la de la víspera)
 #
-# Se dispara en las seis horas UTC posibles para no depender de un solo intento.
+# Y por eso mismo las ediciones se NOMBRAN en vez de fecharse a la hora: si el
+# disparo llega tarde, el nombre sigue siendo verdad. Ver src/config.mjs.
+#
+# Y como GitHub además de retrasar disparos a veces se los salta directamente
+# (el 23/9/2026 el de las 12:05 UTC no llegó a existir), no se apuesta por seis
+# disparos concretos: se mira el reloj UNA VEZ POR HORA. Casi todas las veces la
+# respuesta será «esta edición ya salió» y la ejecución termina en segundos sin
+# tocar nada. Es barato —el repositorio es público y los minutos no se cobran— y
+# quita de en medio el único punto que no controlamos: la puntualidad de GitHub.
+# Basta con que UNO de los seis o siete intentos de cada franja llegue.
+#
+# El minuto 37 no es capricho: en :00 y en :05 se agolpa medio mundo y es cuando
+# más se retrasa la cola. A media hora hay menos cola.
 
 on:
   schedule:
-    - cron: '5 5,6,12,13,18,19 * * *'
+    - cron: '37 * * * *' # cada hora; el guardián de abajo decide si toca
   workflow_dispatch: # botón manual en la pestaña Actions
   push:
     branches: [main]
@@ -68,20 +80,23 @@ jobs:
           AYER=$(TZ=Europe/Madrid date -d 'yesterday' +'%d/%m/%Y')
           HORA_N=$((10#$HORA))
 
-          if   [ "$HORA_N" -ge 7 ]  && [ "$HORA_N" -lt 14 ]; then FRANJA=07; FECHA=$HOY
-          elif [ "$HORA_N" -ge 14 ] && [ "$HORA_N" -lt 20 ]; then FRANJA=14; FECHA=$HOY
-          elif [ "$HORA_N" -ge 20 ]; then                        FRANJA=20; FECHA=$HOY
-          else                                                   FRANJA=20; FECHA=$AYER
+          # Las ediciones se llaman por su nombre, no por su hora: una edición
+          # anunciada a las 07:00 que sale a las 07:40 se desmiente sola, y la
+          # puntualidad de GitHub no está en nuestra mano. El nombre nunca falla.
+          if   [ "$HORA_N" -ge 7 ]  && [ "$HORA_N" -lt 14 ]; then FRANJA='de la mañana'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 14 ] && [ "$HORA_N" -lt 20 ]; then FRANJA='del mediodía'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 20 ]; then                        FRANJA='de la noche';  FECHA=$HOY
+          else                                                   FRANJA='de la noche';  FECHA=$AYER
           fi
 
-          echo "hora_local=$FRANJA" >> "$GITHUB_OUTPUT"
+          echo "edicion=$FRANJA" >> "$GITHUB_OUTPUT"
           echo "fecha_edicion=$FECHA" >> "$GITHUB_OUTPUT"
-          echo "Son las $HORA:00 en Asturias · franja de las $FRANJA:00 del $FECHA"
+          echo "Son las $HORA:00 en Asturias · toca la edición $FRANJA del $FECHA"
 
           if [ "${{ github.event_name }}" != "schedule" ]; then
             echo "Lanzado a mano (${{ github.event_name }}): se publica igual."
             echo "seguir=si" >> "$GITHUB_OUTPUT"
-          elif git log --pretty=%s -n 40 | grep -qF "Edición de las $FRANJA:00 del $FECHA"; then
+          elif git log --pretty=%s -n 40 | grep -qF "Edición $FRANJA del $FECHA"; then
             echo "Esa edición ya salió. No se repite."
             echo "seguir=no" >> "$GITHUB_OUTPUT"
           else
@@ -135,7 +150,7 @@ jobs:
           # que se publica a las 02:00 pertenece a la víspera, y si el mensaje
           # llevara la fecha de hoy el control de franjas no la reconocería y la
           # repetiría en cada disparo de la noche.
-          git diff --staged --quiet || git commit -m "Edición de las ${{ steps.reloj.outputs.hora_local }}:00 del ${{ steps.reloj.outputs.fecha_edicion }}"
+          git diff --staged --quiet || git commit -m "Edición ${{ steps.reloj.outputs.edicion }} del ${{ steps.reloj.outputs.fecha_edicion }}"
           git push
 
       - uses: actions/configure-pages@v5
