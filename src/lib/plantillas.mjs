@@ -154,6 +154,8 @@ export function nombreSeccion(seccion) {
     avisos: { en: 'Notices', fr: 'Infos pratiques', de: 'Hinweise' },
     actualidad: { en: 'News', fr: 'Actualités', de: 'Aktuelles' },
     tablon: { en: 'Noticeboard', fr: 'Petites annonces', de: 'Schwarzes Brett' },
+    // Faltaba: en el menú inglés salía «Cursos» entre «Jobs» y «Noticeboard».
+    cursos: { en: 'Courses', fr: 'Formations', de: 'Kurse' },
   };
   return mapa[seccion.slug]?.[estado.idioma] ?? seccion.nombre;
 }
@@ -231,8 +233,13 @@ export function hueco(slot, etiqueta = '') {
 <ins class="adsbygoogle" style="display:block" data-ad-client="${esc(anuncios.adsense.cliente)}" data-ad-slot="${esc(id)}" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>`;
   }
-  return `<div class="anuncio"><p class="anuncio__marca">${esc(etiqueta || T('publicidad'))}</p>
-<div class="anuncio__hueco">${esc(T('espacioLibre'))} · ${esc(slot)}</div></div>`;
+  // Y si no hay anuncio, NO se dibuja nada.
+  //
+  // Antes salía un recuadro de 199 px que decía «Espacio disponible ·
+  // portadaMedia» en el mejor sitio de la portada. Un periódico anunciando que
+  // nadie se anuncia en él no es un hueco a la espera: es una pancarta de que
+  // esto no lo lee nadie. El sitio se reserva en la maqueta, no en la página.
+  return '';
 }
 
 /** Patrocinios vivos hoy y, si se pide, de un concejo concreto. */
@@ -922,18 +929,30 @@ ${enlaces
 </div></nav>`;
 }
 
-/** El riel: las cuatro paradas de la línea, con su color y su letra. */
-function riel(activo, cuentas = {}) {
-  return `<nav class="riel" aria-label="${esc(T('laLinea'))}">
-  <ul class="riel__lista">
+/**
+ * Las cinco paradas, en fichas, para navegar por concejo.
+ *
+ * POR QUÉ NO ESTÁ ARRIBA. El riel vivía en la cabecera y ocupaba 232 px en
+ * móvil, de una pantalla de 800. Sumado al tiempo, la mancheta y el menú, el
+ * primer titular de la portada empezaba en el píxel 993: un periódico que no
+ * enseña ni una noticia sin desplazar. La línea es la marca del diario y no se
+ * toca, pero su sitio es después de las noticias, no antes.
+ *
+ * Y en esta forma sirve para algo: son enlaces con área táctil de 44 px y la
+ * cuenta de piezas de cada concejo.
+ */
+function navegadorConcejos(activo, cuentas = {}) {
+  return `<nav class="navconcejos" aria-label="${esc(T('laLinea'))}">
+  <h2 class="navconcejos__titulo">${esc(T('porConcejo'))}</h2>
+  <ul class="navconcejos__lista">
     ${enLinea()
       .map((c) => {
         const n = cuentas[c.slug];
-        return `<li class="riel__parada" style="${vars(c.slug)}">
-      <a class="riel__enlace" href="${U(`/${c.slug}/`)}"${c.slug === activo ? ' aria-current="page"' : ''}>
+        return `<li style="${vars(c.slug)}">
+      <a class="navconcejos__ficha" href="${U(`/${c.slug}/`)}"${c.slug === activo ? ' aria-current="page"' : ''}>
         ${disco(c.slug)}
-        <span class="riel__nombre">${esc(c.nombre)}</span>
-        <span class="riel__cuenta">${n == null ? esc(c.capital) : `${n} ${n === 1 ? T('pieza') : T('piezas')}`}</span>
+        <span class="navconcejos__nombre">${esc(c.nombre)}</span>
+        ${n == null ? '' : `<span class="navconcejos__cuenta">${n}</span>`}
       </a>
     </li>`;
       })
@@ -1058,7 +1077,6 @@ ${
         <span class="cabecera__hora">${esc(rotuloDeEdicion(edicionActual()))}</span>
       </p>
     </div>
-    ${riel(activo, cuentas)}
   </div>
   ${menu(activo)}
 </header>
@@ -1071,6 +1089,7 @@ ${
 <main id="principal">
 ${contenido}
 </main>
+${esPortada ? '' : `<div class="contenedor">${navegadorConcejos(activo, cuentas)}</div>`}
 
 <footer class="pie">
   <div class="contenedor">
@@ -1094,7 +1113,7 @@ ${contenido}
           <li><a href="${estado.idioma === IDIOMA_BASE ? '/feed.xml' : `/${estado.idioma}/feed.xml`}">${esc(T('rss'))}</a></li>
           <li><a href="${U('/quienes-somos/')}">${esc(T('quienesSomos'))}</a></li>
           <li><a href="${U('/anunciate/')}"><strong>${esc(T('anunciate'))}</strong></a></li>
-          <li><a href="${U('/aviso-legal/')}">${esc(T('avisoLegal'))}</a></li>
+          <li><a href="${U('/aviso-legal/')}">${esc(T('cookiesLegal'))}</a></li>
         </ul>
       </div>
     </div>
@@ -1106,13 +1125,28 @@ ${contenido}
   </div>
 </footer>
 
-<div class="cookies" id="cookies">
-  <p>Usamos cookies propias y de terceros para medir visitas y mostrar publicidad. Puedes leer los detalles en el <a href="${U('/aviso-legal/')}">aviso legal</a>.</p>
+${
+  // El aviso de cookies solo aparece si HAY algo que consentir.
+  //
+  // Decía «usamos cookies propias y de terceros para medir visitas y mostrar
+  // publicidad», y no era verdad: no hay analítica y AdSense está apagado. Lo
+  // único que se guarda es si prefieres modo noche, que es una preferencia que
+  // tú mismo pides y no necesita consentimiento. Pedir permiso para algo que no
+  // se hace no es prudencia: es tapar la portada con una mentira y acostumbrar
+  // al lector a aceptar sin leer.
+  //
+  // En cuanto se encienda la publicidad o se ponga un medidor que use cookies,
+  // vuelve solo.
+  anuncios.activo && anuncios.adsense.cliente
+    ? `<div class="cookies" id="cookies">
+  <p>${esc(T('cookiesTexto'))} <a href="${U('/aviso-legal/')}">${esc(T('cookiesLegal'))}</a>.</p>
   <div class="cookies__botones">
     <button class="cookies__no" type="button" data-cookies="no">${esc(T('cookiesSolo'))}</button>
     <button class="cookies__si" type="button" data-cookies="si">${esc(T('cookiesSi'))}</button>
   </div>
-</div>
+</div>`
+    : ''
+}
 
 <script>
 (function () {
@@ -1179,7 +1213,109 @@ ${contenido}
 
 /* --- páginas --------------------------------------------------------------- */
 
-export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
+/**
+ * «Lo práctico de hoy»: el corte de agua, la oferta de trabajo, el curso con
+ * plazo y la próxima cita, en una sola banda.
+ *
+ * POR QUÉ EXISTE. Un vecino no vuelve tres veces al día por las noticias: vuelve
+ * por si le cortan el agua el martes. Todo esto ya estaba en el diario, pero
+ * repartido en cuatro secciones distintas, a tres toques de distancia. Juntarlo
+ * arriba no añade contenido: lo pone donde se busca.
+ *
+ * Si no hay nada que poner, la banda no se dibuja.
+ */
+function bandaPractica({ avisos = [], empleo = [], cursos = [], agenda = [] }) {
+  const filas = [];
+  const a = avisos[0];
+  if (a) filas.push({ clase: 'aviso', etiqueta: T('etiqAviso'), texto: a.titular ?? a.titulo, url: a.url ?? '/avisos/' });
+  const e = empleo[0];
+  if (e) filas.push({ clase: 'trabajo', etiqueta: T('etiqTrabajo'), texto: [e.puesto, e.concejo].filter(Boolean).join(' · '), url: '/trabajo/' });
+  const c = cursos[0];
+  if (c) filas.push({ clase: 'curso', etiqueta: T('etiqCurso'), texto: [c.titulo, c.concejo].filter(Boolean).join(' · '), url: '/cursos/' });
+  const g = agenda[0];
+  if (g) filas.push({ clase: 'agenda', etiqueta: T('etiqAgenda'), texto: g.titulo ?? g.titular, url: g.url ?? '/agenda/' });
+
+  if (!filas.length) return '';
+
+  return `<section class="practico" aria-labelledby="practico-t">
+  <h2 class="practico__titulo" id="practico-t">${esc(T('loPractico'))}</h2>
+  <ul class="practico__lista">
+    ${filas
+      .map(
+        (f) => `<li><a class="practico__fila" href="${esc(U(f.url))}">
+      <span class="practico__etiq practico__etiq--${f.clase}">${esc(f.etiqueta)}</span>
+      <span class="practico__texto">${esc(f.texto ?? '')}</span>
+    </a></li>`
+      )
+      .join('\n')}
+  </ul>
+</section>`;
+}
+
+/**
+ * El destacado de pago del tablón. Sin nada destacado, no se dibuja: ver la
+ * nota de `hueco()` sobre por qué un recuadro vacío es peor que ninguno.
+ */
+function destacadoTablon(anunciosTablon = []) {
+  const d = anunciosTablon.find((x) => x.destacado && !x.ejemplo);
+  if (!d) return '';
+  return `<aside class="destacado" aria-label="${esc(T('destacadoTablon'))}">
+  <p class="destacado__marca">${esc(T('destacadoTablon'))}</p>
+  <a class="destacado__cuerpo" href="${esc(U('/tablon/'))}">
+    <span class="destacado__titulo">${esc(d.titulo)}</span>
+    <span class="destacado__pie">${esc([d.zona, d.concejo].filter(Boolean).join(', '))}${d.precio ? ` · ${esc(d.precio)}` : ''}</span>
+  </a>
+</aside>`;
+}
+
+/**
+ * Las piezas que le importan a quien viene de fuera.
+ *
+ * HALLAZGO: no hacía falta escribir nada nuevo. La puja del queso de Cabrales,
+ * el Festival de la Manzana, los cuarenta años de la Banda de Gaites, el cine
+ * en los praos — todo eso ya estaba en el diario, enterrado bajo la etiqueta
+ * «deporte y cultura», que es donde nadie de fuera va a mirar. Se reordena.
+ */
+function piezasDeVisitante(piezas) {
+  const culturales = piezas.filter((x) => ['agenda', 'deporte-y-cultura'].includes(x.seccion));
+  const limite = Date.now() - frescura.tira * 86400000;
+  const frescas = culturales.filter((x) => {
+    const t = new Date(x.fecha).getTime();
+    return Number.isFinite(t) ? t >= limite : false;
+  });
+  // Si no hay nada reciente, no se deja la portada en blanco ni se finge que lo
+  // hay: se enseña lo último y el rótulo lo dice. Es la misma regla que ya
+  // gobierna la tira de la portada española.
+  return frescas.length ? { lista: frescas, fresco: true } : { lista: culturales, fresco: false };
+}
+
+/** «Dónde ir»: los cinco concejos, con una línea cada uno para quien no los conoce. */
+function dondeIr(cuentas = {}) {
+  return `<section class="dondeir" aria-labelledby="dondeir-t">
+  <h2 class="dondeir__titulo" id="dondeir-t">${esc(T('dondeIr'))}</h2>
+  <ul class="dondeir__lista">
+    ${enLinea()
+      .map((c) => {
+        // El lema lo escribió Emilio para cada concejo; en los otros idiomas
+        // se traduce, no se inventa. Si faltara, cae en el original.
+        const linea = T(`lema_${c.slug}`) || c.lema || c.capital;
+        return `<li style="${vars(c.slug)}">
+      <a class="dondeir__fila" href="${U(`/${c.slug}/`)}">
+        ${disco(c.slug)}
+        <span class="dondeir__texto">
+          <span class="dondeir__nombre">${esc(c.nombre)}</span>
+          <span class="dondeir__pie">${esc(linea)}</span>
+        </span>
+        ${cuentas[c.slug] == null ? '' : `<span class="dondeir__cuenta">${cuentas[c.slug]}</span>`}
+      </a>
+    </li>`;
+      })
+      .join('\n')}
+  </ul>
+</section>`;
+}
+
+export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos, empleo = [], cursos = [], tablon = [] }) {
   // Cuatro niveles, como un periódico de papel: la de apertura, dos medianas,
   // tres menores sin foto, y una tira de titulares. Con dos niveles todo lo que
   // no era la apertura pesaba igual, y el lector no tenía por dónde empezar.
@@ -1227,34 +1363,57 @@ export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
     concejos.map((c) => [c.slug, piezas.filter((p) => p.concejoSlug === c.slug).length])
   );
 
-  return pagina({
-    titulo: T('portada'),
-    descripcion: sitio.descripcion,
-    url: '/',
-    activo: 'portada',
-    esPortada: true,
-    tiempo,
-    cuentas,
-    contenido: `<div class="contenedor">
-  ${bloqueDespertador(puntosFrescos, despertadorDatos?.fecha ?? new Date().toISOString())}
+  // La cuenta, en singular cuando toca. Decía «1 piezas».
+  const cuenta = (n) => `${n} ${n === 1 ? T('pieza') : T('piezas')}`;
 
-  <div class="rejilla">
-    <div>
+  // ── Dos portadas, un periódico ────────────────────────────────────────────
+  //
+  // El de aquí y el de fuera no vienen a lo mismo. El vecino vuelve tres veces
+  // al día y quiere saber si le cortan el agua; el que llega desde Google
+  // buscando los Picos de Europa viene una vez en su vida, antes de un viaje, y
+  // los cortes de agua en Yernes no le dicen nada.
+  //
+  // Hasta ahora las cuatro portadas eran el mismo calco traducido. Ahora la
+  // maquinaria es la misma —misma ingesta, mismas piezas, mismas plantillas— y
+  // lo único que cambia es el ORDEN en que se componen, según el idioma.
+  const paraVisitante = estado.idioma !== IDIOMA_BASE;
+
+  const columnaLocal = `
       ${primera ? destacada(primera) : `<p class="vacio">${esc(textoSinNovedad())}</p>`}
       ${medianas.length ? `<div class="piezas piezas--2">${medianas.map((p) => tarjeta(p)).join('\n')}</div>` : ''}
       ${menores.length ? `<div class="piezas piezas--3 piezas--menores">${menores.map((p) => tarjeta(p, { nivel: 'menor' })).join('\n')}</div>` : ''}
-      ${hueco('portadaMedia')}
+      ${bandaPractica({ avisos, empleo, cursos, agenda })}
+      ${bloqueDespertador(puntosFrescos, despertadorDatos?.fecha ?? new Date().toISOString())}
+      ${destacadoTablon(tablon)}
       ${
         listaLarga.length
-          ? `<h2 class="titulo-seccion">${esc(rotuloTira)} <span class="cuenta">${listaLarga.length} ${T('piezas')}</span></h2>
+          ? `<h2 class="titulo-seccion">${esc(rotuloTira)} <span class="cuenta">${esc(cuenta(listaLarga.length))}</span></h2>
       <ul class="tira">${listaLarga.map(filaLista).join('\n')}</ul>`
           : ''
       }
-      ${boletin()}
-    </div>
+      ${navegadorConcejos('portada', cuentas)}
+      ${boletin()}`;
 
-    <aside class="lateral">
-      ${plano('', cuentas)}
+  // Portada de visitante: primero lo que se puede planear, después lo que pasa.
+  const { lista: deFuera, fresco: hayFresco } = piezasDeVisitante(piezas);
+  const [cabezaV, ...restoV] = deFuera;
+  const yaEnV = new Set(deFuera.slice(0, 4).map((x) => x.url));
+  const noticiasV = piezas.filter((x) => !yaEnV.has(x.url)).slice(0, 6);
+
+  const columnaVisitante = `
+      <p class="ladillo">${esc(hayFresco ? T('loQuePasaAhora') : T('loUltimo'))}</p>
+      ${cabezaV ? destacada(cabezaV) : `<p class="vacio">${esc(textoSinNovedad())}</p>`}
+      ${restoV.length ? `<div class="piezas piezas--3">${restoV.slice(0, 3).map((x) => tarjeta(x)).join('\n')}</div>` : ''}
+      ${dondeIr(cuentas)}
+      ${
+        noticiasV.length
+          ? `<h2 class="titulo-seccion">${esc(T('deLosConcejos'))} <span class="cuenta">${esc(cuenta(noticiasV.length))}</span></h2>
+      <ul class="tira">${noticiasV.map(filaLista).join('\n')}</ul>`
+          : ''
+      }
+      ${boletin()}`;
+
+  const lateralLocal = `
       ${
         agenda.length
           ? `<div><h2 class="titulo-seccion">${esc(T('laAgenda'))}</h2>
@@ -1268,8 +1427,37 @@ export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos }) {
       <div class="avisos">${avisos.slice(0, 4).map(itemAviso).join('\n')}</div></div>`
           : ''
       }
-      ${patrocinios()}
-      ${hueco('lateral')}
+      ${patrocinios()}`;
+
+  // El mapa se queda SOLO en las portadas traducidas. En español duplicaba al
+  // navegador de concejos, con los mismos cinco nombres y las mismas cuentas a
+  // dos dedos de distancia; para quien no sabe dónde cae Cabranes, en cambio,
+  // es justo lo que hace falta.
+  const lateralVisitante = `
+      ${plano('', cuentas)}
+      ${
+        agenda.length
+          ? `<div><h2 class="titulo-seccion">${esc(T('laAgenda'))}</h2>
+      <div class="agenda">${agenda.slice(0, 5).map(itemAgenda).join('\n')}</div>
+      <a class="volver" href="${U('/agenda/')}">${esc(T('verAgenda'))}</a></div>`
+          : ''
+      }
+      ${patrocinios()}`;
+
+  return pagina({
+    titulo: T('portada'),
+    descripcion: paraVisitante ? T('descripcionVisitante') : sitio.descripcion,
+    url: '/',
+    activo: 'portada',
+    esPortada: true,
+    tiempo,
+    cuentas,
+    contenido: `<div class="contenedor">
+  <div class="rejilla">
+    <div>${paraVisitante ? columnaVisitante : columnaLocal}
+    </div>
+
+    <aside class="lateral">${paraVisitante ? lateralVisitante : lateralLocal}
     </aside>
   </div>
 </div>`,
