@@ -33,10 +33,24 @@ export const sitio = {
   //
   // Si añades o quitas una, cámbiala también en .github/workflows/publicar.yml
   // y añade su rótulo en los cuatro idiomas.
+  // POR QUÉ `desde` NO COINCIDE CON LA HORA DE LA EDICIÓN. Las tres ediciones
+  // siguen siendo las de las 07:00, las 14:00 y las 20:00: eso es lo que el
+  // diario promete y lo que el lector espera. Pero GitHub arranca cuando le
+  // viene bien —se han medido retrasos de media hora, de dos horas y de cuatro—
+  // y un tren que sale tarde llega tarde.
+  //
+  // Así que el diario se PREPARA dos horas antes de la hora prometida. Si el
+  // disparo es puntual, la edición está lista pronto y no pasa nada; si llega
+  // con dos horas de retraso, llega justo a su hora. El retraso deja de ser lo
+  // normal y pasa a ser el caso peor.
+  //
+  // El precio, dicho claro: la edición de la mañana puede cerrarse a las 05:40
+  // y no recoger lo que se publique entre esa hora y las siete. En estos cinco
+  // concejos, a esas horas, no suele publicarse nada.
   ediciones: [
-    { clave: 'manana', desde: 7 },
-    { clave: 'mediodia', desde: 14 },
-    { clave: 'noche', desde: 20 },
+    { clave: 'manana', desde: 5 },   // edición de las 07:00
+    { clave: 'mediodia', desde: 12 }, // edición de las 14:00
+    { clave: 'noche', desde: 18 },   // edición de las 20:00
   ],
 };
 
