@@ -11,7 +11,9 @@ import {
   estado, T, U, tr, nombreSeccion,
   itemAgenda, itemAviso, esc, fechaLarga, LOGO, pagina as marco,
   tarjetaAnuncio, filtrosTablon, publicaTuAnuncio, avisoTablon, anuncioVivo,
+  tarjetaCurso, filtrosCursos, publicaTuCurso, dondeBuscarCursos, cursoAbierto,
 } from './src/lib/plantillas.mjs';
+import { esCurso } from './src/lib/eventos.mjs';
 import { portadaSvg } from './src/lib/portadas.mjs';
 
 const RAIZ = import.meta.dirname;
@@ -52,8 +54,9 @@ const MOTIVOS_TEMA = [
   [/\b(queso|cabrales|cueva\w*|urriellu|monta[ñn]a\w*|cumbre\w*|sotres|bulnes|picos|ganado|pasto\w*|puertos)\b/i, 'picos'],
   [/\b(r[ií]a|playa\w*|rodiles|tazones|marisma\w*|barco\w*|vela|mar|marea\w*)\b/i, 'ria'],
   [/\b(r[ií]o|caudal|salm[oó]n|pesca|valle\w*|h[oó]rreo\w*|sella|piloña)\b/i, 'valle'],
+  [/\b(collada|cami[nñ]\w*|casta[ñn]\w*|senda\w*|ruta\w*|torazu|cabranes)\b/i, 'collada'],
 ];
-const MOTIVO_CONCEJO = { pilona: 'valle', nava: 'pumarada', cabrales: 'picos', villaviciosa: 'ria' };
+const MOTIVO_CONCEJO = { pilona: 'valle', nava: 'pumarada', cabrales: 'picos', villaviciosa: 'ria', cabranes: 'collada' };
 
 function motivoDe(p) {
   const heno = `${p.titular} ${p.entradilla} ${(p.etiquetas ?? []).join(' ')}`;
@@ -154,13 +157,19 @@ y CL de Cabrales. Las dos «C» llevan dos letras precisamente para no depender 
 Si no distingues los colores, o si tu navegador está en modo de alto contraste, la letra sigue diciéndote dónde
 estás. Ningún dato de este sitio se transmite solo con color.</p>
 <h2>Contraste y tamaño</h2>
-<p>El texto base es de 17 píxeles con interlínea larga, y todos los textos cumplen el contraste AA de las pautas
-WCAG 2.2. Cada color de concejo tiene dos versiones: una para rellenos y otra, más oscura, para cuando ese color
+<p>El texto base es de 17 píxeles con interlínea larga, el menú va a 17 y <strong>ningún texto de este sitio baja
+de 12,5 píxeles</strong>: ni los rótulos, ni las fechas, ni la letra pequeña, que aquí no es pequeña. Todos los
+textos cumplen el contraste AA de las pautas WCAG 2.2, comprobado de día y de noche. Cada color de concejo tiene dos versiones: una para rellenos y otra, más oscura, para cuando ese color
 es texto sobre fondo claro. El amarillo de Nava nunca se usa como letra sobre blanco.</p>
+<h2>Nada escondido en el móvil</h2>
+<p>En pantalla estrecha el menú y la línea de concejos no se arrastran de lado: se doblan en dos filas. Arrastrar
+esconde apartados, y un apartado escondido no existe para quien no sabe que puede arrastrar. Se ven los ocho
+apartados y los cinco concejos de un vistazo.</p>
 <h2>Teclado</h2>
 <p>Todo se puede recorrer con el tabulador, el foco se ve siempre con un contorno azul de tres píxeles, y el
 primer salto de la página te lleva directo al contenido. Los botones y enlaces miden al menos 44 píxeles, que es
-lo que pide un dedo.</p>
+lo que pide un dedo: está comprobado uno a uno, no dicho de boquilla. La única excepción son los enlaces que van
+dentro de una frase, que no se pueden agrandar sin romper el renglón.</p>
 <h2>Movimiento</h2>
 <p>Si tienes activado «reducir movimiento» en tu sistema, aquí no se mueve nada. No hay carruseles automáticos,
 ni ventanas que salten, ni vídeos que arranquen solos.</p>
@@ -342,6 +351,10 @@ where you are. Nothing on this site is conveyed by colour alone.</p>
 <p>Body text is 17 pixels with generous line spacing, and every text meets the AA contrast level of WCAG 2.2.
 Each council colour comes in two versions: one for fills and a darker one for when that colour is text on a light
 background. Nava's yellow is never used as lettering on white.</p>
+<h2>Nothing hidden on a phone</h2>
+<p>On a narrow screen the menu and the line of councils do not scroll sideways: they fold onto two rows. Scrolling
+hides sections, and a hidden section does not exist for someone who does not know they can scroll. All eight
+sections and all five councils are visible at a glance.</p>
 <h2>Keyboard</h2>
 <p>Everything can be reached with the tab key, the focus is always visible as a three-pixel blue outline, and the
 first jump on the page takes you straight to the content. Buttons and links are at least 44 pixels, which is what
@@ -368,6 +381,10 @@ dépende jamais de la couleur. Si vous ne distinguez pas les couleurs, ou si vot
 règles WCAG 2.2. Chaque couleur de commune existe en deux versions : une pour les aplats et une autre, plus foncée,
 pour quand cette couleur devient du texte sur fond clair. Le jaune de Nava n'est jamais utilisé comme lettrage sur
 du blanc.</p>
+<h2>Rien de caché sur un téléphone</h2>
+<p>Sur écran étroit, le menu et la ligne des communes ne défilent pas latéralement : ils se replient sur deux
+rangées. Faire défiler cache des rubriques, et une rubrique cachée n'existe pas pour qui ignore qu'on peut faire
+défiler. Les huit rubriques et les cinq communes se voient d'un coup d'œil.</p>
 <h2>Clavier</h2>
 <p>Tout se parcourt à la tabulation, le focus est toujours visible par un contour bleu de trois pixels, et le
 premier saut de la page mène directement au contenu. Les boutons et les liens mesurent au moins 44 pixels, ce
@@ -393,6 +410,10 @@ der Farbe abhängt. Wer Farben nicht unterscheidet oder den Browser im hohen Kon
 <p>Der Fließtext ist 17 Pixel groß mit großzügigem Zeilenabstand, und alle Texte erfüllen die Kontraststufe AA der
 WCAG 2.2. Jede Gemeindefarbe gibt es in zwei Fassungen: eine für Flächen und eine dunklere für den Fall, dass die
 Farbe als Text auf hellem Grund erscheint. Navas Gelb wird nie als Schrift auf Weiß verwendet.</p>
+<h2>Nichts versteckt auf dem Handy</h2>
+<p>Auf schmalem Bildschirm scrollen Menü und Gemeindelinie nicht zur Seite, sondern brechen auf zwei Zeilen um.
+Scrollen versteckt Rubriken, und eine versteckte Rubrik existiert nicht für jemanden, der nicht weiß, dass man
+scrollen kann. Alle acht Rubriken und alle fünf Gemeinden sind auf einen Blick zu sehen.</p>
 <h2>Tastatur</h2>
 <p>Alles ist mit der Tabulatortaste erreichbar, der Fokus ist stets als drei Pixel breite blaue Umrandung sichtbar,
 und der erste Sprung auf der Seite führt direkt zum Inhalt. Schaltflächen und Links messen mindestens 44 Pixel,
@@ -677,6 +698,7 @@ async function main() {
   const agendaManual = await json('agenda.json', []);
   const empleoManual = await json('empleo.json', []);
   const anunciosTablon = await json('anuncios.json', []);
+  const cursosManual = await json('cursos.json', []);
 
   const cuando = (e) => new Date(e.fechaEvento || e.fecha).getTime();
   const ayer = Date.now() - 86400000;
@@ -699,7 +721,7 @@ async function main() {
 
   
     // Portada
-    await escribir('index.html', portada({ piezas, despertadorDatos, tiempo, agenda, avisos }));
+    await escribir('index.html', portada({ piezas, despertadorDatos, tiempo, agenda, avisos, empleo: empleoManual, cursos: cursosManual, tablon: anunciosTablon }));
 
     // Concejos
     for (const c of concejos) {
@@ -713,6 +735,13 @@ async function main() {
       let lista = piezas.filter((p) => p.seccion === s.slug);
       let extra = '';
       if (s.slug === 'actualidad') lista = piezas;
+      if (s.slug === 'cursos') {
+        // La sección no tiene piezas propias: se nutre de lo que la ingesta ya
+        // trajo y que habla de un curso que se ofrece.
+        lista = piezas
+          .filter((p) => esCurso(`${p.entradilla ?? ''} ${p.cuerpo ?? ''}`, p.titular ?? ''))
+          .slice(0, 12);
+      }
       if (s.slug === 'agenda') {
         // La cartelera: primero lo que viene, después lo que se ha hecho estas
         // semanas, que también dice mucho de un sitio. Todo filtrable por tipo.
@@ -758,6 +787,30 @@ async function main() {
   }
   <div style="display:grid;gap:22px;max-width:520px;margin:0 0 40px">${publicaTuOferta()}${dondeBuscarEmpleo()}</div>
   ${lista.length ? `<h2 class="titulo-seccion">${T('empleoPrensa')}</h2>` : ''}`;
+      }
+      if (s.slug === 'cursos') {
+        // Dos cosas en la misma página: los cursos que nos mandan (a mano, gratis)
+        // y los que salen en la prensa y los tablones. Primero los que tienen el
+        // plazo abierto, y dentro de esos el que cierra antes: es el que urge.
+        const orden = [...cursosManual].sort((a, b) => {
+          const abiertoA = cursoAbierto(a);
+          const abiertoB = cursoAbierto(b);
+          if (abiertoA !== abiertoB) return abiertoA ? -1 : 1;
+          if (!!a.destacado !== !!b.destacado) return a.destacado ? -1 : 1;
+          const plazoA = a.inscripcionHasta ?? a.empieza ?? '9999';
+          const plazoB = b.inscripcionHasta ?? b.empieza ?? '9999';
+          return String(plazoA).localeCompare(String(plazoB));
+        });
+        extra = `
+  ${orden.length ? `<h2 class="titulo-seccion">${T('cursosAbiertos')} <span class="cuenta">${orden.length}</span></h2>` : ''}
+  ${filtrosCursos(orden)}
+  ${
+    orden.length
+      ? `<div class="anuncios" data-cartelera>${orden.map(tarjetaCurso).join('\n')}</div>`
+      : `<p class="vacio">${T('sinCursos')}</p>`
+  }
+  <div style="display:grid;gap:22px;max-width:560px;margin:32px 0 40px">${publicaTuCurso()}${dondeBuscarCursos()}</div>
+  ${lista.length ? `<h2 class="titulo-seccion">${T('cursosEnPrensa')}</h2>` : ''}`;
       }
       if (s.slug === 'tablon') {
         // El tablón no lleva noticias: lo que hay es lo que mandan los vecinos.
