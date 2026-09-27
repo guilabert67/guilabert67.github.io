@@ -1,0 +1,10 @@
+# El sitio compilado. Lo genera build.mjs y lo despliega GitHub Actions
+# como artefacto: no debe entrar nunca en el repositorio.
+dist/
+
+# Dependencias de Node
+node_modules/
+
+# Restos del sistema
+.DS_Store
+Thumbs.db
