@@ -21,9 +21,10 @@ name: Ediciones de La Prida
 # hora que dé el reloj. Un disparo con dos horas de retraso sigue sirviendo, y
 # dos disparos de la misma franja no duplican nada.
 #
-#   07:00 – 13:59  →  edición de la mañana
-#   14:00 – 19:59  →  edición del mediodía
-#   20:00 – 06:59  →  edición de la noche (la de madrugada es la de la víspera)
+#   05:00 – 11:59  →  edición de la mañana   (la que se promete a las 07:00)
+#   12:00 – 17:59  →  edición del mediodía  (la que se promete a las 14:00)
+#   18:00 – 04:59  →  edición de la noche   (la que se promete a las 20:00;
+#                                            la de madrugada es la de la víspera)
 #
 # Y por eso mismo las ediciones se NOMBRAN en vez de fecharse a la hora: si el
 # disparo llega tarde, el nombre sigue siendo verdad. Ver src/config.mjs.
@@ -83,9 +84,15 @@ jobs:
           # Las ediciones se llaman por su nombre, no por su hora: una edición
           # anunciada a las 07:00 que sale a las 07:40 se desmiente sola, y la
           # puntualidad de GitHub no está en nuestra mano. El nombre nunca falla.
-          if   [ "$HORA_N" -ge 7 ]  && [ "$HORA_N" -lt 14 ]; then FRANJA='de la mañana'; FECHA=$HOY
-          elif [ "$HORA_N" -ge 14 ] && [ "$HORA_N" -lt 20 ]; then FRANJA='del mediodía'; FECHA=$HOY
-          elif [ "$HORA_N" -ge 20 ]; then                        FRANJA='de la noche';  FECHA=$HOY
+          #
+          # Y las franjas empiezan DOS HORAS ANTES de la hora que el diario
+          # promete (05, 12 y 18 en vez de 07, 14 y 20). No es un despiste: si
+          # el disparo es puntual, la edición está lista pronto; si llega con
+          # dos horas de retraso —lo normal en GitHub—, llega justo a su hora.
+          # Estas horas tienen que coincidir con `ediciones` en src/config.mjs.
+          if   [ "$HORA_N" -ge 5 ]  && [ "$HORA_N" -lt 12 ]; then FRANJA='de la mañana'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 12 ] && [ "$HORA_N" -lt 18 ]; then FRANJA='del mediodía'; FECHA=$HOY
+          elif [ "$HORA_N" -ge 18 ]; then                        FRANJA='de la noche';  FECHA=$HOY
           else                                                   FRANJA='de la noche';  FECHA=$AYER
           fi
 
