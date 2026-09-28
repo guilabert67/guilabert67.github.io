@@ -1,18 +1,18 @@
 {
-  "actualizado": "2026-09-28T14:22:21.368Z",
+  "actualizado": "2026-09-28T20:42:12.706Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
       "max": 25,
       "min": 14,
-      "estado": "Lluvia débil",
+      "estado": "Orbayu persistente",
       "lluvia": 18
     },
     "nava": {
       "max": 24,
       "min": 13,
       "estado": "Orbayu",
-      "lluvia": 8
+      "lluvia": 18
     },
     "cabranes": {
       "max": 24,
@@ -23,14 +23,14 @@
     "cabrales": {
       "max": 22,
       "min": 14,
-      "estado": "Nuboso",
-      "lluvia": 10
+      "estado": "Orbayu",
+      "lluvia": 15
     },
     "villaviciosa": {
       "max": 24,
       "min": 15,
-      "estado": "Nuboso",
-      "lluvia": 8
+      "estado": "Orbayu",
+      "lluvia": 15
     }
   }
 }
