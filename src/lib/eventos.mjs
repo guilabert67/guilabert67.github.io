@@ -2,7 +2,7 @@
 // Sin dependencias y sin IA: si el redactor con IA acierta, se respeta lo suyo;
 // si no hay clave de API, esto sigue funcionando igual.
 
-import { tiposEvento, clavesEmpleo } from '../config.mjs';
+import { tiposEvento, clavesEmpleo, clavesCurso } from '../config.mjs';
 
 const limpiar = (s = '') =>
   String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -81,6 +81,33 @@ export function esFuturo(pieza, ahora = new Date()) {
  * una pista en el titular o dos en el cuerpo. Así un pleno que menciona de
  * pasada una plaza no acaba en la sección de Trabajo.
  */
+/**
+ * ¿La pieza habla de un curso que se ofrece?
+ *
+ * Misma puntuación que el empleo: en el titular vale 3, en el cuerpo 1, y hace
+ * falta llegar a 3. Así «el Ayuntamiento abre el plazo del curso de poda» entra
+ * por el titular, y una noticia que solo menciona «curso escolar» de pasada, no.
+ */
+export function esCurso(texto = '', titular = '') {
+  // «Curso» en español significa dos cosas, y solo una nos sirve. Sin este veto,
+  // «Arranca el curso escolar con 120 alumnos» entraba como oferta formativa.
+  const NO_ES_OFERTA = /\bcurso\s+(escolar|academico|academico|pasado|que\s+viene|20\d\d)|\b(durante|a lo largo d)el\s+curso\b|\bfin de curso\b/;
+  const cabezaCruda = limpiar(titular);
+  if (NO_ES_OFERTA.test(cabezaCruda) && !/\b(inscrip|matricul|plaza|se abre el plazo|taller|formacion)/.test(cabezaCruda)) {
+    return false;
+  }
+
+  const heno = limpiar(texto);
+  const cabeza = cabezaCruda;
+  let puntos = 0;
+  for (const clave of clavesCurso) {
+    if (cabeza && busca(cabeza, clave)) puntos += 3;
+    else if (busca(heno, clave)) puntos += 1;
+    if (puntos >= 3) return true;
+  }
+  return false;
+}
+
 export function esEmpleo(texto = '', titular = '') {
   const heno = limpiar(texto);
   const cabeza = limpiar(titular);

@@ -160,7 +160,79 @@ ${capas(r, color, m, { alturaBase: 0.46, capas: 3, ondulacion: 1.05 })}
 </g>`;
 }
 
-const MOTIVOS = { picos, ria, pumarada, valle };
+// Cabranes: la collada, el camín que la sube y un castañal. Interior, sin mar
+// y sin picos: lo que se ve desde Torazu es loma sobre loma.
+function collada(r, color, m) {
+  const cx = 420 + r() * 380;
+  const verde = mezclar(color, m.tinte, 0.3);
+  const camino = mezclar('#D9C9A8', m.tinte, 0.2);
+  const arboles = Array.from({ length: 5 }, (_, i) => {
+    const x = 120 + i * (180 + r() * 40) + r() * 40;
+    const y = B * (0.74 + r() * 0.1);
+    const rr = 30 + r() * 16;
+    return `<g><rect x="${(x - 3).toFixed(0)}" y="${(y - 6).toFixed(0)}" width="6" height="${(rr * 0.8).toFixed(0)}" fill="${mezclar(verde, '#000000', 0.42)}"/>` +
+      `<circle cx="${x.toFixed(0)}" cy="${(y - rr * 0.6).toFixed(0)}" r="${rr.toFixed(0)}" fill="${mezclar(verde, '#ffffff', Math.max(0.05, m.luz - 0.66))}"/></g>`;
+  }).join('\n');
+  return `
+${capas(r, color, m, { alturaBase: 0.44, capas: 3, ondulacion: 1.25 })}
+<path d="M${cx},${B * 0.52} C${cx - 90},${B * 0.68} ${cx + 120},${B * 0.8} ${cx - 40},${B}"
+  stroke="${mezclar(camino, '#ffffff', m.luz - 0.5)}" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.85"/>
+<path d="M${cx},${B * 0.52} C${cx - 90},${B * 0.68} ${cx + 120},${B * 0.8} ${cx - 40},${B}"
+  stroke="${mezclar(camino, '#000000', 0.18)}" stroke-width="3" fill="none" stroke-dasharray="14 18" opacity="0.5"/>
+${arboles}`;
+}
+
+const MOTIVOS = { picos, ria, pumarada, valle, collada };
+
+/* --- detalle: cuando el paisaje ya cansa ----------------------------------- */
+//
+// Una rejilla de doce piezas ilustradas con doce paisajes iguales se lee como
+// un error de carga, no como un diario. Estas composiciones no son paisajes:
+// están hechas con lo que ya es La Prida —el disco de parada, la línea, las
+// curvas de nivel— y rompen la repetición sin salirse de la casa.
+
+function curvasDeNivel(r, color, m) {
+  const cx = 240 + r() * 720;
+  const cy = 180 + r() * 380;
+  const anillos = Array.from({ length: 9 }, (_, i) => {
+    const rr = 60 + i * (44 + r() * 14);
+    const gr = (0.5 + r() * 0.5).toFixed(1);
+    return `<ellipse cx="${cx.toFixed(0)}" cy="${cy.toFixed(0)}" rx="${rr.toFixed(0)}" ry="${(rr * (0.56 + r() * 0.12)).toFixed(0)}"
+      fill="none" stroke="${mezclar(color, m.tinte, 0.2 + i * 0.05)}" stroke-width="${gr}" opacity="${(0.78 - i * 0.06).toFixed(2)}"/>`;
+  }).join('\n');
+  return `<rect width="${A}" height="${B}" fill="${mezclar(m.cielo[0], color, 0.06)}"/>
+${anillos}
+<circle cx="${cx.toFixed(0)}" cy="${cy.toFixed(0)}" r="26" fill="${color}" opacity="0.9"/>`;
+}
+
+function laLinea(r, color, m) {
+  const y = B * (0.36 + r() * 0.3);
+  const n = 3 + Math.floor(r() * 3);
+  const paso = A / (n + 1);
+  const paradas = Array.from({ length: n }, (_, i) => {
+    const x = paso * (i + 1) + (r() - 0.5) * 40;
+    const rr = i === Math.floor(n / 2) ? 46 : 30;
+    return `<circle cx="${x.toFixed(0)}" cy="${y.toFixed(0)}" r="${rr}" fill="${i === Math.floor(n / 2) ? color : mezclar(color, m.cielo[0], 0.5)}"
+      stroke="${mezclar(color, '#000000', 0.42)}" stroke-width="5"/>`;
+  }).join('\n');
+  return `<rect width="${A}" height="${B}" fill="${mezclar(m.cielo[0], color, 0.05)}"/>
+<line x1="60" y1="${y.toFixed(0)}" x2="${A - 60}" y2="${y.toFixed(0)}" stroke="${color}" stroke-width="12" stroke-linecap="round" opacity="0.85"/>
+${paradas}`;
+}
+
+function franjas(r, color, m) {
+  const giro = -24 + r() * 48;
+  const barras = Array.from({ length: 11 }, (_, i) => {
+    const h = 26 + r() * 74;
+    const y = -140 + i * 92;
+    return `<rect x="-260" y="${y.toFixed(0)}" width="${A + 520}" height="${h.toFixed(0)}"
+      fill="${mezclar(color, m.tinte, 0.08 + (i % 4) * 0.16)}" opacity="${(0.5 + (i % 3) * 0.16).toFixed(2)}"/>`;
+  }).join('\n');
+  return `<rect width="${A}" height="${B}" fill="${mezclar(m.cielo[1], color, 0.08)}"/>
+<g transform="rotate(${giro.toFixed(1)} ${A / 2} ${B / 2})">${barras}</g>`;
+}
+
+const DETALLES = [curvasDeNivel, laLinea, franjas];
 
 /**
  * Devuelve un SVG (cadena) de 1200x750.
@@ -171,8 +243,22 @@ const MOTIVOS = { picos, ria, pumarada, valle };
 export function portadaSvg(id, color = '#2F6F4E', motivo = 'valle') {
   const r = semilla(id);
   const m = MOMENTOS[Math.floor(r() * MOMENTOS.length)];
+
+  // Casi una de cada dos va en "detalle". Con un tercio todavía salían dos rías
+  // casi idénticas juntas en la portada: cuando varias piezas del mismo concejo
+  // caen seguidas, comparten motivo y comparten paleta, y se notan.
+  const sorteo = r();
+  if (sorteo < 0.45) {
+    const hacer = DETALLES[Math.floor(r() * DETALLES.length)];
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${A} ${B}" width="${A}" height="${B}" role="img" aria-label="Ilustración de La Prida">
+${hacer(r, color, m)}
+</svg>`;
+  }
+
   const dibujar = MOTIVOS[motivo] ?? valle;
 
+  // El sol tampoco es obligatorio: estaba en todas y unificaba de más.
+  const conAstro = r() < 0.6;
   const astroX = 190 + r() * 820;
   const astroY = 96 + r() * 74;
   const astroR = 40 + r() * 26;
@@ -191,8 +277,12 @@ export function portadaSvg(id, color = '#2F6F4E', motivo = 'valle') {
   </linearGradient>
 </defs>
 <rect width="${A}" height="${B}" fill="url(#cielo)"/>
-<circle cx="${astroX.toFixed(0)}" cy="${astroY.toFixed(0)}" r="${(astroR * 1.9).toFixed(0)}" fill="${m.astro}" opacity="0.14"/>
-<circle cx="${astroX.toFixed(0)}" cy="${astroY.toFixed(0)}" r="${astroR.toFixed(0)}" fill="${m.astro}" opacity="0.62"/>
+${
+  conAstro
+    ? `<circle cx="${astroX.toFixed(0)}" cy="${astroY.toFixed(0)}" r="${(astroR * 1.9).toFixed(0)}" fill="${m.astro}" opacity="0.14"/>
+<circle cx="${astroX.toFixed(0)}" cy="${astroY.toFixed(0)}" r="${astroR.toFixed(0)}" fill="${m.astro}" opacity="0.62"/>`
+    : ''
+}
 ${dibujar(r, color, m)}
 ${grano}
 </svg>`;
