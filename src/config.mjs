@@ -67,7 +67,7 @@ export const sitio = {
 // Analytics», añadir el sitio guilabert67.github.io y copiar aquí el token que
 // da (una cadena larga de letras y números). Nada más.
 export const analitica = {
-  token: '',
+  token: 'aa2a568fed4d4e19a747372c5e0b9853',
 };
 
 // ── Monetización ────────────────────────────────────────────────────────────
