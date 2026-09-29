@@ -1,5 +1,265 @@
 [
   {
+    "id": "la-fundacion-corripio-alonso-entrega-sus-primeros-galardones-el-2-de-o",
+    "url": "/villaviciosa/la-fundacion-corripio-alonso-entrega-sus-primeros-galardones-el-2-de-o/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Corripio Alonso entrega sus primeros galardones en Villaviciosa",
+    "entradilla": "La ceremonia es el jueves 2 de octubre en el Teatro Riera, a partir de las seis de la tarde.",
+    "cuerpo": [
+      "La Fundación Corripio Alonso celebra el próximo 2 de octubre la primera entrega de sus galardones. El acto arranca a las 18:00 horas en el Teatro Riera de Villaviciosa.",
+      "Es la primera vez que la fundación reparte estos premios, así que la cita tiene algo de estreno."
+    ],
+    "apunte": "Primera vez que se entregan: todo el mundo llega sin saber si va a ganar.",
+    "enVeinte": [
+      "La Fundación Corripio Alonso entrega sus primeros galardones el 2 de octubre en Villaviciosa.",
+      "El acto es en el Teatro Riera y empieza a las 18:00 horas.",
+      "Es la primera edición de estos premios."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliaya",
+      "como": "ma-LIA-ya",
+      "definicion": "Apodo con el que se conoce a Villaviciosa y a sus vecinos. El origen del término es incierto, aunque lo usan con orgullo los propios villaviciosinos para referirse a su villa."
+    },
+    "porQue": "Una nueva fundación local empieza a repartir reconocimientos: vale la pena saber quiénes son y a quién premian.",
+    "etiquetas": [
+      "Fundación Corripio Alonso",
+      "premios",
+      "Teatro Riera",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "2026-10-02",
+    "tipoEvento": "escena",
+    "lugar": "Teatro Riera, Villaviciosa",
+    "hora": "18:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/03/31/2026033110091824308.jpg",
+    "fecha": "2026-09-29T10:34:42.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/primeros-premios-corripio-alonso/20260929123442104079.html",
+      "titularOriginal": "La Fundación Corripio Alonso entrega sus primeros galardones el 2 de octubre en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Corripio Alonso presents its first awards in Villaviciosa",
+        "entradilla": "The ceremony takes place on Thursday, 2 October at the Teatro Riera, starting at six in the evening.",
+        "cuerpo": [
+          "The Fundación Corripio Alonso holds its first awards ceremony on 2 October. The event begins at 18:00 at the Teatro Riera in Villaviciosa.",
+          "It is the first time the foundation has given out these awards, so the occasion has something of a debut about it."
+        ],
+        "apunte": "First edition: everyone arrives without knowing whether they have won.",
+        "enVeinte": [
+          "The Fundación Corripio Alonso presents its first awards on 2 October in Villaviciosa.",
+          "The event is at the Teatro Riera and starts at 18:00.",
+          "This is the first edition of these awards."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LIA-ya",
+          "definicion": "The nickname by which Villaviciosa and its residents are known. The origin of the term is uncertain, though the people of Villaviciosa themselves use it with pride to refer to their town."
+        },
+        "porQue": "A new local foundation is beginning to hand out recognition: it is worth knowing who they are and who they award.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Corripio Alonso remet ses premiers prix à Villaviciosa",
+        "entradilla": "La cérémonie a lieu le jeudi 2 octobre au Teatro Riera, à partir de dix-huit heures.",
+        "cuerpo": [
+          "La Fundación Corripio Alonso organise le 2 octobre la première remise de ses prix. L'événement commence à 18 h 00 au Teatro Riera de Villaviciosa.",
+          "C'est la première fois que la fondation décerne ces récompenses, ce qui donne à la soirée un air de première."
+        ],
+        "apunte": "Première édition : tout le monde arrive sans savoir s'il va gagner.",
+        "enVeinte": [
+          "La Fundación Corripio Alonso remet ses premiers prix le 2 octobre à Villaviciosa.",
+          "L'événement se tient au Teatro Riera et commence à 18 h 00.",
+          "C'est la première édition de ces prix."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LIA-ya",
+          "definicion": "Le surnom par lequel on désigne Villaviciosa et ses habitants. L'origine du terme est incertaine, mais les Villaviciosins eux-mêmes l'emploient avec fierté pour parler de leur ville."
+        },
+        "porQue": "Une nouvelle fondation locale commence à décerner des distinctions : il vaut la peine de savoir qui elle est et qui elle récompense.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Corripio Alonso verleiht seine ersten Auszeichnungen in Villaviciosa",
+        "entradilla": "Die Zeremonie findet am Donnerstag, den 2. Oktober, im Teatro Riera statt und beginnt um achtzehn Uhr.",
+        "cuerpo": [
+          "Die Fundación Corripio Alonso veranstaltet am 2. Oktober die erste Verleihung ihrer Auszeichnungen. Die Veranstaltung beginnt um 18:00 Uhr im Teatro Riera in Villaviciosa.",
+          "Es ist das erste Mal, dass die Stiftung diese Preise vergibt, und so hat der Abend etwas von einer Premiere."
+        ],
+        "apunte": "Erste Ausgabe: Alle kommen, ohne zu wissen, ob sie gewonnen haben.",
+        "enVeinte": [
+          "Die Fundación Corripio Alonso verleiht ihre ersten Auszeichnungen am 2. Oktober in Villaviciosa.",
+          "Die Veranstaltung findet im Teatro Riera statt und beginnt um 18:00 Uhr.",
+          "Es ist die erste Ausgabe dieser Preise."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LIA-ya",
+          "definicion": "Der Spitzname, unter dem Villaviciosa und seine Bewohner bekannt sind. Der Ursprung des Begriffs ist ungewiss, doch die Einwohner von Villaviciosa verwenden ihn selbst mit Stolz, wenn sie von ihrer Stadt sprechen."
+        },
+        "porQue": "Eine neue lokale Stiftung beginnt, Anerkennungen zu vergeben: Es lohnt sich zu wissen, wer sie sind und wen sie auszeichnen.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "camoca-celebra-el-domingo-el-25-aniversario-de-la-recuperacion-de-la-f",
+    "url": "/villaviciosa/camoca-celebra-el-domingo-el-25-aniversario-de-la-recuperacion-de-la-f/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Camoca celebra el domingo 25 años de la Feria del Lino",
+    "entradilla": "Vicente Alonso, el hostelero detrás de 'Villaviciosa Hermosa', será el pregonero de una feria que ya existía en 1615.",
+    "cuerpo": [
+      "La parroquia de Camoca conmemora este domingo el 25.º aniversario de la recuperación de la Feria del Lino y les Nueces, uno de los mercados tradicionales más antiguos del concejo.",
+      "El encargado de abrir el acto con el pregón será Vicente Alonso, hostelero conocido por impulsar el proyecto 'Villaviciosa Hermosa'."
+    ],
+    "apunte": "Cuatro siglos larga la feria, y el pregonero se la gana haciendo sidrina y promoción local.",
+    "enVeinte": [
+      "Camoca celebra este domingo el 25.º aniversario de la recuperación de la Feria del Lino y les Nueces.",
+      "Vicente Alonso, hostelero y creador de 'Villaviciosa Hermosa', será el pregonero del acto.",
+      "La feria tiene raíces documentadas en 1615, lo que la convierte en una de las más antiguas del oriente asturiano."
+    ],
+    "cifra": {
+      "numero": "1615",
+      "unidad": "año de origen",
+      "glosa": "La Feria del Lino y les Nueces de Camoca aparece ya documentada en 1615, hace más de cuatro siglos. Se recuperó hace 25 años y desde entonces se celebra cada otoño."
+    },
+    "palabra": {
+      "termino": "les Nueces",
+      "como": "les NUE-ces (en asturiano, plural de 'la nuez')",
+      "definicion": "En asturiano, 'les nueces' son las nueces. El otoño era la temporada natural de recolecta, y los mercados tradicionales de la zona juntaban el lino y los frutos secos como productos de temporada."
+    },
+    "porQue": "Una feria de este calibre pone a Camoca en el mapa regional un domingo de otoño y da vida al comercio y la hostelería de toda la zona.",
+    "etiquetas": [
+      "Camoca",
+      "Feria del Lino",
+      "Villaviciosa",
+      "tradición"
+    ],
+    "fechaEvento": "2026-10-04",
+    "tipoEvento": "feria",
+    "lugar": "Camoca",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/09/29/2026092911024257152.jpg",
+    "fecha": "2026-09-29T09:03:15.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/camoca-aniversario-recuperacion-feria-lino-nueces/20260929110315104068.html",
+      "titularOriginal": "Camoca celebra el domingo el 25.º aniversario de la recuperación de la Feria del Lino y les Nueces"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Camoca celebrates 25 years of the Feria del Lino this Sunday",
+        "entradilla": "Vicente Alonso, the hotelier behind 'Villaviciosa Hermosa', will give the opening address at a fair that already existed in 1615.",
+        "cuerpo": [
+          "The parish of Camoca marks this Sunday the 25th anniversary of the revival of the Feria del Lino y les Nueces (the Linen and Walnut Fair), one of the oldest traditional markets in the municipality.",
+          "Vicente Alonso, a hotelier known for driving the 'Villaviciosa Hermosa' project, will open the event with the pregón (traditional public address)."
+        ],
+        "apunte": "Four centuries and counting, and the pregonero earns his place by making sidrina and promoting the area.",
+        "enVeinte": [
+          "Camoca celebrates this Sunday the 25th anniversary of the revival of the Feria del Lino y les Nueces.",
+          "Vicente Alonso, hotelier and creator of 'Villaviciosa Hermosa', will deliver the opening address.",
+          "The fair has documented roots going back to 1615, making it one of the oldest in eastern Asturias."
+        ],
+        "cifra": {
+          "numero": "1615",
+          "unidad": "year of origin",
+          "glosa": "The Feria del Lino y les Nueces de Camoca is already documented in 1615, more than four centuries ago. It was revived 25 years ago and has been held every autumn since."
+        },
+        "palabra": {
+          "termino": "les Nueces",
+          "como": "les NUE-ces (in Asturian, plural of 'la nuez')",
+          "definicion": "In Asturian, 'les nueces' means walnuts. Autumn was the natural harvest season, and traditional markets in the area brought together linen and dried fruits as seasonal produce."
+        },
+        "porQue": "A fair of this standing puts Camoca on the regional map on an autumn Sunday and brings life to the trade and hospitality of the whole area.",
+        "lugar": "Camoca",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Camoca fête dimanche les 25 ans de la Feria del Lino",
+        "entradilla": "Vicente Alonso, le restaurateur à l'origine de 'Villaviciosa Hermosa', sera le pregonero d'une foire qui existait déjà en 1615.",
+        "cuerpo": [
+          "La paroisse de Camoca commémore ce dimanche le 25e anniversaire de la renaissance de la Feria del Lino y les Nueces (la foire du Lin et des Noix), l'un des marchés traditionnels les plus anciens de la commune.",
+          "Vicente Alonso, restaurateur connu pour avoir lancé le projet 'Villaviciosa Hermosa', ouvrira la manifestation avec le pregón (discours d'ouverture traditionnel)."
+        ],
+        "apunte": "Quatre siècles de foire, et le pregonero la mérite en faisant de la sidrina et de la promotion locale.",
+        "enVeinte": [
+          "Camoca fête ce dimanche le 25e anniversaire de la renaissance de la Feria del Lino y les Nueces.",
+          "Vicente Alonso, restaurateur et créateur de 'Villaviciosa Hermosa', sera le pregonero de l'événement.",
+          "La foire a des racines documentées remontant à 1615, ce qui en fait l'une des plus anciennes de l'est des Asturies."
+        ],
+        "cifra": {
+          "numero": "1615",
+          "unidad": "année d'origine",
+          "glosa": "La Feria del Lino y les Nueces de Camoca est déjà documentée en 1615, il y a plus de quatre siècles. Elle a été relancée il y a 25 ans et se tient chaque automne depuis lors."
+        },
+        "palabra": {
+          "termino": "les Nueces",
+          "como": "les NUE-ces (en asturien, pluriel de 'la nuez')",
+          "definicion": "En asturien, 'les nueces' désigne les noix. L'automne était la saison naturelle de la récolte, et les marchés traditionnels de la région rassemblaient le lin et les fruits secs comme produits de saison."
+        },
+        "porQue": "Une foire de cette envergure met Camoca sur la carte régionale un dimanche d'automne et donne vie au commerce et à la restauration de toute la zone.",
+        "lugar": "Camoca",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Camoca feiert am Sonntag 25 Jahre Feria del Lino",
+        "entradilla": "Vicente Alonso, der Gastronom hinter 'Villaviciosa Hermosa', wird der Pregonero einer Messe sein, die bereits 1615 existierte.",
+        "cuerpo": [
+          "Die Pfarrgemeinde Camoca begeht diesen Sonntag das 25-jährige Jubiläum der Wiederbelebung der Feria del Lino y les Nueces (Flachs- und Nussmesse), einem der ältesten traditionellen Märkte der Gemeinde.",
+          "Vicente Alonso, ein Gastronom, der für die Förderung des Projekts 'Villaviciosa Hermosa' bekannt ist, wird die Veranstaltung mit dem Pregón (traditionelle Eröffnungsansprache) eröffnen."
+        ],
+        "apunte": "Vier Jahrhunderte Markt – und der Pregonero verdient sich seinen Platz mit Sidrina und lokaler Werbung.",
+        "enVeinte": [
+          "Camoca feiert diesen Sonntag das 25-jährige Jubiläum der Wiederbelebung der Feria del Lino y les Nueces.",
+          "Vicente Alonso, Gastronom und Gründer von 'Villaviciosa Hermosa', wird die Eröffnungsansprache halten.",
+          "Die Messe hat dokumentierte Wurzeln bis ins Jahr 1615 und ist damit eine der ältesten in Ostasturien."
+        ],
+        "cifra": {
+          "numero": "1615",
+          "unidad": "Gründungsjahr",
+          "glosa": "Die Feria del Lino y les Nueces de Camoca ist bereits für das Jahr 1615 belegt, vor mehr als vier Jahrhunderten. Sie wurde vor 25 Jahren wiederbelebt und wird seitdem jeden Herbst abgehalten."
+        },
+        "palabra": {
+          "termino": "les Nueces",
+          "como": "les NUE-ces (auf Asturisch, Plural von 'la nuez')",
+          "definicion": "Auf Asturisch bedeutet 'les nueces' Walnüsse. Der Herbst war die natürliche Erntezeit, und auf den traditionellen Märkten der Region wurden Flachs und Trockenfrüchte als Saisonprodukte zusammen angeboten."
+        },
+        "porQue": "Eine Messe dieser Bedeutung setzt Camoca an einem Herbstsonntag auf die regionale Landkarte und belebt Handel und Gastronomie der gesamten Umgebung.",
+        "lugar": "Camoca",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "domingo el 25 aniversario de la recuperacion de",
+      "el 25 aniversario de la recuperacion de la",
+      "25 aniversario de la recuperacion de la feria",
+      "aniversario de la recuperacion de la feria del",
+      "de la recuperacion de la feria del lino",
+      "la recuperacion de la feria del lino y",
+      "recuperacion de la feria del lino y les",
+      "de la feria del lino y les nueces"
+    ]
+  },
+  {
     "id": "mejoras-de-mas-de-500-000-euros-en-el-cordal-de-peon-en-villaviciosa-l",
     "url": "/villaviciosa/mejoras-de-mas-de-500-000-euros-en-el-cordal-de-peon-en-villaviciosa-l/",
     "concejo": "Villaviciosa",
@@ -10884,105 +11144,6 @@
       "desfile de los culetinos y el concurso internacional",
       "de los culetinos y el concurso internacional de",
       "los culetinos y el concurso internacional de escanciadores"
-    ]
-  },
-  {
-    "id": "un-incendio-calcino-anoche-parte-de-una-vivienda-en-viyao-en-el-concej",
-    "url": "/pilona/un-incendio-calcino-anoche-parte-de-una-vivienda-en-viyao-en-el-concej/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "actualidad",
-    "titular": "Un incendio calcinó anoche parte de una vivienda en Viyao, en el concejo de Piloña",
-    "entradilla": "El fuego se inició en una construcción anexa a la vivienda",
-    "cuerpo": [
-      "El fuego se inició en una construcción anexa a la vivienda"
-    ],
-    "apunte": "",
-    "enVeinte": [],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "",
-    "etiquetas": [
-      "Piloña"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/01/2026070112390245000.jpg",
-    "fecha": "2026-07-01T10:53:44.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/incendio-calcina-vivienda-viyao-pilona/20260701125344098906.html",
-      "titularOriginal": "Un incendio calcinó anoche parte de una vivienda en Viyao, en el concejo de Piloña"
-    },
-    "reescrito": false,
-    "trad": {
-      "en": {
-        "titular": "A fire charred part of a home in Viyao, in the municipality of Piloña, last night",
-        "entradilla": "The fire started in an outbuilding attached to the house",
-        "cuerpo": [
-          "The fire started in an outbuilding attached to the house"
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Un incendie a ravagé une partie d'une habitation à Viyao, dans la commune de Piloña, la nuit dernière",
-        "entradilla": "Le feu a pris dans une construction annexe au logement",
-        "cuerpo": [
-          "Le feu a pris dans une construction annexe au logement"
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Ein Brand zerstörte letzte Nacht Teile eines Wohnhauses in Viyao, in der Gemeinde Piloña",
-        "entradilla": "Das Feuer brach in einem Anbau des Hauses aus",
-        "cuerpo": [
-          "Das Feuer brach in einem Anbau des Hauses aus"
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "un incendio calcino anoche parte de una vivienda",
-      "incendio calcino anoche parte de una vivienda en",
-      "calcino anoche parte de una vivienda en viyao",
-      "anoche parte de una vivienda en viyao en",
-      "parte de una vivienda en viyao en el",
-      "de una vivienda en viyao en el concejo",
-      "una vivienda en viyao en el concejo de",
-      "vivienda en viyao en el concejo de pilona",
-      "en viyao en el concejo de pilona el",
-      "viyao en el concejo de pilona el fuego",
-      "en el concejo de pilona el fuego se",
-      "el concejo de pilona el fuego se inicio",
-      "concejo de pilona el fuego se inicio en",
-      "de pilona el fuego se inicio en una",
-      "pilona el fuego se inicio en una construccion",
-      "el fuego se inicio en una construccion anexa",
-      "fuego se inicio en una construccion anexa a",
-      "se inicio en una construccion anexa a la",
-      "inicio en una construccion anexa a la vivienda"
     ]
   }
 ]
