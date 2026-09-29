@@ -128,6 +128,7 @@ export const textos = {
     cuandoNoche: 'esta noche',
 
     // --- Portada local ---
+    redimensionada: 'recortada de tamaño',
     porConcejo: 'Por concejo',
     loPractico: 'Lo práctico de hoy',
     etiqAviso: 'Aviso',
@@ -297,6 +298,7 @@ export const textos = {
     cuandoMediodia: 'at midday',
     cuandoNoche: 'this evening',
 
+    redimensionada: 'resized',
     porConcejo: 'By council',
     loPractico: 'Practical today',
     etiqAviso: 'Notice',
@@ -463,6 +465,7 @@ export const textos = {
     cuandoMediodia: 'à midi',
     cuandoNoche: 'ce soir',
 
+    redimensionada: 'redimensionnée',
     porConcejo: 'Par commune',
     loPractico: 'Le pratique du jour',
     etiqAviso: 'Avis',
@@ -630,6 +633,7 @@ export const textos = {
     cuandoMediodia: 'am Mittag',
     cuandoNoche: 'heute Abend',
 
+    redimensionada: 'in der Größe verändert',
     porConcejo: 'Nach Gemeinde',
     loPractico: 'Praktisches für heute',
     etiqAviso: 'Hinweis',

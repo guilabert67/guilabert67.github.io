@@ -54,6 +54,22 @@ export const sitio = {
   ],
 };
 
+// ── Medir visitas ───────────────────────────────────────────────────────────
+//
+// Un contador SIN COOKIES, que es la única clase que este diario acepta: si
+// usara cookies habría que volver a poner el aviso de consentimiento que se
+// quitó, y tapar la portada para contar visitas es un mal negocio.
+//
+// Mientras `token` esté vacío no se carga nada en absoluto: ni una petición, ni
+// un byte. El sitio funciona exactamente igual que hoy.
+//
+// Para encenderlo: crear una cuenta gratuita en Cloudflare, entrar en «Web
+// Analytics», añadir el sitio guilabert67.github.io y copiar aquí el token que
+// da (una cadena larga de letras y números). Nada más.
+export const analitica = {
+  token: '',
+};
+
 // ── Monetización ────────────────────────────────────────────────────────────
 // Todo lo de ganar dinero vive aquí. Nada de esto cuesta nada de entrada.
 export const anuncios = {
