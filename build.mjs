@@ -216,10 +216,16 @@ correo) o al escribirnos. Esos datos se usan únicamente para enviarte el bolet�
 terceros y puedes solicitar su supresión en cualquier momento escribiendo a la dirección de contacto.</p>
 
 <h2>Cookies</h2>
-<p>Utilizamos cookies técnicas necesarias para el funcionamiento del sitio y para recordar tus preferencias
-(por ejemplo, el modo noche), que se guardan solo en tu navegador. Si aceptas, empleamos además cookies de
-terceros de medición de audiencia y de publicidad. Puedes cambiar tu decisión borrando los datos de este sitio
-en tu navegador.</p>
+<p><strong>Este sitio no usa cookies.</strong> Lo único que se guarda en tu navegador es si prefieres el modo
+noche, y se queda ahí: no viaja a ningún servidor, no identifica a nadie y lo borras vaciando los datos del
+sitio. No hay medición de audiencia ni publicidad. Por eso tampoco verás un aviso pidiéndote permiso: no hay
+nada que consentir. El día que lo haya, se pedirá antes y esta página lo dirá.</p>
+
+<h2>Lo que sí sale de aquí: las tipografías</h2>
+<p>Las letras del diario se piden a los servidores de Google Fonts cada vez que abres una página. Eso significa
+que Google recibe tu dirección IP, aunque no se instale ninguna cookie ni se te siga por otros sitios. Lo
+contamos porque es verdad y porque preferimos decirlo a que lo descubras tú: estamos trabajando en servir esas
+mismas letras desde este sitio, que es gratis y legal, y cuando esté hecho se quitará este apartado.</p>
 
 <h2>El tablón de anuncios</h2>
 <p>Los anuncios del tablón los envían vecinos y negocios de los cinco concejos, y se publican tras revisarlos.
@@ -232,8 +238,10 @@ anuncio escribiendo a la dirección de contacto, y retiramos sin demora el que n
 o contrario a la ley.</p>
 
 <h2>Publicidad</h2>
-<p>Los espacios publicitarios y los contenidos patrocinados se identifican siempre como tales. La publicidad no
-interviene en la selección ni en la redacción de las piezas informativas.</p>
+<p><strong>Hoy no hay publicidad en el sitio.</strong> Cuando la haya, los espacios de pago y los contenidos
+patrocinados se identificarán siempre como tales, y la publicidad no intervendrá en la selección ni en la
+redacción de las piezas informativas. Si alguna vez enlazamos algo por lo que cobremos comisión, lo dirá el
+propio enlace.</p>
 
 <h2>Responsabilidad</h2>
 <p>Se pone el máximo cuidado en la exactitud de lo publicado, pero la información puede contener errores o quedar
