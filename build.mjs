@@ -3,12 +3,12 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { sitio, concejos, secciones, tarifas, anuncios } from './src/config.mjs';
+import { sitio, concejos, secciones, tarifas, anuncios, indexnow } from './src/config.mjs';
 import { idiomas, IDIOMA_BASE, slugSeccion, idiomaDe, ruta as rutaIdioma } from './src/idiomas.mjs';
 import {
   pagina, portada, paginaConcejo, paginaSeccion, paginaArticulo, paginaTexto,
   filtrosAgenda, programasOficiales, tarjetaEmpleo, publicaTuOferta, dondeBuscarEmpleo,
-  estado, T, U, tr, nombreSeccion,
+  estado, T, U, tr, estaTraducida, nombreSeccion,
   itemAgenda, itemAviso, esc, fechaLarga, LOGO, pagina as marco,
   tarjetaAnuncio, filtrosTablon, publicaTuAnuncio, avisoTablon, anuncioVivo,
   tarjetaCurso, filtrosCursos, publicaTuCurso, dondeBuscarCursos, cursoAbierto,
@@ -119,6 +119,109 @@ ${idiomas
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 ${entradas.join('\n')}
 </urlset>`;
+}
+
+/**
+ * Sitemap de noticias: SOLO lo publicado en las ultimas 48 horas.
+ *
+ * Es un fichero distinto del sitemap general y cumple otra funcion. El general
+ * dice «esto es todo lo que hay»; este dice «esto acaba de pasar». Google lo
+ * lee mucho mas a menudo, y es el formato que espera de un periodico. Fuera de
+ * esa ventana de 48 horas una noticia deja de ser noticia, asi que el fichero
+ * se vacia solo: no hay nada que limpiar ni que caduque a mano.
+ *
+ * Si no hay nada fresco NO se escribe un fichero vacio: se devuelve null y no
+ * se publica. Un sitemap de noticias sin noticias es una promesa incumplida,
+ * y es la clase de cosa por la que un buscador deja de fiarse de ti.
+ */
+function sitemapNoticias(piezas) {
+  const HORAS = 48;
+  const limite = Date.now() - HORAS * 60 * 60 * 1000;
+  const frescas = piezas
+    .filter((p) => {
+      const t = new Date(p.fecha).getTime();
+      return Number.isFinite(t) && t >= limite;
+    })
+    .slice(0, 250); // el protocolo admite 1000; nos sobra de largo
+
+  if (!frescas.length) return null;
+
+  const idiomaAntes = estado.idioma;
+  const entradas = [];
+  for (const idi of idiomas) {
+    estado.idioma = idi.codigo;
+    for (const p of frescas) {
+      // Una entrada que dice <news:language>en</news:language> sobre un titular
+      // en español es mentira, y a un buscador de noticias se le miente una vez.
+      // Mientras la traducción esté caída, esas versiones simplemente no entran.
+      if (!estaTraducida(p)) continue;
+      entradas.push(`  <url>
+    <loc>${esc(sitio.url + rutaIdioma(idi.codigo, p.url))}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>${esc(sitio.nombre)}</news:name>
+        <news:language>${esc(idi.codigo)}</news:language>
+      </news:publication>
+      <news:publication_date>${new Date(p.fecha).toISOString()}</news:publication_date>
+      <news:title>${esc(tr(p, 'titular'))}</news:title>
+    </news:news>
+  </url>`);
+    }
+  }
+  estado.idioma = idiomaAntes;
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+${entradas.join('\n')}
+</urlset>`;
+}
+
+/**
+ * IndexNow: avisar a los buscadores en cuanto sale una edicion.
+ *
+ * Publicamos tres veces al dia; los buscadores pasan cuando les parece. Este
+ * protocolo abierto —Bing, Yandex, Seznam y otros— invierte el sentido: en vez
+ * de esperar a que vengan, se les avisa. Es gratis y no aniade dependencias:
+ * una clave en un fichero de texto en la raiz y una peticion HTTP.
+ *
+ * Aqui solo se PREPARA el aviso. Quien lo envia es el propio GitHub Action,
+ * despues de desplegar, porque antes de eso las direcciones todavia no existen
+ * y avisar de una pagina que aun no esta publicada es peor que no avisar.
+ *
+ * El fichero del sobre se escribe FUERA de dist/ a proposito: es papeleo
+ * interno, no forma parte del periodico.
+ */
+function sobreIndexNow(piezas) {
+  const clave = (indexnow?.clave ?? '').trim();
+  if (!clave) return null;
+
+  const HORAS = 48;
+  const limite = Date.now() - HORAS * 60 * 60 * 1000;
+  const host = sitio.url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+
+  const direcciones = new Set();
+  for (const idi of idiomas) direcciones.add(sitio.url + rutaIdioma(idi.codigo, '/'));
+  const idiomaAntes = estado.idioma;
+  for (const p of piezas) {
+    const t = new Date(p.fecha).getTime();
+    if (!Number.isFinite(t) || t < limite) continue;
+    for (const idi of idiomas) {
+      estado.idioma = idi.codigo;
+      // Mismo criterio que el sitemap de noticias: no se invita a nadie a una
+      // página que todavía enseña el titular en español.
+      if (!estaTraducida(p)) continue;
+      direcciones.add(sitio.url + rutaIdioma(idi.codigo, p.url));
+    }
+  }
+  estado.idioma = idiomaAntes;
+
+  return {
+    host,
+    key: clave,
+    keyLocation: `${sitio.url}/${clave}.txt`,
+    urlList: [...direcciones].slice(0, 10000),
+  };
 }
 
 const FAVICON = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
@@ -944,10 +1047,26 @@ async function main() {
   await escribir('favicon.svg', FAVICON);
 
   await escribir('sitemap.xml', sitemap(urls));
+
+  // El sitemap de noticias solo existe si hay noticias frescas. Ver arriba.
+  const noticiasXml = sitemapNoticias(piezas);
+  if (noticiasXml) await escribir('news-sitemap.xml', noticiasXml);
+
   await escribir(
     'robots.txt',
-    `User-agent: *\nAllow: /\n\nSitemap: ${sitio.url}/sitemap.xml\n`
+    `User-agent: *\nAllow: /\n\nSitemap: ${sitio.url}/sitemap.xml\n` +
+      (noticiasXml ? `Sitemap: ${sitio.url}/news-sitemap.xml\n` : '')
   );
+
+  // IndexNow. La clave va en la raiz del sitio, en claro: el protocolo lo exige
+  // asi, y es lo que demuestra que quien avisa manda de verdad en el dominio.
+  const sobre = sobreIndexNow(piezas);
+  if (sobre) {
+    await escribir(`${sobre.key}.txt`, sobre.key);
+    // Fuera de dist/: esto no es parte del periodico, es el sobre del aviso.
+    await fs.writeFile(path.join(RAIZ, 'indexnow.json'), JSON.stringify(sobre));
+    console.log(`   IndexNow: ${sobre.urlList.length} direcciones preparadas`);
+  }
   // ads.txt: AdSense lo pide para poder pagarte. Se genera solo con tu ca-pub.
   if (anuncios.adsense.cliente) {
     await escribir(
