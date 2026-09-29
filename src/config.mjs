@@ -179,7 +179,7 @@ export const afiliados = {
 
 // Verificación de Google Search Console (la etiqueta que te dan al dar de alta el sitio).
 export const verificacion = {
-  google: '',
+  google: 'nI6U2XsCaJGj0lDsSyzoRSXmpKTRBSvEFp99qOmAyIw',
 };
 
 // ── Concejos ────────────────────────────────────────────────────────────────
