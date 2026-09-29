@@ -169,3 +169,32 @@ jobs:
       - id: despliegue
         if: steps.reloj.outputs.seguir == 'si'
         uses: actions/deploy-pages@v4
+
+      # IndexNow: avisar a los buscadores de que hay edición nueva.
+      #
+      # VA DESPUÉS DEL DESPLIEGUE a propósito. Avisar antes sería mandar a los
+      # buscadores a direcciones que todavía no existen: se llevan un 404, y esa
+      # es justo la manera de que dejen de hacerte caso.
+      #
+      # `continue-on-error` no es pereza: si el aviso falla, el periódico YA está
+      # publicado y en la calle. Tumbar una edición correcta porque un servicio
+      # de terceros no contesta sería cambiar un problema pequeño por uno grande.
+      - name: Avisar a los buscadores (IndexNow)
+        if: steps.reloj.outputs.seguir == 'si'
+        continue-on-error: true
+        run: |
+          if [ ! -s indexnow.json ]; then
+            echo "Sin aviso que mandar (no hay clave o no hay nada fresco)."
+            exit 0
+          fi
+          CUANTAS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('indexnow.json')).urlList.length)")
+          CODIGO=$(curl -s -o /dev/null -w '%{http_code}' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            --data @indexnow.json --max-time 30)
+          echo "IndexNow: $CUANTAS direcciones · respuesta HTTP $CODIGO"
+          # 200 y 202 son «recibido». 422 suele ser la clave mal puesta.
+          case "$CODIGO" in
+            200|202) echo "Aviso aceptado." ;;
+            422) echo "::warning::IndexNow devolvió 422: revisa que $GITHUB_REPOSITORY sirva la clave en la raíz." ;;
+            *)   echo "::warning::IndexNow respondió $CODIGO. La edición está publicada igualmente." ;;
+          esac
