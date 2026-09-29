@@ -18,9 +18,9 @@ on:
   workflow_dispatch:
     inputs:
       limite:
-        description: 'Cuántas piezas traducir como máximo (vacío = todas las que falten)'
+        description: 'Cuántas piezas como máximo. Vacío o 0 = TODAS las que falten. Pon 5 para probar.'
         required: false
-        default: '5'
+        default: ''
       forzar:
         description: 'Rehacer también las que YA están traducidas (cuesta dinero: solo si cambió el glosario)'
         required: false
@@ -50,9 +50,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           OPCIONES=""
-          if [ -n "${{ inputs.limite }}" ]; then
-            OPCIONES="$OPCIONES --limite ${{ inputs.limite }}"
-          fi
+          # Vacío, 0 o «todas» significan sin límite. Cualquier otra cosa, el número.
+          LIMITE="${{ inputs.limite }}"
+          case "$LIMITE" in
+            ''|0|todas|TODAS|all) : ;;
+            *) OPCIONES="$OPCIONES --limite $LIMITE" ;;
+          esac
           if [ "${{ inputs.forzar }}" = "true" ]; then
             OPCIONES="$OPCIONES --forzar"
           fi
