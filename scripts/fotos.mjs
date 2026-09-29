@@ -133,14 +133,52 @@ function esDeAqui(c) {
  * HTML, se corta en la primera línea y se limita a algo que quepa en un crédito.
  */
 /**
- * ¿Esta licencia es de las que no piden nada?
+ * ¿Se puede usar esta foto, y con qué obligaciones?
  *
- * Dominio público y CC0, y se acabó. Se comprueba también lo ya guardado, así
- * que si un día entró una CC BY-SA, en la siguiente edición se va sola.
+ * ANTES SOLO ENTRABA LO QUE NO PEDÍA NADA —dominio público y CC0— y el banco se
+ * quedó en cuatro fotos. Esa regla era más estricta que la ley: CC BY y CC BY-SA
+ * son gratis y perfectamente legales, y lo único que exigen es CITAR BIEN. Es lo
+ * que hace cualquier medio que usa Wikimedia Commons.
+ *
+ * Lo que NO entra, y conviene entender por qué:
+ *
+ * - **NC (no comercial).** Este diario va a llevar publicidad y anuncios de
+ *   pago. Con eso, la web es un uso comercial y una foto NC sería una
+ *   infracción. No es una cuestión de prudencia: es que no se puede.
+ * - **ND (sin obra derivada).** La ingesta redimensiona las fotos a 1600 px de
+ *   ancho, y eso ya es tocar la obra. Con ND no está permitido.
+ *
+ * Se comprueba también lo ya guardado, así que si un día entra algo que no
+ * cumple, en la siguiente edición se va solo.
  */
-const LICENCIA_LIBRE = /^\s*(cc0|cc[\s-]?zero|public\s*domain|dominio\s*p[úu]blico|pd(m)?|no\s*known\s*copyright)/i;
+const LICENCIA_SIN_CONDICIONES = /^\s*(cc0|cc[\s-]?zero|public\s*domain|dominio\s*p[úu]blico|pd(m)?|no\s*known\s*copyright)/i;
+const LICENCIA_CON_ATRIBUCION = /^\s*cc[\s-]?by(\s*[-\s]\s*sa)?(\s*\d(\.\d)?)?\s*$/i;
+const PROHIBIDO = /\b(nc|non[\s-]?commercial|no[\s-]?comercial|nd|no[\s-]?deriv\w*|sin[\s-]?obra[\s-]?derivada)\b/i;
 
-const licenciaVale = (licencia) => LICENCIA_LIBRE.test(String(licencia ?? ''));
+function licenciaVale(licencia) {
+  const l = String(licencia ?? '').trim();
+  if (!l) return false;
+  if (PROHIBIDO.test(l)) return false;
+  return LICENCIA_SIN_CONDICIONES.test(l) || LICENCIA_CON_ATRIBUCION.test(l);
+}
+
+/** ¿Esta licencia obliga a citar autor y licencia? */
+const pideAtribucion = (licencia) => LICENCIA_CON_ATRIBUCION.test(String(licencia ?? '').trim());
+
+/**
+ * La dirección del texto legal de la licencia.
+ *
+ * Creative Commons pide que la licencia se pueda leer, no solo nombrarla. Si
+ * Commons no la da, se deduce del nombre, que tiene una forma fija.
+ */
+function urlDeLicencia(nombre, dada = '') {
+  if (dada && /^https?:\/\//.test(dada)) return dada;
+  const m = String(nombre ?? '').trim().match(/^cc[\s-]?by(?:[\s-]*(sa))?(?:[\s-]*(\d(?:\.\d)?))?/i);
+  if (!m) return '';
+  const tipo = m[1] ? 'by-sa' : 'by';
+  const version = m[2] ?? '4.0';
+  return `https://creativecommons.org/licenses/${tipo}/${version}/deed.es`;
+}
 
 function nombreDeAutor(bruto) {
   const limpio = String(bruto ?? '')
@@ -222,6 +260,12 @@ async function buscarCommons(q) {
       autor: nombreDeAutor(i.extmetadata?.Artist?.value),
       pie: (i.extmetadata?.ObjectName?.value ?? '').replace(/<[^>]+>/g, '').trim(),
       licencia: i.extmetadata?.LicenseShortName?.value ?? 'Dominio público',
+      // Para cumplir CC BY y CC BY-SA hace falta poder LEER la licencia, no solo
+      // nombrarla; y hay que decir si la obra se ha tocado. Aquí se toca siempre:
+      // se descarga una versión de 1600 px en vez del original.
+      licenciaUrl: urlDeLicencia(i.extmetadata?.LicenseShortName?.value, i.extmetadata?.LicenseUrl?.value),
+      atribucion: pideAtribucion(i.extmetadata?.LicenseShortName?.value),
+      redimensionada: true,
       origen: i.descriptionurl || i.url,
       fuente: 'Wikimedia Commons',
     }));
@@ -349,6 +393,9 @@ async function main() {
           archivo,
           autor: c.autor,
           licencia: c.licencia,
+          licenciaUrl: c.licenciaUrl ?? urlDeLicencia(c.licencia),
+          atribucion: c.atribucion ?? pideAtribucion(c.licencia),
+          redimensionada: c.redimensionada ?? true,
           origen: c.origen,
           fuente: c.fuente,
           pie: c.pie ?? '',
