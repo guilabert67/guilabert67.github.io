@@ -1,0 +1,62 @@
+name: Traducir el archivo atrasado
+
+# Se lanza A MANO, nunca sola.
+#
+# La traducción de una pieza ocurre cuando la pieza entra. Las que entraron
+# mientras la clave no estaba se quedaron en español para siempre, y volver a
+# poner la clave no las rescata: nadie vuelve a mirarlas.
+#
+# Esto es esa mirada, una vez. Cuando el archivo esté al día, este fichero deja
+# de hacer falta — puede quedarse aquí sin molestar, porque sin pulsar el botón
+# no se ejecuta nunca.
+#
+# Cómo se usa: pestaña Actions → «Traducir el archivo atrasado» → Run workflow.
+# La primera vez, deja el límite en 5 y mira el resultado antes de soltar las
+# cien. Son llamadas a un servicio de pago: conviene ver una muestra primero.
+
+on:
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: 'Cuántas piezas traducir como máximo (vacío = todas las que falten)'
+        required: false
+        default: '5'
+
+# No a la vez que una edición: las dos escriben en content/data/noticias.json.
+concurrency:
+  group: laprida
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  traducir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Traducir lo que falte
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.limite }}" ]; then
+            node scripts/traducir-archivo.mjs --limite "${{ inputs.limite }}"
+          else
+            node scripts/traducir-archivo.mjs
+          fi
+
+      - name: Guardar lo traducido
+        run: |
+          git config user.name  "La Prida"
+          git config user.email "bot@laprida.local"
+          git add content/data
+          # Sin cambios no se hace commit: un commit vacío ensucia el historial,
+          # y el historial es lo que usa el guardián de ediciones para saber qué
+          # se publicó ya.
+          git diff --staged --quiet || git commit -m "Traducción del archivo atrasado"
+          git push
