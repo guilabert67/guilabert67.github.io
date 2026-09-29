@@ -1,6 +1,6 @@
 // Plantillas HTML de La Prida. Todo se genera con plantillas de cadena: cero dependencias.
 
-import { sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo, categoriasAnuncio, tablon, categoriasCurso, formacion, enlacesFormacion, frescura } from '../config.mjs';
+import { analitica, sitio, concejos, secciones, anuncios, tarifas, boletin as cfgBoletin, afiliados, verificacion, tiposEvento, enlacesAgenda, enlacesEmpleo, categoriasAnuncio, tablon, categoriasCurso, formacion, enlacesFormacion, frescura } from '../config.mjs';
 import { tipoPorSlug, tiposPresentes, esFuturo, fechaDelPlan } from './eventos.mjs';
 import {
   idiomas, IDIOMA_BASE, idiomaDe, ruta, t as texto,
@@ -993,6 +993,7 @@ export function pagina({
   fecha = new Date().toISOString(),
   jsonLd = null,
   imagen = '',
+  concejoSlug = '',
   cuentas = {},
 }) {
   const idi = idiomaDe(estado.idioma);
@@ -1020,8 +1021,31 @@ ${idiomas
   .filter((i) => i.codigo !== estado.idioma)
   .map((i) => `<meta property="og:locale:alternate" content="${i.htmlLang.replace('-', '_')}">`)
   .join('\n')}
-${imagen ? `<meta property="og:image" content="${esc(imagen)}">` : ''}
-<meta name="twitter:card" content="${imagen ? 'summary_large_image' : 'summary'}">
+${(() => {
+  // LA TARJETA AL COMPARTIR.
+  //
+  // Antes esto apuntaba a la ilustración de la pieza, y no funcionaba en ningún
+  // sitio por dos motivos a la vez: la ruta era relativa —WhatsApp, Facebook y
+  // los demás exigen una URL entera— y el fichero era un SVG, formato que
+  // ninguna de esas redes sabe pintar en una vista previa. Resultado: cada vez
+  // que alguien pegaba un enlace de La Prida en el grupo del pueblo, salía un
+  // recuadro gris sin nada. Para un diario local, que se reparte justo así, ese
+  // era probablemente el fallo más caro de todo el sitio.
+  //
+  // Ahora se sirve un PNG de 1200x630 hecho a medida: el del concejo si la
+  // página es de uno, y el de las cinco paradas si no. Son ficheros estáticos
+  // generados a mano, así que el diario no gana ni una dependencia por esto.
+  const cual = concejoSlug && enLinea().some((c) => c.slug === concejoSlug)
+    ? `/social/og-${concejoSlug}.png`
+    : '/social/og.png';
+  const abs = sitio.url + cual;
+  return `<meta property="og:image" content="${esc(abs)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(sitio.nombre)} · ${esc(sitio.lema)}">
+<meta name="twitter:image" content="${esc(abs)}">`;
+})()}
+<meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="${esc(sitio.nombre)}" href="${estado.idioma === IDIOMA_BASE ? '/feed.xml' : `/${estado.idioma}/feed.xml`}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1038,6 +1062,14 @@ ${verificacion.google ? `<meta name="google-site-verification" content="${esc(ve
   email: sitio.email,
   areaServed: concejos.map((c) => ({ '@type': 'AdministrativeArea', name: `${c.nombre}, Asturias` })),
 })}</script>
+<script type="application/ld+json">${JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: sitio.nombre,
+  url: sitio.url,
+  inLanguage: idi.htmlLang,
+  publisher: { '@type': 'NewsMediaOrganization', name: sitio.nombre, url: sitio.url },
+})}</script>
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 <script>
   try {
@@ -1050,6 +1082,15 @@ ${
     ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(
         anuncios.adsense.cliente
       )}" crossorigin="anonymous"></script>`
+    : ''
+}
+${
+  // El contador, si lo hay. Sin cookies: por eso no hace falta pedir permiso.
+  // Con el token vacío no se carga absolutamente nada.
+  analitica.token
+    ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"${esc(
+        analitica.token
+      )}"}'></script>`
     : ''
 }
 </head>
@@ -1537,6 +1578,7 @@ export function paginaConcejo(concejo, piezas, tiempo, cuentas = {}) {
     descripcion: `Noticias de ${concejo.nombre} (${concejo.capital}): ${concejo.lema}. Actualizado cada mañana en La Prida.`,
     url: `/${concejo.slug}/`,
     activo: concejo.slug,
+    concejoSlug: concejo.slug,
     tiempo,
     cuentas,
     contenido: `<div class="contenedor" style="${vars(concejo.slug)}">
@@ -1603,11 +1645,27 @@ const licenciaEn = (nombre) =>
   estado.idioma === IDIOMA_BASE ? nombre : LICENCIAS[nombre]?.[estado.idioma] ?? nombre;
 
 /** Qué se escribe debajo de la foto, según de dónde salga. */
+/**
+ * El crédito de una foto.
+ *
+ * Con CC BY y CC BY-SA esto deja de ser cortesía y pasa a ser la condición que
+ * te permite usar la foto. Lo que la licencia exige, y que aquí se cumple
+ * entero: quién la hizo, qué licencia tiene, poder LEER esa licencia, de dónde
+ * sale la foto, y decir si se ha tocado. Se redimensiona siempre a 1600 px, así
+ * que siempre se ha tocado y siempre se dice.
+ *
+ * Si algún día falta un dato de los obligatorios, es preferible no publicar la
+ * foto antes que publicarla mal acreditada.
+ */
 export function pieDeFoto(p) {
   if (p.ilustracion) return T('ilustracionDe');
   if (p.credito) {
     const c = p.credito;
-    return `${c.pie ? `${esc(c.pie)}. ` : ''}${esc(T('foto'))}: ${esc(c.autor)} · ${esc(licenciaEn(c.licencia))} · <a href="${esc(c.origen)}" target="_blank" rel="noopener">${esc(c.fuente)}</a>`;
+    const licencia = c.licenciaUrl
+      ? `<a href="${esc(c.licenciaUrl)}" target="_blank" rel="noopener license">${esc(licenciaEn(c.licencia))}</a>`
+      : esc(licenciaEn(c.licencia));
+    const tocada = c.atribucion && c.redimensionada ? ` · ${esc(T('redimensionada'))}` : '';
+    return `${c.pie ? `${esc(c.pie)}. ` : ''}${esc(T('foto'))}: ${esc(c.autor)} · ${licencia} · <a href="${esc(c.origen)}" target="_blank" rel="noopener">${esc(c.fuente)}</a>${tocada}`;
   }
   return `${esc(T('imagenDe'))} ${esc(p.fuente?.nombre ?? '—')}.`;
 }
@@ -1650,6 +1708,7 @@ export function paginaArticulo(p, relacionadas, tiempo, cuentas = {}) {
     cuentas,
     fecha: p.fecha,
     imagen: p.imagen,
+    concejoSlug: p.concejoSlug,
     jsonLd,
     contenido: `<div class="contenedor" style="${vars(p.concejoSlug)}">
   <article class="articulo">
