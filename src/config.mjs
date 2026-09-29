@@ -70,6 +70,22 @@ export const analitica = {
   token: 'aa2a568fed4d4e19a747372c5e0b9853',
 };
 
+// ── Avisar a los buscadores (IndexNow) ──────────────────────────────────────
+// Protocolo abierto y gratuito: en vez de esperar a que el buscador pase, se le
+// avisa en cuanto sale una edición. Lo usan Bing, Yandex, Seznam y otros.
+//
+// La clave no es un secreto y NO hay que esconderla: el protocolo obliga a
+// publicarla en la raíz del sitio, en <clave>.txt, y es precisamente eso lo que
+// demuestra que quien avisa manda de verdad en el dominio. Es un número de
+// bastidor, no una contraseña.
+//
+// Para cambiarla: cualquier cadena de 8 a 128 letras y números vale. El fichero
+// de la raíz se regenera solo en la siguiente edición.
+// Dejarla en blanco apaga el aviso sin romper nada.
+export const indexnow = {
+  clave: 'de7a0f3dd4c62d014f185f38a88f65a5',
+};
+
 // ── Monetización ────────────────────────────────────────────────────────────
 // Todo lo de ganar dinero vive aquí. Nada de esto cuesta nada de entrada.
 export const anuncios = {
