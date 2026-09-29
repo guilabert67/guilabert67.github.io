@@ -177,6 +177,22 @@ export const afiliados = {
   },
 };
 
+// ── Titularidad ─────────────────────────────────────────────────────────────
+// OBLIGATORIO Y SIN EXCUSA. La LSSI (art. 10) exige que un sitio con actividad
+// económica publique quién está detrás: nombre o razón social, NIF y domicilio,
+// de forma permanente y accesible. Y el RGPD exige saber quién es el responsable
+// del tratamiento de datos. Un correo de contacto NO basta para ninguna de las dos.
+//
+// Mientras esto esté vacío, el aviso legal lo dice en voz alta en vez de fingir
+// que está completo, y la compilación saca un aviso en la pestaña Actions. Es
+// preferible reconocer una falta a taparla: lo segundo es lo que multan.
+export const titular = {
+  nombre: '',    // nombre y apellidos, o razón social
+  nif: '',       // NIF o CIF
+  domicilio: '', // domicilio a efectos de notificaciones
+  correo: 'laprida.asturias@gmail.com',
+};
+
 // Verificación de Google Search Console (la etiqueta que te dan al dar de alta el sitio).
 export const verificacion = {
   google: 'nI6U2XsCaJGj0lDsSyzoRSXmpKTRBSvEFp99qOmAyIw',
