@@ -5358,16 +5358,52 @@
     "precio": "",
     "trad": {
       "en": {
-        "titular": "The protest against the biogas plant reaches the cheese fair",
-        "entradilla": "A rally and a human chain in Arenas on Sunday, with the council’s cheesemakers behind it."
+        "titular": "The protest against the biogas plant makes it into the Certamen",
+        "entradilla": "A rally and human chain in Arenas on Sunday, with the municipality's cheesemakers behind it.",
+        "cuerpo": [
+          "The Certamen del Queso de Cabrales had something more than cheese this year. The platform opposing the biogas, slurry and whey plant called a rally and a human chain in Arenas, and the municipality's cheesemakers joined in.",
+          "The platform had announced that the protest would be «peaceful, silent and orderly», and they chose that date precisely because it is the day of the year when Arenas brings together the most people from outside.",
+          "The matter remains open. What has been seen so far is that the rejection has behind it the sector that gives the municipality its name."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
       },
       "fr": {
-        "titular": "La contestation de l’usine de biogaz gagne le concours du fromage",
-        "entradilla": "Rassemblement et chaîne humaine à Arenas dimanche, avec les fromagers de la commune derrière."
+        "titular": "La protestation contre la centrale à biogaz s'invite au Certamen",
+        "entradilla": "Rassemblement et chaîne humaine à Arenas dimanche, avec les fromagers de la commune dans le cortège.",
+        "cuerpo": [
+          "Le Certamen del Queso de Cabrales a eu cette année bien plus que du fromage. La plateforme qui s'oppose à la centrale à biogaz, lisiers et lactosérum a organisé à Arenas un rassemblement et une chaîne humaine, et les fromagers de la commune se sont joints au mouvement.",
+          "La plateforme avait annoncé que la protestation serait «pacifique, silencieuse et ordonnée», et ses membres ont choisi cette date précisément parce que c'est le jour de l'année où Arenas réunit le plus grand nombre de personnes venues d'ailleurs.",
+          "L'affaire reste ouverte. Ce que l'on a pu constater jusqu'à présent, c'est que le rejet est porté par le secteur qui donne son nom à la commune."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
       },
       "de": {
-        "titular": "Der Protest gegen die Biogasanlage erreicht den Käsewettbewerb",
-        "entradilla": "Kundgebung und Menschenkette am Sonntag in Arenas, mit den Käsereien der Gemeinde dahinter."
+        "titular": "Der Protest gegen die Biogasanlage hält Einzug in das Certamen",
+        "entradilla": "Kundgebung und Menschenkette in Arenas am Sonntag – die Käsemacher der Gemeinde mittendrin.",
+        "cuerpo": [
+          "Das Certamen del Queso de Cabrales hatte in diesem Jahr mehr zu bieten als Käse. Die Plattform, die sich gegen die Biogasanlage für Gülle und Molke ausspricht, rief in Arenas zu einer Kundgebung und einer Menschenkette auf – und die Käsemacher der Gemeinde schlossen sich an.",
+          "Die Plattform hatte angekündigt, der Protest werde «friedlich, still und geordnet» verlaufen. Den Termin wählten sie genau deshalb, weil Arenas an diesem Tag mehr Auswärtige anzieht als an jedem anderen.",
+          "Die Angelegenheit ist noch nicht ausgestanden. Was bisher zu sehen ist: Hinter der Ablehnung steht der Sektor, der der Gemeinde ihren Namen gibt."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
       }
     }
   },
