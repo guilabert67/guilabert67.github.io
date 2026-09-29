@@ -2273,16 +2273,61 @@
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "A Cabranes workshop starts making chocolate from the bean",
-        "entradilla": "Cremela moves to bean-to-bar: controlling the whole process, from the origin cocoa to the finished slab."
+        "titular": "A workshop in Cabranes starts making chocolate from the bean",
+        "entradilla": "Cremela takes the leap into bean to bar: controlling the whole process, from the source cacao to the finished bar.",
+        "cuerpo": [
+          "Cremela, whose workshop is in Cabranes, has made the leap into what is known as bean-to-bar chocolate. The label sounds like catalogue English, but what lies behind it is concrete: instead of buying ready-made couverture and melting it down, they start from the cacao bean and do everything here, with the origin of the bean front and centre.",
+          "It is a move you rarely see in a municipality of a thousand inhabitants, and it says something about the moment: small workshops compete by explaining where every ingredient comes from, not by cutting prices."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": {
+          "termino": "Bean to bar",
+          "como": "from bean to bar",
+          "definicion": "Making chocolate from scratch in the same workshop, starting with the cacao bean: roasting, hulling, grinding and conching. The usual practice in the trade is to buy ready-made industrial couverture and simply shape it; here they do the opposite, which takes more work but makes it possible to state which farm the cacao comes from."
+        },
+        "porQue": "In a small municipality, every business that manufactures rather than resells is a job that stays local and one more reason for someone not to leave.",
+        "lugar": "",
+        "precio": ""
       },
       "fr": {
-        "titular": "Un atelier de Cabranes se met à faire du chocolat depuis la fève",
-        "entradilla": "Cremela passe au « bean to bar » : maîtriser tout le processus, de la fève d’origine à la tablette."
+        "titular": "Un atelier de Cabranes se lance dans la fabrication de chocolat à partir de la fève",
+        "entradilla": "Cremela franchit le pas vers le « bean to bar » : maîtriser l'ensemble du processus, de la fève de cacao d'origine à la tablette.",
+        "cuerpo": [
+          "Cremela, dont l'atelier est situé à Cabranes, a franchi le pas vers le chocolat dit « bean to bar ». L'étiquette sonne comme de l'anglais de catalogue, mais ce qu'elle recouvre est concret : au lieu d'acheter une couverture déjà prête et de la faire fondre, on part de la fève de cacao et l'on fait tout ici, en mettant l'origine de la fève en avant.",
+          "C'est une démarche rare dans une commune de mille habitants, et elle dit quelque chose du moment : les petits ateliers rivalisent en expliquant d'où vient chaque chose, non en baissant les prix."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": {
+          "termino": "Bean to bar",
+          "como": "de la fève à la tablette",
+          "definicion": "Fabriquer le chocolat en entier dans le même atelier, en partant de la fève de cacao : torréfaction, décorticage, broyage et conchage. La pratique habituelle dans le métier consiste à acheter une couverture industrielle déjà prête et à lui donner simplement une forme ; ici on fait l'inverse, ce qui demande plus de travail mais permet d'indiquer de quelle exploitation provient le cacao."
+        },
+        "porQue": "Dans une petite commune, chaque entreprise qui fabrique plutôt que de revendre représente un emploi qui reste sur place et une raison de plus pour que quelqu'un ne parte pas.",
+        "lugar": "",
+        "precio": ""
       },
       "de": {
-        "titular": "Eine Manufaktur in Cabranes macht Schokolade ab der Bohne",
-        "entradilla": "Cremela steigt auf „bean to bar“ um: der ganze Prozess in eigener Hand, von der Herkunftsbohne bis zur Tafel."
+        "titular": "Eine Manufaktur in Cabranes beginnt, Schokolade aus der Bohne herzustellen",
+        "entradilla": "Cremela wagt den Schritt zum Bean-to-bar: den gesamten Prozess kontrollieren, von der Kakaobohne aus dem Ursprungsland bis zur fertigen Tafel.",
+        "cuerpo": [
+          "Cremela, deren Manufaktur in Cabranes ansässig ist, hat den Schritt zur sogenannten Bean-to-bar-Schokolade gewagt. Das Label klingt nach Katalog-Englisch, doch dahinter steckt etwas Konkretes: Statt fertige Kuvertüre zu kaufen und einzuschmelzen, fängt man mit der Kakaobohne an und macht hier alles selbst – mit dem Ursprung der Bohne ganz vorn.",
+          "Ein solcher Schritt ist in einer Gemeinde mit tausend Einwohnern selten, und er sagt etwas über den Zeitgeist: Kleine Manufakturen konkurrieren, indem sie erklären, woher jede Zutat stammt – nicht, indem sie die Preise senken."
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": {
+          "termino": "Bean to bar",
+          "como": "von der Bohne zur Tafel",
+          "definicion": "Schokolade vollständig in derselben Manufaktur herstellen, angefangen bei der Kakaobohne: Rösten, Schälen, Mahlen und Conchieren. In der Branche ist es üblich, fertige industrielle Kuvertüre zu kaufen und ihr lediglich eine Form zu geben; hier macht man das Gegenteil, was mehr Arbeit bedeutet, aber erlaubt anzugeben, von welcher Plantage der Kakao stammt."
+        },
+        "porQue": "In einer kleinen Gemeinde ist jedes Unternehmen, das produziert statt weiterzuverkaufen, ein Arbeitsplatz, der vor Ort bleibt – und ein weiterer Grund, nicht wegzuziehen.",
+        "lugar": "",
+        "precio": ""
       }
     }
   },
