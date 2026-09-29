@@ -205,6 +205,17 @@ libre adecuada, se publica una ilustración generada por el propio sitio, que es
 <p>Las tipografías empleadas (Bricolage Grotesque, Inter y Martian Mono) se distribuyen bajo licencia SIL Open Font License 1.1, que
 permite su uso comercial. El logotipo y las ilustraciones son creación original de este sitio.</p>
 
+<h2>Las fotografías</h2>
+<p>Las fotografías proceden de Wikimedia Commons y se usan solo bajo licencias que lo permiten: dominio público,
+CC0, <strong>CC BY</strong> y <strong>CC BY-SA</strong>. Al pie de cada foto se indica siempre quién la hizo, con
+qué licencia y de dónde sale, y la licencia enlaza a su texto legal para que cualquiera pueda comprobarlo.</p>
+<p>Las fotos se descargan redimensionadas a 1.600 píxeles de ancho, y por eso se advierte al pie de que la imagen
+se ha recortado de tamaño respecto al original.</p>
+<p><strong>No se usan fotografías con licencia NC (no comercial) ni ND (sin obra derivada).</strong> Las primeras
+porque este diario tiene espacios de pago y eso lo convierte en un uso comercial; las segundas porque
+redimensionar la imagen ya es modificarla. Si detectas una foto mal acreditada o que no debería estar aquí,
+escríbenos y se corrige o se retira sin demora.</p>
+
 <h2>Retirada de contenidos</h2>
 <p>Si eres titular de derechos sobre algún contenido y consideras que su uso aquí no es adecuado, escríbenos a la
 dirección de contacto y lo retiraremos o modificaremos sin demora y sin pedir explicaciones. Lo mismo si eres un
@@ -927,6 +938,9 @@ async function main() {
 
   // Estáticos
   await fs.copyFile(path.join(RAIZ, 'src', 'estilos.css'), path.join(DIST, 'estilos.css'));
+  // Las tarjetas que se ven al compartir un enlace. Son PNG hechos a mano y
+  // guardados en el repositorio: el diario no gana ninguna dependencia por esto.
+  await fs.cp(path.join(RAIZ, 'src', 'social'), path.join(DIST, 'social'), { recursive: true });
   await escribir('favicon.svg', FAVICON);
 
   await escribir('sitemap.xml', sitemap(urls));
