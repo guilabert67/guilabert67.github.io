@@ -21,6 +21,11 @@ on:
         description: 'Cuántas piezas traducir como máximo (vacío = todas las que falten)'
         required: false
         default: '5'
+      forzar:
+        description: 'Rehacer también las que YA están traducidas (cuesta dinero: solo si cambió el glosario)'
+        required: false
+        type: boolean
+        default: false
 
 # No a la vez que una edición: las dos escriben en content/data/noticias.json.
 concurrency:
@@ -44,11 +49,15 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          OPCIONES=""
           if [ -n "${{ inputs.limite }}" ]; then
-            node scripts/traducir-archivo.mjs --limite "${{ inputs.limite }}"
-          else
-            node scripts/traducir-archivo.mjs
+            OPCIONES="$OPCIONES --limite ${{ inputs.limite }}"
           fi
+          if [ "${{ inputs.forzar }}" = "true" ]; then
+            OPCIONES="$OPCIONES --forzar"
+          fi
+          echo "Opciones: ${OPCIONES:-(ninguna)}"
+          node scripts/traducir-archivo.mjs $OPCIONES
 
       - name: Guardar lo traducido
         run: |
