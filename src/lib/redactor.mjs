@@ -268,6 +268,16 @@ CÓMO SE TRADUCE
   una glosa cortísima en la lengua de destino. Ejemplo en inglés: "a espicha (a cider-house feast)".
 - El bloque "palabra" es un glosario: ahí el término SE QUEDA en asturiano y lo que se traduce
   es la definición y la guía de pronunciación.
+- GLOSARIO OBLIGATORIO. Estas equivalencias no son opinables, para que todas las piezas
+  digan lo mismo y el cuerpo concuerde con los menús de la web:
+    · concejo (el territorio, el municipio) → inglés: municipality · francés: commune · alemán: Gemeinde
+      NUNCA «council» en inglés: council es el órgano de gobierno, no el territorio.
+    · ayuntamiento (la institución, el edificio) → inglés: council · francés: mairie · alemán: Rathaus
+    · comarca → inglés: county/area según convenga · nunca «region», que en España es otra cosa
+  La distinción concejo/ayuntamiento importa: en Asturias el concejo es el lugar donde vive la
+  gente; el ayuntamiento es quien lo administra. Confundirlos cambia el sentido de la frase.
+- Fiesta de Interés Turístico Nacional: es una distinción oficial española. Se traduce la
+  categoría entre paréntesis la primera vez y se deja el nombre oficial en español.
 - Unidades: los euros se quedan en euros. Nada de convertir divisas.
 - Si un campo viene vacío o nulo, devuélvelo igual de vacío o nulo. No lo rellenes.
 
