@@ -1,0 +1,15 @@
+# El sitio compilado. Lo genera build.mjs y lo despliega GitHub Actions
+# como artefacto: no debe entrar nunca en el repositorio.
+dist/
+
+# Dependencias de Node
+node_modules/
+
+# Restos del sistema
+.DS_Store
+Thumbs.db
+
+# El sobre del aviso a los buscadores. Lo escribe build.mjs en cada edición y lo
+# consume el propio GitHub Action justo después de desplegar. No es parte del
+# periódico ni tiene por qué viajar en el repositorio.
+indexnow.json
