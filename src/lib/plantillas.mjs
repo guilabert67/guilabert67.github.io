@@ -12,7 +12,7 @@ import {
 // Se pone a true cuando el sitio se construye con las piezas de muestra.
 // El idioma en curso. El generador lo cambia antes de escribir cada versión;
 // así las plantillas no tienen que arrastrarlo por veinte firmas de función.
-export const estado = { muestra: false, idioma: IDIOMA_BASE };
+export const estado = { muestra: false, idioma: IDIOMA_BASE, fuentesPropias: false };
 
 /** Texto de interfaz en el idioma en curso. */
 export const T = (clave) => texto(estado.idioma, clave);
@@ -1048,9 +1048,11 @@ ${(() => {
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="${esc(sitio.nombre)}" href="${estado.idioma === IDIOMA_BASE ? '/feed.xml' : `/${estado.idioma}/feed.xml`}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
+${estado.fuentesPropias
+  ? '<link rel="stylesheet" href="/fuentes/fuentes.css">'
+  : `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=Martian+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=Martian+Mono:wght@400;600&display=swap" rel="stylesheet">`}
 <link rel="stylesheet" href="/estilos.css">
 ${verificacion.google ? `<meta name="google-site-verification" content="${esc(verificacion.google)}">` : ''}
 <script type="application/ld+json">${JSON.stringify({
@@ -1246,16 +1248,21 @@ ${
     });
   }
 
+  // El aviso de cookies solo existe si hay algo que consentir. Si no está
+  // dibujado, aquí no hay nada que hacer — y sin esta comprobación la línea
+  // siguiente reventaba el script en todas las páginas del sitio.
   var caja = document.getElementById('cookies');
-  try {
-    if (!localStorage.getItem('prida-cookies')) caja.dataset.visible = 'si';
-  } catch (e) {}
-  caja.addEventListener('click', function (ev) {
-    var v = ev.target.getAttribute && ev.target.getAttribute('data-cookies');
-    if (!v) return;
-    try { localStorage.setItem('prida-cookies', v); } catch (e) {}
-    caja.dataset.visible = 'no';
-  });
+  if (caja) {
+    try {
+      if (!localStorage.getItem('prida-cookies')) caja.dataset.visible = 'si';
+    } catch (e) {}
+    caja.addEventListener('click', function (ev) {
+      var v = ev.target.getAttribute && ev.target.getAttribute('data-cookies');
+      if (!v) return;
+      try { localStorage.setItem('prida-cookies', v); } catch (e) {}
+      caja.dataset.visible = 'no';
+    });
+  }
 })();
 </script>
 </body>
