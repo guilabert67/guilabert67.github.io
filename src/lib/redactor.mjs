@@ -236,6 +236,29 @@ donde "indice" es el número del titular de la lista de arriba.`;
  * El español es el original y manda: aquí no se reescribe, se traduce. Si la
  * traducción se sale del original, es un error, no una mejora.
  */
+/**
+ * Párrafos, vengan como vengan.
+ *
+ * Al traductor se le pide `cuerpo` como lista de párrafos y casi siempre la
+ * devuelve así. Pero a veces devuelve un solo texto con los párrafos separados
+ * por líneas en blanco — es una respuesta razonable a la misma pregunta.
+ *
+ * La versión anterior de este código exigía lista y, si no lo era, se quedaba
+ * con una lista vacía SIN DECIR NADA. El resultado eran piezas con titular y
+ * entradilla traducidos y el cuerpo en blanco: medio vestidas, y rechazadas
+ * después por el control de calidad. Cuatro piezas del archivo estuvieron así,
+ * fallando tres pasadas seguidas, por esta línea.
+ *
+ * No es culpa del traductor: es código quebradizo. Aceptamos las dos formas.
+ */
+function parrafos(v) {
+  if (Array.isArray(v)) return v.map((x) => String(x).trim()).filter(Boolean);
+  if (typeof v === 'string') {
+    return v.split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean);
+  }
+  return [];
+}
+
 export async function traducir(pieza, { apiKey = process.env.ANTHROPIC_API_KEY } = {}) {
   if (!apiKey || !ingesta.traducir) return {};
 
@@ -322,9 +345,9 @@ Devuelve SOLO un objeto JSON con esta forma exacta, sin texto alrededor:
       limpio[codigo] = {
         titular: String(v.titular).trim(),
         entradilla: String(v.entradilla ?? '').trim(),
-        cuerpo: Array.isArray(v.cuerpo) ? v.cuerpo.map(String).filter(Boolean) : [],
+        cuerpo: parrafos(v.cuerpo),
         apunte: String(v.apunte ?? '').trim(),
-        enVeinte: Array.isArray(v.enVeinte) ? v.enVeinte.map(String).filter(Boolean) : [],
+        enVeinte: parrafos(v.enVeinte),
         cifra:
           v.cifra && v.cifra.numero
             ? { numero: String(v.cifra.numero), unidad: String(v.cifra.unidad ?? ''), glosa: String(v.cifra.glosa ?? '') }
@@ -341,6 +364,11 @@ Devuelve SOLO un objeto JSON con esta forma exacta, sin texto alrededor:
         lugar: String(v.lugar ?? '').trim(),
         precio: String(v.precio ?? '').trim(),
       };
+      // Si vino como texto y hubo que partirlo, que quede dicho: es una
+      // diferencia real con lo que pedimos y conviene saber si se repite.
+      if (typeof v.cuerpo === 'string') {
+        console.log(`     ↳ ${codigo}: cuerpo llegó como texto, partido en ${limpio[codigo].cuerpo.length} párrafos`);
+      }
     }
     return limpio;
   } catch (err) {
