@@ -19,6 +19,33 @@ const RAIZ = path.resolve(import.meta.dirname, '..');
 const DATOS = path.join(RAIZ, 'content', 'data');
 const SIN_IA = process.argv.includes('--sin-ia');
 
+/**
+ * Un aviso que se ve.
+ *
+ * El 19 de septiembre de 2026 la traducción dejó de funcionar y nadie se enteró
+ * en diez días. No hubo error: sin clave, `traducir()` devuelve un objeto vacío
+ * y sigue. La ejecución salía en verde, el diario se publicaba, y las portadas
+ * en inglés, francés y alemán enseñaban titulares en español.
+ *
+ * Verde no significa que funcione. Si falta la clave, que se vea desde fuera:
+ * `::warning::` pinta el aviso en amarillo en la pestaña Actions, en la propia
+ * lista de ejecuciones, sin tener que abrir el registro.
+ */
+function avisarSiFaltaLaClave() {
+  if (SIN_IA) return;
+  if (process.env.ANTHROPIC_API_KEY) return;
+  const m =
+    'Falta ANTHROPIC_API_KEY: las noticias saldrán con resumen extractivo y ' +
+    'SIN TRADUCIR. Las portadas en inglés, francés y alemán enseñarán titulares ' +
+    'en español. Se arregla en Settings → Secrets and variables → Actions.';
+  console.warn(`\n⚠︎  ${m}\n`);
+  if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Sin traducción::${m}`);
+}
+avisarSiFaltaLaClave();
+
+// Piezas que entraron sin traducción. Se cuentan para poder decirlo al final.
+const sinTraducir = [];
+
 const slug = (s) =>
   s
     .toLowerCase()
@@ -253,6 +280,7 @@ async function main() {
       nueva.trad = await traducir(nueva);
       const hechas = Object.keys(nueva.trad ?? {});
       if (hechas.length) console.log(`     ↳ ${hechas.join(' · ')}`);
+      else sinTraducir.push(nueva.titular);
     }
 
     // Última red de seguridad: que no se nos haya colado la frase del otro.
@@ -287,6 +315,17 @@ async function main() {
 
   const dudosas = nuevas.filter((p) => p.revisar).length;
   console.log(`\n☕ Listo: ${nuevas.length} nuevas, ${todas.length} vivas en total.`);
+
+  // Que el resultado se cuente, no se suponga: si alguna pieza entró sin sus
+  // tres idiomas, se dice aquí y se pinta en amarillo en la pestaña Actions.
+  if (sinTraducir.length) {
+    const m = `${sinTraducir.length} de ${nuevas.length} piezas nuevas entraron SIN TRADUCIR.`;
+    console.warn(`\n⚠︎  ${m}`);
+    for (const t of sinTraducir.slice(0, 5)) console.warn(`      · ${t}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Traducción incompleta::${m}`);
+  } else if (!SIN_IA && ingesta.traducir && nuevas.length) {
+    console.log(`   Las ${nuevas.length} piezas nuevas salen en los cuatro idiomas.`);
+  }
   if (dudosas) {
     console.log(
       `\n⚠ ${dudosas} pieza(s) comparten frases con su fuente. Están marcadas con "revisar"\n` +
