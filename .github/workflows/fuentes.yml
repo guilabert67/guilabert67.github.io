@@ -1,0 +1,66 @@
+name: Traer las tipografías a casa
+
+# Se lanza A MANO, y normalmente UNA SOLA VEZ.
+#
+# Descarga Bricolage Grotesque, Inter y Martian Mono —las tres bajo SIL Open
+# Font License 1.1, que permite redistribuirlas— y las guarda en el repositorio.
+# A partir de ahí el diario las sirve desde su propio dominio y el navegador del
+# lector deja de pedírselas a Google, que hoy recibe su IP en cada visita.
+#
+# Por qué aquí y no en el ordenador ni en el contenedor de Claude: ninguno de los
+# dos alcanza fonts.googleapis.com. El ejecutor de GitHub sí.
+#
+# Cuándo volver a lanzarlo: solo si se cambian las familias o los pesos en
+# plantillas.mjs. Las tipografías no caducan.
+
+on:
+  workflow_dispatch:
+
+# No a la vez que una edición: las dos escriben en el repositorio.
+concurrency:
+  group: laprida
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fuentes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Descargar las tipografías
+        run: node scripts/fuentes.mjs
+
+      - name: Comprobar lo que ha quedado
+        run: |
+          if [ ! -s src/fuentes/fuentes.css ]; then
+            echo "::error title=Tipografías::No se generó src/fuentes/fuentes.css. No se guarda nada."
+            exit 1
+          fi
+          CUANTAS=$(ls -1 src/fuentes/*.woff2 2>/dev/null | wc -l)
+          PESO=$(du -sh src/fuentes | cut -f1)
+          echo "$CUANTAS ficheros de letra · $PESO en total"
+          # Una carpeta con CSS pero sin letras dejaría el diario sin tipografía.
+          if [ "$CUANTAS" -lt 1 ]; then
+            echo "::error title=Tipografías::Hay CSS pero ningún .woff2. Eso dejaría el sitio sin letra."
+            exit 1
+          fi
+
+      - name: Guardar las tipografías en el repositorio
+        run: |
+          git config user.name  "La Prida"
+          git config user.email "bot@laprida.local"
+          git add src/fuentes
+          if git diff --staged --quiet; then
+            echo "Las tipografías ya estaban al día. No hay nada que guardar."
+          else
+            git commit -m "Tipografías servidas desde el propio sitio"
+            git push
+            echo "::notice title=Tipografías::Guardadas. La próxima edición ya no llamará a Google Fonts."
+          fi
