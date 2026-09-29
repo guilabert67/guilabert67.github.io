@@ -3,7 +3,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { sitio, concejos, secciones, tarifas, anuncios, indexnow } from './src/config.mjs';
+import { sitio, concejos, secciones, tarifas, anuncios, indexnow, titular, analitica } from './src/config.mjs';
 import { idiomas, IDIOMA_BASE, slugSeccion, idiomaDe, ruta as rutaIdioma } from './src/idiomas.mjs';
 import {
   pagina, portada, paginaConcejo, paginaSeccion, paginaArticulo, paginaTexto,
@@ -247,7 +247,7 @@ doscientos años celebrándose. Lo de casa.</p>
 <p>Si ves un error, escribe y se corrige el mismo día, dejando constancia al pie de la pieza. Es la única manera
 de que esto sirva para algo.</p>
 <h2>Publicidad</h2>
-<p>El sitio se sostiene con publicidad y con patrocinios de negocios de la zona. Los espacios patrocinados van
+<p>Hoy el sitio no lleva publicidad. El plan es sostenerlo con publicidad y patrocinios de negocios de la zona; cuando los haya, los espacios patrocinados irán
 siempre marcados como tales y nunca condicionan lo que se publica.</p>
 `;
 
@@ -283,11 +283,124 @@ concejos lleva una descripción escrita, porque un mapa sin describir es un mapa
 <p>Escríbenos y se arregla. Una barrera de accesibilidad es un error de programación, no una opinión.</p>
 `;
 
-const LEGAL = `
-<h2>Titularidad</h2>
-<p>Este sitio web es un proyecto de información local sobre los concejos de Piloña, Nava, Cabranes, Cabrales y Villaviciosa.
-Para cualquier asunto relacionado con esta web puedes escribir a la dirección de contacto que figura en el pie.</p>
+/**
+ * Los terceros que reciben la IP del lector, contados segun lo que el sitio
+ * HACE en este momento, no segun lo que hacia cuando se escribio el texto.
+ *
+ * Si las tipografias ya se sirven desde aqui, el parrafo de Google desaparece
+ * solo. Si el contador esta apagado, el de Cloudflare tampoco se escribe. Y si
+ * no queda ninguno, se dice que no sale nada — que es la mejor noticia posible
+ * y hay que poder darla.
+ *
+ * Regla 0 del proyecto: la pagina legal describe la realidad, y la realidad
+ * cambia cuando cambia el codigo, no cuando alguien se acuerda de reescribirla.
+ */
+function bloqueTerceros(idioma) {
+  const google = !estado.fuentesPropias;
+  const cloudflare = Boolean((analitica?.token ?? '').trim());
 
+  const P = {
+    es: {
+      h: 'Lo que sí sale de aquí',
+      intro: '<p>Al abrir una página se cargan estos servicios externos, y a todos les llega tu dirección IP. Lo contamos porque es verdad y porque preferimos decirlo a que lo descubras tú.</p>',
+      nada: '<p><strong>No se carga ningún servicio externo.</strong> Las tipografías se sirven desde este mismo sitio y no hay medición de audiencia. Tu navegador no habla con nadie más que con nosotros.</p>',
+      propias: '<p>Las letras del diario <strong>se sirven desde este mismo sitio</strong>. No se piden a Google ni a ningún tercero, así que nadie de fuera recibe tu IP por este motivo. Las tres familias están bajo licencia SIL Open Font License 1.1, que permite redistribuirlas.</p>',
+      gf: '<p><strong>Google Fonts.</strong> Las letras del diario se piden a los servidores de Google cada vez que abres una página, así que Google recibe tu IP. No se instala ninguna cookie ni se te sigue por otros sitios. Estamos trabajando en servir esas mismas letras desde aquí, que es gratis y legal, y cuando esté hecho este párrafo desaparecerá.</p>',
+      cf: '<p><strong>Cloudflare Web Analytics.</strong> El sitio cuenta cuántas visitas recibe y qué páginas se leen. <strong>Sin cookies y sin identificar a nadie:</strong> no se usa huella digital del navegador, no se sigue a la misma persona entre sitios ni entre visitas, y no se guardan datos que permitan reconocerte. Lo que sí ocurre es que la petición al servidor de Cloudflare lleva tu IP, como cualquier petición a cualquier servidor. Sirve para saber si esto lo lee alguien y en qué idioma; nada más.</p>',
+    },
+    en: {
+      h: 'What does leave this site',
+      intro: '<p>Opening a page loads these external services, and all of them receive your IP address. We say so because it is true and because we would rather tell you than have you find out.</p>',
+      nada: '<p><strong>No external service is loaded.</strong> The typefaces are served from this site and there is no audience measurement. Your browser talks to nobody but us.</p>',
+      propias: '<p>The paper\'s typefaces <strong>are served from this site</strong>. They are not requested from Google or any third party, so nobody outside receives your IP on that account. All three families are under the SIL Open Font License 1.1, which permits redistribution.</p>',
+      gf: '<p><strong>Google Fonts.</strong> The typefaces are requested from Google\'s servers every time you open a page, so Google receives your IP. No cookie is set and you are not tracked across sites. We are working on serving those same fonts from here, which is free and lawful, and this paragraph will go when it is done.</p>',
+      cf: '<p><strong>Cloudflare Web Analytics.</strong> The site counts how many visits it gets and which pages are read. <strong>No cookies and no identification:</strong> no browser fingerprinting, no tracking of the same person across sites or visits, and nothing stored that could recognise you. What does happen is that the request to Cloudflare\'s server carries your IP, as any request to any server does. It exists to tell us whether anyone is reading this, and in which language. Nothing else.</p>',
+    },
+    fr: {
+      h: "Ce qui sort d'ici",
+      intro: "<p>L'ouverture d'une page charge ces services externes, et tous reçoivent votre adresse IP. Nous le disons parce que c'est vrai et parce que nous préférons vous le dire.</p>",
+      nada: "<p><strong>Aucun service externe n'est chargé.</strong> Les polices sont servies depuis ce site et il n'y a pas de mesure d'audience. Votre navigateur ne dialogue avec personne d'autre que nous.</p>",
+      propias: "<p>Les polices du journal <strong>sont servies depuis ce site</strong>. Elles ne sont demandées ni à Google ni à un tiers : personne à l'extérieur ne reçoit votre IP de ce fait. Les trois familles sont sous licence SIL Open Font License 1.1, qui autorise la redistribution.</p>",
+      gf: "<p><strong>Google Fonts.</strong> Les polices sont demandées aux serveurs de Google à chaque page : Google reçoit donc votre IP. Aucun cookie n'est déposé et vous n'êtes pas suivi d'un site à l'autre. Nous travaillons à servir ces mêmes polices depuis ici, ce qui est gratuit et légal ; ce paragraphe disparaîtra alors.</p>",
+      cf: "<p><strong>Cloudflare Web Analytics.</strong> Le site compte les visites et les pages lues. <strong>Sans cookies et sans identification :</strong> pas d'empreinte du navigateur, pas de suivi d'une même personne entre sites ou entre visites, rien de conservé qui permette de vous reconnaître. En revanche, la requête vers le serveur de Cloudflare transporte votre IP, comme toute requête vers tout serveur. Cela sert à savoir si quelqu'un lit ce journal, et dans quelle langue. Rien d'autre.</p>",
+    },
+    de: {
+      h: 'Was diese Seite verlässt',
+      intro: '<p>Beim Öffnen einer Seite werden diese externen Dienste geladen, und alle erhalten Ihre IP-Adresse. Wir sagen es, weil es stimmt und weil wir es lieber selbst sagen.</p>',
+      nada: '<p><strong>Es wird kein externer Dienst geladen.</strong> Die Schriften werden von dieser Seite ausgeliefert, und es gibt keine Reichweitenmessung. Ihr Browser spricht mit niemandem außer uns.</p>',
+      propias: '<p>Die Schriften der Zeitung <strong>werden von dieser Seite ausgeliefert</strong>. Sie werden weder bei Google noch bei Dritten angefordert, also erhält dadurch niemand von außen Ihre IP. Alle drei Familien stehen unter der SIL Open Font License 1.1, die die Weitergabe erlaubt.</p>',
+      gf: '<p><strong>Google Fonts.</strong> Die Schriften werden bei jedem Seitenaufruf von Googles Servern geholt, Google erhält also Ihre IP. Es wird kein Cookie gesetzt und Sie werden nicht seitenübergreifend verfolgt. Wir arbeiten daran, dieselben Schriften von hier auszuliefern, was kostenlos und zulässig ist; dieser Absatz entfällt dann.</p>',
+      cf: '<p><strong>Cloudflare Web Analytics.</strong> Die Seite zählt, wie viele Besuche sie erhält und welche Seiten gelesen werden. <strong>Ohne Cookies und ohne Identifizierung:</strong> kein Browser-Fingerprinting, keine Verfolgung derselben Person über Seiten oder Besuche hinweg, nichts gespeichert, woran man Sie erkennen könnte. Die Anfrage an den Cloudflare-Server trägt allerdings Ihre IP, wie jede Anfrage an jeden Server. Sie dient der Frage, ob das hier jemand liest, und in welcher Sprache. Mehr nicht.</p>',
+    },
+  };
+  const x = P[idioma] ?? P.es;
+  const partes = [];
+  if (google) partes.push(x.gf);
+  if (cloudflare) partes.push(x.cf);
+
+  if (!partes.length) return `<h2>${x.h}</h2>\n${x.nada}`;
+  const encabezado = `<h2>${x.h}</h2>\n${x.intro}`;
+  const casa = google ? '' : `\n${x.propias}`;
+  return `${encabezado}${casa}\n${partes.join('\n')}`;
+}
+
+/**
+ * El bloque de titularidad, que la ley exige y que no se puede inventar.
+ *
+ * Si los datos no están puestos, la página NO finge que lo estén: dice que
+ * faltan. Reconocer una falta es mejor que taparla, y ademas obliga a mirarla.
+ * La compilación, además, avisa en amarillo (ver avisarSiFaltaElTitular).
+ */
+function bloqueTitular(idioma) {
+  const t = titular ?? {};
+  const completo = [t.nombre, t.nif, t.domicilio].every((x) => String(x ?? '').trim());
+  const correo = String(t.correo ?? sitio.email ?? '').trim();
+
+  const T = {
+    es: {
+      h: 'Titularidad',
+      datos: `<p><strong>${esc(t.nombre)}</strong><br>NIF: ${esc(t.nif)}<br>${esc(t.domicilio)}<br>Correo: <a href="mailto:${esc(correo)}">${esc(correo)}</a></p>`,
+      falta: `<p><strong>Los datos identificativos del titular todavía no están publicados.</strong> La ley obliga a que figuren aquí el nombre o razón social, el NIF y el domicilio de quien edita este sitio. Se están tramitando y aparecerán en este mismo apartado. Mientras tanto, para cualquier asunto relacionado con esta web, incluida una reclamación, escribe a <a href="mailto:${esc(correo)}">${esc(correo)}</a>.</p>`,
+      que: '<p>Este sitio es un proyecto de información local sobre los concejos de Piloña, Nava, Cabranes, Cabrales y Villaviciosa.</p>',
+    },
+    en: {
+      h: 'Who runs this',
+      datos: `<p><strong>${esc(t.nombre)}</strong><br>Tax ID: ${esc(t.nif)}<br>${esc(t.domicilio)}<br>Email: <a href="mailto:${esc(correo)}">${esc(correo)}</a></p>`,
+      falta: `<p><strong>The publisher's identification details are not published yet.</strong> Spanish law requires the name or company name, tax number and address of whoever runs this site to appear here. They are being processed and will appear in this section. In the meantime, for anything to do with this site, including a complaint, write to <a href="mailto:${esc(correo)}">${esc(correo)}</a>.</p>`,
+      que: '<p>This site is a local news project covering the municipalities of Piloña, Nava, Cabranes, Cabrales and Villaviciosa.</p>',
+    },
+    fr: {
+      h: 'Éditeur du site',
+      datos: `<p><strong>${esc(t.nombre)}</strong><br>NIF : ${esc(t.nif)}<br>${esc(t.domicilio)}<br>Courriel : <a href="mailto:${esc(correo)}">${esc(correo)}</a></p>`,
+      falta: `<p><strong>Les mentions légales de l'éditeur ne sont pas encore publiées.</strong> La loi espagnole impose d'indiquer ici le nom ou la raison sociale, le numéro fiscal et l'adresse de l'éditeur. Ces données sont en cours et figureront dans cette rubrique. En attendant, pour toute question concernant ce site, y compris une réclamation, écrivez à <a href="mailto:${esc(correo)}">${esc(correo)}</a>.</p>`,
+      que: "<p>Ce site est un projet d'information locale sur les communes de Piloña, Nava, Cabranes, Cabrales et Villaviciosa.</p>",
+    },
+    de: {
+      h: 'Anbieterkennzeichnung',
+      datos: `<p><strong>${esc(t.nombre)}</strong><br>Steuernummer: ${esc(t.nif)}<br>${esc(t.domicilio)}<br>E-Mail: <a href="mailto:${esc(correo)}">${esc(correo)}</a></p>`,
+      falta: `<p><strong>Die Angaben zum Anbieter sind noch nicht veröffentlicht.</strong> Das spanische Recht verlangt hier Name oder Firma, Steuernummer und Anschrift des Betreibers. Sie werden gerade eingetragen und erscheinen an dieser Stelle. Bis dahin richten Sie bitte alle Anliegen, auch Beschwerden, an <a href="mailto:${esc(correo)}">${esc(correo)}</a>.</p>`,
+      que: '<p>Diese Seite ist ein lokales Nachrichtenprojekt über die Gemeinden Piloña, Nava, Cabranes, Cabrales und Villaviciosa.</p>',
+    },
+  };
+  const x = T[idioma] ?? T.es;
+  return `<h2>${x.h}</h2>\n${x.que}\n${completo ? x.datos : x.falta}`;
+}
+
+/**
+ * Regla 0 del proyecto: la ley se cumple, y si algo falta se dice en voz alta.
+ * Un aviso legal incompleto no puede pasar desapercibido en una compilacion.
+ */
+function avisarSiFaltaElTitular() {
+  const t = titular ?? {};
+  if ([t.nombre, t.nif, t.domicilio].every((x) => String(x ?? '').trim())) return;
+  const m =
+    'El aviso legal NO identifica al titular (nombre, NIF y domicilio). Es obligatorio ' +
+    'por la LSSI art. 10 y por el RGPD. Se rellena en `titular` de src/config.mjs.';
+  console.warn(`\n⚠︎  ${m}\n`);
+  if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Aviso legal incompleto::${m}`);
+}
+
+const LEGAL = `
 <h2>Contenidos y fuentes</h2>
 <p>Las piezas publicadas son textos de elaboración propia, redactados a partir de información de fuentes públicas
 (boletines oficiales, ayuntamientos, organismos) y de medios de comunicación, que se citan y enlazan de forma
@@ -297,49 +410,48 @@ del derecho de cita del artículo 32 de la Ley de Propiedad Intelectual.</p>
 <p>Antes de publicarse, cada pieza pasa un control automático que compara su texto con el de la fuente y bloquea
 las que compartan frases seguidas con ella.</p>
 
-<h2>Imágenes</h2>
-<p>Solo se publican fotografías en <strong>dominio público o CC0</strong>: las que no exigen permiso, ni cita, ni
-condición alguna. No se usan imágenes con licencia CC BY ni CC BY-SA, aunque citarlas sería legal, para no
-arrastrar obligaciones sobre obras derivadas. Proceden de repositorios de contenido libre, principalmente
-Wikimedia Commons, y se publican con el crédito, la licencia y el enlace al original al pie de cada imagen,
-que es lo correcto aunque la licencia no lo exija. No se utilizan fotografías de los
-medios de los que procede la información, ni siquiera enlazadas desde su servidor. Cuando no hay ninguna imagen
-libre adecuada, se publica una ilustración generada por el propio sitio, que es obra original.</p>
-<p>Las tipografías empleadas (Bricolage Grotesque, Inter y Martian Mono) se distribuyen bajo licencia SIL Open Font License 1.1, que
-permite su uso comercial. El logotipo y las ilustraciones son creación original de este sitio.</p>
-
-<h2>Las fotografías</h2>
-<p>Las fotografías proceden de Wikimedia Commons y se usan solo bajo licencias que lo permiten: dominio público,
-CC0, <strong>CC BY</strong> y <strong>CC BY-SA</strong>. Al pie de cada foto se indica siempre quién la hizo, con
-qué licencia y de dónde sale, y la licencia enlaza a su texto legal para que cualquiera pueda comprobarlo.</p>
+<h2>Fotografías e ilustraciones</h2>
+<p>Las fotografías proceden de repositorios de contenido libre, principalmente Wikimedia Commons, y se usan solo
+bajo licencias que lo permiten: <strong>dominio público, CC0, CC BY y CC BY-SA</strong>. Al pie de cada foto se
+indica quién la hizo, con qué licencia y de dónde sale, y la licencia enlaza a su texto legal para que cualquiera
+pueda comprobarlo.</p>
 <p>Las fotos se descargan redimensionadas a 1.600 píxeles de ancho, y por eso se advierte al pie de que la imagen
-se ha recortado de tamaño respecto al original.</p>
+se ha modificado de tamaño respecto al original.</p>
 <p><strong>No se usan fotografías con licencia NC (no comercial) ni ND (sin obra derivada).</strong> Las primeras
-porque este diario tiene espacios de pago y eso lo convierte en un uso comercial; las segundas porque
-redimensionar la imagen ya es modificarla. Si detectas una foto mal acreditada o que no debería estar aquí,
-escríbenos y se corrige o se retira sin demora.</p>
+porque este diario tiene espacios de pago y eso lo convierte en un uso comercial; las segundas porque redimensionar
+la imagen ya es modificarla. Tampoco se utilizan fotografías de los medios de los que procede la información, ni
+siquiera enlazadas desde su servidor.</p>
+<p>Cuando no hay ninguna imagen libre adecuada, se publica una ilustración generada por el propio sitio, que es obra
+original. El logotipo y las ilustraciones son creación original de este sitio. Las tipografías empleadas (Bricolage
+Grotesque, Inter y Martian Mono) se distribuyen bajo licencia SIL Open Font License 1.1, que permite el uso comercial.</p>
 
 <h2>Retirada de contenidos</h2>
 <p>Si eres titular de derechos sobre algún contenido y consideras que su uso aquí no es adecuado, escríbenos a la
 dirección de contacto y lo retiraremos o modificaremos sin demora y sin pedir explicaciones. Lo mismo si eres un
-medio y prefieres que dejemos de recoger tu canal de noticias.</p>
+medio y prefieres que dejemos de recoger tu canal de noticias. Si detectas una foto mal acreditada, igual.</p>
 
 <h2>Protección de datos</h2>
-<p>No se recogen datos personales salvo los que envíes voluntariamente al suscribirte al boletín (tu dirección de
-correo) o al escribirnos. Esos datos se usan únicamente para enviarte el boletín o responderte, no se ceden a
-terceros y puedes solicitar su supresión en cualquier momento escribiendo a la dirección de contacto.</p>
+<p><strong>Responsable del tratamiento:</strong> quien figura en el apartado de titularidad de esta misma página.</p>
+<p><strong>Qué datos se recogen y para qué.</strong> Solo los que envías voluntariamente: tu dirección de correo si
+te suscribes al boletín, y los datos que incluyas si nos escribes o si mandas un anuncio al tablón. Se usan
+únicamente para enviarte el boletín, para responderte o para publicar y gestionar tu anuncio.</p>
+<p><strong>Base jurídica.</strong> Tu consentimiento, que das al enviarlos y que puedes retirar cuando quieras.</p>
+<p><strong>Cuánto tiempo.</strong> El correo del boletín, mientras sigas suscrito; los anuncios del tablón, mientras
+estén vigentes y hasta un año después; los correos de contacto, el tiempo necesario para atender el asunto.</p>
+<p><strong>A quién se ceden.</strong> A nadie. No se venden, no se alquilan y no se comparten con terceros para
+publicidad. El correo se gestiona con un proveedor de correo electrónico, que actúa como encargado del tratamiento.</p>
+<p><strong>Tus derechos.</strong> Puedes solicitar el <strong>acceso</strong> a tus datos, su <strong>rectificación</strong>,
+su <strong>supresión</strong>, la <strong>limitación</strong> del tratamiento, la <strong>portabilidad</strong> y
+<strong>oponerte</strong> a él, escribiendo a la dirección de contacto. Si crees que no se han atendido, puedes
+reclamar ante la <strong>Agencia Española de Protección de Datos</strong> (<a href="https://www.aepd.es" target="_blank" rel="noopener">aepd.es</a>).</p>
+<p>No se elaboran perfiles ni se toman decisiones automatizadas sobre personas.</p>
 
 <h2>Cookies</h2>
-<p><strong>Este sitio no usa cookies.</strong> Lo único que se guarda en tu navegador es si prefieres el modo
-noche, y se queda ahí: no viaja a ningún servidor, no identifica a nadie y lo borras vaciando los datos del
-sitio. No hay medición de audiencia ni publicidad. Por eso tampoco verás un aviso pidiéndote permiso: no hay
-nada que consentir. El día que lo haya, se pedirá antes y esta página lo dirá.</p>
+<p><strong>Este sitio no usa cookies.</strong> Lo único que se guarda en tu navegador es si prefieres el modo noche.
+Es una preferencia que pides tú, se queda en tu equipo, no viaja a ningún servidor, no identifica a nadie y la borras
+vaciando los datos del sitio. Por eso no verás un aviso pidiéndote permiso para cookies: no hay ninguna que consentir.</p>
 
-<h2>Lo que sí sale de aquí: las tipografías</h2>
-<p>Las letras del diario se piden a los servidores de Google Fonts cada vez que abres una página. Eso significa
-que Google recibe tu dirección IP, aunque no se instale ninguna cookie ni se te siga por otros sitios. Lo
-contamos porque es verdad y porque preferimos decirlo a que lo descubras tú: estamos trabajando en servir esas
-mismas letras desde este sitio, que es gratis y legal, y cuando esté hecho se quitará este apartado.</p>
+<!--TERCEROS-->
 
 <h2>El tablón de anuncios</h2>
 <p>Los anuncios del tablón los envían vecinos y negocios de los cinco concejos, y se publican tras revisarlos.
@@ -359,7 +471,7 @@ propio enlace.</p>
 
 <h2>Responsabilidad</h2>
 <p>Se pone el máximo cuidado en la exactitud de lo publicado, pero la información puede contener errores o quedar
-desactualizada. Los enlaces a sitios externos se ofrecen a título informativo y no implica responsabilidad
+desactualizada. Los enlaces a sitios externos se ofrecen a título informativo y no implican responsabilidad
 sobre sus contenidos.</p>
 `;
 
@@ -409,7 +521,7 @@ division and the festival that has been running for two hundred years. Things fr
 <h2>Corrections</h2>
 <p>If you spot a mistake, write and it gets fixed the same day, with a note at the foot of the story.</p>
 <h2>Advertising</h2>
-<p>The site is paid for by advertising and by sponsorship from local businesses. Sponsored slots are
+<p>There is no advertising on the site today. The plan is to pay for it with advertising and sponsorship from local businesses; when there is any, sponsored slots will be
 always marked as such and never decide what gets published.</p>
 <h2>Languages</h2>
 <p>La Prida is written in Spanish and published in English, French and German as well. The Spanish
@@ -432,7 +544,7 @@ d'ici.</p>
 <p>Si vous repérez une erreur, écrivez-nous : elle est corrigée le jour même, avec une note en bas de
 l'article.</p>
 <h2>Publicité</h2>
-<p>Le site vit de la publicité et du parrainage de commerces d'ici. Les emplacements sponsorisés sont
+<p>Le site ne comporte aujourd'hui aucune publicité. L'objectif est de le financer par la publicité et le parrainage de commerces d'ici ; le cas échéant, les emplacements sponsorisés seront
 toujours signalés comme tels et ne décident jamais de ce qui est publié.</p>
 <h2>Langues</h2>
 <p>La Prida s'écrit en espagnol et paraît aussi en anglais, en français et en allemand. La version
@@ -453,7 +565,7 @@ aufsteigt, und das Fest, das seit zweihundert Jahren gefeiert wird. Die Dinge vo
 <p>Wenn Ihnen ein Fehler auffällt, schreiben Sie uns: Er wird am selben Tag korrigiert, mit einem
 Vermerk am Ende des Beitrags.</p>
 <h2>Werbung</h2>
-<p>Die Seite finanziert sich über Werbung und über Sponsoring von Betrieben aus der Gegend.
+<p>Derzeit gibt es auf der Seite keine Werbung. Geplant ist die Finanzierung über Werbung und Sponsoring von Betrieben aus der Gegend.
 Gesponserte Plätze sind immer als solche gekennzeichnet und entscheiden nie darüber, was erscheint.</p>
 <h2>Sprachen</h2>
 <p>La Prida wird auf Spanisch geschrieben und erscheint außerdem auf Englisch, Französisch und
@@ -553,166 +665,213 @@ die ausschließt.</p>
   },
   legal: {
     en: `
-<h2>Who runs this</h2>
-<p>This website is a local news project covering the councils of Piloña, Nava, Cabranes, Cabrales and Villaviciosa.
-For anything to do with this site, write to the contact address given in the footer.</p>
 <h2>Content and sources</h2>
 <p>The pieces published here are written from scratch, based on information from public sources (official gazettes,
-councils, public bodies) and from news media, which are named and linked explicitly at the foot of each piece. We do
-not reproduce anyone else's text: we report the same fact in our own words. Where a third party's exact wording is
-used, it appears in quotation marks and attributed to whoever said it, under the right of quotation in article 32 of
-the Spanish Intellectual Property Act.</p>
-<p>Before publication, every piece passes an automatic check that compares its text against the source and blocks
-anything sharing runs of consecutive words with it.</p>
-<h2>Images</h2>
-<p>Only <strong>public domain and CC0</strong> photographs are published: the ones that require no permission, no
-credit and no conditions at all. Images under CC BY or CC BY-SA are not used, even though crediting them would be
-lawful, so as not to carry obligations over derivative works. They come from free-content repositories, chiefly
-Wikimedia Commons, and are published with the credit, the licence and a link to the original beneath each image,
-which is the right thing to do even where the licence does not demand it. We do not use photographs belonging to the media the
-information came from, not even hotlinked from their servers. When no suitable free image exists, the site publishes
-an illustration it generates itself, which is original work.</p>
-<p>The typefaces used (Bricolage Grotesque, Inter and Martian Mono) are distributed under the SIL Open Font License 1.1,
-which permits commercial use. The logo and the illustrations are original to this site.</p>
-<h2>The noticeboard</h2>
-<p>Noticeboard listings are sent in by residents and businesses of the five councils and are published after
-being reviewed. La Prida <strong>is not a party to the deal and takes no commission</strong>: we publish the
-listing, we do not verify what is offered and we take no part in the sale. Responsibility lies with whoever
-placed the listing, who must be identifiable and must meet whatever the law requires of what they offer: for
-the sale or rental of a home, for instance, the energy efficiency rating is compulsory, and without it the
-listing is not published.</p>
-<p>We do not publish postal addresses or land-registry references. Anyone may ask for their listing to be
-removed by writing to the contact address, and we take down without delay any listing we know to be false,
-fraudulent or unlawful.</p>
+councils, public bodies) and from news media, which are cited and linked at the foot of each piece. We do not
+reproduce other people's text: we report the same fact in our own words. Direct quotations appear in quotation
+marks and attributed, under the right of quotation of article 32 of the Spanish Intellectual Property Act.</p>
+<p>Before publication, every piece goes through an automatic check that compares it with the source and blocks
+anything sharing consecutive phrases with it.</p>
 
-<h2>Taking content down</h2>
-<p>If you hold rights over any content and feel its use here is not appropriate, write to the contact address and we
+<h2>Photographs and illustrations</h2>
+<p>Photographs come from free-content repositories, mainly Wikimedia Commons, and are used only under licences that
+allow it: <strong>public domain, CC0, CC BY and CC BY-SA</strong>. Under each photo we state who took it, under which
+licence and where it comes from, and the licence links to its legal text so anyone can check.</p>
+<p>Photos are downloaded resized to 1,600 pixels wide, which is why the caption says the image has been resized.</p>
+<p><strong>No NC (non-commercial) or ND (no derivatives) licences are used.</strong> The first because this paper has
+paid slots, which makes it a commercial use; the second because resizing already modifies the image. We do not use
+photographs belonging to the media we take information from, not even hotlinked.</p>
+<p>When there is no suitable free image, the site publishes its own generated illustration, which is original work.
+The logo and the illustrations are original to this site. The typefaces (Bricolage Grotesque, Inter and Martian Mono)
+are distributed under the SIL Open Font License 1.1, which allows commercial use.</p>
+
+<h2>Takedown</h2>
+<p>If you hold rights over any content and consider its use here inappropriate, write to the contact address and we
 will remove or amend it without delay and without asking for explanations. The same applies if you are a news outlet
-and would rather we stopped reading your feed.</p>
+and would rather we stopped reading your feed, or if you spot a wrongly credited photo.</p>
+
 <h2>Data protection</h2>
-<p>No personal data is collected beyond what you send voluntarily when subscribing to the newsletter (your email
-address) or writing to us. That data is used only to send you the newsletter or to reply to you, is not passed to
-third parties, and you may ask for its deletion at any time by writing to the contact address.</p>
+<p><strong>Controller:</strong> the person or company named in the publisher section of this page.</p>
+<p><strong>What we collect and why.</strong> Only what you send voluntarily: your email address if you subscribe to
+the newsletter, and whatever you include if you write to us or send an ad to the noticeboard. It is used only to send
+you the newsletter, to reply to you, or to publish and manage your ad.</p>
+<p><strong>Legal basis.</strong> Your consent, given when you send it and withdrawable at any time.</p>
+<p><strong>How long.</strong> The newsletter address, for as long as you stay subscribed; noticeboard ads, while they
+are live and for up to a year afterwards; contact emails, as long as needed to deal with the matter.</p>
+<p><strong>Who it is shared with.</strong> Nobody. It is not sold, rented or shared with third parties for advertising.
+Email is handled through an email provider acting as a processor.</p>
+<p><strong>Your rights.</strong> You may request <strong>access</strong> to your data, its <strong>rectification</strong>,
+<strong>erasure</strong>, <strong>restriction</strong> of processing, <strong>portability</strong>, and you may
+<strong>object</strong> to processing, by writing to the contact address. If you believe your request was not handled,
+you may complain to the Spanish Data Protection Agency
+(<a href="https://www.aepd.es" target="_blank" rel="noopener">aepd.es</a>).</p>
+<p>No profiling and no automated decision-making about people takes place.</p>
+
 <h2>Cookies</h2>
-<p>We use technical cookies necessary for the site to work and to remember your preferences (night mode, for
-example), which are stored only in your browser. If you accept, we also use third-party cookies for audience
-measurement and advertising. You can change your mind by clearing this site's data in your browser.</p>
+<p><strong>This site uses no cookies.</strong> The only thing stored in your browser is whether you prefer dark mode.
+You ask for it yourself, it stays on your device, it never travels to any server, it identifies nobody, and you clear
+it by clearing the site data. That is why you will not see a cookie consent banner: there is nothing to consent to.</p>
+
+<!--TERCEROS-->
+
+<h2>The noticeboard</h2>
+<p>Noticeboard ads are sent in by residents and businesses of the five municipalities and published after review.
+La Prida <strong>is not a party to the deal and takes no commission</strong>: it publishes the ad, it does not verify
+what is advertised and does not take part in the sale. Responsibility for what is advertised lies with whoever
+advertises it, who must be identifiable and must comply with whatever the law requires: for the sale or letting of
+housing, for instance, the energy efficiency certificate is mandatory and without it the ad is not published.</p>
+<p>We do not publish postal addresses or land registry references. Anyone may ask for their ad to be taken down by
+writing to the contact address, and we remove without delay anything we know to be false, fraudulent or unlawful.</p>
+
 <h2>Advertising</h2>
-<p>Advertising space and sponsored content are always identified as such. Advertising plays no part in choosing or
-writing the news pieces.</p>
+<p><strong>There is no advertising on the site today.</strong> When there is, paid slots and sponsored content will
+always be marked as such, and advertising will play no part in choosing or writing the news. If we ever link to
+something we earn a commission on, the link itself will say so.</p>
+
 <h2>Liability</h2>
-<p>Every care is taken over the accuracy of what is published, but information may contain errors or fall out of
-date. Links to external sites are offered for information and imply no responsibility for their content.</p>
-`,
+<p>Every care is taken over the accuracy of what is published, but information may contain errors or become out of
+date. Links to external sites are offered for information and imply no responsibility for their content.</p>`,
     fr: `
-<h2>Qui édite ce site</h2>
-<p>Ce site est un projet d'information locale portant sur les communes de Piloña, Nava, Cabranes, Cabrales et
-Villaviciosa. Pour toute question relative à ce site, écrivez à l'adresse de contact figurant en pied de page.</p>
 <h2>Contenus et sources</h2>
-<p>Les articles publiés sont des textes rédigés par nos soins, à partir d'informations de sources publiques
-(bulletins officiels, mairies, organismes) et de médias, qui sont cités et liés explicitement au bas de chaque
-article. Nous ne reproduisons pas le texte d'autrui : nous rapportons le même fait avec nos propres mots. Lorsqu'une
-formulation exacte d'un tiers est reprise, elle est entre guillemets et attribuée à son auteur, au titre du droit de
-citation de l'article 32 de la loi espagnole sur la propriété intellectuelle.</p>
-<p>Avant publication, chaque article passe un contrôle automatique qui compare son texte à celui de la source et
-bloque ceux qui partageraient des suites de mots avec elle.</p>
-<h2>Images</h2>
-<p>Seules sont publiées des photographies du <strong>domaine public ou en CC0</strong> : celles qui n'exigent ni
-autorisation, ni citation, ni aucune condition. Les images sous CC BY ou CC BY-SA ne sont pas utilisées, même s'il
-serait licite de les citer, afin de ne pas traîner d'obligations sur les œuvres dérivées. Elles proviennent de dépôts
-de contenu libre, principalement Wikimedia Commons, et sont publiées avec le crédit, la licence et le lien vers
-l'original sous chaque image, ce qui est correct même quand la licence ne l'exige pas. Nous n'utilisons pas les photographies des médias
-dont provient l'information, pas même en lien depuis leur serveur. Quand aucune image libre ne convient, le site
-publie une illustration qu'il génère lui-même, et qui est une œuvre originale.</p>
-<p>Les polices employées (Bricolage Grotesque, Inter et Martian Mono) sont distribuées sous licence SIL Open Font
-License 1.1, qui autorise l'usage commercial. Le logotype et les illustrations sont une création propre à ce site.</p>
-<h2>Les petites annonces</h2>
-<p>Les annonces sont envoyées par des habitants et des commerces des cinq communes et publiées après relecture.
-La Prida <strong>n'est pas partie au contrat et ne prend aucune commission</strong> : nous publions l'annonce,
-nous ne vérifions pas ce qui est proposé et n'intervenons pas dans la vente. La responsabilité incombe à
-l'annonceur, qui doit pouvoir être identifié et respecter ce que la loi exige de ce qu'il propose : pour la
-vente ou la location d'un logement, par exemple, le diagnostic de performance énergétique est obligatoire, et
-sans lui l'annonce n'est pas publiée.</p>
-<p>Nous ne publions ni adresses postales ni références cadastrales. Chacun peut demander le retrait de son
-annonce en écrivant à l'adresse de contact, et nous retirons sans délai toute annonce que nous savons fausse,
-frauduleuse ou illicite.</p>
+<p>Les articles publiés sont rédigés par nous, à partir d'informations de sources publiques (journaux officiels,
+mairies, organismes) et de médias, cités et liés au bas de chaque article. Nous ne reproduisons pas le texte
+d'autrui : nous rapportons le même fait avec nos propres mots. Les citations littérales figurent entre guillemets
+et attribuées, au titre du droit de citation de l'article 32 de la loi espagnole sur la propriété intellectuelle.</p>
+<p>Avant publication, chaque article passe un contrôle automatique qui le compare à la source et bloque ce qui
+partagerait des phrases entières avec elle.</p>
+
+<h2>Photographies et illustrations</h2>
+<p>Les photographies proviennent de dépôts de contenu libre, principalement Wikimedia Commons, et ne sont utilisées
+que sous licences qui l'autorisent : <strong>domaine public, CC0, CC BY et CC BY-SA</strong>. Sous chaque photo
+figurent l'auteur, la licence et l'origine, et la licence renvoie à son texte légal pour que chacun puisse vérifier.</p>
+<p>Les photos sont téléchargées redimensionnées à 1 600 pixels de large, ce qui est signalé sous l'image.</p>
+<p><strong>Aucune licence NC (non commerciale) ni ND (sans modification) n'est utilisée.</strong> Les premières parce
+que ce journal comporte des emplacements payants, ce qui en fait un usage commercial ; les secondes parce que
+redimensionner, c'est déjà modifier. Nous n'utilisons pas les photographies des médias dont provient l'information,
+même pas en lien direct.</p>
+<p>À défaut d'image libre adaptée, le site publie sa propre illustration, œuvre originale. Le logo et les illustrations
+sont des créations originales de ce site. Les polices (Bricolage Grotesque, Inter et Martian Mono) sont distribuées
+sous licence SIL Open Font License 1.1, qui autorise l'usage commercial.</p>
 
 <h2>Retrait de contenus</h2>
 <p>Si vous détenez des droits sur un contenu et estimez que son usage ici n'est pas approprié, écrivez à l'adresse de
 contact : nous le retirerons ou le modifierons sans délai et sans demander d'explications. De même si vous êtes un
-média et préférez que nous cessions de suivre votre fil d'actualité.</p>
+média et préférez que nous cessions de suivre votre flux, ou si vous repérez une photo mal créditée.</p>
+
 <h2>Protection des données</h2>
-<p>Aucune donnée personnelle n'est collectée en dehors de celles que vous envoyez volontairement en vous abonnant à
-la lettre d'information (votre adresse électronique) ou en nous écrivant. Ces données servent uniquement à vous
-envoyer la lettre ou à vous répondre, ne sont pas cédées à des tiers, et vous pouvez en demander la suppression à
-tout moment en écrivant à l'adresse de contact.</p>
+<p><strong>Responsable du traitement :</strong> la personne ou la société indiquée dans la rubrique « Éditeur du site »
+de cette page.</p>
+<p><strong>Quelles données et pourquoi.</strong> Uniquement celles que vous envoyez volontairement : votre adresse
+électronique si vous vous abonnez à la lettre d'information, et ce que vous indiquez si vous nous écrivez ou déposez
+une annonce. Elles servent seulement à vous envoyer la lettre, à vous répondre ou à publier et gérer votre annonce.</p>
+<p><strong>Base juridique.</strong> Votre consentement, donné lors de l'envoi et révocable à tout moment.</p>
+<p><strong>Durée.</strong> L'adresse de la lettre d'information, tant que vous restez abonné ; les annonces, tant
+qu'elles sont en cours et jusqu'à un an après ; les courriels, le temps nécessaire au traitement de la demande.</p>
+<p><strong>Destinataires.</strong> Personne. Vos données ne sont ni vendues, ni louées, ni transmises à des tiers à des
+fins publicitaires. Le courrier électronique passe par un prestataire agissant comme sous-traitant.</p>
+<p><strong>Vos droits.</strong> Vous pouvez demander l'<strong>accès</strong> à vos données, leur
+<strong>rectification</strong>, leur <strong>effacement</strong>, la <strong>limitation</strong> du traitement, la
+<strong>portabilité</strong>, et vous <strong>opposer</strong> au traitement, en écrivant à l'adresse de contact. Si
+vous estimez ne pas avoir été entendu, vous pouvez saisir l'Agence espagnole de protection des données
+(<a href="https://www.aepd.es" target="_blank" rel="noopener">aepd.es</a>).</p>
+<p>Aucun profilage ni décision automatisée concernant des personnes n'est réalisé.</p>
+
 <h2>Cookies</h2>
-<p>Nous utilisons des cookies techniques nécessaires au fonctionnement du site et à la mémorisation de vos
-préférences (le mode nuit, par exemple), conservés uniquement dans votre navigateur. Si vous acceptez, nous
-employons en outre des cookies tiers de mesure d'audience et de publicité. Vous pouvez revenir sur votre choix en
-effaçant les données de ce site dans votre navigateur.</p>
+<p><strong>Ce site n'utilise pas de cookies.</strong> La seule chose enregistrée dans votre navigateur est votre
+préférence pour le mode sombre. C'est vous qui la demandez, elle reste sur votre appareil, ne part vers aucun serveur,
+n'identifie personne, et s'efface en vidant les données du site. C'est pourquoi vous ne verrez pas de bandeau de
+consentement : il n'y a rien à consentir.</p>
+
+<!--TERCEROS-->
+
+<h2>Les petites annonces</h2>
+<p>Les annonces sont envoyées par des habitants et des commerces des cinq communes, et publiées après vérification.
+La Prida <strong>n'est pas partie à la transaction et ne perçoit aucune commission</strong> : elle publie l'annonce,
+ne vérifie pas ce qui est proposé et n'intervient pas dans la vente. La responsabilité incombe à l'annonceur, qui doit
+pouvoir être identifié et respecter la loi selon ce qu'il propose : pour la vente ou la location d'un logement, par
+exemple, le diagnostic de performance énergétique est obligatoire et, sans lui, l'annonce n'est pas publiée.</p>
+<p>Nous ne publions ni adresses postales ni références cadastrales. Chacun peut demander le retrait de son annonce en
+écrivant à l'adresse de contact, et nous retirons sans délai ce qui nous est signalé comme faux, frauduleux ou illégal.</p>
+
 <h2>Publicité</h2>
-<p>Les espaces publicitaires et les contenus sponsorisés sont toujours identifiés comme tels. La publicité
-n'intervient ni dans le choix ni dans la rédaction des articles d'information.</p>
+<p><strong>Il n'y a aujourd'hui aucune publicité sur le site.</strong> Lorsqu'il y en aura, les emplacements payants et
+les contenus sponsorisés seront toujours signalés comme tels, et la publicité n'interviendra ni dans le choix ni dans
+la rédaction des articles. Si nous plaçons un jour un lien rémunéré, le lien lui-même le dira.</p>
+
 <h2>Responsabilité</h2>
-<p>Le plus grand soin est apporté à l'exactitude de ce qui est publié, mais l'information peut comporter des erreurs
-ou vieillir. Les liens vers des sites externes sont fournis à titre indicatif et n'impliquent aucune responsabilité
-quant à leur contenu.</p>
-`,
+<p>Le plus grand soin est apporté à l'exactitude des informations, qui peuvent toutefois contenir des erreurs ou être
+dépassées. Les liens externes sont fournis à titre informatif et n'engagent pas notre responsabilité.</p>`,
     de: `
-<h2>Verantwortlich</h2>
-<p>Diese Website ist ein lokales Informationsprojekt über die Gemeinden Piloña, Nava, Cabranes, Cabrales und
-Villaviciosa. Für alles, was diese Seite betrifft, schreiben Sie an die im Fußbereich angegebene Kontaktadresse.</p>
 <h2>Inhalte und Quellen</h2>
-<p>Die veröffentlichten Beiträge sind selbst verfasste Texte, erstellt auf Grundlage öffentlicher Quellen
-(Amtsblätter, Gemeinden, Behörden) und von Medien, die am Fuß jedes Beitrags ausdrücklich genannt und verlinkt
-werden. Wir geben keine fremden Texte wieder: Wir berichten denselben Sachverhalt mit eigenen Worten. Wird der
-genaue Wortlaut eines Dritten übernommen, steht er in Anführungszeichen und wird dem Urheber zugeschrieben, gestützt
-auf das Zitatrecht nach Artikel 32 des spanischen Urheberrechtsgesetzes.</p>
-<p>Vor der Veröffentlichung durchläuft jeder Beitrag eine automatische Prüfung, die seinen Text mit der Quelle
-vergleicht und alles blockiert, was zusammenhängende Wortfolgen mit ihr teilt.</p>
-<h2>Bilder</h2>
-<p>Veröffentlicht werden ausschließlich Fotografien in <strong>Gemeinfreiheit oder CC0</strong>: solche, die weder
-Erlaubnis noch Nennung noch irgendeine Bedingung verlangen. Bilder unter CC BY oder CC BY-SA werden nicht verwendet,
-obwohl ihre Nennung rechtmäßig wäre, um keine Pflichten bei Bearbeitungen mitzuschleppen. Sie stammen aus Repositorien
-freier Inhalte, vor allem Wikimedia Commons, und werden mit Urhebernennung, Lizenz und Link zum Original unter jedem
-Bild veröffentlicht, was richtig ist, auch wo die Lizenz es nicht fordert. Fotos der Medien, aus denen die Information stammt,
-werden nicht verwendet, auch nicht von deren Server eingebunden. Gibt es kein geeignetes freies Bild, veröffentlicht
-die Seite eine selbst erzeugte Illustration, die ein eigenes Werk ist.</p>
-<p>Die verwendeten Schriften (Bricolage Grotesque, Inter und Martian Mono) stehen unter der SIL Open Font License 1.1,
-die kommerzielle Nutzung erlaubt. Logo und Illustrationen sind eigene Schöpfungen dieser Seite.</p>
-<h2>Das schwarze Brett</h2>
-<p>Die Anzeigen schicken Anwohner und Betriebe der fünf Gemeinden; sie werden nach Prüfung veröffentlicht.
-La Prida <strong>ist nicht Vertragspartei und nimmt keine Provision</strong>: Wir veröffentlichen die Anzeige,
-prüfen das Angebotene nicht und wirken am Verkauf nicht mit. Die Verantwortung trägt, wer die Anzeige aufgibt;
-er muss identifizierbar sein und erfüllen, was das Gesetz für sein Angebot verlangt: beim Verkauf oder der
-Vermietung einer Wohnung etwa ist der Energieausweis Pflicht, ohne ihn wird die Anzeige nicht veröffentlicht.</p>
-<p>Postanschriften und Katasterangaben veröffentlichen wir nicht. Jede und jeder kann die Entfernung der
-eigenen Anzeige unter der Kontaktadresse verlangen, und wir nehmen unverzüglich herunter, was uns als falsch,
-betrügerisch oder rechtswidrig bekannt wird.</p>
+<p>Die veröffentlichten Beiträge sind eigene Texte, verfasst auf Grundlage öffentlicher Quellen (Amtsblätter,
+Gemeinden, Behörden) und von Medien, die am Fuß jedes Beitrags genannt und verlinkt werden. Fremde Texte werden nicht
+wiedergegeben: derselbe Sachverhalt wird mit eigenen Worten berichtet. Wörtliche Zitate stehen in Anführungszeichen
+und werden zugeordnet, gestützt auf das Zitatrecht nach Artikel 32 des spanischen Urheberrechtsgesetzes.</p>
+<p>Vor der Veröffentlichung durchläuft jeder Beitrag eine automatische Prüfung, die ihn mit der Quelle vergleicht und
+alles blockiert, was zusammenhängende Sätze mit ihr teilt.</p>
+
+<h2>Fotografien und Illustrationen</h2>
+<p>Die Fotos stammen aus Repositorien für freie Inhalte, vor allem Wikimedia Commons, und werden nur unter Lizenzen
+verwendet, die das erlauben: <strong>Gemeinfreiheit, CC0, CC BY und CC BY-SA</strong>. Unter jedem Foto stehen Urheber,
+Lizenz und Herkunft, und die Lizenz verlinkt auf ihren Rechtstext, damit es jeder prüfen kann.</p>
+<p>Die Fotos werden auf 1.600 Pixel Breite verkleinert geladen; darauf wird in der Bildunterschrift hingewiesen.</p>
+<p><strong>Lizenzen mit NC (nicht kommerziell) oder ND (keine Bearbeitung) werden nicht verwendet.</strong> Erstere,
+weil diese Zeitung bezahlte Flächen hat und das eine kommerzielle Nutzung ist; letztere, weil eine Größenänderung
+bereits eine Bearbeitung darstellt. Fotos der Medien, aus denen die Information stammt, werden nicht verwendet, auch
+nicht von deren Server eingebunden.</p>
+<p>Gibt es kein passendes freies Bild, veröffentlicht die Seite eine eigene Illustration als Originalwerk. Logo und
+Illustrationen sind Originalschöpfungen dieser Seite. Die Schriften (Bricolage Grotesque, Inter und Martian Mono)
+stehen unter der SIL Open Font License 1.1, die kommerzielle Nutzung erlaubt.</p>
 
 <h2>Entfernung von Inhalten</h2>
-<p>Wenn Sie Rechte an einem Inhalt halten und seine Verwendung hier für unangemessen halten, schreiben Sie an die
-Kontaktadresse: Wir entfernen oder ändern ihn unverzüglich und ohne Nachfragen. Dasselbe gilt, wenn Sie ein Medium
-sind und lieber möchten, dass wir Ihren Nachrichtenkanal nicht mehr auswerten.</p>
+<p>Wenn Sie Rechte an einem Inhalt halten und seine Nutzung hier für unangemessen halten, schreiben Sie an die
+Kontaktadresse: wir entfernen oder ändern ihn unverzüglich und ohne Nachfragen. Dasselbe gilt, wenn Sie ein Medium
+sind und nicht möchten, dass wir Ihren Feed auswerten, oder wenn Ihnen ein falsch angegebenes Bild auffällt.</p>
+
 <h2>Datenschutz</h2>
-<p>Es werden keine personenbezogenen Daten erhoben außer denen, die Sie freiwillig beim Abonnieren des Newsletters
-(Ihre E-Mail-Adresse) oder beim Schreiben an uns übermitteln. Diese Daten dienen ausschließlich dem Versand des
-Newsletters oder der Antwort an Sie, werden nicht an Dritte weitergegeben, und Sie können ihre Löschung jederzeit
-unter der Kontaktadresse verlangen.</p>
+<p><strong>Verantwortlicher:</strong> die Person oder Firma, die im Abschnitt zur Anbieterkennzeichnung dieser Seite
+genannt ist.</p>
+<p><strong>Welche Daten und wofür.</strong> Nur die, die Sie freiwillig senden: Ihre E-Mail-Adresse bei Anmeldung zum
+Newsletter und die Angaben, die Sie machen, wenn Sie uns schreiben oder eine Anzeige aufgeben. Sie werden
+ausschließlich verwendet, um Ihnen den Newsletter zu senden, Ihnen zu antworten oder Ihre Anzeige zu veröffentlichen.</p>
+<p><strong>Rechtsgrundlage.</strong> Ihre Einwilligung, erteilt mit dem Absenden und jederzeit widerrufbar.</p>
+<p><strong>Speicherdauer.</strong> Die Newsletter-Adresse, solange Sie angemeldet bleiben; Anzeigen, solange sie laufen
+und bis zu einem Jahr danach; E-Mails, solange es zur Bearbeitung nötig ist.</p>
+<p><strong>Empfänger.</strong> Niemand. Es findet kein Verkauf, keine Vermietung und keine Weitergabe an Dritte zu
+Werbezwecken statt. Die E-Mail läuft über einen E-Mail-Anbieter als Auftragsverarbeiter.</p>
+<p><strong>Ihre Rechte.</strong> Sie können <strong>Auskunft</strong>, <strong>Berichtigung</strong>,
+<strong>Löschung</strong>, <strong>Einschränkung</strong> der Verarbeitung und <strong>Datenübertragbarkeit</strong>
+verlangen sowie der Verarbeitung <strong>widersprechen</strong>, per Nachricht an die Kontaktadresse. Wenn Sie meinen,
+Ihr Anliegen sei nicht bearbeitet worden, können Sie sich bei der spanischen Datenschutzbehörde beschweren
+(<a href="https://www.aepd.es" target="_blank" rel="noopener">aepd.es</a>).</p>
+<p>Es findet kein Profiling und keine automatisierte Entscheidungsfindung über Personen statt.</p>
+
 <h2>Cookies</h2>
-<p>Wir verwenden technische Cookies, die für den Betrieb der Seite und das Merken Ihrer Einstellungen nötig sind
-(etwa den Nachtmodus); sie werden nur in Ihrem Browser gespeichert. Wenn Sie zustimmen, setzen wir zusätzlich
-Cookies Dritter zur Reichweitenmessung und für Werbung ein. Sie können Ihre Entscheidung ändern, indem Sie die Daten
-dieser Seite in Ihrem Browser löschen.</p>
+<p><strong>Diese Seite verwendet keine Cookies.</strong> Gespeichert wird in Ihrem Browser nur, ob Sie den Nachtmodus
+bevorzugen. Sie verlangen ihn selbst, er bleibt auf Ihrem Gerät, geht an keinen Server, identifiziert niemanden und
+lässt sich durch Löschen der Seitendaten entfernen. Deshalb sehen Sie auch kein Einwilligungsbanner: es gibt nichts
+einzuwilligen.</p>
+
+<!--TERCEROS-->
+
+<h2>Das schwarze Brett</h2>
+<p>Die Anzeigen stammen von Anwohnern und Betrieben der fünf Gemeinden und werden nach Prüfung veröffentlicht.
+La Prida <strong>ist nicht Vertragspartei und erhält keine Provision</strong>: sie veröffentlicht die Anzeige, prüft
+das Angebot nicht und wirkt am Geschäft nicht mit. Die Verantwortung trägt, wer inseriert; er muss identifizierbar
+sein und erfüllen, was das Gesetz je nach Angebot verlangt: beim Verkauf oder der Vermietung von Wohnraum etwa ist
+der Energieausweis Pflicht, und ohne ihn wird die Anzeige nicht veröffentlicht.</p>
+<p>Postanschriften und Katasterangaben werden nicht veröffentlicht. Jede Person kann die Entfernung ihrer Anzeige
+über die Kontaktadresse verlangen, und wir entfernen unverzüglich, was uns als falsch, betrügerisch oder rechtswidrig
+bekannt wird.</p>
+
 <h2>Werbung</h2>
-<p>Werbeflächen und gesponserte Inhalte werden stets als solche gekennzeichnet. Werbung hat keinen Einfluss auf die
-Auswahl oder die Abfassung der redaktionellen Beiträge.</p>
+<p><strong>Derzeit gibt es auf der Seite keine Werbung.</strong> Sobald es sie gibt, werden bezahlte Flächen und
+gesponserte Inhalte stets als solche gekennzeichnet, und Werbung wird weder die Auswahl noch das Schreiben der
+Beiträge beeinflussen. Sollten wir je einen Link setzen, an dem wir mitverdienen, wird der Link es selbst sagen.</p>
+
 <h2>Haftung</h2>
-<p>Auf die Richtigkeit des Veröffentlichten wird größte Sorgfalt verwendet, doch können Informationen Fehler
-enthalten oder veralten. Links zu externen Seiten dienen der Information und begründen keine Verantwortung für
-deren Inhalte.</p>
-`,
+<p>Auf die Richtigkeit der Angaben wird größte Sorgfalt verwendet; dennoch können Informationen Fehler enthalten oder
+veraltet sein. Links zu externen Seiten dienen der Information und begründen keine Haftung für deren Inhalte.</p>`,
   },
 };
 
@@ -768,6 +927,25 @@ function paginaAnunciate(piezas, tiempo) {
 
 async function main() {
   const t0 = Date.now();
+
+  // ¿Están las tipografías en el repositorio? De esto depende que el lector le
+  // pida las letras a Google o a nosotros, y que el aviso legal lo cuente o no.
+  const CSS_FUENTES = path.join(RAIZ, 'src', 'fuentes', 'fuentes.css');
+  try {
+    await fs.access(CSS_FUENTES);
+    estado.fuentesPropias = true;
+    // Aquí solo se DETECTA. La copia va abajo, con el resto de estáticos: dist/
+    // se limpia después de este punto y se llevaría por delante lo copiado.
+    console.log('   Tipografías servidas desde el propio sitio');
+  } catch {
+    estado.fuentesPropias = false;
+    const m =
+      'Las tipografías se siguen pidiendo a Google Fonts, que recibe la IP de cada lector. ' +
+      'Se arregla lanzando una vez el flujo «Traer las tipografías a casa» en la pestaña Actions.';
+    console.warn(`\n⚠︎  ${m}\n`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Tipografías en Google::${m}`);
+  }
+
   // Se vacía dist/ antes de generar. En carpetas sincronizadas o con permisos
   // restringidos el borrado puede no estar permitido: en ese caso se sobrescribe.
   try {
@@ -991,7 +1169,7 @@ async function main() {
         titulo: T('avisoLegal'),
         descripcion: descripcionFija('legal'),
         url: '/aviso-legal/',
-        html: fija('legal', LEGAL),
+        html: (bloqueTitular(estado.idioma) + fija('legal', LEGAL)).replace('<!--TERCEROS-->', bloqueTerceros(estado.idioma)),
         cuentas,
       })
     );
@@ -1044,7 +1222,14 @@ async function main() {
   // Las tarjetas que se ven al compartir un enlace. Son PNG hechos a mano y
   // guardados en el repositorio: el diario no gana ninguna dependencia por esto.
   await fs.cp(path.join(RAIZ, 'src', 'social'), path.join(DIST, 'social'), { recursive: true });
+  // Las tipografías propias, si están. Con esto el lector deja de pedirle las
+  // letras a Google, que hasta ahora recibía su IP en cada visita.
+  if (estado.fuentesPropias) {
+    await fs.cp(path.join(RAIZ, 'src', 'fuentes'), path.join(DIST, 'fuentes'), { recursive: true });
+  }
   await escribir('favicon.svg', FAVICON);
+
+  avisarSiFaltaElTitular();
 
   await escribir('sitemap.xml', sitemap(urls));
 
