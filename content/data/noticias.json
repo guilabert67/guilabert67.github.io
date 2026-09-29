@@ -6122,7 +6122,50 @@
       "titularOriginal": "La plataforma contra la planta de biogás se manifestará el domingo, en el Certamen del Queso de Arenas"
     },
     "reescrito": false,
-    "trad": {},
+    "trad": {
+      "en": {
+        "titular": "The platform against the biogas plant will hold a demonstration on Sunday, at the Certamen del Queso de Arenas",
+        "entradilla": "According to organizers, the protest will be «peaceful, silent and orderly»",
+        "cuerpo": [
+          "According to organizers, the protest will be «peaceful, silent and orderly»"
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La plateforme contre l'usine de biogaz manifestera dimanche, lors du Certamen del Queso de Arenas",
+        "entradilla": "Selon ses membres, la manifestation sera «pacifique, silencieuse et ordonnée»",
+        "cuerpo": [
+          "Selon ses membres, la manifestation sera «pacifique, silencieuse et ordonnée»"
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Plattform gegen die Biogasanlage will am Sonntag beim Certamen del Queso de Arenas demonstrieren",
+        "entradilla": "Nach eigenen Angaben soll der Protest «friedlich, still und geordnet» verlaufen",
+        "cuerpo": [
+          "Nach eigenen Angaben soll der Protest «friedlich, still und geordnet» verlaufen"
+        ],
+        "apunte": "",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "",
+        "lugar": "",
+        "precio": ""
+      }
+    },
     "revisar": [
       "la plataforma contra la planta de biogas se",
       "plataforma contra la planta de biogas se manifestara",
