@@ -1,0 +1,17 @@
+Tipografías de La Prida
+=======================
+
+Bricolage Grotesque — SIL Open Font License 1.1
+Inter                — SIL Open Font License 1.1
+Martian Mono         — SIL Open Font License 1.1
+
+Texto de la licencia: https://openfontlicense.org
+
+La SIL OFL permite usar, estudiar, modificar y REDISTRIBUIR las tipografías,
+incluso con fines comerciales, siempre que no se vendan por separado y que los
+ficheros derivados no usen los nombres reservados. Servirlas desde este sitio
+está expresamente permitido.
+
+Los ficheros .woff2 de esta carpeta se descargaron del servicio de Google Fonts
+mediante scripts/fuentes.mjs. Google distribuye estas familias bajo la misma
+licencia; la copia no cambia sus condiciones.
