@@ -70,7 +70,17 @@ const colorDe = (slug) => dato(slug)?.color ?? 'var(--tinta)';
 const colorTextoDe = (slug) => dato(slug)?.colorTexto ?? dato(slug)?.color ?? 'var(--tinta)';
 const letraDe = (slug) => dato(slug)?.letra ?? '·';
 // Nava es amarilla: sobre ella la tinta tiene que ser negra, no blanca.
-const claroDe = (slug) => (slug === 'nava' ? ' data-claro="si"' : '');
+// Qué paradas piden tinta negra dentro del disco en vez de blanca.
+//
+// Medido, no estimado, letra sobre su propio color: Nava 10,3:1 con tinta negra
+// contra 1,8:1 con blanca; Cabranes 6,0 contra 3,1; Piloña 5,0 contra 3,7. Las
+// tres pasan con negra y suspenden con blanca. Villaviciosa (4,9) y Cabrales
+// (5,9) sí aguantan el blanco y se quedan como estaban.
+//
+// La letra es lo que hace que el color no viaje solo. Si no se lee, el invento
+// de la accesibilidad se queda en decoración.
+const CLAROS = ['nava', 'cabranes', 'pilona'];
+const claroDe = (slug) => (CLAROS.includes(slug) ? ' data-claro="si"' : '');
 
 // El orden de la línea es geográfico, de oeste a este, no el de la lista.
 const ORDEN_LINEA = ['nava', 'villaviciosa', 'cabranes', 'pilona', 'cabrales'];
@@ -1276,8 +1286,38 @@ function destacadoTablon(anunciosTablon = []) {
  * en los praos — todo eso ya estaba en el diario, enterrado bajo la etiqueta
  * «deporte y cultura», que es donde nadie de fuera va a mirar. Se reordena.
  */
+/**
+ * Vocabulario de lo que le interesa a quien viene de fuera.
+ *
+ * POR QUÉ HACE FALTA. La primera versión filtraba solo por sección —«agenda» y
+ * «deporte y cultura»— y salió mal a la primera: la noticia más turística del
+ * día, el Festival de la Manzana declarado de Interés Turístico Nacional, está
+ * clasificada como «actualidad». La portada española la sacaba de apertura y la
+ * inglesa la descartaba, y abría con un concurso ganadero de hacía 23 días.
+ *
+ * La sección dice de qué habla la redacción; esto dice a quién le importa. No
+ * son lo mismo y hacía falta preguntar las dos cosas.
+ */
+const DE_INTERES_FORASTERO = new RegExp(
+  '\\b(' +
+    [
+      'fiesta', 'fiestas', 'festival', 'romer[ií]a', 'certamen', 'concurso', 'feria',
+      'exposici[oó]n', 'muestra', 'mercado', 'museo', 'ruta', 'senda', 'mirador',
+      'sidra', 'llagar', 'manzana', 'queso', 'queser[ií]a', 'gaita', 'gaites',
+      'concierto', 'jornadas', 'descenso', 'pr[eé]stamo', 'patrimonio',
+      'r[oó]manico', 'rom[aá]nico', 'picos de europa', 'cares', 'interés turístico',
+    ].join('|') +
+    ')',
+  'i'
+);
+
+const interesaAlForastero = (p) =>
+  DE_INTERES_FORASTERO.test(`${p.titular ?? ''} ${p.entradilla ?? ''}`);
+
 function piezasDeVisitante(piezas) {
-  const culturales = piezas.filter((x) => ['agenda', 'deporte-y-cultura'].includes(x.seccion));
+  const culturales = piezas.filter(
+    (x) => ['agenda', 'deporte-y-cultura'].includes(x.seccion) || interesaAlForastero(x)
+  );
   const limite = Date.now() - frescura.tira * 86400000;
   const frescas = culturales.filter((x) => {
     const t = new Date(x.fecha).getTime();
@@ -1286,7 +1326,24 @@ function piezasDeVisitante(piezas) {
   // Si no hay nada reciente, no se deja la portada en blanco ni se finge que lo
   // hay: se enseña lo último y el rótulo lo dice. Es la misma regla que ya
   // gobierna la tira de la portada española.
-  return frescas.length ? { lista: frescas, fresco: true } : { lista: culturales, fresco: false };
+  const lista = frescas.length ? frescas : culturales;
+
+  // Y una última pasada: en una portada en inglés, una pieza TRADUCIDA va antes
+  // que una sin traducir de la misma tanda.
+  //
+  // No es un capricho de orden. Ahora mismo solo 23 de las 103 piezas tienen
+  // traducción y ninguna de las recientes la tiene, así que sin esta regla la
+  // portada inglesa abre con un titular en español. Entre enseñar lo más fresco
+  // en un idioma que el lector no entiende y enseñar lo segundo más fresco en el
+  // suyo, gana lo segundo. No arregla el problema de fondo —que la traducción
+  // lleva parada desde el 19 de septiembre— pero no lo restriega en portada.
+  const traducida = (x) => {
+    const t = x?.trad?.[estado.idioma];
+    return !!(t && typeof t.titular === 'string' && t.titular.trim());
+  };
+  const ordenada = [...lista.filter(traducida), ...lista.filter((x) => !traducida(x))];
+
+  return { lista: ordenada, fresco: frescas.length > 0 };
 }
 
 /** «Dónde ir»: los cinco concejos, con una línea cada uno para quien no los conoce. */
