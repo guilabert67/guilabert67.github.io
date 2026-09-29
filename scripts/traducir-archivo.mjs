@@ -37,8 +37,28 @@ const LIMITE = (() => {
   return Number.isFinite(n) && n > 0 ? n : Infinity;
 })();
 
+/**
+ * ¿Esta pieza tiene cuerpo en español?
+ *
+ * Algunas no lo tienen: entran de un titular y una entradilla y nada más. No es
+ * un defecto, es cómo son. Pero importa aquí, porque el criterio de «traducida»
+ * es «tiene cuerpo en los tres idiomas», y una pieza sin cuerpo en español NO
+ * PUEDE cumplirlo nunca.
+ *
+ * Sin esta comprobación, el script las veía eternamente pendientes, las
+ * traducía, comprobaba que seguían sin cuerpo, las daba por fallidas y volvía a
+ * intentarlo en la pasada siguiente. Una llamada de pago por pieza y por pasada,
+ * para siempre, sin que nadie se enterara. Ese es justo el tipo de fuga que este
+ * proyecto no se puede permitir.
+ */
+function tieneCuerpo(p) {
+  return Array.isArray(p?.cuerpo) && p.cuerpo.length > 0;
+}
+
 /** ¿Le falta a esta pieza alguno de los tres idiomas con cuerpo de verdad? */
 function leFalta(p) {
+  // Sin cuerpo en español no hay nada que traducir. No se toca y no se cobra.
+  if (!tieneCuerpo(p)) return false;
   if (FORZAR) return true;
   return IDIOMAS.some((c) => {
     const cuerpo = p?.trad?.[c]?.cuerpo;
@@ -60,8 +80,12 @@ async function main() {
 
   const piezas = JSON.parse(await fs.readFile(FICHERO, 'utf8'));
   const pendientes = piezas.filter(leFalta);
+  const sinCuerpo = piezas.filter((p) => !tieneCuerpo(p)).length;
 
   console.log(`\n· ${piezas.length} piezas en el archivo`);
+  if (sinCuerpo) {
+    console.log(`· ${sinCuerpo} sin cuerpo en español: no hay nada que traducir, se dejan en paz`);
+  }
   console.log(`· ${pendientes.length} sin traducir${FORZAR ? ' (--forzar: se rehacen todas)' : ''}`);
 
   if (!pendientes.length) {
@@ -105,6 +129,10 @@ async function main() {
 
   const quedan = piezas.filter(leFalta).length;
   console.log(`\n☕ ${hechas} piezas traducidas. Quedan ${quedan} sin traducir.`);
+  if (quedan && quedan === fallidas.length) {
+    console.log('   Las mismas de la pasada anterior: no es mala suerte, es una causa.');
+    console.log('   Si se repiten tres veces, míralas a mano en vez de seguir pagando.');
+  }
   if (fallidas.length) {
     console.log(`   ${fallidas.length} fallaron y se quedaron como estaban:`);
     for (const t of fallidas.slice(0, 5)) console.log(`     · ${t.slice(0, 64)}`);
