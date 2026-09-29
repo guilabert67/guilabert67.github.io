@@ -1,5 +1,139 @@
 [
   {
+    "id": "pilona-homenajea-el-viernes-a-sus-paisanos-del-ano",
+    "url": "/pilona/pilona-homenajea-el-viernes-a-sus-paisanos-del-ano/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Piloña homenajea el viernes a sus Paisanos del Año",
+    "entradilla": "Silvina Fresno y Amador Rodríguez reciben el reconocimiento que el concejo reserva a quienes lo han dado todo.",
+    "cuerpo": [
+      "Piloña celebra este viernes el homenaje a sus Paisanos del Año: Silvina Fresno, de El Fresnedal, y Amador Rodríguez, de El Taradiellu, en Cardes.",
+      "El acto distingue a vecinos del concejo cuya trayectoria o entrega merece que el pueblo les devuelva el reconocimiento en público."
+    ],
+    "apunte": "Dos pueblos pequeños, dos nombres propios: El Fresnedal y El Taradiellu se llevan el aplauso gordo.",
+    "enVeinte": [
+      "Piloña rinde homenaje este viernes a Silvina Fresno y Amador Rodríguez como Paisanos del Año.",
+      "Silvina es de El Fresnedal y Amador, de El Taradiellu, en la parroquia de Cardes.",
+      "El acto distingue a vecinos del concejo por su contribución o trayectoria destacada."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "El Taradiellu",
+      "como": "El Taradiellu, con elle y sin traducir",
+      "definicion": "Nombre de un lugar de la parroquia de Cardes, en Piloña. Los topónimos asturianos en -ellu son diminutivos patrimoniales: guardan la forma que la lengua del país les dio y no se castellanizan."
+    },
+    "porQue": "El homenaje pone nombre propio a gente del común del concejo, que a veces pasa toda una vida haciendo sin que nadie lo diga en voz alta.",
+    "etiquetas": [
+      "Piloña",
+      "Paisanos del Año",
+      "Infiesto",
+      "homenaje"
+    ],
+    "fechaEvento": "2026-10-03",
+    "tipoEvento": "fiesta",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/09/29/2026092910383383292.jpg",
+    "fecha": "2026-09-29T18:00:01.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/pilona-homenajea-viernes-paisanos-ano/20260929210001104065.html",
+      "titularOriginal": "Piloña homenajea el viernes a sus Paisanos del Año"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Piloña honours its Paisanos del Año this Friday",
+        "entradilla": "Silvina Fresno and Amador Rodríguez receive the recognition that the municipality reserves for those who have given everything.",
+        "cuerpo": [
+          "Piloña celebrates its Paisanos del Año tribute this Friday: Silvina Fresno, from El Fresnedal, and Amador Rodríguez, from El Taradiellu, in Cardes.",
+          "The ceremony honours residents of the municipality whose dedication or life's work deserves a public acknowledgement from their community."
+        ],
+        "apunte": "Two small villages, two proper names: El Fresnedal and El Taradiellu take the loudest applause.",
+        "enVeinte": [
+          "Piloña pays tribute this Friday to Silvina Fresno and Amador Rodríguez as Paisanos del Año.",
+          "Silvina is from El Fresnedal and Amador from El Taradiellu, in the parish of Cardes.",
+          "The ceremony honours residents of the municipality for their outstanding contribution or life's work."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Taradiellu",
+          "como": "El Taradiellu, with the Asturian ll and untranslated",
+          "definicion": "The name of a place in the parish of Cardes, in Piloña. Asturian place names ending in -ellu are native diminutives: they keep the form the local language gave them and are not adapted into Spanish."
+        },
+        "porQue": "The tribute puts a name to ordinary people of the municipality who sometimes spend a whole life doing without anyone ever saying so out loud.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Piloña rend hommage vendredi à ses Paisanos del Año",
+        "entradilla": "Silvina Fresno et Amador Rodríguez reçoivent la reconnaissance que la commune réserve à ceux qui se sont donnés sans compter.",
+        "cuerpo": [
+          "Piloña célèbre vendredi l'hommage à ses Paisanos del Año : Silvina Fresno, d'El Fresnedal, et Amador Rodríguez, d'El Taradiellu, à Cardes.",
+          "La cérémonie distingue des habitants de la commune dont le parcours ou le dévouement mérite que le village leur rende hommage publiquement."
+        ],
+        "apunte": "Deux petits villages, deux noms propres : El Fresnedal et El Taradiellu reçoivent les applaudissements les plus nourris.",
+        "enVeinte": [
+          "Piloña rend hommage vendredi à Silvina Fresno et Amador Rodríguez en tant que Paisanos del Año.",
+          "Silvina est d'El Fresnedal et Amador d'El Taradiellu, dans la paroisse de Cardes.",
+          "La cérémonie distingue des habitants de la commune pour leur contribution ou leur parcours remarquable."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Taradiellu",
+          "como": "El Taradiellu, avec le ll asturien et sans traduction",
+          "definicion": "Nom d'un lieu de la paroisse de Cardes, à Piloña. Les toponymes asturiens en -ellu sont des diminutifs patrimoniaux : ils conservent la forme que la langue du pays leur a donnée et ne sont pas hispanisés."
+        },
+        "porQue": "L'hommage met un nom sur des gens ordinaires de la commune, qui passent parfois toute une vie à agir sans que personne ne le dise à voix haute.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Piloña ehrt am Freitag seine Paisanos del Año",
+        "entradilla": "Silvina Fresno und Amador Rodríguez erhalten die Anerkennung, die die Gemeinde denen vorbehält, die alles gegeben haben.",
+        "cuerpo": [
+          "Piloña feiert diesen Freitag die Ehrung seiner Paisanos del Año: Silvina Fresno aus El Fresnedal und Amador Rodríguez aus El Taradiellu in Cardes.",
+          "Die Veranstaltung würdigt Einwohner der Gemeinde, deren Lebenswerk oder Einsatz es verdient, dass der Ort ihnen öffentlich Anerkennung zollt."
+        ],
+        "apunte": "Zwei kleine Dörfer, zwei Namen: El Fresnedal und El Taradiellu ernten den lautesten Applaus.",
+        "enVeinte": [
+          "Piloña ehrt diesen Freitag Silvina Fresno und Amador Rodríguez als Paisanos del Año.",
+          "Silvina stammt aus El Fresnedal, Amador aus El Taradiellu in der Pfarrgemeinde Cardes.",
+          "Die Veranstaltung würdigt Einwohner der Gemeinde für ihren herausragenden Beitrag oder ihr Lebenswerk."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Taradiellu",
+          "como": "El Taradiellu, mit dem asturischen ll und ohne Übersetzung",
+          "definicion": "Name eines Ortes in der Pfarrgemeinde Cardes in Piloña. Asturische Ortsnamen auf -ellu sind eigensprachliche Verkleinerungsformen: Sie bewahren die Gestalt, die ihnen die Sprache des Landes gegeben hat, und werden nicht hispanisiert."
+        },
+        "porQue": "Die Ehrung gibt gewöhnlichen Menschen der Gemeinde einen Namen – Menschen, die manchmal ein ganzes Leben lang handeln, ohne dass es je jemand laut ausspricht.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "pilona homenajea el viernes a sus paisanos del",
+      "homenajea el viernes a sus paisanos del ano",
+      "el viernes a sus paisanos del ano silvina",
+      "viernes a sus paisanos del ano silvina fresno",
+      "a sus paisanos del ano silvina fresno de",
+      "sus paisanos del ano silvina fresno de el",
+      "paisanos del ano silvina fresno de el fresnedal",
+      "del ano silvina fresno de el fresnedal y",
+      "ano silvina fresno de el fresnedal y amador",
+      "silvina fresno de el fresnedal y amador rodriguez",
+      "fresno de el fresnedal y amador rodriguez de",
+      "de el fresnedal y amador rodriguez de el",
+      "el fresnedal y amador rodriguez de el taradiellu",
+      "fresnedal y amador rodriguez de el taradiellu en",
+      "y amador rodriguez de el taradiellu en cardes"
+    ]
+  },
+  {
     "id": "la-fundacion-corripio-alonso-entrega-sus-primeros-galardones-el-2-de-o",
     "url": "/villaviciosa/la-fundacion-corripio-alonso-entrega-sus-primeros-galardones-el-2-de-o/",
     "concejo": "Villaviciosa",
