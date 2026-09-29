@@ -16,7 +16,7 @@ export const sitio = {
   url: process.env.SITIO_URL || 'https://laprida.example',
   idioma: 'es-ES',
   autor: 'Redacción de La Prida',
-  email: 'hola@laprida.example',
+  email: 'laprida.asturias@gmail.com',
   zonaHoraria: 'Europe/Madrid',
   // Las tres ediciones del día, hora de Asturias. Llevan NOMBRE, no hora: el
   // sello de portada dice «Edición de la mañana», no «Edición de las 07:00».
@@ -514,8 +514,12 @@ export const categoriasCurso = [
 ];
 
 export const formacion = {
-  // A dónde manda la gente un curso para que salga. Cámbialo por el tuyo.
-  correo: 'cursos@laprida.example',
+  // A dónde manda la gente un curso para que salga.
+  // Es el MISMO correo que el del tablón y el del pie, a propósito: tres
+  // direcciones distintas son tres buzones que vigilar y, sobre todo, tres
+  // cosas que un vecino tiene que copiar bien en el móvil. Para separarlo por
+  // dentro basta un filtro por asunto en el correo.
+  correo: 'laprida.asturias@gmail.com',
   // Un curso sin fecha de cierre se retira a los 60 días de publicarse.
   diasPorDefecto: 60,
 };
@@ -611,8 +615,9 @@ export const categoriasAnuncio = [
 ];
 
 export const tablon = {
-  // A dónde manda la gente su anuncio. Cámbialo por tu correo de verdad.
-  correo: 'tablon@laprida.example',
+  // A dónde manda la gente su anuncio. El mismo de siempre: ver la nota en
+  // `formacion.correo` sobre por qué no hay tres direcciones distintas.
+  correo: 'laprida.asturias@gmail.com',
   // Cuánto dura un anuncio si no trae fecha de caducidad.
   diasPorDefecto: 30,
   // Los anuncios de particulares no cuestan nada. Nunca.
