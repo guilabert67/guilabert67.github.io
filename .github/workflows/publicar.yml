@@ -47,6 +47,21 @@ on:
   push:
     branches: [main]
 
+  # Y cuando termine cualquiera de los flujos que ESCRIBEN contenido.
+  #
+  # POR QUÉ HACE FALTA. GitHub no dispara un flujo con los commits que hace otro
+  # flujo: es su defensa contra los bucles infinitos. Consecuencia: el robot
+  # traducía 95 piezas o se traía las tipografías, hacía su commit... y el
+  # trabajo se quedaba ahí, invisible, hasta que alguien subía un fichero a mano
+  # o llegaba la edición siguiente. Trabajo hecho que no llegaba al lector, y en
+  # silencio, que es la peor forma.
+  #
+  # `workflow_run` sí escucha el FINAL de esos flujos, y como el evento no es
+  # `schedule`, el guardián de abajo publica sin preguntar por la franja.
+  workflow_run:
+    workflows: ['Traducir el archivo atrasado', 'Traer las tipografías a casa']
+    types: [completed]
+
 permissions:
   contents: write
   pages: write
@@ -59,6 +74,10 @@ concurrency:
 
 jobs:
   edicion:
+    # Si el flujo que nos despierta terminó mal, no hay nada nuevo que publicar.
+    # Republicar tras un fallo no arregla nada y ensucia el historial de commits,
+    # que es justo lo que el guardián de ediciones usa para saber qué salió ya.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     # actions/deploy-pages exige que el trabajo declare el entorno github-pages.
     # Sin estas tres líneas el sitio se construye bien pero el despliegue falla
