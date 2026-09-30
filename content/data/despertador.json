@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-09-29T19:35:41.243Z",
+  "fecha": "2026-09-30T08:56:39.218Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El viernes, Piloña reconoce a Silvina Fresno y Amador Rodríguez como Paisanos del Año.",
-      "enlace": "/pilona/pilona-homenajea-el-viernes-a-sus-paisanos-del-ano/"
+      "concejo": "Villaviciosa",
+      "frase": "Un juez decide si juzga al presidente de AMA por la 'Santina queer'.",
+      "enlace": "/villaviciosa/abogados-cristianos-espera-que-se-abra-juicio-oral-contra-el-president/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa firma por primera vez un convenio con la Comisión de Fiestas del Portal.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-firma-su-primer-convenio-con-la-comisi/"
     }
   ]
 }
