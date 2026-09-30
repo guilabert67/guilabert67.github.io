@@ -1,5 +1,125 @@
 [
   {
+    "id": "corte-total-en-la-as-264-en-cabrales-por-obras-en-la-central-hidraulic",
+    "url": "/cabrales/corte-total-en-la-as-264-en-cabrales-por-obras-en-la-central-hidraulic/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "avisos",
+    "titular": "La AS-264 cortará una hora el 3 de octubre",
+    "entradilla": "Las obras en la central de Camarmeña dejan sin paso la carretera a Sotres sin desvío posible.",
+    "cuerpo": [
+      "La AS-264, que une Arenas de Cabrales con el límite de Cantabria por Sotres, quedará cortada al tráfico durante una hora la mañana del 3 de octubre por trabajos en la central hidráulica de Camarmeña.",
+      "No habrá desvío alternativo, así que quien necesite pasar por ese tramo tendrá que ajustar el horario. La fuente no concreta a qué hora exacta empezará el corte."
+    ],
+    "apunte": "Quien suela madrugar hacia Sotres ese día que madrugue un poco más, o un poco menos.",
+    "enVeinte": [
+      "La AS-264 entre Arenas de Cabrales y Sotres estará cortada una hora la mañana del 3 de octubre.",
+      "El motivo son obras en la central hidráulica de Camarmeña.",
+      "No existe desvío alternativo, así que conviene evitar ese tramo durante el corte."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Camarmeña",
+      "como": "Ca-mar-me-ña, con acento en la primera sílaba",
+      "definicion": "Aldea del concejo de Cabrales encaramada sobre el desfiladero del Cares, conocida por sus vistas al macizo central de los Picos de Europa. Aquí se ubica la central hidráulica que motiva las obras."
+    },
+    "porQue": "Quien tenga que ir o volver por la AS-264 hacia Sotres o la frontera con Cantabria esa mañana no podrá pasar durante una hora y no hay vuelta alternativa por la que salir del paso.",
+    "etiquetas": [
+      "carreteras",
+      "Cabrales",
+      "obras",
+      "Sotres"
+    ],
+    "fechaEvento": "2026-10-03",
+    "tipoEvento": "",
+    "lugar": "AS-264, entre Arenas de Cabrales y el límite con Cantabria por Sotres",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/09/30/2026093010595574471.jpg",
+    "fecha": "2026-09-30T10:00:00.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://www.elfielato.es/articulo/cabrales/corte-cabrales-obras-central-hidraulica-camarmena/20260930104830104093.html",
+      "titularOriginal": "Corte total en la AS-264 en Cabrales por obras en la central hidráulica de Camarmeña"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The AS-264 will be closed for one hour on 3 October",
+        "entradilla": "Works at the Camarmeña power station will block the road to Sotres with no alternative route available.",
+        "cuerpo": [
+          "The AS-264, which links Arenas de Cabrales with the Cantabria border via Sotres, will be closed to traffic for one hour on the morning of 3 October due to works at the Camarmeña hydroelectric power station.",
+          "There will be no alternative route, so anyone needing to use that stretch will have to plan around the closure. The source does not specify the exact time it will begin."
+        ],
+        "apunte": "Anyone who usually heads early to Sotres that day should set off a little earlier — or a little later.",
+        "enVeinte": [
+          "The AS-264 between Arenas de Cabrales and Sotres will be closed for one hour on the morning of 3 October.",
+          "The reason is works at the Camarmeña hydroelectric power station.",
+          "There is no alternative route, so it is worth avoiding that stretch during the closure."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Camarmeña",
+          "como": "Ca-mar-ME-ña, stress on the first syllable",
+          "definicion": "A village in the municipality of Cabrales perched above the Cares gorge, known for its views of the central massif of the Picos de Europa. The hydroelectric power station behind the current works is located here."
+        },
+        "porQue": "Anyone who needs to travel along the AS-264 towards Sotres or the Cantabria border that morning will be unable to pass for one hour, and there is no alternative road to get around it.",
+        "lugar": "AS-264, between Arenas de Cabrales and the Cantabria border via Sotres",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La AS-264 sera coupée une heure le 3 octobre",
+        "entradilla": "Des travaux à la centrale de Camarmeña bloqueront la route vers Sotres sans déviation possible.",
+        "cuerpo": [
+          "La AS-264, qui relie Arenas de Cabrales à la frontière avec la Cantabrie par Sotres, sera fermée à la circulation pendant une heure dans la matinée du 3 octobre en raison de travaux à la centrale hydroélectrique de Camarmeña.",
+          "Il n'y aura pas d'itinéraire de déviation, aussi ceux qui doivent emprunter ce tronçon devront-ils adapter leur horaire. La source ne précise pas l'heure exacte à laquelle la fermeture commencera."
+        ],
+        "apunte": "Ceux qui ont l'habitude de partir tôt vers Sotres ce jour-là devront partir un peu plus tôt — ou un peu plus tard.",
+        "enVeinte": [
+          "La AS-264 entre Arenas de Cabrales et Sotres sera fermée une heure dans la matinée du 3 octobre.",
+          "La cause est des travaux à la centrale hydroélectrique de Camarmeña.",
+          "Il n'existe pas de déviation, il est donc conseillé d'éviter ce tronçon pendant la fermeture."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Camarmeña",
+          "como": "Ca-mar-ME-ña, accent tonique sur la première syllabe",
+          "definicion": "Village de la commune de Cabrales accroché au-dessus des gorges du Cares, connu pour ses vues sur le massif central des Picos de Europa. La centrale hydroélectrique à l'origine des travaux s'y trouve."
+        },
+        "porQue": "Quiconque doit emprunter la AS-264 vers Sotres ou la frontière avec la Cantabrie ce matin-là ne pourra pas passer pendant une heure, et il n'existe aucune route alternative pour contourner le problème.",
+        "lugar": "AS-264, entre Arenas de Cabrales et la frontière avec la Cantabrie par Sotres",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die AS-264 wird am 3. Oktober eine Stunde gesperrt",
+        "entradilla": "Arbeiten am Kraftwerk Camarmeña blockieren die Straße nach Sotres ohne Umleitung.",
+        "cuerpo": [
+          "Die AS-264, die Arenas de Cabrales über Sotres mit der Grenze zu Kantabrien verbindet, wird am Morgen des 3. Oktober wegen Arbeiten am Wasserkraftwerk Camarmeña für eine Stunde für den Verkehr gesperrt.",
+          "Es wird keine Ausweichroute geben. Wer diesen Streckenabschnitt nutzen muss, sollte seine Fahrt entsprechend planen. Die genaue Uhrzeit der Sperrung ist laut Quelle noch nicht bekannt."
+        ],
+        "apunte": "Wer an diesem Tag gewöhnlich früh nach Sotres aufbricht, sollte etwas früher — oder etwas später — losfahren.",
+        "enVeinte": [
+          "Die AS-264 zwischen Arenas de Cabrales und Sotres wird am Morgen des 3. Oktober eine Stunde gesperrt.",
+          "Grund sind Arbeiten am Wasserkraftwerk Camarmeña.",
+          "Es gibt keine Umleitung; der Abschnitt sollte während der Sperrung gemieden werden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Camarmeña",
+          "como": "Ca-mar-ME-ña, Betonung auf der ersten Silbe",
+          "definicion": "Ein Dorf in der Gemeinde Cabrales, das hoch über der Cares-Schlucht liegt und für seinen Blick auf das zentrale Massiv der Picos de Europa bekannt ist. Hier befindet sich das Wasserkraftwerk, das Anlass für die Arbeiten ist."
+        },
+        "porQue": "Wer an diesem Morgen die AS-264 Richtung Sotres oder zur Grenze nach Kantabrien befahren muss, kann während einer Stunde nicht passieren — und es gibt keine alternative Straße, die weiterhilft.",
+        "lugar": "AS-264, zwischen Arenas de Cabrales und der Grenze zu Kantabrien über Sotres",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "una hora la manana del 3 de octubre"
+    ]
+  },
+  {
     "id": "abogados-cristianos-espera-que-se-abra-juicio-oral-contra-el-president",
     "url": "/villaviciosa/abogados-cristianos-espera-que-se-abra-juicio-oral-contra-el-president/",
     "concejo": "Villaviciosa",
