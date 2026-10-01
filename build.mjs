@@ -303,6 +303,7 @@ function bloqueTerceros(idioma) {
     es: {
       h: 'Lo que sí sale de aquí',
       intro: '<p>Al abrir una página se cargan estos servicios externos, y a todos les llega tu dirección IP. Lo contamos porque es verdad y porque preferimos decirlo a que lo descubras tú.</p>',
+      intro1: '<p>Solo se carga un servicio externo, y recibe tu dirección IP. Lo contamos porque es verdad y porque preferimos decirlo a que lo descubras tú.</p>',
       nada: '<p><strong>No se carga ningún servicio externo.</strong> Las tipografías se sirven desde este mismo sitio y no hay medición de audiencia. Tu navegador no habla con nadie más que con nosotros.</p>',
       propias: '<p>Las letras del diario <strong>se sirven desde este mismo sitio</strong>. No se piden a Google ni a ningún tercero, así que nadie de fuera recibe tu IP por este motivo. Las tres familias están bajo licencia SIL Open Font License 1.1, que permite redistribuirlas.</p>',
       gf: '<p><strong>Google Fonts.</strong> Las letras del diario se piden a los servidores de Google cada vez que abres una página, así que Google recibe tu IP. No se instala ninguna cookie ni se te sigue por otros sitios. Estamos trabajando en servir esas mismas letras desde aquí, que es gratis y legal, y cuando esté hecho este párrafo desaparecerá.</p>',
@@ -311,6 +312,7 @@ function bloqueTerceros(idioma) {
     en: {
       h: 'What does leave this site',
       intro: '<p>Opening a page loads these external services, and all of them receive your IP address. We say so because it is true and because we would rather tell you than have you find out.</p>',
+      intro1: '<p>Only one external service is loaded, and it receives your IP address. We say so because it is true and because we would rather tell you than have you find out.</p>',
       nada: '<p><strong>No external service is loaded.</strong> The typefaces are served from this site and there is no audience measurement. Your browser talks to nobody but us.</p>',
       propias: '<p>The paper\'s typefaces <strong>are served from this site</strong>. They are not requested from Google or any third party, so nobody outside receives your IP on that account. All three families are under the SIL Open Font License 1.1, which permits redistribution.</p>',
       gf: '<p><strong>Google Fonts.</strong> The typefaces are requested from Google\'s servers every time you open a page, so Google receives your IP. No cookie is set and you are not tracked across sites. We are working on serving those same fonts from here, which is free and lawful, and this paragraph will go when it is done.</p>',
@@ -319,6 +321,7 @@ function bloqueTerceros(idioma) {
     fr: {
       h: "Ce qui sort d'ici",
       intro: "<p>L'ouverture d'une page charge ces services externes, et tous reçoivent votre adresse IP. Nous le disons parce que c'est vrai et parce que nous préférons vous le dire.</p>",
+      intro1: "<p>Un seul service externe est chargé, et il reçoit votre adresse IP. Nous le disons parce que c'est vrai et parce que nous préférons vous le dire.</p>",
       nada: "<p><strong>Aucun service externe n'est chargé.</strong> Les polices sont servies depuis ce site et il n'y a pas de mesure d'audience. Votre navigateur ne dialogue avec personne d'autre que nous.</p>",
       propias: "<p>Les polices du journal <strong>sont servies depuis ce site</strong>. Elles ne sont demandées ni à Google ni à un tiers : personne à l'extérieur ne reçoit votre IP de ce fait. Les trois familles sont sous licence SIL Open Font License 1.1, qui autorise la redistribution.</p>",
       gf: "<p><strong>Google Fonts.</strong> Les polices sont demandées aux serveurs de Google à chaque page : Google reçoit donc votre IP. Aucun cookie n'est déposé et vous n'êtes pas suivi d'un site à l'autre. Nous travaillons à servir ces mêmes polices depuis ici, ce qui est gratuit et légal ; ce paragraphe disparaîtra alors.</p>",
@@ -327,6 +330,7 @@ function bloqueTerceros(idioma) {
     de: {
       h: 'Was diese Seite verlässt',
       intro: '<p>Beim Öffnen einer Seite werden diese externen Dienste geladen, und alle erhalten Ihre IP-Adresse. Wir sagen es, weil es stimmt und weil wir es lieber selbst sagen.</p>',
+      intro1: '<p>Es wird nur ein externer Dienst geladen, und er erhält Ihre IP-Adresse. Wir sagen es, weil es stimmt und weil wir es lieber selbst sagen.</p>',
       nada: '<p><strong>Es wird kein externer Dienst geladen.</strong> Die Schriften werden von dieser Seite ausgeliefert, und es gibt keine Reichweitenmessung. Ihr Browser spricht mit niemandem außer uns.</p>',
       propias: '<p>Die Schriften der Zeitung <strong>werden von dieser Seite ausgeliefert</strong>. Sie werden weder bei Google noch bei Dritten angefordert, also erhält dadurch niemand von außen Ihre IP. Alle drei Familien stehen unter der SIL Open Font License 1.1, die die Weitergabe erlaubt.</p>',
       gf: '<p><strong>Google Fonts.</strong> Die Schriften werden bei jedem Seitenaufruf von Googles Servern geholt, Google erhält also Ihre IP. Es wird kein Cookie gesetzt und Sie werden nicht seitenübergreifend verfolgt. Wir arbeiten daran, dieselben Schriften von hier auszuliefern, was kostenlos und zulässig ist; dieser Absatz entfällt dann.</p>',
@@ -339,9 +343,15 @@ function bloqueTerceros(idioma) {
   if (cloudflare) partes.push(x.cf);
 
   if (!partes.length) return `<h2>${x.h}</h2>\n${x.nada}`;
-  const encabezado = `<h2>${x.h}</h2>\n${x.intro}`;
-  const casa = google ? '' : `\n${x.propias}`;
-  return `${encabezado}${casa}\n${partes.join('\n')}`;
+
+  // Las tipografias propias NO son un tercero: son lo contrario. Por eso van
+  // antes del encabezado de la lista, no dentro de ella. Y el encabezado
+  // concuerda en numero con lo que de verdad se carga: decir «estos servicios
+  // externos» cuando solo queda uno es falso, y esta pagina no puede tener ni
+  // una frase falsa.
+  const casa = google ? '' : `${x.propias}\n`;
+  const intro = partes.length === 1 ? x.intro1 : x.intro;
+  return `<h2>${x.h}</h2>\n${casa}${intro}\n${partes.join('\n')}`;
 }
 
 /**
@@ -888,26 +898,12 @@ function paginaAnunciate(piezas, tiempo) {
     )
     .join('\n');
 
-  return marco({
-    titulo: 'Anúnciate en La Prida',
-    descripcion:
-      'Pon tu negocio delante de la gente de Piloña, Nava, Cabranes, Cabrales y Villaviciosa, cada mañana. Formatos, precios y cómo contratarlo.',
-    url: '/anunciate/',
-    tiempo,
-    contenido: `<div class="contenedor">
-  <section class="portico">
-    <span class="rotulo" style="color:var(--tinta-3)">Para negocios de casa</span>
-    <h1 style="max-width:15ch">Tu negocio, en el desayuno de tus vecinos</h1>
-    <p style="max-width:56ch">La Prida se lee a primera hora, en casa y con el café. No competimos con la tele ni con el periódico de Oviedo: solo contamos lo de estos cinco concejos.</p>
-  </section>
-
-  <section class="datos">
-    <div class="dato"><span class="dato__cifra">4</span><span class="dato__que">concejos: Piloña, Nava, Cabranes, Cabrales y Villaviciosa</span></div>
-    <div class="dato"><span class="dato__cifra">${piezas.length}</span><span class="dato__que">piezas publicadas ahora mismo</span></div>
-    <div class="dato"><span class="dato__cifra">7:00</span><span class="dato__que">hora a la que sale la edición, cada día</span></div>
-  </section>
-
-  <h2 class="titulo-seccion">Qué puedes contratar</h2>
+  // La oferta comercial depende de `anuncios.seVende`. Mientras esté apagada, la
+  // página sigue existiendo —cuenta qué es el diario y recoge interesados— pero
+  // NO pone precios ni invita a contratar: no se puede ofrecer un servicio por
+  // dinero sin tener hechos los trámites. Ver el porqué en src/config.mjs.
+  const bloqueOferta = anuncios.seVende
+    ? `<h2 class="titulo-seccion">Qué puedes contratar</h2>
   <div class="tarifas">${fichas}</div>
 
   <section>
@@ -918,7 +914,35 @@ function paginaAnunciate(piezas, tiempo) {
       <li><strong>Sale a la mañana siguiente.</strong> Sin permanencia: avisas y se retira.</li>
     </ol>
     <p style="font-size:15px;color:var(--tinta-2);max-width:62ch">Los espacios patrocinados van siempre marcados como tales. La publicidad no decide qué se publica ni cómo se cuenta: es la única manera de que esto le sirva a alguien, y también de que a ti te sirva salir aquí.</p>
+  </section>`
+    : `<section>
+    <h2 class="titulo-seccion">Todavía no vendemos publicidad</h2>
+    <p style="max-width:62ch">La Prida no lleva anuncios ni los está comercializando. Estamos ordenando antes el papeleo, que es lo que toca hacer primero y no después.</p>
+    <p style="max-width:62ch"><strong>Si tienes un negocio en alguno de los cinco concejos y te interesa</strong>, escríbenos a ${esc(sitio.email)} con el nombre del negocio y el concejo. No te vamos a cobrar nada ni a comprometerte a nada: apuntamos el interés y te avisamos cuando abramos.</p>
+    <p style="font-size:15px;color:var(--tinta-2);max-width:62ch">Cuando llegue el momento, los espacios patrocinados irán siempre marcados como tales, y la publicidad no decidirá qué se publica ni cómo se cuenta.</p>
+  </section>`;
+
+  return marco({
+    titulo: 'Anúnciate en La Prida',
+    descripcion: anuncios.seVende
+      ? 'Pon tu negocio delante de la gente de Piloña, Nava, Cabranes, Cabrales y Villaviciosa, cada mañana. Formatos, precios y cómo contratarlo.'
+      : 'La Prida todavía no vende publicidad. Si tienes un negocio en Piloña, Nava, Cabranes, Cabrales o Villaviciosa y te interesa, déjanos tu contacto y te avisamos.',
+    url: '/anunciate/',
+    tiempo,
+    contenido: `<div class="contenedor">
+  <section class="portico">
+    <span class="rotulo" style="color:var(--tinta-3)">${anuncios.seVende ? 'Para negocios de casa' : 'Publicidad'}</span>
+    <h1 style="max-width:15ch">${anuncios.seVende ? 'Tu negocio, en el desayuno de tus vecinos' : 'Un diario que se lee en el desayuno'}</h1>
+    <p style="max-width:56ch">La Prida se lee a primera hora, en casa y con el café. No competimos con la tele ni con el periódico de Oviedo: solo contamos lo de estos cinco concejos.</p>
   </section>
+
+  <section class="datos">
+    <div class="dato"><span class="dato__cifra">${concejos.length}</span><span class="dato__que">concejos: ${concejos.map((c) => c.nombre).join(', ').replace(/, ([^,]*)$/, ' y $1')}</span></div>
+    <div class="dato"><span class="dato__cifra">${piezas.length}</span><span class="dato__que">piezas publicadas ahora mismo</span></div>
+    <div class="dato"><span class="dato__cifra">7:00</span><span class="dato__que">hora a la que sale la edición, cada día</span></div>
+  </section>
+
+  ${bloqueOferta}
 </div>`,
   });
 }
