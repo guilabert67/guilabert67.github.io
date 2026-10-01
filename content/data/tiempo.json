@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T07:39:20.309Z",
+  "actualizado": "2026-10-01T14:51:48.311Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -21,7 +21,7 @@
       "lluvia": 33
     },
     "cabrales": {
-      "max": 18,
+      "max": 17,
       "min": 12,
       "estado": "Orbayu",
       "lluvia": 78
