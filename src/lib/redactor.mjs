@@ -5,14 +5,115 @@ import { manualDeEstilo, ingesta } from '../config.mjs';
 
 const API = 'https://api.anthropic.com/v1/messages';
 
+/**
+ * Saca el objeto JSON de la respuesta del modelo.
+ *
+ * LO QUE HABÍA ANTES: `texto.match(/\{[\s\S]*\}/)` y un `JSON.parse` dentro de
+ * un `try` con `catch { return null }`. Tres problemas, y los tres costaron
+ * dinero de verdad:
+ *
+ *  1. La expresión es GOLOSA: coge desde la primera llave hasta la ÚLTIMA. Si
+ *     la respuesta viene cortada por `max_tokens`, el trozo queda descuadrado y
+ *     no parsea.
+ *  2. Si el modelo deja una comilla sin escapar dentro de un valor —y pasa
+ *     cuando el propio texto lleva comillas, como «una "coalición" de
+ *     restaurantes»— tampoco parsea.
+ *  3. Y en los dos casos devolvía `null` SIN DECIR NADA. La pieza se daba por
+ *     fallida, se reintentaba en la pasada siguiente, y se volvía a pagar. Dos
+ *     piezas de La Prida llevaban así desde el 29 de septiembre.
+ *
+ * Ahora: se intenta en tres pasadas de menos a más agresiva, y si todas fallan
+ * se devuelve el motivo y un trozo de lo recibido para que la próxima ejecución
+ * lo cuente en vez de callarse.
+ *
+ * Devuelve { datos, motivo, muestra }. `datos` es null si no se pudo.
+ */
 function extraerJSON(texto) {
-  const m = texto.match(/\{[\s\S]*\}/);
-  if (!m) return null;
-  try {
-    return JSON.parse(m[0]);
-  } catch {
-    return null;
+  const bruto = String(texto ?? '');
+  const muestra = bruto.slice(0, 400);
+  if (!bruto.trim()) return { datos: null, motivo: 'respuesta vacía', muestra };
+
+  // Pasada 1: el bloque equilibrado por llaves desde la primera `{`. A
+  // diferencia de la expresión golosa, esto corta en la llave que de verdad
+  // cierra, así que se traga la cháchara de después («Aquí tienes el JSON:»).
+  const bloque = bloqueEquilibrado(bruto);
+  if (bloque) {
+    try {
+      return { datos: JSON.parse(bloque), motivo: '', muestra };
+    } catch {
+      /* se sigue intentando */
+    }
   }
+
+  // Pasada 2: tal cual, por si viene limpio y la pasada 1 se confundió.
+  try {
+    return { datos: JSON.parse(bruto.trim()), motivo: '', muestra };
+  } catch {
+    /* se sigue intentando */
+  }
+
+  // Pasada 3: respuesta truncada. Se cierran las comillas y los corchetes que
+  // quedaron abiertos y se tira la última pareja clave/valor a medias. Rescata
+  // lo que llegó entero; si el cuerpo venía a medias, el control de calidad de
+  // quien llama lo rechazará igual.
+  const remendado = remendarTruncado(bruto);
+  if (remendado) {
+    try {
+      return { datos: JSON.parse(remendado), motivo: 'respuesta truncada, remendada', muestra };
+    } catch {
+      /* nada que hacer */
+    }
+  }
+
+  // El diagnóstico tiene que ser verdad. Un motivo equivocado manda a mirar
+  // donde no es, que es peor que no decir nada.
+  let pista;
+  if (!bruto.includes('{')) pista = 'la respuesta no traía ningún JSON';
+  else if (/\}\s*$/.test(bruto.trim())) pista = 'JSON mal formado (probablemente una comilla recta sin escapar dentro de un texto)';
+  else pista = 'JSON incompleto (probablemente cortado por max_tokens: súbelo en ingesta.maxTokensTraduccion)';
+  return { datos: null, motivo: pista, muestra };
+}
+
+/** El primer objeto `{...}` equilibrado, respetando comillas y escapes. */
+function bloqueEquilibrado(t) {
+  const i = t.indexOf('{');
+  if (i < 0) return null;
+  let prof = 0;
+  let enCadena = false;
+  let escapado = false;
+  for (let k = i; k < t.length; k++) {
+    const ch = t[k];
+    if (escapado) { escapado = false; continue; }
+    if (ch === '\\') { escapado = true; continue; }
+    if (ch === '"') { enCadena = !enCadena; continue; }
+    if (enCadena) continue;
+    if (ch === '{') prof++;
+    else if (ch === '}') { prof--; if (prof === 0) return t.slice(i, k + 1); }
+  }
+  return null;
+}
+
+/** Cierra lo que quedó abierto en una respuesta cortada a medias. */
+function remendarTruncado(t) {
+  const i = t.indexOf('{');
+  if (i < 0) return null;
+  let s = t.slice(i);
+  const pila = [];
+  let enCadena = false;
+  let escapado = false;
+  for (const ch of s) {
+    if (escapado) { escapado = false; continue; }
+    if (ch === '\\') { escapado = true; continue; }
+    if (ch === '"') { enCadena = !enCadena; continue; }
+    if (enCadena) continue;
+    if (ch === '{' || ch === '[') pila.push(ch);
+    else if (ch === '}' || ch === ']') pila.pop();
+  }
+  if (enCadena) s += '"';
+  // Fuera la coma o la clave suelta del final.
+  s = s.replace(/,\s*$/, '').replace(/,\s*"[^"]*"\s*:?\s*$/, '');
+  while (pila.length) s += pila.pop() === '{' ? '}' : ']';
+  return s;
 }
 
 /** Plan B sin IA: titular original + primeras frases + enlace. Honesto y legal. */
@@ -126,8 +227,11 @@ Si el texto de partida es demasiado pobre para escribir con rigor, devuelve "tit
 
     const data = await res.json();
     const texto = (data.content ?? []).map((b) => b.text ?? '').join('');
-    const j = extraerJSON(texto);
-    if (!j || !j.titular) return resumenExtractivo(item, concejo);
+    const { datos: j, motivo } = extraerJSON(texto);
+    if (!j || !j.titular) {
+      if (motivo) console.warn(`  ⚠︎ redactor: ${motivo} — uso resumen extractivo`);
+      return resumenExtractivo(item, concejo);
+    }
 
     return {
       titular: String(j.titular).trim(),
@@ -213,8 +317,8 @@ donde "indice" es el número del titular de la lista de arriba.`;
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    const j = extraerJSON((data.content ?? []).map((b) => b.text ?? '').join(''));
-    if (!j?.puntos?.length) throw new Error('respuesta vacía');
+    const { datos: j, motivo } = extraerJSON((data.content ?? []).map((b) => b.text ?? '').join(''));
+    if (!j?.puntos?.length) throw new Error(motivo || 'respuesta vacía');
     return j.puntos
       .map((p) => {
         const pieza = piezas[Number(p.indice) - 1];
@@ -302,6 +406,10 @@ CÓMO SE TRADUCE
 - Fiesta de Interés Turístico Nacional: es una distinción oficial española. Se traduce la
   categoría entre paréntesis la primera vez y se deja el nombre oficial en español.
 - Unidades: los euros se quedan en euros. Nada de convertir divisas.
+- COMILLAS. Dentro del texto traducido usa SIEMPRE comillas tipográficas de la
+  lengua de destino («» en francés, “” en inglés y «» o „“ en alemán) y NUNCA la
+  comilla recta ("). La comilla recta rompe el JSON si no se escapa, y cuando se
+  rompe la pieza se queda sin traducir y hay que pagarla otra vez.
 - Si un campo viene vacío o nulo, devuélvelo igual de vacío o nulo. No lo rellenes.
 
 PIEZA (JSON):
@@ -335,8 +443,27 @@ Devuelve SOLO un objeto JSON con esta forma exacta, sin texto alrededor:
       return {};
     }
     const data = await res.json();
-    const j = extraerJSON((data.content ?? []).map((b) => b.text ?? '').join(''));
-    if (!j) return {};
+    const texto = (data.content ?? []).map((b) => b.text ?? '').join('');
+    const { datos: j, motivo, muestra } = extraerJSON(texto);
+
+    // Si la respuesta se cortó, el propio servicio lo dice. Vale más saberlo
+    // que deducirlo: con `end_turn` el problema es el formato, con `max_tokens`
+    // es el tamaño y se arregla subiendo `maxTokensTraduccion` en config.
+    if (data.stop_reason && data.stop_reason !== 'end_turn') {
+      console.warn(`  ⚠︎ traductor: el servicio paró por «${data.stop_reason}»`);
+    }
+
+    if (!j) {
+      // ESTO ES LO QUE ANTES SE CALLABA. Dos piezas llevaban desde el 29 de
+      // septiembre fallando aquí sin que nadie pudiera saber por qué, y cada
+      // reintento se pagaba. Ahora la próxima ejecución lo cuenta.
+      console.warn(`  ⚠︎ traductor: ${motivo}`);
+      console.warn(`     lo que llegó: ${muestra.replace(/\s+/g, ' ').slice(0, 220)}…`);
+      if (process.env.GITHUB_ACTIONS) {
+        console.log(`::warning title=Traducción ilegible::${motivo}. Pieza: ${String(pieza.titular).slice(0, 70)}`);
+      }
+      return {};
+    }
 
     const limpio = {};
     for (const codigo of ['en', 'fr', 'de']) {

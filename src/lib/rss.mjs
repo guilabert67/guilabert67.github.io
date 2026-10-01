@@ -58,7 +58,12 @@ function fechaDe(bloque) {
     etiqueta(bloque, 'updated') ||
     etiqueta(bloque, 'dc:date');
   const d = bruto ? new Date(bruto) : null;
-  return d && !Number.isNaN(d.getTime()) ? d.toISOString() : new Date().toISOString();
+  // Si el canal no da fecha usable se sella con la de hoy, porque el resto del
+  // sistema necesita una fecha. Pero eso convierte una pieza vieja en «de hoy»,
+  // así que la marca queda a la vista en `sinFecha` y la ingesta la cuenta.
+  return d && !Number.isNaN(d.getTime())
+    ? { fecha: d.toISOString(), sinFecha: false }
+    : { fecha: new Date().toISOString(), sinFecha: true };
 }
 
 /** Convierte el XML de un feed RSS o Atom en una lista de objetos planos. */
@@ -77,7 +82,7 @@ export function parsearFeed(xml, origen = '') {
     return {
       titulo: sinHtml(etiqueta(bloque, 'title')),
       enlace: enlace.trim(),
-      fecha: fechaDe(bloque),
+      ...fechaDe(bloque),
       resumenOriginal: sinHtml(cuerpo).slice(0, 2400),
       imagen: imagenDe(bloque),
       categorias: [...bloque.matchAll(/<category[^>]*>([\s\S]*?)<\/category>/gi)].map((m) =>
@@ -86,6 +91,20 @@ export function parsearFeed(xml, origen = '') {
       origen,
     };
   });
+}
+
+/**
+ * Un canal caído no puede pasar desapercibido.
+ *
+ * Antes esto era un `console.warn`: se quedaba DENTRO del registro de la
+ * ejecución, que nadie abre, y la edición salía en verde. Si un medio cambiara
+ * una URL o bloqueara el agente, La Prida dejaría de traer noticias de un
+ * concejo entero y no lo diría en ninguna parte. `::warning title=…::` sale en
+ * la lista de ejecuciones de Actions, a la vista, sin abrir nada.
+ */
+function gritar(mensaje) {
+  console.warn(`  ⚠︎ ${mensaje}`);
+  if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Canal caído::${mensaje}`);
 }
 
 /** Descarga un feed y lo parsea. Nunca lanza: devuelve [] si algo falla. */
@@ -103,12 +122,12 @@ export async function leerFeed(url, origen = '', { timeoutMs = 20000 } = {}) {
     });
     clearTimeout(t);
     if (!res.ok) {
-      console.warn(`  ⚠︎ ${origen || url}: HTTP ${res.status}`);
+      gritar(`${origen || url}: HTTP ${res.status}. Ese canal no ha aportado nada a esta edición.`);
       return [];
     }
     return parsearFeed(await res.text(), origen || new URL(url).hostname);
   } catch (err) {
-    console.warn(`  ⚠︎ ${origen || url}: ${err.message}`);
+    gritar(`${origen || url}: ${err.message}. Ese canal no ha aportado nada a esta edición.`);
     return [];
   }
 }
