@@ -6,10 +6,18 @@
 //
 // POLÍTICA DE LICENCIAS — no se toca sin pensarlo dos veces.
 //
-// SOLO dominio público y CC0. Nada de CC BY ni CC BY-SA: son legales citando al
-// autor, pero arrastran condiciones (y la SA, además, sobre obras derivadas), y
-// este diario no puede permitirse un lío de derechos por una foto de relleno.
-// CC0 y dominio público no piden permiso, ni cita, ni condiciones de ningún tipo.
+// ENTRA: dominio público, CC0, CC BY y CC BY-SA. Las dos últimas son gratis y
+// perfectamente legales; lo único que exigen es CITAR BIEN, y eso se hace: autor,
+// nombre de la licencia, ENLACE para poder leerla, origen y aviso de que la foto
+// se ha redimensionado. Es lo que hace cualquier medio que usa Wikimedia Commons.
+//
+// NO ENTRA, y conviene entender por qué:
+//   · NC (no comercial) — el diario llevará publicidad, así que es uso comercial.
+//   · ND (sin obra derivada) — las fotos se redimensionan a 1600 px, y eso ya es
+//     tocar la obra.
+//
+// La comprobación se aplica también a lo ya guardado: si un día entra algo que no
+// cumple, se retira solo en la edición siguiente.
 //
 // El crédito se guarda igual en content/fotos/creditos.json y se muestra al pie
 // de cada foto. La licencia no lo exige; se hace porque es lo correcto.
@@ -219,12 +227,39 @@ async function conTiempo(url, opciones = {}, ms = 25000) {
 }
 
 /** Openverse, filtrando a cc0 + dominio público. */
+/**
+ * Openverse devuelve el código pelado —`by-sa`, `by`, `cc0`, `pdm`— mientras que
+ * el resto del programa espera el nombre canónico («CC BY-SA 3.0», «CC0»,
+ * «Dominio público»), que es lo que manda Wikimedia Commons.
+ *
+ * SIN ESTO, AMPLIAR LA BÚSQUEDA SERÍA UN FALLO LEGAL, no una mejora: una CC BY-SA
+ * entraría como «BY-SA», que no empieza por «cc», así que
+ *   · `licenciaVale()` la daría por NO válida y la limpieza la retiraría en la
+ *     pasada siguiente —descarga y trabajo tirados—, y
+ *   · `urlDeLicencia()` y `pideAtribucion()` fallarían igual, de modo que mientras
+ *     tanto la foto se publicaría SIN enlace a su licencia y sin marcar que pide
+ *     atribución. Y poder leer la licencia es justo lo que CC BY exige.
+ */
+function nombreDeLicenciaOpenverse(codigo, version) {
+  const c = String(codigo ?? '').toLowerCase().trim();
+  const v = String(version ?? '').trim();
+  if (c === 'cc0') return 'CC0';
+  if (c === 'pdm') return 'Dominio público';
+  if (c === 'by' || c === 'by-sa') return `CC ${c.toUpperCase()}${v ? ` ${v}` : ''}`;
+  return c.toUpperCase();
+}
+
 async function buscarOpenverse(q) {
   const url =
     'https://api.openverse.org/v1/images/?' +
     new URLSearchParams({
       q,
-      license: 'cc0,pdm',
+      // Ampliado el 1/10/2026. Pedía solo 'cc0,pdm' aunque el filtro de licencias
+      // ya aceptaba CC BY y CC BY-SA desde hacía tiempo: se amplió la política y
+      // no se amplió la consulta, así que Openverse —el agregador grande— nunca
+      // llegaba a ofrecer una foto con atribución. Medido en la misma búsqueda:
+      // «sidra asturias» pasaba de 1 resultado a 20.
+      license: 'cc0,pdm,by,by-sa',
       size: 'large',
       mature: 'false',
       page_size: '8',
@@ -238,14 +273,19 @@ async function buscarOpenverse(q) {
       descarga: r.url,
       autor: nombreDeAutor(r.creator),
       pie: r.title || '',
-      licencia: (r.license || '').toUpperCase(),
+      licencia: nombreDeLicenciaOpenverse(r.license, r.license_version),
+      // Openverse da la dirección de la licencia; si faltara, se deduce del nombre.
+      licenciaUrl:
+        r.license_url || urlDeLicencia(nombreDeLicenciaOpenverse(r.license, r.license_version)),
+      atribucion: pideAtribucion(nombreDeLicenciaOpenverse(r.license, r.license_version)),
+      redimensionada: true,
       origen: r.foreign_landing_url || r.url,
       fuente: r.source || 'Openverse',
       etiquetas: (r.tags ?? []).map((t) => t.name ?? t).filter(Boolean),
     }));
 }
 
-/** Wikimedia Commons, quedándonos solo con dominio público y CC0. */
+/** Wikimedia Commons, filtrado por `licenciaVale`: dominio público, CC0, CC BY y CC BY-SA. */
 async function buscarCommons(q) {
   const url =
     'https://commons.wikimedia.org/w/api.php?' +
