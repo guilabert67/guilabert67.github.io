@@ -1,9 +1,19 @@
 {
-  "fecha": "2026-09-30T16:03:40.313Z",
+  "fecha": "2026-10-01T07:39:19.504Z",
   "puntos": [
     {
       "concejo": "Cabrales",
-      "frase": "El jueves 3 de octubre, la carretera a Sotres cierra una hora por obras en Camarmeña.",
+      "frase": "Muere un montañero británico de 28 años al caer del Torrecerredo.",
+      "enlace": "/cabrales/muere-un-montanero-de-28-anos-tras-caer-60-metros-cuando-descendia-del/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Festival de la Manzana de Villaviciosa ya es Fiesta de Interés Turístico Nacional.",
+      "enlace": "/villaviciosa/el-festival-de-la-manzana-de-villaviciosa-recibe-el-titulo-de-fiesta-d/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "La carretera a Sotres cortará el 3 de octubre durante una hora por obras.",
       "enlace": "/cabrales/corte-total-en-la-as-264-en-cabrales-por-obras-en-la-central-hidraulic/"
     }
   ]
