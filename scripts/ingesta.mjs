@@ -57,6 +57,27 @@ const slug = (s) =>
 
 const idDe = (item) => slug(`${item.titulo}`) || slug(item.enlace);
 
+// La identidad para DEDUPLICAR no puede ser el titular.
+//
+// El mismo artículo de un medio entra por varios feeds a la vez —«El Fielato» y
+// «<concejo> · feed propio»— y cada feed lo titula distinto: «Cien años en
+// Coru-Villaviciosa» en uno y «Cien años en Coru» en el otro. Dos titulares, dos
+// slugs, dos id: el filtro no saltaba nunca y la misma noticia salía dos veces.
+// El 29/09/2026 había 20 URLs repetidas entre 106 piezas.
+//
+// Lo que no cambia entre feeds es la URL de origen, así que se deduplica por
+// ella. `idDe` se queda como está a propósito: de ahí sale la dirección pública
+// de cada artículo (/concejo/id/) y cambiarla rompería todo lo ya publicado.
+const claveFuente = (url) => {
+  if (!url) return '';
+  try {
+    const u = new URL(url);
+    return (u.host.replace(/^www\./, '') + u.pathname.replace(/\/+$/, '')).toLowerCase();
+  } catch {
+    return String(url).trim().toLowerCase().replace(/^https?:\/\/(www\.)?/, '').replace(/\/+$/, '');
+  }
+};
+
 async function leerJSON(archivo, porDefecto) {
   try {
     return JSON.parse(await fs.readFile(path.join(DATOS, archivo), 'utf8'));
@@ -198,7 +219,17 @@ async function main() {
     console.log(`  ${guardadas.length - previas.length} piezas antiguas retiradas del archivo.\n`);
   }
   const conocidas = new Set(previas.map((p) => p.id));
+  // Las URL de origen ya publicadas. Va aparte de `conocidas` porque el mismo
+  // artículo puede estar guardado con otro titular, y por tanto con otro id.
+  const fuentesConocidas = new Set(
+    previas.map((p) => claveFuente(p.fuente?.url)).filter(Boolean)
+  );
   const limite = Date.now() - ingesta.diasDeVigencia * 86400000;
+
+  // Una misma URL no puede colarse dos veces ni aunque caiga en dos concejos
+  // distintos, así que este conjunto es de toda la pasada, no de cada concejo.
+  const fuentesDeEstaPasada = new Set();
+  let repetidas = 0;
 
   const candidatas = [];
   for (const c of concejos) {
@@ -209,13 +240,23 @@ async function main() {
       .filter((i) => new Date(i.fecha).getTime() > limite)
       .sort((a, b) => new Date(b.fecha) - new Date(a.fecha))
       .filter((i) => {
+        const clave = claveFuente(i.enlace);
+        if (clave && (fuentesDeEstaPasada.has(clave) || fuentesConocidas.has(clave))) {
+          repetidas++;
+          console.log(`  ⊘ ya publicada, misma fuente: ${i.titulo.slice(0, 66)}`);
+          return false;
+        }
         const id = idDe(i);
         if (vistas.has(id) || conocidas.has(id)) return false;
         vistas.add(id);
+        if (clave) fuentesDeEstaPasada.add(clave);
         return true;
       })
       .slice(0, ingesta.maxPorConcejo);
     candidatas.push(...lista.map((i) => ({ item: i, concejo: c })));
+  }
+  if (repetidas) {
+    console.log(`\n  ${repetidas} piezas descartadas por venir de una URL ya publicada.`);
   }
 
   console.log(`\n· ${candidatas.length} piezas nuevas para redactar\n`);
@@ -291,6 +332,57 @@ async function main() {
       console.log(`      demasiado pegado a la fuente: «${control.avisos[0] ?? ''}»`);
     } else {
       console.log(`  ✓ [${concejo.nombre}] ${red.titular}`);
+    }
+  }
+
+  // 3bis. Chequeo antes de publicar: ¿hay dos piezas contando lo mismo?
+  //
+  // La deduplicación por URL solo caza el mismo artículo repetido. No caza el
+  // mismo SUCESO contado por dos medios distintos, que tiene URL distinta: el
+  // montañero del Torrecerredo lo dieron RTPA y El Fielato el mismo día.
+  //
+  // Esto AVISA, no borra, y es a propósito. Midiendo palabras compartidas sobre
+  // las 106 piezas del 29/09/2026 salían también falsos positivos legítimos: las
+  // dos carreras del Sella son dos días distintos, y las dos del biogás son el
+  // anuncio y la crónica. Borrarlas automáticamente habría tirado noticias buenas.
+  const PALABRAS_VACIAS = new Set([
+    'para','como','tras','sobre','entre','desde','hasta','este','esta','anos','esto',
+    'que','del','los','las','una','unos','unas','con','por','sus','han','mas','muy',
+  ]);
+  const significativas = (txt) =>
+    new Set(
+      String(txt)
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9 ]/g, ' ')
+        .split(/\s+/)
+        .filter((w) => w.length > 3 && !PALABRAS_VACIAS.has(w))
+    );
+  const parecido = (a, b) => {
+    const A = significativas(a), B = significativas(b);
+    if (!A.size || !B.size) return 0;
+    let comunes = 0;
+    for (const w of A) if (B.has(w)) comunes++;
+    return comunes / new Set([...A, ...B]).size;
+  };
+  const sospechosas = [];
+  const paraRevisar = [...nuevas, ...previas];
+  for (let i = 0; i < paraRevisar.length; i++) {
+    for (let j = i + 1; j < paraRevisar.length; j++) {
+      const r = parecido(paraRevisar[i].titular, paraRevisar[j].titular);
+      if (r >= 0.4) sospechosas.push({ r, a: paraRevisar[i], b: paraRevisar[j] });
+    }
+  }
+  if (sospechosas.length) {
+    console.log(`\n⚠︎  ${sospechosas.length} pareja(s) que pueden contar lo mismo:`);
+    for (const { r, a, b } of sospechosas.sort((x, y) => y.r - x.r).slice(0, 12)) {
+      console.log(`   ${Math.round(r * 100)}%  «${a.titular.slice(0, 58)}»`);
+      console.log(`         «${b.titular.slice(0, 58)}»  [${a.fuente?.nombre} / ${b.fuente?.nombre}]`);
+    }
+    console.log('   No se borra ninguna: revísalas tú antes de darlas por buenas.');
+    if (process.env.GITHUB_ACTIONS) {
+      console.log(`::warning title=Posibles noticias repetidas::${sospechosas.length} parejas con más del 40 % de palabras en común`);
     }
   }
 

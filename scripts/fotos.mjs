@@ -48,7 +48,18 @@ const TEMAS = [
   [/\b(colegio|escolar|instituto)\b/i, 'escuela rural asturias'],
   [/\b(fútbol|liga|equipo|partido|cantera)\b/i, 'campo de futbol asturias'],
   [/\b(museo|exposición|patrimonio|románic\w+|iglesia)\b/i, 'iglesia asturias'],
-  [/\b(concierto|música|banda|verbena|romería)\b/i, 'gaita banda asturias'],
+  [/\b(concierto|música|banda|verbena|romería|gaita\w*|gaites|folixa|orquesta)\b/i, 'gaita banda asturias'],
+  // Añadidos el 01-10-2026, mirando las 35 piezas que no casaban con nada.
+  // Cada uno existe fotografiado EN ASTURIAS: si no, `esDeAqui` lo tiraría
+  // igual y la consulta solo gastaría tiempo. No se añaden temas abstractos
+  // —homenajes, convenios, subvenciones— porque no tienen sujeto visual y
+  // acabarían trayendo una foto del sitio, que es la comodín ya descartada.
+  [/\b(fiesta|fiestas|festejo\w*|certamen|pregón|pregoner\w+|carmen|sacramental)\b/i, 'fiesta romeria asturias'],
+  [/\b(asturcón|asturcones|yegua\w*|caballo\w*|poni\w*|raza parda|asturiana de los valles)\b/i, 'asturcon caballo asturias'],
+  [/\b(piragua\w*|canoa\w*|remo|descenso del sella|kayak)\b/i, 'piraguas sella asturias'],
+  [/\b(hórreo\w*|horreo\w*|panera\w*|casería|caserías|aldea\w*|vivienda rural)\b/i, 'horreo panera asturias'],
+  [/\b(covadonga|santuario|basílica|ermita|capilla)\b/i, 'santuario covadonga asturias'],
+  [/\b(cares|majada\w*|invernal\w*|braña\w*|refugio|montañer\w+|senderis\w+|ruta)\b/i, 'picos de europa asturias'],
   [/\b(río|caudal|pesca|salmón|sella|trucha)\b/i, 'rio sella asturias'],
   [/\b(playa|ría|marisma|rodiles|barco)\b/i, 'ria villaviciosa asturias'],
   [/\b(picos de europa|urriellu|cumbre|sotres|bulnes)\b/i, 'picos de europa asturias'],
@@ -105,7 +116,11 @@ const DE_AQUI = new RegExp(
  * El 23/9/2026 la portada llevaba una iglesia de Inguanzo sobre «Muere una
  * senderista noruega de 71 años». Estas piezas se quedan sin fotografía.
  */
-const SIN_FOTO = /\b(muere|muerte|fallec\w+|falleci\w+|herid[oa]s?|grave|rescat\w+|accidente|siniestro|atropell\w+|incendio|desaparecid[oa]s?|precipit\w+|ahogad[oa]s?|suceso|víctima|funeral|esquela|luto)\b/i;
+// El 01-10-2026 se añadieron «arde», «quema» y «llamas»: «Un camión arde por
+// completo en la N-634» no llevaba ninguna de las palabras de esta lista, así
+// que no era delicada para el filtro y podía acabar ilustrada con una foto de
+// archivo del concejo. Lo mismo que pasó con la senderista y la iglesia.
+const SIN_FOTO = /\b(muere|muerte|fallec\w+|falleci\w+|herid[oa]s?|grave|rescat\w+|accidente|siniestro|atropell\w+|incendio|arde|ardió|ardiendo|quema\w*|llamas|desaparecid[oa]s?|precipit\w+|ahogad[oa]s?|suceso|víctima|funeral|esquela|luto)\b/i;
 
 const esDelicada = (pieza) =>
   SIN_FOTO.test(`${pieza.titular ?? ''} ${pieza.entradilla ?? ''}`);
