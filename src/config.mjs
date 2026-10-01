@@ -93,6 +93,23 @@ export const anuncios = {
   // Mientras esté apagado los huecos se ven como recuadros discretos, que sirven de
   // muestra para enseñárselos a un anunciante.
   activo: false,
+
+  // ¿Se comercializa la publicidad AHORA MISMO?
+  //
+  // Puesto en false el 1/10/2026. El diario no ha facturado nunca, pero la
+  // página «Anúnciate» ofrecía tarifas con precios, y ofrecer un servicio a
+  // cambio de dinero es lo que mete el proyecto en zona gris mientras no estén
+  // hechos los trámites (alta censal, y lo que diga el gestor sobre autónomos).
+  // Como no se estaba vendiendo nada, quitar la oferta no cuesta nada y cierra
+  // la duda.
+  //
+  // La página NO desaparece: sigue contando qué es La Prida y recoge el interés
+  // de quien quiera anunciarse, para avisarle cuando se abra. Así no se pierde
+  // ni el posicionamiento ni los interesados.
+  //
+  // Para volver a vender: poner esto en true. Vuelven los precios y el «cómo se
+  // contrata» solos, sin tocar nada más.
+  seVende: false,
   adsense: {
     cliente: '', // 'ca-pub-0000000000000000'
     slots: {
@@ -178,18 +195,39 @@ export const afiliados = {
 };
 
 // ── Titularidad ─────────────────────────────────────────────────────────────
-// OBLIGATORIO Y SIN EXCUSA. La LSSI (art. 10) exige que un sitio con actividad
-// económica publique quién está detrás: nombre o razón social, NIF y domicilio,
-// de forma permanente y accesible. Y el RGPD exige saber quién es el responsable
-// del tratamiento de datos. Un correo de contacto NO basta para ninguna de las dos.
+// QUIÉN ESTÁ DETRÁS DEL DIARIO.
+//
+// Comprobado en las preguntas frecuentes oficiales de la LSSI
+// (lssi.digital.gob.es) el 29/09/2026. Dos cosas que conviene tener claras,
+// porque la versión anterior de este comentario las decía mal:
+//
+// 1. EL DISPARADOR ES COBRAR, NO OFRECER. Una web es «actividad económica»
+//    para su titular «cuando éste percibe ingresos directos o indirectos (por
+//    publicidad, patrocinio, etc.)». Con cero ingresos la obligación del
+//    artículo 10 NO ha nacido. Nace con el primer euro, por pequeño que sea.
+//    Tener una página de tarifas sin cobrar aún es zona gris: lo barato es
+//    rellenar esto y dejar de pensar en ello.
+//
+// 2. NO HAY QUE PUBLICAR LA CALLE Y EL NÚMERO. Para una web personal con
+//    publicidad, lo exigido es nombre, NIF, correo y domicilio «indicando, AL
+//    MENOS, la localidad y provincia de residencia». O sea: «Infiesto
+//    (Asturias)» cumple. Esto es lo que frena a casi todo el mundo y resulta
+//    que no hacía falta.
+//
+// El RGPD es otra obligación distinta y más suave: para identificar al
+// responsable basta nombre y un medio de contacto. No exige NIF ni domicilio.
 //
 // Mientras esto esté vacío, el aviso legal lo dice en voz alta en vez de fingir
-// que está completo, y la compilación saca un aviso en la pestaña Actions. Es
-// preferible reconocer una falta a taparla: lo segundo es lo que multan.
+// que está completo, y la compilación avisa en la pestaña Actions. Reconocer
+// una falta siempre es mejor que taparla.
+//
+// Para rellenarlo solo hacen falta tres datos. Escríbelos entre las comillas:
 export const titular = {
-  nombre: '',    // nombre y apellidos, o razón social
-  nif: '',       // NIF o CIF
-  domicilio: '', // domicilio a efectos de notificaciones
+  nombre: 'Emilio López Guilabert',
+  nif: '51387142J',
+  // Concejo y provincia. La LSSI pide el domicilio «indicando, AL MENOS, la
+  // localidad y provincia», así que esto cumple y no publica la calle.
+  domicilio: 'Piloña (Asturias)',
   correo: 'laprida.asturias@gmail.com',
 };
 
@@ -212,7 +250,15 @@ export const concejos = [
     letra: 'P',
     emoji: '🌰',
     lema: 'Del Sella arriba, con Infiesto en medio',
-    feeds: ['https://www.elfielato.es/rss/pilona/'],
+    feeds: [
+      'https://www.elfielato.es/rss/pilona/',
+      // La Benéfica de Infiesto. Añadido el 29/09/2026: es el equipamiento
+      // cultural del concejo y publica su propia agenda (cine, folclore,
+      // talleres, mercáu d'arte). Piloña era el concejo con la fuente más seca
+      // —El Fielato llevaba desde el 22 de septiembre sin publicar nada de
+      // allí— y esto es información de primera mano, no refrito.
+      'https://labenefica.org/feed/',
+    ],
     web: 'https://www.ayto-pilona.es/noticias',
     claves: [
       'piloña', 'pilona', 'infiesto', 'infiestu', 'sevares', 'villamayor', 'espinaredo', 'borines',
@@ -302,7 +348,13 @@ export const concejos = [
     letra: 'CL',
     emoji: '⛰️',
     lema: 'Donde el mapa se pone vertical',
-    feeds: ['https://www.elfielato.es/rss/cabrales/'],
+    feeds: [
+      'https://www.elfielato.es/rss/cabrales/',
+      // Sección de Cabrales de COPE Ribadesella. Comprobado el 29/09/2026:
+      // canal por concejo, vivo, y trae los rescates de Picos que son el grueso
+      // de lo que se publica de aquí.
+      'https://coperibadesella.com/seccion/comarca/cabrales/feed/',
+    ],
     web: 'https://www.cabrales.es/noticias',
     claves: [
       'cabrales', 'carreña', 'carrena', 'arenas de cabrales', 'poncebos', 'bulnes', 'sotres',
@@ -319,6 +371,12 @@ export const concejos = [
       'canales de cabrales',
       'puertas de cabrales',
       'cares',
+      // Añadidos el 29/09/2026: aparecían en titulares reales de rescates que
+      // el filtro estaba dejando fuera. Son cumbres del macizo central de los
+      // Picos, en Cabrales, y sus nombres no se dan en ningún otro concejo,
+      // así que no pueden provocar falsos positivos.
+      'torrecerredo',
+      'urriellu',
     
       'beceña','becena','la caballar','queso de cabrales','queserías de cabrales',
       'queserias de cabrales','denominación de origen cabrales','picu urriellu','naranjo de bulnes',
@@ -398,6 +456,42 @@ export const fuentesRegionales = [
   { nombre: 'El Fielato · Deportes', url: 'https://www.elfielato.es/rss/deportes/', tipo: 'rss' },
   { nombre: 'RTPA', url: 'http://www.rtpa.es/rss', tipo: 'rss' },
   { nombre: 'AsturiasMundial', url: 'https://www.asturiasmundial.com/rss', tipo: 'rss' },
+  // Añadido el 29/09/2026. La Prida dependía de un solo medio para los cinco
+  // concejos y ese medio llevaba días sin publicar nada de cuatro de ellos:
+  // Piloña desde el 22, Cabranes desde el 19, Nava desde el 15. No fallaba la
+  // ingesta, faltaban fuentes. COPE Ribadesella cubre la comarca entera a
+  // diario —incluidos Piloña y Cabrales— y el filtro por topónimos ya se
+  // encarga de quedarse solo con lo de casa.
+  { nombre: 'COPE Ribadesella', url: 'https://coperibadesella.com/feed/', tipo: 'rss' },
+
+  // ---- Barrido sistemático de fuentes, 29/09/2026 ----
+  // Todas comprobadas una a una: canal válido, con items y con fecha reciente.
+  // Ninguna se añade "porque debería funcionar".
+  //
+  // ENCAJE LEGAL: son canales RSS públicos. La Prida toma titular y entradilla,
+  // reescribe con criterio propio, atribuye el medio y enlaza al original —
+  // exactamente lo mismo que ya hace con El Fielato y AsturiasMundial. Que el
+  // medio tenga muro de pago en su web no cambia nada: lo que se usa es lo que
+  // el propio medio publica abierto en su canal para que se sindique.
+
+  // La mejor del lote: 129 piezas, 35 de los cinco concejos (Cabrales sobre
+  // todo, que es el que peor cubría El Fielato).
+  { nombre: 'El Comercio · Oriente', url: 'https://www.elcomercio.es/rss/2.0/?section=/asturias/oriente', tipo: 'rss' },
+  // Canal monográfico de un concejo entero.
+  { nombre: 'El Comercio · Villaviciosa', url: 'https://www.elcomercio.es/rss/2.0/?section=/area-metropolitana-asturias/villaviciosa', tipo: 'rss' },
+  // Diario y fresco, pero solo 10 piezas en el canal: si un día no se mira, se
+  // pierde. Con seis ediciones al día no debería pasar.
+  { nombre: 'La Nueva España · Oriente', url: 'https://www.lne.es/rss/section/3022', tipo: 'rss' },
+  // Revista de cultura sidrera: Nava y Villaviciosa de lleno.
+  { nombre: 'La Sidra', url: 'https://www.lasidra.net/es/feed/', tipo: 'rss' },
+
+  // TRAMPA COMPROBADA, NO CAER EN ELLA: La Nueva España sí tiene canales por
+  // concejo (lne.es/rss/section/1762407 Piloña, 1766493 Nava, 1769636 Cabranes,
+  // 1724674 Cabrales, 1730973 Villaviciosa). Devuelven XML válido y parecen
+  // perfectos, pero están CONGELADOS: alimentaban la serie «Asturianos» de
+  // 2022-23 y su última pieza es de julio de 2022 a enero de 2023. Un canal
+  // válido y muerto es peor que uno caído, porque no da error.
+
   { nombre: 'elDiario.es Asturias', url: 'https://www.eldiario.es/rss/asturias/', tipo: 'rss' },
 ];
 
@@ -724,7 +818,11 @@ export const frescura = {
 };
 
 export const ingesta = {
-  maxPorConcejo: 12,       // piezas que se guardan por concejo en cada pasada
+  maxPorConcejo: 12,
+  // Días sin nada nuevo en origen tras los cuales la ingesta avisa de que la
+  // fuente de un concejo se ha secado. Tres semanas: Cabranes publica del orden
+  // de una pieza al mes y un umbral corto haría que el aviso saltara siempre.
+  diasParaFuenteSeca: 21,       // piezas que se guardan por concejo en cada pasada
   diasDeVigencia: 90,      // en concejos pequeños hay semanas sin noticias: conviene ser generoso
   reescribir: true,        // false = solo agregador (titular + extracto + enlace)
 
