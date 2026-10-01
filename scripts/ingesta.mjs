@@ -136,6 +136,74 @@ async function tiempoDelDia() {
     : null;
 }
 
+/** Guarda cuántas piezas trajo un canal y cuál es la más reciente de verdad. */
+function anotarSalud(fila, items) {
+  if (!fila) return;
+  fila.leidas += items.length;
+  for (const i of items) {
+    // Las piezas sin fecha en origen se sellan con la de hoy: si contaran aquí,
+    // un canal muerto parecería vivo. Justo lo que este informe evita.
+    if (i.sinFecha) continue;
+    if (!fila.ultima || i.fecha > fila.ultima) fila.ultima = i.fecha;
+  }
+}
+
+/**
+ * Informe de salud de las fuentes.
+ *
+ * POR QUÉ EXISTE. El 29/09/2026 se perdió media jornada —y dos conversaciones—
+ * discutiendo si «la ingesta estaba rota». No lo estaba: traía todo lo que
+ * había. Lo que pasaba es que los cinco concejos bebían de un solo medio y ese
+ * medio llevaba días sin publicar nada de cuatro de ellos: Piloña desde el 22,
+ * Cabranes desde el 19, Nava desde el 15. Nada en el sistema lo decía, así que
+ * la única forma de saberlo era ir a mano, canal por canal.
+ *
+ * Un canal que se seca es indistinguible de uno roto si nadie mira. Esto los
+ * distingue solos, en la lista de Actions y sin abrir el registro.
+ */
+function informeDeFuentes(salud, sinFecha) {
+  // Tres semanas, no doce días. Cabranes publica del orden de una pieza al mes:
+  // con el umbral corto el aviso saltaría casi siempre y acabaría ignorándose,
+  // que es la peor avería que puede tener un aviso. Se ajusta en `ingesta`.
+  const DIAS_SECO = ingesta.diasParaFuenteSeca ?? 21;
+  const ahora = Date.now();
+  const secos = [];
+
+  console.log('\n· Salud de las fuentes');
+  for (const f of salud.values()) {
+    if (!f.ultima) {
+      // Cero piezas fechadas: o el canal está caído —y `leerFeed` ya habrá
+      // gritado «Canal caído»— o lleva tanto sin publicar que no queda ni una.
+      console.log(`    ${f.nombre.padEnd(14)} ni una pieza fechada`);
+      secos.push(`${f.nombre} (ni una pieza)`);
+      continue;
+    }
+    const dias = Math.floor((ahora - Date.parse(f.ultima)) / 86400000);
+    console.log(
+      `    ${f.nombre.padEnd(14)} ${String(f.deCasa).padStart(3)} de casa de ${String(f.leidas).padStart(3)} leídas` +
+        ` · lo más nuevo en origen: hace ${dias} día${dias === 1 ? '' : 's'}${dias >= DIAS_SECO ? '  ← seco' : ''}`
+    );
+    if (dias >= DIAS_SECO) secos.push(`${f.nombre} (${dias} días)`);
+  }
+
+  if (sinFecha) {
+    const m = `${sinFecha} pieza(s) llegaron sin fecha en origen y se han sellado con la de hoy. Si se repite, ese canal da mal la fecha.`;
+    console.log(`\n  ⚠︎ ${m}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Piezas sin fecha::${m}`);
+  }
+
+  if (secos.length) {
+    const m =
+      `Sin noticias nuevas en origen desde hace ${DIAS_SECO}+ días: ${secos.join(', ')}. ` +
+      'Esto NO significa que la ingesta esté rota: trae todo lo que hay. Significa que la fuente no ' +
+      'publica, o que el canal ha dejado de responder. Si se mantiene, ese concejo necesita otra fuente.';
+    console.log(`\n  ⚠︎ ${m}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Fuente seca::${m}`);
+  } else {
+    console.log('\n  Todos los concejos con noticias recientes en origen.');
+  }
+}
+
 async function main() {
   console.log('☕ La Prida — ingesta\n');
   await fs.mkdir(DATOS, { recursive: true });
@@ -149,14 +217,20 @@ async function main() {
   // pieza —venga del feed que venga— tiene que nombrar el concejo o alguno de
   // sus pueblos. Si de un titular no se puede decir dónde ha pasado, no entra.
   let descartadas = 0;
+  const salud = new Map(concejos.map((c) => [c.slug, { nombre: c.nombre, leidas: 0, deCasa: 0, ultima: null }]));
+  let sinFecha = 0;
+
   for (const c of concejos) {
     console.log(`· ${c.nombre}`);
     for (const url of c.feeds) {
       const items = await leerFeed(url, `${c.nombre} · feed propio`);
+      anotarSalud(salud.get(c.slug), items);
+      sinFecha += items.filter((i) => i.sinFecha).length;
       const suyas = items.filter(
         (i) => mencionaConcejo(i, c, { usarEnlace: false }) && !esResumenRegional(i, otrosLugares)
       );
       porConcejo.get(c.slug).push(...suyas);
+      salud.get(c.slug).deCasa += suyas.length;
       const fuera = items.length - suyas.length;
       descartadas += fuera;
       console.log(
@@ -172,11 +246,15 @@ async function main() {
   console.log('\n· Fuentes regionales (se filtran por topónimos)');
   for (const f of fuentesRegionales) {
     const items = await leerFeed(f.url, f.nombre);
+    sinFecha += items.filter((i) => i.sinFecha).length;
     let colocadas = 0;
     for (const item of items) {
       for (const c of concejos) {
         if (mencionaConcejo(item, c) && !esResumenRegional(item, otrosLugares)) {
           porConcejo.get(c.slug).push(item);
+          // Una regional que habla del concejo también es señal de que hay vida.
+          anotarSalud(salud.get(c.slug), [item]);
+          salud.get(c.slug).deCasa++;
           colocadas++;
           break;
         }
@@ -188,6 +266,7 @@ async function main() {
   if (descartadas) {
     console.log(`\n  ${descartadas} piezas descartadas por no ser de los cinco concejos.`);
   }
+  informeDeFuentes(salud, sinFecha);
 
   // 2. Deduplicar contra lo ya publicado
   //
