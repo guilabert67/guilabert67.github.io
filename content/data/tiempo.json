@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T06:18:00.614Z",
+  "actualizado": "2026-10-02T13:11:46.209Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -27,7 +27,7 @@
       "lluvia": 0
     },
     "villaviciosa": {
-      "max": 23,
+      "max": 22,
       "min": 11,
       "estado": "Nuboso",
       "lluvia": 0

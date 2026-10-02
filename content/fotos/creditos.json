@@ -351,5 +351,65 @@
     "fuente": "wikimedia",
     "pie": "6ª QDD Internacional En Piloña (Asturias) (15153384212)",
     "consulta": "picos de europa asturias Piloña"
+  },
+  "flor-rapera": {
+    "archivo": "flor-rapera.jpg",
+    "autor": "Ricardo Yagüe",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Fiesta_del_Asturcon_2016_(majada_de_Espineres)_Pilo%C3%B1a-Asturias_02.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Fiesta del Asturcon 2016 (majada de Espineres) Piloña-Asturias 02",
+    "consulta": "gaita banda asturias Piloña"
+  },
+  "villaviciosa-rinde-un-homenaje-al-mundo-rural-con-un-nuevo-banco-escul": {
+    "archivo": "villaviciosa-rinde-un-homenaje-al-mundo-rural-con-un-nuevo-banco-escul.jpg",
+    "autor": "Manuel M",
+    "licencia": "CC BY 2.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Santa_Mar%C3%ADa_de_la_Oliva_(Villaviciosa,_Asturias)_01.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Santa María de la Oliva (Villaviciosa, Asturias) 01",
+    "consulta": "iglesia asturias Villaviciosa"
+  },
+  "riu-fontoria-acerca-la-historia-de-vicenta-pelaez-al-publico-con-una-e": {
+    "archivo": "riu-fontoria-acerca-la-historia-de-vicenta-pelaez-al-publico-con-una-e.jpg",
+    "autor": "Zarateman",
+    "licencia": "CC BY-SA 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=27499625",
+    "fuente": "wikimedia",
+    "pie": "Infiesto - Iglesia de San Antonio de Padua 06",
+    "consulta": "iglesia asturias Piloña"
+  },
+  "cultura-financia-la-recuperacion-de-la-pista-polideportiva-de-arenas-y": {
+    "archivo": "cultura-financia-la-recuperacion-de-la-pista-polideportiva-de-arenas-y.jpg",
+    "autor": "Uviein",
+    "licencia": "CC0",
+    "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+    "atribucion": false,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=143984638",
+    "fuente": "wikimedia",
+    "pie": "Iglesia de la Santa Cruz (Inguanzo) 2",
+    "consulta": "iglesia asturias Cabrales"
+  },
+  "nueva-imagen-para-el-area-de-la-cueva-en-pilona": {
+    "archivo": "nueva-imagen-para-el-area-de-la-cueva-en-pilona.jpg",
+    "autor": "Rodelar",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=93716020",
+    "fuente": "wikimedia",
+    "pie": "Ayuntamiento de Infiesto",
+    "consulta": "casa consistorial asturias Piloña"
   }
 }
