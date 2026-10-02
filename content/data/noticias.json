@@ -8386,6 +8386,123 @@
     "trad": {}
   },
   {
+    "id": "wilkin-aquiles-gana-el-concurso-de-escanciadores-de-villaviciosa",
+    "url": "/villaviciosa/wilkin-aquiles-gana-el-concurso-de-escanciadores-de-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Wilkin Aquiles, mejor escanciador de Villaviciosa",
+    "entradilla": "Salvador Ondó y Jorge Vargas se subieron al podio tras él en un concurso que pone a prueba el arte del pitu.",
+    "cuerpo": [
+      "Wilkin Aquiles se llevó el primer puesto en el concurso de escanciadores celebrado en Villaviciosa. Por detrás quedaron Salvador Ondó, de sidrerías Tierra Astur, en segundo lugar, y Jorge Vargas, de La Montera Picona, en tercero.",
+      "Un podio con representación de dos de las casas de sidra más conocidas del concejo, y un ganador que demuestra que el buen escancio no entiende de apellidos de aquí."
+    ],
+    "apunte": "El brazo manda, la espuma confirma.",
+    "enVeinte": [
+      "Wilkin Aquiles ganó el concurso de escanciadores de Villaviciosa.",
+      "Salvador Ondó, de Tierra Astur, quedó segundo y Jorge Vargas, de La Montera Picona, tercero.",
+      "El certamen reúne a los mejores brazos del concejo para decidir quién sirve la sidra con más arte."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "escanciar",
+      "como": "es-can-CIAR, y al que lo hace se le llama escanciador",
+      "definicion": "Servir la sidra alzando la botella por encima de la cabeza y dejando caer el chorro hasta el vaso que se sostiene abajo, para que el líquido se airee y espume. En Asturias es un oficio con orgullo propio, y hacerlo bien lleva años de práctica."
+    },
+    "porQue": "Villaviciosa es tierra de manzana y de sidra, y un concurso así recuerda que el modo de servirla es parte del patrimonio del concejo, no solo la bebida en sí.",
+    "etiquetas": [
+      "escanciadores",
+      "sidra",
+      "Villaviciosa",
+      "concurso"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/15/v1-R5FWNC8PMBiD8SsE9NrBoaO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-15T21:15:17.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/wilkin-aquiles-gana-concurso-escanciadores-villaviciosa-20260915231517-nt.html",
+      "titularOriginal": "Wilkin Aquiles gana el concurso de escanciadores de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Wilkin Aquiles, best escanciador in Villaviciosa",
+        "entradilla": "Salvador Ondó and Jorge Vargas stepped onto the podium behind him in a contest that puts the art of the pitu to the test.",
+        "cuerpo": [
+          "Wilkin Aquiles took first place in the escanciadores contest held in Villaviciosa. Behind him came Salvador Ondó, from Tierra Astur cider houses, in second place, and Jorge Vargas, from La Montera Picona, in third.",
+          "A podium with representation from two of the best-known cider houses in the municipality, and a winner who proves that the art of escancio has nothing to do with local surnames."
+        ],
+        "apunte": "The arm commands, the foam confirms.",
+        "enVeinte": [
+          "Wilkin Aquiles won the escanciadores contest in Villaviciosa.",
+          "Salvador Ondó, from Tierra Astur, came second and Jorge Vargas, from La Montera Picona, third.",
+          "The contest brings together the best arms in the municipality to decide who serves cider with the most skill."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "escanciar",
+          "como": "es-kan-SYAR; the person who does it is called an escanciador",
+          "definicion": "To serve cider by raising the bottle above the head and letting the stream fall down into a glass held low, so that the liquid aerates and froths. In Asturias it is a trade with its own pride, and doing it well takes years of practice."
+        },
+        "porQue": "Villaviciosa is apple and cider country, and a contest like this is a reminder that the way cider is served is part of the municipality's heritage, not just the drink itself.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Wilkin Aquiles, meilleur escanciador de Villaviciosa",
+        "entradilla": "Salvador Ondó et Jorge Vargas ont rejoint le podium derrière lui lors d'un concours qui met à l'épreuve l'art du pitu.",
+        "cuerpo": [
+          "Wilkin Aquiles a remporté la première place au concours d'escanciadores organisé à Villaviciosa. Derrière lui sont arrivés Salvador Ondó, des sidrerías Tierra Astur, en deuxième position, et Jorge Vargas, de La Montera Picona, en troisième.",
+          "Un podium qui réunit deux des maisons de cidre les plus connues de la commune, et un vainqueur qui prouve que le bon escancio ne regarde pas les origines."
+        ],
+        "apunte": "Le bras commande, la mousse confirme.",
+        "enVeinte": [
+          "Wilkin Aquiles a remporté le concours d'escanciadores de Villaviciosa.",
+          "Salvador Ondó, de Tierra Astur, a terminé deuxième et Jorge Vargas, de La Montera Picona, troisième.",
+          "Le concours rassemble les meilleurs bras de la commune pour désigner celui qui sert le cidre avec le plus de talent."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "escanciar",
+          "como": "es-kan-SIAR ; celui qui le fait s'appelle escanciador",
+          "definicion": "Servir le cidre en levant la bouteille au-dessus de la tête et en laissant le jet tomber jusqu'au verre tenu en bas, afin que le liquide s'aère et mousse. En Asturias, c'est un métier dont on est fier, et le maîtriser demande des années de pratique."
+        },
+        "porQue": "Villaviciosa est une terre de pommes et de cidre, et un tel concours rappelle que la façon de servir le cidre fait partie du patrimoine de la commune, pas seulement la boisson elle-même.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Wilkin Aquiles, bester Escanciador in Villaviciosa",
+        "entradilla": "Salvador Ondó und Jorge Vargas folgten ihm auf dem Podium in einem Wettbewerb, der die Kunst des Pitu auf die Probe stellt.",
+        "cuerpo": [
+          "Wilkin Aquiles belegte den ersten Platz beim Escanciadores-Wettbewerb in Villaviciosa. Hinter ihm kamen Salvador Ondó von den Sidrerías Tierra Astur auf dem zweiten Platz und Jorge Vargas von La Montera Picona auf dem dritten.",
+          "Ein Podium, das zwei der bekanntesten Apfelweinhäuser der Gemeinde vereint, und ein Sieger, der beweist, dass gutes Escancio nichts mit einheimischen Nachnamen zu tun hat."
+        ],
+        "apunte": "Der Arm gibt den Ton an, der Schaum bestätigt es.",
+        "enVeinte": [
+          "Wilkin Aquiles gewann den Escanciadores-Wettbewerb in Villaviciosa.",
+          "Salvador Ondó von Tierra Astur wurde Zweiter, Jorge Vargas von La Montera Picona Dritter.",
+          "Der Wettbewerb versammelt die besten Arme der Gemeinde, um zu entscheiden, wer den Apfelwein am kunstvollsten einschenkt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "escanciar",
+          "como": "es-kan-SIAR; derjenige, der es ausführt, heißt Escanciador",
+          "definicion": "Apfelwein servieren, indem man die Flasche über den Kopf hebt und den Strahl in ein unten gehaltenes Glas fallen lässt, damit die Flüssigkeit belüftet wird und Schaum bildet. In Asturias ist das ein Handwerk mit eigenem Stolz, und es gut zu beherrschen erfordert jahrelange Übung."
+        },
+        "porQue": "Villaviciosa ist ein Land der Äpfel und des Apfelweins, und ein solcher Wettbewerb erinnert daran, dass die Art, ihn zu servieren, zum Erbe der Gemeinde gehört – nicht nur das Getränk selbst.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-miercoles-del-portal-de-la-villa-homenajeara-a-juan-robledo-la-fami",
     "url": "/villaviciosa/el-miercoles-del-portal-de-la-villa-homenajeara-a-juan-robledo-la-fami/",
     "concejo": "Villaviciosa",
@@ -8711,6 +8828,240 @@
     ]
   },
   {
+    "id": "la-danza-del-portal-abarrota-villaviciosa-de-emocion-y-tradicion",
+    "url": "/villaviciosa/la-danza-del-portal-abarrota-villaviciosa-de-emocion-y-tradicion/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "La Hermandad reconoce a las camareras de la patrona",
+    "entradilla": "Teresa Mateos y Concha Fidalgo reciben el homenaje de la Hermandad por su dedicación a la Virgen del Portal en Villaviciosa.",
+    "cuerpo": [
+      "La Hermandad de la patrona de Villaviciosa reconoció públicamente la labor de sus dos camareras, Teresa Mateos y Concha Fidalgo, durante la celebración de la Danza del Portal.",
+      "El acto reunió a mucha gente en la villa y sirvió para poner en valor el trabajo, muchas veces silencioso, de quienes cuidan de la imagen de la patrona a lo largo del año."
+    ],
+    "apunte": "Un reconocimiento que llega cuando la danza ya ha llenado las calles.",
+    "enVeinte": [
+      "La Hermandad de la patrona de Villaviciosa reconoció a sus camareras Teresa Mateos y Concha Fidalgo durante la Danza del Portal.",
+      "El acto reunió a mucha gente en la villa y puso en valor el trabajo de quienes cuidan de la imagen de la patrona.",
+      "La celebración mezcló emoción y tradición en torno a una de las fiestas más arraigadas de Villaviciosa."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "camarera",
+      "como": "ca-ma-RE-ra, igual que en castellano",
+      "definicion": "En el contexto religioso asturiano, la camarera es la mujer encargada de vestir, adornar y cuidar la imagen de la Virgen o de la patrona de una cofradía o hermandad. No tiene nada que ver con la hostelería: es un cargo de confianza dentro de la hermandad."
+    },
+    "porQue": "Teresa Mateos y Concha Fidalgo son vecinas de Villaviciosa cuyo trabajo voluntario mantiene viva la devoción a la patrona de la villa; el reconocimiento público les da el lugar que merece ese esfuerzo callado.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Danza del Portal",
+      "Hermandad",
+      "tradición"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/13/portal%20(3)-RrdLAn8CuA1qetEjsSxo7XI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-13T20:15:08.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/danza-portal-abarrota-villaviciosa-emocion-tradicion-fiestas-20260913180043-nt.html",
+      "titularOriginal": "La Danza del Portal abarrota Villaviciosa de emoción y tradición"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Brotherhood honours the patron saint's camareras",
+        "entradilla": "Teresa Mateos and Concha Fidalgo receive the Brotherhood's tribute for their dedication to the Virgen del Portal in Villaviciosa.",
+        "cuerpo": [
+          "The Brotherhood of the patron saint of Villaviciosa publicly recognised the work of its two camareras, Teresa Mateos and Concha Fidalgo, during the celebration of the Danza del Portal.",
+          "The event drew a large crowd to the town and served to acknowledge the often quiet labour of those who care for the patron saint's image throughout the year."
+        ],
+        "apunte": "A recognition that arrives after the dance has already filled the streets.",
+        "enVeinte": [
+          "The Brotherhood of the patron saint of Villaviciosa recognised its camareras Teresa Mateos and Concha Fidalgo during the Danza del Portal.",
+          "The event drew a large crowd to the town and acknowledged the work of those who care for the patron saint's image.",
+          "The celebration blended emotion and tradition around one of Villaviciosa's most deep-rooted festivities."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "camarera",
+          "como": "ca-ma-RE-ra, pronounced as in Spanish",
+          "definicion": "In the Asturian religious context, the camarera is the woman responsible for dressing, adorning and caring for the image of the Virgin or the patron saint of a cofradía or brotherhood. It has nothing to do with hospitality: it is a position of trust within the brotherhood."
+        },
+        "porQue": "Teresa Mateos and Concha Fidalgo are residents of Villaviciosa whose voluntary work keeps devotion to the town's patron saint alive; the public recognition gives that quiet effort the place it deserves.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Hermandad rend hommage aux camareras de la patronne",
+        "entradilla": "Teresa Mateos et Concha Fidalgo reçoivent l'hommage de la Hermandad pour leur dévouement à la Virgen del Portal à Villaviciosa.",
+        "cuerpo": [
+          "La Hermandad de la patronne de Villaviciosa a publiquement reconnu le travail de ses deux camareras, Teresa Mateos et Concha Fidalgo, lors de la célébration de la Danza del Portal.",
+          "La cérémonie a rassemblé beaucoup de monde dans la ville et a permis de mettre en valeur le travail, souvent silencieux, de celles qui veillent sur l'image de la patronne tout au long de l'année."
+        ],
+        "apunte": "Une reconnaissance qui arrive alors que la danse a déjà envahi les rues.",
+        "enVeinte": [
+          "La Hermandad de la patronne de Villaviciosa a reconnu ses camareras Teresa Mateos et Concha Fidalgo lors de la Danza del Portal.",
+          "La cérémonie a rassemblé beaucoup de monde dans la ville et a mis en valeur le travail de celles qui veillent sur l'image de la patronne.",
+          "La célébration a mêlé émotion et tradition autour de l'une des fêtes les plus enracinées de Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "camarera",
+          "como": "ca-ma-RE-ra, se prononce comme en espagnol",
+          "definicion": "Dans le contexte religieux asturien, la camarera est la femme chargée d'habiller, d'orner et de prendre soin de l'image de la Vierge ou de la patronne d'une confrérie. Cela n'a rien à voir avec l'hôtellerie : c'est une fonction de confiance au sein de la confrérie."
+        },
+        "porQue": "Teresa Mateos et Concha Fidalgo sont des habitantes de Villaviciosa dont le travail bénévole maintient vivante la dévotion à la patronne de la ville ; la reconnaissance publique donne à cet effort discret la place qu'il mérite.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Hermandad ehrt die Camareras der Schutzpatronin",
+        "entradilla": "Teresa Mateos und Concha Fidalgo erhalten die Ehrung der Hermandad für ihre Hingabe an die Virgen del Portal in Villaviciosa.",
+        "cuerpo": [
+          "Die Hermandad der Schutzpatronin von Villaviciosa würdigte öffentlich die Arbeit ihrer beiden Camareras, Teresa Mateos und Concha Fidalgo, während der Feierlichkeiten zur Danza del Portal.",
+          "Die Veranstaltung zog viele Menschen in die Stadt und würdigte die oft stille Arbeit derer, die das ganze Jahr über für das Bildnis der Schutzpatronin sorgen."
+        ],
+        "apunte": "Eine Anerkennung, die kommt, nachdem der Tanz die Straßen bereits erfüllt hat.",
+        "enVeinte": [
+          "Die Hermandad der Schutzpatronin von Villaviciosa ehrte ihre Camareras Teresa Mateos und Concha Fidalgo während der Danza del Portal.",
+          "Die Veranstaltung zog viele Menschen in die Stadt und würdigte die Arbeit derer, die für das Bildnis der Schutzpatronin sorgen.",
+          "Die Feier verband Emotion und Tradition rund um eines der verwurzeltsten Feste von Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "camarera",
+          "como": "ca-ma-RE-ra, ausgesprochen wie im Spanischen",
+          "definicion": "Im asturischen religiösen Kontext ist die Camarera die Frau, die dafür zuständig ist, das Bildnis der Jungfrau oder der Schutzpatronin einer Bruderschaft zu kleiden, zu schmücken und zu pflegen. Das hat nichts mit dem Gastgewerbe zu tun: Es handelt sich um ein Vertrauensamt innerhalb der Bruderschaft."
+        },
+        "porQue": "Teresa Mateos und Concha Fidalgo sind Einwohnerinnen von Villaviciosa, deren ehrenamtliche Arbeit die Verehrung der Schutzpatronin der Stadt lebendig hält; die öffentliche Anerkennung gibt dieser stillen Mühe den Platz, den sie verdient.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "regata-de-piraguas-circuito-ciclista-e-hinchables-en-las-fiestas-del-p",
+    "url": "/villaviciosa/regata-de-piraguas-circuito-ciclista-e-hinchables-en-las-fiestas-del-p/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piraguas, bicicletas e hinchables este domingo en Villaviciosa",
+    "entradilla": "Las fiestas del Portal arrancan la jornada con la Danza del Portal, música y folclore asturiano.",
+    "cuerpo": [
+      "Este domingo Villaviciosa celebra las fiestas del Portal con una jornada que mezcla deporte y tradición: regata de piraguas, circuito ciclista e hinchables para los más pequeños.",
+      "El plato central del día es la Danza del Portal, acompañada de música y folclore asturianos."
+    ],
+    "apunte": "Piraguas, pedales y palotes: el Portal lo tiene todo menos excusa para quedarse en casa.",
+    "enVeinte": [
+      "Este domingo Villaviciosa celebra las fiestas del Portal con piraguas, circuito ciclista e hinchables.",
+      "La Danza del Portal es el acto central, con música y folclore asturianos.",
+      "La fuente no da hora ni precio de los actos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "folclore asturiano",
+      "como": "se dice igual, pero aquí incluye danza, gaita y canto de raíz",
+      "definicion": "Conjunto de músicas, danzas y tradiciones populares propias de Asturias. La Danza del Portal es una de sus expresiones, ligada a las fiestas de barrio y parroquia."
+    },
+    "porQue": "Si vives en el concejo o tienes familia de visita, este domingo tienes plan gratuito y al aire libre sin salir de Villaviciosa.",
+    "etiquetas": [
+      "Villaviciosa",
+      "fiestas del Portal",
+      "folclore",
+      "Danza del Portal"
+    ],
+    "fechaEvento": "2026-09-13",
+    "tipoEvento": "fiesta",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/12/WhatsApp%20Image%202026-09-12%20at%2019.13.37-RgVXn6ZcYU99LhsATstZZgI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-12T18:57:05.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/regata-piraguas-circuito-ciclista-hinchables-fiestas-portal-20260912205704-nt.html",
+      "titularOriginal": "Regata de piraguas, circuito ciclista e hinchables en las fiestas del Portal de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Kayaks, bikes and inflatables this Sunday in Villaviciosa",
+        "entradilla": "The fiestas del Portal kick off the day with the Danza del Portal, music and Asturian folk traditions.",
+        "cuerpo": [
+          "This Sunday Villaviciosa celebrates the fiestas del Portal with a day that blends sport and tradition: a kayak regatta, a cycling circuit and inflatables for the little ones.",
+          "The centrepiece of the day is the Danza del Portal, accompanied by Asturian music and folklore."
+        ],
+        "apunte": "Kayaks, pedals and dance sticks: the Portal has everything except an excuse to stay home.",
+        "enVeinte": [
+          "This Sunday Villaviciosa celebrates the fiestas del Portal with kayaks, a cycling circuit and inflatables.",
+          "The Danza del Portal is the main event, with Asturian music and folklore.",
+          "The source gives no time or price for the events."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "folclore asturiano",
+          "como": "pronounced the same way; here it covers dance, bagpipe music and traditional song",
+          "definicion": "The body of music, dances and popular traditions native to Asturias. The Danza del Portal is one of its expressions, tied to neighbourhood and parish festivals."
+        },
+        "porQue": "If you live in the municipality or have family visiting, this Sunday you have a free, open-air plan without leaving Villaviciosa.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Kayaks, vélos et structures gonflables ce dimanche à Villaviciosa",
+        "entradilla": "Les fiestas del Portal débutent la journée avec la Danza del Portal, de la musique et du folklore asturien.",
+        "cuerpo": [
+          "Ce dimanche, Villaviciosa célèbre les fiestas del Portal avec une journée qui mêle sport et tradition : régate de kayaks, circuit cycliste et structures gonflables pour les plus petits.",
+          "Le temps fort de la journée est la Danza del Portal, accompagnée de musique et de folklore asturiens."
+        ],
+        "apunte": "Kayaks, pédales et bâtons de danse : le Portal a tout, sauf une bonne raison de rester chez soi.",
+        "enVeinte": [
+          "Ce dimanche, Villaviciosa célèbre les fiestas del Portal avec des kayaks, un circuit cycliste et des structures gonflables.",
+          "La Danza del Portal est l'acte central, avec musique et folklore asturiens.",
+          "La source ne précise ni l'heure ni le prix des événements."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "folclore asturiano",
+          "como": "se prononce de la même façon ; ici, il englobe la danse, la cornemuse et le chant traditionnel",
+          "definicion": "L'ensemble des musiques, danses et traditions populaires propres aux Asturies. La Danza del Portal en est l'une des expressions, liée aux fêtes de quartier et de paroisse."
+        },
+        "porQue": "Si vous habitez dans la commune ou si vous avez de la famille en visite, ce dimanche vous avez un programme gratuit et en plein air sans quitter Villaviciosa.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Kajaks, Fahrräder und Hüpfburgen diesen Sonntag in Villaviciosa",
+        "entradilla": "Die fiestas del Portal eröffnen den Tag mit der Danza del Portal, Musik und asturianischer Folklore.",
+        "cuerpo": [
+          "Diesen Sonntag feiert Villaviciosa die fiestas del Portal mit einem Tag, der Sport und Tradition verbindet: Kanuregatta, Radrennen und Hüpfburgen für die Kleinen.",
+          "Der Mittelpunkt des Tages ist die Danza del Portal, begleitet von asturianischer Musik und Folklore."
+        ],
+        "apunte": "Kajaks, Pedale und Tanzstäbe: Beim Portal fehlt alles außer einer Ausrede, zu Hause zu bleiben.",
+        "enVeinte": [
+          "Diesen Sonntag feiert Villaviciosa die fiestas del Portal mit Kajaks, einem Radrennen und Hüpfburgen.",
+          "Die Danza del Portal ist der zentrale Programmpunkt, mit asturianischer Musik und Folklore.",
+          "Die Quelle nennt weder Uhrzeit noch Eintrittspreise der Veranstaltungen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "folclore asturiano",
+          "como": "wird gleich ausgesprochen; hier umfasst der Begriff Tanz, Dudelsackmusik und traditionellen Gesang",
+          "definicion": "Die Gesamtheit der Musikstücke, Tänze und Volksüberlieferungen, die für Asturien typisch sind. Die Danza del Portal ist ein Ausdruck davon und gehört zu den Festen der Stadtviertel und Pfarrgemeinden."
+        },
+        "porQue": "Wer in der Gemeinde lebt oder Familie zu Besuch hat, hat diesen Sonntag ein kostenloses Programm an der frischen Luft — ohne Villaviciosa zu verlassen.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "rescate-de-un-montanero-que-sufrio-una-caida-entre-la-los-cabrones-y-t",
     "url": "/cabrales/rescate-de-un-montanero-que-sufrio-una-caida-entre-la-los-cabrones-y-t/",
     "concejo": "Cabrales",
@@ -8989,6 +9340,142 @@
     "revisar": [
       "el salon internacional de las sidras de gala",
       "entre el 24 y el 27 de septiembre"
+    ]
+  },
+  {
+    "id": "72-anos-bailando-por-la-portalina-en-villaviciosa",
+    "url": "/villaviciosa/72-anos-bailando-por-la-portalina-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Lumi, 72 años bailando la Danza del Portal",
+    "entradilla": "Entró a la Danza del Portal con 13 años y todavía no ha salido.",
+    "cuerpo": [
+      "Lumi Fernández es la hermana mayor de la Danza del Portal de Villaviciosa y lleva 72 años sin faltar a la cita de la Portalina, desde que se estrenó siendo una cría.",
+      "Siete décadas largas de una misma ceremonia, en el mismo lugar, convierten a Lumi en memoria viva de una de las tradiciones más arraigadas del concejo."
+    ],
+    "apunte": "72 años de fidelidad a un baile: hay matrimonios que duran menos.",
+    "enVeinte": [
+      "Lumi Fernández lleva 72 años participando en la Danza del Portal de Villaviciosa, desde que empezó con 13 años.",
+      "Es la hermana mayor de esta danza, una de las ceremonias más enraizadas de la capital del concejo.",
+      "Su trayectoria la convierte en referente vivo de la tradición de la Portalina."
+    ],
+    "cifra": {
+      "numero": "72",
+      "unidad": "años",
+      "glosa": "Los que lleva Lumi Fernández vinculada a la Danza del Portal. Entró con 13 años y hoy sigue siendo la hermana mayor de la danza, lo que la sitúa como la persona con más continuidad en esta tradición villaviciosina."
+    },
+    "palabra": {
+      "termino": "Portalina",
+      "como": "Por-ta-lí-na, igual que suena",
+      "definicion": "Nombre popular con el que se conoce la zona del Portal en Villaviciosa, que da nombre tanto a la danza como al espacio donde se celebra esta ceremonia tradicional."
+    },
+    "porQue": "La Danza del Portal es una de las señas de identidad de Villaviciosa, y la historia de Lumi recuerda que esa tradición no se sostiene sola: la mantienen personas concretas, año tras año.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Danza del Portal",
+      "tradición",
+      "Portalina"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "escena",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/10/v-RS4GJdB5Iiw1IBouLa2xeqK-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-10T16:35:12.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/portalina-villaviciosa-lumi-fernandez-danza-portal-20260910183356-nt.html",
+      "titularOriginal": "72 años bailando por la Portalina en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Lumi, 72 years dancing the Danza del Portal",
+        "entradilla": "She joined the Danza del Portal at 13 and has never left.",
+        "cuerpo": [
+          "Lumi Fernández is the senior sister of the Danza del Portal de Villaviciosa and has not missed a single Portalina gathering in 72 years, since she first took part as a young girl.",
+          "Seven long decades of the same ceremony, in the same place, make Lumi a living memory of one of the most deep-rooted traditions in the municipality."
+        ],
+        "apunte": "72 years of loyalty to a dance — plenty of marriages have lasted less.",
+        "enVeinte": [
+          "Lumi Fernández has taken part in the Danza del Portal de Villaviciosa for 72 years, since she began at the age of 13.",
+          "She is the senior sister of this dance, one of the most deeply rooted ceremonies in the municipal capital.",
+          "Her record makes her the living benchmark of the Portalina tradition."
+        ],
+        "cifra": {
+          "numero": "72",
+          "unidad": "years",
+          "glosa": "The number of years Lumi Fernández has been part of the Danza del Portal. She joined at 13 and remains the senior sister of the dance today, making her the person with the longest unbroken connection to this tradition from Villaviciosa."
+        },
+        "palabra": {
+          "termino": "Portalina",
+          "como": "Por-ta-lée-na, pronounced as it looks",
+          "definicion": "The popular name for the Portal area in Villaviciosa, which gives its name both to the dance and to the space where this traditional ceremony takes place."
+        },
+        "porQue": "The Danza del Portal is one of the defining marks of Villaviciosa, and Lumi's story is a reminder that tradition does not sustain itself: it is kept alive by specific people, year after year.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Lumi, 72 ans à danser la Danza del Portal",
+        "entradilla": "Elle a rejoint la Danza del Portal à 13 ans et n'en est jamais repartie.",
+        "cuerpo": [
+          "Lumi Fernández est la sœur aînée de la Danza del Portal de Villaviciosa et elle n'a manqué aucun rendez-vous de la Portalina depuis 72 ans, depuis ses débuts quand elle n'était encore qu'une enfant.",
+          "Sept longues décennies de la même cérémonie, au même endroit, font de Lumi la mémoire vivante de l'une des traditions les plus enracinées de la commune."
+        ],
+        "apunte": "72 ans de fidélité à une danse : bien des mariages durent moins longtemps.",
+        "enVeinte": [
+          "Lumi Fernández participe à la Danza del Portal de Villaviciosa depuis 72 ans, depuis ses débuts à l'âge de 13 ans.",
+          "Elle est la sœur aînée de cette danse, l'une des cérémonies les plus ancrées dans la capitale de la commune.",
+          "Son parcours fait d'elle la référence vivante de la tradition de la Portalina."
+        ],
+        "cifra": {
+          "numero": "72",
+          "unidad": "ans",
+          "glosa": "Le nombre d'années que Lumi Fernández est liée à la Danza del Portal. Elle a commencé à 13 ans et elle en est encore aujourd'hui la sœur aînée, ce qui fait d'elle la personne qui entretient le lien le plus long et le plus continu avec cette tradition de Villaviciosa."
+        },
+        "palabra": {
+          "termino": "Portalina",
+          "como": "Por-ta-lí-na, se prononce comme ça s'écrit",
+          "definicion": "Nom populaire désignant le quartier du Portal à Villaviciosa, qui donne son nom à la fois à la danse et à l'espace où se déroule cette cérémonie traditionnelle."
+        },
+        "porQue": "La Danza del Portal est l'un des symboles identitaires de Villaviciosa, et l'histoire de Lumi rappelle que la tradition ne se perpétue pas seule : ce sont des personnes bien réelles qui la font vivre, année après année.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Lumi, 72 Jahre lang bei der Danza del Portal",
+        "entradilla": "Mit 13 Jahren trat sie der Danza del Portal bei — und ist seitdem nie wieder gegangen.",
+        "cuerpo": [
+          "Lumi Fernández ist die älteste Schwester der Danza del Portal de Villaviciosa und hat seit 72 Jahren keinen einzigen Termin der Portalina verpasst, seit sie als junges Mädchen zum ersten Mal dabei war.",
+          "Sieben lange Jahrzehnte ein und dieselbe Zeremonie, an ein und demselben Ort — das macht Lumi zum lebendigen Gedächtnis einer der verwurzeltsten Traditionen der Gemeinde."
+        ],
+        "apunte": "72 Jahre Treue zu einem Tanz — manche Ehe hält kürzer.",
+        "enVeinte": [
+          "Lumi Fernández nimmt seit 72 Jahren an der Danza del Portal de Villaviciosa teil, seit ihren Anfängen mit 13 Jahren.",
+          "Sie ist die älteste Schwester dieses Tanzes, einer der tief verwurzelten Zeremonien der Gemeindehauptstadt.",
+          "Ihre Laufbahn macht sie zur lebenden Verkörperung der Portalina-Tradition."
+        ],
+        "cifra": {
+          "numero": "72",
+          "unidad": "Jahre",
+          "glosa": "So viele Jahre ist Lumi Fernández mit der Danza del Portal verbunden. Sie begann mit 13 Jahren und ist bis heute die älteste Schwester des Tanzes — damit ist sie die Person mit der längsten ununterbrochenen Zugehörigkeit zu dieser Tradition aus Villaviciosa."
+        },
+        "palabra": {
+          "termino": "Portalina",
+          "como": "Por-ta-lí-na, wird so ausgesprochen, wie es geschrieben steht",
+          "definicion": "Der volkstümliche Name für das Portal-Viertel in Villaviciosa, der sowohl dem Tanz als auch dem Ort seinen Namen gibt, an dem diese traditionelle Zeremonie stattfindet."
+        },
+        "porQue": "Die Danza del Portal ist eines der Wahrzeichen von Villaviciosa, und Lumis Geschichte erinnert daran, dass Tradition sich nicht von selbst erhält: Es sind konkrete Menschen, die sie Jahr für Jahr am Leben halten.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la hermana mayor de la danza del portal"
     ]
   },
   {
@@ -9468,6 +9955,317 @@
     ]
   },
   {
+    "id": "lii-edicion-del-motocross-nuestra-senora-del-portal",
+    "url": "/villaviciosa/lii-edicion-del-motocross-nuestra-senora-del-portal/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El motocross del Portal vuelve a La Fontanina",
+    "entradilla": "La 52.ª edición de la prueba arranca a las tres de la tarde junto al centro de salud de Villaviciosa.",
+    "cuerpo": [
+      "El prao de La Fontanina, en los aledaños del centro de salud, acoge este año una nueva edición del Motocross Nuestra Señora del Portal. La carrera empieza a las 15:00 horas.",
+      "Los primeros en saltar a la pista serán los más pequeños, que abren la jornada con sus entrenamientos antes de que rueden las categorías mayores."
+    ],
+    "apunte": "Cincuenta y dos ediciones y el barro de La Fontanina sigue mandando.",
+    "enVeinte": [
+      "El Motocross Nuestra Señora del Portal celebra su 52.ª edición el 9 de septiembre en el prao de La Fontanina, junto al centro de salud de Villaviciosa.",
+      "La prueba arranca a las 15:00 horas con los entrenamientos de las categorías infantiles.",
+      "Es una de las citas de motor más veteranas del concejo."
+    ],
+    "cifra": {
+      "numero": "52",
+      "unidad": "ediciones",
+      "glosa": "El Motocross Nuestra Señora del Portal lleva más de medio siglo celebrándose en Villaviciosa. Cincuenta y dos ediciones lo convierten en una de las pruebas de motor con más solera del oriente asturiano."
+    },
+    "palabra": {
+      "termino": "prau",
+      "como": "prau (la 'u' final, no 'prado')",
+      "definicion": "Forma asturiana de llamar a un prado, generalmente una finca de hierba cercada. En Villaviciosa y toda Asturias se usa a diario y nadie dice 'prado' cuando habla de una finca concreta."
+    },
+    "porQue": "Si tienes críos aficionados al motor o simplemente te gusta el ambiente, el domingo por la tarde tienes plan gratuito a dos pasos del centro de Villaviciosa.",
+    "etiquetas": [
+      "motocross",
+      "Villaviciosa",
+      "Nuestra Señora del Portal",
+      "motor"
+    ],
+    "fechaEvento": "2026-09-09",
+    "tipoEvento": "feria",
+    "lugar": "Prado de La Fontanina, Villaviciosa",
+    "hora": "15:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/09/0_20260909193935-RfOqH6OUBAqWblIJw5Ma67K-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-09T18:13:33.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/lii-edicion-motocross-senora-portal-20260909201332-nt.html",
+      "titularOriginal": "LII edición del Motocross Nuestra Señora del Portal"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "de la fontanina en los aledanos del centro",
+      "la fontanina en los aledanos del centro de",
+      "fontanina en los aledanos del centro de salud",
+      "edicion del motocross nuestra senora del portal la"
+    ]
+  },
+  {
+    "id": "arrancan-las-fiestas-de-nuestra-senora-del-portal-en-villaviciosa",
+    "url": "/villaviciosa/arrancan-las-fiestas-de-nuestra-senora-del-portal-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa celebra el Portal del 11 al 16",
+    "entradilla": "Seis días de fiestas con música, folclore, gastronomía y deporte en la capital del concejo.",
+    "cuerpo": [
+      "Las fiestas de Nuestra Señora del Portal arrancan el jueves 11 de septiembre en Villaviciosa y se prolongan hasta el martes 16.",
+      "El programa combina tradición y folclore con propuestas musicales, gastronómicas y deportivas a lo largo de esa semana."
+    ],
+    "apunte": "Seis días dan para mucho, aunque el programa completo brilla por su ausencia.",
+    "enVeinte": [
+      "Las fiestas de Nuestra Señora del Portal se celebran en Villaviciosa del 11 al 16 de septiembre.",
+      "El programa incluye música, folclore, gastronomía y actividades deportivas.",
+      "No se han publicado aún los detalles del cartel ni los horarios de cada acto."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Portal",
+      "como": "tal cual, con mayúscula cuando nombra la festividad",
+      "definicion": "Nombre con el que se conoce popularmente la festividad de Nuestra Señora del Portal, patrona de Villaviciosa. Las fiestas del Portal son la cita grande del año en la capital del concejo."
+    },
+    "porQue": "Si vives en Villaviciosa o piensas acercarte esa semana, conviene estar al tanto del programa en cuanto el Ayuntamiento lo publique: habrá cortes de tráfico, actos en la calle y la villa más animada de lo habitual.",
+    "etiquetas": [
+      "Villaviciosa",
+      "fiestas del Portal",
+      "septiembre",
+      "folclore"
+    ],
+    "fechaEvento": "2026-09-11",
+    "tipoEvento": "fiesta",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/09/ayuntamiento-villaviciosa%20(6)-kTcH-U301635987451KvE-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-09T08:48:37.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/arrancan-fiestas-senora-portal-villaviciosa-20260909104836-nt.html",
+      "titularOriginal": "Arrancan las fiestas de Nuestra Señora del Portal en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa celebrates Portal from the 11th to the 16th",
+        "entradilla": "Six days of festivities with music, folklore, gastronomy and sport in the main town of the municipality.",
+        "cuerpo": [
+          "The Nuestra Señora del Portal festivities kick off on Thursday, 11 September in Villaviciosa and run through to Tuesday the 16th.",
+          "The programme blends tradition and folklore with musical, gastronomic and sporting events throughout the week."
+        ],
+        "apunte": "Six days is plenty of time — though the full programme is conspicuous by its absence.",
+        "enVeinte": [
+          "The Nuestra Señora del Portal festivities take place in Villaviciosa from 11 to 16 September.",
+          "The programme includes music, folklore, gastronomy and sporting activities.",
+          "Details of the line-up and timetable for individual events have not yet been published."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Portal",
+          "como": "as is, capitalised when referring to the festival",
+          "definicion": "The popular name for the feast of Nuestra Señora del Portal, patron saint of Villaviciosa. The Portal festivities are the highlight of the year in the main town of the municipality. Pronunciation: por-TAL."
+        },
+        "porQue": "If you live in Villaviciosa or are planning to visit that week, it is worth keeping an eye on the programme as soon as the council publishes it: there will be road closures, street events and a much livelier town than usual.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa célèbre le Portal du 11 au 16",
+        "entradilla": "Six jours de fêtes avec musique, folklore, gastronomie et sport dans le chef-lieu de la commune.",
+        "cuerpo": [
+          "Les fêtes de Nuestra Señora del Portal débutent le jeudi 11 septembre à Villaviciosa et se prolongent jusqu'au mardi 16.",
+          "Le programme mêle tradition et folklore à des propositions musicales, gastronomiques et sportives tout au long de la semaine."
+        ],
+        "apunte": "Six jours, c'est beaucoup — mais le programme complet brille par son absence.",
+        "enVeinte": [
+          "Les fêtes de Nuestra Señora del Portal se déroulent à Villaviciosa du 11 au 16 septembre.",
+          "Le programme comprend musique, folklore, gastronomie et activités sportives.",
+          "Le détail de l'affiche et les horaires des différents événements n'ont pas encore été publiés."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Portal",
+          "como": "tel quel, avec majuscule quand il désigne la fête",
+          "definicion": "Nom populaire de la fête de Nuestra Señora del Portal, patronne de Villaviciosa. Les fêtes du Portal sont le rendez-vous majeur de l'année dans le chef-lieu de la commune. Prononciation : por-TAL."
+        },
+        "porQue": "Si vous habitez à Villaviciosa ou envisagez de vous y rendre cette semaine-là, mieux vaut surveiller le programme dès que la mairie le publiera : il y aura des coupures de circulation, des événements dans la rue et une ville bien plus animée qu'à l'ordinaire.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa feiert das Portal vom 11. bis zum 16.",
+        "entradilla": "Sechs Tage Feste mit Musik, Folklore, Gastronomie und Sport im Hauptort der Gemeinde.",
+        "cuerpo": [
+          "Die Feste von Nuestra Señora del Portal beginnen am Donnerstag, den 11. September in Villaviciosa und dauern bis Dienstag, den 16.",
+          "Das Programm verbindet Tradition und Folklore mit musikalischen, gastronomischen und sportlichen Angeboten über die gesamte Woche."
+        ],
+        "apunte": "Sechs Tage bieten viel Raum — auch wenn das vollständige Programm noch auf sich warten lässt.",
+        "enVeinte": [
+          "Die Feste von Nuestra Señora del Portal finden in Villaviciosa vom 11. bis zum 16. September statt.",
+          "Das Programm umfasst Musik, Folklore, Gastronomie und sportliche Aktivitäten.",
+          "Die genauen Programmpunkte und Veranstaltungszeiten wurden noch nicht veröffentlicht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Portal",
+          "como": "unverändert, großgeschrieben wenn das Fest gemeint ist",
+          "definicion": "Der volkstümliche Name für das Fest von Nuestra Señora del Portal, der Schutzpatronin von Villaviciosa. Die Portal-Feste sind der wichtigste Termin des Jahres im Hauptort der Gemeinde. Aussprache: por-TAL."
+        },
+        "porQue": "Wer in Villaviciosa wohnt oder in dieser Woche vorbeikommen möchte, sollte das Programm im Blick behalten, sobald das Rathaus es veröffentlicht: Es wird Straßensperrungen, Veranstaltungen im Freien und eine deutlich belebtere Stadt als gewöhnlich geben.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "5-2-millones-para-sacar-a-cielo-abierto-cuatro-arroyos-y-evitar-inunda",
+    "url": "/villaviciosa/5-2-millones-para-sacar-a-cielo-abierto-cuatro-arroyos-y-evitar-inunda/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa destapa cuatro arroyos para frenar inundaciones",
+    "entradilla": "La inversión supera los cinco millones de euros y el plan pasa por reconducir los regatos hacia la ría Maliaya.",
+    "cuerpo": [
+      "El concejo de Villaviciosa va a destapar cuatro arroyos que ahora discurren soterrados o mal encauzados y que, cuando llueve fuerte, desbordan y anegan la villa. La actuación cuesta 5,2 millones de euros.",
+      "El proyecto prevé construir un cauce receptor con aspecto naturalizado que recoja el agua de esos regatos y la lleve ordenadamente hasta la ría Maliaya, evitando que se extienda por las calles.",
+      "Por el momento la fuente no da fechas de inicio ni plazo de obras, así que habrá que esperar a que el Ayuntamiento concrete el calendario de los trabajos."
+    ],
+    "apunte": "Que el agua vaya por donde debe ir: suena sencillo, pero cuesta 5,2 millones.",
+    "enVeinte": [
+      "Villaviciosa invertirá 5,2 millones en sacar a cielo abierto cuatro arroyos para evitar que la villa se inunde.",
+      "Se construirá un cauce naturalizado que recoja el agua de los regatos y la conduzca hasta la ría Maliaya.",
+      "De momento no hay fecha de inicio: el Ayuntamiento tiene que concretar el calendario."
+    ],
+    "cifra": {
+      "numero": "5,2 millones",
+      "unidad": "euros",
+      "glosa": "Es el presupuesto previsto para la actuación completa. Una inversión de ese tamaño en infraestructura hidráulica municipal es poco habitual y apunta a que el problema de inundaciones en la villa se considera grave y urgente."
+    },
+    "palabra": {
+      "termino": "regato",
+      "como": "regatu en asturiano, regato en castellano de aquí",
+      "definicion": "Arroyo pequeño, normalmente de cauce estrecho y caudal variable según las lluvias. En los concejos asturianos abundan, y cuando se soterran bajo el casco urbano pueden convertirse en un problema serio en épocas de temporal."
+    },
+    "porQue": "Si las obras salen adelante, los vecinos de Villaviciosa dejarían de ver sus calles anegadas cada vez que llega una buena carga de agua del norte.",
+    "etiquetas": [
+      "Villaviciosa",
+      "inundaciones",
+      "obras",
+      "ría Maliaya"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/08/Imagen%20fuente%20pedregal%20villaviciosa-RCiWCXjbNV6VYoG88lEmgAN-1200x840@El%20Comercio.png",
+    "fecha": "2026-09-08T16:25:47.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/millones-sacar-cielo-abierto-cuatro-arroyos-evitar-20260908182547-nt.html",
+      "titularOriginal": "5,2 millones para sacar a cielo abierto cuatro arroyos y evitar inundaciones en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa uncovers four streams to stop flooding",
+        "entradilla": "The investment exceeds five million euros and the plan involves redirecting the streams towards the Maliaya estuary.",
+        "cuerpo": [
+          "The municipality of Villaviciosa is going to uncover four streams that currently run underground or poorly channelled and that, when it rains heavily, overflow and flood the town. The work will cost 5.2 million euros.",
+          "The project plans to build a naturalised receiving channel to collect the water from those regatos (small streams) and carry it in an orderly way to the Maliaya estuary, preventing it from spreading through the streets.",
+          "For now the source gives no start date or works schedule, so it will be necessary to wait for the council to set out the timetable."
+        ],
+        "apunte": "Getting water to go where it should: it sounds simple, but it costs 5.2 million.",
+        "enVeinte": [
+          "Villaviciosa will invest 5.2 million euros in opening up four streams to prevent the town from flooding.",
+          "A naturalised channel will be built to collect the water from the streams and carry it to the Maliaya estuary.",
+          "There is no start date yet: the council still has to set the timetable."
+        ],
+        "cifra": {
+          "numero": "5.2 million",
+          "unidad": "euros",
+          "glosa": "This is the planned budget for the entire project. An investment of this size in municipal water infrastructure is unusual and suggests that the flooding problem in the town is considered serious and urgent."
+        },
+        "palabra": {
+          "termino": "regato",
+          "como": "regatu in Asturian, regato in the local Castilian Spanish",
+          "definicion": "A small stream, usually with a narrow channel and a flow that varies with rainfall. They are common throughout the Asturian municipalities, and when they are buried beneath an urban area they can become a serious problem during periods of heavy weather."
+        },
+        "porQue": "If the works go ahead, residents of Villaviciosa would no longer see their streets flooded every time a heavy load of water arrives from the north.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa découvre quatre ruisseaux pour endiguer les inondations",
+        "entradilla": "L'investissement dépasse les cinq millions d'euros et le plan prévoit de rediriger les ruisseaux vers la ria Maliaya.",
+        "cuerpo": [
+          "La commune de Villaviciosa va découvrir quatre ruisseaux qui coulent actuellement sous terre ou mal canalisés et qui, par fortes pluies, débordent et inondent la ville. Les travaux coûteront 5,2 millions d'euros.",
+          "Le projet prévoit la construction d'un canal collecteur à aspect naturalisé qui recueillera l'eau de ces regatos (petits ruisseaux) et la conduira de façon ordonnée jusqu'à la ria Maliaya, en évitant qu'elle ne se répande dans les rues.",
+          "Pour l'heure, la source ne donne ni date de début ni délai de travaux, il faudra donc attendre que la mairie précise le calendrier des opérations."
+        ],
+        "apunte": "Que l'eau aille où elle doit aller : ça paraît simple, mais ça coûte 5,2 millions.",
+        "enVeinte": [
+          "Villaviciosa investira 5,2 millions d'euros pour ouvrir à l'air libre quatre ruisseaux afin d'éviter que la ville ne soit inondée.",
+          "Un canal naturalisé sera construit pour recueillir l'eau des ruisseaux et la conduire jusqu'à la ria Maliaya.",
+          "Pour l'instant, il n'y a pas de date de début : la mairie doit encore préciser le calendrier."
+        ],
+        "cifra": {
+          "numero": "5,2 millions",
+          "unidad": "euros",
+          "glosa": "C'est le budget prévu pour l'ensemble de l'opération. Un investissement de cette ampleur dans les infrastructures hydrauliques municipales est peu courant et laisse penser que le problème des inondations dans la ville est jugé grave et urgent."
+        },
+        "palabra": {
+          "termino": "regato",
+          "como": "regatu en asturien, regato en castillan local",
+          "definicion": "Petit ruisseau au lit généralement étroit et au débit variable selon les pluies. Ils sont nombreux dans les communes asturiennes et, lorsqu'ils sont enterrés sous le tissu urbain, ils peuvent devenir un problème sérieux en période de mauvais temps."
+        },
+        "porQue": "Si les travaux aboutissent, les habitants de Villaviciosa ne verraient plus leurs rues inondées à chaque fois qu'une bonne charge d'eau arrive du nord.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa legt vier Bäche frei, um Überschwemmungen zu verhindern",
+        "entradilla": "Die Investition übersteigt fünf Millionen Euro; der Plan sieht vor, die Bäche zur Ría Maliaya umzuleiten.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa wird vier Bäche freilegen, die derzeit unterirdisch oder schlecht kanalisiert verlaufen und bei starkem Regen über die Ufer treten und den Ort überfluten. Die Maßnahme kostet 5,2 Millionen Euro.",
+          "Das Projekt sieht den Bau eines naturnahen Sammelgerinnes vor, das das Wasser dieser Regatos (kleine Bäche) aufnimmt und geordnet zur Ría Maliaya leitet, damit es sich nicht in den Straßen ausbreitet.",
+          "Zum jetzigen Zeitpunkt nennt die Quelle weder einen Starttermin noch eine Baudauer; es bleibt abzuwarten, bis das Rathaus den Zeitplan der Arbeiten konkretisiert."
+        ],
+        "apunte": "Dass das Wasser dorthin fließt, wo es soll: klingt einfach, kostet aber 5,2 Millionen.",
+        "enVeinte": [
+          "Villaviciosa investiert 5,2 Millionen Euro, um vier Bäche freizulegen und Überschwemmungen im Ort zu verhindern.",
+          "Ein naturnahes Gerinne wird gebaut, das das Wasser der Bäche sammelt und zur Ría Maliaya leitet.",
+          "Es gibt noch keinen Starttermin: Das Rathaus muss den Zeitplan erst festlegen."
+        ],
+        "cifra": {
+          "numero": "5,2 Millionen",
+          "unidad": "Euro",
+          "glosa": "Dies ist das geplante Budget für die Gesamtmaßnahme. Eine Investition dieser Größenordnung in kommunale Wasserinfrastruktur ist ungewöhnlich und deutet darauf hin, dass das Überschwemmungsproblem im Ort als ernst und dringend eingestuft wird."
+        },
+        "palabra": {
+          "termino": "regato",
+          "como": "regatu auf Asturisch, regato im hiesigen Kastilischen",
+          "definicion": "Ein kleiner Bach mit meist schmalem Bett und je nach Niederschlag stark schwankendem Wasserstand. In den asturischen Gemeinden sind sie weit verbreitet; wenn sie unter bebautem Gebiet verlegt werden, können sie bei Unwettern zu einem ernsthaften Problem werden."
+        },
+        "porQue": "Wenn die Arbeiten umgesetzt werden, müssten die Bewohner von Villaviciosa nicht mehr zusehen, wie ihre Straßen überflutet werden, sobald von Norden her starker Regen einsetzt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "8-000-culetes-de-sidra-se-convierten-en-7-000-euros-para-luchar-contra",
     "url": "/villaviciosa/8-000-culetes-de-sidra-se-convierten-en-7-000-euros-para-luchar-contra/",
     "concejo": "Villaviciosa",
@@ -9584,6 +10382,256 @@
       "galban para apoyar su trabajo frente al cancer",
       "para apoyar su trabajo frente al cancer infantil"
     ]
+  },
+  {
+    "id": "villaviciosa-premia-a-los-mejores-gaiteros-y-se-llena-de-su-musica",
+    "url": "/villaviciosa/villaviciosa-premia-a-los-mejores-gaiteros-y-se-llena-de-su-musica/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Los gaiteros llenan Villaviciosa en la final del festival",
+    "entradilla": "La última jornada del Festival Internacional convirtió calles y chigres en escenario.",
+    "cuerpo": [
+      "Las bandas de gaita que cerraron el certamen recorrieron el centro de Villaviciosa y animaron los chigres de la villa en la jornada final del Festival Internacional.",
+      "El evento concluyó con la entrega de premios a los mejores gaiteros de la edición."
+    ],
+    "apunte": "Donde hay gaita, hay chigre; donde hay chigre, hay sidrina.",
+    "enVeinte": [
+      "El Festival Internacional de Gaita de Villaviciosa cerró su última jornada con música por las calles y los bares de la villa.",
+      "Varias bandas animaron el ambiente mientras se entregaban los premios a los mejores gaiteros del certamen.",
+      "La competición ya ha concluido."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "chigre",
+      "como": "chígre",
+      "definicion": "Bar típico asturiano donde se sirve sidra, a veces directamente del tonel. Es el corazón social de cualquier fiesta o festejo en Asturias."
+    },
+    "porQue": "Si vives en Villaviciosa, este fin de semana la música de gaita ha sido la banda sonora de la villa; quien se lo perdió tendrá que esperar al año que viene.",
+    "etiquetas": [
+      "gaita",
+      "festival",
+      "Villaviciosa",
+      "música tradicional"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/06/villa1-ROUm6tQGVZ62lCnif7nJIsI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-07T16:55:31.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-premia-mejores-gaiteros-llena-musica-20260906201005-nt.html",
+      "titularOriginal": "Villaviciosa premia a los mejores gaiteros y se llena de su música"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Pipers fill Villaviciosa at the festival final",
+        "entradilla": "The last day of the Festival Internacional turned streets and chigres (traditional cider bars) into a stage.",
+        "cuerpo": [
+          "The pipe bands that closed the competition walked through the centre of Villaviciosa and brought the town's chigres to life on the final day of the Festival Internacional.",
+          "The event ended with the prize-giving ceremony for the best pipers of the edition."
+        ],
+        "apunte": "Where there's a gaita, there's a chigre; where there's a chigre, there's sidrina (cider).",
+        "enVeinte": [
+          "The Festival Internacional de Gaita de Villaviciosa closed its final day with music through the streets and bars of the town.",
+          "Several bands kept the atmosphere alive while the prizes were awarded to the best pipers of the competition.",
+          "The competition has now come to an end."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre",
+          "definicion": "A traditional Asturian bar where cider is served, sometimes straight from the barrel. It is the social heart of any celebration or festivity in Asturias."
+        },
+        "porQue": "If you live in Villaviciosa, the sound of the gaita has been the town's soundtrack this weekend; anyone who missed it will have to wait until next year.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les cornemuseurs envahissent Villaviciosa pour la finale du festival",
+        "entradilla": "La dernière journée du Festival Internacional a transformé rues et chigres (bars à cidre traditionnels) en scène.",
+        "cuerpo": [
+          "Les groupes de cornemuse qui ont clôturé le concours ont parcouru le centre de Villaviciosa et animé les chigres de la ville lors de la dernière journée du Festival Internacional.",
+          "L'événement s'est terminé par la remise des prix aux meilleurs sonneurs de l'édition."
+        ],
+        "apunte": "Là où il y a une gaita, il y a un chigre ; là où il y a un chigre, il y a de la sidrina (cidre).",
+        "enVeinte": [
+          "Le Festival Internacional de Gaita de Villaviciosa a clos sa dernière journée avec de la musique dans les rues et les bars de la ville.",
+          "Plusieurs groupes ont animé l'ambiance pendant la remise des prix aux meilleurs sonneurs du concours.",
+          "La compétition est désormais terminée."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre",
+          "definicion": "Bar traditionnel asturien où l'on sert du cidre, parfois directement au tonneau. C'est le cœur social de toute fête ou festivité en Asturies."
+        },
+        "porQue": "Si vous habitez à Villaviciosa, la musique de la gaita a été la bande-son de la ville ce week-end ; ceux qui l'ont manquée devront attendre l'année prochaine.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Dudelsackpfeifer füllen Villaviciosa beim Festivalfinale",
+        "entradilla": "Der letzte Tag des Festival Internacional verwandelte Straßen und Chigres (traditionelle Cidre-Bars) in eine Bühne.",
+        "cuerpo": [
+          "Die Dudelsackkapellen, die den Wettbewerb abschlossen, zogen durch das Zentrum von Villaviciosa und belebten die Chigres der Stadt am letzten Tag des Festival Internacional.",
+          "Die Veranstaltung endete mit der Preisverleihung an die besten Dudelsackpfeifer der Ausgabe."
+        ],
+        "apunte": "Wo eine Gaita erklingt, gibt es einen Chigre; wo es einen Chigre gibt, gibt es Sidrina (Cidre).",
+        "enVeinte": [
+          "Das Festival Internacional de Gaita de Villaviciosa schloss seinen letzten Tag mit Musik durch die Straßen und Bars der Stadt ab.",
+          "Mehrere Kapellen sorgten für Stimmung, während die Preise an die besten Dudelsackpfeifer des Wettbewerbs vergeben wurden.",
+          "Der Wettbewerb ist nun beendet."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre",
+          "definicion": "Eine traditionelle asturische Bar, in der Cidre ausgeschenkt wird, manchmal direkt vom Fass. Es ist der gesellschaftliche Mittelpunkt jedes Festes oder jeder Feier in Asturien."
+        },
+        "porQue": "Wer in Villaviciosa lebt, hatte an diesem Wochenende die Gaita als Klangkulisse der Stadt; wer sie verpasst hat, muss bis nächstes Jahr warten.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-logra-7-000-euros-en-la-fiesta-de-sidra",
+    "url": "/villaviciosa/villaviciosa-logra-7-000-euros-en-la-fiesta-de-sidra/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "La Fiesta de Sidra recauda 7.000 euros para Galbán",
+    "entradilla": "El certamen de Villaviciosa cerró con más participantes que nunca, según el alcalde Alejandro Vega.",
+    "cuerpo": [
+      "La Fiesta de Sidra de Villaviciosa dejó este año 7.000 euros que irán destinados a Galbán. El alcalde, Alejandro Vega, aseguró que la participación batió récord.",
+      "No es la primera vez que la recaudación del certamen se destina a una causa local, pero los datos de este año superan ediciones anteriores según el propio Vega."
+    ],
+    "apunte": "Siete mil euros y un récord: no está mal para una fiesta que huele a manzana.",
+    "enVeinte": [
+      "La Fiesta de Sidra de Villaviciosa recaudó 7.000 euros en su última edición.",
+      "El dinero se destina íntegramente a Galbán.",
+      "El alcalde Alejandro Vega destacó que la participación fue la más alta hasta ahora."
+    ],
+    "cifra": {
+      "numero": "7.000",
+      "unidad": "euros",
+      "glosa": "Es lo que recaudó la Fiesta de Sidra de Villaviciosa en esta edición. Todo el dinero va para Galbán, sin que el material de partida especifique en qué se empleará exactamente."
+    },
+    "palabra": {
+      "termino": "sidrina",
+      "como": "si-DRI-na",
+      "definicion": "Forma cariñosa y coloquial de llamar a la sidra en Asturias. No es una variedad distinta: es la misma sidra natural, pero dicha con el afecto de quien la lleva bebiendo toda la vida."
+    },
+    "porQue": "Lo recaudado en una fiesta popular acaba en Galbán, lo que muestra cómo los certámenes locales sirven también de apoyo a causas del concejo.",
+    "etiquetas": [
+      "sidra",
+      "Villaviciosa",
+      "Galbán",
+      "certamen"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/07/villa2-RNPaBFwZadsqX6liLTLitJN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-07T16:37:37.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-logra-7000-euros-fiesta-sidra-20260907183737-nt.html",
+      "titularOriginal": "Villaviciosa logra 7.000 euros en la Fiesta de Sidra"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Fiesta de Sidra raises 7,000 euros for Galbán",
+        "entradilla": "The Villaviciosa contest closed with more participants than ever, according to mayor Alejandro Vega.",
+        "cuerpo": [
+          "The Fiesta de Sidra of Villaviciosa raised 7,000 euros this year, all of which will go to Galbán. Mayor Alejandro Vega confirmed that participation broke records.",
+          "It is not the first time the contest's proceeds have gone to a local cause, but this year's figures surpass previous editions, according to Vega himself."
+        ],
+        "apunte": "Seven thousand euros and a record turnout: not bad for a festival that smells of apples.",
+        "enVeinte": [
+          "The Fiesta de Sidra of Villaviciosa raised 7,000 euros in its latest edition.",
+          "The money goes entirely to Galbán.",
+          "Mayor Alejandro Vega noted that participation was the highest to date."
+        ],
+        "cifra": {
+          "numero": "7,000",
+          "unidad": "euros",
+          "glosa": "This is what the Fiesta de Sidra of Villaviciosa raised in this edition. All the money goes to Galbán; the source material does not specify exactly how it will be spent."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "An affectionate, colloquial name for cider in Asturias. It is not a different variety: it is the same natural cider, simply spoken with the warmth of someone who has been drinking it all their life."
+        },
+        "porQue": "The money raised at a popular festival ends up in Galbán, showing how local contests also serve as support for causes within the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Fiesta de Sidra récolte 7 000 euros pour Galbán",
+        "entradilla": "Le concours de Villaviciosa s'est clôturé avec plus de participants que jamais, selon le maire Alejandro Vega.",
+        "cuerpo": [
+          "La Fiesta de Sidra de Villaviciosa a rapporté cette année 7 000 euros qui seront destinés à Galbán. Le maire, Alejandro Vega, a assuré que la participation a battu un record.",
+          "Ce n'est pas la première fois que les recettes du concours sont destinées à une cause locale, mais les chiffres de cette année dépassent les éditions précédentes, selon Vega lui-même."
+        ],
+        "apunte": "Sept mille euros et un record : pas mal pour une fête qui sent la pomme.",
+        "enVeinte": [
+          "La Fiesta de Sidra de Villaviciosa a récolté 7 000 euros lors de sa dernière édition.",
+          "L'argent est intégralement destiné à Galbán.",
+          "Le maire Alejandro Vega a souligné que la participation était la plus élevée à ce jour."
+        ],
+        "cifra": {
+          "numero": "7 000",
+          "unidad": "euros",
+          "glosa": "C'est ce qu'a rapporté la Fiesta de Sidra de Villaviciosa lors de cette édition. Tout l'argent va à Galbán ; le matériau source ne précise pas à quoi il sera exactement employé."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "Nom affectueux et familier donné au cidre en Asturies. Il ne s'agit pas d'une variété différente : c'est le même cidre naturel, simplement dit avec la tendresse de quelqu'un qui en boit depuis toujours."
+        },
+        "porQue": "L'argent récolté lors d'une fête populaire se retrouve à Galbán, ce qui montre comment les concours locaux servent aussi de soutien à des causes de la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Fiesta de Sidra sammelt 7.000 Euro für Galbán",
+        "entradilla": "Der Wettbewerb in Villaviciosa endete mit mehr Teilnehmenden als je zuvor, so Bürgermeister Alejandro Vega.",
+        "cuerpo": [
+          "Das Fiesta de Sidra von Villaviciosa brachte dieses Jahr 7.000 Euro ein, die an Galbán gehen werden. Bürgermeister Alejandro Vega bestätigte, dass die Beteiligung einen Rekord gebrochen habe.",
+          "Es ist nicht das erste Mal, dass die Einnahmen des Wettbewerbs einer lokalen Initiative zugutekommen, doch die Zahlen dieses Jahres übertreffen frühere Ausgaben, so Vega selbst."
+        ],
+        "apunte": "Siebentausend Euro und ein Rekord: nicht schlecht für ein Fest, das nach Äpfeln duftet.",
+        "enVeinte": [
+          "Das Fiesta de Sidra von Villaviciosa hat in seiner letzten Ausgabe 7.000 Euro eingenommen.",
+          "Das Geld geht vollständig an Galbán.",
+          "Bürgermeister Alejandro Vega betonte, dass die Beteiligung so hoch war wie nie zuvor."
+        ],
+        "cifra": {
+          "numero": "7.000",
+          "unidad": "Euro",
+          "glosa": "So viel hat das Fiesta de Sidra von Villaviciosa in dieser Ausgabe eingenommen. Das gesamte Geld geht an Galbán; die Quelle gibt nicht genau an, wofür es verwendet werden soll."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "Eine liebevolle, umgangssprachliche Bezeichnung für Cidre in Asturien. Es handelt sich nicht um eine andere Sorte: Es ist derselbe naturtrübe Cidre, nur ausgesprochen mit der Herzlichkeit von jemandem, der ihn sein ganzes Leben lang getrunken hat."
+        },
+        "porQue": "Das bei einem Volksfest gesammelte Geld landet in Galbán – ein Beispiel dafür, wie lokale Veranstaltungen auch als Unterstützung für Anliegen innerhalb der Gemeinde dienen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
   },
   {
     "id": "la-balsa-forestal-de-becena-volvera-a-dar-servicio-tanto-a-ganaderos-c",
@@ -10222,6 +11270,123 @@
     }
   },
   {
+    "id": "el-plan-gastronomico-en-asturias-villaviciosa-sidra-huerta-ria-y-prerr",
+    "url": "/villaviciosa/el-plan-gastronomico-en-asturias-villaviciosa-sidra-huerta-ria-y-prerr/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa celebra hoy su Fiesta de la Sidra",
+    "entradilla": "La capital manzanera junta en un solo día sidra, huerta, ría y prerrománico.",
+    "cuerpo": [
+      "Villaviciosa celebra este sábado su Fiesta de la Sidra, la cita anual que convierte a la villa en el centro manzanero de Asturias.",
+      "El concejo suma a la fiesta otros atractivos que lo distinguen: la ría más extensa de la región y el conjunto monumental de Valdediós, referencia del prerrománico asturiano."
+    ],
+    "apunte": "Un día en que Villaviciosa tiene más planes que horas.",
+    "enVeinte": [
+      "Villaviciosa celebra hoy su Fiesta de la Sidra como Capital Manzanera de España.",
+      "El concejo cuenta además con la ría más grande de Asturias y el monumento prerrománico de Valdediós.",
+      "Es una jornada que mezcla tradición sidrera, naturaleza y patrimonio en un solo sitio."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "sidrina",
+      "como": "si-DRI-na",
+      "definicion": "Forma cariñosa y popular de llamar a la sidra en Asturias. No es la sidra de gala ni la de protocolo: es la del vaso en la mano, la de todos los días y la de las fiestas de pueblo."
+    },
+    "porQue": "Si vives en el concejo o cerca, hoy tienes fiesta, sidra y monumentos a la vuelta de casa; si te llega alguien de fuera, el día está hecho.",
+    "etiquetas": [
+      "sidra",
+      "Villaviciosa",
+      "Fiesta de la Sidra",
+      "Valdediós"
+    ],
+    "fechaEvento": "2026-09-05",
+    "tipoEvento": "fiesta",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/gastronomia/2026/09/04/pl1-kiLB--1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-05T07:51:24.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/gastronomia/plan-gastronomico-asturias-villaviciosa-sidra-huerta-ria-20260905095123-nt.html",
+      "titularOriginal": "El plan gastronómico en Asturias: Villaviciosa, sidra, huerta, ría y Prerrománico"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa celebrates its Fiesta de la Sidra today",
+        "entradilla": "The apple capital brings together cider, orchards, estuary and pre-Romanesque art in a single day.",
+        "cuerpo": [
+          "Villaviciosa celebrates its Fiesta de la Sidra this Saturday, the annual event that turns the town into the apple capital of Asturias.",
+          "The municipality adds to the festival other attractions that set it apart: the most extensive estuary in the region and the monumental complex of Valdediós, a landmark of Asturian pre-Romanesque architecture."
+        ],
+        "apunte": "A day when Villaviciosa has more plans than hours.",
+        "enVeinte": [
+          "Villaviciosa celebrates its Fiesta de la Sidra today as Capital Manzanera de España.",
+          "The municipality also has the largest estuary in Asturias and the pre-Romanesque monument of Valdediós.",
+          "It is a day that blends cider tradition, nature and heritage in one place."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "An affectionate, everyday name for cider in Asturias. Not the formal or ceremonial kind: this is the cider you hold in your hand, the kind for ordinary days and village festivals."
+        },
+        "porQue": "If you live in the municipality or nearby, today you have a festival, cider and monuments on your doorstep; if you have visitors coming, the day is sorted.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa fête aujourd'hui sa Fiesta de la Sidra",
+        "entradilla": "La capitale de la pomme réunit en une seule journée cidre, vergers, ria et art préroman.",
+        "cuerpo": [
+          "Villaviciosa célèbre ce samedi sa Fiesta de la Sidra, le rendez-vous annuel qui fait de la ville le cœur cidricole des Asturies.",
+          "La commune ajoute à la fête d'autres atouts qui la distinguent : la ria la plus étendue de la région et l'ensemble monumental de Valdediós, référence du préroman asturien."
+        ],
+        "apunte": "Un jour où Villaviciosa a plus de projets que d'heures.",
+        "enVeinte": [
+          "Villaviciosa célèbre aujourd'hui sa Fiesta de la Sidra en tant que Capital Manzanera de España.",
+          "La commune possède également la ria la plus grande des Asturies et le monument préroman de Valdediós.",
+          "C'est une journée qui mêle tradition cidrière, nature et patrimoine en un seul endroit."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "Façon affectueuse et populaire de désigner le cidre aux Asturies. Ce n'est pas le cidre de cérémonie ni celui des grandes occasions : c'est celui qu'on tient dans la main, celui de tous les jours et des fêtes de village."
+        },
+        "porQue": "Si vous habitez dans la commune ou à proximité, vous avez aujourd'hui une fête, du cidre et des monuments à deux pas de chez vous ; si vous recevez des visiteurs, la journée est toute trouvée.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa feiert heute seine Fiesta de la Sidra",
+        "entradilla": "Die Apfelhauptstadt vereint an einem einzigen Tag Apfelwein, Obstgärten, Flussmündung und vorromanische Kunst.",
+        "cuerpo": [
+          "Villaviciosa feiert diesen Samstag seine Fiesta de la Sidra, das alljährliche Ereignis, das die Stadt zum Apfelweinzentrum Asturiens macht.",
+          "Die Gemeinde ergänzt das Fest durch weitere Besonderheiten: die ausgedehnteste Flussmündung der Region und das Monumentalensemble von Valdediós, ein Referenzwerk der asturischen Vorromanik."
+        ],
+        "apunte": "Ein Tag, an dem Villaviciosa mehr Pläne hat als Stunden.",
+        "enVeinte": [
+          "Villaviciosa feiert heute seine Fiesta de la Sidra als Capital Manzanera de España.",
+          "Die Gemeinde verfügt zudem über die größte Flussmündung Asturiens und das vorromanische Denkmal von Valdediós.",
+          "Es ist ein Tag, der Apfelwein-Tradition, Natur und Kulturerbe an einem einzigen Ort verbindet."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-DRI-na",
+          "definicion": "Eine liebevolle und volkstümliche Bezeichnung für Apfelwein in Asturien. Nicht der feierliche oder protokollarische Apfelwein: das ist der, den man im Glas in der Hand hält, der des Alltags und der Dorffeste."
+        },
+        "porQue": "Wer in der Gemeinde oder in der Nähe lebt, hat heute ein Fest, Apfelwein und Denkmäler vor der Haustür; wer Besuch aus der Ferne erwartet, dem ist der Tag gemacht.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "tito-parra-ganador-de-la-swiss-peak-trail-es-la-carrera-en-la-que-mas-",
     "url": "/cabrales/tito-parra-ganador-de-la-swiss-peak-trail-es-la-carrera-en-la-que-mas-/",
     "concejo": "Cabrales",
@@ -10594,6 +11759,240 @@
         },
         "porQue": "El Portal strukturiert den Kalender der halben Gemeinde: Hotels, Sidrerien, Händler und Familien, die an diesem Wochenende zurückkehren. Dass der Termin gehalten wird, auch wenn das Format sich ändert, ist der Unterschied zwischen einer Pause und einer verlorenen Tradition.",
         "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-ritmo-breton-conquista-villaviciosa",
+    "url": "/villaviciosa/el-ritmo-breton-conquista-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Bagad Kemper llena Villaviciosa al ritmo bretón",
+    "entradilla": "La banda escocesa-bretona es uno de los grandes atractivos del Festival Internacional de la Gaita en la capital maliaya.",
+    "cuerpo": [
+      "Bagad Kemper, formación llegada desde Bretaña, fue el gran reclamo del Festival Internacional de la Gaita de Villaviciosa, que llenó la ciudad.",
+      "La gaita, instrumento que aquí se siente como propio, tiende ese puente natural con las músicas célticas del Atlántico europeo, y los bretones lo saben bien."
+    ],
+    "apunte": "Bretaña desembarcó en Villaviciosa y la villa les devolvió el lleno.",
+    "enVeinte": [
+      "La formación bretona Bagad Kemper actuó en el Festival Internacional de la Gaita de Villaviciosa.",
+      "Su presencia llenó la capital maliaya y fue el plato fuerte del certamen.",
+      "El festival refuerza año tras año el vínculo entre la gaita asturiana y las músicas atlánticas."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliaya",
+      "como": "ma-LLA-ya",
+      "definicion": "Gentilicio popular de Villaviciosa. Viene del nombre asturiano de la villa, Maliaya, que es como la llaman los de aquí y como aparece en muchos textos históricos."
+    },
+    "porQue": "El Festival Internacional de la Gaita pone a Villaviciosa en el mapa de las músicas atlánticas y atrae visitantes de fuera del concejo cada edición.",
+    "etiquetas": [
+      "Festival de la Gaita",
+      "Villaviciosa",
+      "Bagad Kemper",
+      "música celta"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/04/bretones-gaitas-R8CCNmspdXnSN5SyGeIpJyH-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-04T19:04:15.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ritmo-breton-conquista-villaviciosa-20260904210414-nt.html",
+      "titularOriginal": "El ritmo bretón conquista Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Bagad Kemper fills Villaviciosa to a Breton beat",
+        "entradilla": "The Scottish-Breton band is one of the star attractions of the Festival Internacional de la Gaita in the maliaya capital.",
+        "cuerpo": [
+          "Bagad Kemper, a formation from Brittany, was the main draw of the Festival Internacional de la Gaita de Villaviciosa, which filled the town.",
+          "The bagpipe, an instrument that feels like its own here, builds that natural bridge with the Celtic music of the European Atlantic, and the Bretons know it well."
+        ],
+        "apunte": "Brittany landed in Villaviciosa, and the town gave them a full house in return.",
+        "enVeinte": [
+          "The Breton formation Bagad Kemper performed at the Festival Internacional de la Gaita de Villaviciosa.",
+          "Their presence filled the maliaya capital and was the highlight of the event.",
+          "The festival strengthens year after year the bond between the Asturian bagpipe and Atlantic music."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LYA-ya",
+          "definicion": "The popular demonym for Villaviciosa. It comes from the Asturian name of the town, Maliaya, which is what locals call it and how it appears in many historical texts."
+        },
+        "porQue": "The Festival Internacional de la Gaita puts Villaviciosa on the map of Atlantic music and draws visitors from outside the municipality every edition.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Bagad Kemper remplit Villaviciosa au rythme breton",
+        "entradilla": "La formation écosse-bretonne est l'une des grandes attractions du Festival Internacional de la Gaita dans la capitale maliaya.",
+        "cuerpo": [
+          "Bagad Kemper, formation venue de Bretagne, a été le grand attrait du Festival Internacional de la Gaita de Villaviciosa, qui a rempli la ville.",
+          "La cornemuse, instrument que l'on ressent ici comme le sien, tisse ce pont naturel avec les musiques celtiques de l'Atlantique européen, et les Bretons le savent bien."
+        ],
+        "apunte": "La Bretagne a débarqué à Villaviciosa, et la ville leur a rendu la pareille avec une salle comble.",
+        "enVeinte": [
+          "La formation bretonne Bagad Kemper s'est produite au Festival Internacional de la Gaita de Villaviciosa.",
+          "Sa présence a rempli la capitale maliaya et a constitué le clou du certamen.",
+          "Le festival renforce année après année le lien entre la cornemuse asturienne et les musiques atlantiques."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LYA-ya",
+          "definicion": "Le gentilé populaire de Villaviciosa. Il vient du nom asturien de la ville, Maliaya, c'est ainsi que l'appellent les gens d'ici et que le nom apparaît dans de nombreux textes historiques."
+        },
+        "porQue": "Le Festival Internacional de la Gaita place Villaviciosa sur la carte des musiques atlantiques et attire des visiteurs venant de l'extérieur de la commune à chaque édition.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Bagad Kemper füllt Villaviciosa im bretonischen Rhythmus",
+        "entradilla": "Die schottisch-bretonische Formation ist eine der großen Attraktionen des Festival Internacional de la Gaita in der maliaya-Hauptstadt.",
+        "cuerpo": [
+          "Bagad Kemper, eine Formation aus der Bretagne, war das große Zugpferd des Festival Internacional de la Gaita de Villaviciosa, das die Stadt füllte.",
+          "Der Dudelsack, ein Instrument, das man hier als das eigene empfindet, schlägt diese natürliche Brücke zur keltischen Musik des europäischen Atlantiks – und die Bretonen wissen das sehr gut."
+        ],
+        "apunte": "Die Bretagne landete in Villaviciosa, und die Stadt gab ihnen ein volles Haus zurück.",
+        "enVeinte": [
+          "Die bretonische Formation Bagad Kemper trat beim Festival Internacional de la Gaita de Villaviciosa auf.",
+          "Ihre Anwesenheit füllte die maliaya-Hauptstadt und war der Höhepunkt des Certamens.",
+          "Das Festival stärkt Jahr für Jahr die Verbindung zwischen dem asturischen Dudelsack und der atlantischen Musik."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliaya",
+          "como": "ma-LJA-ya",
+          "definicion": "Der volkstümliche Einwohnername für Villaviciosa. Er leitet sich vom asturischen Namen der Stadt ab, Maliaya, wie die Einheimischen sie nennen und wie er in vielen historischen Texten erscheint."
+        },
+        "porQue": "Das Festival Internacional de la Gaita setzt Villaviciosa auf die Landkarte der atlantischen Musik und zieht bei jeder Ausgabe Besucher von außerhalb der Gemeinde an.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-organiza-tierra-ganadera-un-homenaje-al-sector-como-alter",
+    "url": "/villaviciosa/villaviciosa-organiza-tierra-ganadera-un-homenaje-al-sector-como-alter/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa crea 'Tierra Ganadera' por la dermatosis nodular",
+    "entradilla": "La enfermedad que obliga a suspender el concurso del Portal da paso a un programa con deporte tradicional, música y pulpo.",
+    "cuerpo": [
+      "El concurso ganadero del Portal no se celebra este año. La dermatosis nodular, enfermedad que afecta al ganado bovino, ha forzado su suspensión y el Ayuntamiento de Villaviciosa ha respondido con un evento alternativo llamado 'Tierra Ganadera', pensado para no dejar al sector sin su homenaje anual.",
+      "El programa combina exhibiciones de deporte rural tradicional, actuaciones musicales en directo y jornadas gastronómicas centradas en el pulpo."
+    ],
+    "apunte": "Cuando la enfermedad cancela la fiesta, el concejo inventa otra.",
+    "enVeinte": [
+      "La dermatosis nodular obliga a suspender el tradicional concurso ganadero del Portal en Villaviciosa.",
+      "El Ayuntamiento organiza 'Tierra Ganadera' como alternativa, con deporte tradicional, música en directo y jornadas de pulpo.",
+      "El sector ganadero tendrá igualmente su homenaje, aunque en un formato distinto al de siempre."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "dermatosis nodular",
+      "como": "dermatosis nodular (se dice igual en todas partes)",
+      "definicion": "Enfermedad vírica que afecta al ganado bovino y provoca nódulos en la piel. Se transmite por insectos picadores y puede obligar a restringir movimientos de animales y suspender concentraciones ganaderas, como ha ocurrido aquí con el concurso del Portal."
+    },
+    "porQue": "El concurso del Portal es una de las citas ganaderas más arraigadas del concejo; su sustitución por 'Tierra Ganadera' decide cómo se reconoce al sector este año y marca un precedente si la enfermedad persiste.",
+    "etiquetas": [
+      "ganadería",
+      "Villaviciosa",
+      "dermatosis nodular",
+      "Tierra Ganadera"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/09/04/villaviciosa-ganadero-RiidbERYCIUhU3adw83BqBO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-09-04T17:25:59.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-tierra-ganadera-homenaje-sector-20260904191507-nt.html",
+      "titularOriginal": "Villaviciosa organiza 'Tierra Ganadera', un homenaje al sector, como alternativa al tradicional concurso del Portal"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa creates 'Tierra Ganadera' in response to lumpy skin disease",
+        "entradilla": "The disease that forces the Portal livestock show to be cancelled makes way for a programme featuring traditional sport, music and octopus.",
+        "cuerpo": [
+          "The Portal livestock show will not take place this year. Lumpy skin disease, which affects cattle, has forced its cancellation, and the Villaviciosa council has responded with an alternative event called 'Tierra Ganadera', designed to ensure the sector does not go without its annual tribute.",
+          "The programme combines displays of traditional rural sport, live music performances and gastronomic days centred on octopus."
+        ],
+        "apunte": "When disease cancels the festival, the municipality invents another one.",
+        "enVeinte": [
+          "Lumpy skin disease forces the cancellation of the traditional Portal livestock show in Villaviciosa.",
+          "The council is organising 'Tierra Ganadera' as an alternative, with traditional sport, live music and octopus days.",
+          "The livestock sector will still receive its annual tribute, albeit in a different format from usual."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "dermatosis nodular",
+          "como": "dermatosis nodular (pronounced the same everywhere)",
+          "definicion": "A viral disease affecting cattle that causes nodules on the skin. It is transmitted by biting insects and can force restrictions on animal movement and the suspension of livestock gatherings — as has happened here with the Portal show."
+        },
+        "porQue": "The Portal show is one of the most deep-rooted livestock events in the municipality; its replacement by 'Tierra Ganadera' determines how the sector is recognised this year and sets a precedent should the disease persist.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa crée 'Tierra Ganadera' en réponse à la dermatose nodulaire",
+        "entradilla": "La maladie qui contraint à suspendre le concours du Portal laisse place à un programme alliant sport traditionnel, musique et poulpe.",
+        "cuerpo": [
+          "Le concours d'élevage du Portal n'aura pas lieu cette année. La dermatose nodulaire, maladie qui touche les bovins, a entraîné sa suspension, et la mairie de Villaviciosa a répondu en organisant un événement alternatif baptisé 'Tierra Ganadera', conçu pour que le secteur ne soit pas privé de son hommage annuel.",
+          "Le programme associe des démonstrations de sport rural traditionnel, des concerts en direct et des journées gastronomiques consacrées au poulpe."
+        ],
+        "apunte": "Quand la maladie annule la fête, la commune en invente une autre.",
+        "enVeinte": [
+          "La dermatose nodulaire contraint à suspendre le traditionnel concours d'élevage du Portal à Villaviciosa.",
+          "La mairie organise 'Tierra Ganadera' en remplacement, avec sport traditionnel, concerts en direct et journées poulpe.",
+          "Le secteur de l'élevage aura tout de même son hommage, dans un format différent de l'habituel."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "dermatosis nodular",
+          "como": "dermatosis nodular (se prononce de la même façon partout)",
+          "definicion": "Maladie virale affectant les bovins, qui provoque des nodules sur la peau. Elle se transmet par des insectes piqueurs et peut contraindre à restreindre les mouvements d'animaux et à suspendre les rassemblements d'élevage — comme cela s'est produit ici avec le concours du Portal."
+        },
+        "porQue": "Le concours du Portal est l'un des rendez-vous d'élevage les plus ancrés de la commune ; son remplacement par 'Tierra Ganadera' détermine la façon dont le secteur est reconnu cette année et crée un précédent si la maladie persiste.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schafft 'Tierra Ganadera' wegen der Lumpy-skin-Krankheit",
+        "entradilla": "Die Krankheit, die zur Absage des Wettbewerbs am Portal zwingt, macht den Weg frei für ein Programm mit traditionellem Sport, Musik und Tintenfisch.",
+        "cuerpo": [
+          "Der Viehwettbewerb am Portal findet dieses Jahr nicht statt. Die Lumpy-skin-Krankheit, die Rinder befällt, hat seine Absage erzwungen, und das Rathaus von Villaviciosa hat mit einer Alternativveranstaltung namens 'Tierra Ganadera' reagiert, die dafür sorgen soll, dass dem Sektor seine jährliche Würdigung nicht fehlt.",
+          "Das Programm verbindet Vorführungen traditioneller ländlicher Sportarten, Live-Musikauftritte und gastronomische Tage rund um Tintenfisch."
+        ],
+        "apunte": "Wenn eine Krankheit das Fest absagt, erfindet die Gemeinde ein neues.",
+        "enVeinte": [
+          "Die Lumpy-skin-Krankheit zwingt zur Absage des traditionellen Viehwettbewerbs am Portal in Villaviciosa.",
+          "Das Rathaus organisiert 'Tierra Ganadera' als Alternative, mit traditionellem Sport, Live-Musik und Tintenfischtagen.",
+          "Der Viehsektor erhält seine jährliche Würdigung dennoch — wenn auch in einem anderen Format als gewohnt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "dermatosis nodular",
+          "como": "dermatosis nodular (wird überall gleich ausgesprochen)",
+          "definicion": "Eine Viruserkrankung, die Rinder befällt und Knoten auf der Haut verursacht. Sie wird durch stechende Insekten übertragen und kann dazu zwingen, Tierbewegungen einzuschränken und Viehversammlungen abzusagen — wie es hier beim Wettbewerb am Portal geschehen ist."
+        },
+        "porQue": "Der Wettbewerb am Portal ist eine der verwurzeltsten Viehveranstaltungen der Gemeinde; seine Ablösung durch 'Tierra Ganadera' bestimmt, wie der Sektor in diesem Jahr gewürdigt wird, und schafft einen Präzedenzfall, sollte die Krankheit anhalten.",
+        "lugar": "Villaviciosa",
         "precio": ""
       }
     }
@@ -17516,6 +18915,123 @@
     ]
   },
   {
+    "id": "rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-",
+    "url": "/cabrales/rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Rescatan herido a un montañero en la canal de Jidiellu",
+    "entradilla": "El helicóptero lo llevó al HUCA tras una caída en uno de los pasos más exigentes del concejo.",
+    "cuerpo": [
+      "Un montañero de 62 años tuvo que ser rescatado este lunes en la canal de Jidiellu, en Cabrales, después de caer y resultar herido.",
+      "El operativo terminó con su traslado en helicóptero al Hospital Universitario Central de Asturias, el HUCA, en Oviedo."
+    ],
+    "apunte": "La montaña no perdona, y Jidiellu lo recuerda cada temporada.",
+    "enVeinte": [
+      "Un montañero de 62 años cayó y se hirió en la canal de Jidiellu, en Cabrales.",
+      "Los servicios de rescate lo evacuaron en helicóptero hasta el HUCA en Oviedo.",
+      "El suceso ocurrió el 17 de agosto de 2026."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "canal",
+      "como": "canal (igual que en castellano, pero aquí con significado propio)",
+      "definicion": "En la montaña asturiana, una canal es un corredor empinado y estrecho entre dos paredes de roca, a menudo con nieve, piedra suelta o hierba mojada. No es un cauce de agua: es una vía natural de ascenso o descenso que exige experiencia y precaución."
+    },
+    "porQue": "Jidiellu atrae cada verano a montañeros de fuera y de casa; un rescate como este recuerda que esa canal requiere preparación real, no solo ganas de cumbre.",
+    "etiquetas": [
+      "rescate",
+      "montaña",
+      "Cabrales",
+      "Jidiellu"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/17/rescate-cabrales-kDU-U301323643479BPF-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-17T12:44:26.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/rescate-montana-cabrales-herido-20260817144322-nt.html",
+      "titularOriginal": "Rescatan a un montañero de 62 años que resulto herido tras caer en la canal de Jidiellu, en Cabrales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Rescuers bring injured hiker down from the canal de Jidiellu",
+        "entradilla": "A helicopter took him to the HUCA after a fall on one of the most demanding routes in the municipality.",
+        "cuerpo": [
+          "A 62-year-old hiker had to be rescued on Monday in the canal de Jidiellu, in Cabrales, after falling and sustaining injuries.",
+          "The operation ended with his transfer by helicopter to the Hospital Universitario Central de Asturias, the HUCA, in Oviedo."
+        ],
+        "apunte": "The mountain shows no mercy, and Jidiellu is a reminder of that every season.",
+        "enVeinte": [
+          "A 62-year-old hiker fell and was injured in the canal de Jidiellu, in Cabrales.",
+          "Rescue services evacuated him by helicopter to the HUCA in Oviedo.",
+          "The incident took place on 17 August 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "canal",
+          "como": "canal (same spelling as in Spanish, but with its own meaning here)",
+          "definicion": "In the Asturian mountains, a canal is a steep, narrow gully between two rock faces, often covered in snow, loose stone or wet grass. It is not a watercourse: it is a natural line of ascent or descent that demands experience and care."
+        },
+        "porQue": "Jidiellu draws hikers from near and far every summer; a rescue like this is a reminder that the canal calls for real preparation, not just the urge to reach the summit.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un alpiniste blessé secouru dans la canal de Jidiellu",
+        "entradilla": "L'hélicoptère l'a transporté au HUCA après une chute sur l'un des passages les plus exigeants de la commune.",
+        "cuerpo": [
+          "Un alpiniste de 62 ans a dû être secouru ce lundi dans la canal de Jidiellu, à Cabrales, après une chute dont il est ressorti blessé.",
+          "L'opération s'est achevée par son transfert en hélicoptère vers le Hospital Universitario Central de Asturias, le HUCA, à Oviedo."
+        ],
+        "apunte": "La montagne ne pardonne pas, et Jidiellu le rappelle chaque saison.",
+        "enVeinte": [
+          "Un alpiniste de 62 ans a chuté et s'est blessé dans la canal de Jidiellu, à Cabrales.",
+          "Les services de secours l'ont évacué en hélicoptère jusqu'au HUCA à Oviedo.",
+          "L'incident s'est produit le 17 août 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "canal",
+          "como": "canal (même orthographe qu'en espagnol, mais avec un sens propre ici)",
+          "definicion": "Dans la montagne asturienne, une canal est un couloir raide et étroit entre deux parois rocheuses, souvent recouvert de neige, de pierres instables ou d'herbe mouillée. Ce n'est pas un cours d'eau : c'est une voie naturelle de montée ou de descente qui exige expérience et prudence."
+        },
+        "porQue": "Jidiellu attire chaque été des alpinistes venus de loin comme de la région ; un sauvetage comme celui-ci rappelle que cette canal requiert une vraie préparation, et pas seulement l'envie d'atteindre le sommet.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Verletzter Bergsteiger aus der Canal de Jidiellu gerettet",
+        "entradilla": "Ein Hubschrauber brachte ihn nach einem Sturz auf einem der anspruchsvollsten Abschnitte der Gemeinde ins HUCA.",
+        "cuerpo": [
+          "Ein 62-jähriger Bergsteiger musste am Montag in der Canal de Jidiellu in Cabrales gerettet werden, nachdem er gestürzt war und sich dabei verletzt hatte.",
+          "Der Einsatz endete mit seinem Abtransport per Hubschrauber in das Hospital Universitario Central de Asturias, das HUCA, in Oviedo."
+        ],
+        "apunte": "Das Gebirge kennt keine Gnade, und Jidiellu erinnert jede Saison daran.",
+        "enVeinte": [
+          "Ein 62-jähriger Bergsteiger stürzte in der Canal de Jidiellu in Cabrales und verletzte sich dabei.",
+          "Die Rettungsdienste evakuierten ihn per Hubschrauber ins HUCA in Oviedo.",
+          "Der Vorfall ereignete sich am 17. August 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "canal",
+          "como": "canal (gleiche Schreibweise wie im Spanischen, hier jedoch mit eigener Bedeutung)",
+          "definicion": "Im asturischen Gebirge bezeichnet eine Canal eine steile, schmale Rinne zwischen zwei Felswänden, oft mit Schnee, losem Gestein oder nassem Gras. Es handelt sich nicht um ein Gewässer, sondern um einen natürlichen Auf- oder Abstiegsweg, der Erfahrung und Vorsicht erfordert."
+        },
+        "porQue": "Jidiellu zieht jeden Sommer Bergsteiger von nah und fern an; eine Rettungsaktion wie diese erinnert daran, dass diese Canal echte Vorbereitung verlangt – und nicht nur den Wunsch, den Gipfel zu erreichen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "rescatan-a-1-600-metros-de-altitud-a-un-montanero-herido-en-cabrales",
     "url": "/cabrales/rescatan-a-1-600-metros-de-altitud-a-un-montanero-herido-en-cabrales/",
     "concejo": "Cabrales",
@@ -17628,6 +19144,174 @@
     ]
   },
   {
+    "id": "muestra-de-cine-en-pilona-la-benefilmica",
+    "url": "/pilona/muestra-de-cine-en-pilona-la-benefilmica/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piloña estrena su propia muestra de cine en septiembre",
+    "entradilla": "Vecinas y vecinos del conceyu con oficio en el cine se han unido para traer tres días de películas, praos y taquilla inversa.",
+    "cuerpo": [
+      "La Benefílmica arranca los días 4, 5 y 6 de septiembre con una muestra que combina sesiones en sala, en el teatro de La Benéfica de L'Infiestu, con proyecciones al aire libre en los praos de Vegarrionda y Antrialgo. La idea es que quien vive lejos de una pantalla grande también pueda llegar.",
+      "Cada jornada mezcla cine de autor con actividades alrededor del territorio. La muestra se apoya en Estamos de Cine, el servicio itinerante de Mucho Foco en lo Rural, que aporta pantalla profesional, sonido y técnicos. También hay programación junto a la Plataforma Salvemos Peñamayor y con Borines Manantial de Cultura, que incluye una jornada de cortometrajes y visita a la muestra 'Artistes Benéficos' en el Antiguo Balneario de Borines.",
+      "Todas las sesiones funcionan con taquilla inversa: cada uno paga lo que puede o lo que considera justo. Las actividades periféricas se celebran el 1 y el 5 de septiembre en el Antiguo Balneario de Borines y en el Área Recreativa de La Cu."
+    ],
+    "apunte": "Cine en el prau: que nadie se quede fuera por el bolsillo ni por vivir lejos del centro.",
+    "enVeinte": [
+      "Un grupo de vecinos de Piloña con trabajo en el mundo del cine organiza la primera Benefílmica, una muestra cinematográfica propia del conceyu.",
+      "Los días 4, 5 y 6 de septiembre habrá proyecciones en el teatro de La Benéfica de L'Infiestu y también en praos de Vegarrionda y Antrialgo, con pantalla profesional itinerante.",
+      "Todas las sesiones van con taquilla inversa: se paga lo que se puede, y las actividades periféricas arrancan ya el 1 de septiembre en Borines."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "prau",
+      "como": "prau (tal cual, sin cambiar la 'u' final)",
+      "definicion": "Palabra asturiana para prado, la finca de hierba que rodea tantos pueblos del conceyu. Aquí no es decorado: es el escenario donde La Benefílmica planta la pantalla grande para que el cine llegue a quien vive monte adentro."
+    },
+    "porQue": "Por primera vez Piloña tiene una muestra de cine propia, hecha desde dentro, que lleva la pantalla hasta los pueblos pequeños y no le cierra la puerta a nadie por lo que lleva en el bolsillo.",
+    "etiquetas": [
+      "cine",
+      "La Benéfica",
+      "L'Infiestu",
+      "cultura"
+    ],
+    "fechaEvento": "2026-09-04",
+    "tipoEvento": "cine",
+    "lugar": "Teatro de La Benéfica (L'Infiestu), prau La Meredal (Vegarrionda), prau El Pielgu (Antrialgo), Antiguo Balneario de Borines",
+    "hora": "",
+    "precio": "taquilla inversa",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2026/08/00-Benefilmica-IG-Story.jpg",
+    "fecha": "2026-08-14T13:00:00.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/benefilmica/?utm_source=rss&utm_medium=rss&utm_campaign=benefilmica",
+      "titularOriginal": "Muestra de cine en Piloña: La Benefílmica"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "itinerante de mucho foco en lo rural que"
+    ]
+  },
+  {
+    "id": "rescate-en-los-picos-de-europa-herido-un-montanero-en-cabrales-tras-ca",
+    "url": "/cabrales/rescate-en-los-picos-de-europa-herido-un-montanero-en-cabrales-tras-ca/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Un montañero cae veinte metros en Cabrales",
+    "entradilla": "El helicóptero lo sacó de los Picos y lo llevó al HUCA.",
+    "cuerpo": [
+      "Un montañero resultó herido el miércoles en los Picos de Europa, en el concejo de Cabrales, tras precipitarse por una pared de veinte metros.",
+      "El helicóptero de rescate lo trasladó al Hospital Universitario Central de Asturias, en Oviedo."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Un montañero cayó veinte metros en los Picos de Europa, dentro del concejo de Cabrales.",
+      "El helicóptero de rescate acudió al lugar y lo evacuó.",
+      "Fue trasladado al HUCA, en Oviedo."
+    ],
+    "cifra": {
+      "numero": "20",
+      "unidad": "metros",
+      "glosa": "Es la altura desde la que cayó el montañero. Una caída de ese recorrido en terreno de montaña supone un riesgo grave de fracturas y traumatismos, de ahí que el rescate fuera en helicóptero."
+    },
+    "palabra": null,
+    "porQue": "Los Picos de Europa reciben cada verano miles de senderistas y escaladores; saber que el helicóptero de rescate opera en la zona recuerda a los vecinos y visitantes que ese terreno exige preparación y precaución.",
+    "etiquetas": [
+      "rescate",
+      "Picos de Europa",
+      "Cabrales",
+      "montaña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/13/rescate-kdDH-U301268095523pNF-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-13T08:29:25.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/rescate-picos-europa-herido-montanero-cabrales-caida-20260813102904-nt.html",
+      "titularOriginal": "Rescate en los Picos de Europa: herido un montañero en Cabrales tras caer desde una altura de 20 metros"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A hiker falls twenty metres in Cabrales",
+        "entradilla": "The helicopter pulled him out of the Picos and took him to the HUCA.",
+        "cuerpo": [
+          "A hiker was injured on Wednesday in the Picos de Europa, in the municipality of Cabrales, after falling down a twenty-metre rock face.",
+          "The rescue helicopter transferred him to the Hospital Universitario Central de Asturias, in Oviedo."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "A hiker fell twenty metres in the Picos de Europa, within the municipality of Cabrales.",
+          "The rescue helicopter reached the scene and evacuated him.",
+          "He was taken to the HUCA, in Oviedo."
+        ],
+        "cifra": {
+          "numero": "20",
+          "unidad": "metres",
+          "glosa": "That is the height from which the hiker fell. A fall of that distance on mountain terrain carries a serious risk of fractures and trauma, which is why the rescue was carried out by helicopter."
+        },
+        "palabra": null,
+        "porQue": "The Picos de Europa attract thousands of hikers and climbers every summer; knowing that a rescue helicopter operates in the area reminds both residents and visitors that the terrain demands preparation and caution.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un randonneur chute de vingt mètres à Cabrales",
+        "entradilla": "L'hélicoptère l'a sorti des Picos et l'a conduit au HUCA.",
+        "cuerpo": [
+          "Un randonneur a été blessé mercredi dans les Picos de Europa, dans la commune de Cabrales, après être tombé le long d'une paroi de vingt mètres.",
+          "L'hélicoptère de secours l'a transporté à l'Hospital Universitario Central de Asturias, à Oviedo."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Un randonneur a chuté de vingt mètres dans les Picos de Europa, dans la commune de Cabrales.",
+          "L'hélicoptère de secours s'est rendu sur place et l'a évacué.",
+          "Il a été transféré au HUCA, à Oviedo."
+        ],
+        "cifra": {
+          "numero": "20",
+          "unidad": "mètres",
+          "glosa": "C'est la hauteur depuis laquelle le randonneur a chuté. Une chute de cette distance en terrain de montagne présente un risque sérieux de fractures et de traumatismes, ce qui explique que le secours ait été effectué par hélicoptère."
+        },
+        "palabra": null,
+        "porQue": "Les Picos de Europa accueillent chaque été des milliers de randonneurs et d'alpinistes ; savoir qu'un hélicoptère de secours opère dans la zone rappelle aux habitants et aux visiteurs que ce terrain exige préparation et prudence.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Bergsteiger stürzt zwanzig Meter in Cabrales ab",
+        "entradilla": "Der Hubschrauber holte ihn aus den Picos und brachte ihn ins HUCA.",
+        "cuerpo": [
+          "Ein Bergsteiger wurde am Mittwoch in den Picos de Europa, in der Gemeinde Cabrales, verletzt, nachdem er eine zwanzig Meter hohe Felswand hinabgestürzt war.",
+          "Der Rettungshubschrauber brachte ihn ins Hospital Universitario Central de Asturias in Oviedo."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Ein Bergsteiger stürzte zwanzig Meter tief in den Picos de Europa, im Gebiet der Gemeinde Cabrales.",
+          "Der Rettungshubschrauber traf am Einsatzort ein und evakuierte ihn.",
+          "Er wurde ins HUCA in Oviedo gebracht."
+        ],
+        "cifra": {
+          "numero": "20",
+          "unidad": "Meter",
+          "glosa": "Das ist die Höhe, aus der der Bergsteiger abstürzte. Ein Sturz dieser Distanz in Gebirgsgelände birgt ein ernstes Risiko für Knochenbrüche und Traumata — daher erfolgte die Rettung per Hubschrauber."
+        },
+        "palabra": null,
+        "porQue": "Die Picos de Europa ziehen jeden Sommer Tausende von Wanderern und Kletterern an; die Tatsache, dass ein Rettungshubschrauber in der Region im Einsatz ist, erinnert Anwohner und Besucher daran, dass dieses Gelände Vorbereitung und Vorsicht erfordert.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "dos-rescates-en-una-tarde-en-cabrales-uno-de-ellos-con-pronostico-rese",
     "url": "/cabrales/dos-rescates-en-una-tarde-en-cabrales-uno-de-ellos-con-pronostico-rese/",
     "concejo": "Cabrales",
@@ -17726,6 +19410,107 @@
       "tuvo que ser trasladado al huca con pronostico",
       "que ser trasladado al huca con pronostico reservado"
     ]
+  },
+  {
+    "id": "puertas-de-cabrales-acoge-una-nueva-edicion-de-su-festival-de-cine-de-",
+    "url": "/cabrales/puertas-de-cabrales-acoge-una-nueva-edicion-de-su-festival-de-cine-de-/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Puertas de Cabrales arranca el jueves con cine y música",
+    "entradilla": "El festival de cine de autor e independiente del pueblo abre con un homenaje al cineasta Gonzalo Suárez.",
+    "cuerpo": [
+      "El festival de cine de autor e independiente de Puertas de Cabrales vuelve este jueves 13 de agosto y se prolonga hasta el domingo 16 con una programación que mezcla cine, música y otras actividades.",
+      "La sesión inaugural estará dedicada a Gonzalo Suárez, cineasta al que el festival rinde homenaje para abrir la edición de este año."
+    ],
+    "apunte": "Cuatro días de cine en un pueblo que no necesita pantalla grande para tener buen gusto.",
+    "enVeinte": [
+      "El festival de cine de autor e independiente de Puertas de Cabrales arranca el jueves 13 de agosto.",
+      "La apertura rinde homenaje al cineasta Gonzalo Suárez.",
+      "La programación, con cine, música y otras actividades, se extiende hasta el domingo 16."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si vives en el concejo de Cabrales o alrededores, tienes cuatro días para acercarte a Puertas y ver cine de autor sin salir de casa.",
+    "etiquetas": [
+      "cine",
+      "Cabrales",
+      "Puertas",
+      "festival"
+    ],
+    "fechaEvento": "2026-08-13",
+    "tipoEvento": "cine",
+    "lugar": "Puertas de Cabrales",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/12/puertas-film-fest-kOLC-U301252361129KMG-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-12T09:42:40.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/puertas-cabrales-film-fest-cine-autor-independiente-20260812114053-nt.html",
+      "titularOriginal": "Puertas de Cabrales acoge una nueva edición de su festival de cine de autor e independiente"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Puertas de Cabrales kicks off on Thursday with film and music",
+        "entradilla": "The village's auteur and independent film festival opens with a tribute to filmmaker Gonzalo Suárez.",
+        "cuerpo": [
+          "The auteur and independent film festival of Puertas de Cabrales returns this Thursday, 13 August, and runs until Sunday the 16th with a programme that mixes film, music and other activities.",
+          "The opening session will be dedicated to Gonzalo Suárez, the filmmaker the festival honours to launch this year's edition."
+        ],
+        "apunte": "Four days of film in a village that needs no big screen to have good taste.",
+        "enVeinte": [
+          "The auteur and independent film festival of Puertas de Cabrales starts on Thursday, 13 August.",
+          "The opening pays tribute to filmmaker Gonzalo Suárez.",
+          "The programme, featuring film, music and other activities, runs until Sunday the 16th."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you live in the municipality of Cabrales or nearby, you have four days to head to Puertas and watch auteur cinema without leaving home.",
+        "lugar": "Puertas de Cabrales",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Puertas de Cabrales démarre jeudi avec cinéma et musique",
+        "entradilla": "Le festival de cinéma d'auteur et indépendant du village ouvre sur un hommage au cinéaste Gonzalo Suárez.",
+        "cuerpo": [
+          "Le festival de cinéma d'auteur et indépendant de Puertas de Cabrales revient ce jeudi 13 août et se prolonge jusqu'au dimanche 16 avec une programmation mêlant cinéma, musique et autres activités.",
+          "La séance inaugurale sera consacrée à Gonzalo Suárez, le cinéaste à qui le festival rend hommage pour ouvrir l'édition de cette année."
+        ],
+        "apunte": "Quatre jours de cinéma dans un village qui n'a pas besoin d'un grand écran pour avoir du goût.",
+        "enVeinte": [
+          "Le festival de cinéma d'auteur et indépendant de Puertas de Cabrales commence le jeudi 13 août.",
+          "L'ouverture rend hommage au cinéaste Gonzalo Suárez.",
+          "La programmation, avec cinéma, musique et autres activités, s'étend jusqu'au dimanche 16."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous vivez dans la commune de Cabrales ou aux alentours, vous avez quatre jours pour vous rendre à Puertas et voir du cinéma d'auteur sans quitter la région.",
+        "lugar": "Puertas de Cabrales",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Puertas de Cabrales startet am Donnerstag mit Film und Musik",
+        "entradilla": "Das Autorenkino- und Independentfilmfestival des Dorfes eröffnet mit einer Hommage an den Filmemacher Gonzalo Suárez.",
+        "cuerpo": [
+          "Das Autorenkino- und Independentfilmfestival von Puertas de Cabrales kehrt diesen Donnerstag, den 13. August, zurück und läuft bis Sonntag, den 16., mit einem Programm, das Film, Musik und weitere Aktivitäten verbindet.",
+          "Die Eröffnungsvorstellung ist Gonzalo Suárez gewidmet, dem Filmemacher, dem das Festival zu Beginn dieser Ausgabe eine Hommage erweist."
+        ],
+        "apunte": "Vier Tage Film in einem Dorf, das keine große Leinwand braucht, um Geschmack zu beweisen.",
+        "enVeinte": [
+          "Das Autorenkino- und Independentfilmfestival von Puertas de Cabrales beginnt am Donnerstag, dem 13. August.",
+          "Die Eröffnung ist eine Hommage an den Filmemacher Gonzalo Suárez.",
+          "Das Programm mit Film, Musik und weiteren Aktivitäten erstreckt sich bis Sonntag, den 16."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer in der Gemeinde Cabrales oder in der Umgebung lebt, hat vier Tage Zeit, nach Puertas zu fahren und Autorenfilme zu sehen, ohne weit von zu Hause wegzumüssen.",
+        "lugar": "Puertas de Cabrales",
+        "precio": ""
+      }
+    }
   },
   {
     "id": "cabrales-contara-con-seis-inmuebles-publicos-como-parte-del-plan-de-vi",
@@ -18436,6 +20221,380 @@
     ]
   },
   {
+    "id": "cuarto-alcuentru-de-folclor-de-l-infiestu",
+    "url": "/pilona/cuarto-alcuentru-de-folclor-de-l-infiestu/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Alcuentru de Folclor llega a su cuarta edición",
+    "entradilla": "L'Infiestu acoge los días 11 y 12 de septiembre una nueva entrega del encuentro que lleva el folclore a las calles y los bares del pueblo.",
+    "cuerpo": [
+      "El IV Alcuentru de Folclor de L'Infiestu se celebra el viernes 11 y el sábado 12 de septiembre. La propuesta es la misma de siempre: música tradicional fuera de los escenarios, con rondas por plazas y bares para que la gente la disfrute de cerca.",
+      "El viernes abre el dúo cántabro Casapalma, formado por Irene Atienza y Yoel Molina, con más de quince años en el mundo de la música. Su segundo disco, JOTAS, mezcla ritmos de baile tradicional con electrónica. Tocan en La Benéfica, la sala Casa Palma. Las entradas ya están a la venta: 10 euros en general y 8 euros para las Amigas con Derechos.",
+      "Lo que se recaude va íntegro a cubrir los costes del Alcuentru. El programa del sábado 12 no se ha publicado completo en el material disponible, así que habrá que estar atentos a los canales propios del evento para conocer el resto de la programación."
+    ],
+    "apunte": "Cuatro años bajando el folclore del escenario a la calle, y parece que la fórmula no falla.",
+    "enVeinte": [
+      "El Alcuentru de Folclor de L'Infiestu celebra su cuarta edición los días 11 y 12 de septiembre con música tradicional en plazas y bares.",
+      "El viernes 11 abre el dúo cántabro Casapalma en La Benéfica; las entradas cuestan 10 euros (8 para Amigas con Derechos).",
+      "La programación del sábado 12 aún no está publicada completa; conviene seguir los canales del evento para más detalles."
+    ],
+    "cifra": {
+      "numero": "4",
+      "unidad": "ediciones",
+      "glosa": "El Alcuentru de Folclor nació con la idea de acercar la música tradicional a la calle. Llegar a la cuarta edición confirma que el formato ha cuajado en Infiesto."
+    },
+    "palabra": {
+      "termino": "alcuentru",
+      "como": "al-CUEN-tru",
+      "definicion": "Palabra asturiana para 'encuentro'. En este contexto da nombre a un festival de folclore donde grupos de distintos lugares se juntan para compartir músicas y bailes tradicionales."
+    },
+    "porQue": "Quien vive en Piloña tiene a dos pasos un fin de semana de música en vivo, en la calle y a precio de barra, sin tener que moverse a una capital.",
+    "etiquetas": [
+      "folclore",
+      "Infiesto",
+      "Piloña",
+      "música tradicional"
+    ],
+    "fechaEvento": "2026-09-11",
+    "tipoEvento": "concierto",
+    "lugar": "La Benéfica (viernes 11)",
+    "hora": "",
+    "precio": "10 € general, 8 € Amigas con Derechos",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2025/10/Naysemeya-_-Alcuentru2025-133-1300x650.jpg",
+    "fecha": "2026-08-06T07:30:38.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/cuarto-alcuentru-de-folclor-de-linfiestu/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-alcuentru-de-folclor-de-linfiestu",
+      "titularOriginal": "Cuarto Alcuentru de Folclor de L’Infiestu"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "las entradas ya estan a la venta 10"
+    ]
+  },
+  {
+    "id": "rescatado-un-senderista-tras-sentirse-indispuesto-en-una-ruta-de-monta",
+    "url": "/cabrales/rescatado-un-senderista-tras-sentirse-indispuesto-en-una-ruta-de-monta/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Un helicóptero rescata a un senderista en Cabrales",
+    "entradilla": "Los Bomberos de Asturias lo evacuaron en aeronave medicalizada después de que no pudiera seguir la ruta por una indisposición.",
+    "cuerpo": [
+      "Un senderista tuvo que ser rescatado en plena montaña en el concejo de Cabrales tras sentirse indispuesto durante una ruta y no poder continuar hasta el refugio.",
+      "Los Bomberos de Asturias intervinieron tras recibir el aviso e izaron al hombre a bordo de un helicóptero medicalizado para trasladarlo a un lugar seguro."
+    ],
+    "apunte": "La montaña cobra cuando uno no le avisa que va.",
+    "enVeinte": [],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien salga a andar por los montes del concejo debe saber que un aviso a tiempo puede traer un helicóptero; sin él, nadie sabe dónde buscar.",
+    "etiquetas": [
+      "rescate",
+      "montaña",
+      "Cabrales",
+      "Bomberos de Asturias"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/03/refugio-jou-kAYE-U301141909077YSE-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-03T20:17:12.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/rescatado-senderista-tras-sentirse-indispuesto-ruta-montana-20260803221711-nt.html",
+      "titularOriginal": "Rescatado un senderista tras sentirse indispuesto en una ruta de montaña en Cabrales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A helicopter rescues a hiker in Cabrales",
+        "entradilla": "The Asturias Fire Service evacuated him by air ambulance after he was unable to continue the route due to sudden illness.",
+        "cuerpo": [
+          "A hiker had to be rescued deep in the mountains in the Cabrales municipality after feeling unwell during a route and being unable to continue to the refuge.",
+          "The Asturias Fire Service responded after receiving the alert and winched the man aboard a medical helicopter to take him to safety."
+        ],
+        "apunte": "The mountain charges a fee when you don't tell it you're coming.",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Anyone heading out to walk the mountains of the municipality should know that a timely alert can bring a helicopter; without one, no one knows where to look.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un hélicoptère secoure un randonneur à Cabrales",
+        "entradilla": "Les sapeurs-pompiers des Asturies l'ont évacué par hélicoptère médicalisé après qu'il s'est trouvé dans l'impossibilité de poursuivre l'itinéraire en raison d'un malaise.",
+        "cuerpo": [
+          "Un randonneur a dû être secouru en pleine montagne dans la commune de Cabrales après avoir été pris d'un malaise au cours d'une randonnée et ne pas avoir pu rejoindre le refuge.",
+          "Les sapeurs-pompiers des Asturies sont intervenus après avoir reçu l'alerte et ont hissé le randonneur à bord d'un hélicoptère médicalisé pour le transporter en lieu sûr."
+        ],
+        "apunte": "La montagne présente la note quand on ne l'a pas prévenue qu'on venait.",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Quiconque part marcher dans les montagnes de la commune doit savoir qu'une alerte donnée à temps peut faire venir un hélicoptère ; sans elle, personne ne sait où chercher.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Hubschrauber rettet Wanderer in Cabrales",
+        "entradilla": "Die Feuerwehr Asturiens evakuierte ihn mit einem Rettungshubschrauber, nachdem er die Route wegen eines plötzlichen Unwohlseins nicht fortsetzen konnte.",
+        "cuerpo": [
+          "Ein Wanderer musste mitten im Gebirge in der Gemeinde Cabrales gerettet werden, nachdem er sich auf einer Route unwohl gefühlt hatte und nicht mehr bis zur Schutzhütte weitergehen konnte.",
+          "Die Feuerwehr Asturiens rückte nach Eingang der Meldung aus und brachte den Mann per Seilwinde an Bord eines Rettungshubschraubers, um ihn an einen sicheren Ort zu transportieren."
+        ],
+        "apunte": "Das Gebirge stellt die Rechnung, wenn man ihm nicht Bescheid gibt, dass man kommt.",
+        "enVeinte": [],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer in den Bergen der Gemeinde wandern geht, sollte wissen: Eine rechtzeitige Meldung kann einen Hubschrauber herbeirufen — ohne sie weiß niemand, wo er suchen soll.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-ruta-del-cares-reabre-tras-el-accidente-del-pasado-viernes-no-exist",
+    "url": "/cabrales/la-ruta-del-cares-reabre-tras-el-accidente-del-pasado-viernes-no-exist/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "La Ruta del Cares vuelve a abrir sus puertas",
+    "entradilla": "Las autoridades confirmaron que no hay peligro inmediato tras el desprendimiento que hirió a dos mujeres el viernes.",
+    "cuerpo": [
+      "La senda del Cares, en Cabrales, volvió a recibir senderistas después de que un desprendimiento de rocas obligara a cerrarla el pasado viernes. El accidente dejó heridas a dos mujeres.",
+      "Quienes han revisado el recorrido concluyen que no existe ningún elemento con riesgo inminente de caída, condición que ha permitido levantar el cierre."
+    ],
+    "apunte": "La ruta más famosa de los Picos aguanta el golpe y vuelve a la carga.",
+    "enVeinte": [
+      "La Ruta del Cares ha reabierto después de cerrarse el viernes por un desprendimiento de rocas.",
+      "Dos mujeres resultaron heridas en el accidente que provocó el cierre de la senda.",
+      "La revisión del recorrido no ha detectado elementos con riesgo inminente de caída."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "senda",
+      "como": "senda",
+      "definicion": "Camino estrecho de montaña, generalmente sin asfaltar. La del Cares recorre el desfiladero entre Cabrales y León y es una de las más transitadas de los Picos de Europa."
+    },
+    "porQue": "Quien tenga planeado caminar el Cares este fin de semana puede hacerlo sin restricciones, aunque conviene seguir las indicaciones de las autoridades ante posibles zonas sensibles.",
+    "etiquetas": [
+      "Cares",
+      "Cabrales",
+      "Picos de Europa",
+      "desprendimiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/02/ruta-cares-RWXa9lpjbJ1d5lcwpFgrQzH-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-02T11:42:13.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/ruta-cares-reabre-tras-desprendimiento-heridos-20260802134145-nt.html",
+      "titularOriginal": "La Ruta del Cares reabre tras el accidente del pasado viernes: «No existen elementos con riesgo inminente de caída»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Ruta del Cares reopens",
+        "entradilla": "Authorities confirmed there is no immediate danger following the rockfall that injured two women on Friday.",
+        "cuerpo": [
+          "The Cares trail, in Cabrales, welcomed hikers again after a rockfall forced its closure last Friday. The accident left two women injured.",
+          "Those who inspected the route concluded that there are no elements at imminent risk of falling, a condition that allowed the closure to be lifted."
+        ],
+        "apunte": "The most famous route in the Picos takes the hit and bounces back.",
+        "enVeinte": [
+          "La Ruta del Cares has reopened after being closed on Friday due to a rockfall.",
+          "Two women were injured in the accident that caused the trail's closure.",
+          "The inspection of the route found no elements at imminent risk of falling."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "senda",
+          "como": "senda",
+          "definicion": "A narrow mountain path, generally unpaved. The Cares senda runs through the gorge between Cabrales and León and is one of the most walked trails in the Picos de Europa."
+        },
+        "porQue": "Anyone planning to walk the Cares this weekend can do so without restrictions, though it is advisable to follow the authorities' guidance regarding any potentially sensitive areas.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Ruta del Cares rouvre ses portes",
+        "entradilla": "Les autorités ont confirmé qu'il n'y a aucun danger immédiat après l'éboulement qui a blessé deux femmes vendredi.",
+        "cuerpo": [
+          "La senda del Cares, à Cabrales, a de nouveau accueilli des randonneurs après qu'un éboulement de rochers a contraint à sa fermeture vendredi dernier. L'accident a blessé deux femmes.",
+          "Les personnes qui ont inspecté le parcours ont conclu qu'aucun élément ne présentait de risque imminent de chute, condition qui a permis de lever la fermeture."
+        ],
+        "apunte": "L'itinéraire le plus célèbre des Picos encaisse le coup et repart de plus belle.",
+        "enVeinte": [
+          "La Ruta del Cares a rouvert après avoir été fermée vendredi en raison d'un éboulement de rochers.",
+          "Deux femmes ont été blessées dans l'accident qui a provoqué la fermeture de la senda.",
+          "L'inspection du parcours n'a détecté aucun élément présentant un risque imminent de chute."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "senda",
+          "como": "senda",
+          "definicion": "Chemin étroit de montagne, généralement non asphalté. Celle du Cares parcourt les gorges entre Cabrales et León et est l'une des plus fréquentées des Picos de Europa."
+        },
+        "porQue": "Ceux qui ont prévu de parcourir le Cares ce week-end peuvent le faire sans restriction, même s'il convient de suivre les indications des autorités concernant d'éventuelles zones sensibles.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Ruta del Cares wieder geöffnet",
+        "entradilla": "Die Behörden bestätigten, dass nach dem Felssturz, der am Freitag zwei Frauen verletzte, keine unmittelbare Gefahr besteht.",
+        "cuerpo": [
+          "Die Senda del Cares in Cabrales empfing wieder Wanderer, nachdem ein Felssturz vergangenen Freitag zur Sperrung geführt hatte. Bei dem Unfall wurden zwei Frauen verletzt.",
+          "Die Personen, die die Strecke überprüft haben, kamen zu dem Schluss, dass kein Element mit unmittelbarem Sturzrisiko vorhanden ist — eine Bedingung, die die Aufhebung der Sperrung ermöglichte."
+        ],
+        "apunte": "Die bekannteste Route der Picos steckt den Schlag weg und ist zurück.",
+        "enVeinte": [
+          "La Ruta del Cares wurde nach der Sperrung am Freitag infolge eines Felssturzes wieder geöffnet.",
+          "Zwei Frauen wurden bei dem Unfall verletzt, der zur Sperrung der Senda führte.",
+          "Die Überprüfung der Strecke ergab keine Elemente mit unmittelbarem Sturzrisiko."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "senda",
+          "como": "senda",
+          "definicion": "Ein schmaler Bergpfad, in der Regel nicht asphaltiert. Die Senda des Cares verläuft durch die Schlucht zwischen Cabrales und León und ist einer der meistbegangenen Wege der Picos de Europa."
+        },
+        "porQue": "Wer an diesem Wochenende den Cares wandern möchte, kann dies ohne Einschränkungen tun, sollte jedoch den Hinweisen der Behörden zu möglicherweise sensiblen Bereichen folgen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "complicado-rescate-de-dos-montaneros-que-se-lesionaron-en-cabrales",
+    "url": "/cabrales/complicado-rescate-de-dos-montaneros-que-se-lesionaron-en-cabrales/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Dos montañeros heridos evacuados en Cabrales",
+    "entradilla": "Los rescates se complicaron por la dureza del terreno en las rutas del Jou de los Cabrones y la Terenosa.",
+    "cuerpo": [
+      "Un hombre de 50 años sufrió un esguince y tuvo que ser atendido en el refugio del Jou de los Cabrones. Al mismo tiempo, una mujer de 52 cayó mientras bajaba por el camino de la Terenosa hacia Urriellu.",
+      "Los dos fueron trasladados al Hospital de Arriondas tras los rescates."
+    ],
+    "apunte": "La montaña no perdona, y el agosto tampoco.",
+    "enVeinte": [
+      "Un hombre de 50 años se lesionó en el Jou de los Cabrones y una mujer de 52 cayó en el camino de la Terenosa a Urriellu.",
+      "Ambos fueron rescatados y trasladados al Hospital de Arriondas.",
+      "Los dos incidentes se produjeron en rutas de alta montaña del concejo de Cabrales."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Urriellu",
+      "como": "u-RRIE-llu, con elle asturiana",
+      "definicion": "Nombre asturiano del Naranjo de Bulnes, el pico más emblemático de los Picos de Europa. Tiene 2.519 metros y es uno de los grandes reclamos del alpinismo en la cornisa cantábrica."
+    },
+    "porQue": "Las rutas de alta montaña de Cabrales concentran cada verano un buen número de rescates; conviene saber que el terreno exige preparación y calzado adecuado antes de salir.",
+    "etiquetas": [
+      "rescate",
+      "montaña",
+      "Cabrales",
+      "Picos de Europa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/01/rescate-cabrales-U201306632432C7G-U301114286842iR-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-01T17:12:42.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/rescates-montana-cabrales-lesion-20260801162615-nt.html",
+      "titularOriginal": "Complicado rescate de dos montañeros que se lesionaron en Cabrales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Two hikers injured and evacuated in Cabrales",
+        "entradilla": "The rescues were complicated by the harshness of the terrain on the routes of Jou de los Cabrones and la Terenosa.",
+        "cuerpo": [
+          "A 50-year-old man suffered a sprain and had to be treated at the Jou de los Cabrones refuge. At the same time, a 52-year-old woman fell while descending the path from la Terenosa towards Urriellu.",
+          "Both were transferred to the Hospital de Arriondas after the rescues."
+        ],
+        "apunte": "The mountain shows no mercy — and neither does August.",
+        "enVeinte": [
+          "A 50-year-old man was injured at Jou de los Cabrones and a 52-year-old woman fell on the path from la Terenosa to Urriellu.",
+          "Both were rescued and transferred to the Hospital de Arriondas.",
+          "The two incidents occurred on high-mountain routes in the municipality of Cabrales."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, with the Asturian ll sound",
+          "definicion": "The Asturian name for Naranjo de Bulnes, the most iconic peak in the Picos de Europa. It stands at 2,519 metres and is one of the great draws for alpinists along the Cantabrian coast."
+        },
+        "porQue": "The high-mountain routes of Cabrales see a significant number of rescues every summer; it is worth knowing that the terrain demands proper preparation and appropriate footwear before setting out.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Deux randonneurs blessés et évacués à Cabrales",
+        "entradilla": "Les sauvetages ont été compliqués par la rudesse du terrain sur les itinéraires du Jou de los Cabrones et de la Terenosa.",
+        "cuerpo": [
+          "Un homme de 50 ans a subi une entorse et a dû être pris en charge au refuge du Jou de los Cabrones. Au même moment, une femme de 52 ans a chuté en descendant le sentier de la Terenosa en direction d'Urriellu.",
+          "Tous deux ont été transférés à l'Hospital de Arriondas à l'issue des sauvetages."
+        ],
+        "apunte": "La montagne ne pardonne pas, et le mois d'août non plus.",
+        "enVeinte": [
+          "Un homme de 50 ans s'est blessé au Jou de los Cabrones et une femme de 52 ans a chuté sur le sentier de la Terenosa vers Urriellu.",
+          "Tous deux ont été secourus et transférés à l'Hospital de Arriondas.",
+          "Les deux incidents se sont produits sur des itinéraires de haute montagne dans la commune de Cabrales."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, avec le ll asturien",
+          "definicion": "Nom asturien du Naranjo de Bulnes, le sommet le plus emblématique des Picos de Europa. Il culmine à 2 519 mètres et constitue l'un des grands attraits de l'alpinisme sur la corniche cantabrique."
+        },
+        "porQue": "Les itinéraires de haute montagne de Cabrales concentrent chaque été un nombre important de sauvetages ; il convient de savoir que le terrain exige une bonne préparation et un chaussage adapté avant de partir.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zwei verletzte Bergsteiger in Cabrales gerettet und evakuiert",
+        "entradilla": "Die Rettungseinsätze wurden durch das schwierige Gelände auf den Routen des Jou de los Cabrones und der Terenosa erschwert.",
+        "cuerpo": [
+          "Ein 50-jähriger Mann erlitt eine Verstauchung und musste in der Schutzhütte des Jou de los Cabrones versorgt werden. Zur gleichen Zeit stürzte eine 52-jährige Frau beim Abstieg auf dem Weg von der Terenosa in Richtung Urriellu.",
+          "Beide wurden nach den Rettungseinsätzen in das Hospital de Arriondas gebracht."
+        ],
+        "apunte": "Die Berge kennen keine Gnade — und der August auch nicht.",
+        "enVeinte": [
+          "Ein 50-jähriger Mann verletzte sich am Jou de los Cabrones und eine 52-jährige Frau stürzte auf dem Weg von der Terenosa nach Urriellu.",
+          "Beide wurden gerettet und in das Hospital de Arriondas gebracht.",
+          "Beide Vorfälle ereigneten sich auf Hochgebirgsrouten in der Gemeinde Cabrales."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, mit dem asturischen ll-Laut",
+          "definicion": "Asturischer Name des Naranjo de Bulnes, des bekanntesten Gipfels der Picos de Europa. Er ist 2.519 Meter hoch und gilt als eines der bedeutendsten Ziele des Alpinismus an der kantabrischen Küste."
+        },
+        "porQue": "Die Hochgebirgsrouten von Cabrales verzeichnen jeden Sommer eine beträchtliche Anzahl von Rettungseinsätzen; es lohnt sich zu wissen, dass das Gelände eine gute Vorbereitung und geeignetes Schuhwerk erfordert, bevor man aufbricht.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "con-la-salida-asi-no-se-puede-celebrar-el-descenso-internacional-del-s",
     "url": "/pilona/con-la-salida-asi-no-se-puede-celebrar-el-descenso-internacional-del-s/",
     "concejo": "Piloña",
@@ -18536,6 +20695,128 @@
       "toman la salida los participantes del descenso internacional",
       "la salida los participantes del descenso internacional del",
       "salida los participantes del descenso internacional del sella"
+    ]
+  },
+  {
+    "id": "heridas-graves-dos-mujeres-de-19-y-53-anos-en-un-desprendimiento-en-la",
+    "url": "/cabrales/heridas-graves-dos-mujeres-de-19-y-53-anos-en-un-desprendimiento-en-la/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Dos heridas graves por piedras en el Cares",
+    "entradilla": "Las dos mujeres, de 19 y 53 años, estaban a seis kilómetros de Caín cuando un desprendimiento las alcanzó.",
+    "cuerpo": [
+      "Un desprendimiento de piedras hirió de gravedad a dos mujeres que caminaban por la Ruta del Cares, a seis kilómetros de Caín. Tienen 19 y 53 años y fueron trasladadas al HUCA.",
+      "La ruta permanece cortada por precaución mientras se evalúa la zona afectada."
+    ],
+    "apunte": "El Cares sigue siendo uno de los senderos más espectaculares de Asturias, y también uno de los que no perdonan un descuido de la montaña.",
+    "enVeinte": [
+      "Dos mujeres resultaron heridas graves tras la caída de piedras en la Ruta del Cares, a seis kilómetros de Caín.",
+      "Las afectadas, de 19 y 53 años, fueron evacuadas al HUCA.",
+      "La ruta está cortada por precaución desde que ocurrió el suceso."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Cares",
+      "como": "Cares, llano, sin acento",
+      "definicion": "El Cares es el río que da nombre a la ruta más concurrida del Parque Nacional de los Picos de Europa. El sendero discurre encajonado entre paredes de roca durante unos doce kilómetros entre Poncebos, en Cabrales, y Caín, en León."
+    },
+    "porQue": "Si tienes pensado bajar al Cares esta temporada, conviene que sepas que el tramo está cortado y que la montaña puede soltar piedras sin avisar: conviene consultar el estado de la ruta antes de salir.",
+    "etiquetas": [
+      "Ruta del Cares",
+      "Cabrales",
+      "accidente",
+      "desprendimiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/31/rescate-ruta-cares-U201306632432nFI-U301096455022sFB-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-07-31T11:48:23.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/desprendimiento-ruta-cares-heridos-20260731121950-nt.html",
+      "titularOriginal": "Heridas graves dos mujeres, de 19 y 53 años, en un desprendimiento en la Ruta del Cares"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Two women seriously injured by falling rocks on the Cares",
+        "entradilla": "The two women, aged 19 and 53, were six kilometres from Caín when a rockfall struck them.",
+        "cuerpo": [
+          "A rockfall seriously injured two women walking along the Ruta del Cares, six kilometres from Caín. They are 19 and 53 years old and were taken to the HUCA.",
+          "The route remains closed as a precaution while the affected area is assessed."
+        ],
+        "apunte": "The Cares remains one of the most spectacular trails in Asturias, and also one that leaves no room for a moment's carelessness in the mountains.",
+        "enVeinte": [
+          "Two women were seriously injured after a rockfall on the Ruta del Cares, six kilometres from Caín.",
+          "The two women, aged 19 and 53, were evacuated to the HUCA.",
+          "The route has been closed as a precaution since the incident occurred."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Cares",
+          "como": "Cares, flat stress, no accent",
+          "definicion": "The Cares is the river that gives its name to the most popular trail in the Parque Nacional de los Picos de Europa. The path runs enclosed between rock walls for about twelve kilometres between Poncebos, in Cabrales, and Caín, in León."
+        },
+        "porQue": "If you are planning to walk the Cares this season, you should know that the section is closed and that the mountain can shed rocks without warning: it is worth checking the route conditions before you set out.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Deux femmes grièvement blessées par des pierres sur le Cares",
+        "entradilla": "Les deux femmes, âgées de 19 et 53 ans, se trouvaient à six kilomètres de Caín lorsqu'un éboulement les a atteintes.",
+        "cuerpo": [
+          "Un éboulement a grièvement blessé deux femmes qui marchaient sur la Ruta del Cares, à six kilomètres de Caín. Elles ont 19 et 53 ans et ont été transportées au HUCA.",
+          "Le sentier reste fermé par précaution pendant l'évaluation de la zone touchée."
+        ],
+        "apunte": "Le Cares reste l'un des sentiers les plus spectaculaires des Asturies, et aussi l'un de ceux qui ne pardonnent pas la moindre inattention en montagne.",
+        "enVeinte": [
+          "Deux femmes ont été grièvement blessées après la chute de pierres sur la Ruta del Cares, à six kilomètres de Caín.",
+          "Les deux blessées, âgées de 19 et 53 ans, ont été évacuées vers le HUCA.",
+          "Le sentier est fermé par précaution depuis que l'incident s'est produit."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Cares",
+          "como": "Cares, accent tonique plat, sans accent écrit",
+          "definicion": "Le Cares est la rivière qui donne son nom au sentier le plus fréquenté du Parque Nacional de los Picos de Europa. Le chemin se déroule encaissé entre des parois rocheuses sur une douzaine de kilomètres entre Poncebos, dans la commune de Cabrales, et Caín, en León."
+        },
+        "porQue": "Si vous envisagez de descendre au Cares cette saison, sachez que le tronçon est fermé et que la montagne peut lâcher des pierres sans prévenir : il est conseillé de vérifier l'état du sentier avant de partir.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zwei Frauen bei Steinschlag auf dem Cares schwer verletzt",
+        "entradilla": "Die beiden Frauen, 19 und 53 Jahre alt, befanden sich sechs Kilometer von Caín entfernt, als ein Steinschlag sie traf.",
+        "cuerpo": [
+          "Ein Steinschlag verletzte zwei Frauen schwer, die auf der Ruta del Cares, sechs Kilometer von Caín entfernt, wanderten. Sie sind 19 und 53 Jahre alt und wurden ins HUCA gebracht.",
+          "Der Weg bleibt aus Sicherheitsgründen gesperrt, während das betroffene Gebiet begutachtet wird."
+        ],
+        "apunte": "Der Cares ist nach wie vor einer der eindrucksvollsten Wanderwege Asturiens – und einer jener Wege, die einen Moment der Unachtsamkeit am Berg nicht verzeihen.",
+        "enVeinte": [
+          "Zwei Frauen wurden nach einem Steinschlag auf der Ruta del Cares, sechs Kilometer von Caín entfernt, schwer verletzt.",
+          "Die beiden Betroffenen, 19 und 53 Jahre alt, wurden ins HUCA evakuiert.",
+          "Der Weg ist seit dem Vorfall aus Sicherheitsgründen gesperrt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Cares",
+          "como": "Cares, gleichmäßige Betonung, kein Akzent",
+          "definicion": "Der Cares ist der Fluss, der dem beliebtesten Wanderweg des Parque Nacional de los Picos de Europa seinen Namen gibt. Der Pfad verläuft auf etwa zwölf Kilometern zwischen Felswänden eingezwängt, von Poncebos in der Gemeinde Cabrales bis nach Caín in León."
+        },
+        "porQue": "Wer in dieser Saison den Cares erwandern möchte, sollte wissen, dass der Abschnitt gesperrt ist und dass der Berg ohne Vorwarnung Steine lösen kann: Es empfiehlt sich, vor dem Aufbruch den aktuellen Zustand des Weges zu prüfen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "fueron trasladadas al huca la ruta permanece cortada",
+      "trasladadas al huca la ruta permanece cortada por",
+      "al huca la ruta permanece cortada por precaucion"
     ]
   },
   {
@@ -18752,6 +21033,143 @@
       "con continuidad a los 153 habitantes de la",
       "continuidad a los 153 habitantes de la localidad"
     ]
+  },
+  {
+    "id": "el-queso-de-cabrales-en-alerta-roja-esta-puede-ser-la-ultima-edicion-d",
+    "url": "/cabrales/el-queso-de-cabrales-en-alerta-roja-esta-puede-ser-la-ultima-edicion-d/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El alcalde avisa: el Certamen del Cabrales peligra",
+    "entradilla": "La presentación de la LIV edición se convirtió en una llamada de socorro por la falta de una planta de gestión de residuos ganaderos.",
+    "cuerpo": [
+      "El alcalde de Cabrales lanzó una advertencia clara en la presentación del certamen de este año: si no se resuelve el problema de los residuos ganaderos, puede no haber edición siguiente.",
+      "La queja no es nueva, pero el tono sí. Usar el escenario del festival más conocido del concejo para poner sobre la mesa una reivindicación pendiente es una señal de que la paciencia se acaba.",
+      "Sin planta de gestión de residuos ganaderos, los productores de Cabrales trabajan con una carga que amenaza la viabilidad de las explotaciones. Y sin explotaciones, no hay queso. Y sin queso, no hay certamen."
+    ],
+    "apunte": "Cincuenta y cuatro ediciones para llegar a este punto: el festival del queso más famoso de Asturias pide socorro.",
+    "enVeinte": [
+      "El alcalde de Cabrales advirtió en la presentación del certamen de este año de que podría ser el último si no se soluciona el problema de los residuos ganaderos.",
+      "La reivindicación central es la construcción de una planta de gestión de residuos ganaderos, que los productores llevan tiempo reclamando.",
+      "Sin esa infraestructura, el futuro del sector quesero en el concejo —y del certamen— queda en el aire, según el regidor."
+    ],
+    "cifra": {
+      "numero": "54",
+      "unidad": "ediciones",
+      "glosa": "El Certamen del Queso de Cabrales llega este año a su edición número 54. Es uno de los festivales gastronómicos con más recorrido de Asturias y el escaparate más visible de un queso con Denominación de Origen Protegida."
+    },
+    "palabra": {
+      "termino": "llagar",
+      "como": "lla-gar, con ll asturiana",
+      "definicion": "Lugar donde se elabora y guarda la sidra, aunque en Cabrales el término también se usa para referirse a los espacios de producción artesanal en general. Forma parte del paisaje industrial y cultural de los concejos del oriente asturiano."
+    },
+    "porQue": "Si la planta de residuos ganaderos no llega, los productores de Cabrales lo tienen cada vez más difícil para seguir adelante, y eso afecta directamente a uno de los productos —y uno de los atractivos turísticos— más importantes del concejo.",
+    "etiquetas": [
+      "Cabrales",
+      "queso Cabrales",
+      "ganadería",
+      "certamen"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "gastro",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/28/cabrales-Rj42RB8x4yXVMXroxa6NzxI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-07-29T05:36:57.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/queso-cabrales-alerta-roja-puede-ultima-edicion-20260728201557-nt.html",
+      "titularOriginal": "El queso de Cabrales, en alerta roja: «Esta puede ser la última edición del certamen», advierte el alcalde"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The mayor warns: the Certamen del Cabrales is at risk",
+        "entradilla": "The presentation of the LIV edition became a cry for help over the lack of a livestock waste management plant.",
+        "cuerpo": [
+          "The mayor of Cabrales issued a clear warning at this year's certamen presentation: if the livestock waste problem is not resolved, there may be no next edition.",
+          "The complaint is not new, but the tone is. Using the stage of the municipality's best-known festival to put an unresolved grievance on the table is a sign that patience is running out.",
+          "Without a livestock waste management plant, Cabrales producers work under a burden that threatens the viability of their farms. And without farms, there is no cheese. And without cheese, there is no certamen."
+        ],
+        "apunte": "Fifty-four editions to reach this point: Asturias's most famous cheese festival is calling for help.",
+        "enVeinte": [
+          "The mayor of Cabrales warned at this year's certamen presentation that it could be the last if the livestock waste problem is not solved.",
+          "The central demand is the construction of a livestock waste management plant, which producers have been calling for some time.",
+          "Without that infrastructure, the future of the cheese sector in the municipality — and of the certamen — hangs in the balance, according to the mayor."
+        ],
+        "cifra": {
+          "numero": "54",
+          "unidad": "editions",
+          "glosa": "The Certamen del Queso de Cabrales reaches its 54th edition this year. It is one of the longest-running gastronomic festivals in Asturias and the most visible showcase for a cheese with Protected Designation of Origin status."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "lla-gar, with the Asturian ll",
+          "definicion": "A place where cider is made and stored, though in Cabrales the term is also used to refer to artisan production spaces in general. It is part of the industrial and cultural landscape of the municipalities of eastern Asturias."
+        },
+        "porQue": "If the livestock waste plant does not arrive, Cabrales producers will find it increasingly difficult to keep going, and that directly affects one of the most important products — and tourist attractions — in the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le maire prévient : le Certamen del Cabrales est en danger",
+        "entradilla": "La présentation de la LIV édition s'est transformée en appel au secours face à l'absence d'une installation de gestion des déchets d'élevage.",
+        "cuerpo": [
+          "Le maire de Cabrales a lancé un avertissement clair lors de la présentation du certamen de cette année : si le problème des déchets d'élevage n'est pas résolu, il pourrait ne pas y avoir d'édition suivante.",
+          "La plainte n'est pas nouvelle, mais le ton, si. Utiliser la scène du festival le plus connu de la commune pour mettre sur la table une revendication en suspens est le signe que la patience a des limites.",
+          "Sans installation de gestion des déchets d'élevage, les producteurs de Cabrales travaillent avec une charge qui menace la viabilité de leurs exploitations. Et sans exploitations, pas de fromage. Et sans fromage, pas de certamen."
+        ],
+        "apunte": "Cinquante-quatre éditions pour en arriver là : le festival du fromage le plus célèbre des Asturies est en train de demander au secours.",
+        "enVeinte": [
+          "Le maire de Cabrales a averti, lors de la présentation du certamen de cette année, que ce pourrait être le dernier si le problème des déchets d'élevage n'est pas réglé.",
+          "La revendication centrale est la construction d'une installation de gestion des déchets d'élevage, que les producteurs réclament depuis un certain temps.",
+          "Sans cette infrastructure, l'avenir du secteur fromager dans la commune — et du certamen — reste incertain, selon le maire."
+        ],
+        "cifra": {
+          "numero": "54",
+          "unidad": "éditions",
+          "glosa": "Le Certamen del Queso de Cabrales atteint cette année sa 54e édition. C'est l'un des festivals gastronomiques les plus anciens des Asturies et la vitrine la plus visible d'un fromage bénéficiant d'une Appellation d'Origine Protégée."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "lla-gar, avec le ll asturien",
+          "definicion": "Lieu où le cidre est élaboré et conservé, bien qu'à Cabrales le terme désigne aussi les espaces de production artisanale en général. Il fait partie du paysage industriel et culturel des communes de l'est des Asturies."
+        },
+        "porQue": "Si l'installation de gestion des déchets d'élevage n'arrive pas, les producteurs de Cabrales auront de plus en plus de mal à continuer, ce qui affecte directement l'un des produits — et l'une des attractions touristiques — les plus importants de la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Bürgermeister warnt: das Certamen del Cabrales ist in Gefahr",
+        "entradilla": "Die Präsentation der LIV. Ausgabe wurde zum Hilferuf wegen des fehlenden Betriebs zur Verwaltung von Nutztierabfällen.",
+        "cuerpo": [
+          "Der Bürgermeister von Cabrales sprach bei der Präsentation des diesjährigen Certamen eine klare Warnung aus: Wenn das Problem der Nutztierabfälle nicht gelöst wird, könnte es keine nächste Ausgabe geben.",
+          "Die Klage ist nicht neu, wohl aber der Ton. Die Bühne des bekanntesten Festivals der Gemeinde zu nutzen, um eine offene Forderung auf den Tisch zu bringen, ist ein Zeichen dafür, dass die Geduld zu Ende geht.",
+          "Ohne einen Betrieb zur Verwaltung von Nutztierabfällen arbeiten die Erzeuger in Cabrales unter einer Last, die die Lebensfähigkeit ihrer Betriebe bedroht. Und ohne Betriebe kein Käse. Und ohne Käse kein Certamen."
+        ],
+        "apunte": "Vierundfünfzig Ausgaben, um an diesen Punkt zu gelangen: das berühmteste Käsefestival Asturiens ruft um Hilfe.",
+        "enVeinte": [
+          "Der Bürgermeister von Cabrales warnte bei der Präsentation des diesjährigen Certamen, dass es die letzte Ausgabe sein könnte, wenn das Problem der Nutztierabfälle nicht gelöst wird.",
+          "Die zentrale Forderung ist der Bau eines Betriebs zur Verwaltung von Nutztierabfällen, den die Erzeuger seit einiger Zeit verlangen.",
+          "Ohne diese Infrastruktur ist die Zukunft des Käsesektors in der Gemeinde — und des Certamen — laut dem Bürgermeister ungewiss."
+        ],
+        "cifra": {
+          "numero": "54",
+          "unidad": "Ausgaben",
+          "glosa": "Das Certamen del Queso de Cabrales erreicht in diesem Jahr seine 54. Ausgabe. Es ist eines der gastronomischen Festivals mit der längsten Geschichte in Asturien und das sichtbarste Schaufenster für einen Käse mit geschützter Ursprungsbezeichnung."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "lla-gar, mit dem asturischen ll",
+          "definicion": "Ein Ort, an dem Cidre hergestellt und gelagert wird, obwohl der Begriff in Cabrales auch für handwerkliche Produktionsstätten im Allgemeinen verwendet wird. Er ist Teil der industriellen und kulturellen Landschaft der Gemeinden im östlichen Asturien."
+        },
+        "porQue": "Wenn der Betrieb zur Verwaltung von Nutztierabfällen nicht kommt, wird es für die Erzeuger in Cabrales immer schwieriger, weiterzumachen — und das wirkt sich direkt auf eines der wichtigsten Produkte und touristischen Attraktionen der Gemeinde aus.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
   },
   {
     "id": "proyecto-escena-trae-a-cabranes-a-estudiantes-europeos-para-combatir-l",
@@ -19499,6 +21917,54 @@
       "destinado mas de 300 000 euros a estas",
       "mas de 300 000 euros a estas mejoras"
     ]
+  },
+  {
+    "id": "mercau-d-arte-en-borines",
+    "url": "/pilona/mercau-d-arte-en-borines/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Arte asequible en Borines el 1 de agosto",
+    "entradilla": "El Antiguo Balneario de Borines acoge la segunda edición del Mercáu d'Arte de Artistes Benéficos, con obras de varios lenguajes y precios pensados para todos.",
+    "cuerpo": [
+      "El sábado 1 de agosto, a las 12 del mediodía, abre puertas en Borines el Mercáu d'Arte II. La inauguración arranca con un vermú musical a cargo de WyllyW y con la presencia de Setadebosque, que preparará platos elaborados con seta shiitake cultivada en la zona.",
+      "El mercáu reúne pintura, escultura, textil y otros formatos. La propuesta es que cualquiera pueda acercarse a ver y comprar obra directamente a quien la ha hecho, con precios variados. Una parte de lo recaudado va destinada a equipar el antiguo teatro rehabilitado y a sostener las actividades de La Benéfica en el conceyu.",
+      "Los nombres de los artistas participantes no se revelan hasta el día: la organización prefiere que el público los descubra en persona. A lo largo de agosto habrá más actividades los fines de semana; los detalles se irán publicando en sus redes y en la agenda de su web. Borines es pueblo pequeño, así que la organización pide respetar las indicaciones de aparcamiento para no molestar a los vecinos del lugar."
+    ],
+    "apunte": "Los artistas, en secreto hasta el día: habrá que ir a Borines a descubrirlos.",
+    "enVeinte": [
+      "El 1 de agosto, desde las 12, el Antiguo Balneario de Borines acoge el Mercáu d'Arte II de Artistes Benéficos, con vermú musical y gastronomía de seta shiitake.",
+      "Se expone y vende obra de pintura, escultura, textil y otros formatos; parte de lo recaudado apoya el proyecto colectivo de La Benéfica y el antiguo teatro del conceyu.",
+      "Los nombres de los artistas son sorpresa; habrá más actividades los fines de semana de agosto y la organización pide aparcar siguiendo sus indicaciones."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "conceyu",
+      "como": "con-SE-yu",
+      "definicion": "Forma asturiana de 'concejo', la unidad básica de organización municipal en Asturias. Aquí se usa para referirse al territorio y la comunidad de Piloña en su conjunto, no solo al ayuntamiento como institución."
+    },
+    "porQue": "Quien viva en Piloña tiene a veinte minutos de casa un mercado de arte con precios asequibles, música en directo y cocina local, sin tener que salir del concejo para ver obra original y hablar con quien la ha hecho.",
+    "etiquetas": [
+      "Borines",
+      "arte",
+      "Artistes Benéficos",
+      "Piloña"
+    ],
+    "fechaEvento": "2026-08-01",
+    "tipoEvento": "mercado",
+    "lugar": "Antiguo Balneario de Borines",
+    "hora": "12:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2026/07/02-Artistes-Vermu-IG-2-819x1024.jpg",
+    "fecha": "2026-07-10T07:30:57.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/mercau-darte-en-borines/?utm_source=rss&utm_medium=rss&utm_campaign=mercau-darte-en-borines",
+      "titularOriginal": "Mercáu d’Arte en Borines"
+    },
+    "reescrito": true,
+    "trad": {}
   },
   {
     "id": "laura-y-susana-ovin-ania-pregonaran-este-sabado-el-xlix-festival-de-la",
