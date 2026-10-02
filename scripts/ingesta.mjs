@@ -5,7 +5,9 @@
 //   node scripts/ingesta.mjs --sin-ia   → solo agrega, no reescribe
 //
 // Variables de entorno:
-//   ANTHROPIC_API_KEY  reescritura con Claude (opcional; sin ella hay resumen extractivo)
+//   ANTHROPIC_API_KEY  reescritura con Claude. Sin ella NO entra ninguna pieza nueva:
+//                      publicar el titular y las primeras frases del medio de origen
+//                      es copiar su texto. Solo `--sin-ia` lo permite, para pruebas.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -14,6 +16,7 @@ import { leerFeed, mencionaConcejo, esResumenRegional } from '../src/lib/rss.mjs
 import { reescribir, despertador, traducir } from '../src/lib/redactor.mjs';
 import { tipoDeEvento, esFuturo, esEmpleo } from '../src/lib/eventos.mjs';
 import { revisarPieza } from '../src/lib/antiplagio.mjs';
+import { duplicadoDe, esDuplicado, esPublicidad } from '../src/lib/duplicados.mjs';
 
 const RAIZ = path.resolve(import.meta.dirname, '..');
 const DATOS = path.join(RAIZ, 'content', 'data');
@@ -35,11 +38,11 @@ function avisarSiFaltaLaClave() {
   if (SIN_IA) return;
   if (process.env.ANTHROPIC_API_KEY) return;
   const m =
-    'Falta ANTHROPIC_API_KEY: las noticias saldrán con resumen extractivo y ' +
-    'SIN TRADUCIR. Las portadas en inglés, francés y alemán enseñarán titulares ' +
-    'en español. Se arregla en Settings → Secrets and variables → Actions.';
-  console.warn(`\n⚠︎  ${m}\n`);
-  if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Sin traducción::${m}`);
+    'Falta ANTHROPIC_API_KEY: esta edición NO incorpora noticias nuevas, porque ' +
+    'sin reescritura lo único publicable sería el texto del medio de origen. ' +
+    'Se arregla en Settings → Secrets and variables → Actions.';
+  console.warn(`\n✖  ${m}\n`);
+  if (process.env.GITHUB_ACTIONS) console.log(`::error title=Sin clave de API::${m}`);
 }
 avisarSiFaltaLaClave();
 
@@ -85,6 +88,14 @@ async function leerJSON(archivo, porDefecto) {
     return porDefecto;
   }
 }
+
+// Memoria de la ingesta entre pasadas (se guarda en content/data y se commitea):
+//  · fallidas:    URL de origen cuya reescritura falló, con cuántas veces. Se
+//                 reintentan en la pasada siguiente; a los N fallos se abandonan.
+//  · descartadas: URL de origen que no deben volver a entrar (duplicado de un
+//                 suceso ya publicado, o publicidad). Sin esto, cada pasada
+//                 volvería a pagar la reescritura de algo que luego se tira.
+const ESTADO = 'ingesta-estado.json';
 
 // Cielo del día según el código WMO que devuelve Open-Meteo.
 const CIELO = {
@@ -297,6 +308,50 @@ async function main() {
   if (previas.length !== guardadas.length) {
     console.log(`  ${guardadas.length - previas.length} piezas antiguas retiradas del archivo.\n`);
   }
+
+  // Memoria entre pasadas, podada a la vigencia del archivo.
+  const estado = await leerJSON(ESTADO, {});
+  const fallidas = estado.fallidas ?? {};
+  const vetadas = estado.descartadas ?? {};
+  const corte = Date.now() - ingesta.diasDeVigencia * 86400000;
+  for (const m of [fallidas, vetadas]) {
+    for (const [k, v] of Object.entries(m)) if (Date.parse(v.ultima ?? v.fecha) < corte) delete m[k];
+  }
+
+  // 2bis. Limpieza del archivo, en cada pasada (como la del filtro geográfico):
+  //
+  //  a) Fuera las piezas que nunca se reescribieron. Son el titular y las
+  //     primeras frases del medio de origen copiadas tal cual: el 02/10/2026
+  //     eran 84 de 212. Su URL de origen se olvida, así que si la fuente aún
+  //     la ofrece, entra otra vez y esta vez reescrita, con la misma dirección.
+  //  b) Fuera la segunda, tercera… pieza de un mismo suceso. Se queda la primera.
+  const retiradas = { sinReescribir: 0, duplicadas: 0 };
+  if (!SIN_IA) {
+    for (let i = previas.length - 1; i >= 0; i--) {
+      if (previas[i].reescrito === false) {
+        console.log(`  ✗ retirada, sin reescribir: [${previas[i].concejo}] ${previas[i].titular}`);
+        previas.splice(i, 1);
+        retiradas.sinReescribir++;
+      }
+    }
+  }
+  {
+    const porFecha = [...previas].sort((a, b) => Date.parse(a.fecha) - Date.parse(b.fecha));
+    const quedan = [];
+    for (const p of porFecha) {
+      const d = duplicadoDe(p, quedan);
+      if (d) {
+        console.log(`  ✗ retirada, mismo suceso (${Math.round(d.r * 100)} %): «${p.titular}» = «${d.otra.titular}»`);
+        const k = claveFuente(p.fuente?.url);
+        if (k) vetadas[k] = { motivo: `duplicado de ${d.otra.url}`, fecha: new Date().toISOString(), titulo: p.titular };
+        retiradas.duplicadas++;
+      } else quedan.push(p);
+    }
+    previas.splice(0, previas.length, ...quedan);
+  }
+  if (retiradas.sinReescribir || retiradas.duplicadas) {
+    console.log(`\n  Archivo limpio: ${retiradas.sinReescribir} sin reescribir y ${retiradas.duplicadas} duplicadas retiradas.\n`);
+  }
   const conocidas = new Set(previas.map((p) => p.id));
   // Las URL de origen ya publicadas. Va aparte de `conocidas` porque el mismo
   // artículo puede estar guardado con otro titular, y por tanto con otro id.
@@ -309,6 +364,7 @@ async function main() {
   // distintos, así que este conjunto es de toda la pasada, no de cada concejo.
   const fuentesDeEstaPasada = new Set();
   let repetidas = 0;
+  const contador = { publicidad: 0, duplicadas: 0, sinReescribir: 0, abandonadas: [] };
 
   const candidatas = [];
   for (const c of concejos) {
@@ -320,6 +376,8 @@ async function main() {
       .sort((a, b) => new Date(b.fecha) - new Date(a.fecha))
       .filter((i) => {
         const clave = claveFuente(i.enlace);
+        if (clave && vetadas[clave]) return false;
+        if (clave && (fallidas[clave]?.intentos ?? 0) >= ingesta.maxIntentosReescritura) return false;
         if (clave && (fuentesDeEstaPasada.has(clave) || fuentesConocidas.has(clave))) {
           repetidas++;
           console.log(`  ⊘ ya publicada, misma fuente: ${i.titulo.slice(0, 66)}`);
@@ -328,6 +386,24 @@ async function main() {
         const id = idDe(i);
         if (vistas.has(id) || conocidas.has(id)) return false;
         vistas.add(id);
+        if (esPublicidad(i)) {
+          console.log(`  ⊘ publicidad: ${i.titulo.slice(0, 66)}`);
+          if (clave) vetadas[clave] = { motivo: 'publicidad', fecha: new Date().toISOString(), titulo: i.titulo };
+          contador.publicidad++;
+          return false;
+        }
+        // Mismo suceso que una pieza ya publicada, mirado ANTES de pagar la
+        // reescritura: con el titular de origen basta casi siempre.
+        const d = duplicadoDe(
+          { concejoSlug: c.slug, fecha: i.fecha, titular: i.titulo, fuente: { titularOriginal: i.titulo } },
+          previas
+        );
+        if (d) {
+          console.log(`  ⊘ mismo suceso que «${d.otra.titular.slice(0, 50)}»: ${i.titulo.slice(0, 50)}`);
+          if (clave) vetadas[clave] = { motivo: `duplicado de ${d.otra.url}`, fecha: new Date().toISOString(), titulo: i.titulo };
+          contador.duplicadas++;
+          return false;
+        }
         if (clave) fuentesDeEstaPasada.add(clave);
         return true;
       })
@@ -347,6 +423,34 @@ async function main() {
       ? { ...(await import('../src/lib/redactor.mjs')).resumenExtractivo(item, concejo) }
       : await reescribir(item, concejo);
     if (!red.titular) continue;
+    const clave = claveFuente(item.enlace);
+
+    // Sin reescribir no se publica: sería el texto del medio de origen. Se
+    // reintenta en la pasada siguiente, y a los N fallos se abandona en rojo.
+    if (!SIN_IA && !red.reescrito) {
+      const f = (fallidas[clave] ??= { intentos: 0, titulo: item.titulo });
+      f.intentos++;
+      f.motivo = red.motivo ?? 'desconocido';
+      f.ultima = new Date().toISOString();
+      contador.sinReescribir++;
+      console.log(`  ✗ [${concejo.nombre}] sin reescribir (${f.motivo}), intento ${f.intentos}: ${item.titulo}`);
+      if (f.intentos >= ingesta.maxIntentosReescritura) contador.abandonadas.push(f);
+      continue;
+    }
+    delete fallidas[clave];
+
+    // Y otra vez el mismo suceso, ahora con el titular reescrito y contra las
+    // piezas nuevas de esta misma pasada. Antes de traducir, que también cuesta.
+    const dup = duplicadoDe(
+      { concejoSlug: concejo.slug, fecha: item.fecha, titular: red.titular, fuente: { titularOriginal: item.titulo } },
+      [...nuevas, ...previas]
+    );
+    if (dup) {
+      console.log(`  ⊘ [${concejo.nombre}] mismo suceso que «${dup.otra.titular.slice(0, 50)}»: ${red.titular}`);
+      if (clave) vetadas[clave] = { motivo: `duplicado de ${dup.otra.url}`, fecha: new Date().toISOString(), titulo: item.titulo };
+      contador.duplicadas++;
+      continue;
+    }
     const id = idDe(item);
     nuevas.push({
       id,
@@ -414,56 +518,50 @@ async function main() {
     }
   }
 
-  // 3bis. Chequeo antes de publicar: ¿hay dos piezas contando lo mismo?
-  //
-  // La deduplicación por URL solo caza el mismo artículo repetido. No caza el
-  // mismo SUCESO contado por dos medios distintos, que tiene URL distinta: el
-  // montañero del Torrecerredo lo dieron RTPA y El Fielato el mismo día.
-  //
-  // Esto AVISA, no borra, y es a propósito. Midiendo palabras compartidas sobre
-  // las 106 piezas del 29/09/2026 salían también falsos positivos legítimos: las
-  // dos carreras del Sella son dos días distintos, y las dos del biogás son el
-  // anuncio y la crónica. Borrarlas automáticamente habría tirado noticias buenas.
-  const PALABRAS_VACIAS = new Set([
-    'para','como','tras','sobre','entre','desde','hasta','este','esta','anos','esto',
-    'que','del','los','las','una','unos','unas','con','por','sus','han','mas','muy',
-  ]);
-  const significativas = (txt) =>
-    new Set(
-      String(txt)
-        .toLowerCase()
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .replace(/[^a-z0-9 ]/g, ' ')
-        .split(/\s+/)
-        .filter((w) => w.length > 3 && !PALABRAS_VACIAS.has(w))
-    );
-  const parecido = (a, b) => {
-    const A = significativas(a), B = significativas(b);
-    if (!A.size || !B.size) return 0;
-    let comunes = 0;
-    for (const w of A) if (B.has(w)) comunes++;
-    return comunes / new Set([...A, ...B]).size;
-  };
-  const sospechosas = [];
-  const paraRevisar = [...nuevas, ...previas];
-  for (let i = 0; i < paraRevisar.length; i++) {
-    for (let j = i + 1; j < paraRevisar.length; j++) {
-      const r = parecido(paraRevisar[i].titular, paraRevisar[j].titular);
-      if (r >= 0.4) sospechosas.push({ r, a: paraRevisar[i], b: paraRevisar[j] });
+  // 3bis. Parecidos que NO se borran: mismo concejo, más del umbral, pero entre
+  // la ventana de duplicado y 72 h. Ahí viven el anuncio y la crónica, que son
+  // dos noticias legítimas, y también algún duplicado tardío. No se tocan; los
+  // cuenta el vigilante de las 23:50, que es quien le llega a Emilio.
+  const posibles = [];
+  for (const a of nuevas) {
+    for (const b of [...nuevas, ...previas]) {
+      if (a === b || a.concejoSlug !== b.concejoSlug) continue;
+      const h = Math.abs(Date.parse(a.fecha) - Date.parse(b.fecha)) / 36e5;
+      if (h > 72) continue;
+      if (esDuplicado({ ...a, fecha: b.fecha }, b)) posibles.push([a, b]);
     }
   }
-  if (sospechosas.length) {
-    console.log(`\n⚠︎  ${sospechosas.length} pareja(s) que pueden contar lo mismo:`);
-    for (const { r, a, b } of sospechosas.sort((x, y) => y.r - x.r).slice(0, 12)) {
-      console.log(`   ${Math.round(r * 100)}%  «${a.titular.slice(0, 58)}»`);
-      console.log(`         «${b.titular.slice(0, 58)}»  [${a.fuente?.nombre} / ${b.fuente?.nombre}]`);
-    }
-    console.log('   No se borra ninguna: revísalas tú antes de darlas por buenas.');
-    if (process.env.GITHUB_ACTIONS) {
-      console.log(`::warning title=Posibles noticias repetidas::${sospechosas.length} parejas con más del 40 % de palabras en común`);
-    }
+  if (posibles.length) {
+    console.log(`\n·  ${posibles.length} pareja(s) parecidas a más de ${ingesta.ventanaDuplicadoHoras} h: se publican las dos.`);
+    for (const [a, b] of posibles.slice(0, 12)) console.log(`   «${a.titular.slice(0, 58)}» / «${b.titular.slice(0, 58)}»`);
   }
+
+  // Recuento de lo que NO entró, a la vista en la pestaña Actions.
+  const noEntraron = [
+    contador.duplicadas && `${contador.duplicadas} duplicadas`,
+    contador.publicidad && `${contador.publicidad} publicidad`,
+    contador.sinReescribir && `${contador.sinReescribir} sin reescribir (se reintentan)`,
+    retiradas.sinReescribir && `${retiradas.sinReescribir} retiradas del archivo por no estar reescritas`,
+    retiradas.duplicadas && `${retiradas.duplicadas} retiradas del archivo por duplicadas`,
+  ].filter(Boolean);
+  if (noEntraron.length) {
+    const m = `No entraron: ${noEntraron.join(' · ')}. Entraron ${nuevas.length}.`;
+    console.log(`\n${m}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::notice title=Filtro de calidad::${m}`);
+  }
+  if (contador.abandonadas.length) {
+    const m =
+      `${contador.abandonadas.length} pieza(s) fallaron ${ingesta.maxIntentosReescritura} veces al reescribir y se abandonan: ` +
+      contador.abandonadas.map((f) => `«${f.titulo.slice(0, 60)}» (${f.motivo})`).join(' · ');
+    console.error(`\n✖  ${m}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::error title=Reescritura abandonada::${m}`);
+  }
+  if (!SIN_IA && contador.sinReescribir && contador.sinReescribir >= candidatas.length && candidatas.length >= 3) {
+    const m = `Ninguna de las ${candidatas.length} piezas se pudo reescribir. Mira la clave de API y su crédito.`;
+    console.error(`\n✖  ${m}`);
+    if (process.env.GITHUB_ACTIONS) console.log(`::error title=Reescritura caída::${m}`);
+  }
+  await fs.writeFile(path.join(DATOS, ESTADO), JSON.stringify({ fallidas, descartadas: vetadas }, null, 2) + '\n');
 
   // 4. Guardar
   const todas = [...nuevas, ...previas]
