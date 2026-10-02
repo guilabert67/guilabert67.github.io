@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-02T13:11:45.101Z",
+  "fecha": "2026-10-02T18:58:19.960Z",
   "puntos": [
     {
+      "concejo": "Nava",
+      "frase": "Un conductor de 51 años resultó herido grave esta mañana en la N-634 a su paso por Nava.",
+      "enlace": "/nava/herido-grave-un-conductor-de-51-anos-tras-salirse-de-la-carretera-en-a/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Un camión ardió entero en la N-634 a la altura de Ceceda; llevaba un generador de gasolina.",
+      "enlace": "/nava/un-camion-arde-por-completo-en-la-n-634-a-su-paso-por-ceceda-en-nava/"
+    },
+    {
       "concejo": "Piloña",
-      "frase": "Las familias de Río Piloña evitan el desahucio: siete años más en casa.",
-      "enlace": "/pilona/de-un-desahucio-inminente-a-siete-anos-en-casa-las-familias-de-rio-pil/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "La sidra DOP asturiana vende cinco millones de botellas pese a la mala cosecha.",
-      "enlace": "/villaviciosa/la-sidra-de-asturias-dop-multiplica-por-tres-sus-ventas-en-una-decada-/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa congela los impuestos municipales por segundo año consecutivo.",
-      "enlace": "/villaviciosa/villaviciosa-congela-por-segundo-ano-consecutivo-la-gran-mayoria-de-im/"
+      "frase": "El puente de Ribadesella abre los dos carriles desde el mediodía del viernes hasta el lunes.",
+      "enlace": "/pilona/el-puente-de-ribadesella-permanecera-totalmente-abierto-durante-el-fin/"
     }
   ]
 }

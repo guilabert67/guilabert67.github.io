@@ -1,0 +1,113 @@
+{
+  "fallidas": {
+    "asturiasmundial.com/noticia/144615/desahucio-inminente-siete-anos-casa-familias-rio-pilona-sellan-acuerdo-sareb": {
+      "intentos": 1,
+      "titulo": "De un desahucio inminente a siete años en casa: las familias de Río Piloña sellan su acuerdo con Sareb (02/10/2026)",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-02T18:40:07.144Z"
+    },
+    "elfielato.es/articulo/villaviciosa/ayuntamiento-villaviciosa-primer-convenio-comision-fiestas-portal/20260930092903104086.html": {
+      "intentos": 1,
+      "titulo": "El Ayuntamiento de Villaviciosa firma su primer convenio con la Comisión de Fiestas del Portal",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-02T18:52:15.331Z"
+    }
+  },
+  "descartadas": {
+    "elfielato.es/articulo/cabrales/nuevo-record-queso-cabrales-coalicion-restaurantes-supera-puja-ano-pasado/20260830163937102541.html": {
+      "motivo": "duplicado de /cabrales/nuevo-record-para-el-mejor-queso-de-cabrales-elaborado-en-tielve/",
+      "fecha": "2026-10-02T18:39:12.238Z",
+      "titulo": "Récord en la puja del Cabrales: gana una coalición de restaurantes"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/vuelve-fiesta-sidra-villaviciosa-caracter-solidario-20260902130522-nt.html": {
+      "motivo": "duplicado de /villaviciosa/la-fiesta-de-la-sidra-de-villaviciosa-vuelve-con-caracter-solidario/",
+      "fecha": "2026-10-02T18:39:12.239Z",
+      "titulo": "La Fiesta de la Sidra vuelve con causa solidaria"
+    },
+    "coperibadesella.com/05/09/2026/herida-una-mujer-tras-ser-golpeada-por-una-roca-cuando-escalaba-el-urriellu-en-cabrales": {
+      "motivo": "duplicado de /cabrales/una-escaladora-resulta-herida-grave-al-caerle-una-roca-en-la-cabeza-de/",
+      "fecha": "2026-10-02T18:39:12.240Z",
+      "titulo": "Una escaladora herida grave en el Urriellu"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/lii-edicion-motocross-senora-portal-20260909201332-nt.html": {
+      "motivo": "duplicado de /villaviciosa/arrancan-las-fiestas-de-nuestra-senora-del-portal-en-villaviciosa/",
+      "fecha": "2026-10-02T18:39:12.240Z",
+      "titulo": "El motocross del Portal vuelve a La Fontanina"
+    },
+    "elcomercio.es/asturias/oriente/rescate-cabrales-niebla-lluvia-planes-montaneros-urriellu-20260910094726-nt.html": {
+      "motivo": "duplicado de /cabrales/rescatados-ilesos-tres-montaneros-desorientados-en-las-inmediaciones-d/",
+      "fecha": "2026-10-02T18:39:12.240Z",
+      "titulo": "Tres montañeros rescatados en Cabrales por la niebla"
+    },
+    "elfielato.es/articulo/cabrales/diez-horas-rescate-montaneros-niebla-urriellu/20260910125510103169.html": {
+      "motivo": "duplicado de /cabrales/rescatados-ilesos-tres-montaneros-desorientados-en-las-inmediaciones-d/",
+      "fecha": "2026-10-02T18:39:12.240Z",
+      "titulo": "Diez horas de rescate en El Frailón por la niebla"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/alcalde-villaviciosa-recoge-viernes-titulo-interes-nacional-20260924192820-nt.html": {
+      "motivo": "duplicado de /villaviciosa/el-boe-publica-la-declaracion-de-fiesta-de-interes-nacional-al-festiva/",
+      "fecha": "2026-10-02T18:39:12.242Z",
+      "titulo": "El Festival de la Manzana ya es de Interés Nacional"
+    },
+    "elfielato.es/articulo/villaviciosa/villaviciosa-congela-mayoria-impuestos-tasas-municipales/20261002132023104145.html": {
+      "motivo": "duplicado de /villaviciosa/el-pleno-aprueba-congelar-la-gran-mayoria-de-las-tasas-e-impuestos-en-/",
+      "fecha": "2026-10-02T18:39:12.244Z",
+      "titulo": "Villaviciosa mantiene los impuestos sin subir otro año"
+    },
+    "asturiasmundial.com/noticia/144557/veinte-metros-cima-muere-britanico-28-anos-tras-caer-60-cuando-descendia-torrecerredo": {
+      "motivo": "duplicado de /cabrales/un-montanero-pierde-la-vida-al-precipitarse-unos-50-metros-en-torrecer/",
+      "fecha": "2026-10-02T18:39:12.249Z",
+      "titulo": "A veinte metros de la cima: muere un británico de 28 años tras caer 60 metros cuando descendía del Torrecerredo (25/09/2026)"
+    },
+    "elfielato.es/articulo/cabrales/muere-montanero-28-anos-caer-60-metros-cuando-descendia-torrecerredo/20260924213630103962.html": {
+      "motivo": "duplicado de /cabrales/un-montanero-pierde-la-vida-al-precipitarse-unos-50-metros-en-torrecer/",
+      "fecha": "2026-10-02T18:39:12.250Z",
+      "titulo": "Muere un montañero de 28 años tras caer 60 metros cuando descendía del Torrecerredo"
+    },
+    "elfielato.es/articulo/cabrales/fin-semana-rescates-pico-turbina-cabrales/20260921102726103851.html": {
+      "motivo": "duplicado de /cabrales/domingo-intenso-de-rescates-en-la-montana-asturiana-con-ocho-evacuados/",
+      "fecha": "2026-10-02T18:39:12.252Z",
+      "titulo": "Fin de semana intenso de rescates en Picos de Europa: el último, en el Pico Turbina"
+    },
+    "elfielato.es/articulo/cabrales/fallece-turista-noruega-ruta-cares/20260919172711103696.html": {
+      "motivo": "duplicado de /cabrales/muere-una-senderista-noruega-tras-despenarse-en-la-ruta-del-cares-al-p/",
+      "fecha": "2026-10-02T18:39:12.253Z",
+      "titulo": "Muere una turista noruega al despeñarse en la Ruta del Cares"
+    },
+    "elfielato.es/articulo/cabrales/rescatan-montanero-herido-cabrales/20260817131038101872.html": {
+      "motivo": "duplicado de /cabrales/rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-/",
+      "fecha": "2026-10-02T18:39:12.254Z",
+      "titulo": "Rescatan a 1.600 metros de altitud a un montañero herido en Cabrales"
+    },
+    "elfielato.es/articulo/villaviciosa/cordal-peon-villaviciosa-mayor-inversion-15-anos/20260928181731104061.html": {
+      "motivo": "duplicado de /villaviciosa/inversion-historica-para-la-mejora-forestal-del-cordal-de-peon/",
+      "fecha": "2026-10-02T18:39:12.255Z",
+      "titulo": "Mejoras de más de 500.000 euros en el Cordal de Peón, en Villaviciosa: la mayor inversión en 15 años"
+    },
+    "asturiasmundial.com/noticia/144582/cuatro-dias-olvidarse-todo-una-escapada-rural-manzanos-mar-silencio-villaviciosa-71-euros-por-persona-noche": {
+      "motivo": "publicidad",
+      "fecha": "2026-10-02T18:39:12.255Z",
+      "titulo": "Cuatro días para olvidarse de todo: una escapada rural entre manzanos, mar y silencio en Villaviciosa desde 71 euros por persona y noche (27/09/2026)"
+    },
+    "elfielato.es/articulo/villaviciosa/villaviciosa-titulo-fiesta-interes-turistico-manzana/20260925183927103990.html": {
+      "motivo": "duplicado de /villaviciosa/el-festival-de-la-manzana-de-villaviciosa-ya-es-de-interes-nacional/",
+      "fecha": "2026-10-02T18:39:12.255Z",
+      "titulo": "Villaviciosa recibe en Madrid el título de Fiesta de Interés Turístico Nacional para su Festival de la Manzana"
+    },
+    "elfielato.es/articulo/villaviciosa/principado-licita-saneamiento-porenu-villaviciosa/20260924120000103920.html": {
+      "motivo": "duplicado de /villaviciosa/la-nueva-fase-del-saneamiento-de-porenu-cuesta-mas-de-400-000-euros/",
+      "fecha": "2026-10-02T18:39:12.255Z",
+      "titulo": "El Principado licita la segunda fase del saneamiento de Poreñu, en Villaviciosa"
+    },
+    "elfielato.es/articulo/villaviciosa/villaviciosa-organiza-campamento-urbano-gratuito-puente-todos-santos/20260922121506103886.html": {
+      "motivo": "duplicado de /villaviciosa/villaviciosa-extiende-el-plan-de-conciliacion-para-el-puente-festivo-d/",
+      "fecha": "2026-10-02T18:39:12.256Z",
+      "titulo": "Villaviciosa organiza un campamento urbano gratuito para el Puente de Todos los Santos"
+    },
+    "elfielato.es/articulo/cabrales/re/20260818143238101895.html": {
+      "motivo": "duplicado de /cabrales/nueva-victima-mortal-en-la-montana-fallece-un-antiguo-profesor-del-col/",
+      "fecha": "2026-10-02T18:52:13.077Z",
+      "titulo": "Trágico fallecimiento de un hombre de 50 años en la majada de Las Moñas, en Cabrales"
+    }
+  }
+}
