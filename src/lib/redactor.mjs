@@ -145,7 +145,9 @@ export function resumenExtractivo(item, concejo) {
  * Nunca lanza: ante cualquier fallo devuelve el resumen extractivo.
  */
 export async function reescribir(item, concejo, { apiKey = process.env.ANTHROPIC_API_KEY } = {}) {
-  if (!apiKey || !ingesta.reescribir) return resumenExtractivo(item, concejo);
+  if (!apiKey || !ingesta.reescribir) {
+    return { ...resumenExtractivo(item, concejo), motivo: apiKey ? 'reescritura apagada en config' : 'falta ANTHROPIC_API_KEY' };
+  }
 
   const material = [
     `CONCEJO: ${concejo.nombre} (capital: ${concejo.capital})`,
@@ -221,16 +223,23 @@ Si el texto de partida es demasiado pobre para escribir con rigor, devuelve "tit
     });
 
     if (!res.ok) {
-      console.warn(`  ⚠︎ redactor: HTTP ${res.status} — uso resumen extractivo`);
-      return resumenExtractivo(item, concejo);
+      console.warn(`  ⚠︎ redactor: HTTP ${res.status} — pieza sin reescribir`);
+      return { ...resumenExtractivo(item, concejo), motivo: `HTTP ${res.status}` };
     }
 
     const data = await res.json();
+    // Cortada por el techo de tokens: el JSON se podría «reparar» cerrando
+    // llaves, pero saldría una entradilla partida a media palabra. No se publica.
+    if (data.stop_reason === 'max_tokens') {
+      console.warn(`  ⚠︎ redactor: respuesta cortada por max_tokens (${ingesta.maxTokens}) — pieza sin reescribir`);
+      return { ...resumenExtractivo(item, concejo), motivo: `cortada por max_tokens (${ingesta.maxTokens})` };
+    }
     const texto = (data.content ?? []).map((b) => b.text ?? '').join('');
     const { datos: j, motivo } = extraerJSON(texto);
     if (!j || !j.titular) {
-      if (motivo) console.warn(`  ⚠︎ redactor: ${motivo} — uso resumen extractivo`);
-      return resumenExtractivo(item, concejo);
+      const m = motivo || 'respuesta sin titular';
+      console.warn(`  ⚠︎ redactor: ${m} — pieza sin reescribir`);
+      return { ...resumenExtractivo(item, concejo), motivo: `${m} (stop_reason: ${data.stop_reason ?? '?'})` };
     }
 
     return {
@@ -268,8 +277,8 @@ Si el texto de partida es demasiado pobre para escribir con rigor, devuelve "tit
       reescrito: true,
     };
   } catch (err) {
-    console.warn(`  ⚠︎ redactor: ${err.message} — uso resumen extractivo`);
-    return resumenExtractivo(item, concejo);
+    console.warn(`  ⚠︎ redactor: ${err.message} — pieza sin reescribir`);
+    return { ...resumenExtractivo(item, concejo), motivo: err.message };
   }
 }
 
