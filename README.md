@@ -35,8 +35,11 @@ $env:ANTHROPIC_API_KEY = "sk-ant-..."
 export ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
-Sin clave, la ingesta sigue funcionando: en vez de reescribir, guarda titular + extracto + enlace a
-la fuente. Con `npm run ingesta:sin-ia` fuerzas ese modo a propósito.
+Sin clave, la ingesta **no incorpora noticias nuevas** y lo avisa en rojo en la pestaña Actions: lo
+único que podría publicar sería el titular y las primeras frases del medio de origen, y eso es su
+texto, no el nuestro. Tampoco entra una pieza cuya reescritura falle: se reintenta en las pasadas
+siguientes y a la tercera se abandona con aviso. `npm run ingesta:sin-ia` sigue existiendo, solo para
+pruebas en local.
 
 El tiempo de los cinco concejos sale de Open-Meteo, que **no pide clave ni registro**. Las
 coordenadas están en `concejos[].coords`.
@@ -108,8 +111,8 @@ peticiones automáticas desde según dónde):
 
 1. Sube esto a un repositorio.
 2. En **Settings → Pages**, elige *GitHub Actions* como origen.
-3. En **Settings → Secrets and variables → Actions**, añade `ANTHROPIC_API_KEY` (solo si quieres la
-   reescritura con IA; sin ella el sitio funciona igual en modo agregador).
+3. En **Settings → Secrets and variables → Actions**, añade `ANTHROPIC_API_KEY`. Sin ella el sitio se
+   sigue construyendo, pero no entran noticias nuevas.
 4. Ya está: `.github/workflows/publicar.yml` recoge las noticias, construye y publica **todas las
    mañanas a las 7:10**. También hay un botón para lanzarlo a mano desde la pestaña *Actions*.
 
