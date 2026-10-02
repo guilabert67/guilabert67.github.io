@@ -839,5 +839,22 @@ export const ingesta = {
   usarImagenDeLaFuente: false,
 
   modelo: 'claude-sonnet-4-6',
-  maxTokens: 1200,
+  // 1200 se quedaba corto: una pieza completa (titular, entradilla, cuerpo,
+  // «en veinte segundos», cifra, palabra, por qué) ronda los 900 tokens y las
+  // largas pasan de 1200. La respuesta llegaba cortada, el JSON no parseaba y la
+  // pieza salía SIN REESCRIBIR, con el titular del medio de origen. Se paga por
+  // lo que el modelo escribe, no por el techo: subirlo no encarece nada.
+  maxTokens: 3000,
+
+  // Una pieza cuya reescritura falla NO se publica: se reintenta en la pasada
+  // siguiente. A los N fallos se abandona y se avisa en rojo en Actions.
+  maxIntentosReescritura: 3,
+
+  // Dos piezas del mismo concejo con más de este parecido, publicadas con menos
+  // de estas horas de diferencia, cuentan el mismo suceso: la segunda no entra.
+  // Medido el 02/10/2026 sobre las 212 piezas del archivo: con 24 h no tira
+  // ningún anuncio + crónica (Sella, biogás, Miércoles del Portal: todos a más
+  // de 40 h), y caza Torrecerredo, Festival de la Manzana, Poreñu, Cordal…
+  umbralDuplicado: 0.4,
+  ventanaDuplicadoHoras: 24,
 };
