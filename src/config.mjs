@@ -454,7 +454,7 @@ export const fuentesRegionales = [
   { nombre: 'El Fielato', url: 'https://www.elfielato.es/rss/', tipo: 'rss' },
   { nombre: 'El Fielato · Cultura', url: 'https://www.elfielato.es/rss/cultura/', tipo: 'rss' },
   { nombre: 'El Fielato · Deportes', url: 'https://www.elfielato.es/rss/deportes/', tipo: 'rss' },
-  { nombre: 'RTPA', url: 'http://www.rtpa.es/rss', tipo: 'rss' },
+  { nombre: 'RTPA', url: 'https://www.rtpa.es/rss', tipo: 'rss' },
   { nombre: 'AsturiasMundial', url: 'https://www.asturiasmundial.com/rss', tipo: 'rss' },
   // Añadido el 29/09/2026. La Prida dependía de un solo medio para los cinco
   // concejos y ese medio llevaba días sin publicar nada de cuatro de ellos:
