@@ -27,7 +27,7 @@ http
     try {
       const url = decodeURIComponent((req.url ?? '/').split('?')[0]);
       let destino = path.join(DIST, url);
-      if (!destino.startsWith(DIST)) throw new Error('fuera');
+      if (destino !== DIST && !destino.startsWith(DIST + path.sep)) throw new Error('fuera');
       const info = await fs.stat(destino).catch(() => null);
       if (!info || info.isDirectory()) destino = path.join(destino, 'index.html');
       const cuerpo = await fs.readFile(destino);
@@ -39,4 +39,6 @@ http
       res.end(err404);
     }
   })
-  .listen(PUERTO, () => console.log(`☕ La Prida en http://localhost:${PUERTO}`));
+  // Solo en este ordenador (127.0.0.1): sin esto, cualquiera en la misma wifi
+  // podía abrir el servidor de pruebas.
+  .listen(PUERTO, '127.0.0.1', () => console.log(`☕ La Prida en http://localhost:${PUERTO}`));

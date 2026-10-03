@@ -332,8 +332,20 @@ async function descargar(candidato, destino) {
   const tipo = res.headers.get('content-type') ?? '';
   if (!/^image\/(jpeg|png|webp)/.test(tipo)) throw new Error(`tipo inesperado: ${tipo}`);
   const ext = tipo.includes('png') ? '.png' : tipo.includes('webp') ? '.webp' : '.jpg';
+  // Seguridad: tope de tamaño (GitHub rechaza ficheros de más de 100 MB y una
+  // foto de portada no necesita ni 10) y comprobación de los primeros bytes:
+  // el servidor de origen puede decir «image/jpeg» y mandar otra cosa.
+  const TOPE = 15 * 1024 * 1024;
+  if (Number(res.headers.get('content-length') ?? 0) > TOPE) throw new Error('imagen demasiado grande');
   const bytes = Buffer.from(await res.arrayBuffer());
+  if (bytes.length > TOPE) throw new Error('imagen demasiado grande');
   if (bytes.length < 40000) throw new Error('imagen demasiado pequeña');
+  const firma = {
+    '.jpg': bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff,
+    '.png': bytes.subarray(0, 8).equals(Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a])),
+    '.webp': bytes.subarray(0, 4).toString('latin1') === 'RIFF' && bytes.subarray(8, 12).toString('latin1') === 'WEBP',
+  }[ext];
+  if (!firma) throw new Error(`el contenido no es un ${ext} de verdad`);
   await fs.writeFile(destino + ext, bytes);
   return { archivo: path.basename(destino + ext), bytes: bytes.length };
 }
@@ -378,7 +390,7 @@ async function main() {
     }
     console.log(`✗ fuera (${motivo}): ${id}\n    «${c.pie || 'sin pie'}» · ${c.origen}`);
     try {
-      await fs.unlink(path.join(FOTOS, c.archivo));
+      await fs.unlink(path.join(FOTOS, path.basename(String(c.archivo))));
     } catch {}
     delete creditos[id];
     fuera++;
@@ -443,7 +455,7 @@ async function main() {
     let ok = false;
     for (const c of candidatos.slice(0, 3)) {
       try {
-        const { archivo } = await descargar(c, path.join(FOTOS, p.id));
+        const { archivo } = await descargar(c, path.join(FOTOS, path.basename(String(p.id))));
         creditos[p.id] = {
           archivo,
           autor: c.autor,

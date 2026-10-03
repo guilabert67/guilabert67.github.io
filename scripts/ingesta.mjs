@@ -130,13 +130,15 @@ async function tiempoDelDia() {
           timezone: 'Europe/Madrid',
           forecast_days: '1',
         });
-      const d = (await (await fetch(url)).json())?.daily;
+      const d = (await (await fetch(url, { signal: AbortSignal.timeout(20000) })).json())?.daily;
       if (!d) continue;
       salida[c.slug] = {
-        max: Math.round(d.temperature_2m_max[0]),
-        min: Math.round(d.temperature_2m_min[0]),
-        estado: CIELO[d.weather_code[0]] ?? '',
-        lluvia: d.precipitation_probability_max[0],
+        // Seguridad: solo números. Lo que mande un servicio ajeno no entra en la
+        // página como texto.
+        max: Math.round(Number(d.temperature_2m_max[0])),
+        min: Math.round(Number(d.temperature_2m_min[0])),
+        estado: CIELO[Number(d.weather_code[0])] ?? '',
+        lluvia: Math.round(Number(d.precipitation_probability_max[0])),
       };
     } catch (err) {
       console.warn(`  \u26a0\ufe0e tiempo ${c.nombre}: ${err.message}`);
