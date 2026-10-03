@@ -9,35 +9,107 @@ const ENTIDADES = {
   ldquo: '“', rdquo: '”', lsquo: '‘', rsquo: '’', deg: '°', euro: '€',
 };
 
+// Seguridad: el feed lo escribe un tercero. Las expresiones perezosas del tipo
+// /<item[\s\S]*?<\/item>/ son cuadráticas cuando la etiqueta no se cierra:
+// medido el 03/10/2026, 4 MB de «<item>» sin cerrar colgaban la ingesta más de
+// un minuto (y con ella la edición). Todo lo que recorre el texto va ahora en
+// una sola pasada con indexOf, y cada pieza tiene un tamaño máximo.
+const TOPE_BLOQUE = 300 * 1024; // una pieza de feed normal no llega a 50 KB
+const TOPE_PIEZAS = 500;
+
+/** Quita todo lo que vaya entre `abre` y `cierra` (sin distinguir mayúsculas), en una pasada. */
+function quitarTramos(txt, abre, cierra, sustituto = ' ') {
+  const bajo = txt.toLowerCase();
+  let salida = '';
+  let desde = 0;
+  for (;;) {
+    const i = bajo.indexOf(abre, desde);
+    if (i < 0) break;
+    const j = bajo.indexOf(cierra, i + abre.length);
+    if (j < 0) {
+      salida += txt.slice(desde, i);
+      desde = txt.length;
+      break;
+    }
+    salida += txt.slice(desde, i) + sustituto;
+    desde = j + cierra.length;
+  }
+  return salida + txt.slice(desde);
+}
+
+/** Sustituye cada <![CDATA[…]]> por su contenido, en una pasada. */
+function sinCdata(txt) {
+  let salida = '';
+  let desde = 0;
+  for (;;) {
+    const i = txt.indexOf('<![CDATA[', desde);
+    if (i < 0) break;
+    const j = txt.indexOf(']]>', i + 9);
+    if (j < 0) break;
+    salida += txt.slice(desde, i) + txt.slice(i + 9, j);
+    desde = j + 3;
+  }
+  return salida + txt.slice(desde);
+}
+
+const caracter = (n) => (Number.isInteger(n) && n > 0 && n <= 0x10ffff ? String.fromCodePoint(n) : '');
+
 export function decodificar(txt = '') {
-  return txt
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
-    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
-    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
-    .replace(/&([a-z]+);/gi, (m, n) => (n in ENTIDADES ? ENTIDADES[n] : m));
+  return sinCdata(String(txt))
+    .replace(/&#x([0-9a-f]{1,8});/gi, (_, h) => caracter(parseInt(h, 16)))
+    .replace(/&#(\d{1,8});/g, (_, d) => caracter(Number(d)))
+    .replace(/&([a-z]{1,10});/gi, (m, n) => (n in ENTIDADES ? ENTIDADES[n] : m));
 }
 
 export function sinHtml(txt = '') {
+  let t = quitarTramos(String(txt), '<script', '</script>');
+  t = quitarTramos(t, '<style', '</style>');
   return decodificar(
-    txt
-      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
-      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    t
       .replace(/<\/(p|div|li|h[1-6]|br)>/gi, '\n')
-      .replace(/<[^>]+>/g, ' ')
+      // [^<>]{0,2000}: una etiqueta no contiene «<», y sin tope un «<» suelto
+      // hacía que cada búsqueda recorriera el texto entero (cuadrático).
+      .replace(/<[^<>]{0,2000}>/g, ' ')
   )
-    .replace(/[ \t ]+/g, ' ')
+    .replace(/[ \t ]+/g, ' ')
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 
+/** Todos los contenidos de <nombre …>…</nombre> del bloque, en una pasada. */
+function contenidos(bloque, nombre, maximo = Infinity) {
+  const bajo = bloque.toLowerCase();
+  const abre = `<${nombre.toLowerCase()}`;
+  const cierra = `</${nombre.toLowerCase()}>`;
+  const salida = [];
+  let desde = 0;
+  while (salida.length < maximo) {
+    const i = bajo.indexOf(abre, desde);
+    if (i < 0) break;
+    const sig = bajo[i + abre.length];
+    if (sig !== '>' && sig !== ' ' && sig !== '\t' && sig !== '\n' && sig !== '\r' && sig !== '/') {
+      desde = i + abre.length; // <linkx>, <title2>… no son esta etiqueta
+      continue;
+    }
+    const fin = bajo.indexOf('>', i);
+    if (fin < 0) break;
+    if (bajo[fin - 1] === '/') { desde = fin + 1; continue; } // <link href="…"/> vacía
+    const j = bajo.indexOf(cierra, fin + 1);
+    if (j < 0) break;
+    salida.push(bloque.slice(fin + 1, j));
+    desde = j + cierra.length;
+  }
+  return salida;
+}
+
 function etiqueta(bloque, nombre) {
-  const re = new RegExp(`<${nombre}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${nombre}>`, 'i');
-  const m = bloque.match(re);
-  return m ? decodificar(m[1]).trim() : '';
+  const [primero] = contenidos(bloque, nombre, 1);
+  return primero !== undefined ? decodificar(primero).trim() : '';
 }
 
 function atributo(bloque, nombre, attr) {
-  const re = new RegExp(`<${nombre}\\b[^>]*\\b${attr}=["']([^"']+)["']`, 'i');
+  // [^>]{0,2000}: acotado para que una etiqueta sin cerrar no dispare la búsqueda.
+  const re = new RegExp(`<${nombre}\\b[^>]{0,2000}?\\b${attr}=["']([^"']{1,2000})["']`, 'i');
   const m = bloque.match(re);
   return m ? decodificar(m[1]).trim() : '';
 }
@@ -47,7 +119,7 @@ function imagenDe(bloque) {
     atributo(bloque, 'media:content', 'url') ||
     atributo(bloque, 'media:thumbnail', 'url') ||
     atributo(bloque, 'enclosure', 'url') ||
-    (bloque.match(/<img[^>]+src=["']([^"']+)["']/i)?.[1] ?? '')
+    (bloque.match(/<img[^>]{1,2000}?src=["']([^"']{1,2000})["']/i)?.[1] ?? '')
   );
 }
 
@@ -66,9 +138,26 @@ function fechaDe(bloque) {
     : { fecha: new Date().toISOString(), sinFecha: true };
 }
 
+/** Las piezas (<item> de RSS o <entry> de Atom), en una pasada y con topes. */
+function bloquesDe(xml) {
+  const bajo = xml.toLowerCase();
+  const salida = [];
+  const re = /<(item|entry)[\s>]/g;
+  let m;
+  while ((m = re.exec(bajo)) && salida.length < TOPE_PIEZAS) {
+    const cierra = `</${m[1]}>`;
+    const j = bajo.indexOf(cierra, m.index);
+    if (j < 0) break;
+    const fin = j + cierra.length;
+    if (fin - m.index <= TOPE_BLOQUE) salida.push(xml.slice(m.index, fin));
+    re.lastIndex = fin;
+  }
+  return salida;
+}
+
 /** Convierte el XML de un feed RSS o Atom en una lista de objetos planos. */
 export function parsearFeed(xml, origen = '') {
-  const items = [...xml.matchAll(/<(item|entry)\b[\s\S]*?<\/\1>/gi)].map((m) => m[0]);
+  const items = bloquesDe(String(xml));
   return items.map((bloque) => {
     const enlace =
       etiqueta(bloque, 'link') ||
@@ -85,9 +174,7 @@ export function parsearFeed(xml, origen = '') {
       ...fechaDe(bloque),
       resumenOriginal: sinHtml(cuerpo).slice(0, 2400),
       imagen: imagenDe(bloque),
-      categorias: [...bloque.matchAll(/<category[^>]*>([\s\S]*?)<\/category>/gi)].map((m) =>
-        sinHtml(m[1])
-      ),
+      categorias: contenidos(bloque, 'category', 30).map((c) => sinHtml(c)),
       origen,
     };
   });
@@ -108,6 +195,27 @@ function gritar(mensaje) {
 }
 
 /** Descarga un feed y lo parsea. Nunca lanza: devuelve [] si algo falla. */
+const TOPE_FEED = 5 * 1024 * 1024; // 5 MB: un feed normal pesa menos de 1 MB
+
+export async function leerConTope(res, tope) {
+  const declarado = Number(res.headers.get('content-length') ?? 0);
+  if (declarado > tope) throw new Error(`demasiado grande (${declarado} bytes)`);
+  const lector = res.body.getReader();
+  const trozos = [];
+  let total = 0;
+  for (;;) {
+    const { done, value } = await lector.read();
+    if (done) break;
+    total += value.length;
+    if (total > tope) {
+      await lector.cancel();
+      throw new Error(`demasiado grande (más de ${tope} bytes)`);
+    }
+    trozos.push(value);
+  }
+  return Buffer.concat(trozos).toString('utf8');
+}
+
 export async function leerFeed(url, origen = '', { timeoutMs = 20000 } = {}) {
   try {
     const ctrl = new AbortController();
@@ -120,12 +228,17 @@ export async function leerFeed(url, origen = '', { timeoutMs = 20000 } = {}) {
       },
       redirect: 'follow',
     });
-    clearTimeout(t);
     if (!res.ok) {
+      clearTimeout(t);
       gritar(`${origen || url}: HTTP ${res.status}. Ese canal no ha aportado nada a esta edición.`);
       return [];
     }
-    return parsearFeed(await res.text(), origen || new URL(url).hostname);
+    // Seguridad: el feed es de un tercero. Se lee con tope de tamaño y con el
+    // reloj corriendo hasta el último byte: un feed gigante o que gotea byte a
+    // byte no puede colgar la edición ni agotar la memoria.
+    const texto = await leerConTope(res, TOPE_FEED);
+    clearTimeout(t);
+    return parsearFeed(texto, origen || new URL(url).hostname);
   } catch (err) {
     gritar(`${origen || url}: ${err.message}. Ese canal no ha aportado nada a esta edición.`);
     return [];

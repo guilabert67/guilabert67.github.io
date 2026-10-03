@@ -18,7 +18,17 @@ export const estado = { muestra: false, idioma: IDIOMA_BASE, fuentesPropias: fal
 export const T = (clave) => texto(estado.idioma, clave);
 
 /** Una ruta del sitio en el idioma en curso. El camino se escribe en español. */
-export const U = (camino = '/') => ruta(estado.idioma, camino);
+export const U = (camino = '/') => rutaLimpia(ruta(estado.idioma, camino));
+
+/**
+ * Seguridad: una ruta propia solo puede llevar caracteres de ruta. Comillas,
+ * < > y espacios se codifican (%22, %3C…): así una dirección rara en los datos
+ * no puede cerrar el atributo href="" y meter HTML. Con las rutas normales del
+ * diario ([a-z0-9-/]) no cambia nada. Comprobado el 03/10/2026 con datos envenenados.
+ */
+export function rutaLimpia(r = '') {
+  return String(r).replace(/[^A-Za-z0-9\-._~\/#%?=&+]/g, (c) => encodeURIComponent(c));
+}
 
 /**
  * Un campo de una pieza en el idioma en curso, con vuelta al español si no
@@ -47,6 +57,42 @@ export const esc = (s = '') =>
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+
+/**
+ * Seguridad: las URL de enlace pasan por aquí, no solo por `esc`.
+ *
+ * `esc` impide romper el atributo, pero deja pasar `javascript:alert(1)`, que
+ * es una URL perfectamente válida dentro de un href. Las URL de La Prida llegan
+ * de fuentes externas (feeds, el redactor, anuncios que manda un vecino), así
+ * que solo se aceptan http, https, mailto, tel y rutas propias. Lo demás se
+ * convierte en un enlace muerto. Comprobado el 03/10/2026 con un feed envenenado.
+ */
+export function urlSegura(u = '') {
+  const t = String(u ?? '').trim();
+  if (!t) return '#';
+  if (/^(https?:|mailto:|tel:)/i.test(t)) return t;
+  if (/^(\/(?!\/)|#|\.\.?\/)/.test(t)) return t;
+  // Cualquier otro esquema (javascript:, data:, vbscript:…) o una URL rara: fuera.
+  if (/^[a-z][a-z0-9+.-]*:/i.test(t) || /^[\s\x00-\x1f]/.test(t)) return '#';
+  return t;
+}
+export const escUrl = (u) => esc(urlSegura(u));
+
+/**
+ * Seguridad: JSON dentro de <script type="application/ld+json">.
+ *
+ * JSON.stringify no escapa «</script>». Un titular con esa cadena cerraba el
+ * bloque y lo que viniera detrás se ejecutaba como JavaScript en la página:
+ * probado el 03/10/2026 con Chromium, el código inyectado corrió. Se escapan
+ * <, > y & como \u003c, \u003e y \u0026, que en JSON significan lo mismo.
+ */
+export const jsonEnScript = (o) =>
+  JSON.stringify(o)
+    .replace(/</g, '\\u003c')
+    .replace(/>/g, '\\u003e')
+    .replace(/&/g, '\\u0026')
+    .replace(/\u2028/g, '\\u2028')
+    .replace(/\u2029/g, '\\u2029');
 
 const MESES = [
   'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
@@ -214,7 +260,7 @@ export function selectorIdioma(camino = '/') {
   ${idiomas
     .map((i) => {
       const actual = i.codigo === estado.idioma;
-      return `<a href="${ruta(i.codigo, camino)}" lang="${i.codigo}" hreflang="${i.codigo}"${
+      return `<a href="${rutaLimpia(ruta(i.codigo, camino))}" lang="${i.codigo}" hreflang="${i.codigo}"${
         actual ? ' aria-current="true"' : ''
       } title="${esc(i.nombre)}">${esc(i.etiqueta)}</a>`;
     })
@@ -276,7 +322,7 @@ const patrocinios = (concejoSlug = null) => {
   return `<div class="caja"><h2 class="caja__titulo">${esc(T('conApoyo'))}</h2>
 ${vivos
   .map(
-    (p) => `<a class="patrocinio" href="${esc(p.url)}" rel="sponsored noopener" target="_blank">
+    (p) => `<a class="patrocinio" href="${escUrl(p.url)}" rel="sponsored noopener" target="_blank">
 <span class="patrocinio__marca">${esc(T('patrocinado'))}</span>
 <p class="patrocinio__titulo">${esc(p.titulo)}</p><p class="patrocinio__texto">${esc(p.texto)}</p></a>`
   )
@@ -291,7 +337,7 @@ export function bloqueAfiliado(titulo, enlaces = []) {
   <ul class="afiliado__lista">
     ${enlaces
       .map(
-        (e) => `<li><a href="${esc(e.url)}" rel="sponsored nofollow noopener" target="_blank">
+        (e) => `<li><a href="${escUrl(e.url)}" rel="sponsored nofollow noopener" target="_blank">
       <span class="afiliado__que">${esc(e.titulo)}</span>
       ${e.texto ? `<span class="afiliado__texto">${esc(e.texto)}</span>` : ''}</a></li>`
       )
@@ -480,7 +526,7 @@ export function tarjetaCurso(c) {
   }
   ${
     c.contacto && abierto
-      ? `<p class="empleo__contacto"><a href="${esc(
+      ? `<p class="empleo__contacto"><a href="${escUrl(
           c.contacto.startsWith('http') ? c.contacto : `mailto:${c.contacto}`
         )}"${c.contacto.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${esc(T('comoApuntarseCurso'))}</a></p>`
       : ''
@@ -516,7 +562,7 @@ export function dondeBuscarCursos() {
   const ayuntamientos = concejos
     .filter((c) => c.web)
     .map(
-      (c) => `<li style="${vars(c.slug)}"><a href="${esc(c.web)}" target="_blank" rel="noopener">
+      (c) => `<li style="${vars(c.slug)}"><a href="${escUrl(c.web)}" target="_blank" rel="noopener">
     ${disco(c.slug)}${esc(T('ayuntamientoDe'))} ${esc(c.nombre)}</a></li>`
     )
     .join('\n');
@@ -526,7 +572,7 @@ export function dondeBuscarCursos() {
   <ul class="enlaces">
     ${enlacesFormacion
       .map(
-        (e) => `<li><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.nombre)}</a>${
+        (e) => `<li><a href="${escUrl(e.url)}" target="_blank" rel="noopener">${esc(e.nombre)}</a>${
           e.nota ? `<small>${esc(e.nota)}</small>` : ''
         }</li>`
       )
@@ -607,10 +653,14 @@ export function tarjetaAnuncio(a) {
       : ''
   }
   ${
-    a.contacto && vivo
-      ? `<p class="empleo__contacto"><a href="${esc(
-          a.contacto.startsWith('http') ? a.contacto : `mailto:${a.contacto}`
-        )}"${a.contacto.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${esc(T('contactar'))}</a></p>`
+    // Privacidad: el contacto del anunciante NO se publica ni se guarda en el
+    // repositorio, que es público y no olvida (el historial de git conserva lo
+    // borrado). Quien esté interesado escribe al diario con la referencia del
+    // anuncio y el diario se lo hace llegar al anunciante.
+    vivo
+      ? `<p class="empleo__contacto"><a href="${escUrl(
+          `mailto:${tablon.correo || sitio.email}?subject=${encodeURIComponent(`Anuncio ${a.id ?? ''}`)}`
+        )}">${esc(T('contactar'))}</a> <small>· ${esc(T('referencia'))} ${esc(a.id ?? '')}</small></p>`
       : ''
   }
 </article>`;
@@ -735,7 +785,7 @@ export function programasOficiales() {
   <ul class="programas">
     ${enlacesAgenda
       .map(
-        (e) => `<li style="${vars(e.concejo)}"><a href="${esc(e.url)}" target="_blank" rel="noopener">
+        (e) => `<li style="${vars(e.concejo)}"><a href="${escUrl(e.url)}" target="_blank" rel="noopener">
       ${disco(e.concejo)}<span>${esc(e.nombre)} ↗</span></a></li>`
       )
       .join('')}
@@ -777,7 +827,7 @@ export function tarjetaEmpleo(o) {
   }
   ${
     o.contacto && !cerrada
-      ? `<p class="empleo__contacto"><a href="${esc(
+      ? `<p class="empleo__contacto"><a href="${escUrl(
           o.contacto.startsWith('http') ? o.contacto : `mailto:${o.contacto}`
         )}"${o.contacto.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${esc(T('comoApuntarse'))}</a></p>`
       : ''
@@ -803,7 +853,7 @@ export function dondeBuscarEmpleo() {
   <ul class="programas">
     ${enlacesEmpleo
       .map(
-        (e) => `<li${e.concejo ? ` style="${vars(e.concejo)}"` : ''}><a href="${esc(e.url)}" target="_blank" rel="noopener">
+        (e) => `<li${e.concejo ? ` style="${vars(e.concejo)}"` : ''}><a href="${escUrl(e.url)}" target="_blank" rel="noopener">
       ${e.concejo ? disco(e.concejo) : '<span class="disco" aria-hidden="true">·</span>'}<span>${esc(e.nombre)} ↗</span></a></li>`
       )
       .join('')}
@@ -914,11 +964,11 @@ const boletin = () => {
   <form class="boletin__forma"${
     conectado
       ? ` action="${esc(cfgBoletin.accion)}" method="post" target="_blank"`
-      : ' action="#" method="post" onsubmit="return false"'
+      : ' aria-disabled="true"'
   }>
     <label class="saltar" for="correo">${esc(T('boletinCorreo'))}</label>
-    <input id="correo" type="email" name="${esc(conectado ? cfgBoletin.campoCorreo : 'correo')}" placeholder="tunombre@correo.com" autocomplete="email" required>
-    <button type="submit">${esc(T('boletinBoton'))}</button>
+    <input id="correo" type="email" name="${esc(conectado ? cfgBoletin.campoCorreo : 'correo')}" placeholder="tunombre@correo.com" autocomplete="email" required${conectado ? '' : ' disabled'}>
+    <button type="submit"${conectado ? '' : ' disabled'}>${esc(T('boletinBoton'))}</button>
   </form>
   ${conectado ? '' : `<p class="boletin__nota">${esc(T('boletinNota'))}</p>`}
 </section>`;
@@ -1006,11 +1056,11 @@ export function pagina({
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(tituloCompleto)}</title>
 <meta name="description" content="${esc(descripcion)}">
-<link rel="canonical" href="${esc(enlaceCanonico)}">
+<link rel="canonical" href="${escUrl(enlaceCanonico)}">
 ${idiomas
-  .map((i) => `<link rel="alternate" hreflang="${i.codigo}" href="${esc(sitio.url + ruta(i.codigo, url))}">`)
+  .map((i) => `<link rel="alternate" hreflang="${i.codigo}" href="${escUrl(sitio.url + ruta(i.codigo, url))}">`)
   .join('\n')}
-<link rel="alternate" hreflang="x-default" href="${esc(sitio.url + ruta(IDIOMA_BASE, url))}">
+<link rel="alternate" hreflang="x-default" href="${escUrl(sitio.url + ruta(IDIOMA_BASE, url))}">
 <meta property="og:type" content="${url === '/' ? 'website' : 'article'}">
 <meta property="og:site_name" content="${esc(sitio.nombre)}">
 <meta property="og:title" content="${esc(tituloCompleto)}">
@@ -1055,7 +1105,7 @@ ${estado.fuentesPropias
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=Martian+Mono:wght@400;600&display=swap" rel="stylesheet">`}
 <link rel="stylesheet" href="/estilos.css">
 ${verificacion.google ? `<meta name="google-site-verification" content="${esc(verificacion.google)}">` : ''}
-<script type="application/ld+json">${JSON.stringify({
+<script type="application/ld+json">${jsonEnScript({
   '@context': 'https://schema.org',
   '@type': 'NewsMediaOrganization',
   name: sitio.nombre,
@@ -1064,7 +1114,7 @@ ${verificacion.google ? `<meta name="google-site-verification" content="${esc(ve
   email: sitio.email,
   areaServed: concejos.map((c) => ({ '@type': 'AdministrativeArea', name: `${c.nombre}, Asturias` })),
 })}</script>
-<script type="application/ld+json">${JSON.stringify({
+<script type="application/ld+json">${jsonEnScript({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   name: sitio.nombre,
@@ -1072,12 +1122,18 @@ ${verificacion.google ? `<meta name="google-site-verification" content="${esc(ve
   inLanguage: idi.htmlLang,
   publisher: { '@type': 'NewsMediaOrganization', name: sitio.nombre, url: sitio.url },
 })}</script>
-${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
+${jsonLd ? `<script type="application/ld+json">${jsonEnScript(jsonLd)}</script>` : ''}
 <script>
   try {
     var t = localStorage.getItem('prida-tema');
     if (t) document.documentElement.dataset.tema = t;
   } catch (e) {}
+  // Seguridad: si otra web mete La Prida dentro de un marco (para engañar al
+  // lector con clics encima), la página sale del marco. GitHub Pages no deja
+  // enviar la cabecera que lo prohíbe (frame-ancestors / X-Frame-Options).
+  if (window.top !== window.self) {
+    try { window.top.location.replace(window.self.location.href); } catch (e) {}
+  }
 </script>
 ${
   anuncios.activo && anuncios.adsense.cliente
@@ -1300,7 +1356,7 @@ function bandaPractica({ avisos = [], empleo = [], cursos = [], agenda = [] }) {
   <ul class="practico__lista">
     ${filas
       .map(
-        (f) => `<li><a class="practico__fila" href="${esc(U(f.url))}">
+        (f) => `<li><a class="practico__fila" href="${escUrl(U(f.url))}">
       <span class="practico__etiq practico__etiq--${f.clase}">${esc(f.etiqueta)}</span>
       <span class="practico__texto">${esc(f.texto ?? '')}</span>
     </a></li>`
@@ -1319,7 +1375,7 @@ function destacadoTablon(anunciosTablon = []) {
   if (!d) return '';
   return `<aside class="destacado" aria-label="${esc(T('destacadoTablon'))}">
   <p class="destacado__marca">${esc(T('destacadoTablon'))}</p>
-  <a class="destacado__cuerpo" href="${esc(U('/tablon/'))}">
+  <a class="destacado__cuerpo" href="${escUrl(U('/tablon/'))}">
     <span class="destacado__titulo">${esc(d.titulo)}</span>
     <span class="destacado__pie">${esc([d.zona, d.concejo].filter(Boolean).join(', '))}${d.precio ? ` · ${esc(d.precio)}` : ''}</span>
   </a>
@@ -1570,7 +1626,7 @@ export function portada({ piezas, despertadorDatos, tiempo, agenda, avisos, empl
 }
 
 export function itemAviso(a) {
-  return `<a class="aviso" href="${esc(U(a.url ?? '/avisos/'))}">
+  return `<a class="aviso" href="${escUrl(U(a.url ?? '/avisos/'))}">
   <span class="aviso__icono" aria-hidden="true">${esc(a.icono ?? '⚠️')}</span>
   <span><span class="aviso__que">${esc(a.titular)}</span>
   <span class="aviso__detalle">${esc(a.entradilla ?? a.concejo ?? '')}</span></span>
@@ -1608,7 +1664,7 @@ export function paginaConcejo(concejo, piezas, tiempo, cuentas = {}) {
       <div class="caja">
         <h2 class="caja__titulo">${esc(T('deDondeSale'))}</h2>
         <p style="margin:0 0 12px;font-size:15px;color:var(--tinta-2)">${esc(T('deDondeSaleTexto'))}</p>
-        <p style="margin:0"><a class="volver" style="margin:0" href="${esc(concejo.web)}" target="_blank" rel="noopener">${esc(T('ayuntamientoDe'))} ${esc(concejo.nombre)} →</a></p>
+        <p style="margin:0"><a class="volver" style="margin:0" href="${escUrl(concejo.web)}" target="_blank" rel="noopener">${esc(T('ayuntamientoDe'))} ${esc(concejo.nombre)} →</a></p>
       </div>
       ${patrocinios(concejo.slug)}
       ${hueco('lateral')}
@@ -1669,10 +1725,10 @@ export function pieDeFoto(p) {
   if (p.credito) {
     const c = p.credito;
     const licencia = c.licenciaUrl
-      ? `<a href="${esc(c.licenciaUrl)}" target="_blank" rel="noopener license">${esc(licenciaEn(c.licencia))}</a>`
+      ? `<a href="${escUrl(c.licenciaUrl)}" target="_blank" rel="noopener license">${esc(licenciaEn(c.licencia))}</a>`
       : esc(licenciaEn(c.licencia));
     const tocada = c.atribucion && c.redimensionada ? ` · ${esc(T('redimensionada'))}` : '';
-    return `${c.pie ? `${esc(c.pie)}. ` : ''}${esc(T('foto'))}: ${esc(c.autor)} · ${licencia} · <a href="${esc(c.origen)}" target="_blank" rel="noopener">${esc(c.fuente)}</a>${tocada}`;
+    return `${c.pie ? `${esc(c.pie)}. ` : ''}${esc(T('foto'))}: ${esc(c.autor)} · ${licencia} · <a href="${escUrl(c.origen)}" target="_blank" rel="noopener">${esc(c.fuente)}</a>${tocada}`;
   }
   return `${esc(T('imagenDe'))} ${esc(p.fuente?.nombre ?? '—')}.`;
 }
@@ -1744,7 +1800,7 @@ export function paginaArticulo(p, relacionadas, tiempo, cuentas = {}) {
         : traducida
           ? `<p class="nota-idioma">${esc(T('traduccionAuto'))}</p>`
           : `<p class="nota-idioma nota-idioma--aviso">${esc(T('sinTraducir'))}
-             <a href="${ruta(IDIOMA_BASE, p.url)}" lang="es">${esc(T('leerEnEspanol'))}</a></p>`
+             <a href="${rutaLimpia(ruta(IDIOMA_BASE, p.url))}" lang="es">${esc(T('leerEnEspanol'))}</a></p>`
     }
     ${fichaPlan(p)}
     ${escalas[0] ? `<div class="escalas">${escalas[0]}</div>` : ''}
@@ -1761,7 +1817,7 @@ export function paginaArticulo(p, relacionadas, tiempo, cuentas = {}) {
     ${
       p.fuente?.url
         ? `<p class="fuente"><strong>${esc(T('fuenteTitulo'))}</strong> ${esc(T('fuenteTexto'))}
-      <a href="${esc(p.fuente.url)}" target="_blank" rel="noopener">${esc(p.fuente.nombre)}</a>${
+      <a href="${escUrl(p.fuente.url)}" target="_blank" rel="noopener">${esc(p.fuente.nombre)}</a>${
             p.fuente.titularOriginal ? `: «${esc(p.fuente.titularOriginal)}»` : ''
           }. ${esc(T('fuenteError'))} ${esc(sitio.email)}.</p>`
         : ''
