@@ -2,6 +2,7 @@
 // Genera el sitio estático de La Prida en dist/.  →  node build.mjs
 
 import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import { sitio, concejos, secciones, tarifas, anuncios, indexnow, titular, analitica } from './src/config.mjs';
 import { idiomas, IDIOMA_BASE, slugSeccion, idiomaDe, ruta as rutaIdioma } from './src/idiomas.mjs';
@@ -44,7 +45,107 @@ function destinoDe(rutaRelativa) {
 async function escribir(rutaRelativa, contenido) {
   const destino = path.join(DIST, destinoDe(rutaRelativa));
   await fs.mkdir(path.dirname(destino), { recursive: true });
-  await fs.writeFile(destino, contenido);
+  await fs.writeFile(destino, destino.endsWith('.html') ? blindar(contenido) : contenido);
+}
+
+/* --- seguridad: política de contenidos ------------------------------------- */
+//
+// GitHub Pages no deja poner cabeceras HTTP propias. La Content-Security-Policy
+// va entonces como <meta http-equiv>, que el navegador aplica igual salvo tres
+// directivas (frame-ancestors, report-uri y sandbox), que solo valen en cabecera.
+//
+// La política se CALCULA mirando cada página ya escrita, no se escribe a mano:
+//  · cada <script> en línea entra por su huella sha256; si alguien cambia una
+//    coma del script del modo noche, la huella cambia sola y nada se rompe;
+//  · cada origen externo que la página carga de verdad (Cloudflare, Google
+//    Fonts o AdSense, si se encienden) entra por su nombre, y nada más;
+//  · los bloques ld+json no se ejecutan, así que no necesitan huella.
+//
+// Si un día alguien consigue colar un <script> en una noticia, el navegador no
+// lo ejecuta: no está en la lista. Es la segunda puerta, detrás del escapado.
+const ORIGENES_EXTRA = {
+  'static.cloudflareinsights.com': { connect: ['https://cloudflareinsights.com'] },
+  'pagead2.googlesyndication.com': {
+    // AdSense no está hecho para CSP estricta: carga de muchos dominios de Google.
+    script: ['https://*.googlesyndication.com', 'https://*.doubleclick.net', 'https://*.google.com', 'https://*.gstatic.com', 'https://*.adtrafficquality.google'],
+    img: ['https:'],
+    frame: ['https://*.googlesyndication.com', 'https://*.doubleclick.net', 'https://*.google.com'],
+    connect: ['https://*.googlesyndication.com', 'https://*.doubleclick.net', 'https://*.google.com', 'https://*.adtrafficquality.google'],
+  },
+};
+
+function blindar(html) {
+  const huellas = new Set();
+  const scripts = new Set(["'self'"]);
+  const estilos = new Set(["'self'"]);
+  const fuentesTipo = new Set(["'self'"]);
+  const conexiones = new Set(["'self'"]);
+  const imagenes = new Set(["'self'"]);
+  const marcos = new Set();
+  const formularios = new Set();
+
+  for (const [, attrs, cuerpo] of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)) {
+    const src = /\bsrc=["']([^"']+)["']/i.exec(attrs)?.[1];
+    if (src) {
+      if (/^https?:\/\//i.test(src)) {
+        const u = new URL(src);
+        // El contador de Cloudflare se autoriza por su ruta exacta, no por todo
+        // el dominio: es lo que recomienda Cloudflare y deja menos puerta abierta.
+        scripts.add(u.host === 'static.cloudflareinsights.com' ? `${u.origin}${u.pathname}` : u.origin);
+        const extra = ORIGENES_EXTRA[u.host];
+        for (const o of extra?.script ?? []) scripts.add(o);
+        for (const o of extra?.connect ?? []) conexiones.add(o);
+        for (const o of extra?.img ?? []) imagenes.add(o);
+        for (const o of extra?.frame ?? []) marcos.add(o);
+      }
+      continue;
+    }
+    if (/type=["']application\/(ld\+)?json["']/i.test(attrs)) continue;
+    huellas.add(`'sha256-${crypto.createHash('sha256').update(cuerpo, 'utf8').digest('base64')}'`);
+  }
+  for (const [, href] of html.matchAll(/<link\b[^>]*rel=["']stylesheet["'][^>]*href=["'](https?:\/\/[^"']+)["']/gi)) {
+    estilos.add(new URL(href).origin);
+    if (new URL(href).host === 'fonts.googleapis.com') fuentesTipo.add('https://fonts.gstatic.com');
+  }
+  for (const [, accion] of html.matchAll(/<form\b[^>]*\baction=["'](https?:\/\/[^"']+)["']/gi)) {
+    formularios.add(new URL(accion).origin);
+  }
+  if (/<[a-z][^>]*\son[a-z]+\s*=/i.test(html)) {
+    // Un manejador en línea (onclick=…) no lo cubre ninguna huella. Mejor que
+    // falle la construcción aquí que en el navegador del lector, en silencio.
+    throw new Error('blindar(): la página lleva un manejador de eventos en línea (on…=). Pásalo a un <script>.');
+  }
+
+  const politica = [
+    "default-src 'none'",
+    `script-src ${[...scripts, ...huellas].join(' ')}`,
+    // Los atributos style="" del diseño (colores de cada concejo) son en línea,
+    // y no hay forma razonable de hacerles huella: se permiten SOLO en atributo.
+    `style-src ${[...estilos].join(' ')}`,
+    `style-src-elem ${[...estilos].join(' ')}`,
+    "style-src-attr 'unsafe-inline'",
+    `font-src ${[...fuentesTipo].join(' ')}`,
+    `img-src ${[...imagenes].join(' ')}`,
+    `connect-src ${[...conexiones].join(' ')}`,
+    "manifest-src 'self'",
+    "media-src 'self'",
+    "object-src 'none'",
+    "worker-src 'none'",
+    `frame-src ${marcos.size ? [...marcos].join(' ') : "'none'"}`,
+    "base-uri 'none'",
+    `form-action ${formularios.size ? [...formularios].join(' ') : "'none'"}`,
+    'upgrade-insecure-requests',
+  ].join('; ');
+
+  const metas =
+    `<meta http-equiv="Content-Security-Policy" content="${politica}">\n` +
+    '<meta name="referrer" content="strict-origin-when-cross-origin">\n';
+  // Justo detrás de <meta charset> (que debe quedar en los primeros 1024 bytes)
+  // y antes de cualquier script: la política solo vale para lo que viene después.
+  const m = /<meta charset=[^>]*>/i.exec(html) ?? /<head[^>]*>/i.exec(html);
+  if (!m) return html;
+  const fin = m.index + m[0].length;
+  return html.slice(0, fin) + '\n' + metas + html.slice(fin);
 }
 
 /* --- qué se dibuja cuando no hay foto -------------------------------------- */
@@ -469,6 +570,8 @@ La Prida <strong>no es parte del trato ni cobra comisión</strong>: publica el a
 ni interviene en la compraventa. La responsabilidad de lo que se anuncia es de quien lo anuncia, que debe
 poder ser identificado y cumplir lo que le exija la ley según lo que ofrezca: en la venta o el alquiler de
 vivienda, por ejemplo, la etiqueta de eficiencia energética es obligatoria y sin ella el anuncio no se publica.</p>
+<p><strong>Los datos de contacto del anunciante no se publican</strong> ni se guardan junto al anuncio: quien esté
+interesado escribe al diario indicando la referencia del anuncio y se lo hacemos llegar a quien lo puso.</p>
 <p>No publicamos direcciones postales ni referencias catastrales. Cualquiera puede pedir que se retire su
 anuncio escribiendo a la dirección de contacto, y retiramos sin demora el que nos conste falso, fraudulento
 o contrario a la ley.</p>
@@ -730,6 +833,8 @@ La Prida <strong>is not a party to the deal and takes no commission</strong>: it
 what is advertised and does not take part in the sale. Responsibility for what is advertised lies with whoever
 advertises it, who must be identifiable and must comply with whatever the law requires: for the sale or letting of
 housing, for instance, the energy efficiency certificate is mandatory and without it the ad is not published.</p>
+<p><strong>The advertiser's contact details are not published</strong> or stored with the ad: anyone interested writes
+to the paper quoting the ad's reference, and we pass the message on to whoever placed it.</p>
 <p>We do not publish postal addresses or land registry references. Anyone may ask for their ad to be taken down by
 writing to the contact address, and we remove without delay anything we know to be false, fraudulent or unlawful.</p>
 
@@ -800,6 +905,8 @@ La Prida <strong>n'est pas partie à la transaction et ne perçoit aucune commis
 ne vérifie pas ce qui est proposé et n'intervient pas dans la vente. La responsabilité incombe à l'annonceur, qui doit
 pouvoir être identifié et respecter la loi selon ce qu'il propose : pour la vente ou la location d'un logement, par
 exemple, le diagnostic de performance énergétique est obligatoire et, sans lui, l'annonce n'est pas publiée.</p>
+<p><strong>Les coordonnées de l'annonceur ne sont pas publiées</strong> ni conservées avec l'annonce : la personne
+intéressée écrit au journal en indiquant la référence de l'annonce, et nous transmettons son message à l'annonceur.</p>
 <p>Nous ne publions ni adresses postales ni références cadastrales. Chacun peut demander le retrait de son annonce en
 écrivant à l'adresse de contact, et nous retirons sans délai ce qui nous est signalé comme faux, frauduleux ou illégal.</p>
 
@@ -870,6 +977,8 @@ La Prida <strong>ist nicht Vertragspartei und erhält keine Provision</strong>: 
 das Angebot nicht und wirkt am Geschäft nicht mit. Die Verantwortung trägt, wer inseriert; er muss identifizierbar
 sein und erfüllen, was das Gesetz je nach Angebot verlangt: beim Verkauf oder der Vermietung von Wohnraum etwa ist
 der Energieausweis Pflicht, und ohne ihn wird die Anzeige nicht veröffentlicht.</p>
+<p><strong>Die Kontaktdaten der Inserenten werden nicht veröffentlicht</strong> und nicht mit der Anzeige gespeichert:
+Interessierte schreiben der Zeitung unter Angabe der Anzeigennummer, und wir leiten die Nachricht weiter.</p>
 <p>Postanschriften und Katasterangaben werden nicht veröffentlicht. Jede Person kann die Entfernung ihrer Anzeige
 über die Kontaktadresse verlangen, und wir entfernen unverzüglich, was uns als falsch, betrügerisch oder rechtswidrig
 bekannt wird.</p>
@@ -979,7 +1088,29 @@ async function main() {
   }
   await fs.mkdir(DIST, { recursive: true });
 
-  const piezas = (await json('noticias.json', [])).sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
+  // Seguridad: la dirección y el concejo de cada pieza se convierten en nombres
+  // de carpeta y en enlaces. Solo pasan los que tienen la forma que genera la
+  // ingesta (/concejo/slug/, minúsculas, cifras y guiones) y un concejo real.
+  // Lo demás no se publica y se avisa en la pestaña Actions.
+  const slugsValidos = new Set(concejos.map((c) => c.slug));
+  const todasLasPiezas = await json('noticias.json', []);
+  const piezas = todasLasPiezas
+    .filter((p) => {
+      const ok =
+        p &&
+        slugsValidos.has(p.concejoSlug) &&
+        typeof p.url === 'string' &&
+        /^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(p.url) &&
+        p.url.startsWith(`/${p.concejoSlug}/`) &&
+        !Number.isNaN(Date.parse(p.fecha));
+      if (!ok) {
+        const m = `Pieza descartada por datos con forma inválida: ${JSON.stringify(String(p?.url ?? '')).slice(0, 120)}`;
+        console.warn(`⚠︎  ${m}`);
+        if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Pieza inválida::${m.replace(/[\r\n]/g, ' ')}`);
+      }
+      return ok;
+    })
+    .sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
   const cuentas = Object.fromEntries(
     concejos.map((c) => [c.slug, piezas.filter((p) => p.concejoSlug === c.slug).length])
   );
@@ -1021,7 +1152,21 @@ async function main() {
   const tiempo = await json('tiempo.json', null);
   const agendaManual = await json('agenda.json', []);
   const empleoManual = await json('empleo.json', []);
-  const anunciosTablon = await json('anuncios.json', []);
+  // Privacidad: un anuncio que lleve correo o teléfono en cualquiera de sus campos
+  // no se publica, y se avisa en rojo para que se quite del repositorio (que es
+  // público). El contacto va siempre a través del diario. Ver plantillas.mjs.
+  const RE_DATO_PERSONAL = /[\w.+-]+@[\w-]+(?:\.[\w-]+)+|(?:\+34[\s.-]?)?(?:[6789]\d{2}[\s.-]?\d{3}[\s.-]?\d{3}|[6789]\d{2}[\s.-]?\d{2}[\s.-]?\d{2}[\s.-]?\d{2})/;
+  const anunciosTablon = (await json('anuncios.json', [])).filter((a) => {
+    const campos = Object.entries(a ?? {}).filter(([, v]) => typeof v === 'string');
+    const conDato = campos.find(([, v]) => RE_DATO_PERSONAL.test(v) && !/laprida\.example/.test(v));
+    if (conDato) {
+      const m = `Anuncio «${a.id}» NO publicado: el campo «${conDato[0]}» lleva un correo o un teléfono. Quítalo de content/data/anuncios.json (el repositorio es público).`;
+      console.error(`✖  ${m}`);
+      if (process.env.GITHUB_ACTIONS) console.log(`::error title=Dato personal en un anuncio::${m}`);
+      return false;
+    }
+    return true;
+  });
   const cursosManual = await json('cursos.json', []);
 
   const cuando = (e) => new Date(e.fechaEvento || e.fecha).getTime();
@@ -1260,6 +1405,23 @@ async function main() {
   // El sitemap de noticias solo existe si hay noticias frescas. Ver arriba.
   const noticiasXml = sitemapNoticias(piezas);
   if (noticiasXml) await escribir('news-sitemap.xml', noticiasXml);
+
+  // security.txt (RFC 9116): a quién avisar si alguien encuentra un fallo de
+  // seguridad. «Expires» es obligatorio y no puede pasar de un año; como el
+  // diario se reconstruye varias veces al día, se pone a 180 días y se renueva solo.
+  {
+    const caduca = new Date(Date.now() + 180 * 86400000).toISOString().replace(/\.\d{3}Z$/, 'Z');
+    await fs.mkdir(path.join(DIST, '.well-known'), { recursive: true });
+    await fs.writeFile(
+      path.join(DIST, '.well-known', 'security.txt'),
+      `Contact: mailto:${sitio.email}\n` +
+        `Contact: https://github.com/guilabert67/guilabert67.github.io/security/advisories/new\n` +
+        `Expires: ${caduca}\n` +
+        'Preferred-Languages: es, en\n' +
+        `Canonical: ${sitio.url}/.well-known/security.txt\n` +
+        `Policy: https://github.com/guilabert67/guilabert67.github.io/blob/main/SECURITY.md\n`
+    );
+  }
 
   await escribir(
     'robots.txt',
