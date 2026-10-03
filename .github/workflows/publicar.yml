@@ -62,10 +62,8 @@ on:
     workflows: ['Traducir el archivo atrasado', 'Traer las tipografías a casa']
     types: [completed]
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+# Seguridad: por defecto ningún permiso. Cada trabajo pide abajo solo lo suyo.
+permissions: {}
 
 # Nunca dos ediciones a la vez: la segunda espera, no se cancela.
 concurrency:
@@ -74,6 +72,13 @@ concurrency:
 
 jobs:
   edicion:
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    # Si algo se cuelga (un feed, la API), el trabajo muere a los 90 min
+    # en vez de bloquear las ediciones siguientes durante 6 horas.
+    timeout-minutes: 90
     # Si el flujo que nos despierta terminó mal, no hay nada nuevo que publicar.
     # Republicar tras un fallo no arregla nada y ensucia el historial de commits,
     # que es justo lo que el guardián de ediciones usa para saber qué salió ya.
@@ -88,7 +93,7 @@ jobs:
     steps:
       # El checkout va PRIMERO: para saber si una edición ya salió hay que poder
       # mirar el historial. Con profundidad suficiente para varios días.
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           fetch-depth: 50
 
@@ -130,7 +135,7 @@ jobs:
             echo "seguir=si" >> "$GITHUB_OUTPUT"
           fi
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         if: steps.reloj.outputs.seguir == 'si'
         with:
           node-version: 22
@@ -179,15 +184,15 @@ jobs:
           git diff --staged --quiet || git commit -m "Edición ${{ steps.reloj.outputs.edicion }} del ${{ steps.reloj.outputs.fecha_edicion }}"
           git push
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
         if: steps.reloj.outputs.seguir == 'si'
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
         if: steps.reloj.outputs.seguir == 'si'
         with:
           path: dist
       - id: despliegue
         if: steps.reloj.outputs.seguir == 'si'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
 
       # IndexNow: avisar a los buscadores de que hay edición nueva.
       #

@@ -32,31 +32,41 @@ concurrency:
   group: laprida
   cancel-in-progress: false
 
-permissions:
-  contents: write
+# Seguridad: por defecto ningún permiso. Cada trabajo pide abajo solo lo suyo.
+permissions: {}
 
 jobs:
   traducir:
+    permissions:
+      contents: write
+    # Si algo se cuelga (un feed, la API), el trabajo muere a los 240 min
+    # en vez de bloquear las ediciones siguientes durante 6 horas.
+    timeout-minutes: 240
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: 22
 
       - name: Traducir lo que falte
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Las casillas del formulario entran como variables, nunca pegadas en el
+          # script: así nada de lo que se escriba ahí puede ejecutarse como orden.
+          ENTRADA_LIMITE: ${{ inputs.limite }}
+          ENTRADA_FORZAR: ${{ inputs.forzar }}
         run: |
           OPCIONES=""
           # Vacío, 0 o «todas» significan sin límite. Cualquier otra cosa, el número.
-          LIMITE="${{ inputs.limite }}"
+          LIMITE="$ENTRADA_LIMITE"
           case "$LIMITE" in
             ''|0|todas|TODAS|all) : ;;
+            *[!0-9]*) echo "::error::El límite tiene que ser un número (o vacío). Recibido: $LIMITE"; exit 1 ;;
             *) OPCIONES="$OPCIONES --limite $LIMITE" ;;
           esac
-          if [ "${{ inputs.forzar }}" = "true" ]; then
+          if [ "$ENTRADA_FORZAR" = "true" ]; then
             OPCIONES="$OPCIONES --forzar"
           fi
           echo "Opciones: ${OPCIONES:-(ninguna)}"
