@@ -1,0 +1,16 @@
+# Mantiene al día las acciones de GitHub que usan los flujos.
+# Están fijadas por su huella (SHA), no por su etiqueta: una etiqueta como «v4»
+# la puede mover quien controle esa acción, una huella no. Dependabot abre una
+# propuesta (pull request) al mes con las huellas nuevas; basta con revisarla y
+# aceptarla («Merge») en la pestaña Pull requests.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    commit-message:
+      prefix: "Seguridad"
+    groups:
+      acciones:
+        patterns: ["*"]
