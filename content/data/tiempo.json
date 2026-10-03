@@ -1,36 +1,36 @@
 {
-  "actualizado": "2026-10-03T13:44:54.782Z",
+  "actualizado": "2026-10-03T18:15:04.226Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
       "max": 22,
       "min": 15,
-      "estado": "Chubascos",
-      "lluvia": 70
+      "estado": "Chubascos fuertes",
+      "lluvia": 85
     },
     "nava": {
       "max": 22,
       "min": 14,
-      "estado": "Chubascos",
-      "lluvia": 83
+      "estado": "Chubascos fuertes",
+      "lluvia": 85
     },
     "cabranes": {
       "max": 21,
       "min": 14,
-      "estado": "Lluvia fuerte",
-      "lluvia": 70
+      "estado": "Chubascos fuertes",
+      "lluvia": 85
     },
     "cabrales": {
       "max": 20,
       "min": 13,
-      "estado": "Lluvia fuerte",
-      "lluvia": 93
+      "estado": "Lluvia",
+      "lluvia": 100
     },
     "villaviciosa": {
       "max": 23,
       "min": 17,
       "estado": "Lluvia fuerte",
-      "lluvia": 90
+      "lluvia": 95
     }
   }
 }

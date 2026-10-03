@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-03T13:44:53.554Z",
+  "fecha": "2026-10-03T18:15:03.105Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "Cinco personas e instituciones reciben el primer Premio Corripio Alonso de Piloña.",
-      "enlace": "/pilona/los-premios-corripio-alonso-distinguen-a-cinco-trayectorias-ejemplares/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Pajarón pregona hoy el 55.º Festival de la Avellana en Piloña.",
-      "enlace": "/pilona/pajaron-recordo-a-paradona-monchu-lele-que-comenzaron-esta-maravillosa/"
+      "concejo": "Villaviciosa",
+      "frase": "La pasarela a Rodiles sigue cerrada: Costas no reparó y el alcalde cortó el paso.",
+      "enlace": "/villaviciosa/el-alcalde-de-villaviciosa-clausura-la-pasarela-de-madera-de-miami-a-r/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Dos hermanos de Quintueles abren una huerta ecológica de tres mil metros cuadrados.",
-      "enlace": "/villaviciosa/los-gemelos-de-quintes-la-agricultura-necesita-renovarse-para-hacer-fr/"
+      "frase": "Villaviciosa prepara más de 50 actos para el Portal y espera el sello de Bien Cultural para la Danza.",
+      "enlace": "/villaviciosa/villaviciosa-prepara-mas-de-50-actividades-para-las-fiestas-del-portal/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El concejo paga 10.000 € para que los vecinos puedan reservar taxi con antelación.",
+      "enlace": "/villaviciosa/villaviciosa-implementa-las-reservas-por-radio-taxi-para-la-mejora-del/"
     }
   ]
 }
