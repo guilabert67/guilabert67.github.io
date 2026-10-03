@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-03T08:38:39.714Z",
+  "fecha": "2026-10-03T13:44:53.554Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "El Sella está despejado: el lleráu que amenazaba el Descenso ya no está.",
-      "enlace": "/pilona/despejada-la-salida-del-sella/"
+      "frase": "Cinco personas e instituciones reciben el primer Premio Corripio Alonso de Piloña.",
+      "enlace": "/pilona/los-premios-corripio-alonso-distinguen-a-cinco-trayectorias-ejemplares/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Pajarón pregona hoy el 55.º Festival de la Avellana en Piloña.",
+      "enlace": "/pilona/pajaron-recordo-a-paradona-monchu-lele-que-comenzaron-esta-maravillosa/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Ecologistas llevan más de un año denunciando un vertedero de desguace en la ría de Villaviciosa.",
-      "enlace": "/villaviciosa/los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa amplía ayudas para fiestas y deporte, con apoyo nuevo para la Coral Capilla la Torre.",
-      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-amplia-las-subvenciones-para-festejos-/"
+      "frase": "Dos hermanos de Quintueles abren una huerta ecológica de tres mil metros cuadrados.",
+      "enlace": "/villaviciosa/los-gemelos-de-quintes-la-agricultura-necesita-renovarse-para-hacer-fr/"
     }
   ]
 }
