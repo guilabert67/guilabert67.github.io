@@ -1,5 +1,56 @@
 [
   {
+    "id": "cabrales-picu-urriellu-y-el-queso-mas-internacional",
+    "url": "/cabrales/cabrales-picu-urriellu-y-el-queso-mas-internacional/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Cabrales: queso, Urriellu y Bulnes, tres marcas mundiales",
+    "entradilla": "El concejo acumula un peso singular que pocos territorios de su tamaño pueden igualar.",
+    "cuerpo": [
+      "Cabrales concentra en poco espacio tres referencias que se conocen fuera de Asturias y de España: el queso con más récords Guinness del mundo, la pared del Picu Urriellu con algunas de las vías de escalada más exigentes del planeta, y Bulnes, el pueblo al que solo se llega en funicular.",
+      "Son tres atractivos distintos que apuntan a públicos distintos: el gastronómico, el deportivo y el del viajero que busca algo que no encontrará en otro sitio."
+    ],
+    "apunte": "Seis récords Guinness y un funicular: Cabrales lleva años ganando sin hacer ruido.",
+    "enVeinte": [
+      "El queso de Cabrales acumula seis récords Guinness, más que ningún otro queso del mundo.",
+      "El Picu Urriellu alberga algunas de las vías de escalada más difíciles que existen.",
+      "Bulnes es el único pueblo de España al que solo se puede llegar en funicular."
+    ],
+    "cifra": {
+      "numero": "6",
+      "unidad": "récords Guinness",
+      "glosa": "El queso de Cabrales ha entrado seis veces en el libro de los récords mundiales. Ningún otro queso acumula tantos reconocimientos de ese tipo."
+    },
+    "palabra": {
+      "termino": "funicular",
+      "como": "funicular, igual que en castellano, aunque por aquí también se le llama simplemente 'el funicular de Bulnes'",
+      "definicion": "Vehículo sobre raíles tirado por cable que salva grandes desniveles. El de Bulnes, inaugurado en 2001, es el único acceso motorizado a esa aldea encajada en los Picos de Europa."
+    },
+    "porQue": "Vivir en Cabrales significa tener al lado tres reclamos de proyección mundial; entender qué los hace únicos ayuda a contárselo a quien viene de fuera, y también a valorarlos desde dentro.",
+    "etiquetas": [
+      "Cabrales",
+      "queso",
+      "Picu Urriellu",
+      "Bulnes"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/gastronomia/2026/10/03/224351320-kHSE--1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-03T08:04:36.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/gastronomia/cabrales-picu-urriellu-queso-internacional-20261003100435-nt.html",
+      "titularOriginal": "Cabrales, Picu Urriellu y el queso más internacional"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
     "id": "el-puente-de-ribadesella-permanecera-totalmente-abierto-durante-el-fin",
     "url": "/pilona/el-puente-de-ribadesella-permanecera-totalmente-abierto-durante-el-fin/",
     "concejo": "Piloña",
@@ -14094,6 +14145,346 @@
     }
   },
   {
+    "id": "desfile-de-carrozas-en-quintueles-por-san-bartolome",
+    "url": "/villaviciosa/desfile-de-carrozas-en-quintueles-por-san-bartolome/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Quintueles celebra San Bartolomé con desfile de carrozas",
+    "entradilla": "La procesión recorrió el pueblo antes de la misa en la iglesia local.",
+    "cuerpo": [
+      "Quintueles vivió su fiesta mayor con un desfile de carrozas que recorrió las calles de la localidad camino de la iglesia, donde se celebró la misa en honor a San Bartolomé.",
+      "La comitiva reunió a vecinos y visitantes en uno de los actos centrales de las fiestas patronales del pueblo."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Quintueles celebró San Bartolomé con un desfile de carrozas por las calles del pueblo.",
+      "La comitiva terminó en la iglesia, donde se ofició la misa patronal.",
+      "El acto reunió a vecinos y visitantes en las fiestas del lugar."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Las fiestas de San Bartolomé son la cita más señalada del año para los vecinos de Quintueles y quienes tienen raíces allí.",
+    "etiquetas": [
+      "Quintueles",
+      "San Bartolomé",
+      "fiestas patronales",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Quintueles",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/24/carrozas-quintueles-2-RB2hSK1LIfiHBWsMAX4iSPO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-24T20:03:43.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/desfile-carrozas-quintueles-san-bartolome-20260824220331-nt.html",
+      "titularOriginal": "Desfile de carrozas en Quintueles por San Bartolomé"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Quintueles celebrates San Bartolomé with a float parade",
+        "entradilla": "The procession moved through the village before Mass at the local church.",
+        "cuerpo": [
+          "Quintueles marked its main feast day with a float parade through the streets of the village, making its way to the church, where Mass was held in honour of San Bartolomé.",
+          "The procession brought together residents and visitors for one of the centrepiece events of the village's patron saint festivities."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Quintueles celebrated San Bartolomé with a float parade through the village streets.",
+          "The procession ended at the church, where the patron saint Mass was held.",
+          "The event brought together residents and visitors for the village festivities."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The San Bartolomé festivities are the most important date of the year for the residents of Quintueles and those with roots there.",
+        "lugar": "Quintueles",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Quintueles fête San Bartolomé avec un défilé de chars",
+        "entradilla": "La procession a traversé le village avant la messe en l'église locale.",
+        "cuerpo": [
+          "Quintueles a vécu sa fête principale avec un défilé de chars qui a parcouru les rues de la localité jusqu'à l'église, où a été célébrée la messe en l'honneur de San Bartolomé.",
+          "Le cortège a réuni habitants et visiteurs pour l'un des temps forts des fêtes patronales du village."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Quintueles a célébré San Bartolomé avec un défilé de chars dans les rues du village.",
+          "Le cortège s'est achevé à l'église, où la messe patronale a été célébrée.",
+          "L'événement a réuni habitants et visiteurs pour les fêtes du village."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Les fêtes de San Bartolomé sont le rendez-vous le plus important de l'année pour les habitants de Quintueles et ceux qui y ont des racines.",
+        "lugar": "Quintueles",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Quintueles feiert San Bartolomé mit einem Festwagen-Umzug",
+        "entradilla": "Die Prozession zog durch den Ort, bevor in der örtlichen Kirche die Messe gefeiert wurde.",
+        "cuerpo": [
+          "Quintueles beging sein Hauptfest mit einem Festwagen-Umzug durch die Straßen des Ortes bis zur Kirche, wo eine Messe zu Ehren von San Bartolomé gehalten wurde.",
+          "Der Festzug brachte Einwohner und Besucher zu einem der zentralen Ereignisse der Patronatsfeste des Dorfes zusammen."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Quintueles feierte San Bartolomé mit einem Festwagen-Umzug durch die Straßen des Dorfes.",
+          "Der Festzug endete an der Kirche, wo die Patronatsmesse gefeiert wurde.",
+          "Die Veranstaltung brachte Einwohner und Besucher zu den Dorffesten zusammen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Feste von San Bartolomé sind der wichtigste Termin des Jahres für die Einwohner von Quintueles und alle, die dort ihre Wurzeln haben.",
+        "lugar": "Quintueles",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-club-de-piraguas-el-gaitero-recibe-38-000-euros-de-ayuda-en-2026",
+    "url": "/villaviciosa/el-club-de-piraguas-el-gaitero-recibe-38-000-euros-de-ayuda-en-2026/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Club El Gaitero recibe 38.000 euros del Ayuntamiento",
+    "entradilla": "La subvención municipal apuesta por mantener la escuela deportiva abierta y sin coste para los vecinos.",
+    "cuerpo": [
+      "El Club de Piraguas El Gaitero de Villaviciosa contará en 2026 con 38.000 euros de ayuda del Ayuntamiento. El dinero va dirigido a sostener la escuela deportiva y a acercar el piragüismo a más gente del concejo.",
+      "La gratuidad de la escuela es la condición que el municipio pone por delante: que cualquiera pueda apuntarse sin que el precio sea un obstáculo."
+    ],
+    "apunte": "Treinta y ocho mil razones para sacar la pala del armario.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa destina 38.000 euros al Club de Piraguas El Gaitero para 2026.",
+      "La prioridad es financiar la escuela deportiva gratuita y extender el piragüismo entre la población local.",
+      "Con esta ayuda, el club puede mantener su actividad sin repercutir el coste en los participantes."
+    ],
+    "cifra": {
+      "numero": "38.000",
+      "unidad": "euros",
+      "glosa": "Es la aportación municipal al Club El Gaitero para todo 2026. El Ayuntamiento la orienta expresamente a la escuela deportiva gratuita, lo que significa que el dinero llega directamente a quienes practican el deporte, no solo a la estructura del club."
+    },
+    "palabra": null,
+    "porQue": "Si tienes hijos o quieres apuntarte tú, la escuela de piragüismo sigue siendo gratuita gracias a esta subvención: el Ayuntamiento paga para que el precio no sea excusa.",
+    "etiquetas": [
+      "piragüismo",
+      "Club El Gaitero",
+      "Villaviciosa",
+      "deporte base"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/24/IMG_4615-RFs14nXoYezamCJWLcTBA7H-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-24T16:43:32.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/club-piraguas-gaitero-recibe-38000-euros-ayuda-20260824180132-nt.html",
+      "titularOriginal": "El Club de Piraguas El Gaitero recibe 38.000 euros de ayuda en 2026"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Club El Gaitero receives €38,000 from the council",
+        "entradilla": "The municipal grant is aimed at keeping the sports school open and free of charge for local residents.",
+        "cuerpo": [
+          "Club de Piraguas El Gaitero de Villaviciosa will receive €38,000 in support from the council in 2026. The money is intended to sustain the sports school and bring canoeing to more people in the municipality.",
+          "Free access to the school is the condition the municipality puts first: that anyone can sign up without price being a barrier."
+        ],
+        "apunte": "Thirty-eight thousand reasons to take the paddle out of the cupboard.",
+        "enVeinte": [
+          "The council of Villaviciosa is directing €38,000 to Club de Piraguas El Gaitero for 2026.",
+          "The priority is to fund the free sports school and extend canoeing among the local population.",
+          "With this support, the club can keep running without passing costs on to participants."
+        ],
+        "cifra": {
+          "numero": "38,000",
+          "unidad": "euros",
+          "glosa": "This is the municipal contribution to Club El Gaitero for the whole of 2026. The council expressly directs it towards the free sports school, which means the money goes directly to those who practise the sport, not just to the club's running structure."
+        },
+        "palabra": null,
+        "porQue": "If you have children or want to sign up yourself, the canoeing school remains free thanks to this grant: the council pays so that cost is not an excuse.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Club El Gaitero reçoit 38 000 euros de la mairie",
+        "entradilla": "La subvention municipale vise à maintenir l'école sportive ouverte et gratuite pour les habitants.",
+        "cuerpo": [
+          "Le Club de Piraguas El Gaitero de Villaviciosa disposera en 2026 de 38 000 euros d'aide de la mairie. L'argent est destiné à soutenir l'école sportive et à faire découvrir le canoë-kayak à davantage d'habitants de la commune.",
+          "La gratuité de l'école est la condition que la commune place en tête : que chacun puisse s'inscrire sans que le prix soit un obstacle."
+        ],
+        "apunte": "Trente-huit mille raisons de sortir la pagaie du placard.",
+        "enVeinte": [
+          "La mairie de Villaviciosa consacre 38 000 euros au Club de Piraguas El Gaitero pour 2026.",
+          "La priorité est de financer l'école sportive gratuite et de développer le canoë-kayak auprès de la population locale.",
+          "Grâce à cette aide, le club peut maintenir son activité sans répercuter les coûts sur les participants."
+        ],
+        "cifra": {
+          "numero": "38 000",
+          "unidad": "euros",
+          "glosa": "C'est la contribution municipale au Club El Gaitero pour toute l'année 2026. La mairie l'oriente expressément vers l'école sportive gratuite, ce qui signifie que l'argent va directement à ceux qui pratiquent le sport, et pas seulement à la structure du club."
+        },
+        "palabra": null,
+        "porQue": "Que vous ayez des enfants ou que vous souhaitiez vous inscrire vous-même, l'école de canoë-kayak reste gratuite grâce à cette subvention : la mairie paie pour que le prix ne soit pas une excuse.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Club El Gaitero erhält 38.000 Euro vom Rathaus",
+        "entradilla": "Die kommunale Förderung soll die Sportschule offen und kostenlos für die Anwohner halten.",
+        "cuerpo": [
+          "Der Club de Piraguas El Gaitero de Villaviciosa erhält 2026 eine Unterstützung von 38.000 Euro vom Rathaus. Das Geld ist dafür bestimmt, die Sportschule zu erhalten und das Kanusport-Angebot für mehr Menschen in der Gemeinde zugänglich zu machen.",
+          "Die Kostenfreiheit der Schule ist die Bedingung, die die Gemeinde an erste Stelle setzt: dass sich jeder anmelden kann, ohne dass der Preis ein Hindernis darstellt."
+        ],
+        "apunte": "Achtunddreißigtausend Gründe, das Paddel aus dem Schrank zu holen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa stellt dem Club de Piraguas El Gaitero für 2026 38.000 Euro zur Verfügung.",
+          "Vorrangiges Ziel ist die Finanzierung der kostenlosen Sportschule und die Verbreitung des Kanusports in der lokalen Bevölkerung.",
+          "Mit dieser Förderung kann der Verein seinen Betrieb aufrechterhalten, ohne die Kosten an die Teilnehmer weiterzugeben."
+        ],
+        "cifra": {
+          "numero": "38.000",
+          "unidad": "Euro",
+          "glosa": "Das ist der kommunale Beitrag an den Club El Gaitero für das gesamte Jahr 2026. Das Rathaus widmet ihn ausdrücklich der kostenlosen Sportschule, was bedeutet, dass das Geld direkt denjenigen zugutekommt, die den Sport betreiben, und nicht nur der Vereinsstruktur."
+        },
+        "palabra": null,
+        "porQue": "Ob Sie Kinder haben oder sich selbst anmelden möchten: Die Kanuschule bleibt dank dieser Förderung kostenlos. Das Rathaus zahlt dafür, damit der Preis keine Ausrede ist.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-ayuntamiento-de-villaviciosa-amplia-las-subvenciones-para-festejos-",
+    "url": "/villaviciosa/el-ayuntamiento-de-villaviciosa-amplia-las-subvenciones-para-festejos-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa amplía ayudas para fiestas y deporte",
+    "entradilla": "La Coral Capilla la Torre tendrá por primera vez un programa propio de apoyo a su escuela de canto.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha ensanchado sus líneas de subvención para festejos y deporte, y entre las novedades estrena un programa específico para la escuela de canto de la Coral Capilla la Torre.",
+      "Con este paso, la coral maliayesa gana un respaldo directo que antes no existía como línea propia dentro de las ayudas municipales."
+    ],
+    "apunte": "La coral ya cantaba bien; ahora también le van a pagar la escuela.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa amplía sus subvenciones para festejos y deporte.",
+      "La principal novedad es un programa específico para la escuela de canto de la Coral Capilla la Torre.",
+      "Es la primera vez que esa escuela tiene una línea de ayuda municipal propia."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Coral",
+      "como": "Coral, así, sin más vuelta",
+      "definicion": "Agrupación de voces que canta a varias partes. La Coral Capilla la Torre es una de las más conocidas del concejo de Villaviciosa y lleva décadas vinculada a la vida cultural de Maliayo."
+    },
+    "porQue": "Si eres socio, alumno o familiar de alguien en la escuela de canto de la Coral Capilla la Torre, estas ayudas te pueden tocar de cerca; conviene estar pendiente de cuándo se abren los plazos.",
+    "etiquetas": [
+      "subvenciones",
+      "Villaviciosa",
+      "Coral Capilla la Torre",
+      "festejos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/24/fiestas%20portal%201-RBgURgZah0Lz9f1qfCJaUNO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-24T16:11:36.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-amplia-subvenciones-festejos-deporte-20260824180130-nt.html",
+      "titularOriginal": "El Ayuntamiento de Villaviciosa amplía las subvenciones para festejos y deporte"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa expands grants for festivals and sport",
+        "entradilla": "La Coral Capilla la Torre will for the first time have its own dedicated support programme for its singing school.",
+        "cuerpo": [
+          "The council of Villaviciosa has broadened its subsidy lines for festivals and sport, and among the new measures it launches a specific programme for the singing school of La Coral Capilla la Torre.",
+          "With this step, the Maliayo choir gains direct backing that previously did not exist as its own line within the municipal grants."
+        ],
+        "apunte": "The choir was already singing well; now they're going to pay for the school too.",
+        "enVeinte": [
+          "The council of Villaviciosa is expanding its subsidies for festivals and sport.",
+          "The main new measure is a specific programme for the singing school of La Coral Capilla la Torre.",
+          "It is the first time that school has had its own municipal grant line."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coral",
+          "como": "Coral, just like that, no further twists",
+          "definicion": "A choral group that sings in several parts. La Coral Capilla la Torre is one of the best-known in the municipality of Villaviciosa and has been tied to the cultural life of Maliayo for decades."
+        },
+        "porQue": "If you are a member, a student, or a family member of someone in the singing school of La Coral Capilla la Torre, these grants could affect you directly; it is worth keeping an eye on when applications open.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa élargit les aides aux fêtes et au sport",
+        "entradilla": "La Coral Capilla la Torre bénéficiera pour la première fois d'un programme de soutien spécifique à son école de chant.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a élargi ses lignes de subvention pour les festivités et le sport, et parmi les nouveautés figure un programme spécifique pour l'école de chant de la Coral Capilla la Torre.",
+          "Grâce à cette mesure, la chorale de Maliayo obtient un soutien direct qui n'existait pas auparavant comme ligne propre dans les aides municipales."
+        ],
+        "apunte": "La chorale chantait déjà bien ; maintenant, on va aussi lui payer l'école.",
+        "enVeinte": [
+          "La mairie de Villaviciosa élargit ses subventions pour les festivités et le sport.",
+          "La principale nouveauté est un programme spécifique pour l'école de chant de la Coral Capilla la Torre.",
+          "C'est la première fois que cette école dispose d'une ligne d'aide municipale propre."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coral",
+          "como": "Coral, tout simplement, sans autre détour",
+          "definicion": "Un ensemble vocal qui chante à plusieurs voix. La Coral Capilla la Torre est l'une des plus connues de la commune de Villaviciosa et est liée depuis des décennies à la vie culturelle de Maliayo."
+        },
+        "porQue": "Si vous êtes membre, élève ou proche d'un membre de l'école de chant de la Coral Capilla la Torre, ces aides peuvent vous concerner directement ; il vaut la peine de suivre l'ouverture des délais de candidature.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa weitet Förderungen für Feste und Sport aus",
+        "entradilla": "La Coral Capilla la Torre erhält erstmals ein eigenes Förderprogramm für ihre Gesangsschule.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat seine Förderlinien für Feste und Sport ausgeweitet und führt dabei unter anderem ein eigenes Programm für die Gesangsschule von La Coral Capilla la Torre ein.",
+          "Mit diesem Schritt erhält der Chor aus Maliayo eine direkte Unterstützung, die bislang als eigenständige Linie innerhalb der Gemeindehilfen nicht existierte."
+        ],
+        "apunte": "Der Chor sang ohnehin schon gut; jetzt wird man ihm auch die Schule bezahlen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa weitet seine Subventionen für Feste und Sport aus.",
+          "Die wichtigste Neuerung ist ein eigenes Programm für die Gesangsschule von La Coral Capilla la Torre.",
+          "Es ist das erste Mal, dass diese Schule eine eigene kommunale Förderlinie erhält."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coral",
+          "como": "Coral, einfach so, ohne weitere Umschweife",
+          "definicion": "Ein Chor, der mehrstimmig singt. La Coral Capilla la Torre ist einer der bekanntesten in der Gemeinde Villaviciosa und ist seit Jahrzehnten mit dem kulturellen Leben von Maliayo verbunden."
+        },
+        "porQue": "Wenn Sie Mitglied, Schüler oder Angehöriger eines Mitglieds der Gesangsschule von La Coral Capilla la Torre sind, könnten Sie diese Förderungen unmittelbar betreffen; es lohnt sich, die Antragsfristen im Blick zu behalten.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la escuela de canto de la coral capilla",
+      "escuela de canto de la coral capilla la",
+      "de canto de la coral capilla la torre"
+    ]
+  },
+  {
     "id": "el-certamen-del-queso-de-cabrales-calienta-motores-con-una-semana-de-a",
     "url": "/cabrales/el-certamen-del-queso-de-cabrales-calienta-motores-con-una-semana-de-a/",
     "concejo": "Cabrales",
@@ -14637,6 +15028,240 @@
     ]
   },
   {
+    "id": "peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los",
+    "url": "/villaviciosa/peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Peón enciende seis días de fiesta el 28",
+    "entradilla": "La sociedad de festejos llega a este agosto con cincuenta años a las espaldas y con la intención de recuperar lo que considera la esencia de sus celebraciones.",
+    "cuerpo": [
+      "Las fiestas de Peón arrancan el 28 de agosto y se prolongarán durante seis días. La cita la organiza, como lleva haciendo medio siglo, la sociedad de festejos del lugar.",
+      "El medio siglo de vida de la organización marca el tono de esta edición, que según sus responsables busca volver a los valores que dieron origen a la fiesta."
+    ],
+    "apunte": "Cincuenta años organizando y aún con ganas de recuperar la esencia: eso sí que es resistencia.",
+    "enVeinte": [
+      "Las fiestas de Peón, en el concejo de Villaviciosa, comienzan el 28 de agosto y duran seis días.",
+      "La sociedad de festejos que las organiza cumple este año cincuenta años de historia.",
+      "Los organizadores dicen que esta edición quiere recuperar la esencia original de la celebración."
+    ],
+    "cifra": {
+      "numero": "50",
+      "unidad": "años",
+      "glosa": "Medio siglo lleva la sociedad de festejos de Peón poniendo en pie estas fiestas cada verano. Es mucho tiempo para mantener viva una cita de pueblo sin subvención garantizada ni manos de sobra."
+    },
+    "palabra": null,
+    "porQue": "Si vives en Peón o en los alrededores, ya sabes que la última semana de agosto tiene dueño: seis días de fiesta a partir del 28.",
+    "etiquetas": [
+      "Peón",
+      "fiestas",
+      "Villaviciosa",
+      "verano"
+    ],
+    "fechaEvento": "2026-08-28",
+    "tipoEvento": "fiesta",
+    "lugar": "Peón",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/21/peon-comision-RTnVXkoueEcjttrkTtL0W1N-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-23T07:59:53.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/peon-villaviciosa-calienta-motores-seis-dias-fiesta-20260821164956-nt.html",
+      "titularOriginal": "Peón, en Villaviciosa, calienta motores para seis días de fiesta con los que recuperar su «esencia»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Peón kicks off six days of festivity on the 28th",
+        "entradilla": "The celebrations society reaches this August with fifty years behind it and the intention of recovering what it considers the essence of its festivities.",
+        "cuerpo": [
+          "The Peón festivities begin on 28 August and will run for six days. The event is organised, as it has been for half a century, by the local celebrations society.",
+          "The organisation's half-century marks the tone of this edition, which, according to those in charge, aims to return to the values that gave rise to the festival."
+        ],
+        "apunte": "Fifty years of organising and still eager to recover the essence: now that is resilience.",
+        "enVeinte": [
+          "The Peón festivities, in the municipality of Villaviciosa, begin on 28 August and last six days.",
+          "The celebrations society that organises them turns fifty this year.",
+          "The organisers say this edition aims to recover the original essence of the celebration."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "years",
+          "glosa": "The Peón celebrations society has been putting these festivities together every summer for half a century. That is a long time to keep a village event alive without guaranteed funding or spare hands."
+        },
+        "palabra": null,
+        "porQue": "If you live in Peón or the surrounding area, you already know that the last week of August is spoken for: six days of festivity from the 28th.",
+        "lugar": "Peón",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Peón ouvre six jours de fête le 28",
+        "entradilla": "L'association de fêtes aborde ce mois d'août avec cinquante ans d'existence et la volonté de retrouver ce qu'elle considère comme l'essence de ses célébrations.",
+        "cuerpo": [
+          "Les fêtes de Peón débutent le 28 août et se prolongeront pendant six jours. La manifestation est organisée, comme elle le fait depuis un demi-siècle, par l'association locale de fêtes.",
+          "Le demi-siècle d'existence de l'organisation marque le ton de cette édition, qui, selon ses responsables, cherche à revenir aux valeurs qui ont donné naissance à la fête."
+        ],
+        "apunte": "Cinquante ans à organiser et toujours l'envie de retrouver l'essence : voilà ce qu'on appelle de la résistance.",
+        "enVeinte": [
+          "Les fêtes de Peón, dans la commune de Villaviciosa, commencent le 28 août et durent six jours.",
+          "L'association de fêtes qui les organise fête cette année ses cinquante ans d'existence.",
+          "Les organisateurs affirment que cette édition souhaite retrouver l'essence originelle de la célébration."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "ans",
+          "glosa": "L'association de fêtes de Peón organise ces festivités chaque été depuis un demi-siècle. C'est long pour maintenir vivante une fête de village sans subvention garantie ni bras en trop."
+        },
+        "palabra": null,
+        "porQue": "Si vous habitez à Peón ou aux alentours, vous savez déjà que la dernière semaine d'août est réservée : six jours de fête à partir du 28.",
+        "lugar": "Peón",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Peón eröffnet am 28. sechs Festtage",
+        "entradilla": "Der Festverein erreicht diesen August mit fünfzig Jahren auf dem Buckel und dem Vorhaben, das zurückzuholen, was er als den Kern seiner Feierlichkeiten betrachtet.",
+        "cuerpo": [
+          "Die Feste von Peón beginnen am 28. August und dauern sechs Tage. Die Veranstaltung wird, wie seit einem halben Jahrhundert, vom örtlichen Festverein organisiert.",
+          "Das halbe Jahrhundert, das die Organisation besteht, prägt den Ton dieser Ausgabe, die laut ihren Verantwortlichen zu den Werten zurückfinden will, aus denen das Fest einst entstanden ist."
+        ],
+        "apunte": "Fünfzig Jahre lang organisieren und noch immer den Wunsch, den Kern wiederzufinden: Das ist wahrhaftige Ausdauer.",
+        "enVeinte": [
+          "Die Feste von Peón, in der Gemeinde Villaviciosa, beginnen am 28. August und dauern sechs Tage.",
+          "Der Festverein, der sie organisiert, feiert dieses Jahr sein fünfzigjähriges Bestehen.",
+          "Die Organisatoren sagen, diese Ausgabe wolle den ursprünglichen Kern der Feier zurückgewinnen."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "Jahre",
+          "glosa": "Der Festverein von Peón stellt diese Feierlichkeiten seit einem halben Jahrhundert jeden Sommer auf die Beine. Das ist eine lange Zeit, um ein Dorffest am Leben zu erhalten — ohne gesicherte Förderung und ohne Hände im Überfluss."
+        },
+        "palabra": null,
+        "porQue": "Wer in Peón oder der Umgebung lebt, weiß: Die letzte Augustwoche gehört der Feier — sechs Tage ab dem 28.",
+        "lugar": "Peón",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-cientifico-lavianes-david-hevia-chalaneru-del-ano",
+    "url": "/villaviciosa/el-cientifico-lavianes-david-hevia-chalaneru-del-ano/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un químico lavianés gana el Chalaneru del Año",
+    "entradilla": "La sociedad La Pegarata premia a David Hevia por una carrera dedicada a investigar el cáncer.",
+    "cuerpo": [
+      "David Hevia, químico nacido en Laviana, recibe el reconocimiento de Chalaneru del Año que concede la sociedad villaviciosina La Pegarata.",
+      "Su trabajo científico ha estado centrado desde el principio en la investigación del cáncer, campo al que ha dedicado su trayectoria profesional."
+    ],
+    "apunte": "Un lavianés con bata de laboratorio recibe el galardón más sidrero de Villaviciosa.",
+    "enVeinte": [
+      "La sociedad La Pegarata nombra Chalaneru del Año al químico David Hevia, natural de Laviana.",
+      "Hevia lleva toda su carrera investigando el cáncer.",
+      "El premio lo otorga una entidad con sede en Villaviciosa."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Chalaneru",
+      "como": "cha-la-NÉ-ru",
+      "definicion": "En asturiano, chalaneru es el que vende o trata ganado con habilidad y buena labia. Que una sociedad como La Pegarata lo use como título honorífico dice mucho del peso que tiene la palabra por aquí: no es solo un oficio, es un elogio."
+    },
+    "porQue": "El premio pone en el mapa a un investigador del concejo que trabaja en algo que toca a casi todas las familias: encontrar la manera de plantar cara al cáncer.",
+    "etiquetas": [
+      "premios",
+      "ciencia",
+      "La Pegarata",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/22/david-hevia-R7B8XDpU5FAwSa2F4J0xYVN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-22T10:53:07.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/chalaneru-ano-2026-cientifico-lavianes-david-hevia-20260822125238-nt.html",
+      "titularOriginal": "El científico lavianés David Hevia, Chalaneru del Año"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A chemist from Laviana wins Chalaneru of the Year",
+        "entradilla": "The society La Pegarata awards David Hevia for a career devoted to cancer research.",
+        "cuerpo": [
+          "David Hevia, a chemist born in Laviana, receives the Chalaneru of the Year award granted by the Villaviciosa-based society La Pegarata.",
+          "His scientific work has been focused from the start on cancer research, a field to which he has dedicated his entire professional career."
+        ],
+        "apunte": "A Laviana-born man in a lab coat receives Villaviciosa's most cider-soaked honour.",
+        "enVeinte": [
+          "The society La Pegarata names chemist David Hevia, from Laviana, Chalaneru of the Year.",
+          "Hevia has spent his entire career researching cancer.",
+          "The award is given by an organisation based in Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Chalaneru",
+          "como": "cha-la-NÉ-ru",
+          "definicion": "In Asturian, a chalaneru is someone who buys and sells livestock with skill and a silver tongue. That a society like La Pegarata uses it as an honorary title says a great deal about the weight the word carries around here: it is not just a trade, it is a compliment."
+        },
+        "porQue": "The award puts a researcher from the municipality on the map — someone working on something that touches almost every family: finding a way to stand up to cancer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un chimiste originaire de Laviana remporte le titre de Chalaneru de l'année",
+        "entradilla": "La société La Pegarata récompense David Hevia pour une carrière consacrée à la recherche sur le cancer.",
+        "cuerpo": [
+          "David Hevia, chimiste né à Laviana, reçoit la distinction de Chalaneru de l'année décernée par la société villaviciosine La Pegarata.",
+          "Ses travaux scientifiques sont centrés depuis le début sur la recherche contre le cancer, domaine auquel il a consacré toute sa carrière professionnelle."
+        ],
+        "apunte": "Un natif de Laviana en blouse de laboratoire reçoit la récompense la plus cidrière de Villaviciosa.",
+        "enVeinte": [
+          "La société La Pegarata nomme le chimiste David Hevia, originaire de Laviana, Chalaneru de l'année.",
+          "Hevia consacre toute sa carrière à la recherche sur le cancer.",
+          "Le prix est décerné par une entité dont le siège est à Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Chalaneru",
+          "como": "cha-la-NÉ-ru",
+          "definicion": "En asturien, un chalaneru est quelqu'un qui achète et vend du bétail avec habileté et un sens aigu du commerce. Qu'une société comme La Pegarata l'utilise comme titre honorifique en dit long sur le poids du mot dans la région : ce n'est pas seulement un métier, c'est un éloge."
+        },
+        "porQue": "Le prix met en lumière un chercheur de la commune qui travaille sur quelque chose qui touche presque toutes les familles : trouver un moyen de lutter contre le cancer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Chemiker aus Laviana gewinnt den Chalaneru des Jahres",
+        "entradilla": "Die Gesellschaft La Pegarata zeichnet David Hevia für eine dem Krebsforschung gewidmete Karriere aus.",
+        "cuerpo": [
+          "David Hevia, ein in Laviana geborener Chemiker, erhält die Auszeichnung Chalaneru des Jahres, die von der in Villaviciosa ansässigen Gesellschaft La Pegarata vergeben wird.",
+          "Seine wissenschaftliche Arbeit ist von Anfang an auf die Krebsforschung ausgerichtet, einem Bereich, dem er seine gesamte berufliche Laufbahn gewidmet hat."
+        ],
+        "apunte": "Ein Mann aus Laviana im Laborkittel erhält die sidrigste Auszeichnung Villaviciosas.",
+        "enVeinte": [
+          "Die Gesellschaft La Pegarata ernennt den Chemiker David Hevia aus Laviana zum Chalaneru des Jahres.",
+          "Hevia forscht seine gesamte Karriere über zum Thema Krebs.",
+          "Der Preis wird von einer in Villaviciosa ansässigen Organisation vergeben."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Chalaneru",
+          "como": "cha-la-NÉ-ru",
+          "definicion": "Im Asturischen bezeichnet chalaneru jemanden, der Vieh mit Geschick und einer gewandten Zunge kauft und verkauft. Dass eine Gesellschaft wie La Pegarata es als Ehrentitel verwendet, sagt viel über das Gewicht aus, das das Wort hier hat: Es ist nicht nur ein Beruf, es ist ein Lob."
+        },
+        "porQue": "Der Preis rückt einen Forscher aus der Gemeinde ins Rampenlicht, der an etwas arbeitet, das fast jede Familie berührt: einen Weg zu finden, dem Krebs zu begegnen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-gran-fiesta-del-asturcon-volvera-a-animar-la-majada-de-espineres-el",
     "url": "/pilona/la-gran-fiesta-del-asturcon-volvera-a-animar-la-majada-de-espineres-el/",
     "concejo": "Piloña",
@@ -14871,6 +15496,123 @@
     }
   },
   {
+    "id": "villaviciosa-refuerza-su-alianza-con-el-comercio-y-los-autonomos-para-",
+    "url": "/villaviciosa/villaviciosa-refuerza-su-alianza-con-el-comercio-y-los-autonomos-para-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa y Acosevi renuevan su acuerdo de comercio",
+    "entradilla": "El Ayuntamiento y la asociación de comerciantes vuelven a unir fuerzas para impulsar la actividad económica del concejo.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa y Acosevi, la asociación que agrupa a comercios y autónomos del concejo, han firmado una nueva renovación de su convenio de colaboración.",
+      "El objetivo es seguir trabajando juntos para dinamizar el tejido comercial local, aunque la fuente no detalla las acciones concretas que se pondrán en marcha."
+    ],
+    "apunte": "Un acuerdo que se renueva es una señal de que algo funciona, o de que nadie se ha atrevido a cancelarlo.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa y Acosevi han renovado su convenio de colaboración.",
+      "El acuerdo busca apoyar al comercio local y a los autónomos del concejo.",
+      "No se han dado a conocer aún las medidas concretas que se impulsarán."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Acosevi",
+      "como": "a-co-SE-vi",
+      "definicion": "Asociación de Comerciantes y Autónomos de Villaviciosa. Es la entidad que representa al pequeño comercio y a los trabajadores por cuenta propia del concejo, y el interlocutor habitual del Ayuntamiento en asuntos de desarrollo económico local."
+    },
+    "porQue": "Un convenio como este puede traducirse en campañas de promoción, ayudas o actividades que benefician directamente a quienes tienen un negocio o compran en el comercio de Villaviciosa.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Acosevi",
+      "comercio",
+      "autónomos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/21/convenio-villaviciosa-acosevi-RVVl4e33lkdF5XJO6Chrf2I-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-21T12:30:23.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-refuerza-alianza-comercio-autonomos-dinamizar-concejo-20260821122704-nt.html",
+      "titularOriginal": "Villaviciosa refuerza su alianza con el comercio y los autónomos para dinamizar el concejo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa and Acosevi renew their trade agreement",
+        "entradilla": "The council and the traders' association join forces again to boost economic activity in the municipality.",
+        "cuerpo": [
+          "Villaviciosa council and Acosevi, the association representing shops and self-employed workers in the municipality, have signed a new renewal of their collaboration agreement.",
+          "The aim is to keep working together to strengthen the local retail sector, although the source gives no details of the specific measures to be introduced."
+        ],
+        "apunte": "An agreement that keeps getting renewed is a sign that something is working — or that nobody has dared to cancel it.",
+        "enVeinte": [
+          "Villaviciosa council and Acosevi have renewed their collaboration agreement.",
+          "The agreement aims to support local trade and the self-employed in the municipality.",
+          "The specific measures to be taken have not yet been announced."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Acosevi",
+          "como": "a-co-SE-vi",
+          "definicion": "Association of Traders and Self-Employed Workers of Villaviciosa. It is the body that represents small businesses and independent workers in the municipality, and the usual point of contact for the council on matters of local economic development."
+        },
+        "porQue": "An agreement like this can translate into promotional campaigns, grants or activities that directly benefit anyone who runs a business or shops locally in Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa et Acosevi renouvellent leur accord commercial",
+        "entradilla": "La mairie et l'association de commerçants unissent à nouveau leurs forces pour dynamiser l'activité économique de la commune.",
+        "cuerpo": [
+          "La mairie de Villaviciosa et Acosevi, l'association qui regroupe commerces et travailleurs indépendants de la commune, ont signé un nouveau renouvellement de leur convention de collaboration.",
+          "L'objectif est de continuer à travailler ensemble pour dynamiser le tissu commercial local, même si la source ne précise pas les actions concrètes qui seront mises en œuvre."
+        ],
+        "apunte": "Un accord qui se renouvelle est le signe que quelque chose fonctionne — ou que personne n'a osé y mettre fin.",
+        "enVeinte": [
+          "La mairie de Villaviciosa et Acosevi ont renouvelé leur convention de collaboration.",
+          "L'accord vise à soutenir le commerce local et les travailleurs indépendants de la commune.",
+          "Les mesures concrètes qui seront mises en avant n'ont pas encore été annoncées."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Acosevi",
+          "como": "a-co-SE-vi",
+          "definicion": "Association de Commerçants et de Travailleurs Indépendants de Villaviciosa. C'est l'entité qui représente le petit commerce et les travailleurs indépendants de la commune, et l'interlocuteur habituel de la mairie pour les questions de développement économique local."
+        },
+        "porQue": "Une convention comme celle-ci peut se traduire par des campagnes de promotion, des aides ou des activités qui bénéficient directement à ceux qui tiennent un commerce ou font leurs achats dans le commerce local de Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa und Acosevi erneuern ihre Handelsvereinbarung",
+        "entradilla": "Das Rathaus und der Händlerverband bündeln erneut ihre Kräfte, um die Wirtschaftstätigkeit der Gemeinde zu fördern.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa und Acosevi, der Verband, der die Geschäfte und Selbstständigen der Gemeinde vertritt, haben eine erneute Verlängerung ihrer Kooperationsvereinbarung unterzeichnet.",
+          "Ziel ist es, weiterhin gemeinsam daran zu arbeiten, das lokale Handelsgeflecht zu stärken, obwohl die Quelle keine konkreten Maßnahmen nennt, die umgesetzt werden sollen."
+        ],
+        "apunte": "Eine Vereinbarung, die immer wieder erneuert wird, ist ein Zeichen dafür, dass etwas funktioniert — oder dass niemand den Mut hatte, sie zu kündigen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa und Acosevi haben ihre Kooperationsvereinbarung erneuert.",
+          "Die Vereinbarung soll den lokalen Handel und die Selbstständigen der Gemeinde unterstützen.",
+          "Die konkreten Maßnahmen, die gefördert werden sollen, wurden noch nicht bekannt gegeben."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Acosevi",
+          "como": "a-co-SE-vi",
+          "definicion": "Verband der Händler und Selbstständigen von Villaviciosa. Er vertritt den Kleinhandel und die selbstständig Erwerbstätigen der Gemeinde und ist der übliche Ansprechpartner des Rathauses in Fragen der lokalen Wirtschaftsentwicklung."
+        },
+        "porQue": "Eine solche Vereinbarung kann sich in Werbekampagnen, Fördermaßnahmen oder Veranstaltungen niederschlagen, von denen alle profitieren, die in Villaviciosa ein Geschäft betreiben oder im lokalen Handel einkaufen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "infiesto-protagonista-del-xliv-dia-de-los-pueblos-de-asturias-en-navel",
     "url": "/pilona/infiesto-protagonista-del-xliv-dia-de-los-pueblos-de-asturias-en-navel/",
     "concejo": "Piloña",
@@ -15005,6 +15747,127 @@
     "revisar": [
       "protagonista del xliv dia de los pueblos de",
       "del xliv dia de los pueblos de asturias"
+    ]
+  },
+  {
+    "id": "los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s",
+    "url": "/villaviciosa/los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Ecologistas exigen actuar contra el vertedero del Salín",
+    "entradilla": "La Coordinadora lleva más de un año alertando de la acumulación de residuos de desguace en pleno estuario de la ría de Villaviciosa.",
+    "cuerpo": [
+      "Los ecologistas han vuelto a pedir a las administraciones que tomen medidas contra una nave que funciona como vertedero de residuos de desguace en El Salín, en plena ría de Villaviciosa.",
+      "La Coordinadora recuerda que denunció la situación hace más de un año y que, hasta ahora, los restos siguen acumulados en ese rincón del estuario."
+    ],
+    "apunte": "Más de un año de espera para limpiar lo que no debería estar ahí ni un día.",
+    "enVeinte": [
+      "Los ecologistas urgen a actuar contra una nave-vertedero de residuos de desguace ubicada en El Salín, en la ría de Villaviciosa.",
+      "La Coordinadora ya denunció el problema hace más de un año y la situación no ha cambiado.",
+      "El estuario, espacio natural sensible, sigue acogiendo los residuos sin que se haya tomado ninguna medida visible."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "estuario",
+      "como": "estuario (igual en asturiano y en español)",
+      "definicion": "Tramo final de un río donde sus aguas se mezclan con las del mar. La ría de Villaviciosa es un estuario protegido por su valor ecológico, lo que hace especialmente grave la presencia de residuos en su orilla."
+    },
+    "porQue": "La ría de Villaviciosa es un espacio natural de primer orden para el concejo; que lleve más de un año con residuos de desguace acumulados en su orilla afecta al paisaje, al ecosistema y a la imagen de un territorio que vive también del turismo.",
+    "etiquetas": [
+      "medioambiente",
+      "Villaviciosa",
+      "ría",
+      "residuos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/20/nave-ruedas-ria-villaviciosa-RDU2U5JNrLxNk5e7VdbOt2H-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-20T12:22:10.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ecologistas-urgen-tomar-medidas-navevertedero-salin-ria-20260820135842-nt.html",
+      "titularOriginal": "Los ecologistas urgen a tomar medidas contra la nave-vertedero de El Salín, en la ría de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Environmentalists demand action against the El Salín dump",
+        "entradilla": "La Coordinadora has been raising the alarm for over a year about the accumulation of scrapyard waste in the middle of the Villaviciosa estuary.",
+        "cuerpo": [
+          "Environmentalists have again called on the authorities to take action against a warehouse being used as a dump for scrapyard waste in El Salín, in the middle of the Villaviciosa estuary.",
+          "La Coordinadora points out that it reported the situation over a year ago and that, to this day, the waste remains piled up in that corner of the estuary."
+        ],
+        "apunte": "Over a year of waiting to clean up what should never have been there for a single day.",
+        "enVeinte": [
+          "Environmentalists are urging action against a warehouse-dump for scrapyard waste located in El Salín, on the Villaviciosa estuary.",
+          "La Coordinadora already reported the problem over a year ago and the situation has not changed.",
+          "The estuary, a sensitive natural area, continues to hold the waste with no visible measures having been taken."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario (same spelling in Asturian and Spanish)",
+          "definicion": "The final stretch of a river where its waters mix with the sea. The Villaviciosa estuary is protected for its ecological value, which makes the presence of waste on its banks especially serious."
+        },
+        "porQue": "The Villaviciosa estuary is a natural space of the first order for the municipality; the fact that it has had scrapyard waste piled on its banks for over a year affects the landscape, the ecosystem, and the image of an area that also depends on tourism.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des écologistes réclament des mesures contre la décharge de El Salín",
+        "entradilla": "La Coordinadora alerte depuis plus d'un an sur l'accumulation de déchets de démolition automobile au cœur de l'estuaire de Villaviciosa.",
+        "cuerpo": [
+          "Des écologistes ont de nouveau demandé aux autorités de prendre des mesures contre un entrepôt utilisé comme décharge de déchets de démolition automobile à El Salín, en plein estuaire de Villaviciosa.",
+          "La Coordinadora rappelle qu'elle a signalé la situation il y a plus d'un an et que, jusqu'à présent, les déchets s'accumulent toujours dans ce coin de l'estuaire."
+        ],
+        "apunte": "Plus d'un an d'attente pour nettoyer ce qui n'aurait pas dû s'y trouver ne serait-ce qu'un seul jour.",
+        "enVeinte": [
+          "Des écologistes pressent les autorités d'agir contre un entrepôt-décharge de déchets de démolition situé à El Salín, sur l'estuaire de Villaviciosa.",
+          "La Coordinadora avait déjà signalé le problème il y a plus d'un an et la situation n'a pas changé.",
+          "L'estuaire, espace naturel sensible, continue d'accueillir ces déchets sans qu'aucune mesure visible n'ait été prise."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario (même orthographe en asturien et en espagnol)",
+          "definicion": "Tronçon final d'un fleuve ou d'une rivière où ses eaux se mêlent à celles de la mer. L'estuaire de Villaviciosa est protégé pour sa valeur écologique, ce qui rend la présence de déchets sur ses rives particulièrement grave."
+        },
+        "porQue": "L'estuaire de Villaviciosa est un espace naturel de premier plan pour la commune ; le fait qu'il supporte depuis plus d'un an des déchets de démolition automobile sur ses rives affecte le paysage, l'écosystème et l'image d'un territoire qui vit aussi du tourisme.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Umweltschützer fordern Maßnahmen gegen die Deponie in El Salín",
+        "entradilla": "La Coordinadora schlägt seit über einem Jahr Alarm wegen der Anhäufung von Schrottplatzabfällen mitten im Ästuar der Ría de Villaviciosa.",
+        "cuerpo": [
+          "Umweltschützer haben die Behörden erneut aufgefordert, Maßnahmen gegen eine Halle zu ergreifen, die in El Salín mitten in der Ría de Villaviciosa als Deponie für Schrottplatzabfälle genutzt wird.",
+          "La Coordinadora weist darauf hin, dass sie die Situation vor über einem Jahr gemeldet hat und die Überreste bis heute in diesem Winkel des Ästuars aufgestapelt sind."
+        ],
+        "apunte": "Über ein Jahr Warten darauf, zu beseitigen, was dort keinen einzigen Tag hätte liegen dürfen.",
+        "enVeinte": [
+          "Umweltschützer drängen auf ein Vorgehen gegen eine als Deponie für Schrottplatzabfälle genutzte Halle in El Salín an der Ría de Villaviciosa.",
+          "La Coordinadora hatte das Problem bereits vor über einem Jahr gemeldet, und die Lage hat sich seitdem nicht verändert.",
+          "Das Ästuar, ein empfindliches Naturgebiet, nimmt die Abfälle weiterhin auf, ohne dass sichtbare Maßnahmen ergriffen wurden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario (gleiche Schreibweise im Asturischen und im Spanischen)",
+          "definicion": "Der Mündungsbereich eines Flusses, in dem sich sein Wasser mit dem Meer vermischt. Die Ría de Villaviciosa ist wegen ihres ökologischen Wertes unter Schutz gestellt, was das Vorhandensein von Abfällen an ihren Ufern besonders schwerwiegend macht."
+        },
+        "porQue": "Die Ría de Villaviciosa ist ein Naturraum von höchstem Rang für die Gemeinde; dass dort seit über einem Jahr Schrottplatzabfälle an ihren Ufern lagern, beeinträchtigt die Landschaft, das Ökosystem und das Bild eines Gebiets, das auch vom Tourismus lebt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la acumulacion de residuos de desguace en pleno",
+      "acumulacion de residuos de desguace en pleno estuario"
     ]
   },
   {
@@ -15288,6 +16151,145 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "mas-de-500-piezas-en-villaviciosa-para-conocer-la-historia-publicitari",
+    "url": "/villaviciosa/mas-de-500-piezas-en-villaviciosa-para-conocer-la-historia-publicitari/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Quinientas piezas de sidra llenan Villaviciosa",
+    "entradilla": "La colección del luarqués Fernando Paredano trae a Villaviciosa carteles, cromos y soportes de la cultura sidrera de sesenta países.",
+    "cuerpo": [
+      "Más de quinientas piezas reunidas por el coleccionista Fernando Paredano, vecino de Luarca, se pueden ver en Villaviciosa en una muestra que repasa la historia de la publicidad de la sidra a escala mundial.",
+      "Entre los fondos hay carteles, cromos y todo tipo de soportes gráficos que abarcan la cultura sidrera de sesenta países, lo que convierte la exposición en algo bastante más amplio que un repaso a la tradición asturiana."
+    ],
+    "apunte": "Sesenta países mirando una botella de sidra: no está mal para empezar el día.",
+    "enVeinte": [
+      "Una colección de más de quinientas piezas sobre la publicidad de la sidra se expone en Villaviciosa.",
+      "El fondo pertenece al coleccionista luarqués Fernando Paredano e incluye carteles, cromos y soportes gráficos de sesenta países.",
+      "La muestra va más allá de Asturias y ofrece una visión global de cómo se ha vendido la sidra a lo largo de la historia."
+    ],
+    "cifra": {
+      "numero": "60",
+      "unidad": "países representados",
+      "glosa": "La colección no se queda en Asturias ni en España: reúne publicidad sidrera de sesenta países distintos, lo que da idea de hasta dónde llega la cultura de esta bebida fermentada."
+    },
+    "palabra": {
+      "termino": "sidrina",
+      "como": "si-dri-na",
+      "definicion": "Forma cariñosa y coloquial con la que en Asturias se llama a la sidra, sobre todo cuando se quiere subrayar el trato cercano y festivo con la bebida. No es otro producto distinto: es la misma sidra de siempre, dicha con más cariño."
+    },
+    "porQue": "Quien viva cerca tiene la oportunidad de ver reunida en un solo sitio publicidad sidrera de medio mundo, algo difícil de encontrar fuera de un museo especializado.",
+    "etiquetas": [
+      "sidra",
+      "exposición",
+      "Villaviciosa",
+      "coleccionismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "expo",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/18/sidra%20de%20papel%20villaviciosa-ReRXPaBSc5DThJcEDuCYnCL-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-19T05:43:03.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-acoge-exposicion-sidra-papel-fernando-paredano-20260818173659-nt.html",
+      "titularOriginal": "Más de 500 piezas en Villaviciosa para conocer la historia publicitaria de la sidra"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Five hundred cider pieces fill Villaviciosa",
+        "entradilla": "The collection of Fernando Paredano, from Luarca, brings posters, trading cards and other formats from sixty countries' cider culture to Villaviciosa.",
+        "cuerpo": [
+          "More than five hundred pieces gathered by collector Fernando Paredano, a resident of Luarca, can be seen in Villaviciosa in an exhibition that traces the history of cider advertising on a worldwide scale.",
+          "The collection includes posters, trading cards and all kinds of graphic formats spanning the cider culture of sixty countries, which makes the show considerably broader than a look at Asturian tradition alone."
+        ],
+        "apunte": "Sixty countries looking at a bottle of cider: not a bad way to start the day.",
+        "enVeinte": [
+          "A collection of more than five hundred pieces on cider advertising is on display in Villaviciosa.",
+          "The collection belongs to Fernando Paredano, a collector from Luarca, and includes posters, trading cards and graphic formats from sixty countries.",
+          "The exhibition goes beyond Asturias and offers a global view of how cider has been marketed throughout history."
+        ],
+        "cifra": {
+          "numero": "60",
+          "unidad": "countries represented",
+          "glosa": "The collection does not stop at Asturias or Spain: it brings together cider advertising from sixty different countries, giving a sense of how far the culture of this fermented drink truly reaches."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-dri-na",
+          "definicion": "An affectionate, colloquial word used in Asturias for cider, especially when the speaker wants to emphasise a warm and festive relationship with the drink. It is not a different product: it is the same cider as always, said with a little more fondness."
+        },
+        "porQue": "Anyone living nearby has the chance to see cider advertising from half the world gathered in one place — something hard to find outside a specialist museum.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Cinq cents pièces sur le cidre envahissent Villaviciosa",
+        "entradilla": "La collection de Fernando Paredano, originaire de Luarca, apporte à Villaviciosa affiches, chromos et supports de la culture cidricole de soixante pays.",
+        "cuerpo": [
+          "Plus de cinq cents pièces rassemblées par le collectionneur Fernando Paredano, habitant de Luarca, sont exposées à Villaviciosa dans une exposition qui retrace l'histoire de la publicité sur le cidre à l'échelle mondiale.",
+          "Le fonds comprend des affiches, des chromos et toutes sortes de supports graphiques couvrant la culture cidricole de soixante pays, ce qui fait de l'exposition bien plus qu'un simple tour d'horizon de la tradition asturienne."
+        ],
+        "apunte": "Soixante pays devant une bouteille de cidre : ce n'est pas mal pour commencer la journée.",
+        "enVeinte": [
+          "Une collection de plus de cinq cents pièces sur la publicité cidricole est exposée à Villaviciosa.",
+          "Le fonds appartient au collectionneur Fernando Paredano, originaire de Luarca, et comprend affiches, chromos et supports graphiques de soixante pays.",
+          "L'exposition va au-delà des Asturies et propose une vision mondiale de la façon dont le cidre a été vendu au fil de l'histoire."
+        ],
+        "cifra": {
+          "numero": "60",
+          "unidad": "pays représentés",
+          "glosa": "La collection ne s'arrête pas aux Asturies ni à l'Espagne : elle réunit de la publicité cidricole de soixante pays différents, ce qui donne une idée de l'étendue de la culture de cette boisson fermentée."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-dri-na",
+          "definicion": "Terme affectueux et familier utilisé dans les Asturies pour désigner le cidre, surtout lorsque l'on veut souligner un rapport chaleureux et festif avec la boisson. Il ne s'agit pas d'un produit différent : c'est le même cidre que toujours, dit avec un peu plus de tendresse."
+        },
+        "porQue": "Quiconque vit à proximité a l'occasion de voir réunie en un seul endroit de la publicité cidricole du monde entier — quelque chose de difficile à trouver en dehors d'un musée spécialisé.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Fünfhundert Apfelwein-Stücke füllen Villaviciosa",
+        "entradilla": "Die Sammlung von Fernando Paredano aus Luarca bringt Plakate, Sammelbilder und weitere Formate aus der Apfelweinkultur von sechzig Ländern nach Villaviciosa.",
+        "cuerpo": [
+          "Mehr als fünfhundert Stücke, zusammengetragen vom Sammler Fernando Paredano aus Luarca, sind in Villaviciosa in einer Ausstellung zu sehen, die die Geschichte der Apfelweinwerbung weltweit nachzeichnet.",
+          "Der Bestand umfasst Plakate, Sammelbilder und alle möglichen grafischen Formate aus der Apfelweinkultur von sechzig Ländern — damit geht die Ausstellung weit über einen Blick auf die asturische Tradition hinaus."
+        ],
+        "apunte": "Sechzig Länder blicken auf eine Flasche Apfelwein: kein schlechter Einstieg in den Tag.",
+        "enVeinte": [
+          "Eine Sammlung von mehr als fünfhundert Stücken zur Apfelweinwerbung ist in Villaviciosa zu sehen.",
+          "Der Bestand gehört dem Sammler Fernando Paredano aus Luarca und umfasst Plakate, Sammelbilder und grafische Formate aus sechzig Ländern.",
+          "Die Ausstellung geht über Asturien hinaus und bietet einen weltweiten Blick darauf, wie Apfelwein im Laufe der Geschichte vermarktet wurde."
+        ],
+        "cifra": {
+          "numero": "60",
+          "unidad": "vertretene Länder",
+          "glosa": "Die Sammlung beschränkt sich nicht auf Asturien oder Spanien: Sie vereint Apfelweinwerbung aus sechzig verschiedenen Ländern und gibt damit eine Vorstellung davon, wie weit die Kultur dieses fermentierten Getränks reicht."
+        },
+        "palabra": {
+          "termino": "sidrina",
+          "como": "si-dri-na",
+          "definicion": "Ein liebevoller und umgangssprachlicher Begriff, der in Asturien für Apfelwein verwendet wird, besonders wenn man das herzliche und festliche Verhältnis zu diesem Getränk betonen möchte. Es handelt sich nicht um ein anderes Produkt: Es ist derselbe Apfelwein wie immer, nur mit etwas mehr Zuneigung ausgesprochen."
+        },
+        "porQue": "Wer in der Nähe wohnt, hat die Gelegenheit, an einem einzigen Ort Apfelweinwerbung aus aller Welt versammelt zu sehen — etwas, das man außerhalb eines Spezialmuseums kaum findet.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "carteles cromos y soportes de la cultura sidrera",
+      "cromos y soportes de la cultura sidrera de",
+      "y soportes de la cultura sidrera de sesenta",
+      "soportes de la cultura sidrera de sesenta paises"
+    ]
   },
   {
     "id": "nueva-victima-mortal-en-la-montana-fallece-un-antiguo-profesor-del-col",
@@ -15648,6 +16650,126 @@
     ]
   },
   {
+    "id": "villaviciosa-bate-record-en-la-feria-internacional-de-muestras-de-astu",
+    "url": "/villaviciosa/villaviciosa-bate-record-en-la-feria-internacional-de-muestras-de-astu/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa bate su récord en la Feria de Asturias",
+    "entradilla": "El stand municipal recibió a más de 3.500 personas en dieciséis días, con dieciocho actividades repartidas a lo largo de toda la feria.",
+    "cuerpo": [
+      "El concejo de Villaviciosa cerró su participación en la Feria Internacional de Muestras de Asturias con la mejor marca de visitantes que se recuerda: más de 3.500 personas pasaron por su stand municipal.",
+      "Durante los dieciséis días que duró el certamen, el espacio acogió dieciocho actividades distintas, lo que convierte esta edición en la más intensa en programación que ha llevado el concejo al evento."
+    ],
+    "apunte": "Dieciséis días, dieciocho actividades y más de 3.500 visitas: al stand de Villaviciosa no le sobró hueco.",
+    "enVeinte": [
+      "Villaviciosa logró su mejor resultado en la Feria Internacional de Muestras de Asturias, con más de 3.500 personas en su stand.",
+      "El espacio municipal programó dieciocho actividades a lo largo de los dieciséis días que duró la feria.",
+      "Es el dato de visitantes más alto que el concejo ha registrado en este certamen."
+    ],
+    "cifra": {
+      "numero": "3.500",
+      "unidad": "visitantes",
+      "glosa": "Más de 3.500 personas se acercaron al stand de Villaviciosa durante la Feria Internacional de Muestras de Asturias. Es la cifra más alta que ha alcanzado el concejo en este certamen, según recoge la información disponible."
+    },
+    "palabra": null,
+    "porQue": "Un stand muy visitado y con mucha actividad refuerza la imagen del concejo hacia fuera y puede traducirse en más turismo y más interés por lo que Villaviciosa produce y ofrece.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Feria de Muestras",
+      "récord",
+      "stand municipal"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/17/DAMBin%20(4)-RaWXOWSPiRr93V14rTxh3eI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-18T04:40:41.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/asturias/feria-muestras/villaviciosa-bate-record-feria-internacional-muestras-asturias-20260817180730-nt.html",
+      "titularOriginal": "Villaviciosa bate récord en la Feria Internacional de Muestras de Asturias"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa breaks its record at the Feria de Asturias",
+        "entradilla": "The municipal stand welcomed more than 3,500 people over sixteen days, with eighteen activities spread throughout the fair.",
+        "cuerpo": [
+          "The municipality of Villaviciosa closed its participation in the Feria Internacional de Muestras de Asturias with the best visitor figures anyone can remember: more than 3,500 people came through its municipal stand.",
+          "Over the sixteen days the event ran, the space hosted eighteen different activities, making this edition the most programme-intensive the municipality has ever brought to the fair."
+        ],
+        "apunte": "Sixteen days, eighteen activities and more than 3,500 visits: there was not a spare moment at the Villaviciosa stand.",
+        "enVeinte": [
+          "Villaviciosa achieved its best result at the Feria Internacional de Muestras de Asturias, with more than 3,500 people at its stand.",
+          "The municipal space put on eighteen activities across the sixteen days the fair lasted.",
+          "It is the highest visitor figure the municipality has ever recorded at this event."
+        ],
+        "cifra": {
+          "numero": "3,500",
+          "unidad": "visitors",
+          "glosa": "More than 3,500 people visited the Villaviciosa stand during the Feria Internacional de Muestras de Asturias. It is the highest figure the municipality has reached at this event, according to the available information."
+        },
+        "palabra": null,
+        "porQue": "A heavily visited, activity-rich stand strengthens the municipality's external image and can translate into more tourism and greater interest in what Villaviciosa produces and offers.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa bat son record à la Feria de Asturias",
+        "entradilla": "Le stand municipal a accueilli plus de 3 500 personnes en seize jours, avec dix-huit activités réparties tout au long de la foire.",
+        "cuerpo": [
+          "La commune de Villaviciosa a clôturé sa participation à la Feria Internacional de Muestras de Asturias avec la meilleure fréquentation dont on se souvienne : plus de 3 500 personnes ont traversé son stand municipal.",
+          "Pendant les seize jours qu'a duré le salon, l'espace a accueilli dix-huit activités différentes, ce qui fait de cette édition la plus fournie en programmation que la commune ait jamais présentée à l'événement."
+        ],
+        "apunte": "Seize jours, dix-huit activités et plus de 3 500 visites : le stand de Villaviciosa n'a pas eu un instant de répit.",
+        "enVeinte": [
+          "Villaviciosa a obtenu son meilleur résultat à la Feria Internacional de Muestras de Asturias, avec plus de 3 500 personnes sur son stand.",
+          "L'espace municipal a proposé dix-huit activités au cours des seize jours qu'a duré la foire.",
+          "C'est le chiffre de visiteurs le plus élevé que la commune ait jamais enregistré dans ce salon."
+        ],
+        "cifra": {
+          "numero": "3 500",
+          "unidad": "visiteurs",
+          "glosa": "Plus de 3 500 personnes se sont rendues au stand de Villaviciosa pendant la Feria Internacional de Muestras de Asturias. C'est le chiffre le plus élevé que la commune ait atteint dans ce salon, selon les informations disponibles."
+        },
+        "palabra": null,
+        "porQue": "Un stand très fréquenté et riche en activités renforce l'image de la commune vers l'extérieur et peut se traduire par davantage de tourisme et d'intérêt pour ce que Villaviciosa produit et propose.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa bricht seinen Rekord auf der Feria de Asturias",
+        "entradilla": "Der kommunale Stand empfing in sechzehn Tagen mehr als 3.500 Personen, mit achtzehn Veranstaltungen über die gesamte Messe verteilt.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa schloss ihre Teilnahme an der Feria Internacional de Muestras de Asturias mit den besten Besucherzahlen ab, an die man sich erinnern kann: Mehr als 3.500 Personen kamen an den kommunalen Stand.",
+          "Während der sechzehn Tage, die die Veranstaltung dauerte, bot der Stand achtzehn verschiedene Aktivitäten an – und macht diese Ausgabe damit zur programminhaltsreichsten, mit der die Gemeinde je auf der Messe vertreten war."
+        ],
+        "apunte": "Sechzehn Tage, achtzehn Veranstaltungen und mehr als 3.500 Besuche: Am Stand von Villaviciosa gab es keine ruhige Minute.",
+        "enVeinte": [
+          "Villaviciosa erzielte sein bestes Ergebnis auf der Feria Internacional de Muestras de Asturias, mit mehr als 3.500 Personen an seinem Stand.",
+          "Der kommunale Stand bot achtzehn Aktivitäten über die sechzehn Messetage hinweg an.",
+          "Es ist die höchste Besucherzahl, die die Gemeinde bei dieser Veranstaltung je verzeichnet hat."
+        ],
+        "cifra": {
+          "numero": "3.500",
+          "unidad": "Besucher",
+          "glosa": "Mehr als 3.500 Personen besuchten den Stand von Villaviciosa während der Feria Internacional de Muestras de Asturias. Es ist die höchste Zahl, die die Gemeinde bei dieser Veranstaltung je erreicht hat, gemäß den vorliegenden Informationen."
+        },
+        "palabra": null,
+        "porQue": "Ein stark besuchter, aktivitätsreicher Stand stärkt das Bild der Gemeinde nach außen und kann sich in mehr Tourismus und größerem Interesse an dem verwandeln, was Villaviciosa produziert und bietet.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en la feria internacional de muestras de asturias"
+    ]
+  },
+  {
     "id": "rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-",
     "url": "/cabrales/rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-/",
     "concejo": "Cabrales",
@@ -15759,6 +16881,139 @@
           "definicion": "Im asturischen Gebirge bezeichnet eine Canal eine steile, schmale Rinne zwischen zwei Felswänden, oft mit Schnee, losem Gestein oder nassem Gras. Es handelt sich nicht um ein Gewässer, sondern um einen natürlichen Auf- oder Abstiegsweg, der Erfahrung und Vorsicht erfordert."
         },
         "porQue": "Jidiellu zieht jeden Sommer Bergsteiger von nah und fern an; eine Rettungsaktion wie diese erinnert daran, dass diese Canal echte Vorbereitung verlangt – und nicht nur den Wunsch, den Gipfel zu erreichen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-fabada-triunfa-en-la-fidma-8-5-kilos-repartidos-en-media-hora-en-el",
+    "url": "/villaviciosa/la-fabada-triunfa-en-la-fidma-8-5-kilos-repartidos-en-media-hora-en-el/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "La fabada de Villaviciosa se agota en la Fidma",
+    "entradilla": "Ocho kilos y medio de fabes volaron en media hora en el estand del concejo, con la Cofradía de Amigos de les Fabes recordando que la IGP marca la diferencia.",
+    "cuerpo": [
+      "El estand de Villaviciosa en la Fidma se quedó sin fabada en treinta minutos. Ocho kilos y medio de fabes, preparados y repartidos, desaparecieron antes de que nadie pudiera repetir.",
+      "La Cofradía de Amigos de les Fabes aprovechó el momento para insistir en algo que no cansan de decir: que la fabe lleve la Indicación Geográfica Protegida no es un adorno, es una garantía de que el producto es el de aquí y no otro."
+    ],
+    "apunte": "Media hora y ni un cucharón de sobra: hay hambre de lo bueno.",
+    "enVeinte": [
+      "El estand de Villaviciosa en la Fidma repartió 8,5 kilos de fabada y se agotó en media hora.",
+      "La Cofradía de Amigos de les Fabes destacó la importancia de la Indicación Geográfica Protegida.",
+      "El éxito del puchero confirmó que la fabe del concejo no necesita presentación, solo cantidad suficiente."
+    ],
+    "cifra": {
+      "numero": "8,5",
+      "unidad": "kilos de fabes",
+      "glosa": "Eso es lo que trajo el estand de Villaviciosa a la Fidma. En treinta minutos no quedaba nada. Para hacerse una idea: una fabada generosa para cuatro personas lleva entre 400 y 500 gramos de fabes, así que hablamos de unas setenta raciones."
+    },
+    "palabra": {
+      "termino": "fabes",
+      "como": "fá-bes",
+      "definicion": "Así llamamos en Asturias a las alubias blancas grandes que son la base del pote y la fabada. Las de Les Caleyes o de la Granja tienen IGP propia y son las más apreciadas; no es lo mismo que cualquier alubia blanca del súper."
+    },
+    "porQue": "La Fidma es el escaparate regional más visto del verano, y que la fabada de Villaviciosa se agote en media hora dice algo sobre la reputación que tiene el concejo en la mesa.",
+    "etiquetas": [
+      "Fidma",
+      "fabada",
+      "Villaviciosa",
+      "IGP"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/16/villaviciosa-fabada-ROYiEkhOgQEom6iOfT2YHwN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-08-16T15:26:45.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/asturias/feria-muestras/fabada-triunfa-fidma-kilos-repartidos-media-hora-20260816172645-nt.html",
+      "titularOriginal": "La fabada triunfa en la Fidma: 8,5 kilos repartidos en media hora en el estand de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa's fabada sells out at the Fidma",
+        "entradilla": "Eight and a half kilos of fabes were gone in half an hour at the municipality's stand, with the Cofradía de Amigos de les Fabes reminding visitors that the PGI makes all the difference.",
+        "cuerpo": [
+          "The Villaviciosa stand at the Fidma ran out of fabada in thirty minutes. Eight and a half kilos of fabes, cooked and served, disappeared before anyone could go back for seconds.",
+          "The Cofradía de Amigos de les Fabes used the moment to press a point they never tire of making: that a fabe carrying the Protected Geographical Indication is not a formality — it is a guarantee that the product is the real local one and nothing else."
+        ],
+        "apunte": "Half an hour and not a ladleful to spare: there is a real appetite for the genuine article.",
+        "enVeinte": [
+          "The Villaviciosa stand at the Fidma handed out 8.5 kilos of fabada and sold out in half an hour.",
+          "The Cofradía de Amigos de les Fabes highlighted the importance of the Protected Geographical Indication.",
+          "The success of the pot confirmed that the fabe from this municipality needs no introduction — only a larger supply."
+        ],
+        "cifra": {
+          "numero": "8.5",
+          "unidad": "kilos of fabes",
+          "glosa": "That is what the Villaviciosa stand brought to the Fidma. In thirty minutes there was nothing left. To put it in perspective: a generous fabada for four people uses between 400 and 500 grams of fabes, which means around seventy portions."
+        },
+        "palabra": {
+          "termino": "fabes",
+          "como": "fá-bes",
+          "definicion": "The Asturian name for the large white beans that form the base of pote and fabada. Those from Les Caleyes or de la Granja carry their own PGI and are the most prized; they are not the same as any white bean from a supermarket shelf."
+        },
+        "porQue": "The Fidma is the most-visited regional showcase of the summer, and the fact that Villaviciosa's fabada sells out in half an hour says something about the reputation this municipality has earned at the table.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La fabada de Villaviciosa épuisée en un rien de temps à la Fidma",
+        "entradilla": "Huit kilos et demi de fabes ont disparu en une demi-heure sur le stand de la commune, tandis que la Cofradía de Amigos de les Fabes rappelait que l'IGP fait toute la différence.",
+        "cuerpo": [
+          "Le stand de Villaviciosa à la Fidma s'est retrouvé sans fabada en trente minutes. Huit kilos et demi de fabes, préparés et distribués, ont disparu avant que quiconque ait pu se resservir.",
+          "La Cofradía de Amigos de les Fabes a saisi l'occasion pour insister sur un point qu'elle ne se lasse pas de répéter : que la fabe porte l'Indication Géographique Protégée n'est pas un ornement, c'est la garantie que le produit est bien celui d'ici et non un autre."
+        ],
+        "apunte": "Une demi-heure et pas une louche de trop : l'appétit pour le bon est bien réel.",
+        "enVeinte": [
+          "Le stand de Villaviciosa à la Fidma a distribué 8,5 kilos de fabada et s'est épuisé en une demi-heure.",
+          "La Cofradía de Amigos de les Fabes a souligné l'importance de l'Indication Géographique Protégée.",
+          "Le succès du plat a confirmé que la fabe de cette commune n'a pas besoin de présentation, seulement d'une quantité suffisante."
+        ],
+        "cifra": {
+          "numero": "8,5",
+          "unidad": "kilos de fabes",
+          "glosa": "C'est ce qu'a apporté le stand de Villaviciosa à la Fidma. En trente minutes, il n'en restait rien. Pour s'en faire une idée : une fabada généreuse pour quatre personnes demande entre 400 et 500 grammes de fabes, ce qui représente environ soixante-dix portions."
+        },
+        "palabra": {
+          "termino": "fabes",
+          "como": "fá-bes",
+          "definicion": "Le nom asturien des grands haricots blancs qui constituent la base du pote et de la fabada. Ceux de Les Caleyes ou de la Granja ont leur propre IGP et sont les plus appréciés ; ils n'ont rien à voir avec les haricots blancs ordinaires du supermarché."
+        },
+        "porQue": "La Fidma est la vitrine régionale la plus fréquentée de l'été, et le fait que la fabada de Villaviciosa s'épuise en une demi-heure en dit long sur la réputation que cette commune s'est forgée à table.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosas Fabada auf der Fidma in Minuten ausverkauft",
+        "entradilla": "Achteinhalb Kilo fabes waren am Stand der Gemeinde in einer halben Stunde vergriffen, während die Cofradía de Amigos de les Fabes daran erinnerte, dass die g.g.A. den Unterschied macht.",
+        "cuerpo": [
+          "Der Stand von Villaviciosa auf der Fidma war in dreißig Minuten ohne Fabada. Achteinhalb Kilo fabes, zubereitet und verteilt, waren verschwunden, bevor jemand nachschöpfen konnte.",
+          "Die Cofradía de Amigos de les Fabes nutzte den Moment, um auf etwas hinzuweisen, das sie nicht müde wird zu wiederholen: Dass die fabe eine geschützte geografische Angabe trägt, ist kein Beiwerk — es ist die Garantie, dass das Produkt das hiesige ist und kein anderes."
+        ],
+        "apunte": "Eine halbe Stunde, und kein Schöpflöffel übrig: Der Hunger nach dem Echten ist groß.",
+        "enVeinte": [
+          "Der Stand von Villaviciosa auf der Fidma verteilte 8,5 Kilo Fabada und war in einer halben Stunde ausverkauft.",
+          "Die Cofradía de Amigos de les Fabes betonte die Bedeutung der geschützten geografischen Angabe.",
+          "Der Erfolg des Eintopfs bestätigte, dass die fabe aus dieser Gemeinde keine Vorstellung braucht — nur ausreichend Menge."
+        ],
+        "cifra": {
+          "numero": "8,5",
+          "unidad": "Kilo fabes",
+          "glosa": "So viel brachte der Stand von Villaviciosa zur Fidma mit. In dreißig Minuten war nichts mehr übrig. Zum Vergleich: Eine großzügige Fabada für vier Personen braucht zwischen 400 und 500 Gramm fabes — das entspricht etwa siebzig Portionen."
+        },
+        "palabra": {
+          "termino": "fabes",
+          "como": "fá-bes",
+          "definicion": "Der asturische Name für die großen weißen Bohnen, die die Grundlage von pote und fabada bilden. Die Sorten aus Les Caleyes oder de la Granja haben eine eigene g.g.A. und gelten als die begehrtesten; sie sind nicht mit irgendwelchen weißen Bohnen aus dem Supermarkt zu vergleichen."
+        },
+        "porQue": "Die Fidma ist das meistbesuchte regionale Schaufenster des Sommers, und dass die Fabada aus Villaviciosa in einer halben Stunde ausverkauft ist, sagt einiges über den Ruf, den sich diese Gemeinde am Tisch erarbeitet hat.",
         "lugar": "",
         "precio": ""
       }
@@ -16619,6 +17874,123 @@
     }
   },
   {
+    "id": "despejada-la-salida-del-sella",
+    "url": "/pilona/despejada-la-salida-del-sella/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Sella ya tiene paso libre en la salida",
+    "entradilla": "Retiran el lleráu que cortaba el cauce justo donde arranca el Descenso Internacional.",
+    "cuerpo": [
+      "El cauce del Sella estaba estrangulado por un lleráu en el punto exacto donde comienza el Descenso Internacional. Esa acumulación de ramas y restos ya ha sido eliminada.",
+      "La salida de la prueba queda así despejada de cara a la bajada."
+    ],
+    "apunte": "El río no esperaba, y al final alguien fue a buscarlo.",
+    "enVeinte": [
+      "Han retirado el lleráu que bloqueaba el cauce del Sella en la salida del Descenso Internacional.",
+      "El tramo quedaba estrangulado justo en el punto de arranque de la prueba.",
+      "El paso está ya despejado."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "lleráu",
+      "como": "lle-RÁ-u",
+      "definicion": "En asturiano, un lleráu es un tapón de ramas, troncos y restos arrastrados por la corriente que se acumula en un punto del río y corta o estrecha el paso del agua. Puede formarse de manera natural tras crecidas o tormentas."
+    },
+    "porQue": "Con el lleráu fuera, el cauce queda en condiciones para el Descenso Internacional del Sella, la cita más señalada del verano en la comarca.",
+    "etiquetas": [
+      "Sella",
+      "Descenso Internacional",
+      "Piloña",
+      "río"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/06/2026080610364069287.jpg",
+    "fecha": "2026-08-06T08:38:50.000Z",
+    "fuente": {
+      "nombre": "El Fielato · Deportes",
+      "url": "https://www.elfielato.es/articulo/deportes/despejada-salida-descenso-sella-arriondas/20260806103850100855.html",
+      "titularOriginal": "Despejada la salida del Sella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Sella now has a clear passage at the starting point",
+        "entradilla": "The lleráu (a logjam) blocking the riverbed right where the Descenso Internacional begins has been removed.",
+        "cuerpo": [
+          "The Sella's riverbed was choked by a lleráu at the exact point where the Descenso Internacional starts. That accumulation of branches and debris has now been cleared.",
+          "The race's starting stretch is now free ahead of the descent."
+        ],
+        "apunte": "The river wasn't going to wait, and in the end someone went to sort it out.",
+        "enVeinte": [
+          "The lleráu blocking the Sella's riverbed at the start of the Descenso Internacional has been removed.",
+          "The stretch was choked right at the race's starting point.",
+          "The passage is now clear."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "lle-RÁ-u",
+          "definicion": "In Asturian, a lleráu is a plug of branches, logs and debris carried by the current that builds up at a point in the river and blocks or narrows the flow of water. It can form naturally after floods or storms."
+        },
+        "porQue": "With the lleráu gone, the riverbed is in condition for the Descenso Internacional del Sella, the biggest event of the summer in the county.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Sella est à nouveau libre à son point de départ",
+        "entradilla": "Le lleráu (embâcle) qui obstruait le lit du fleuve juste à l'endroit où commence le Descenso Internacional a été retiré.",
+        "cuerpo": [
+          "Le lit de la Sella était étranglé par un lleráu à l'endroit précis où débute le Descenso Internacional. Cette accumulation de branches et de débris a désormais été éliminée.",
+          "La zone de départ de l'épreuve se retrouve ainsi dégagée avant la descente."
+        ],
+        "apunte": "Le fleuve n'attendait pas, et quelqu'un a fini par aller s'en occuper.",
+        "enVeinte": [
+          "Le lleráu qui bloquait le lit de la Sella au départ du Descenso Internacional a été retiré.",
+          "Le tronçon était étranglé juste au point de départ de l'épreuve.",
+          "Le passage est désormais dégagé."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "lle-RÁ-u",
+          "definicion": "En asturien, un lleráu est un bouchon de branches, de troncs et de débris charriés par le courant qui s'accumule en un point du fleuve et bloque ou rétrécit le passage de l'eau. Il peut se former naturellement après des crues ou des tempêtes."
+        },
+        "porQue": "Avec le lleráu retiré, le lit du fleuve est en état pour le Descenso Internacional del Sella, le rendez-vous le plus important de l'été dans la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Sella ist am Startpunkt wieder frei",
+        "entradilla": "Der lleráu (Verklausung), der das Flussbett genau dort versperrte, wo der Descenso Internacional beginnt, wurde entfernt.",
+        "cuerpo": [
+          "Das Flussbett der Sella war an der genauen Stelle, wo der Descenso Internacional beginnt, durch einen lleráu eingeschnürt. Diese Ansammlung aus Ästen und Treibgut ist inzwischen beseitigt worden.",
+          "Der Startbereich des Rennens ist damit für die Abfahrt freigemacht."
+        ],
+        "apunte": "Der Fluss wartete nicht, und am Ende kümmerte sich jemand darum.",
+        "enVeinte": [
+          "Der lleráu, der das Flussbett der Sella am Start des Descenso Internacional blockierte, wurde entfernt.",
+          "Der Abschnitt war genau am Startpunkt des Rennens eingeschnürt.",
+          "Der Durchfluss ist jetzt frei."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "lle-RÁ-u",
+          "definicion": "Im Asturischen bezeichnet lleráu einen Pfropfen aus Ästen, Baumstämmen und Treibgut, den die Strömung an einer Stelle des Flusses aufschichtet und der den Wasserfluss blockiert oder einengt. Er kann sich nach Hochwasser oder Stürmen auf natürliche Weise bilden."
+        },
+        "porQue": "Ohne den lleráu ist das Flussbett bereit für den Descenso Internacional del Sella, das bedeutendste Ereignis des Sommers in der Gemeinde.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "cuarto-alcuentru-de-folclor-de-l-infiestu",
     "url": "/pilona/cuarto-alcuentru-de-folclor-de-l-infiestu/",
     "concejo": "Piloña",
@@ -16988,6 +18360,123 @@
         },
         "porQue": "Die Hochgebirgsrouten von Cabrales verzeichnen jeden Sommer eine beträchtliche Anzahl von Rettungseinsätzen; es lohnt sich zu wissen, dass das Gelände eine gute Vorbereitung und geeignetes Schuhwerk erfordert, bevor man aufbricht.",
         "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "con-la-salida-asi-no-se-puede-celebrar-el-descenso-internacional-del-s",
+    "url": "/pilona/con-la-salida-asi-no-se-puede-celebrar-el-descenso-internacional-del-s/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un lleráu amenaza la salida del Sella",
+    "entradilla": "La zona donde los participantes toman la salida aparece estrangulada por un acúmulo de lodo y piedras que pone en duda la celebración de la prueba.",
+    "cuerpo": [
+      "Un lleráu ha colmatado el cauce del Sella justo en el punto donde arranca el Descenso Internacional, la prueba más seguida del calendario fluvial asturiano.",
+      "Con el río así, la salida no puede celebrarse en condiciones. La acumulación de material bloquea el paso y hace inviable el desarrollo normal de la carrera en ese tramo."
+    ],
+    "apunte": "El río no entiende de calendarios.",
+    "enVeinte": [
+      "Un lleráu ha bloqueado el Sella justo donde arranca el Descenso Internacional.",
+      "La acumulación impide que la salida de la prueba pueda celebrarse con normalidad.",
+      "De momento no hay fecha ni decisión oficial sobre qué pasa con la carrera."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "lleráu",
+      "como": "llé-ráu (con la ll asturiana, bien marcada)",
+      "definicion": "Masa de barro, piedras y material arrastrado que un río deposita al desbordarse o tras una crecida. En Asturias el término es de uso corriente para describir estos atascos naturales del cauce."
+    },
+    "porQue": "Si el lleráu no se retira a tiempo, el Descenso Internacional del Sella —que mueve miles de personas a la comarca cada año— no podría celebrarse en su recorrido habitual.",
+    "etiquetas": [
+      "Descenso del Sella",
+      "Sella",
+      "lleráu",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "río Sella, zona de salida del Descenso Internacional",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/31/2026073113381598968.jpg",
+    "fecha": "2026-07-31T19:15:32.000Z",
+    "fuente": {
+      "nombre": "El Fielato · Deportes",
+      "url": "https://www.elfielato.es/articulo/deportes/peligra-descenso-internacional-sella/20260731134129100574.html",
+      "titularOriginal": "«Con la salida así no se puede celebrar el Descenso Internacional del Sella»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A lleráu threatens the start of the Sella",
+        "entradilla": "The area where participants line up for the start is choked by a build-up of mud and rocks that casts doubt on whether the race can go ahead.",
+        "cuerpo": [
+          "A lleráu (a debris flow of mud and rock left by a swollen river) has blocked the bed of the Sella at the exact point where the Descenso Internacional begins, the most followed river race on the Asturian calendar.",
+          "With the river in this state, the start cannot take place in normal conditions. The accumulated material blocks the passage and makes it impossible for the race to run as usual through that stretch."
+        ],
+        "apunte": "The river does not follow calendars.",
+        "enVeinte": [
+          "A lleráu has blocked the Sella right at the point where the Descenso Internacional starts.",
+          "The build-up means the race start cannot take place normally.",
+          "So far there is no date or official decision on what happens to the race."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "llé-ráu (with the Asturian ll, clearly pronounced)",
+          "definicion": "A mass of mud, rocks and debris deposited by a river when it bursts its banks or after a flood. In Asturias the word is in everyday use to describe these natural blockages of a watercourse."
+        },
+        "porQue": "If the lleráu is not cleared in time, the Descenso Internacional del Sella — which brings thousands of people to the county every year — could not be held on its usual course.",
+        "lugar": "río Sella, start area of the Descenso Internacional",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un lleráu menace le départ du Sella",
+        "entradilla": "La zone où les participants s'élancent est engorgée par un amas de boue et de pierres qui compromet la tenue de l'épreuve.",
+        "cuerpo": [
+          "Un lleráu (un dépôt de boue, pierres et débris laissé par une crue) a colmaté le lit du Sella exactement à l'endroit où s'élance le Descenso Internacional, l'épreuve fluviale la plus suivie du calendrier asturien.",
+          "Dans cet état, le départ ne peut pas se dérouler dans des conditions normales. L'accumulation de matériaux bloque le passage et rend impossible le bon déroulement de la course sur ce tronçon."
+        ],
+        "apunte": "La rivière ne connaît pas les calendriers.",
+        "enVeinte": [
+          "Un lleráu a bloqué le Sella juste à l'endroit où s'élance le Descenso Internacional.",
+          "L'accumulation empêche que le départ de l'épreuve se déroule normalement.",
+          "Pour l'instant, il n'y a ni date ni décision officielle sur ce qui va se passer avec la course."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "llé-ráu (avec le ll asturien, bien marqué)",
+          "definicion": "Masse de boue, de pierres et de débris charriés qu'une rivière dépose lorsqu'elle déborde ou après une crue. En Asturies, le mot est d'usage courant pour désigner ces obstructions naturelles du lit d'un cours d'eau."
+        },
+        "porQue": "Si le lleráu n'est pas retiré à temps, le Descenso Internacional del Sella — qui attire chaque année des milliers de personnes dans la commune — ne pourrait pas se tenir sur son parcours habituel.",
+        "lugar": "río Sella, zone de départ du Descenso Internacional",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein lleráu bedroht den Start am Sella",
+        "entradilla": "Der Bereich, von dem aus die Teilnehmer ins Rennen gehen, ist durch eine Ansammlung von Schlamm und Gestein blockiert, was die Durchführung des Wettkampfs in Frage stellt.",
+        "cuerpo": [
+          "Ein lleráu (eine Ablagerung aus Schlamm, Gestein und Schwemmgut nach einem Hochwasser) hat das Flussbett des Sella genau an der Stelle verfüllt, von der aus das Descenso Internacional startet — das meistverfolgte Flussrennen im asturischen Kalender.",
+          "In diesem Zustand kann der Start nicht unter normalen Bedingungen stattfinden. Das angesammelte Material versperrt die Durchfahrt und macht einen regulären Rennverlauf in diesem Abschnitt unmöglich."
+        ],
+        "apunte": "Der Fluss kennt keine Kalender.",
+        "enVeinte": [
+          "Ein lleráu hat den Sella genau dort blockiert, wo das Descenso Internacional startet.",
+          "Die Ablagerung verhindert, dass der Start des Wettkampfs normal stattfinden kann.",
+          "Bislang gibt es weder einen Termin noch eine offizielle Entscheidung darüber, was mit dem Rennen geschieht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "lleráu",
+          "como": "llé-ráu (mit dem asturischen ll, deutlich ausgesprochen)",
+          "definicion": "Eine Masse aus Schlamm, Steinen und Schwemmgut, die ein Fluss bei Überschwemmung oder nach einem Hochwasser ablagert. In Asturien ist das Wort im alltäglichen Sprachgebrauch üblich, um solche natürlichen Verstopfungen eines Flusslaufs zu beschreiben."
+        },
+        "porQue": "Wenn der lleráu nicht rechtzeitig beseitigt wird, könnte das Descenso Internacional del Sella — das jedes Jahr Tausende von Menschen in die Gemeinde bringt — nicht auf seiner üblichen Strecke stattfinden.",
+        "lugar": "río Sella, Startbereich des Descenso Internacional",
         "precio": ""
       }
     }
@@ -17448,6 +18937,126 @@
     }
   },
   {
+    "id": "voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon",
+    "url": "/pilona/voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Vecinos repintan el Santuario de la Cueva",
+    "entradilla": "El trabajo voluntario alcanzó también la fachada del templo parroquial de Infiesto.",
+    "cuerpo": [
+      "Un grupo de voluntarios de la parroquia se puso manos a la obra para repintar el Santuario de la Cueva de Piloña, devolviendo al lugar un aspecto más cuidado.",
+      "La labor no se quedó dentro: también trabajaron en el exterior del templo parroquial de Infiesto."
+    ],
+    "apunte": "Sin subvención ni contrato: solo ganas y brochas.",
+    "enVeinte": [
+      "Voluntarios de la parroquia han repintado el Santuario de la Cueva de Piloña.",
+      "El trabajo incluyó también el exterior del templo parroquial de Infiesto.",
+      "La iniciativa partió de los propios vecinos, sin que la fuente mencione apoyo institucional."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "parroquia",
+      "como": "parroquia",
+      "definicion": "En Asturias, la parroquia es la unidad territorial básica por debajo del concejo: un conjunto de aldeas y lugares que comparten nombre, iglesia y, muchas veces, identidad. Aquí no es solo lo eclesiástico; es la forma en que la gente se sitúa en el mapa."
+    },
+    "porQue": "El Santuario de la Cueva es un referente del concejo, y que los propios vecinos se organicen para mantenerlo muestra que el cuidado del patrimonio no siempre espera a las instituciones.",
+    "etiquetas": [
+      "Piloña",
+      "patrimonio",
+      "voluntariado",
+      "Infiesto"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/21/2026072110370078329.jpg",
+    "fecha": "2026-07-21T08:40:58.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/voluntarios-repintan-santuario-cueva-pilona/20260721104058100087.html",
+      "titularOriginal": "Voluntarios de la parroquia repintan el Santuario de la Cueva de Piloña"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Residents repaint the Santuario de la Cueva",
+        "entradilla": "The volunteer effort also reached the façade of the parish church in Infiesto.",
+        "cuerpo": [
+          "A group of parish volunteers rolled up their sleeves to repaint the Santuario de la Cueva in Piloña, restoring a tidier look to the site.",
+          "The work did not stop inside: they also tackled the exterior of the parish church in Infiesto."
+        ],
+        "apunte": "No grant, no contract: just willingness and paintbrushes.",
+        "enVeinte": [
+          "Parish volunteers have repainted the Santuario de la Cueva in Piloña.",
+          "The work also included the exterior of the parish church in Infiesto.",
+          "The initiative came from the residents themselves, with no institutional support mentioned."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "parroquia",
+          "como": "parroquia",
+          "definicion": "In Asturias, the parroquia is the basic territorial unit below the municipality: a cluster of villages and hamlets that share a name, a church and, often, a common identity. Here it is not purely an ecclesiastical term; it is the way people place themselves on the map."
+        },
+        "porQue": "The Santuario de la Cueva is a landmark of the municipality, and the fact that residents organise themselves to maintain it shows that heritage care does not always wait for institutions.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des habitants repeignent le Santuario de la Cueva",
+        "entradilla": "Le travail bénévole a également concerné la façade de l'église paroissiale d'Infiesto.",
+        "cuerpo": [
+          "Un groupe de bénévoles de la paroisse s'est mis au travail pour repeindre le Santuario de la Cueva de Piloña, rendant au lieu un aspect plus soigné.",
+          "Le chantier ne s'est pas limité à l'intérieur : ils ont aussi œuvré sur l'extérieur de l'église paroissiale d'Infiesto."
+        ],
+        "apunte": "Ni subvention ni contrat : seulement de la bonne volonté et des pinceaux.",
+        "enVeinte": [
+          "Des bénévoles de la paroisse ont repeint le Santuario de la Cueva de Piloña.",
+          "Le travail a également porté sur l'extérieur de l'église paroissiale d'Infiesto.",
+          "L'initiative est venue des habitants eux-mêmes, sans soutien institutionnel mentionné."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "parroquia",
+          "como": "parroquia",
+          "definicion": "En Asturie, la parroquia est l'unité territoriale de base, en dessous de la commune : un ensemble de hameaux et de lieux-dits qui partagent un nom, une église et, souvent, une identité commune. Le terme n'est pas purement ecclésiastique ; c'est la façon dont les gens se situent sur la carte."
+        },
+        "porQue": "Le Santuario de la Cueva est un repère de la commune, et le fait que les habitants s'organisent eux-mêmes pour l'entretenir montre que la préservation du patrimoine n'attend pas toujours les institutions.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Anwohner streichen das Santuario de la Cueva neu",
+        "entradilla": "Die Freiwilligenarbeit erfasste auch die Fassade der Pfarrkirche in Infiesto.",
+        "cuerpo": [
+          "Eine Gruppe von Freiwilligen der Pfarrgemeinde machte sich ans Werk, um das Santuario de la Cueva in Piloña neu zu streichen und dem Ort ein gepflegteres Erscheinungsbild zurückzugeben.",
+          "Die Arbeit blieb nicht auf das Innere beschränkt: Auch die Außenwände der Pfarrkirche in Infiesto wurden in Angriff genommen."
+        ],
+        "apunte": "Kein Zuschuss, kein Auftrag – nur Tatkraft und Pinsel.",
+        "enVeinte": [
+          "Freiwillige der Pfarrgemeinde haben das Santuario de la Cueva in Piloña neu gestrichen.",
+          "Die Arbeiten umfassten auch das Äußere der Pfarrkirche in Infiesto.",
+          "Die Initiative ging von den Bewohnern selbst aus; institutionelle Unterstützung wird nicht erwähnt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "parroquia",
+          "como": "parroquia",
+          "definicion": "In Asturien ist die parroquia die territoriale Grundeinheit unterhalb der Gemeinde: ein Verbund von Dörfern und Weilern, die einen gemeinsamen Namen, eine Kirche und oft auch eine gemeinsame Identität teilen. Der Begriff ist nicht rein kirchlicher Natur; er beschreibt die Art, wie die Menschen sich auf der Karte verorten."
+        },
+        "porQue": "Das Santuario de la Cueva ist ein Wahrzeichen der Gemeinde. Dass die Bewohner sich selbst organisieren, um es zu erhalten, zeigt: Denkmalpflege wartet nicht immer auf Institutionen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en el exterior del templo parroquial de infiesto"
+    ]
+  },
+  {
     "id": "jonathan-trabanco-gana-el-concurso-de-escanciadores-de-nava",
     "url": "/nava/jonathan-trabanco-gana-el-concurso-de-escanciadores-de-nava/",
     "concejo": "Nava",
@@ -17745,6 +19354,123 @@
         "palabra": null,
         "porQue": "",
         "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "nueva-imagen-para-el-area-de-la-cueva-en-pilona",
+    "url": "/pilona/nueva-imagen-para-el-area-de-la-cueva-en-pilona/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "actualidad",
+    "titular": "El área de La Cueva estrena nueva imagen",
+    "entradilla": "Piloña ha invertido más de 300.000 euros en reformar esta zona.",
+    "cuerpo": [
+      "El Ayuntamiento de Piloña ha acometido la renovación del área de La Cueva con una inversión que supera los 300.000 euros.",
+      "Las obras han transformado el aspecto de este espacio, aunque el material disponible no detalla qué trabajos concretos se han ejecutado ni cuándo han terminado."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "El Ayuntamiento de Piloña ha renovado el área de La Cueva.",
+      "La inversión supera los 300.000 euros.",
+      "No hay más detalles disponibles sobre el alcance de las obras."
+    ],
+    "cifra": {
+      "numero": "300.000",
+      "unidad": "euros",
+      "glosa": "Es lo que ha destinado el Ayuntamiento de Piloña a renovar el área de La Cueva. Superar esa cifra en una obra local indica una intervención de cierto calado para un concejo del tamaño de Piloña."
+    },
+    "palabra": null,
+    "porQue": "Si frecuentas el área de La Cueva, te vas a encontrar un espacio con cara nueva pagado con dinero del municipio.",
+    "etiquetas": [
+      "Piloña",
+      "obras",
+      "La Cueva",
+      "inversión municipal"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "La Cueva, Piloña",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/10/2026071013164032818.jpg",
+    "fecha": "2026-07-10T13:23:05.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/nueva-imagen-area-cueva-pilona/20260710152305099339.html",
+      "titularOriginal": "Nueva imagen para el área de La Cueva, en Piloña"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The La Cueva area gets a new look",
+        "entradilla": "Piloña has invested more than 300,000 euros in renovating this area.",
+        "cuerpo": [
+          "Piloña council has carried out the renovation of the La Cueva area with an investment of over 300,000 euros.",
+          "The works have transformed the appearance of this space, although the available information does not detail which specific works were carried out or when they were completed."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Piloña council has renovated the La Cueva area.",
+          "The investment exceeds 300,000 euros.",
+          "No further details are available about the scope of the works."
+        ],
+        "cifra": {
+          "numero": "300,000",
+          "unidad": "euros",
+          "glosa": "This is what Piloña council has put into renovating the La Cueva area. Exceeding that figure on a local project points to a substantial intervention for a municipality the size of Piloña."
+        },
+        "palabra": null,
+        "porQue": "If you use the La Cueva area, you will find a space with a fresh look, paid for with public money from the municipality.",
+        "lugar": "La Cueva, Piloña",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le site de La Cueva fait peau neuve",
+        "entradilla": "Piloña a investi plus de 300 000 euros dans la rénovation de cette zone.",
+        "cuerpo": [
+          "La mairie de Piloña a entrepris la rénovation du site de La Cueva avec un investissement de plus de 300 000 euros.",
+          "Les travaux ont transformé l'aspect de cet espace, mais les informations disponibles ne précisent ni les travaux exacts réalisés ni la date de leur achèvement."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La mairie de Piloña a rénové le site de La Cueva.",
+          "L'investissement dépasse les 300 000 euros.",
+          "Aucun détail supplémentaire n'est disponible sur l'étendue des travaux."
+        ],
+        "cifra": {
+          "numero": "300 000",
+          "unidad": "euros",
+          "glosa": "C'est ce que la mairie de Piloña a consacré à la rénovation du site de La Cueva. Dépasser ce montant pour un chantier local représente une intervention d'une certaine ampleur pour une commune de la taille de Piloña."
+        },
+        "palabra": null,
+        "porQue": "Si vous fréquentez le site de La Cueva, vous allez découvrir un espace au visage tout neuf, financé par l'argent de la commune.",
+        "lugar": "La Cueva, Piloña",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Gebiet La Cueva präsentiert sich in neuem Gewand",
+        "entradilla": "Piloña hat mehr als 300.000 Euro in die Neugestaltung dieses Bereichs investiert.",
+        "cuerpo": [
+          "Das Rathaus von Piloña hat die Erneuerung des Gebiets La Cueva mit einer Investition von über 300.000 Euro in Angriff genommen.",
+          "Die Arbeiten haben das Erscheinungsbild dieses Bereichs verändert, obwohl die verfügbaren Informationen weder die konkret ausgeführten Arbeiten noch den Zeitpunkt ihrer Fertigstellung nennen."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Das Rathaus von Piloña hat das Gebiet La Cueva erneuert.",
+          "Die Investition übersteigt 300.000 Euro.",
+          "Weitere Einzelheiten zum Umfang der Arbeiten sind nicht verfügbar."
+        ],
+        "cifra": {
+          "numero": "300.000",
+          "unidad": "Euro",
+          "glosa": "So viel hat das Rathaus von Piloña in die Erneuerung des Gebiets La Cueva gesteckt. Dass ein lokales Bauvorhaben diese Summe überschreitet, deutet auf einen Eingriff von erheblichem Ausmaß für eine Gemeinde in der Größe von Piloña hin."
+        },
+        "palabra": null,
+        "porQue": "Wer das Gebiet La Cueva regelmäßig besucht, wird einen Bereich in neuem Gewand vorfinden – finanziert aus öffentlichen Mitteln der Gemeinde.",
+        "lugar": "La Cueva, Piloña",
         "precio": ""
       }
     }

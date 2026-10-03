@@ -325,5 +325,53 @@
     "fuente": "wikimedia",
     "pie": "Carretera de Asturias en Invierno",
     "consulta": "carretera asturias Piloña"
+  },
+  "cabrales-picu-urriellu-y-el-queso-mas-internacional": {
+    "archivo": "cabrales-picu-urriellu-y-el-queso-mas-internacional.jpg",
+    "autor": "Zarateman",
+    "licencia": "CC0",
+    "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "atribucion": false,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Madrid_-_Queso_de_Cabrales_y_Pic%C3%B3n_Asturiano.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Madrid - Queso de Cabrales y Picón Asturiano",
+    "consulta": "queso cabrales asturias Cabrales"
+  },
+  "el-plan-gastronomico-en-asturias-villaviciosa-sidra-huerta-ria-y-prerr": {
+    "archivo": "el-plan-gastronomico-en-asturias-villaviciosa-sidra-huerta-ria-y-prerr.jpg",
+    "autor": "Adolfobrigido",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:R%C3%ADa_de_Villaviciosa.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Ría de Villaviciosa",
+    "consulta": "ria villaviciosa asturias Villaviciosa"
+  },
+  "homenaje-en-casa-por-40-anos-de-arte-a-la-banda-gaites-villaviciosa-el": {
+    "archivo": "homenaje-en-casa-por-40-anos-de-arte-a-la-banda-gaites-villaviciosa-el.jpg",
+    "autor": "José Luis Filpo Cabana",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Mar%C3%ADa_de_la_Oliva_(Villaviciosa).jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Iglesia de Santa María de la Oliva (Villaviciosa)",
+    "consulta": "iglesia asturias Villaviciosa"
+  },
+  "voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon": {
+    "archivo": "voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon.jpg",
+    "autor": "Zarateman",
+    "licencia": "CC BY-SA 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=27499625",
+    "fuente": "wikimedia",
+    "pie": "Infiesto - Iglesia de San Antonio de Padua 06",
+    "consulta": "iglesia asturias Piloña"
   }
 }

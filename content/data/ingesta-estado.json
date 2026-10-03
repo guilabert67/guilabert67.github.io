@@ -1,16 +1,22 @@
 {
   "fallidas": {
     "asturiasmundial.com/noticia/144615/desahucio-inminente-siete-anos-casa-familias-rio-pilona-sellan-acuerdo-sareb": {
-      "intentos": 1,
+      "intentos": 2,
       "titulo": "De un desahucio inminente a siete años en casa: las familias de Río Piloña sellan su acuerdo con Sareb (02/10/2026)",
       "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-02T18:40:07.144Z"
+      "ultima": "2026-10-03T08:30:18.996Z"
     },
     "elfielato.es/articulo/villaviciosa/ayuntamiento-villaviciosa-primer-convenio-comision-fiestas-portal/20260930092903104086.html": {
-      "intentos": 1,
+      "intentos": 2,
       "titulo": "El Ayuntamiento de Villaviciosa firma su primer convenio con la Comisión de Fiestas del Portal",
       "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-02T18:52:15.331Z"
+      "ultima": "2026-10-03T08:33:02.889Z"
+    },
+    "asturiasmundial.com/noticia/144627/cinco-maneras-dejar-huella-asturias-villaviciosa-estrena-premios-corripio-alonso": {
+      "intentos": 1,
+      "titulo": "Cinco maneras de dejar huella en Asturias: Villaviciosa estrena los Premios Corripio Alonso (03/10/2026)",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-03T08:33:00.752Z"
     }
   },
   "descartadas": {

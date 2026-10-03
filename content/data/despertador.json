@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-02T18:58:19.960Z",
+  "fecha": "2026-10-03T08:38:39.714Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "Un conductor de 51 años resultó herido grave esta mañana en la N-634 a su paso por Nava.",
-      "enlace": "/nava/herido-grave-un-conductor-de-51-anos-tras-salirse-de-la-carretera-en-a/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "Un camión ardió entero en la N-634 a la altura de Ceceda; llevaba un generador de gasolina.",
-      "enlace": "/nava/un-camion-arde-por-completo-en-la-n-634-a-su-paso-por-ceceda-en-nava/"
-    },
-    {
       "concejo": "Piloña",
-      "frase": "El puente de Ribadesella abre los dos carriles desde el mediodía del viernes hasta el lunes.",
-      "enlace": "/pilona/el-puente-de-ribadesella-permanecera-totalmente-abierto-durante-el-fin/"
+      "frase": "El Sella está despejado: el lleráu que amenazaba el Descenso ya no está.",
+      "enlace": "/pilona/despejada-la-salida-del-sella/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Ecologistas llevan más de un año denunciando un vertedero de desguace en la ría de Villaviciosa.",
+      "enlace": "/villaviciosa/los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa amplía ayudas para fiestas y deporte, con apoyo nuevo para la Coral Capilla la Torre.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-amplia-las-subvenciones-para-festejos-/"
     }
   ]
 }
