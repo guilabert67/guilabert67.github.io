@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-04T15:01:01.115Z",
+  "fecha": "2026-10-04T18:45:11.162Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "4.500 kilos de ablanes llenaron Infiesto: el Festival de la Avellana aguantó la lluvia.",
-      "enlace": "/pilona/4-500-kilos-de-ablanes-a-nueve-euros-en-el-festival-de-la-avellana-de-/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "Un volador pudo provocar el incendio que cortó las fiestas de Quintes.",
-      "enlace": "/villaviciosa/susto-en-quintes-por-un-incendio-declarado-mientras-se-celebran-las-fi/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa repartirá 40.000 euros entre los vecinos que mantienen vivos los pueblos con sextaferias.",
-      "enlace": "/villaviciosa/villaviciosa-convoca-ayudas-para-que-los-vecinos-puedan-hacer-sextafer/"
+      "frase": "El arándano asturiano gana en su propio festival: los premios se quedan en casa.",
+      "enlace": "/villaviciosa/mucho-mas-que-arandanos-en-villaviciosa/"
     }
   ]
 }
