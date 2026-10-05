@@ -1,5 +1,147 @@
 [
   {
+    "id": "libres-un-cabare-anarcosicaliptico",
+    "url": "/pilona/libres-un-cabare-anarcosicaliptico/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Cabaré anarquista llega a La Benéfica de Piloña",
+    "entradilla": "El espectáculo LIBRES!!! rescata a las mujeres anarquistas de 1936 con música de cuplé y espíritu de varietés.",
+    "cuerpo": [
+      "LIBRES!!! es un cabaré escénico que recupera la historia de Mujeres Libres, la organización anarcosindicalista fundada en 1936 que llegó a reunir más de veinte mil afiliadas en sus tres años de vida. El espectáculo llega a La Benéfica de Piloña, en Infiesto.",
+      "Lo escribe Esther F. Carrodeguas y lo dirige Andrés Lima. Sobre el escenario estarán Alba Flores, Laura Galán, Nüll García y Eva Valdelomar. La propuesta mezcla el lenguaje del cabaré con las canciones sicalípticas del cuplé y las varietés, géneros que ya en su época le plantaron cara al patriarcado.",
+      "Las entradas están a la venta. La fecha concreta del pase no aparece en el programa publicado, así que conviene consultar la programación de La Benéfica para confirmar el día y la hora."
+    ],
+    "apunte": "Dale a tu cuerpo anarquía, Macarena: el cuplé también fue revolución.",
+    "enVeinte": [
+      "LIBRES!!! es un espectáculo de cabaré que reivindica a Mujeres Libres, la organización anarquista femenina de la Guerra Civil.",
+      "Lo firman la dramaturga Esther F. Carrodeguas y el director Andrés Lima, con un reparto encabezado por Alba Flores y Laura Galán.",
+      "Llega a La Benéfica de Piloña, en Infiesto, aunque la fecha exacta no está confirmada en la información disponible."
+    ],
+    "cifra": {
+      "numero": "20.000",
+      "unidad": "afiliadas",
+      "glosa": "Mujeres Libres llegó a esa cifra en solo tres años de existencia, entre 1936 y 1939. Era una organización anarcosindicalista que defendía la emancipación de la mujer frente a lo que llamaban triple esclavitud: la ignorancia, la condición de mujer y la de trabajadora."
+    },
+    "palabra": {
+      "termino": "sicalíptico",
+      "como": "si-ca-líp-ti-co, igual que en castellano estándar",
+      "definicion": "Dícese del espectáculo de varietés con contenido picante o atrevido, propio de cabarés y teatros de principios del siglo XX. Las cupletistas sicalípticas usaban el doble sentido y el cuerpo como herramienta de provocación en una época en que eso tenía un coste real."
+    },
+    "porQue": "La Benéfica de Piloña trae a Infiesto un espectáculo de producción nacional con nombres conocidos del cine y el teatro; una oportunidad que no suele parar por concejos de tamaño medio.",
+    "etiquetas": [
+      "teatro",
+      "La Benéfica",
+      "Infiesto",
+      "feminismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "escena",
+    "lugar": "La Benéfica de Piloña, Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2026/10/Libres-IG-Stoty.jpg",
+    "fecha": "2026-10-05T07:30:38.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/libres-un-cabare-anarcosicaliptico/?utm_source=rss&utm_medium=rss&utm_campaign=libres-un-cabare-anarcosicaliptico",
+      "titularOriginal": "LIBRES!!! Un Cabaré Anarcosicalíptico"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Anarchist cabaret comes to La Benéfica de Piloña",
+        "entradilla": "The show LIBRES!!! rescues the anarchist women of 1936 with cuplé music and a varieté spirit.",
+        "cuerpo": [
+          "LIBRES!!! is a stage cabaret that recovers the history of Mujeres Libres, the anarcho-syndicalist organisation founded in 1936 that gathered more than twenty thousand members in its three years of existence. The show comes to La Benéfica de Piloña, in Infiesto.",
+          "It is written by Esther F. Carrodeguas and directed by Andrés Lima. On stage will be Alba Flores, Laura Galán, Nüll García and Eva Valdelomar. The production blends the language of cabaret with the sicalíptico (risqué, double-edged) songs of cuplé and varieté — genres that, even in their own time, pushed back against the patriarchy.",
+          "Tickets are on sale. The specific date of the performance does not appear in the published programme, so it is worth checking La Benéfica's listings to confirm the day and time."
+        ],
+        "apunte": "Give your body some anarchy, Macarena: cuplé was revolution too.",
+        "enVeinte": [
+          "LIBRES!!! is a cabaret show that reclaims Mujeres Libres, the women's anarchist organisation of the Civil War.",
+          "It is the work of playwright Esther F. Carrodeguas and director Andrés Lima, with a cast led by Alba Flores and Laura Galán.",
+          "It comes to La Benéfica de Piloña, in Infiesto, although the exact date has not been confirmed in the information available."
+        ],
+        "cifra": {
+          "numero": "20,000",
+          "unidad": "members",
+          "glosa": "Mujeres Libres reached that figure in just three years of existence, between 1936 and 1939. It was an anarcho-syndicalist organisation that fought for women's emancipation against what it called triple slavery: ignorance, the condition of being a woman, and the condition of being a worker."
+        },
+        "palabra": {
+          "termino": "sicalíptico",
+          "como": "si-ca-líp-ti-co, as in standard Spanish",
+          "definicion": "Used to describe a varieté show with risqué or daring content, typical of cabarets and theatres in the early twentieth century. Sicalíptico cuplé performers used double entendre and the body as a tool of provocation at a time when doing so carried a real cost."
+        },
+        "porQue": "La Benéfica de Piloña is bringing to Infiesto a nationally produced show with well-known names from film and theatre — the kind of opportunity that rarely stops in medium-sized municipalities.",
+        "lugar": "La Benéfica de Piloña, Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le cabaret anarchiste débarque à La Benéfica de Piloña",
+        "entradilla": "Le spectacle LIBRES!!! ressuscite les femmes anarchistes de 1936 sur des airs de cuplé et dans l'esprit des variétés.",
+        "cuerpo": [
+          "LIBRES!!! est un cabaret scénique qui redonne vie à l'histoire de Mujeres Libres, l'organisation anarcho-syndicaliste fondée en 1936 qui réunit plus de vingt mille adhérentes en trois ans d'existence. Le spectacle arrive à La Benéfica de Piloña, à Infiesto.",
+          "Le texte est signé Esther F. Carrodeguas et la mise en scène est d'Andrés Lima. Sur le plateau : Alba Flores, Laura Galán, Nüll García et Eva Valdelomar. Le projet mêle le langage du cabaret aux chansons sicalípticas (lestes, à double sens) du cuplé et des variétés — des genres qui, à leur époque déjà, résistaient au patriarcat.",
+          "Les billets sont en vente. La date précise de la représentation ne figure pas dans le programme publié ; mieux vaut donc consulter la programmation de La Benéfica pour confirmer le jour et l'heure."
+        ],
+        "apunte": "Donne de l'anarchie à ton corps, Macarena : le cuplé aussi était une révolution.",
+        "enVeinte": [
+          "LIBRES!!! est un spectacle de cabaret qui réhabilite Mujeres Libres, l'organisation anarchiste féminine de la Guerre Civile.",
+          "Il est signé par la dramaturge Esther F. Carrodeguas et le metteur en scène Andrés Lima, avec une distribution emmenée par Alba Flores et Laura Galán.",
+          "Il arrive à La Benéfica de Piloña, à Infiesto, même si la date exacte n'est pas confirmée dans les informations disponibles."
+        ],
+        "cifra": {
+          "numero": "20 000",
+          "unidad": "adhérentes",
+          "glosa": "Mujeres Libres atteignit ce chiffre en seulement trois ans d'existence, entre 1936 et 1939. C'était une organisation anarcho-syndicaliste qui défendait l'émancipation des femmes contre ce qu'elle appelait la triple esclavage : l'ignorance, la condition de femme et celle de travailleuse."
+        },
+        "palabra": {
+          "termino": "sicalíptico",
+          "como": "si-ca-líp-ti-co, comme en espagnol standard",
+          "definicion": "Se dit d'un spectacle de variétés au contenu leste ou osé, caractéristique des cabarets et des théâtres du début du XXe siècle. Les chanteuses de cuplé sicalíptico utilisaient le double sens et le corps comme outil de provocation, à une époque où cela avait un coût réel."
+        },
+        "porQue": "La Benéfica de Piloña accueille à Infiesto un spectacle de production nationale avec des noms connus du cinéma et du théâtre — une occasion qui ne s'arrête guère dans les communes de taille moyenne.",
+        "lugar": "La Benéfica de Piloña, Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Anarchistisches Kabarett kommt zur La Benéfica de Piloña",
+        "entradilla": "Die Show LIBRES!!! erweckt die anarchistischen Frauen von 1936 mit Cuplé-Musik und Varieté-Geist zum Leben.",
+        "cuerpo": [
+          "LIBRES!!! ist ein szenisches Kabarett, das die Geschichte von Mujeres Libres wieder aufgreift — jener anarcho-syndikalistischen Organisation, die 1936 gegründet wurde und in drei Jahren ihres Bestehens mehr als zwanzigtausend Mitglieder versammelte. Das Stück kommt zur La Benéfica de Piloña nach Infiesto.",
+          "Das Stück stammt von Esther F. Carrodeguas, Regie führt Andrés Lima. Auf der Bühne stehen Alba Flores, Laura Galán, Nüll García und Eva Valdelomar. Die Produktion verbindet die Sprache des Kabaretts mit den sicalípticos (freizügigen, doppeldeutigen) Liedern des Cuplé und des Varietés — Genres, die dem Patriarchat schon zu ihrer Zeit die Stirn boten.",
+          "Tickets sind im Verkauf. Das genaue Datum der Vorstellung steht im veröffentlichten Programm nicht; es empfiehlt sich daher, die Spielpläne von La Benéfica zu prüfen, um Tag und Uhrzeit zu bestätigen."
+        ],
+        "apunte": "Gib deinem Körper etwas Anarchie, Macarena: Auch der Cuplé war Revolution.",
+        "enVeinte": [
+          "LIBRES!!! ist eine Kabarettshow, die Mujeres Libres zurückfordert — die anarchistische Frauenorganisation des Bürgerkriegs.",
+          "Sie stammt von der Dramatikerin Esther F. Carrodeguas und dem Regisseur Andrés Lima, mit einer Besetzung angeführt von Alba Flores und Laura Galán.",
+          "Sie kommt zur La Benéfica de Piloña nach Infiesto, wenngleich das genaue Datum in den vorliegenden Informationen nicht bestätigt ist."
+        ],
+        "cifra": {
+          "numero": "20.000",
+          "unidad": "Mitglieder",
+          "glosa": "Mujeres Libres erreichte diese Zahl in nur drei Jahren ihres Bestehens, zwischen 1936 und 1939. Es war eine anarcho-syndikalistische Organisation, die die Emanzipation der Frau gegen das verteidigte, was sie dreifache Sklaverei nannte: Unwissenheit, die Stellung als Frau und die als Arbeiterin."
+        },
+        "palabra": {
+          "termino": "sicalíptico",
+          "como": "si-ca-líp-ti-co, wie im Standard-Spanischen",
+          "definicion": "Bezeichnet eine Varietéshow mit anstößigem oder gewagtem Inhalt, typisch für Kabaretts und Theater zu Beginn des 20. Jahrhunderts. Die sicalíptico-Cuplé-Sängerinnen nutzten Doppeldeutigkeit und den Körper als Mittel der Provokation — zu einer Zeit, in der das einen echten Preis hatte."
+        },
+        "porQue": "La Benéfica de Piloña bringt nach Infiesto eine national produzierte Show mit bekannten Namen aus Film und Theater — eine Gelegenheit, die in mittelgroßen Gemeinden selten Halt macht.",
+        "lugar": "La Benéfica de Piloña, Infiesto",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "mas de veinte mil afiliadas en sus tres",
+      "de veinte mil afiliadas en sus tres anos",
+      "veinte mil afiliadas en sus tres anos de"
+    ]
+  },
+  {
     "id": "4-500-kilos-de-ablanes-a-nueve-euros-en-el-festival-de-la-avellana-de-",
     "url": "/pilona/4-500-kilos-de-ablanes-a-nueve-euros-en-el-festival-de-la-avellana-de-/",
     "concejo": "Piloña",
