@@ -5,31 +5,31 @@
     "concejo": "Piloña",
     "concejoSlug": "pilona",
     "seccion": "avisos",
-    "titular": "Puente de Ribadesella cortado siete horas el jueves",
-    "entradilla": "El cierre total afecta al tráfico rodado entre las 9 y las 16 horas; peatones y emergencias podrán pasar.",
+    "titular": "El puente de Ribadesella cierra siete horas el jueves",
+    "entradilla": "El corte total arranca a las 9 de la mañana y libera el paso a las 4 de la tarde; los peatones y las emergencias pasan sin problema.",
     "cuerpo": [
-      "El Ministerio de Transportes cierra por completo el puente de Ribadesella el jueves 8 de octubre, de nueve de la mañana a cuatro de la tarde. Durante esas siete horas, ningún vehículo particular podrá cruzar.",
-      "Los operarios aprovecharán el corte para hormigonar parte de la cimentación de la pila 3, uno de los trabajos de refuerzo en la margen derecha de la ría que arrancaron el 9 de septiembre. Los servicios de emergencias tendrán paso garantizado y los peatones pueden cruzar por el tablero sin restricciones.",
-      "Quien necesite ir al otro lado en coche tiene una ruta alternativa: la autovía A-8, saliendo por el enlace de Llovio (kilómetro 319) y entrando por Pando/Bones (kilómetro 326). Antes y después del corte total, el puente sigue con un carril y semáforos, como viene siendo habitual de lunes a domingo."
+      "El Ministerio de Transportes ha confirmado un cierre completo del puente de Ribadesella para el jueves 8 de octubre, de 9.00 a 16.00 horas. Quien vaya en coche tendrá que buscar otro camino; quien vaya a pie puede cruzar sin restricciones.",
+      "Durante ese tramo, la alternativa para los vehículos es la autovía A-8: salir por el enlace de Llovio (km 319) y entrar por Pando/Bones (km 326). Las ambulancias y los bomberos podrán pasar, pero solo tras mover la maquinaria para despejar el tablero.",
+      "El motivo es el hormigonado de uno de los apoyos del puente, dentro de los trabajos de refuerzo de la cimentación que arrancaron el 9 de septiembre. Fuera de ese horario, el puente sigue con un carril cortado y semáforos, como lleva siendo habitual desde hace casi cuatro años."
     ],
-    "apunte": "Casi cuatro años de obras y al puente del Sella todavía le quedan cosas que contar.",
+    "apunte": "Casi cuatro años de obras y el puente sigue dando guerra: el jueves, siete horas sin paso.",
     "enVeinte": [
-      "El puente de Ribadesella estará completamente cerrado al tráfico el jueves 8 de octubre entre las 9 y las 16 horas.",
-      "Peatones y emergencias sí podrán cruzar; el resto de conductores tendrá que rodear por la A-8 entre Llovio y Pando/Bones.",
-      "El corte sirve para hormigonar parte de la cimentación, dentro de unas obras de rehabilitación que llevan cerca de cuatro años en marcha."
+      "El puente de Ribadesella cerrará por completo el jueves 8 de octubre entre las 9 y las 16 horas por trabajos de hormigonado.",
+      "Los coches tendrán que rodear por la A-8 entre Llovio y Pando/Bones; los peatones y las emergencias sí podrán pasar.",
+      "El resto de la semana el puente mantiene un carril cortado con tráfico alternativo regulado por semáforos."
     ],
     "cifra": {
       "numero": "4",
       "unidad": "años",
-      "glosa": "Las obras de rehabilitación del puente sobre el Sella llevan ya cerca de cuatro años en marcha, desde que comenzaron los trabajos en la N-632. El corte del jueves es uno más de los cierres puntuales que han salpicado ese largo proceso."
+      "glosa": "Las obras de rehabilitación del puente sobre el Sella llevan casi cuatro años en marcha, desde antes del 9 de septiembre de 2022. Un plazo largo para una infraestructura que conecta ambas márgenes de la ría y por la que pasan a diario vecinos de toda la comarca."
     },
     "palabra": null,
-    "porQue": "Quien cruce habitualmente entre Ribadesella y la ribera opuesta en coche tiene que buscar la vuelta por la A-8 durante siete horas; quien vaya a pie, sin problema.",
+    "porQue": "Quien cruce hacia Ribadesella o venga de allá el jueves por la mañana necesita salir antes o rodear por la autovía; siete horas de corte total en hora punta no es un aviso menor.",
     "etiquetas": [
-      "puente Ribadesella",
+      "Ribadesella",
       "obras",
       "tráfico",
-      "N-632"
+      "puente"
     ],
     "fechaEvento": "2026-10-08",
     "tipoEvento": "",
@@ -47,78 +47,84 @@
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "Ribadesella bridge closed for seven hours on Thursday",
-        "entradilla": "The full closure affects road traffic between 9 a.m. and 4 p.m.; pedestrians and emergency services will be able to cross.",
+        "titular": "The Ribadesella bridge closes for seven hours on Thursday",
+        "entradilla": "The full closure starts at 9 in the morning and reopens at 4 in the afternoon; pedestrians and emergency vehicles can pass without problem.",
         "cuerpo": [
-          "The Ministry of Transport is closing the Ribadesella bridge entirely on Thursday 8 October, from nine in the morning until four in the afternoon. During those seven hours, no private vehicle will be able to cross.",
-          "Workers will use the closure to concrete part of the foundations of pier 3, one of the reinforcement works on the right bank of the estuary that began on 9 September. Emergency services will have guaranteed access and pedestrians can cross the deck without restrictions.",
-          "Anyone who needs to get to the other side by car has an alternative route: the A-8 motorway, leaving via the Llovio junction (kilometre 319) and rejoining at Pando/Bones (kilometre 326). Before and after the full closure, the bridge continues with a single lane and traffic lights, as has been the norm from Monday to Sunday."
+          "The Ministry of Transport has confirmed a complete closure of the Ribadesella bridge for Thursday 8 October, from 9.00 to 16.00. Anyone travelling by car will have to find another route; anyone on foot can cross without restrictions.",
+          "During that period, the alternative for vehicles is the A-8 motorway: exit at the Llovio junction (km 319) and rejoin at Pando/Bones (km 326). Ambulances and fire engines will be able to pass, but only after the machinery is moved to clear the deck.",
+          "The reason is the concreting of one of the bridge's supports, as part of foundation reinforcement works that began on 9 September. Outside those hours, the bridge continues with one lane closed and traffic lights, as has been the norm for almost four years."
         ],
-        "apunte": "Nearly four years of works and the Sella bridge still has things to tell.",
+        "apunte": "Almost four years of works and the bridge is still causing trouble: on Thursday, seven hours with no crossing.",
         "enVeinte": [
-          "The Ribadesella bridge will be completely closed to traffic on Thursday 8 October between 9 a.m. and 4 p.m.",
-          "Pedestrians and emergency services will be able to cross; all other drivers will have to go around via the A-8 between Llovio and Pando/Bones.",
-          "The closure is needed to concrete part of the foundations, as part of a rehabilitation project that has been under way for nearly four years."
+          "The Ribadesella bridge will close completely on Thursday 8 October between 9.00 and 16.00 for concreting works.",
+          "Cars will have to go round via the A-8 between Llovio and Pando/Bones; pedestrians and emergency vehicles will be able to pass.",
+          "For the rest of the week the bridge keeps one lane closed with alternating traffic controlled by traffic lights."
         ],
         "cifra": {
           "numero": "4",
           "unidad": "years",
-          "glosa": "The rehabilitation works on the bridge over the Sella have been under way for nearly four years, since work began on the N-632. Thursday's closure is one more of the short-term shutdowns that have punctuated that long process."
+          "glosa": "The rehabilitation works on the bridge over the Sella have been under way for almost four years, since before 9 September 2022. A long stretch of time for an infrastructure that connects both banks of the estuary and is used daily by residents from across the county."
         },
         "palabra": null,
-        "porQue": "Anyone who regularly crosses between Ribadesella and the opposite bank by car will have to take the long way round via the A-8 for seven hours; those going on foot will have no problem.",
+        "porQue": "Anyone crossing into Ribadesella or coming from there on Thursday morning needs to leave earlier or go round via the motorway; a seven-hour full closure during peak hours is not a minor notice.",
         "lugar": "Puente de Ribadesella, N-632 km 3",
         "precio": ""
       },
       "fr": {
-        "titular": "Le pont de Ribadesella fermé sept heures jeudi",
-        "entradilla": "La fermeture totale concerne la circulation routière de 9 h à 16 h ; piétons et secours pourront passer.",
+        "titular": "Le pont de Ribadesella ferme sept heures jeudi",
+        "entradilla": "La fermeture totale commence à 9 heures du matin et le pont rouvre à 16 heures ; les piétons et les secours passent sans problème.",
         "cuerpo": [
-          "Le ministère des Transports ferme entièrement le pont de Ribadesella le jeudi 8 octobre, de neuf heures du matin à quatre heures de l'après-midi. Pendant ces sept heures, aucun véhicule particulier ne pourra traverser.",
-          "Les ouvriers profiteront de la coupure pour bétonner une partie des fondations de la pile 3, l'un des travaux de renforcement sur la rive droite de l'estuaire qui ont débuté le 9 septembre. Les services de secours auront le passage garanti et les piétons peuvent traverser le tablier sans restriction.",
-          "Ceux qui ont besoin de rejoindre l'autre rive en voiture disposent d'un itinéraire alternatif : l'autoroute A-8, en sortant par l'échangeur de Llovio (kilomètre 319) et en rentrant par Pando/Bones (kilomètre 326). Avant et après la fermeture totale, le pont reste à une voie avec feux de circulation, comme c'est le cas habituellement du lundi au dimanche."
+          "Le ministère des Transports a confirmé la fermeture complète du pont de Ribadesella pour le jeudi 8 octobre, de 9 h 00 à 16 h 00. Qui prend la voiture devra trouver un autre itinéraire ; qui va à pied peut traverser sans restriction.",
+          "Durant ce créneau, l'alternative pour les véhicules est l'autoroute A-8 : sortir à l'échangeur de Llovio (km 319) et reprendre à Pando/Bones (km 326). Les ambulances et les pompiers pourront passer, mais seulement après déplacement des engins pour dégager le tablier.",
+          "Le motif est le bétonnage d'un des appuis du pont, dans le cadre des travaux de renforcement des fondations commencés le 9 septembre. En dehors de ces horaires, le pont reste avec une voie fermée et des feux de circulation, comme c'est le cas depuis presque quatre ans."
         ],
-        "apunte": "Près de quatre ans de travaux et le pont sur le Sella a encore des choses à raconter.",
+        "apunte": "Presque quatre ans de travaux et le pont continue de poser problème : jeudi, sept heures sans passage.",
         "enVeinte": [
-          "Le pont de Ribadesella sera entièrement fermé à la circulation le jeudi 8 octobre entre 9 h et 16 h.",
-          "Les piétons et les secours pourront traverser ; les autres conducteurs devront contourner par l'A-8 entre Llovio et Pando/Bones.",
-          "La fermeture est nécessaire pour bétonner une partie des fondations, dans le cadre d'un chantier de réhabilitation en cours depuis près de quatre ans."
+          "Le pont de Ribadesella fermera complètement le jeudi 8 octobre entre 9 h et 16 h pour des travaux de bétonnage.",
+          "Les voitures devront contourner par l'A-8 entre Llovio et Pando/Bones ; les piétons et les secours pourront passer.",
+          "Le reste de la semaine, le pont maintient une voie fermée avec une circulation alternée réglée par des feux."
         ],
         "cifra": {
           "numero": "4",
           "unidad": "ans",
-          "glosa": "Les travaux de réhabilitation du pont sur le Sella sont en cours depuis près de quatre ans, depuis le début des travaux sur la N-632. La fermeture de jeudi est l'une des nombreuses interruptions ponctuelles qui ont émaillé ce long chantier."
+          "glosa": "Les travaux de réhabilitation du pont sur le Sella durent depuis presque quatre ans, d'avant le 9 septembre 2022. Un délai long pour une infrastructure qui relie les deux rives de la ria et qu'empruntent chaque jour des habitants de toute la commune."
         },
         "palabra": null,
-        "porQue": "Ceux qui traversent habituellement entre Ribadesella et la rive opposée en voiture devront faire le détour par l'A-8 pendant sept heures ; les piétons, eux, n'auront aucun problème.",
+        "porQue": "Quiconque traverse vers Ribadesella ou en vient jeudi matin doit partir plus tôt ou contourner par l'autoroute ; sept heures de fermeture totale aux heures de pointe, ce n'est pas un avis anodin.",
         "lugar": "Puente de Ribadesella, N-632 km 3",
         "precio": ""
       },
       "de": {
-        "titular": "Brücke von Ribadesella am Donnerstag sieben Stunden gesperrt",
-        "entradilla": "Die Vollsperrung betrifft den Fahrzeugverkehr von 9 bis 16 Uhr; Fußgänger und Rettungsdienste können passieren.",
+        "titular": "Die Brücke von Ribadesella ist am Donnerstag sieben Stunden gesperrt",
+        "entradilla": "Die Vollsperrung beginnt um 9 Uhr morgens und wird um 16 Uhr aufgehoben; Fußgänger und Rettungsfahrzeuge können problemlos passieren.",
         "cuerpo": [
-          "Das Verkehrsministerium sperrt die Brücke von Ribadesella am Donnerstag, dem 8. Oktober, vollständig, von neun Uhr morgens bis vier Uhr nachmittags. Während dieser sieben Stunden darf kein privates Fahrzeug die Brücke überqueren.",
-          "Die Arbeiter nutzen die Sperrung, um einen Teil des Fundaments von Pfeiler 3 zu betonieren – eine der Verstärkungsmaßnahmen am rechten Ufer der Ría, die am 9. September begonnen haben. Rettungsdienste haben garantiert freie Durchfahrt, und Fußgänger können den Brückenbelag ohne Einschränkungen überqueren.",
-          "Wer mit dem Auto auf die andere Seite muss, hat eine Umleitung: die Autobahn A-8, Abfahrt Llovio (Kilometer 319) und Auffahrt Pando/Bones (Kilometer 326). Vor und nach der Vollsperrung ist die Brücke weiterhin mit einer Fahrspur und Ampelregelung befahrbar, wie es von Montag bis Sonntag üblich ist."
+          "Das Verkehrsministerium hat für Donnerstag, den 8. Oktober, eine vollständige Sperrung der Brücke von Ribadesella von 9.00 bis 16.00 Uhr bestätigt. Wer mit dem Auto fährt, muss einen anderen Weg suchen; wer zu Fuß geht, kann ohne Einschränkungen überqueren.",
+          "In diesem Zeitraum ist die Alternative für Fahrzeuge die Autobahn A-8: Ausfahrt an der Anschlussstelle Llovio (km 319), Wiederauffahrt bei Pando/Bones (km 326). Krankenwagen und Feuerwehr dürfen passieren, allerdings erst nachdem die Maschinen verschoben wurden, um das Brückendeck freizumachen.",
+          "Anlass ist die Betonierung eines der Brückenlager im Rahmen der Gründungsverstärkungsarbeiten, die am 9. September begonnen haben. Außerhalb dieser Zeiten bleibt die Brücke mit einer gesperrten Fahrspur und Ampeln in Betrieb, wie es seit fast vier Jahren üblich ist."
         ],
-        "apunte": "Fast vier Jahre Bauarbeiten, und die Brücke über den Sella hat noch einiges zu erzählen.",
+        "apunte": "Fast vier Jahre Bauarbeiten, und die Brücke macht weiter Ärger: am Donnerstag sieben Stunden ohne Überquerung.",
         "enVeinte": [
-          "Die Brücke von Ribadesella wird am Donnerstag, dem 8. Oktober, zwischen 9 und 16 Uhr vollständig für den Verkehr gesperrt.",
-          "Fußgänger und Rettungsdienste dürfen passieren; alle anderen Fahrer müssen über die A-8 zwischen Llovio und Pando/Bones ausweichen.",
-          "Die Sperrung dient dazu, einen Teil des Fundaments zu betonieren – im Rahmen eines Sanierungsprojekts, das seit fast vier Jahren läuft."
+          "Die Brücke von Ribadesella wird am Donnerstag, dem 8. Oktober, zwischen 9 und 16 Uhr wegen Betonierarbeiten vollständig gesperrt.",
+          "Autos müssen über die A-8 zwischen Llovio und Pando/Bones ausweichen; Fußgänger und Rettungsfahrzeuge dürfen passieren.",
+          "Den Rest der Woche bleibt eine Fahrspur gesperrt, der Wechselverkehr wird durch Ampeln geregelt."
         ],
         "cifra": {
           "numero": "4",
           "unidad": "Jahre",
-          "glosa": "Die Sanierungsarbeiten an der Brücke über den Sella laufen seit fast vier Jahren, seit die Arbeiten an der N-632 begonnen haben. Die Sperrung am Donnerstag ist eine von vielen punktuellen Schließungen, die diesen langen Prozess begleitet haben."
+          "glosa": "Die Sanierungsarbeiten an der Brücke über den Sella dauern seit fast vier Jahren an, sie begannen vor dem 9. September 2022. Ein langer Zeitraum für eine Infrastruktur, die beide Ufer der Ría verbindet und täglich von Bewohnern aus der gesamten Gemeinde genutzt wird."
         },
         "palabra": null,
-        "porQue": "Wer regelmäßig mit dem Auto zwischen Ribadesella und dem gegenüberliegenden Ufer pendelt, muss sieben Stunden lang den Umweg über die A-8 nehmen; wer zu Fuß unterwegs ist, hat kein Problem.",
+        "porQue": "Wer am Donnerstagmorgen nach Ribadesella fährt oder von dort kommt, muss früher aufbrechen oder über die Autobahn ausweichen; sieben Stunden Vollsperrung zur Hauptverkehrszeit sind keine Kleinigkeit.",
         "lugar": "Puente de Ribadesella, N-632 km 3",
         "precio": ""
       }
-    }
+    },
+    "revisar": [
+      "del puente dentro de los trabajos de refuerzo",
+      "puente dentro de los trabajos de refuerzo de",
+      "dentro de los trabajos de refuerzo de la",
+      "de los trabajos de refuerzo de la cimentacion"
+    ]
   },
   {
     "id": "la-mejor-sidra-casera-de-toda-asturias-a-concurso-en-villaviciosa",
