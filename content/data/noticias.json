@@ -1,5 +1,243 @@
 [
   {
+    "id": "corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este",
+    "url": "/pilona/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Puente de Ribadesella cortado siete horas el jueves",
+    "entradilla": "El cierre total afecta al tráfico rodado entre las 9 y las 16 horas; peatones y emergencias podrán pasar.",
+    "cuerpo": [
+      "El Ministerio de Transportes cierra por completo el puente de Ribadesella el jueves 8 de octubre, de nueve de la mañana a cuatro de la tarde. Durante esas siete horas, ningún vehículo particular podrá cruzar.",
+      "Los operarios aprovecharán el corte para hormigonar parte de la cimentación de la pila 3, uno de los trabajos de refuerzo en la margen derecha de la ría que arrancaron el 9 de septiembre. Los servicios de emergencias tendrán paso garantizado y los peatones pueden cruzar por el tablero sin restricciones.",
+      "Quien necesite ir al otro lado en coche tiene una ruta alternativa: la autovía A-8, saliendo por el enlace de Llovio (kilómetro 319) y entrando por Pando/Bones (kilómetro 326). Antes y después del corte total, el puente sigue con un carril y semáforos, como viene siendo habitual de lunes a domingo."
+    ],
+    "apunte": "Casi cuatro años de obras y al puente del Sella todavía le quedan cosas que contar.",
+    "enVeinte": [
+      "El puente de Ribadesella estará completamente cerrado al tráfico el jueves 8 de octubre entre las 9 y las 16 horas.",
+      "Peatones y emergencias sí podrán cruzar; el resto de conductores tendrá que rodear por la A-8 entre Llovio y Pando/Bones.",
+      "El corte sirve para hormigonar parte de la cimentación, dentro de unas obras de rehabilitación que llevan cerca de cuatro años en marcha."
+    ],
+    "cifra": {
+      "numero": "4",
+      "unidad": "años",
+      "glosa": "Las obras de rehabilitación del puente sobre el Sella llevan ya cerca de cuatro años en marcha, desde que comenzaron los trabajos en la N-632. El corte del jueves es uno más de los cierres puntuales que han salpicado ese largo proceso."
+    },
+    "palabra": null,
+    "porQue": "Quien cruce habitualmente entre Ribadesella y la ribera opuesta en coche tiene que buscar la vuelta por la A-8 durante siete horas; quien vaya a pie, sin problema.",
+    "etiquetas": [
+      "puente Ribadesella",
+      "obras",
+      "tráfico",
+      "N-632"
+    ],
+    "fechaEvento": "2026-10-08",
+    "tipoEvento": "",
+    "lugar": "Puente de Ribadesella, N-632 km 3",
+    "hora": "09:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/PUENTE-RIBADESELLA-Viernes-05.10.2026-scaled.jpg",
+    "fecha": "2026-10-05T20:32:35.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/05/10/2026/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este-jueves-8-de-octubre/",
+      "titularOriginal": "Corte de siete horas de duración en el puente de Ribadesella para este jueves 8 de octubre"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella bridge closed for seven hours on Thursday",
+        "entradilla": "The full closure affects road traffic between 9 a.m. and 4 p.m.; pedestrians and emergency services will be able to cross.",
+        "cuerpo": [
+          "The Ministry of Transport is closing the Ribadesella bridge entirely on Thursday 8 October, from nine in the morning until four in the afternoon. During those seven hours, no private vehicle will be able to cross.",
+          "Workers will use the closure to concrete part of the foundations of pier 3, one of the reinforcement works on the right bank of the estuary that began on 9 September. Emergency services will have guaranteed access and pedestrians can cross the deck without restrictions.",
+          "Anyone who needs to get to the other side by car has an alternative route: the A-8 motorway, leaving via the Llovio junction (kilometre 319) and rejoining at Pando/Bones (kilometre 326). Before and after the full closure, the bridge continues with a single lane and traffic lights, as has been the norm from Monday to Sunday."
+        ],
+        "apunte": "Nearly four years of works and the Sella bridge still has things to tell.",
+        "enVeinte": [
+          "The Ribadesella bridge will be completely closed to traffic on Thursday 8 October between 9 a.m. and 4 p.m.",
+          "Pedestrians and emergency services will be able to cross; all other drivers will have to go around via the A-8 between Llovio and Pando/Bones.",
+          "The closure is needed to concrete part of the foundations, as part of a rehabilitation project that has been under way for nearly four years."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "years",
+          "glosa": "The rehabilitation works on the bridge over the Sella have been under way for nearly four years, since work began on the N-632. Thursday's closure is one more of the short-term shutdowns that have punctuated that long process."
+        },
+        "palabra": null,
+        "porQue": "Anyone who regularly crosses between Ribadesella and the opposite bank by car will have to take the long way round via the A-8 for seven hours; those going on foot will have no problem.",
+        "lugar": "Puente de Ribadesella, N-632 km 3",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le pont de Ribadesella fermé sept heures jeudi",
+        "entradilla": "La fermeture totale concerne la circulation routière de 9 h à 16 h ; piétons et secours pourront passer.",
+        "cuerpo": [
+          "Le ministère des Transports ferme entièrement le pont de Ribadesella le jeudi 8 octobre, de neuf heures du matin à quatre heures de l'après-midi. Pendant ces sept heures, aucun véhicule particulier ne pourra traverser.",
+          "Les ouvriers profiteront de la coupure pour bétonner une partie des fondations de la pile 3, l'un des travaux de renforcement sur la rive droite de l'estuaire qui ont débuté le 9 septembre. Les services de secours auront le passage garanti et les piétons peuvent traverser le tablier sans restriction.",
+          "Ceux qui ont besoin de rejoindre l'autre rive en voiture disposent d'un itinéraire alternatif : l'autoroute A-8, en sortant par l'échangeur de Llovio (kilomètre 319) et en rentrant par Pando/Bones (kilomètre 326). Avant et après la fermeture totale, le pont reste à une voie avec feux de circulation, comme c'est le cas habituellement du lundi au dimanche."
+        ],
+        "apunte": "Près de quatre ans de travaux et le pont sur le Sella a encore des choses à raconter.",
+        "enVeinte": [
+          "Le pont de Ribadesella sera entièrement fermé à la circulation le jeudi 8 octobre entre 9 h et 16 h.",
+          "Les piétons et les secours pourront traverser ; les autres conducteurs devront contourner par l'A-8 entre Llovio et Pando/Bones.",
+          "La fermeture est nécessaire pour bétonner une partie des fondations, dans le cadre d'un chantier de réhabilitation en cours depuis près de quatre ans."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "ans",
+          "glosa": "Les travaux de réhabilitation du pont sur le Sella sont en cours depuis près de quatre ans, depuis le début des travaux sur la N-632. La fermeture de jeudi est l'une des nombreuses interruptions ponctuelles qui ont émaillé ce long chantier."
+        },
+        "palabra": null,
+        "porQue": "Ceux qui traversent habituellement entre Ribadesella et la rive opposée en voiture devront faire le détour par l'A-8 pendant sept heures ; les piétons, eux, n'auront aucun problème.",
+        "lugar": "Puente de Ribadesella, N-632 km 3",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Brücke von Ribadesella am Donnerstag sieben Stunden gesperrt",
+        "entradilla": "Die Vollsperrung betrifft den Fahrzeugverkehr von 9 bis 16 Uhr; Fußgänger und Rettungsdienste können passieren.",
+        "cuerpo": [
+          "Das Verkehrsministerium sperrt die Brücke von Ribadesella am Donnerstag, dem 8. Oktober, vollständig, von neun Uhr morgens bis vier Uhr nachmittags. Während dieser sieben Stunden darf kein privates Fahrzeug die Brücke überqueren.",
+          "Die Arbeiter nutzen die Sperrung, um einen Teil des Fundaments von Pfeiler 3 zu betonieren – eine der Verstärkungsmaßnahmen am rechten Ufer der Ría, die am 9. September begonnen haben. Rettungsdienste haben garantiert freie Durchfahrt, und Fußgänger können den Brückenbelag ohne Einschränkungen überqueren.",
+          "Wer mit dem Auto auf die andere Seite muss, hat eine Umleitung: die Autobahn A-8, Abfahrt Llovio (Kilometer 319) und Auffahrt Pando/Bones (Kilometer 326). Vor und nach der Vollsperrung ist die Brücke weiterhin mit einer Fahrspur und Ampelregelung befahrbar, wie es von Montag bis Sonntag üblich ist."
+        ],
+        "apunte": "Fast vier Jahre Bauarbeiten, und die Brücke über den Sella hat noch einiges zu erzählen.",
+        "enVeinte": [
+          "Die Brücke von Ribadesella wird am Donnerstag, dem 8. Oktober, zwischen 9 und 16 Uhr vollständig für den Verkehr gesperrt.",
+          "Fußgänger und Rettungsdienste dürfen passieren; alle anderen Fahrer müssen über die A-8 zwischen Llovio und Pando/Bones ausweichen.",
+          "Die Sperrung dient dazu, einen Teil des Fundaments zu betonieren – im Rahmen eines Sanierungsprojekts, das seit fast vier Jahren läuft."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "Jahre",
+          "glosa": "Die Sanierungsarbeiten an der Brücke über den Sella laufen seit fast vier Jahren, seit die Arbeiten an der N-632 begonnen haben. Die Sperrung am Donnerstag ist eine von vielen punktuellen Schließungen, die diesen langen Prozess begleitet haben."
+        },
+        "palabra": null,
+        "porQue": "Wer regelmäßig mit dem Auto zwischen Ribadesella und dem gegenüberliegenden Ufer pendelt, muss sieben Stunden lang den Umweg über die A-8 nehmen; wer zu Fuß unterwegs ist, hat kein Problem.",
+        "lugar": "Puente de Ribadesella, N-632 km 3",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-mejor-sidra-casera-de-toda-asturias-a-concurso-en-villaviciosa",
+    "url": "/villaviciosa/la-mejor-sidra-casera-de-toda-asturias-a-concurso-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Villaviciosa decide cuál es la mejor sidra casera",
+    "entradilla": "El certamen regional que busca al mejor llagador aficionado de Asturias llega a su final el 18 de octubre.",
+    "cuerpo": [
+      "Villaviciosa acoge el día 18 de octubre la final del concurso regional de sidra casera, que reúne a los mejores elaboradores particulares de toda Asturias.",
+      "El certamen pone en competencia las sidras que hacen en casa, en el llagar familiar, quienes mantienen viva la tradición sin ser profesionales del sector."
+    ],
+    "apunte": "Porque hay afición, hay llagar; y donde hay llagar, hay certamen.",
+    "enVeinte": [
+      "Villaviciosa celebra el 18 de octubre la final regional del concurso de sidra casera.",
+      "El certamen distingue a los mejores elaboradores particulares de toda Asturias.",
+      "La cita mantiene viva la tradición del llagar familiar fuera del circuito profesional."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (con elle asturiana, como en castellano)",
+      "definicion": "Lugar donde se elabora la sidra: se pisan las manzanas, se prensa el mosto y se deja fermentar. En Asturias, tener el llagar propio en casa es toda una institución."
+    },
+    "porQue": "Si en tu familia se hace sidra casera y no te has apuntado aún, merece la pena saber que el 18 de octubre se decide quién la hace mejor en Asturias.",
+    "etiquetas": [
+      "sidra",
+      "Villaviciosa",
+      "concurso",
+      "cultura asturiana"
+    ],
+    "fechaEvento": "2026-10-18",
+    "tipoEvento": "gastro",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/05/sidre-casero-RPTOA8WIqrG2c2qS9wHmIrM-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-05T17:03:08.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/mejor-sidra-casera-asturias-concurso-villaviciosa-20261005190250-nt.html",
+      "titularOriginal": "La mejor sidra casera de toda Asturias, a concurso en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa decides who makes the best homemade cider",
+        "entradilla": "The regional competition searching for Asturias's best amateur llagador reaches its final on 18 October.",
+        "cuerpo": [
+          "Villaviciosa hosts the final of the regional homemade cider competition on 18 October, bringing together the best amateur producers from across Asturias.",
+          "The competition pits against each other the ciders made at home, in the family llagar (a traditional cider press and fermenting room), by those who keep the tradition alive without being professionals in the trade."
+        ],
+        "apunte": "Where there is passion, there is a llagar; and where there is a llagar, there is a competition.",
+        "enVeinte": [
+          "Villaviciosa holds the regional final of the homemade cider competition on 18 October.",
+          "The competition recognises the best amateur producers from across Asturias.",
+          "The event keeps the tradition of the family llagar alive outside the professional circuit."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (with the Asturian ll, as in Castilian Spanish)",
+          "definicion": "The place where cider is made: apples are crushed, the must is pressed and left to ferment. In Asturias, having your own llagar at home is a true institution."
+        },
+        "porQue": "If your family makes homemade cider and you haven't entered yet, it's worth knowing that 18 October is the day Asturias decides who makes it best.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa décide quelle est la meilleure sidre artisanale",
+        "entradilla": "Le concours régional à la recherche du meilleur llagador amateur des Asturies arrive en finale le 18 octobre.",
+        "cuerpo": [
+          "Villaviciosa accueille le 18 octobre la finale du concours régional de sidre artisanale, qui rassemble les meilleurs producteurs particuliers de toute l'Asturies.",
+          "Le concours met en compétition les sidres fabriquées à la maison, dans le llagar (le pressoir et cave de fermentation) familial, par ceux qui maintiennent vivante la tradition sans être des professionnels du secteur."
+        ],
+        "apunte": "Là où il y a de la passion, il y a un llagar ; et là où il y a un llagar, il y a un concours.",
+        "enVeinte": [
+          "Villaviciosa célèbre le 18 octobre la finale régionale du concours de sidre artisanale.",
+          "Le concours distingue les meilleurs producteurs particuliers de toute l'Asturies.",
+          "Le rendez-vous maintient vivante la tradition du llagar familial en dehors du circuit professionnel."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (avec le ll asturien, comme en espagnol castillan)",
+          "definicion": "L'endroit où l'on élabore le cidre : on écrase les pommes, on presse le moût et on le laisse fermenter. Aux Asturies, posséder son propre llagar chez soi est une véritable institution."
+        },
+        "porQue": "Si votre famille fait du cidre artisanal et que vous ne vous êtes pas encore inscrit, il vaut la peine de savoir que le 18 octobre on décide qui le fait le mieux en Asturies.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa kürt den besten selbstgemachten Apfelwein",
+        "entradilla": "Der regionale Wettbewerb auf der Suche nach dem besten Amateur-Llagador Asturiens erreicht am 18. Oktober sein Finale.",
+        "cuerpo": [
+          "Villaviciosa richtet am 18. Oktober das Finale des regionalen Wettbewerbs für selbstgemachten Apfelwein aus, bei dem die besten privaten Hersteller aus ganz Asturien zusammenkommen.",
+          "Der Wettbewerb stellt die Apfelweine gegeneinander, die zu Hause, im familieneigenen llagar (der traditionellen Apfelweinpresse und Gärkeller), von jenen hergestellt werden, die die Tradition lebendig halten, ohne Fachleute der Branche zu sein."
+        ],
+        "apunte": "Wo Leidenschaft ist, ist ein llagar; und wo ein llagar ist, ist ein Wettbewerb.",
+        "enVeinte": [
+          "Villaviciosa veranstaltet am 18. Oktober das regionale Finale des Wettbewerbs für selbstgemachten Apfelwein.",
+          "Der Wettbewerb zeichnet die besten privaten Hersteller aus ganz Asturien aus.",
+          "Die Veranstaltung hält die Tradition des familieneigenen llagar außerhalb des professionellen Betriebs lebendig."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (mit dem asturischen ll, wie im kastilischen Spanisch)",
+          "definicion": "Der Ort, an dem Apfelwein hergestellt wird: Die Äpfel werden zerdrückt, der Most gepresst und zum Gären stehengelassen. In Asturien ist ein eigener llagar zu Hause eine wahre Institution."
+        },
+        "porQue": "Wenn Ihre Familie selbstgemachten Apfelwein herstellt und Sie sich noch nicht angemeldet haben, lohnt es sich zu wissen, dass am 18. Oktober entschieden wird, wer ihn in Asturien am besten macht.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-prepara-su-primer-plan-municipal-de-vivienda-con-la-parti",
     "url": "/villaviciosa/villaviciosa-prepara-su-primer-plan-municipal-de-vivienda-con-la-parti/",
     "concejo": "Villaviciosa",

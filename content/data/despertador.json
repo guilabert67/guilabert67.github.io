@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-10-05T16:21:36.540Z",
+  "fecha": "2026-10-06T03:17:56.134Z",
   "puntos": [
     {
+      "concejo": "Piloña",
+      "frase": "El jueves, el puente de Ribadesella cierra al tráfico de 9 a 16 horas.",
+      "enlace": "/pilona/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa busca ciudadanos que opinen sobre cómo mejorar el acceso a vivienda.",
-      "enlace": "/villaviciosa/villaviciosa-prepara-su-primer-plan-municipal-de-vivienda-con-la-parti/"
+      "frase": "Villaviciosa elige al mejor llagador aficionado de Asturias el 18 de octubre.",
+      "enlace": "/villaviciosa/la-mejor-sidra-casera-de-toda-asturias-a-concurso-en-villaviciosa/"
     }
   ]
 }
