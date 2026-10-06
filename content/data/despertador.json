@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-06T10:43:30.366Z",
+  "fecha": "2026-10-06T17:25:23.372Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "El puente de Ribadesella corta el tráfico este jueves de 9 a 16 h.",
+      "frase": "18,5 millones para reformar la carretera entre Infiesto y Campo Caso.",
+      "enlace": "/pilona/las-obras-de-la-carretera-entre-infiestu-y-campu-casu-a-vista-de-pajar/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "El jueves el puente de Ribadesella corta el tráfico de 9 a 16 h.",
       "enlace": "/pilona/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa mete 55.000 euros en mejoras para sus colegios públicos.",
+      "enlace": "/villaviciosa/villaviciosa-estrena-el-curso-con-un-desfibrilador-en-el-maliayo-y-ref/"
     }
   ]
 }
