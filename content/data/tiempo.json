@@ -1,36 +1,36 @@
 {
-  "actualizado": "2026-10-07T09:10:30.897Z",
+  "actualizado": "2026-10-07T22:15:18.438Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
-      "max": 19,
-      "min": 16,
-      "estado": "Lluvia fuerte",
-      "lluvia": 100
+      "max": 17,
+      "min": 12,
+      "estado": "Lluvia débil",
+      "lluvia": 78
     },
     "nava": {
       "max": 17,
-      "min": 15,
-      "estado": "Lluvia fuerte",
-      "lluvia": 100
+      "min": 11,
+      "estado": "Lluvia",
+      "lluvia": 95
     },
     "cabranes": {
-      "max": 18,
-      "min": 15,
-      "estado": "Lluvia fuerte",
-      "lluvia": 100
+      "max": 17,
+      "min": 11,
+      "estado": "Lluvia débil",
+      "lluvia": 95
     },
     "cabrales": {
-      "max": 16,
-      "min": 13,
-      "estado": "Lluvia fuerte",
+      "max": 15,
+      "min": 11,
+      "estado": "Lluvia",
       "lluvia": 100
     },
     "villaviciosa": {
-      "max": 20,
-      "min": 17,
-      "estado": "Chubascos fuertes",
-      "lluvia": 100
+      "max": 19,
+      "min": 13,
+      "estado": "Orbayu persistente",
+      "lluvia": 53
     }
   }
 }

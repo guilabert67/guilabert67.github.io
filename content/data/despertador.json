@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-07T09:10:30.095Z",
+  "fecha": "2026-10-07T22:15:17.640Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "La Feria de Santa Teresa vuelve a Piloña con razas autóctonas, sin vacuno.",
-      "enlace": "/pilona/la-feria-de-santa-teresa-contara-con-pita-pinta-gochu-asturcelta-xalda/"
+      "concejo": "Villaviciosa",
+      "frase": "Cincuenta pisos públicos llegan a Villaviciosa: el Principado cede el terreno la semana que viene.",
+      "enlace": "/villaviciosa/villaviciosa-y-ribadesella-dentro-del-plan-que-llevara-350-pisos-publi/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El PP acusa al alcalde de Villaviciosa de usar el plan de vivienda para hacer campaña.",
-      "enlace": "/villaviciosa/el-pp-cuestiona-el-plan-de-vivienda-anunciado-para-villaviciosa-no-pue/"
+      "frase": "La alcaldesa de Villaviciosa defiende el plan de vivienda: no es electoralismo, dice.",
+      "enlace": "/villaviciosa/vega-carga-contra-felgueres-manipula-y-engana-para-que-no-se-hable-de-/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Villar de Güergu lleva 52 años sin carteles y sus vecinos ya se hartan.",
+      "enlace": "/pilona/villar-de-guergu-pide-recuperar-los-indicadores-del-pueblo-en-la-n-634/"
     }
   ]
 }
