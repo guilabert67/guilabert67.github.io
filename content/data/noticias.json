@@ -1,5 +1,106 @@
 [
   {
+    "id": "el-pp-cuestiona-el-plan-de-vivienda-anunciado-para-villaviciosa-no-pue",
+    "url": "/villaviciosa/el-pp-cuestiona-el-plan-de-vivienda-anunciado-para-villaviciosa-no-pue/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "El PP acusa al alcalde de usar la vivienda electoralmente",
+    "entradilla": "El partido lleva semanas criticando que el Plan de Vivienda anunciado para Villaviciosa llega demasiado cerca de las urnas.",
+    "cuerpo": [
+      "El PP de Villaviciosa ha puesto en duda las intenciones detrás del Plan de Vivienda que el equipo de gobierno ha anunciado para el concejo, tachándolo de maniobra preelectoral más que de política real.",
+      "Según el partido, hay un patrón que se repite: el alcalde y el Gobierno central ignorarían los problemas durante la legislatura y solo los descubrirían cuando se acercan las elecciones, para entonces prometer soluciones y señalar al PP como culpable."
+    ],
+    "apunte": "El problema de la vivienda lleva años ahí; el descubrimiento, al parecer, es estacional.",
+    "enVeinte": [
+      "El PP cuestiona el Plan de Vivienda anunciado para Villaviciosa y lo califica de añadido electoral.",
+      "El partido acusa al alcalde de seguir el mismo patrón que Pedro Sánchez: ignorar el problema y anunciarlo justo antes de las elecciones.",
+      "Desde el PP sostienen que el modelo consiste en gobernar sin resolver, descubrir el problema al final y culpar a la oposición."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si el reproche del PP tiene fundamento, Villaviciosa llevaría una legislatura entera sin política de vivienda real; saberlo ayuda a los vecinos a valorar qué se les está prometiendo ahora.",
+    "etiquetas": [
+      "PP",
+      "vivienda",
+      "Villaviciosa",
+      "política municipal"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/06/solar-villaviciosa-RMgwZpWXpMhhJ1XX7eatc9H-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-06T17:22:21.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/pp-cuestiona-plan-vivienda-anunciado-villaviciosa-puede-20261006122729-nt.html",
+      "titularOriginal": "El PP cuestiona el Plan de Vivienda anunciado para Villaviciosa: «No puede ser un añadido electoral»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The PP accuses the mayor of using housing as an electoral tool",
+        "entradilla": "The party has spent weeks criticising the Housing Plan announced for Villaviciosa as coming too close to the ballot box.",
+        "cuerpo": [
+          "The PP in Villaviciosa has questioned the intentions behind the Housing Plan that the governing team has announced for the municipality, dismissing it as a pre-electoral manoeuvre rather than real policy.",
+          "According to the party, a pattern keeps repeating itself: the mayor and the central Government would ignore problems throughout the term, only to discover them as elections approach, then promise solutions and point the finger at the PP."
+        ],
+        "apunte": "The housing problem has been there for years; the discovery, it seems, is seasonal.",
+        "enVeinte": [
+          "The PP questions the Housing Plan announced for Villaviciosa and brands it an electoral add-on.",
+          "The party accuses the mayor of following the same pattern as Pedro Sánchez: ignoring the problem and announcing it just before elections.",
+          "The PP argues that the model consists of governing without solving, discovering the problem at the end, and blaming the opposition."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If the PP's criticism has substance, Villaviciosa will have gone an entire term with no real housing policy; knowing that helps residents assess what is being promised to them now.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le PP accuse le maire d'instrumentaliser le logement à des fins électorales",
+        "entradilla": "Le parti critique depuis des semaines le Plan de Logement annoncé pour Villaviciosa, estimant qu'il arrive trop près des urnes.",
+        "cuerpo": [
+          "Le PP de Villaviciosa a mis en doute les intentions derrière le Plan de Logement annoncé par l'équipe municipale pour la commune, le qualifiant de manœuvre préélectorale plutôt que de véritable politique publique.",
+          "Selon le parti, un même schéma se répète : le maire et le Gouvernement central ignoreraient les problèmes tout au long de la législature pour ne les « découvrir » qu'à l'approche des élections, afin de promettre des solutions et de désigner le PP comme coupable."
+        ],
+        "apunte": "Le problème du logement est là depuis des années ; la découverte, semble-t-il, est saisonnière.",
+        "enVeinte": [
+          "Le PP remet en question le Plan de Logement annoncé pour Villaviciosa et le qualifie d'ajout électoral.",
+          "Le parti accuse le maire de suivre le même schéma que Pedro Sánchez : ignorer le problème et l'annoncer juste avant les élections.",
+          "Le PP soutient que le modèle consiste à gouverner sans résoudre, à découvrir le problème en fin de mandat et à en blâmer l'opposition."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si les reproches du PP sont fondés, Villaviciosa aura traversé toute une législature sans véritable politique du logement ; le savoir aide les habitants à évaluer ce qu'on leur promet aujourd'hui.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "PP wirft Bürgermeister vor, Wohnungspolitik als Wahlkampfmittel zu nutzen",
+        "entradilla": "Die Partei kritisiert seit Wochen, dass der für Villaviciosa angekündigte Wohnungsplan zu kurz vor den Wahlen kommt.",
+        "cuerpo": [
+          "Die PP in Villaviciosa hat die Absichten hinter dem Wohnungsplan, den das Regierungsteam für die Gemeinde angekündigt hat, in Frage gestellt und ihn als vorwahlkampftaktisches Manöver bezeichnet, nicht als echte Politik.",
+          "Der Partei zufolge wiederholt sich ein Muster: Der Bürgermeister und die Zentralregierung hätten die Probleme während der gesamten Legislaturperiode ignoriert und würden sie erst entdecken, wenn Wahlen nahten, um dann Lösungen zu versprechen und die PP als Schuldige hinzustellen."
+        ],
+        "apunte": "Das Wohnungsproblem existiert seit Jahren; die Entdeckung davon ist offenbar saisonbedingt.",
+        "enVeinte": [
+          "Die PP stellt den für Villaviciosa angekündigten Wohnungsplan in Frage und bezeichnet ihn als wahlkampftaktischen Zusatz.",
+          "Die Partei wirft dem Bürgermeister vor, demselben Muster wie Pedro Sánchez zu folgen: das Problem ignorieren und es kurz vor den Wahlen ankündigen.",
+          "Die PP ist der Ansicht, das Modell bestehe darin, zu regieren ohne zu lösen, das Problem am Ende zu entdecken und der Opposition die Schuld zu geben."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Falls die Kritik der PP berechtigt ist, hätte Villaviciosa eine gesamte Legislaturperiode ohne echte Wohnungspolitik verbracht; das zu wissen hilft den Bewohnern einzuschätzen, was ihnen jetzt versprochen wird.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-estrena-el-curso-con-un-desfibrilador-en-el-maliayo-y-ref",
     "url": "/villaviciosa/villaviciosa-estrena-el-curso-con-un-desfibrilador-en-el-maliayo-y-ref/",
     "concejo": "Villaviciosa",
@@ -24966,6 +25067,134 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "la-feria-de-santa-teresa-contara-con-pita-pinta-gochu-asturcelta-xalda",
+    "url": "/pilona/la-feria-de-santa-teresa-contara-con-pita-pinta-gochu-asturcelta-xalda/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "La Feria de Santa Teresa apuesta por razas autóctonas",
+    "entradilla": "Sin vacuno por restricciones sanitarias, la fiesta de Piloña llena los prados con pitas pintas, gochos asturceltas, oveyas xaldas y asturcones.",
+    "cuerpo": [
+      "La Feria de Santa Teresa de Piloña cambia de tercio este año. Las restricciones sanitarias dejan fuera al ganado vacuno, y la organización responde apostando por razas de casa: pitas pintas, gochos asturceltas, oveyas xaldas y asturcones llenarán los corrales del 11 al 13 de octubre.",
+      "Como novedad, habrá un concurso de manejo de gochu, una prueba que pondrá a prueba el pulso y la maña de los participantes. La feria cerrará también con espicha.",
+      "La celebración se extiende durante tres días en Infiesto, capital del concejo."
+    ],
+    "apunte": "Sin vacas, pero con espicha: la feria de Piloña sabe adaptarse sin perder el sabor.",
+    "enVeinte": [
+      "La Feria de Santa Teresa de Piloña se celebra del 11 al 13 de octubre en Infiesto.",
+      "Este año no habrá ganado vacuno por restricciones sanitarias; el protagonismo lo toman razas autóctonas como la pita pinta, el gochu asturcelta, la oveya xalda y el asturcón.",
+      "Las novedades son un concurso de manejo de gochu y una espicha."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "espicha",
+      "como": "es-PI-cha",
+      "definicion": "Celebración asturiana en torno a la sidra, que se sirve directamente del tonel pinchándolo con una espita. Es sinónimo de fiesta y buen rato entre vecinos, y suele acompañarse de comida y música."
+    },
+    "porQue": "Si vas a la feria, este año no encontrarás vacuno, pero sí la oportunidad de ver en vivo algunas de las razas ganaderas más antiguas de Asturias, casi desaparecidas fuera de los concursos.",
+    "etiquetas": [
+      "Feria de Santa Teresa",
+      "Piloña",
+      "razas autóctonas",
+      "ganadería"
+    ],
+    "fechaEvento": "2026-10-11",
+    "tipoEvento": "feria",
+    "lugar": "Infiesto (Piloña)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261006181735_RTPA8692090.webp",
+    "fecha": "2026-07-10T08:50:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-06/La-Feria-de-Santa-Teresa-contara-con-pita-pinta,-gochu-asturcelta,-xaldas-y-asturcones_111791303476.html",
+      "titularOriginal": "La Feria de Santa Teresa contará con pita pinta, gochu asturcelta, xaldas y asturcones"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Feria de Santa Teresa bets on native breeds",
+        "entradilla": "With no cattle due to health restrictions, Piloña's fair fills the meadows with pitas pintas, gochos asturceltas, oveyas xaldas and asturcones.",
+        "cuerpo": [
+          "The Feria de Santa Teresa de Piloña is taking a different turn this year. Health restrictions have ruled out cattle, and the organisers have responded by championing local breeds: pitas pintas, gochos asturceltas, oveyas xaldas and asturcones will fill the pens from 11 to 13 October.",
+          "New this year is a gochu-handling competition, a test of steady hands and skill. The fair will also close with an espicha (a cider-house feast).",
+          "The event runs for three days in Infiesto, the main town of the municipality."
+        ],
+        "apunte": "No cattle, but there is an espicha: the Piloña fair knows how to adapt without losing its flavour.",
+        "enVeinte": [
+          "The Feria de Santa Teresa de Piloña takes place from 11 to 13 October in Infiesto.",
+          "This year there will be no cattle due to health restrictions; the spotlight falls on native breeds such as the pita pinta, the gochu asturcelta, the oveya xalda and the asturcón.",
+          "The new additions are a gochu-handling competition and an espicha."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "An Asturian celebration centred on cider, served straight from the barrel by piercing it with a tap. It is synonymous with festivity and good times among neighbours, and is usually accompanied by food and music."
+        },
+        "porQue": "If you are going to the fair, this year you will not find any cattle, but you will have the chance to see in person some of the oldest livestock breeds in Asturias, which have almost vanished outside of competitions.",
+        "lugar": "Infiesto (Piloña)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Feria de Santa Teresa mise sur les races autochtones",
+        "entradilla": "Sans bovins en raison de restrictions sanitaires, la fête de Piloña remplit les prés de pitas pintas, de gochos asturceltas, d'oveyas xaldas et d'asturcones.",
+        "cuerpo": [
+          "La Feria de Santa Teresa de Piloña change de cap cette année. Les restrictions sanitaires excluent le bétail bovin, et les organisateurs répondent en misant sur les races locales : pitas pintas, gochos asturceltas, oveyas xaldas et asturcones occuperont les enclos du 11 au 13 octobre.",
+          "Nouveauté cette année : un concours de conduite de gochu, une épreuve qui mettra à l'épreuve l'adresse et le sang-froid des participants. La foire se clôturera également par une espicha (fête autour du cidre tiré directement du tonneau).",
+          "La manifestation se déroule sur trois jours à Infiesto, chef-lieu de la commune."
+        ],
+        "apunte": "Sans vaches, mais avec une espicha : la foire de Piloña sait s'adapter sans perdre sa saveur.",
+        "enVeinte": [
+          "La Feria de Santa Teresa de Piloña se tient du 11 au 13 octobre à Infiesto.",
+          "Cette année, il n'y aura pas de bovins en raison de restrictions sanitaires ; les races autochtones comme la pita pinta, le gochu asturcelta, l'oveya xalda et l'asturcón seront à l'honneur.",
+          "Les nouveautés sont un concours de conduite de gochu et une espicha."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "Célébration asturienne autour du cidre, servi directement du tonneau en le perçant avec un robinet. C'est synonyme de fête et de bon moment entre voisins, et elle s'accompagne généralement de nourriture et de musique."
+        },
+        "porQue": "Si vous allez à la foire, vous ne trouverez pas de bovins cette année, mais vous aurez l'occasion de voir en vrai certaines des races d'élevage les plus anciennes des Asturies, presque disparues en dehors des concours.",
+        "lugar": "Infiesto (Piloña)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Feria de Santa Teresa setzt auf heimische Rassen",
+        "entradilla": "Ohne Rinder wegen gesundheitlicher Auflagen füllt das Fest von Piloña die Wiesen mit Pitas Pintas, Gochos Asturceltas, Oveyas Xaldas und Asturcones.",
+        "cuerpo": [
+          "Die Feria de Santa Teresa de Piloña schlägt in diesem Jahr einen anderen Kurs ein. Gesundheitliche Auflagen schließen Rinder aus, und die Veranstalter antworten darauf, indem sie auf einheimische Rassen setzen: Pitas Pintas, Gochos Asturceltas, Oveyas Xaldas und Asturcones werden vom 11. bis 13. Oktober die Gehege bevölkern.",
+          "Als Neuheit gibt es einen Wettbewerb im Führen eines Gochu, eine Prüfung, die Geschick und ruhige Hand der Teilnehmer auf die Probe stellt. Die Messe schließt außerdem mit einer Espicha (ein Fest rund um Apfelwein, der direkt vom Fass gezapft wird).",
+          "Die Veranstaltung erstreckt sich über drei Tage in Infiesto, dem Hauptort der Gemeinde."
+        ],
+        "apunte": "Keine Kühe, aber eine Espicha: Die Messe von Piloña weiß sich anzupassen, ohne ihren Charakter zu verlieren.",
+        "enVeinte": [
+          "Die Feria de Santa Teresa de Piloña findet vom 11. bis 13. Oktober in Infiesto statt.",
+          "In diesem Jahr gibt es wegen gesundheitlicher Auflagen keine Rinder; im Mittelpunkt stehen heimische Rassen wie die Pita Pinta, der Gochu Asturcelta, die Oveya Xalda und der Asturcón.",
+          "Neu sind ein Wettbewerb im Führen eines Gochu und eine Espicha."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "Ein asturisches Fest rund um den Apfelwein, der direkt vom Fass gezapft wird, indem man es mit einem Hahn ansticht. Es steht für Feierlichkeit und gute Laune unter Nachbarn und wird in der Regel von Essen und Musik begleitet."
+        },
+        "porQue": "Wer die Messe besucht, wird in diesem Jahr keine Rinder vorfinden, hat aber die Gelegenheit, einige der ältesten Nutztierrassen Asturiens live zu erleben, die außerhalb von Wettbewerben kaum noch zu sehen sind.",
+        "lugar": "Infiesto (Piloña)",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "con pitas pintas gochos asturceltas oveyas xaldas y",
+      "pitas pintas gochos asturceltas oveyas xaldas y asturcones",
+      "xaldas y asturcones la feria de santa teresa",
+      "y asturcones la feria de santa teresa de",
+      "asturcones la feria de santa teresa de pilona"
+    ]
   },
   {
     "id": "mercau-d-arte-en-borines",

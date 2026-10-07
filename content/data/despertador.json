@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-06T17:25:23.372Z",
+  "fecha": "2026-10-07T09:10:30.095Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "18,5 millones para reformar la carretera entre Infiesto y Campo Caso.",
-      "enlace": "/pilona/las-obras-de-la-carretera-entre-infiestu-y-campu-casu-a-vista-de-pajar/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "El jueves el puente de Ribadesella corta el tráfico de 9 a 16 h.",
-      "enlace": "/pilona/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este/"
+      "frase": "La Feria de Santa Teresa vuelve a Piloña con razas autóctonas, sin vacuno.",
+      "enlace": "/pilona/la-feria-de-santa-teresa-contara-con-pita-pinta-gochu-asturcelta-xalda/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa mete 55.000 euros en mejoras para sus colegios públicos.",
-      "enlace": "/villaviciosa/villaviciosa-estrena-el-curso-con-un-desfibrilador-en-el-maliayo-y-ref/"
+      "frase": "El PP acusa al alcalde de Villaviciosa de usar el plan de vivienda para hacer campaña.",
+      "enlace": "/villaviciosa/el-pp-cuestiona-el-plan-de-vivienda-anunciado-para-villaviciosa-no-pue/"
     }
   ]
 }
