@@ -1,5 +1,232 @@
 [
   {
+    "id": "vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puen",
+    "url": "/pilona/vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puen/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "VOX pide al Ministerio datos sobre el puente Sella",
+    "entradilla": "El grupo municipal denuncia que ni el Ayuntamiento ni los vecinos saben cuándo acabarán las obras ni qué molestias quedan por venir.",
+    "cuerpo": [
+      "VOX en el Ayuntamiento de Ribadesella exige al Ministerio de Transportes que informe con detalle sobre las obras de rehabilitación del puente sobre el río Sella: plazos, incidencias previstas y medidas para reducir los trastornos que sufren a diario vecinos, comerciantes y trabajadores.",
+      "El partido señala, según sus propias explicaciones, que el Gobierno municipal reconoce no recibir del Ministerio un flujo de información adecuado sobre una obra que afecta de lleno a la movilidad y a la actividad económica del concejo.",
+      "VOX pide además al Ayuntamiento que adopte una actitud activa: que reclame esa información y la traslade a la ciudadanía con suficiente antelación, de modo que los vecinos sepan a qué atenerse mientras duren los trabajos."
+    ],
+    "apunte": "La obra es necesaria, dicen todos; el problema es que nadie sabe cuándo termina.",
+    "enVeinte": [
+      "VOX Ribadesella reclama al Ministerio de Transportes información precisa sobre las obras de rehabilitación del puente sobre el Sella.",
+      "El partido denuncia que el Gobierno municipal reconoce no recibir datos adecuados de Transportes sobre plazos ni incidencias.",
+      "VOX pide también al Ayuntamiento que exija esa información y la comunique a los vecinos antes de que les afecte."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Mientras no haya plazos claros ni aviso de cortes, los vecinos de Ribadesella seguirán organizando su día a ciegas cada vez que las obras alteren el tráfico en el puente.",
+    "etiquetas": [
+      "puente Sella",
+      "Ribadesella",
+      "obras",
+      "VOX"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/PUENTE-RIBADESELLA-obras-6-Octubre-6-scaled.jpg",
+    "fecha": "2026-10-08T14:07:04.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/08/10/2026/vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puente-de-ribadesella/",
+      "titularOriginal": "VOX reclama a Transportes información precisa sobre las obras del puente de Ribadesella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "VOX asks the Ministry for data on the Sella bridge",
+        "entradilla": "The municipal group denounces that neither the council nor residents know when the works will end or what disruption is still to come.",
+        "cuerpo": [
+          "VOX on the Ribadesella council demands that the Ministry of Transport provide detailed information about the rehabilitation works on the bridge over the river Sella: timelines, expected incidents and measures to reduce the daily disruption suffered by residents, traders and workers.",
+          "The party states, according to its own account, that the municipal government admits it does not receive adequate information from the Ministry about works that directly affect mobility and economic activity in the municipality.",
+          "VOX also asks the council to take an active stance: to demand that information and pass it on to residents with sufficient notice, so that people know what to expect for the duration of the works."
+        ],
+        "apunte": "The works are necessary, everyone agrees; the problem is that nobody knows when they will end.",
+        "enVeinte": [
+          "VOX Ribadesella demands precise information from the Ministry of Transport about the rehabilitation works on the Sella bridge.",
+          "The party denounces that the municipal government admits it is not receiving adequate data from Transport about timelines or expected incidents.",
+          "VOX also asks the council to demand that information and communicate it to residents before it affects them."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Until there are clear timelines and advance warning of closures, Ribadesella residents will keep planning their day in the dark every time the works disrupt traffic on the bridge.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "VOX demande au Ministère des données sur le pont Sella",
+        "entradilla": "Le groupe municipal dénonce que ni la mairie ni les habitants ne savent quand les travaux se termineront ni quelles perturbations restent à venir.",
+        "cuerpo": [
+          "VOX au sein de la mairie de Ribadesella exige du Ministère des Transports qu'il fournisse des informations détaillées sur les travaux de réhabilitation du pont sur le río Sella : délais, incidents prévus et mesures pour réduire les désagréments que subissent au quotidien habitants, commerçants et travailleurs.",
+          "Le parti indique, selon ses propres explications, que le gouvernement municipal reconnaît ne pas recevoir du Ministère un flux d'information adéquat sur des travaux qui affectent pleinement la mobilité et l'activité économique de la commune.",
+          "VOX demande également à la mairie d'adopter une attitude active : réclamer cette information et la transmettre aux citoyens suffisamment à l'avance, afin que les habitants sachent à quoi s'en tenir pendant la durée des travaux."
+        ],
+        "apunte": "Les travaux sont nécessaires, tout le monde le reconnaît ; le problème, c'est que personne ne sait quand ils se termineront.",
+        "enVeinte": [
+          "VOX Ribadesella réclame au Ministère des Transports des informations précises sur les travaux de réhabilitation du pont sur le Sella.",
+          "Le parti dénonce que le gouvernement municipal reconnaît ne pas recevoir de données adéquates des Transports sur les délais ni les incidents.",
+          "VOX demande également à la mairie d'exiger cette information et de la communiquer aux habitants avant qu'elle ne les affecte."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Tant qu'il n'y aura pas de délais clairs ni d'avertissement sur les fermetures, les habitants de Ribadesella continueront d'organiser leur journée à l'aveugle chaque fois que les travaux perturberont la circulation sur le pont.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "VOX fordert vom Ministerium Daten zur Sella-Brücke",
+        "entradilla": "Die Gemeinderatsfraktion kritisiert, dass weder das Rathaus noch die Anwohner wissen, wann die Arbeiten enden oder welche Beeinträchtigungen noch kommen werden.",
+        "cuerpo": [
+          "VOX im Rathaus von Ribadesella fordert das Verkehrsministerium auf, detaillierte Informationen zu den Sanierungsarbeiten an der Brücke über den río Sella zu liefern: Zeitpläne, erwartete Zwischenfälle und Maßnahmen zur Verringerung der täglichen Belastungen für Anwohner, Händler und Arbeitnehmer.",
+          "Die Partei erklärt nach eigenen Angaben, dass die Gemeindeverwaltung einräumt, vom Ministerium keine ausreichenden Informationen über Bauarbeiten zu erhalten, die die Mobilität und das Wirtschaftsleben der Gemeinde unmittelbar betreffen.",
+          "VOX fordert das Rathaus außerdem auf, eine aktive Haltung einzunehmen: diese Informationen einzufordern und sie rechtzeitig an die Bürgerinnen und Bürger weiterzugeben, damit die Anwohner wissen, womit sie während der Bauarbeiten zu rechnen haben."
+        ],
+        "apunte": "Die Arbeiten seien notwendig, darin sind sich alle einig; das Problem ist, dass niemand weiß, wann sie enden.",
+        "enVeinte": [
+          "VOX Ribadesella fordert vom Verkehrsministerium genaue Informationen zu den Sanierungsarbeiten an der Sella-Brücke.",
+          "Die Partei kritisiert, dass die Gemeindeverwaltung zugibt, keine ausreichenden Daten vom Ministerium über Zeitpläne oder Zwischenfälle zu erhalten.",
+          "VOX fordert das Rathaus außerdem auf, diese Informationen einzufordern und sie den Anwohnern mitzuteilen, bevor sie betroffen sind."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Solange es keine klaren Zeitpläne und keine Vorankündigung von Sperrungen gibt, werden die Bewohner von Ribadesella ihren Alltag weiter im Ungewissen planen müssen, sobald die Bauarbeiten den Verkehr auf der Brücke beeinträchtigen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "las obras de rehabilitacion del puente sobre el",
+      "obras de rehabilitacion del puente sobre el rio",
+      "de rehabilitacion del puente sobre el rio sella"
+    ]
+  },
+  {
+    "id": "oro-para-toya-bretin-en-la-gran-semana-anglo-arabe-de-sevilla",
+    "url": "/pilona/oro-para-toya-bretin-en-la-gran-semana-anglo-arabe-de-sevilla/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Yegua de Piloña, campeona en Sevilla",
+    "entradilla": "La cuadra 'Toya Bretin' se trae el oro de Ecunarcea 2026, el gran certamen nacional de caballos Anglo Árabes.",
+    "cuerpo": [
+      "Una yegua criada en Piloña ganó la categoría reina de Ecunarcea 2026, la semana del caballo Anglo Árabe que se celebra en Sevilla y que es una de las citas más importantes del sector en España.",
+      "El premio fue para la cuadra 'Toya Bretin', nombre que ya suena fuerte en los círculos ecuestres y que ahora lleva el concejo de Piloña al mapa nacional de la cría caballar."
+    ],
+    "apunte": "De los praos de Piloña al pódium de Sevilla: hay cuadras en el concejo que no tienen nada que envidiarle a nadie.",
+    "enVeinte": [
+      "Una yegua de la cuadra piloñesa 'Toya Bretin' ganó el oro en Ecunarcea 2026, la gran semana del caballo Anglo Árabe celebrada en Sevilla.",
+      "El galardón sitúa a Piloña entre los referentes de la cría caballar a nivel nacional.",
+      "El certamen sevillano es uno de los eventos equestres más relevantes de España para esta raza."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "prau",
+      "como": "prau (llano, sin diptongo)",
+      "definicion": "Prado en asturiano. En la zona, los caballos y el ganado se crían en los praos, fincas de hierba que en Piloña abundan por sus valles húmedos. Sin praos no hay cuadra que valga."
+    },
+    "porQue": "Un oro nacional en una disciplina tan competitiva como la cría del Anglo Árabe pone el nombre de Piloña en el mapa ecuestre de España y da valor a una actividad ganadera con raíces profundas en el concejo.",
+    "etiquetas": [
+      "caballos",
+      "Piloña",
+      "Ecunarcea",
+      "Anglo Árabe"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/08/2026100812212892021.jpg",
+    "fecha": "2026-10-08T10:22:27.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/toya-bretin-anglo-arabe-sevilla/20261008122227104410.html",
+      "titularOriginal": "Oro para \"Toya Bretin\" en la gran semana Anglo Árabe de Sevilla"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Mare from Piloña, champion in Seville",
+        "entradilla": "The 'Toya Bretin' stud takes gold at Ecunarcea 2026, the leading national competition for Anglo-Arab horses.",
+        "cuerpo": [
+          "A mare bred in Piloña won the top category at Ecunarcea 2026, the Anglo-Arab horse week held in Seville and one of the most important events in the sector in Spain.",
+          "The prize went to the 'Toya Bretin' stud, a name that is already making waves in equestrian circles and that now puts the municipality of Piloña on the national map of horse breeding."
+        ],
+        "apunte": "From the praos (meadows) of Piloña to the podium in Seville: there are studs in the municipality that have nothing to envy anyone.",
+        "enVeinte": [
+          "A mare from the Piloña stud 'Toya Bretin' took gold at Ecunarcea 2026, the great Anglo-Arab horse week held in Seville.",
+          "The award places Piloña among the national benchmarks for horse breeding.",
+          "The Seville competition is one of the most important equestrian events in Spain for this breed."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (flat, no diphthong)",
+          "definicion": "Meadow in Asturian. In this area, horses and livestock are raised on the praos, grassy plots that are plentiful in Piloña thanks to its humid valleys. Without praos, no stud is worth much."
+        },
+        "porQue": "A national gold in a discipline as competitive as Anglo-Arab breeding puts Piloña's name on Spain's equestrian map and adds value to a farming activity with deep roots in the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Une jument de Piloña, championne à Séville",
+        "entradilla": "L'écurie 'Toya Bretin' remporte l'or à Ecunarcea 2026, le grand concours national du cheval Anglo-Arabe.",
+        "cuerpo": [
+          "Une jument élevée à Piloña a remporté la catégorie reine d'Ecunarcea 2026, la semaine du cheval Anglo-Arabe qui se tient à Séville et qui est l'une des manifestations les plus importantes du secteur en Espagne.",
+          "Le prix est revenu à l'écurie 'Toya Bretin', un nom qui résonne déjà fort dans les milieux équestres et qui place désormais la commune de Piloña sur la carte nationale de l'élevage chevalin."
+        ],
+        "apunte": "Des praos (prés) de Piloña au podium de Séville : il existe dans la commune des écuries qui n'ont rien à envier à personne.",
+        "enVeinte": [
+          "Une jument de l'écurie piloñaise 'Toya Bretin' a décroché l'or à Ecunarcea 2026, la grande semaine du cheval Anglo-Arabe célébrée à Séville.",
+          "Cette récompense place Piloña parmi les références nationales de l'élevage chevalin.",
+          "Le concours sévillan est l'un des événements équestres les plus importants d'Espagne pour cette race."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (plat, sans diphtongue)",
+          "definicion": "Pré en asturien. Dans la région, les chevaux et le bétail sont élevés dans les praos, des parcelles herbeuses qui abondent à Piloña grâce à ses vallées humides. Sans praos, point d'écurie qui vaille."
+        },
+        "porQue": "Un or national dans une discipline aussi compétitive que l'élevage de l'Anglo-Arabe place le nom de Piloña sur la carte équestre de l'Espagne et valorise une activité d'élevage aux racines profondes dans la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Stute aus Piloña wird Siegerin in Sevilla",
+        "entradilla": "Der Stall 'Toya Bretin' holt Gold bei Ecunarcea 2026, dem bedeutenden nationalen Wettbewerb für Anglo-Arabische Pferde.",
+        "cuerpo": [
+          "Eine in Piloña gezogene Stute gewann die Königskategorie bei Ecunarcea 2026, der Woche des Anglo-Arabischen Pferdes in Sevilla, die zu den wichtigsten Veranstaltungen der Branche in Spanien zählt.",
+          "Der Preis ging an den Stall 'Toya Bretin', ein Name, der in Reiterkreisen bereits einen guten Klang hat und die Gemeinde Piloña nun auf die nationale Landkarte der Pferdezucht bringt."
+        ],
+        "apunte": "Von den praos (Wiesen) Piloñas aufs Siegertreppchen in Sevilla: Es gibt in der Gemeinde Ställe, die sich vor niemandem zu verstecken brauchen.",
+        "enVeinte": [
+          "Eine Stute des Piloñaer Stalls 'Toya Bretin' holte Gold bei Ecunarcea 2026, der großen Woche des Anglo-Arabischen Pferdes in Sevilla.",
+          "Die Auszeichnung stellt Piloña unter die nationalen Referenzen der Pferdezucht.",
+          "Der Sevillaner Wettbewerb ist einer der bedeutendsten Reitsportevents Spaniens für diese Rasse."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (flach ausgesprochen, kein Diphthong)",
+          "definicion": "Wiese auf Asturianisch. In der Region werden Pferde und Vieh auf den praos großgezogen, Grünflächen, die in Piloña dank seiner feuchten Täler in großer Zahl vorhanden sind. Ohne praos ist kein Stall der Rede wert."
+        },
+        "porQue": "Ein nationaler Titel in einer so wettbewerbsintensiven Disziplin wie der Anglo-Araberzucht setzt den Namen Piloña auf die Reitsportkarte Spaniens und wertet eine landwirtschaftliche Tätigkeit auf, die in der Gemeinde tiefe Wurzeln hat.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-se-convierte-en-el-epicentro-de-la-acuarela-con-la-vii-ed",
     "url": "/villaviciosa/villaviciosa-se-convierte-en-el-epicentro-de-la-acuarela-con-la-vii-ed/",
     "concejo": "Villaviciosa",
@@ -25452,123 +25679,6 @@
         "palabra": null,
         "porQue": "",
         "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "nueva-imagen-para-el-area-de-la-cueva-en-pilona",
-    "url": "/pilona/nueva-imagen-para-el-area-de-la-cueva-en-pilona/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "actualidad",
-    "titular": "El área de La Cueva estrena nueva imagen",
-    "entradilla": "Piloña ha invertido más de 300.000 euros en reformar esta zona.",
-    "cuerpo": [
-      "El Ayuntamiento de Piloña ha acometido la renovación del área de La Cueva con una inversión que supera los 300.000 euros.",
-      "Las obras han transformado el aspecto de este espacio, aunque el material disponible no detalla qué trabajos concretos se han ejecutado ni cuándo han terminado."
-    ],
-    "apunte": "",
-    "enVeinte": [
-      "El Ayuntamiento de Piloña ha renovado el área de La Cueva.",
-      "La inversión supera los 300.000 euros.",
-      "No hay más detalles disponibles sobre el alcance de las obras."
-    ],
-    "cifra": {
-      "numero": "300.000",
-      "unidad": "euros",
-      "glosa": "Es lo que ha destinado el Ayuntamiento de Piloña a renovar el área de La Cueva. Superar esa cifra en una obra local indica una intervención de cierto calado para un concejo del tamaño de Piloña."
-    },
-    "palabra": null,
-    "porQue": "Si frecuentas el área de La Cueva, te vas a encontrar un espacio con cara nueva pagado con dinero del municipio.",
-    "etiquetas": [
-      "Piloña",
-      "obras",
-      "La Cueva",
-      "inversión municipal"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "La Cueva, Piloña",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/10/2026071013164032818.jpg",
-    "fecha": "2026-07-10T13:23:05.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/nueva-imagen-area-cueva-pilona/20260710152305099339.html",
-      "titularOriginal": "Nueva imagen para el área de La Cueva, en Piloña"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The La Cueva area gets a new look",
-        "entradilla": "Piloña has invested more than 300,000 euros in renovating this area.",
-        "cuerpo": [
-          "Piloña council has carried out the renovation of the La Cueva area with an investment of over 300,000 euros.",
-          "The works have transformed the appearance of this space, although the available information does not detail which specific works were carried out or when they were completed."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Piloña council has renovated the La Cueva area.",
-          "The investment exceeds 300,000 euros.",
-          "No further details are available about the scope of the works."
-        ],
-        "cifra": {
-          "numero": "300,000",
-          "unidad": "euros",
-          "glosa": "This is what Piloña council has put into renovating the La Cueva area. Exceeding that figure on a local project points to a substantial intervention for a municipality the size of Piloña."
-        },
-        "palabra": null,
-        "porQue": "If you use the La Cueva area, you will find a space with a fresh look, paid for with public money from the municipality.",
-        "lugar": "La Cueva, Piloña",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le site de La Cueva fait peau neuve",
-        "entradilla": "Piloña a investi plus de 300 000 euros dans la rénovation de cette zone.",
-        "cuerpo": [
-          "La mairie de Piloña a entrepris la rénovation du site de La Cueva avec un investissement de plus de 300 000 euros.",
-          "Les travaux ont transformé l'aspect de cet espace, mais les informations disponibles ne précisent ni les travaux exacts réalisés ni la date de leur achèvement."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "La mairie de Piloña a rénové le site de La Cueva.",
-          "L'investissement dépasse les 300 000 euros.",
-          "Aucun détail supplémentaire n'est disponible sur l'étendue des travaux."
-        ],
-        "cifra": {
-          "numero": "300 000",
-          "unidad": "euros",
-          "glosa": "C'est ce que la mairie de Piloña a consacré à la rénovation du site de La Cueva. Dépasser ce montant pour un chantier local représente une intervention d'une certaine ampleur pour une commune de la taille de Piloña."
-        },
-        "palabra": null,
-        "porQue": "Si vous fréquentez le site de La Cueva, vous allez découvrir un espace au visage tout neuf, financé par l'argent de la commune.",
-        "lugar": "La Cueva, Piloña",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Das Gebiet La Cueva präsentiert sich in neuem Gewand",
-        "entradilla": "Piloña hat mehr als 300.000 Euro in die Neugestaltung dieses Bereichs investiert.",
-        "cuerpo": [
-          "Das Rathaus von Piloña hat die Erneuerung des Gebiets La Cueva mit einer Investition von über 300.000 Euro in Angriff genommen.",
-          "Die Arbeiten haben das Erscheinungsbild dieses Bereichs verändert, obwohl die verfügbaren Informationen weder die konkret ausgeführten Arbeiten noch den Zeitpunkt ihrer Fertigstellung nennen."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Das Rathaus von Piloña hat das Gebiet La Cueva erneuert.",
-          "Die Investition übersteigt 300.000 Euro.",
-          "Weitere Einzelheiten zum Umfang der Arbeiten sind nicht verfügbar."
-        ],
-        "cifra": {
-          "numero": "300.000",
-          "unidad": "Euro",
-          "glosa": "So viel hat das Rathaus von Piloña in die Erneuerung des Gebiets La Cueva gesteckt. Dass ein lokales Bauvorhaben diese Summe überschreitet, deutet auf einen Eingriff von erheblichem Ausmaß für eine Gemeinde in der Größe von Piloña hin."
-        },
-        "palabra": null,
-        "porQue": "Wer das Gebiet La Cueva regelmäßig besucht, wird einen Bereich in neuem Gewand vorfinden – finanziert aus öffentlichen Mitteln der Gemeinde.",
-        "lugar": "La Cueva, Piloña",
         "precio": ""
       }
     }

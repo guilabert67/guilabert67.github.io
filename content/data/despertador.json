@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-10-08T09:23:53.521Z",
+  "fecha": "2026-10-08T16:51:19.168Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Nieblastur vuelve a Villaviciosa por séptima vez: acuarela en el Pilar este puente.",
-      "enlace": "/villaviciosa/villaviciosa-se-convierte-en-el-epicentro-de-la-acuarela-con-la-vii-ed/"
+      "concejo": "Piloña",
+      "frase": "El puente Sella sigue sin fecha de fin y nadie da explicaciones.",
+      "enlace": "/pilona/vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puen/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Una yegua de Piloña gana el campeonato nacional de Anglo Árabes en Sevilla.",
+      "enlace": "/pilona/oro-para-toya-bretin-en-la-gran-semana-anglo-arabe-de-sevilla/"
     }
   ]
 }
