@@ -1,5 +1,231 @@
 [
   {
+    "id": "ayudas-municipales-en-villaviciosa-para-el-deporte-y-los-festejos",
+    "url": "/villaviciosa/ayudas-municipales-en-villaviciosa-para-el-deporte-y-los-festejos/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre ayudas para deporte y festejos",
+    "entradilla": "El Ayuntamiento amplía el presupuesto destinado a las asociaciones locales que organicen actividades deportivas o festivas.",
+    "cuerpo": [
+      "Los clubs, peñas y asociaciones de Villaviciosa pueden pedir ya subvenciones municipales para financiar actividades deportivas y festejos. El plazo está abierto y el dinero disponible es mayor que en convocatorias anteriores.",
+      "La ampliación del presupuesto es la principal novedad de esta edición, según recoge El Comercio. El objetivo es fortalecer el tejido asociativo del concejo."
+    ],
+    "apunte": "Más dinero y el plazo abierto: rara vez coinciden las dos cosas a la vez.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ha abierto el plazo para solicitar subvenciones destinadas a deporte y festejos.",
+      "La convocatoria de este año aumenta el presupuesto respecto a ediciones anteriores.",
+      "Pueden solicitarlas las asociaciones locales que organicen actividades en esos ámbitos."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si tu asociación organiza un torneo, una romería o cualquier festejo, ahora mismo hay dinero público al que puedes optar: el plazo ya corre.",
+    "etiquetas": [
+      "subvenciones",
+      "Villaviciosa",
+      "asociaciones",
+      "deporte"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/09/rodiles-villaviciosa-RdWCrHwLXXH5SJVLL6T5XCJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-09T08:33:27.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-subvenciones-clubes-deportivos-20261009103025-nt.html",
+      "titularOriginal": "Ayudas municipales en Villaviciosa para el deporte y los festejos"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens grants for sport and local festivities",
+        "entradilla": "The council is increasing the budget allocated to local associations that organise sporting or festive activities.",
+        "cuerpo": [
+          "Clubs, peñas and associations in Villaviciosa can now apply for municipal grants to fund sporting activities and festivities. The application period is open and the available funding is greater than in previous calls.",
+          "The budget increase is the main novelty of this edition, according to El Comercio. The aim is to strengthen the associative fabric of the municipality."
+        ],
+        "apunte": "More money and an open application period: it is rare for both to coincide at the same time.",
+        "enVeinte": [
+          "The Villaviciosa council has opened the application period for grants earmarked for sport and festivities.",
+          "This year's call increases the budget compared to previous editions.",
+          "Local associations that organise activities in those fields are eligible to apply."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If your association organises a tournament, a romería or any kind of festivity, there is public money available to apply for right now: the deadline is already running.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre des aides pour le sport et les fêtes locales",
+        "entradilla": "La mairie augmente le budget destiné aux associations locales qui organisent des activités sportives ou festives.",
+        "cuerpo": [
+          "Les clubs, peñas et associations de Villaviciosa peuvent désormais demander des subventions municipales pour financer des activités sportives et des fêtes. Le délai est ouvert et les fonds disponibles sont plus importants que lors des appels précédents.",
+          "L'augmentation du budget est la principale nouveauté de cette édition, selon El Comercio. L'objectif est de renforcer le tissu associatif de la commune."
+        ],
+        "apunte": "Plus d'argent et un délai ouvert : il est rare que les deux coïncident en même temps.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a ouvert le délai pour demander des subventions destinées au sport et aux fêtes.",
+          "L'appel de cette année augmente le budget par rapport aux éditions précédentes.",
+          "Les associations locales qui organisent des activités dans ces domaines peuvent en faire la demande."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si votre association organise un tournoi, une romería ou toute autre fête, il existe en ce moment des fonds publics auxquels vous pouvez prétendre : le délai court déjà.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa öffnet Fördertöpfe für Sport und lokale Feste",
+        "entradilla": "Das Rathaus erhöht das Budget für lokale Vereine, die sportliche oder festliche Aktivitäten organisieren.",
+        "cuerpo": [
+          "Clubs, Peñas und Vereine in Villaviciosa können ab sofort Gemeindesubventionen beantragen, um Sportveranstaltungen und Feste zu finanzieren. Die Antragsfrist ist offen, und die verfügbaren Mittel sind höher als bei früheren Ausschreibungen.",
+          "Die Aufstockung des Budgets ist die wichtigste Neuerung dieser Ausgabe, wie El Comercio berichtet. Ziel ist es, das Vereinsleben der Gemeinde zu stärken."
+        ],
+        "apunte": "Mehr Geld und eine offene Antragsfrist: Selten fallen beide Dinge gleichzeitig zusammen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa hat die Antragsfrist für Zuschüsse für Sport und Feste eröffnet.",
+          "Die diesjährige Ausschreibung erhöht das Budget gegenüber früheren Ausgaben.",
+          "Lokale Vereine, die Aktivitäten in diesen Bereichen organisieren, können einen Antrag stellen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Ihr Verein ein Turnier, eine Romería oder irgendein Fest organisiert, gibt es jetzt öffentliche Mittel, die Sie beantragen können: die Frist läuft bereits.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "buena-musica-buen-rollu",
+    "url": "/pilona/buena-musica-buen-rollu/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Casapalma vuelve a Piloña y lo borda",
+    "entradilla": "El dúo cántabro mezcla canción tradicional y electrónica con una elegancia que ya tienen ganada a sus fans de Infiesto.",
+    "cuerpo": [
+      "Irene Atienza (voz) y Yoel Molina (guitarra y producción) volvieron a subirse al escenario de La Benéfica de Piloña el 3 de julio. Casapalma —nombre de la casa familiar de Irene en el Valle Cabuérniga— lleva dos discos publicados y cada actuación confirma que van a más.",
+      "Su propuesta parte de grabaciones reales: fragmentos de cintas en las que los abuelos de Irene y otros familiares cantaban jotas y bailes de la montaña cántabra. Con eso de base, el dúo construye temas de baile con producción electrónica que suenan modernos sin perder el poso de donde vienen. En esta ocasión les acompañó a la pandereta Aurelio, y Nacho Prada, cantante del grupo burgalés El Nido, se sumó en un lligero que grabaron juntos este año.",
+      "La crónica es de Bea G. Doral, publicada por La Benéfica de Piloña, y lo resume sin rodeos: quien los vio bailó hasta que le dolió el cuerpo y salió sin voz. Si vuelven, ya saben dónde apuntarse."
+    ],
+    "apunte": "Bailaron hasta quedarse sin voz y sin zapatos: eso ya es crítica suficiente.",
+    "enVeinte": [
+      "El dúo cántabro Casapalma actuó en La Benéfica de Piloña el 3 de julio y dejó al público entregado.",
+      "Su música mezcla grabaciones familiares de canción tradicional montañesa con producción electrónica bailable.",
+      "La crónica firmada por Bea G. Doral concluye que la calidad del dúo es ya incuestionable y pide que avisen cuando vuelvan."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llixeru",
+      "como": "llí-xe-ru",
+      "definicion": "Baile y canción tradicional del área cántabro-asturiana, de ritmo vivo y letra ligera, emparentado con la jota de montaña. Casapalma recupera llixeros de viejas cintas familiares y los transforma con producción electrónica."
+    },
+    "porQue": "La Benéfica de Piloña sigue apostando por traer música de raíz con criterio: quien se la perdió tiene motivos para estar pendiente de la próxima fecha.",
+    "etiquetas": [
+      "Casapalma",
+      "música en vivo",
+      "La Benéfica",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "La Benéfica de Piloña",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2026/09/Casap1-650x1300.jpg",
+    "fecha": "2026-10-09T07:30:34.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/buena-musica-buen-rollu/?utm_source=rss&utm_medium=rss&utm_campaign=buena-musica-buen-rollu",
+      "titularOriginal": "Buena música, buen rollu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Casapalma returns to Piloña and delivers",
+        "entradilla": "The Cantabrian duo blends traditional song and electronics with an elegance that has already won over their fans in Infiesto.",
+        "cuerpo": [
+          "Irene Atienza (vocals) and Yoel Molina (guitar and production) took to the stage at La Benéfica de Piloña again on 3 July. Casapalma — named after Irene's family home in Valle Cabuérniga — has two records out, and every show confirms they are only getting better.",
+          "Their approach draws on real recordings: fragments of tapes on which Irene's grandparents and other relatives sang jotas and dances from the Cantabrian mountains. From that foundation, the duo builds tracks for dancing with electronic production that sound contemporary without losing the depth of where they come from. On this occasion Aurelio joined them on the tambourine, and Nacho Prada, singer of the Burgos group El Nido, took part in a lligero (a lively traditional song-and-dance form) they recorded together this year.",
+          "The review is by Bea G. Doral, published by La Benéfica de Piloña, and puts it plainly: those who saw them danced until their bodies ached and left without a voice. If they come back, you know where to sign up."
+        ],
+        "apunte": "They danced until they lost their voices and their shoes: that is already review enough.",
+        "enVeinte": [
+          "The Cantabrian duo Casapalma performed at La Benéfica de Piloña on 3 July and left the audience completely won over.",
+          "Their music blends family recordings of traditional mountain song with danceable electronic production.",
+          "The review signed by Bea G. Doral concludes that the duo's quality is now beyond question and asks to be told when they return."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llixeru",
+          "como": "llí-xe-ru",
+          "definicion": "A traditional song and dance from the Cantabrian-Asturian area, with a lively rhythm and light lyrics, related to the mountain jota. Casapalma recovers llixeros from old family tapes and transforms them with electronic production."
+        },
+        "porQue": "La Benéfica de Piloña keeps bringing in roots music with real discernment: anyone who missed this one has good reason to watch out for the next date.",
+        "lugar": "La Benéfica de Piloña",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Casapalma revient à Piloña et fait merveille",
+        "entradilla": "Le duo cantabrique mêle chanson traditionnelle et électronique avec une élégance qui a déjà conquis ses fans d'Infiesto.",
+        "cuerpo": [
+          "Irene Atienza (voix) et Yoel Molina (guitare et production) sont remontés sur la scène de La Benéfica de Piloña le 3 juillet. Casapalma — nom de la maison familiale d'Irene dans la Valle Cabuérniga — a deux disques à son actif, et chaque concert confirme qu'ils ne font que progresser.",
+          "Leur démarche part d'enregistrements réels : des fragments de cassettes sur lesquelles les grands-parents d'Irene et d'autres membres de sa famille chantaient des jotas et des danses de la montagne cantabrique. Sur cette base, le duo construit des titres dansants avec une production électronique qui sonnent modernes sans perdre la profondeur de leurs origines. À cette occasion, Aurelio les a rejoints à la tambourine, et Nacho Prada, chanteur du groupe burgalais El Nido, s'est associé à eux pour un lligero (une forme de chanson et danse traditionnelle entraînante) qu'ils ont enregistré ensemble cette année.",
+          "La chronique est signée Bea G. Doral, publiée par La Benéfica de Piloña, et va droit au but : ceux qui les ont vus ont dansé jusqu'à en avoir mal au corps et sont repartis sans voix. S'ils reviennent, vous savez où vous inscrire."
+        ],
+        "apunte": "Ils ont dansé jusqu'à perdre la voix et les chaussures : c'est déjà une critique suffisante.",
+        "enVeinte": [
+          "Le duo cantabrique Casapalma s'est produit à La Benéfica de Piloña le 3 juillet et a laissé le public totalement conquis.",
+          "Leur musique mêle enregistrements familiaux de chanson traditionnelle de montagne et production électronique dansante.",
+          "La chronique signée Bea G. Doral conclut que la qualité du duo est désormais indiscutable et demande à être prévenue à leur prochain passage."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llixeru",
+          "como": "llí-xe-ru",
+          "definicion": "Danse et chanson traditionnelle de l'espace cantabro-asturien, au rythme vif et aux paroles légères, apparentée à la jota de montagne. Casapalma récupère des llixeros de vieilles cassettes familiales et les transforme avec une production électronique."
+        },
+        "porQue": "La Benéfica de Piloña continue de programmer de la musique de racines avec discernement : ceux qui ont raté ce concert ont toutes les raisons de guetter la prochaine date.",
+        "lugar": "La Benéfica de Piloña",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Casapalma kehrt nach Piloña zurück und glänzt",
+        "entradilla": "Das kantabrische Duo verbindet traditionellen Gesang und Elektronik mit einer Eleganz, die ihre Fans in Infiesto längst gewonnen hat.",
+        "cuerpo": [
+          "Irene Atienza (Gesang) und Yoel Molina (Gitarre und Produktion) standen am 3. Juli erneut auf der Bühne der La Benéfica de Piloña. Casapalma — benannt nach Irenes Elternhaus im Valle Cabuérniga — hat zwei Platten veröffentlicht, und jeder Auftritt bestätigt: Die beiden werden immer besser.",
+          "Ihr Ansatz fußt auf echten Aufnahmen: Fragmente von Kassetten, auf denen Irenes Großeltern und andere Familienmitglieder Jotas und Tänze aus dem kantabrischen Gebirge sangen. Darauf aufbauend entwickelt das Duo Tanzstücke mit elektronischer Produktion, die modern klingen, ohne die Wurzeln zu verleugnen. Bei diesem Auftritt begleitete sie Aurelio auf der Tamburin, und Nacho Prada, Sänger der Burgos-Gruppe El Nido, wirkte bei einem lligero (einer lebhaften traditionellen Tanz- und Liedform) mit, den sie gemeinsam in diesem Jahr aufgenommen haben.",
+          "Die Konzertkritik stammt von Bea G. Doral, veröffentlicht von La Benéfica de Piloña, und bringt es ohne Umschweife auf den Punkt: Wer dabei war, tanzte, bis der Körper schmerzte, und verließ den Saal ohne Stimme. Wenn die beiden wiederkommen, wissen Sie, wo Sie sich anmelden müssen."
+        ],
+        "apunte": "Sie tanzten, bis sie Stimme und Schuhe verloren hatten: Das ist Kritik genug.",
+        "enVeinte": [
+          "Das kantabrische Duo Casapalma trat am 3. Juli in der La Benéfica de Piloña auf und begeisterte das Publikum restlos.",
+          "Ihre Musik verbindet familiäre Aufnahmen traditioneller Berggesänge mit tanzbarer elektronischer Produktion.",
+          "Die von Bea G. Doral unterzeichnete Kritik kommt zu dem Schluss, dass die Qualität des Duos inzwischen unbestreitbar ist, und bittet darum, beim nächsten Auftritt rechtzeitig informiert zu werden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llixeru",
+          "como": "llí-xe-ru",
+          "definicion": "Traditioneller Tanz und Gesang aus dem kantabrisch-asturischen Raum, mit lebhaftem Rhythmus und leichten Texten, verwandt mit der Gebirgsjota. Casapalma holt llixeros aus alten Familienkassetten hervor und verwandelt sie mithilfe elektronischer Produktion."
+        },
+        "porQue": "La Benéfica de Piloña setzt weiterhin mit Bedacht auf Wurzelmusik: Wer diesen Abend verpasst hat, hat allen Grund, den nächsten Termin im Auge zu behalten.",
+        "lugar": "La Benéfica de Piloña",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "irene atienza voz y yoel molina guitarra y",
+      "atienza voz y yoel molina guitarra y produccion"
+    ]
+  },
+  {
     "id": "vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puen",
     "url": "/pilona/vox-reclama-a-transportes-informacion-precisa-sobre-las-obras-del-puen/",
     "concejo": "Piloña",
