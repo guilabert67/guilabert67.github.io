@@ -284,6 +284,13 @@ Si el texto de partida es demasiado pobre para escribir con rigor, devuelve "tit
     }
     const texto = (data.content ?? []).map((b) => b.text ?? '').join('');
     const { datos: j, motivo } = extraerJSON(texto);
+    // Titular vacío A PROPÓSITO: el redactor ha leído el material y no ve noticia
+    // (un aviso que es solo un enlace, «Programa Joven Ocúpate»). No es un fallo
+    // técnico: reintentarlo daría lo mismo. La ingesta lo descarta a la primera.
+    if (j && typeof j.titular === 'string' && !j.titular.trim()) {
+      console.log('  · redactor: el material no da para una noticia — se descarta');
+      return { ...resumenExtractivo(item, concejo), motivo: 'el material no da para una noticia', rechazada: true };
+    }
     if (!j || !j.titular) {
       const m = motivo || 'respuesta sin titular';
       console.warn(`  ⚠︎ redactor: ${m} — pieza sin reescribir`);
