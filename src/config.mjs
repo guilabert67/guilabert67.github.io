@@ -830,7 +830,9 @@ export const ingesta = {
   // Cuesta una llamada más por pieza. Sin clave de API se apaga sola y la web
   // sigue publicando las cuatro versiones, con las piezas en español y un aviso.
   traducir: true,
-  maxTokensTraduccion: 3000,
+  // 3000 se quedó corto el 7/10/2026: la traducción de «Villar de Güergu» llegó
+  // cortada y la pieza entró sin traducir. Las tres lenguas van en una sola respuesta.
+  maxTokensTraduccion: 5000,
 
   // Las fotos que vienen en el feed son del medio que las publicó y NO son nuestras.
   // Enlazarlas desde aquí es usar su material sin permiso, así que por defecto se
