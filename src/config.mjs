@@ -492,6 +492,14 @@ export const fuentesRegionales = [
   // 2022-23 y su última pieza es de julio de 2022 a enero de 2023. Un canal
   // válido y muerto es peor que uno caído, porque no da error.
 
+  // Añadidas el 10/10/2026. El canal de Nava de El Fielato no publica nada desde
+  // el 15/09 (comprobado también en su web): no fallaba la ingesta, faltaban
+  // fuentes. Las noticias de comarca de El Fielato no salen en su canal de Nava
+  // (los montes de Nava y Villaviciosa, 25/09, se escaparon por eso). El Búscolu
+  // cubre todo el Oriente: en 100 piezas de 5 días, 15 eran de los cinco concejos.
+  { nombre: 'El Fielato · Comarca de la Sidra', url: 'https://www.elfielato.es/rss/comarca-de-la-sidra/', tipo: 'rss' },
+  { nombre: 'El Búscolu', url: 'https://www.elbuscolu.com/feed', tipo: 'rss' },
+
   { nombre: 'elDiario.es Asturias', url: 'https://www.eldiario.es/rss/asturias/', tipo: 'rss' },
 ];
 
