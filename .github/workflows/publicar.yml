@@ -39,10 +39,18 @@ name: Ediciones de La Prida
 #
 # El minuto 37 no es capricho: en :00 y en :05 se agolpa medio mundo y es cuando
 # más se retrasa la cola. A media hora hay menos cola.
+#
+# MEDIDO EL 08/10/2026: ni siquiera «una vez por hora» se cumple. Del 25/9 al 7/10
+# GitHub lanzó entre 3 y 6 de los 24 disparos diarios: unos 4,5. Con tan pocos, la
+# franja más corta (mediodía, 6 horas) se quedó sin ningún disparo el 5/10 y el 7/10
+# (el 7/10, de 09:08 a 16:50 UTC no llegó ninguno) y esa edición no salió. Por eso
+# ahora se llama cuatro veces por hora, en minutos alejados de :00 y :30. El
+# guardián sigue impidiendo que una edición salga dos veces, y un disparo que no
+# toca termina en unos 15 segundos sin tocar nada.
 
 on:
   schedule:
-    - cron: '37 * * * *' # cada hora; el guardián de abajo decide si toca
+    - cron: '7,22,37,52 * * * *' # cuatro por hora; el guardián de abajo decide si toca
   workflow_dispatch: # botón manual en la pestaña Actions
   push:
     branches: [main]
@@ -83,7 +91,9 @@ jobs:
     # Republicar tras un fallo no arregla nada y ensucia el historial de commits,
     # que es justo lo que el guardián de ediciones usa para saber qué salió ya.
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
-    runs-on: ubuntu-latest
+    # Fijado a 24.04: GitHub cambia «ubuntu-latest» a Ubuntu 26 desde el 19/10/2026,
+    # y un cambio de sistema no debe llegar sin que nadie lo pruebe.
+    runs-on: ubuntu-24.04
     # actions/deploy-pages exige que el trabajo declare el entorno github-pages.
     # Sin estas tres líneas el sitio se construye bien pero el despliegue falla
     # con «Missing environment» y la web se queda como estaba.
@@ -182,7 +192,19 @@ jobs:
           # llevara la fecha de hoy el control de franjas no la reconocería y la
           # repetiría en cada disparo de la noche.
           git diff --staged --quiet || git commit -m "Edición ${{ steps.reloj.outputs.edicion }} del ${{ steps.reloj.outputs.fecha_edicion }}"
-          git push
+          # El 7/10/2026 a las 16:53 UTC GitHub contestó «Internal Server Error» al
+          # push, la edición entera se perdió y la web se quedó 13 horas sin
+          # actualizar. Un fallo así de GitHub suele durar segundos: se reintenta
+          # cuatro veces, esperando cada vez más, y trayendo antes lo que haya
+          # entrado en main mientras tanto (una subida a mano, por ejemplo).
+          for INTENTO in 1 2 3 4; do
+            if git push; then exit 0; fi
+            echo "::warning::El push falló (intento $INTENTO de 4). Se reintenta."
+            sleep $((INTENTO * 20))
+            git pull --rebase --no-edit || { git rebase --abort; echo "::error::No se pudo juntar con lo que hay en main."; exit 1; }
+          done
+          echo "::error::GitHub rechazó el push cuatro veces. Esta edición no se ha guardado."
+          exit 1
 
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
         if: steps.reloj.outputs.seguir == 'si'
