@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-09T16:30:46.352Z",
+  "fecha": "2026-10-10T07:03:22.877Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Cuarenta vecinos piden vivienda en Villaviciosa en un solo día.",
-      "enlace": "/villaviciosa/el-plan-municipal-de-vivienda-de-villaviciosa-arranca-con-40-solicitud/"
+      "concejo": "Piloña",
+      "frase": "Marta Villa, de Piloña, es tricampeona de España en MTBO.",
+      "enlace": "/pilona/pilona-deporte-suma-varios-podios-en-el-campeonato-de-espana-de-mtbo/"
     },
     {
-      "concejo": "Villaviciosa",
-      "frase": "Javier Gutiérrez será la cara de la Espicha Solidaria frente al Cáncer en noviembre.",
-      "enlace": "/villaviciosa/el-actor-javier-gutierrez-embajador-de-la-sidra-de-asturias-solidaria/"
+      "concejo": "Piloña",
+      "frase": "Angelina Huerta, de Coya, gana el concurso de sidra casera de Piloña.",
+      "enlace": "/pilona/la-mejor-sidra-del-concejo-de-pilona-la-de-angelina-huerta-vecina-de-c/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "214.000 euros para mejorar pistas forestales en Nava y Villaviciosa.",
+      "enlace": "/nava/medio-rural-licita-en-214-000-euros-la-mejora-de-infraestructuras-en-m/"
     }
   ]
 }

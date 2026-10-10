@@ -19,10 +19,82 @@
       "ultima": "2026-10-04T08:41:43.139Z"
     },
     "elfielato.es/articulo/pilona/verbena-infiesto-ferias-santa-teresa/20261008193552104413.html": {
-      "intentos": 2,
+      "intentos": 3,
       "titulo": "El viernes, primera verbena de las Ferias y Fiestas de Santa Teresa, en Infiesto",
       "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-09T16:29:21.336Z"
+      "ultima": "2026-10-10T06:44:03.936Z"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=20013498": {
+      "intentos": 1,
+      "titulo": "Noticia - Programa Joven Ocupate 2026",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:51:24.638Z"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19992104": {
+      "intentos": 1,
+      "titulo": "Programación del mes de octubre en la Casa de Cultura \"Marta Portal\"",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:51:26.890Z"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19803508": {
+      "intentos": 1,
+      "titulo": "Actividades deportivas 26-27 y horarios de inscripcion",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:53:47.845Z"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19738827": {
+      "intentos": 1,
+      "titulo": "VII Premio de Novela Corta de Terror e Historias Fantásticas \"Casa de Cultura Marta Portal\"",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:54:17.308Z"
+    },
+    "cabrales.es/detalle-rss?articleid=20032808": {
+      "intentos": 1,
+      "titulo": "Caminando por Cabrales",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:55:45.126Z"
+    },
+    "cabrales.es/detalle-rss?articleid=20030620": {
+      "intentos": 1,
+      "titulo": "Ayudas de Protección a la Familia y Atención a la Pobreza Infantil 2026",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:56:11.230Z"
+    },
+    "cabrales.es/detalle-rss?articleid=20030572": {
+      "intentos": 1,
+      "titulo": "Ayudas contra la pobreza energética",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:56:13.635Z"
+    },
+    "cabrales.es/detalle-rss?articleid=20018035": {
+      "intentos": 1,
+      "titulo": "Cursos gratuitos presenciales en Cabrales",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:56:39.519Z"
+    },
+    "cabrales.es/detalle-rss?articleid=19986805": {
+      "intentos": 1,
+      "titulo": "Nuestra Señora del Rosario-Tielve",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:56:42.648Z"
+    },
+    "cabrales.es/detalle-rss?articleid=19978047": {
+      "intentos": 1,
+      "titulo": "4 subida Cabrales",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:57:22.432Z"
+    },
+    "cabrales.es/detalle-rss?articleid=19868137": {
+      "intentos": 1,
+      "titulo": "La Salud 2026",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T06:57:55.920Z"
+    },
+    "villaviciosa.es/detalle-rss?articleid=19954445": {
+      "intentos": 1,
+      "titulo": "noticia: actividades deportivas 2627",
+      "motivo": "respuesta sin titular (stop_reason: end_turn)",
+      "ultima": "2026-10-10T07:01:34.433Z"
     }
   },
   "descartadas": {
@@ -140,6 +212,46 @@
       "motivo": "duplicado de /villaviciosa/el-plan-municipal-de-vivienda-de-villaviciosa-arranca-con-40-solicitud/",
       "fecha": "2026-10-09T16:30:44.422Z",
       "titulo": "El Plan Municipal de Vivienda de Villaviciosa suma la colaboración de la ciudadanía"
+    },
+    "elbuscolu.com/noticias-ribadesella/el-puente-de-ribadesella-se-cerrara-totalmente-al-trafico-este-jueves-durante-siete-horas-11276302.html": {
+      "motivo": "duplicado de /pilona/corte-de-siete-horas-de-duracion-en-el-puente-de-ribadesella-para-este/",
+      "fecha": "2026-10-10T06:43:27.261Z",
+      "titulo": "El puente de Ribadesella se cerrará totalmente al tráfico este jueves durante siete horas"
+    },
+    "coperibadesella.com/22/09/2026/infiesto-estrena-dos-nuevas-baterias-de-reciclaje-soterradas-en-dos-de-sus-plazas": {
+      "motivo": "duplicado de /pilona/pilona-incorpora-dos-nuevas-baterias-de-reciclaje-en-infiesto-y-la-cue/",
+      "fecha": "2026-10-10T06:43:27.261Z",
+      "titulo": "Infiesto estrena dos nuevas baterías de reciclaje soterradas en dos de sus plazas"
+    },
+    "coperibadesella.com/11/08/2026/el-principado-plantara-14-000-pinos-en-la-cuesta-de-coya-y-ques-afectada-por-un-incendio-forestal": {
+      "motivo": "duplicado de /pilona/licitada-en-111-000-euros-la-reforestacion-de-13-hectareas-del-monte-c/",
+      "fecha": "2026-10-10T06:43:27.262Z",
+      "titulo": "El Principado plantará 14.000 pinos en la Cuesta de Coya y Ques afectada por un incendio forestal"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-recibe-40-solicitudes-en-el-primer-dia-de-participacion-de-su-plan-municipal-de-vivienda-11276382.html": {
+      "motivo": "duplicado de /villaviciosa/el-plan-municipal-de-vivienda-de-villaviciosa-arranca-con-40-solicitud/",
+      "fecha": "2026-10-10T06:43:27.264Z",
+      "titulo": "Villaviciosa recibe 40 solicitudes en el primer día de participación de su Plan Municipal de Vivienda"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-convoca-ayudas-para-festejos-populares-y-deporte-por-un-total-de-76-000-euros-11276370.html": {
+      "motivo": "duplicado de /villaviciosa/ayudas-municipales-en-villaviciosa-para-el-deporte-y-los-festejos/",
+      "fecha": "2026-10-10T06:43:27.264Z",
+      "titulo": "Villaviciosa convoca ayudas para festejos populares y deporte por un total de 76.000 euros"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-inicia-la-elaboracion-de-su-primer-plan-municipal-de-vivienda-con-participacion-ciudadana-11276304.html": {
+      "motivo": "duplicado de /villaviciosa/villaviciosa-prepara-su-primer-plan-municipal-de-vivienda-con-la-parti/",
+      "fecha": "2026-10-10T06:43:27.265Z",
+      "titulo": "Villaviciosa inicia la elaboración de su primer Plan Municipal de Vivienda con participación ciudadana"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-elegira-el-18-de-octubre-la-mejor-sidra-casera-de-asturias-11276300.html": {
+      "motivo": "duplicado de /villaviciosa/la-mejor-sidra-casera-de-toda-asturias-a-concurso-en-villaviciosa/",
+      "fecha": "2026-10-10T06:43:27.265Z",
+      "titulo": "Villaviciosa elegirá el 18 de octubre la mejor sidra casera de Asturias"
+    },
+    "villaviciosa.es/detalle-rss?articleid=19918646": {
+      "motivo": "duplicado de /villaviciosa/villaviciosa-presume-de-sus-ganaderos-y-cultura-rural/",
+      "fecha": "2026-10-10T06:43:27.266Z",
+      "titulo": "Jornada de Homenaje a la Cultura Rural y a los Ganaderos de Villaviciosa"
     }
   }
 }
