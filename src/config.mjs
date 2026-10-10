@@ -857,6 +857,9 @@ export const ingesta = {
   // de una pieza al mes y un umbral corto haría que el aviso saltara siempre.
   diasParaFuenteSeca: 21,       // piezas que se guardan por concejo en cada pasada
   diasDeVigencia: 90,      // en concejos pequeños hay semanas sin noticias: conviene ser generoso
+  // Los avisos de los Ayuntamientos (canales `oficial`) caducan antes: plazos,
+  // matrículas, cortes de carretera. Pasado esto ni entran ni se quedan.
+  diasAvisosOficiales: 10,
   reescribir: true,        // false = solo agregador (titular + extracto + enlace)
 
   // Traducción automática al inglés, francés y alemán en la misma pasada.
