@@ -155,6 +155,12 @@ export function fechaEuropea(texto) {
   return new Date(ms);
 }
 
+function fechaIso(bruto) {
+  if (!bruto) return '';
+  const d = fechaEuropea(bruto) ?? new Date(bruto);
+  return Number.isNaN(d.getTime()) ? '' : d.toISOString();
+}
+
 function fechaDe(bloque) {
   const bruto =
     etiqueta(bloque, 'pubDate') ||
@@ -204,6 +210,11 @@ export function parsearFeed(xml, origen = '') {
       titulo: sinHtml(etiqueta(bloque, 'title')),
       enlace: enlace.trim(),
       ...fechaDe(bloque),
+      // Atom distingue <published> (cuándo se escribió) de <updated> (cuándo se
+      // retocó o se volvió a sacar). Los Ayuntamientos reflotan avisos viejos
+      // cambiando solo <updated>: la ingesta lo usa para saber si un aviso
+      // oficial sigue vivo.
+      actualizado: fechaIso(etiqueta(bloque, 'updated')),
       resumenOriginal: sinHtml(cuerpo).slice(0, 2400),
       imagen: imagenDe(bloque),
       categorias: contenidos(bloque, 'category', 30).map((c) => sinHtml(c)),
