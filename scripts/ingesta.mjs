@@ -251,7 +251,23 @@ async function main() {
       // Ayuntamiento: sus avisos son de aquí aunque no nombren el concejo.
       const { url, nombre, oficial = false } = typeof canal === 'string' ? { url: canal } : canal;
       const items = await leerFeed(url, nombre ?? `${c.nombre} · feed propio`);
-      if (oficial) for (const i of items) i.oficial = true;
+      if (oficial) {
+        // Un aviso oficial caduca: «la piscina abre el lunes» del 17/09 no se
+        // puede publicar el 10/10 como si fuera de hoy (pasó el 10/10/2026). Solo
+        // entran los de los últimos `diasAvisosOficiales` días, contando desde la
+        // última vez que el Ayuntamiento lo sacó (<updated>), no desde que lo
+        // escribió: si lo reflota, sigue vivo.
+        const corteOficial = Date.now() - (ingesta.diasAvisosOficiales ?? 10) * 86400000;
+        for (const i of items) {
+          i.oficial = true;
+          if (i.actualizado && Date.parse(i.actualizado) > Date.parse(i.fecha)) i.fecha = i.actualizado;
+        }
+        const vivos = items.filter((i) => !i.sinFecha && Date.parse(i.fecha) >= corteOficial);
+        if (vivos.length < items.length) {
+          console.log(`    ${items.length - vivos.length} avisos de ${nombre ?? 'el Ayuntamiento'} caducados (más de ${ingesta.diasAvisosOficiales ?? 10} días): no entran`);
+        }
+        items.splice(0, items.length, ...vivos);
+      }
       anotarSalud(salud.get(c.slug), items);
       sinFecha += items.filter((i) => i.sinFecha).length;
       const suyas = items.filter(
@@ -305,8 +321,14 @@ async function main() {
   const previas = guardadas.filter((p) => {
     const c = concejos.find((x) => x.slug === p.concejoSlug);
     if (!c) return false;
-    // Lo que publicó el propio Ayuntamiento es de aquí aunque no nombre el concejo.
-    if (p.fuente?.oficial === true) return true;
+    // Lo que publicó el propio Ayuntamiento es de aquí aunque no nombre el concejo,
+    // pero caduca: pasados `diasAvisosOficiales` días se retira del archivo.
+    if (p.fuente?.oficial === true) {
+      const dias = ingesta.diasAvisosOficiales ?? 10;
+      if (Date.now() - Date.parse(p.fecha) <= dias * 86400000) return true;
+      console.log(`  ✗ retirada, aviso oficial caducado (más de ${dias} días): [${c.nombre}] ${p.titular}`);
+      return false;
+    }
     const comoItem = {
       titulo: p.titular ?? '',
       resumenOriginal: `${p.entradilla ?? ''} ${p.cuerpo ?? ''}`,
