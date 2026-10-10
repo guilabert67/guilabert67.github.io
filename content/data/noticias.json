@@ -1,5 +1,259 @@
 [
   {
+    "id": "los-greim-refuerzan-su-preparacion-para-rescates-en-el-urriellu",
+    "url": "/cabrales/los-greim-refuerzan-su-preparacion-para-rescates-en-el-urriellu/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Los GREIM se entrenan en el Urriellu",
+    "entradilla": "Cerca de treinta especialistas de rescate en montaña de la Guardia Civil eligieron el Oriente de Asturias para sus prácticas.",
+    "cuerpo": [
+      "Un grupo de unos treinta efectivos de los Grupos de Rescate e Intervención en Montaña de la Guardia Civil realizó ejercicios de entrenamiento en el macizo del Urriellu, en Cabrales.",
+      "Las prácticas buscan mantener a punto a estos especialistas para actuar en uno de los entornos más exigentes de la cordillera Cantábrica, donde los rescates son habituales cada temporada."
+    ],
+    "apunte": "El Picu Urriellu no descansa ni cuando no hay turistas.",
+    "enVeinte": [
+      "Unos treinta especialistas de rescate en montaña de la Guardia Civil entrenaron en el Urriellu.",
+      "Los GREIM eligieron el Oriente de Asturias para sus prácticas de preparación.",
+      "El objetivo es mantener la capacidad de intervención en uno de los macizos más complejos de Asturias."
+    ],
+    "cifra": {
+      "numero": "~30",
+      "unidad": "efectivos",
+      "glosa": "Cerca de treinta guardias civiles especializados en montaña participaron en las prácticas. Los GREIM son las unidades de élite de la Guardia Civil preparadas para intervenir en accidentes y emergencias en terreno de alta montaña."
+    },
+    "palabra": {
+      "termino": "Urriellu",
+      "como": "u-RRIE-llu, con la elle asturiana",
+      "definicion": "Nombre asturiano del Picu Urriellu, conocido también como Naranjo de Bulnes. Es una torre de caliza de casi 2.519 metros en el macizo de los Picos de Europa, referencia mundial para el alpinismo y símbolo del concejo de Cabrales."
+    },
+    "porQue": "El Urriellu concentra cada año decenas de rescates. Que los GREIM afilen allí su preparación es una garantía directa para quienes practican montaña en el concejo o tienen a alguien que lo hace.",
+    "etiquetas": [
+      "GREIM",
+      "Cabrales",
+      "Urriellu",
+      "rescate en montaña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Urriellu, Cabrales",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/10/2026101012161966074.jpg",
+    "fecha": "2026-10-10T10:18:10.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://www.elfielato.es/articulo/cabrales/greim-entrenan-rescates-urriellu/20261010121810104471.html",
+      "titularOriginal": "Los GREIM refuerzan su preparación para rescates en el Urriellu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The GREIM train on the Urriellu",
+        "entradilla": "Nearly thirty mountain rescue specialists from the Guardia Civil chose the eastern area of Asturias for their exercises.",
+        "cuerpo": [
+          "A group of around thirty members of the Grupos de Rescate e Intervención en Montaña of the Guardia Civil carried out training exercises on the Urriellu massif, in the municipality of Cabrales.",
+          "The exercises aim to keep these specialists ready to operate in one of the most demanding environments in the Cantabrian mountain range, where rescues are a regular occurrence every season."
+        ],
+        "apunte": "Picu Urriellu never rests, even when there are no tourists.",
+        "enVeinte": [
+          "Around thirty mountain rescue specialists from the Guardia Civil trained on the Urriellu.",
+          "The GREIM chose the eastern area of Asturias for their preparation exercises.",
+          "The goal is to maintain the capacity to intervene in one of the most complex massifs in Asturias."
+        ],
+        "cifra": {
+          "numero": "~30",
+          "unidad": "personnel",
+          "glosa": "Nearly thirty Guardia Civil officers specialised in mountain rescue took part in the exercises. The GREIM are the elite units of the Guardia Civil trained to respond to accidents and emergencies in high-mountain terrain."
+        },
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, with the Asturian ll sound",
+          "definicion": "The Asturian name for Picu Urriellu, also known as Naranjo de Bulnes. It is a limestone tower of almost 2,519 metres in the Picos de Europa massif, a world reference for alpinism and a symbol of the municipality of Cabrales."
+        },
+        "porQue": "The Urriellu sees dozens of rescues every year. The GREIM sharpening their skills there is a direct guarantee for anyone who climbs in the municipality or has someone who does.",
+        "lugar": "Urriellu, Cabrales",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les GREIM s'entraînent sur l'Urriellu",
+        "entradilla": "Près de trente spécialistes du secours en montagne de la Guardia Civil ont choisi l'est des Asturies pour leurs exercices.",
+        "cuerpo": [
+          "Un groupe d'une trentaine de membres des Grupos de Rescate e Intervención en Montaña de la Guardia Civil a effectué des exercices d'entraînement sur le massif de l'Urriellu, dans la commune de Cabrales.",
+          "Ces exercices visent à maintenir ces spécialistes en condition pour intervenir dans l'un des environnements les plus exigeants de la cordillère Cantabrique, où les sauvetages sont fréquents à chaque saison."
+        ],
+        "apunte": "Le Picu Urriellu ne se repose jamais, même quand il n'y a pas de touristes.",
+        "enVeinte": [
+          "Une trentaine de spécialistes du secours en montagne de la Guardia Civil se sont entraînés sur l'Urriellu.",
+          "Les GREIM ont choisi l'est des Asturies pour leurs exercices de préparation.",
+          "L'objectif est de maintenir la capacité d'intervention dans l'un des massifs les plus complexes des Asturies."
+        ],
+        "cifra": {
+          "numero": "~30",
+          "unidad": "effectifs",
+          "glosa": "Près de trente gardes civils spécialisés en montagne ont participé aux exercices. Les GREIM sont les unités d'élite de la Guardia Civil formées pour intervenir lors d'accidents et d'urgences en haute montagne."
+        },
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, avec le ll asturien",
+          "definicion": "Nom asturien du Picu Urriellu, également connu sous le nom de Naranjo de Bulnes. C'est une tour calcaire de près de 2 519 mètres dans le massif des Picos de Europa, référence mondiale pour l'alpinisme et symbole de la commune de Cabrales."
+        },
+        "porQue": "L'Urriellu concentre chaque année des dizaines de sauvetages. Que les GREIM y affûtent leur préparation est une garantie directe pour ceux qui pratiquent la montagne dans la commune ou qui y ont des proches.",
+        "lugar": "Urriellu, Cabrales",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die GREIM trainieren am Urriellu",
+        "entradilla": "Knapp dreißig Bergrettungsspezialisten der Guardia Civil wählten den Osten Asturiens für ihre Übungen.",
+        "cuerpo": [
+          "Eine Gruppe von rund dreißig Angehörigen der Grupos de Rescate e Intervención en Montaña der Guardia Civil führte Trainingsübungen am Massiv des Urriellu in der Gemeinde Cabrales durch.",
+          "Die Übungen sollen diese Spezialisten einsatzbereit halten für einen der anspruchsvollsten Schauplätze des Kantabrischen Gebirges, wo Rettungseinsätze jede Saison zum Alltag gehören."
+        ],
+        "apunte": "Der Picu Urriellu ruht nicht, nicht einmal wenn keine Touristen da sind.",
+        "enVeinte": [
+          "Rund dreißig Bergrettungsspezialisten der Guardia Civil trainierten am Urriellu.",
+          "Die GREIM wählten den Osten Asturiens für ihre Vorbereitungsübungen.",
+          "Ziel ist es, die Einsatzfähigkeit in einem der komplexesten Massive Asturiens aufrechtzuerhalten."
+        ],
+        "cifra": {
+          "numero": "~30",
+          "unidad": "Einsatzkräfte",
+          "glosa": "Knapp dreißig auf Bergrettung spezialisierte Guardia-Civil-Beamte nahmen an den Übungen teil. Die GREIM sind die Eliteeinheiten der Guardia Civil, die für den Einsatz bei Unfällen und Notfällen im Hochgebirge ausgebildet sind."
+        },
+        "palabra": {
+          "termino": "Urriellu",
+          "como": "u-RRIE-llu, mit dem asturischen ll-Laut",
+          "definicion": "Asturischer Name des Picu Urriellu, auch bekannt als Naranjo de Bulnes. Es handelt sich um einen Kalksteinturm von fast 2.519 Metern im Massiv der Picos de Europa, eine weltweite Referenz im Alpinismus und ein Symbol der Gemeinde Cabrales."
+        },
+        "porQue": "Am Urriellu finden jedes Jahr Dutzende von Rettungseinsätzen statt. Dass die GREIM dort ihre Vorbereitung schärfen, ist eine direkte Garantie für alle, die in der Gemeinde Bergtouren unternehmen oder jemanden kennen, der es tut.",
+        "lugar": "Urriellu, Cabrales",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "especialistas de rescate en montana de la guardia",
+      "de rescate en montana de la guardia civil"
+    ]
+  },
+  {
+    "id": "los-vecinos-de-santa-cruz-de-llanera-disfrutan-del-festival-de-la-avel",
+    "url": "/pilona/los-vecinos-de-santa-cruz-de-llanera-disfrutan-del-festival-de-la-avel/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Llanera llega a Infiesto por la avellana",
+    "entradilla": "Vecinos de Santa Cruz de Llanera visitaron Piloña dentro de una excursión cultural organizada por su asociación vecinal.",
+    "cuerpo": [
+      "La asociación vecinal de Santa Cruz de Llanera organizó una salida a Piloña que combinó el Festival de la Avellana con una visita al Museo del Reloj de Infiesto.",
+      "La actividad se enmarca en el programa anual de la asociación, que cuenta con subvención del Ayuntamiento de Llanera."
+    ],
+    "apunte": "La avellana de Piloña, capaz de atraer vecinos desde el concejo de al lado.",
+    "enVeinte": [
+      "La asociación vecinal de Santa Cruz de Llanera organizó una excursión cultural a Piloña.",
+      "Los participantes disfrutaron del Festival de la Avellana y del Museo del Reloj de Infiesto.",
+      "La salida forma parte de un programa anual subvencionado por el Ayuntamiento de Llanera."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "avellana",
+      "como": "avellana (igual que en castellano, pero aquí es mucho más que una palabra)",
+      "definicion": "En Piloña, la avellana no es solo un fruto seco: es seña de identidad. El concejo es uno de los grandes productores de avellana de Asturias, y el Festival de la Avellana lleva años convirtiendo la temporada de cosecha en una celebración colectiva."
+    },
+    "porQue": "Que vecinos de fuera se organicen expresamente para venir al Festival de la Avellana dice algo bueno del tirón que tiene Piloña más allá de sus límites.",
+    "etiquetas": [
+      "Infiesto",
+      "Festival de la Avellana",
+      "Museo del Reloj",
+      "excursión cultural"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "Infiesto, Piloña",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/09/2026100917355121317.jpg",
+    "fecha": "2026-10-10T07:30:38.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/llanera/vecinos-santa-cruz-llanera-disfrutan-festival-avellana-museo-reloj-infiesto/20261010093038104448.html",
+      "titularOriginal": "Los vecinos de Santa Cruz de Llanera disfrutan del Festival de la Avellana y del Museo del Reloj de Infiesto"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Llanera comes to Infiesto for the hazelnut",
+        "entradilla": "Residents of Santa Cruz de Llanera visited Piloña as part of a cultural trip organised by their neighbourhood association.",
+        "cuerpo": [
+          "The neighbourhood association of Santa Cruz de Llanera organised a trip to Piloña combining the Festival de la Avellana with a visit to the Museo del Reloj in Infiesto.",
+          "The outing is part of the association's annual programme, which receives a grant from the council of Llanera."
+        ],
+        "apunte": "Piloña's hazelnut, capable of drawing visitors from the neighbouring municipality.",
+        "enVeinte": [
+          "The neighbourhood association of Santa Cruz de Llanera organised a cultural trip to Piloña.",
+          "Participants enjoyed the Festival de la Avellana and the Museo del Reloj in Infiesto.",
+          "The outing is part of an annual programme funded by the council of Llanera."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "avellana",
+          "como": "avellana (pronounced ah-veh-YAH-nah; the same word as in Spanish, but here it means far more)",
+          "definicion": "In Piloña, the avellana is not just a nut: it is a mark of identity. The municipality is one of Asturias's major hazelnut producers, and the Festival de la Avellana has spent years turning the harvest season into a collective celebration."
+        },
+        "porQue": "The fact that people from outside organise themselves specifically to come to the Festival de la Avellana says something good about the pull Piloña has beyond its own borders.",
+        "lugar": "Infiesto, Piloña",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Llanera débarque à Infiesto pour la noisette",
+        "entradilla": "Des habitants de Santa Cruz de Llanera ont visité Piloña dans le cadre d'une excursion culturelle organisée par leur association de quartier.",
+        "cuerpo": [
+          "L'association de quartier de Santa Cruz de Llanera a organisé une sortie à Piloña combinant le Festival de la Avellana et une visite au Museo del Reloj d'Infiesto.",
+          "L'activité s'inscrit dans le programme annuel de l'association, qui bénéficie d'une subvention de la mairie de Llanera."
+        ],
+        "apunte": "La noisette de Piloña, capable d'attirer des habitants depuis la commune voisine.",
+        "enVeinte": [
+          "L'association de quartier de Santa Cruz de Llanera a organisé une excursion culturelle à Piloña.",
+          "Les participants ont profité du Festival de la Avellana et du Museo del Reloj d'Infiesto.",
+          "La sortie fait partie d'un programme annuel subventionné par la mairie de Llanera."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "avellana",
+          "como": "avellana (prononcez ah-veh-YAH-nah ; le même mot qu'en espagnol, mais ici il a bien plus de poids)",
+          "definicion": "À Piloña, l'avellana n'est pas qu'un fruit sec : c'est un signe d'identité. La commune est l'un des grands producteurs de noisettes des Asturies, et le Festival de la Avellana transforme depuis des années la saison des récoltes en une fête collective."
+        },
+        "porQue": "Le fait que des habitants d'ailleurs s'organisent expressément pour venir au Festival de la Avellana témoigne de l'attractivité de Piloña bien au-delà de ses frontières.",
+        "lugar": "Infiesto, Piloña",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Llanera kommt wegen der Haselnuss nach Infiesto",
+        "entradilla": "Bewohner von Santa Cruz de Llanera besuchten Piloña im Rahmen eines Kulturausflugs, den ihr Nachbarschaftsverein organisiert hatte.",
+        "cuerpo": [
+          "Der Nachbarschaftsverein von Santa Cruz de Llanera organisierte einen Ausflug nach Piloña, der das Festival de la Avellana mit einem Besuch im Museo del Reloj in Infiesto verband.",
+          "Die Veranstaltung ist Teil des Jahresprogramms des Vereins, das vom Rathaus von Llanera bezuschusst wird."
+        ],
+        "apunte": "Die Haselnuss von Piloña zieht Besucher sogar aus der Nachbargemeinde an.",
+        "enVeinte": [
+          "Der Nachbarschaftsverein von Santa Cruz de Llanera organisierte einen Kulturausflug nach Piloña.",
+          "Die Teilnehmer erlebten das Festival de la Avellana und das Museo del Reloj in Infiesto.",
+          "Der Ausflug ist Teil eines Jahresprogramms, das vom Rathaus von Llanera gefördert wird."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "avellana",
+          "como": "avellana (ausgesprochen ah-veh-JA-nah; dasselbe Wort wie im Spanischen, aber hier bedeutet es weit mehr)",
+          "definicion": "In Piloña ist die avellana nicht bloß eine Nuss: Sie ist ein Erkennungszeichen. Die Gemeinde gehört zu den größten Haselnussproduzenten Asturiens, und das Festival de la Avellana macht die Erntezeit seit Jahren zu einem gemeinsamen Fest."
+        },
+        "porQue": "Dass Menschen von außerhalb eigens zum Festival de la Avellana anreisen, spricht für die Anziehungskraft, die Piloña weit über seine eigenen Grenzen hinaus entfaltet.",
+        "lugar": "Infiesto, Piloña",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "nava-celebra-el-dia-de-la-mujer-rural-con-la-obra-somos-memoria",
     "url": "/nava/nava-celebra-el-dia-de-la-mujer-rural-con-la-obra-somos-memoria/",
     "concejo": "Nava",
@@ -18841,6 +19095,275 @@
     ]
   },
   {
+    "id": "greta-garcia-moran-se-codea-con-la-elite-mundial-y-termina-octava-en-l",
+    "url": "/pilona/greta-garcia-moran-se-codea-con-la-elite-mundial-y-termina-octava-en-l/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Greta García Morán, octava en el UTMB",
+    "entradilla": "La piloñesa se mete entre las diez mejores del mundo en los 60 kilómetros de la OCC, una de las carreras de montaña más exigentes del planeta.",
+    "cuerpo": [
+      "Greta García Morán, del club Piloña Deporte y el equipo ASICS Trail, terminó octava en la clasificación femenina de la OCC del Ultra Trail del Mont Blanc. La carrera se disputó el jueves sobre 60 kilómetros y 3.500 metros de desnivel, con salida en Orsières (Suiza). Greta cruzó la meta en 6 horas, 34 minutos y 43 segundos, quedando también 63.ª en la general absoluta.",
+      "La victoria fue para la estadounidense Lauren Gregory, que paró el crono en 6:08:07. Tras ella llegaron la británica Naomi Lang y la española Sara Alonso. Greta acabó por delante de corredoras de países con larga tradición en el trail, lo que da la medida real del resultado.",
+      "El podio de la OCC llega apenas dos meses después de que la piloñesa ganara la Traveserina, los 44 kilómetros entre los Picos de Europa, batiendo en siete minutos el récord femenino de la prueba con un tiempo de 5:24:39. Es el mejor momento de su carrera, y queda por ver hasta dónde llega."
+    ],
+    "apunte": "De los praus de Piloña a la élite mundial: ya van dos en dos meses.",
+    "enVeinte": [
+      "La piloñesa Greta García Morán quedó octava en la OCC del Ultra Trail del Mont Blanc, una de las carreras de montaña más importantes del mundo.",
+      "La prueba cubría 60 kilómetros y 3.500 metros de desnivel desde Orsières; Greta la completó en 6 horas, 34 minutos y 43 segundos.",
+      "El resultado confirma su gran momento: en junio ya había ganado la Traveserina y batido el récord femenino de los Picos de Europa."
+    ],
+    "cifra": {
+      "numero": "7",
+      "unidad": "minutos",
+      "glosa": "Es lo que mejoró Greta el récord femenino de la Traveserina en junio. Siete minutos en 44 kilómetros de montaña no es un retoque: es una diferencia enorme en carreras donde los registros se miden en segundos."
+    },
+    "palabra": {
+      "termino": "Traveserina",
+      "como": "Tra-ve-se-rí-na",
+      "definicion": "Carrera de montaña asturiana que recorre 44 kilómetros entre los Picos de Europa. Es una de las pruebas más exigentes del calendario regional y un referente en el trail de por aquí."
+    },
+    "porQue": "Piloña tiene en Greta García Morán a una deportista que compite de tú a tú con las mejores del mundo; un motivo para mirar las carreras de montaña con otros ojos.",
+    "etiquetas": [
+      "Greta García Morán",
+      "UTMB",
+      "trail",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-08-29T12:32:25.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://lacronicadepilona.com/greta-garcia-moran-se-codea-con-la-elite-mundial-y-termina-octava-en-la-occ-del-ultra-trail-del-mont-blanc/",
+      "titularOriginal": "Greta García Morán se codea con la élite mundial y termina octava en la OCC del Ultra Trail del Mont Blanc"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Greta García Morán, eighth at the UTMB",
+        "entradilla": "The athlete from Piloña finishes in the top ten in the world in the 60-kilometre OCC, one of the most demanding mountain races on the planet.",
+        "cuerpo": [
+          "Greta García Morán, from club Piloña Deporte and the ASICS Trail team, finished eighth in the women's classification of the OCC at the Ultra Trail du Mont Blanc. The race took place on Thursday over 60 kilometres and 3,500 metres of elevation gain, starting in Orsières (Switzerland). Greta crossed the finish line in 6 hours, 34 minutes and 43 seconds, also placing 63rd in the overall standings.",
+          "Victory went to American Lauren Gregory, who stopped the clock at 6:08:07. Behind her came Britain's Naomi Lang and Spain's Sara Alonso. Greta finished ahead of runners from countries with a long tradition in trail running, which puts the result in its true perspective.",
+          "The OCC podium comes just two months after the Piloña runner won the Traveserina, the 44-kilometre race through the Picos de Europa, breaking the women's course record by seven minutes with a time of 5:24:39. This is the best spell of her career, and it remains to be seen how far she can go."
+        ],
+        "apunte": "From the praus (mountain meadows) of Piloña to the world elite: two top results in two months.",
+        "enVeinte": [
+          "Greta García Morán from Piloña finished eighth in the OCC at the Ultra Trail du Mont Blanc, one of the most important mountain races in the world.",
+          "The race covered 60 kilometres and 3,500 metres of elevation gain from Orsières; Greta completed it in 6 hours, 34 minutes and 43 seconds.",
+          "The result confirms her outstanding form: in June she had already won the Traveserina and broken the women's record in the Picos de Europa."
+        ],
+        "cifra": {
+          "numero": "7",
+          "unidad": "minutes",
+          "glosa": "That is how much Greta improved the women's record at the Traveserina in June. Seven minutes over 44 kilometres of mountain terrain is not a minor tweak: it is a huge margin in races where times are measured in seconds."
+        },
+        "palabra": {
+          "termino": "Traveserina",
+          "como": "Tra-ve-se-rí-na",
+          "definicion": "An Asturian mountain race covering 44 kilometres through the Picos de Europa. It is one of the most demanding events on the regional calendar and a benchmark in trail running in this part of the world."
+        },
+        "porQue": "In Greta García Morán, Piloña has an athlete who competes on equal terms with the best in the world — a reason to look at mountain racing with fresh eyes.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Greta García Morán, huitième au UTMB",
+        "entradilla": "La coureuse de Piloña se hisse dans le top dix mondial sur les 60 kilomètres de l'OCC, l'une des courses de montagne les plus exigeantes de la planète.",
+        "cuerpo": [
+          "Greta García Morán, du club Piloña Deporte et de l'équipe ASICS Trail, a terminé huitième du classement féminin de l'OCC de l'Ultra Trail du Mont Blanc. La course s'est disputée jeudi sur 60 kilomètres et 3 500 mètres de dénivelé positif, avec un départ depuis Orsières (Suisse). Greta a franchi la ligne d'arrivée en 6 heures, 34 minutes et 43 secondes, se classant également 63e au général.",
+          "La victoire est revenue à l'Américaine Lauren Gregory, qui a arrêté le chrono à 6:08:07. Derrière elle sont arrivées la Britannique Naomi Lang et l'Espagnole Sara Alonso. Greta a devancé des coureuses de pays ayant une longue tradition en trail, ce qui donne la véritable mesure de ce résultat.",
+          "Ce podium à l'OCC intervient à peine deux mois après que la coureuse de Piloña a remporté la Traveserina, les 44 kilomètres à travers les Picos de Europa, en battant de sept minutes le record féminin de l'épreuve avec un temps de 5:24:39. C'est la meilleure période de sa carrière, et l'on verra jusqu'où elle peut aller."
+        ],
+        "apunte": "Des praus (prairies de montagne) de Piloña à l'élite mondiale : deux performances en deux mois.",
+        "enVeinte": [
+          "La coureuse de Piloña Greta García Morán a terminé huitième de l'OCC de l'Ultra Trail du Mont Blanc, l'une des courses de montagne les plus importantes au monde.",
+          "L'épreuve couvrait 60 kilomètres et 3 500 mètres de dénivelé depuis Orsières ; Greta l'a bouclée en 6 heures, 34 minutes et 43 secondes.",
+          "Ce résultat confirme sa grande forme : en juin, elle avait déjà remporté la Traveserina et battu le record féminin des Picos de Europa."
+        ],
+        "cifra": {
+          "numero": "7",
+          "unidad": "minutes",
+          "glosa": "C'est ce qu'a amélioré Greta sur le record féminin de la Traveserina en juin. Sept minutes sur 44 kilomètres de montagne, ce n'est pas un simple ajustement : c'est un écart considérable dans des courses où les chronos se jouent à la seconde."
+        },
+        "palabra": {
+          "termino": "Traveserina",
+          "como": "Tra-ve-se-rí-na",
+          "definicion": "Course de montagne asturienne qui parcourt 44 kilomètres à travers les Picos de Europa. C'est l'une des épreuves les plus exigeantes du calendrier régional et une référence dans le trail de la région."
+        },
+        "porQue": "Avec Greta García Morán, Piloña compte une athlète qui rivalise d'égal à égal avec les meilleures du monde — une raison de regarder les courses de montagne d'un autre œil.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Greta García Morán, Achte beim UTMB",
+        "entradilla": "Die Läuferin aus Piloña landet unter den zehn Besten der Welt über die 60 Kilometer der OCC, einem der anspruchsvollsten Berglaufrennen der Welt.",
+        "cuerpo": [
+          "Greta García Morán vom Verein Piloña Deporte und dem Team ASICS Trail belegte den achten Platz in der Frauenwertung der OCC beim Ultra Trail du Mont Blanc. Das Rennen fand am Donnerstag über 60 Kilometer und 3.500 Höhenmeter statt, mit Start in Orsières (Schweiz). Greta überquerte die Ziellinie in 6 Stunden, 34 Minuten und 43 Sekunden und belegte damit auch den 63. Platz in der Gesamtwertung.",
+          "Den Sieg holte die Amerikanerin Lauren Gregory mit einer Zeit von 6:08:07. Hinter ihr folgten die Britin Naomi Lang und die Spanierin Sara Alonso. Greta ließ Läuferinnen aus Ländern mit langer Trailrunning-Tradition hinter sich, was das Ergebnis erst richtig einordnen lässt.",
+          "Das OCC-Podium kommt kaum zwei Monate, nachdem die Läuferin aus Piloña die Traveserina gewonnen hatte — die 44 Kilometer durch die Picos de Europa — und dabei den Frauenstreckenrekord um sieben Minuten mit einer Zeit von 5:24:39 verbesserte. Es ist die beste Phase ihrer Karriere, und es bleibt abzuwarten, wie weit sie noch kommt."
+        ],
+        "apunte": "Von den praus (Bergwiesen) Piloñas in die Weltelite: zwei Spitzenergebnisse in zwei Monaten.",
+        "enVeinte": [
+          "Greta García Morán aus Piloña belegte den achten Platz bei der OCC des Ultra Trail du Mont Blanc, einem der bedeutendsten Berglaufrennen der Welt.",
+          "Das Rennen umfasste 60 Kilometer und 3.500 Höhenmeter ab Orsières; Greta absolvierte es in 6 Stunden, 34 Minuten und 43 Sekunden.",
+          "Das Ergebnis bestätigt ihre starke Form: Im Juni hatte sie bereits die Traveserina gewonnen und den Frauenrekord in den Picos de Europa gebrochen."
+        ],
+        "cifra": {
+          "numero": "7",
+          "unidad": "Minuten",
+          "glosa": "Um so viel verbesserte Greta im Juni den Frauenrekord der Traveserina. Sieben Minuten über 44 Kilometer Berggelände sind keine Kleinigkeit: Das ist ein enormer Abstand in Rennen, bei denen Zeiten sekundengenau gemessen werden."
+        },
+        "palabra": {
+          "termino": "Traveserina",
+          "como": "Tra-ve-se-rí-na",
+          "definicion": "Asturisches Berglaufrennen über 44 Kilometer durch die Picos de Europa. Es zählt zu den anspruchsvollsten Wettkämpfen im regionalen Kalender und ist ein Maßstab im Trailrunning der Region."
+        },
+        "porQue": "Mit Greta García Morán hat die Gemeinde Piloña eine Athletin, die auf Augenhöhe mit den Besten der Welt konkurriert — ein Grund, Berglaufrennen mit anderen Augen zu sehen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la occ del ultra trail del mont blanc",
+      "occ del ultra trail del mont blanc la",
+      "60 kilometros y 3 500 metros de desnivel",
+      "en 6 horas 34 minutos y 43 segundos",
+      "la general absoluta la victoria fue para la",
+      "general absoluta la victoria fue para la estadounidense",
+      "absoluta la victoria fue para la estadounidense lauren",
+      "la victoria fue para la estadounidense lauren gregory",
+      "los 44 kilometros entre los picos de europa"
+    ]
+  },
+  {
+    "id": "comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-",
+    "url": "/pilona/comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Arrancan obras en la AS-334 a su paso por Piloña",
+    "entradilla": "Cuatro kilómetros de carretera llevan años esperando esta intervención y ya tienen máquinas trabajando.",
+    "cuerpo": [
+      "El Gobierno de Asturias ha puesto en marcha la reforma de un tramo de la AS-334, entre los puntos kilométricos 5,9 y 9,6, con un presupuesto de algo más de 1,09 millones de euros. Las obras durarán siete meses.",
+      "Los trabajos han arrancado con limpieza y desbroce. Después vendrá la renovación completa del firme, muy deteriorado por el tráfico y las escorrentías, y se mejorarán cunetas y sistemas de drenaje. También se renovará la señalización y los elementos de protección lateral.",
+      "La vicepresidenta del Principado, Gimena Llamedo, visitó ayer el inicio de las obras junto al consejero Alejandro Calvo, el viceconsejero Jorge García y el alcalde de Piloña, Iván Allende. Llamedo subrayó que cada euro puesto en la red de carreteras refuerza la vida diaria y la actividad económica de los concejos del oriente."
+    ],
+    "apunte": "Siete meses de obras y cuatro kilómetros de alivio: ya era hora.",
+    "enVeinte": [
+      "El Principado ha comenzado a reformar casi cuatro kilómetros de la AS-334 en Piloña con una inversión de 1,09 millones de euros.",
+      "Los trabajos incluyen nuevo firme, mejora del drenaje, cunetas y señalización, y se prolongarán durante siete meses.",
+      "La vicepresidenta Llamedo y el alcalde Allende visitaron el inicio de las obras, una actuación muy reclamada por los vecinos de la zona."
+    ],
+    "cifra": {
+      "numero": "1.098.149",
+      "unidad": "euros",
+      "glosa": "Es lo que el Principado destina a reformar menos de cuatro kilómetros de la AS-334. Sale a unos 275.000 euros por kilómetro, un coste habitual cuando hay que renovar el firme en profundidad y rehacer todo el sistema de drenaje."
+    },
+    "palabra": null,
+    "porQue": "Esta carretera conecta pueblos del interior de Piloña con la capital del concejo; mejorarla hace los desplazamientos diarios más seguros y reduce el deterioro de los vehículos en ese tramo.",
+    "etiquetas": [
+      "carreteras",
+      "Piloña",
+      "obras",
+      "AS-334"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/AS-334-PILONA-inicio-mejora-1.jpeg",
+    "fecha": "2026-08-28T12:20:44.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/28/08/2026/comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-de-11-millones/",
+      "titularOriginal": "Comienza la mejora de la carretera AS-334, en Piloña, con una inversión de 1,1 millones"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Works begin on the AS-334 through Piloña",
+        "entradilla": "Four kilometres of road have been waiting years for this work — and the machines are already on site.",
+        "cuerpo": [
+          "The Government of Asturias has launched the renovation of a stretch of the AS-334, between kilometre points 5.9 and 9.6, with a budget of just over 1.09 million euros. The works will last seven months.",
+          "The work has started with clearing and scrub removal. Next will come the complete resurfacing of the road, badly damaged by traffic and run-off, along with improvements to the drainage ditches and drainage systems. Signage and lateral protection elements will also be renewed.",
+          "The Vice-President of the Principality, Gimena Llamedo, visited the start of the works yesterday alongside the minister Alejandro Calvo, the deputy minister Jorge García and the mayor of Piloña, Iván Allende. Llamedo stressed that every euro invested in the road network strengthens daily life and economic activity in the municipalities of the east."
+        ],
+        "apunte": "Seven months of works and four kilometres of relief: not before time.",
+        "enVeinte": [
+          "The Principality has begun renovating nearly four kilometres of the AS-334 in Piloña with an investment of 1.09 million euros.",
+          "The work includes a new surface, improved drainage, ditches and signage, and will run for seven months.",
+          "Vice-President Llamedo and Mayor Allende visited the start of the works, an intervention that local residents had been calling for for a long time."
+        ],
+        "cifra": {
+          "numero": "1,098,149",
+          "unidad": "euros",
+          "glosa": "This is what the Principality is spending to renovate fewer than four kilometres of the AS-334. That works out at around 275,000 euros per kilometre, a typical cost when the road surface needs deep renewal and the entire drainage system has to be rebuilt."
+        },
+        "palabra": null,
+        "porQue": "This road connects villages in the interior of Piloña with the municipal capital; improving it makes daily journeys safer and reduces wear on vehicles along that stretch.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Début des travaux sur la AS-334 dans le tronçon traversant Piloña",
+        "entradilla": "Quatre kilomètres de route attendaient depuis des années cette intervention — et les engins sont déjà à l'œuvre.",
+        "cuerpo": [
+          "Le Gouvernement des Asturies a lancé la réfection d'un tronçon de la AS-334, entre les points kilométriques 5,9 et 9,6, avec un budget de un peu plus de 1,09 million d'euros. Les travaux dureront sept mois.",
+          "Le chantier a démarré par des opérations de nettoyage et de débroussaillage. Viendra ensuite le renouvellement complet de la chaussée, très dégradée par le trafic et les ruissellements, ainsi que l'amélioration des fossés et des systèmes de drainage. La signalisation et les dispositifs de protection latérale seront également renouvelés.",
+          "La vice-présidente de la Principauté, Gimena Llamedo, a visité hier le démarrage des travaux aux côtés du conseiller Alejandro Calvo, du vice-conseiller Jorge García et du maire de Piloña, Iván Allende. Llamedo a souligné que chaque euro investi dans le réseau routier renforce le quotidien et l'activité économique des communes de l'est."
+        ],
+        "apunte": "Sept mois de travaux et quatre kilomètres de soulagement : il était temps.",
+        "enVeinte": [
+          "La Principauté a commencé à rénover près de quatre kilomètres de la AS-334 à Piloña pour un investissement de 1,09 million d'euros.",
+          "Les travaux comprennent une nouvelle chaussée, l'amélioration du drainage, des fossés et de la signalisation, et s'étaleront sur sept mois.",
+          "La vice-présidente Llamedo et le maire Allende ont visité le démarrage des travaux, une intervention très réclamée par les habitants de la zone."
+        ],
+        "cifra": {
+          "numero": "1 098 149",
+          "unidad": "euros",
+          "glosa": "C'est ce que la Principauté consacre à la réfection de moins de quatre kilomètres de la AS-334. Cela représente environ 275 000 euros par kilomètre, un coût habituel lorsqu'il faut renouveler la chaussée en profondeur et refaire l'ensemble du système de drainage."
+        },
+        "palabra": null,
+        "porQue": "Cette route relie les villages de l'intérieur de Piloña au chef-lieu de la commune ; l'améliorer rend les déplacements quotidiens plus sûrs et réduit l'usure des véhicules sur ce tronçon.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Bauarbeiten auf der AS-334 durch Piloña haben begonnen",
+        "entradilla": "Vier Kilometer Straße haben jahrelang auf diese Maßnahme gewartet — jetzt sind die Maschinen im Einsatz.",
+        "cuerpo": [
+          "Die Regierung Asturiens hat die Sanierung eines Abschnitts der AS-334 zwischen den Kilometerpunkten 5,9 und 9,6 mit einem Budget von etwas mehr als 1,09 Millionen Euro in Angriff genommen. Die Arbeiten dauern sieben Monate.",
+          "Begonnen wurde mit Reinigungs- und Rodungsarbeiten. Danach folgt die vollständige Erneuerung des Fahrbahnbelags, der durch Verkehr und Oberflächenwasser stark beschädigt wurde; außerdem werden Entwässerungsgräben und Drainagesysteme verbessert. Auch Beschilderung und seitliche Schutzeinrichtungen werden erneuert.",
+          "Die Vizepräsidentin des Fürstentums, Gimena Llamedo, besuchte gestern den Baubeginn gemeinsam mit dem Regionalminister Alejandro Calvo, dem Staatssekretär Jorge García und dem Bürgermeister von Piloña, Iván Allende. Llamedo betonte, dass jeder in das Straßennetz investierte Euro den Alltag und die Wirtschaftstätigkeit der Gemeinden im Osten stärke."
+        ],
+        "apunte": "Sieben Monate Bauarbeiten und vier Kilometer Erleichterung: höchste Zeit.",
+        "enVeinte": [
+          "Das Fürstentum hat mit der Sanierung von knapp vier Kilometern der AS-334 in Piloña begonnen — mit einer Investition von 1,09 Millionen Euro.",
+          "Die Arbeiten umfassen einen neuen Fahrbahnbelag, verbesserte Entwässerung, Gräben und Beschilderung und werden sieben Monate dauern.",
+          "Vizepräsidentin Llamedo und Bürgermeister Allende besuchten den Baubeginn — eine Maßnahme, die die Anwohner der Region seit Langem gefordert hatten."
+        ],
+        "cifra": {
+          "numero": "1.098.149",
+          "unidad": "Euro",
+          "glosa": "So viel investiert das Fürstentum in die Sanierung von weniger als vier Kilometern der AS-334. Das entspricht rund 275.000 Euro pro Kilometer — übliche Kosten, wenn der Fahrbahnbelag grundlegend erneuert und das gesamte Drainagesystem neu aufgebaut werden muss."
+        },
+        "palabra": null,
+        "porQue": "Diese Straße verbindet Dörfer im Inneren von Piloña mit dem Hauptort der Gemeinde; ihre Verbesserung macht die täglichen Fahrten sicherer und verringert den Verschleiß der Fahrzeuge auf diesem Abschnitt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-sidra-de-papel-en-villaviciosa",
     "url": "/villaviciosa/la-sidra-de-papel-en-villaviciosa/",
     "concejo": "Villaviciosa",
@@ -20327,6 +20850,111 @@
     ]
   },
   {
+    "id": "borrador-del-reglamento-de-uso-de-las-instalaciones-deportivas-del-con",
+    "url": "/villaviciosa/borrador-del-reglamento-de-uso-de-las-instalaciones-deportivas-del-con/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre a consulta su reglamento deportivo",
+    "entradilla": "Cualquier vecino puede revisar y opinar sobre las normas que regularán el uso de los polideportivos y demás instalaciones del concejo.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto en consulta pública el borrador del reglamento que fijará cómo se usan las instalaciones deportivas municipales. La iniciativa se publicó el 25 de agosto en el tablón de anuncios de la sede electrónica del consistorio.",
+      "La consulta pública es el paso previo a la aprobación formal: permite que clubes, asociaciones y particulares lean el texto y, si quieren, trasladen sus observaciones antes de que el reglamento quede cerrado."
+    ],
+    "apunte": "Antes de que la norma llegue firmada, este es el momento de decir algo.",
+    "enVeinte": [
+      "Villaviciosa ha publicado el borrador del reglamento de uso de sus instalaciones deportivas para que los vecinos puedan consultarlo.",
+      "El texto está disponible en el tablón de anuncios de la sede electrónica del Ayuntamiento desde el 25 de agosto.",
+      "Es el trámite de consulta pública previo a la aprobación definitiva de la norma."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si usas el polideportivo, el frontón o cualquier otra instalación municipal, este reglamento va a marcar las reglas del juego: conviene echarle un ojo antes de que quede aprobado.",
+    "etiquetas": [
+      "Villaviciosa",
+      "deporte",
+      "reglamento",
+      "trámite"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-08-25T10:58:00.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19799462",
+      "titularOriginal": "Borrador del Reglamento de Uso de las instalaciones deportivas del concejo de Villaviciosa",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens its sports regulation to public consultation",
+        "entradilla": "Any resident can review and comment on the rules that will govern the use of sports centres and other facilities in the municipality.",
+        "cuerpo": [
+          "The council of Villaviciosa has opened a public consultation on the draft regulation setting out how municipal sports facilities are to be used. The initiative was published on 25 August on the notice board of the council's electronic headquarters.",
+          "The public consultation is the step before formal approval: it allows clubs, associations and individuals to read the text and, if they wish, submit their observations before the regulation is finalised."
+        ],
+        "apunte": "Before the rule is signed off, this is the moment to have your say.",
+        "enVeinte": [
+          "Villaviciosa has published the draft regulation on the use of its sports facilities so that residents can consult it.",
+          "The text has been available on the notice board of the council's electronic headquarters since 25 August.",
+          "This is the public consultation procedure prior to the definitive approval of the regulation."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you use the sports centre, the pelota court or any other municipal facility, this regulation will set the rules of the game — it is worth taking a look before it is approved.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa soumet son règlement sportif à consultation publique",
+        "entradilla": "Tout habitant peut consulter et donner son avis sur les règles qui encadreront l'utilisation des équipements sportifs et des autres installations de la commune.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a ouvert une consultation publique sur le projet de règlement qui définira les modalités d'utilisation des équipements sportifs municipaux. L'initiative a été publiée le 25 août sur le tableau d'affichage du siège électronique de la mairie.",
+          "La consultation publique est l'étape préalable à l'approbation formelle : elle permet aux clubs, aux associations et aux particuliers de lire le texte et, s'ils le souhaitent, de transmettre leurs observations avant que le règlement ne soit définitivement arrêté."
+        ],
+        "apunte": "Avant que le texte ne soit signé, c'est le moment de dire quelque chose.",
+        "enVeinte": [
+          "Villaviciosa a publié le projet de règlement sur l'utilisation de ses équipements sportifs afin que les habitants puissent le consulter.",
+          "Le texte est disponible sur le tableau d'affichage du siège électronique de la mairie depuis le 25 août.",
+          "Il s'agit de la procédure de consultation publique préalable à l'approbation définitive du règlement."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous utilisez la salle omnisports, le fronton ou toute autre installation municipale, ce règlement fixera les règles du jeu : mieux vaut y jeter un œil avant qu'il ne soit approuvé.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa stellt seine Sportordnung zur öffentlichen Konsultation",
+        "entradilla": "Alle Einwohner können den Entwurf der Regeln einsehen und kommentieren, die die Nutzung der Sporthallen und sonstigen Einrichtungen der Gemeinde regeln werden.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat einen öffentlichen Konsultationsprozess zu dem Verordnungsentwurf eingeleitet, der die Nutzung der städtischen Sportanlagen regeln soll. Die Initiative wurde am 25. August auf dem Aushangbrett des elektronischen Sitzes des Rathauses veröffentlicht.",
+          "Die öffentliche Konsultation ist der Schritt vor der formellen Genehmigung: Sie ermöglicht es Vereinen, Verbänden und Einzelpersonen, den Text zu lesen und gegebenenfalls ihre Anmerkungen einzureichen, bevor die Verordnung endgültig verabschiedet wird."
+        ],
+        "apunte": "Bevor die Verordnung unterzeichnet wird, ist jetzt der Moment, etwas zu sagen.",
+        "enVeinte": [
+          "Villaviciosa hat den Entwurf der Nutzungsordnung für seine Sportanlagen veröffentlicht, damit die Einwohner ihn einsehen können.",
+          "Der Text ist seit dem 25. August auf dem Aushangbrett des elektronischen Sitzes des Rathauses verfügbar.",
+          "Es handelt sich um das öffentliche Konsultationsverfahren vor der endgültigen Genehmigung der Verordnung."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer die Sporthalle, den Pelota-Platz oder eine andere städtische Einrichtung nutzt, für den legt diese Verordnung die Spielregeln fest — es lohnt sich, einen Blick darauf zu werfen, bevor sie verabschiedet wird.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "tablon de anuncios de la sede electronica del"
+    ]
+  },
+  {
     "id": "el-restaurante-castanon-de-quintes-cierra-sus-puertas-tras-dos-anos-de",
     "url": "/villaviciosa/el-restaurante-castanon-de-quintes-cierra-sus-puertas-tras-dos-anos-de/",
     "concejo": "Villaviciosa",
@@ -21311,6 +21939,150 @@
     ]
   },
   {
+    "id": "el-riosellano-david-fernandez-se-proclama-subcampeon-del-torneo-de-bol",
+    "url": "/pilona/el-riosellano-david-fernandez-se-proclama-subcampeon-del-torneo-de-bol/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Guillermo Iglesias gana el XI Campeonato de Bolos de Infiesto",
+    "entradilla": "El representante de Villa La Sidra-Titi se impuso con claridad en la final disputada este domingo.",
+    "cuerpo": [
+      "Guillermo Iglesias (Villa La Sidra-Titi) se llevó el XI Campeonato de Bolos en la Calle del concejo de Piloña con un contundente 14 a 6 ante el riosellano David Fernández (El Arenal), que se quedó con el subcampeonato.",
+      "El podio lo completó el piloñés Ángel Ibaseta, de la Peña Bolística Piloñesa, en tercer lugar, y Berto Faya, de Sotrondio, en cuarto.",
+      "El torneo lo organiza la Peña Bolística Piloñesa con el respaldo del Ayuntamiento de Piloña."
+    ],
+    "apunte": "Catorce puntos a seis: Iglesias no dejó duda.",
+    "enVeinte": [
+      "Guillermo Iglesias ganó el XI Campeonato de Bolos en la Calle de Infiesto este domingo.",
+      "El riosellano David Fernández fue subcampeón; Ángel Ibaseta y Berto Faya se quedaron con el tercero y el cuarto puesto.",
+      "La Peña Bolística Piloñesa organiza el torneo con patrocinio municipal."
+    ],
+    "cifra": {
+      "numero": "14-6",
+      "unidad": "puntos",
+      "glosa": "Así terminó la final entre Iglesias y Fernández. En los bolos en la calle, cada tanto marca la diferencia en un juego que combina precisión y estrategia."
+    },
+    "palabra": {
+      "termino": "bolos en la calle",
+      "como": "bolos en la calle, tal cual",
+      "definicion": "Modalidad asturiana de bolos que se juega sobre un corredor al aire libre, a diferencia del bolo cuadru o el bolo pasiego. Es uno de los juegos tradicionales más arraigados en los concejos del interior de Asturias."
+    },
+    "porQue": "El campeonato reúne cada año a jugadores de varios concejos y es una de las citas del verano de Infiesto; que llegue a su undécima edición habla de la salud del juego de bolos en Piloña.",
+    "etiquetas": [
+      "bolos",
+      "Infiesto",
+      "Piloña",
+      "deporte tradicional"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/BOLOS-EN-LA-CALLE-2026-Infiesto.jpg",
+    "fecha": "2026-08-23T17:26:56.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/23/08/2026/el-riosellano-david-fernandez-se-proclama-subcampeon-del-torneo-de-bolos-en-la-calle-de-infiesto/",
+      "titularOriginal": "El riosellano David Fernández se proclama subcampeón del Torneo de Bolos en la Calle de Infiesto"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Guillermo Iglesias wins the XI Campeonato de Bolos de Infiesto",
+        "entradilla": "The Villa La Sidra-Titi representative won the final convincingly this Sunday.",
+        "cuerpo": [
+          "Guillermo Iglesias (Villa La Sidra-Titi) took the XI Campeonato de Bolos en la Calle of the municipality of Piloña with a commanding 14–6 against David Fernández from Ribadesella (El Arenal), who finished runner-up.",
+          "The podium was completed by Ángel Ibaseta from Piloña, representing Peña Bolística Piloñesa, in third place, and Berto Faya from Sotrondio in fourth.",
+          "The tournament is organised by Peña Bolística Piloñesa with the backing of the council of Piloña."
+        ],
+        "apunte": "Fourteen points to six: Iglesias left no room for doubt.",
+        "enVeinte": [
+          "Guillermo Iglesias won the XI Campeonato de Bolos en la Calle in Infiesto this Sunday.",
+          "David Fernández from Ribadesella was runner-up; Ángel Ibaseta and Berto Faya took third and fourth place.",
+          "Peña Bolística Piloñesa organises the tournament with municipal sponsorship."
+        ],
+        "cifra": {
+          "numero": "14-6",
+          "unidad": "points",
+          "glosa": "That was the final score between Iglesias and Fernández. In bolos en la calle, every point counts in a game that combines precision and strategy."
+        },
+        "palabra": {
+          "termino": "bolos en la calle",
+          "como": "bolos en la calle, as written",
+          "definicion": "An Asturian variety of skittles played on an open-air lane, distinct from bolo cuadru or bolo pasiego. It is one of the most deep-rooted traditional games in the inland municipalities of Asturias."
+        },
+        "porQue": "The championship brings together players from several municipalities every year and is one of the highlights of the Infiesto summer; reaching its eleventh edition speaks to the vitality of the bolos tradition in Piloña.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Guillermo Iglesias remporte le XI Campeonato de Bolos de Infiesto",
+        "entradilla": "Le représentant de Villa La Sidra-Titi s'est imposé nettement en finale ce dimanche.",
+        "cuerpo": [
+          "Guillermo Iglesias (Villa La Sidra-Titi) a remporté le XI Campeonato de Bolos en la Calle de la commune de Piloña sur le score sans appel de 14 à 6 face au riosellano David Fernández (El Arenal), vice-champion.",
+          "Le podium a été complété par le piloñés Ángel Ibaseta, de la Peña Bolística Piloñesa, en troisième position, et Berto Faya, de Sotrondio, en quatrième.",
+          "Le tournoi est organisé par la Peña Bolística Piloñesa avec le soutien de la mairie de Piloña."
+        ],
+        "apunte": "Quatorze points à six : Iglesias n'a laissé aucun doute.",
+        "enVeinte": [
+          "Guillermo Iglesias a remporté le XI Campeonato de Bolos en la Calle à Infiesto ce dimanche.",
+          "Le riosellano David Fernández a été vice-champion ; Ángel Ibaseta et Berto Faya ont pris les troisième et quatrième places.",
+          "La Peña Bolística Piloñesa organise le tournoi avec le soutien de la municipalité."
+        ],
+        "cifra": {
+          "numero": "14-6",
+          "unidad": "points",
+          "glosa": "Voilà comment s'est terminée la finale entre Iglesias et Fernández. Aux bolos en la calle, chaque point compte dans un jeu qui allie précision et stratégie."
+        },
+        "palabra": {
+          "termino": "bolos en la calle",
+          "como": "bolos en la calle, tel quel",
+          "definicion": "Variante asturienne des quilles pratiquée sur un couloir en plein air, à la différence du bolo cuadru ou du bolo pasiego. C'est l'un des jeux traditionnels les plus enracinés dans les communes de l'intérieur des Asturies."
+        },
+        "porQue": "Le championnat réunit chaque année des joueurs de plusieurs communes et constitue l'un des rendez-vous de l'été à Infiesto ; en atteignre sa onzième édition témoigne de la vitalité du jeu de bolos à Piloña.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Guillermo Iglesias gewinnt das XI Campeonato de Bolos de Infiesto",
+        "entradilla": "Der Vertreter von Villa La Sidra-Titi setzte sich am Sonntag klar im Finale durch.",
+        "cuerpo": [
+          "Guillermo Iglesias (Villa La Sidra-Titi) gewann das XI Campeonato de Bolos en la Calle der Gemeinde Piloña mit einem deutlichen 14:6 gegen den aus Ribadesella stammenden David Fernández (El Arenal), der Vizemeister wurde.",
+          "Das Podium vervollständigten der aus Piloña stammende Ángel Ibaseta von der Peña Bolística Piloñesa auf dem dritten Platz und Berto Faya aus Sotrondio auf dem vierten.",
+          "Das Turnier wird von der Peña Bolística Piloñesa mit Unterstützung des Rathauses von Piloña organisiert."
+        ],
+        "apunte": "Vierzehn Punkte zu sechs: Iglesias ließ keinen Zweifel aufkommen.",
+        "enVeinte": [
+          "Guillermo Iglesias gewann am Sonntag das XI Campeonato de Bolos en la Calle in Infiesto.",
+          "Der aus Ribadesella stammende David Fernández wurde Vizemeister; Ángel Ibaseta und Berto Faya belegten den dritten und vierten Platz.",
+          "Die Peña Bolística Piloñesa veranstaltet das Turnier mit kommunaler Förderung."
+        ],
+        "cifra": {
+          "numero": "14-6",
+          "unidad": "Punkte",
+          "glosa": "So endete das Finale zwischen Iglesias und Fernández. Bei den bolos en la calle zählt jeder Punkt in einem Spiel, das Präzision und Strategie verbindet."
+        },
+        "palabra": {
+          "termino": "bolos en la calle",
+          "como": "bolos en la calle, wie geschrieben",
+          "definicion": "Eine asturische Kegelspielart, die auf einer offenen Freiluftbahn gespielt wird, im Unterschied zum bolo cuadru oder bolo pasiego. Es ist eines der am tiefsten verwurzelten traditionellen Spiele in den Gemeinden des asturischen Binnenlandes."
+        },
+        "porQue": "Die Meisterschaft bringt jedes Jahr Spieler aus mehreren Gemeinden zusammen und ist eines der Sommerereignisse in Infiesto; die elfte Ausgabe zeigt, wie lebendig das Kegelspiel in Piloña ist.",
+        "lugar": "Infiesto",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "xi campeonato de bolos en la calle del",
+      "campeonato de bolos en la calle del concejo",
+      "de bolos en la calle del concejo de",
+      "bolos en la calle del concejo de pilona",
+      "en la calle del concejo de pilona con"
+    ]
+  },
+  {
     "id": "peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los",
     "url": "/villaviciosa/peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los/",
     "concejo": "Villaviciosa",
@@ -21423,6 +22195,127 @@
         "palabra": null,
         "porQue": "Wer in Peón oder der Umgebung lebt, weiß: Die letzte Augustwoche gehört der Feier — sechs Tage ab dem 28.",
         "lugar": "Peón",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-n-634-entre-villamayor-y-marcenado-sera-renovada-con-una-inversion-",
+    "url": "/pilona/la-n-634-entre-villamayor-y-marcenado-sera-renovada-con-una-inversion-/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "11,4 millones para renovar la N-634 en Piloña",
+    "entradilla": "El Ministerio de Transportes saca a concurso la rehabilitación de treinta kilómetros de carretera que unen Villamayor con Marcenado pasando por Nava y Siero.",
+    "cuerpo": [
+      "El tramo afectado va del kilómetro 357,5 al 387,9 de la N-634, unos 30,4 kilómetros que a diario usan vecinos de Piloña, Nava y Siero para moverse entre concejos. La licitación ya está en marcha.",
+      "Los trabajos consisten en fresar y reponer el asfalto donde está más deteriorado, reparar los puntos en que el daño ha llegado a la base y extender una capa nueva de rodadura de tres centímetros a lo largo de todo el tramo. También se renovarán las marcas viales, la señalización, el balizamiento y los sistemas de contención.",
+      "La actuación entra dentro del Plan Extraordinario de mejora de firmes del Estado, impulsado por el ministro Óscar Puente, que mueve 1.629 millones en toda la red estatal. No se ha anunciado aún cuándo arrancan las obras."
+    ],
+    "apunte": "Treinta kilómetros de baches con fecha de caducidad.",
+    "enVeinte": [
+      "El Ministerio de Transportes licita por 11,4 millones la rehabilitación de 30,4 kilómetros de la N-634 entre Villamayor y Marcenado.",
+      "Los trabajos incluyen renovación del firme, señalización, marcas viales y sistemas de contención en los concejos de Piloña, Nava y Siero.",
+      "La actuación forma parte de un plan estatal de 1.629 millones para mejorar carreteras en toda España, aunque aún no hay fecha de inicio."
+    ],
+    "cifra": {
+      "numero": "30,4",
+      "unidad": "kilómetros",
+      "glosa": "Es la longitud del tramo que se va a rehabilitar, desde Villamayor hasta Marcenado. Para hacerse una idea: es más o menos la distancia de Infiesto a Oviedo por carretera."
+    },
+    "palabra": null,
+    "porQue": "La N-634 es la vía principal que conecta Piloña con los concejos vecinos de Nava y Siero; cuando esté renovada, los vecinos ganarán en seguridad y en comodidad de conducción en el día a día.",
+    "etiquetas": [
+      "N-634",
+      "carreteras",
+      "Piloña",
+      "obras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-08-22T18:26:01.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://lacronicadepilona.com/la-n-634-entre-villamayor-y-marcenado-sera-renovada-con-una-inversion-de-114-millones-de-euros/",
+      "titularOriginal": "La N-634 entre Villamayor y Marcenado será renovada con una inversión de 11,4 millones de euros"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "11.4 million euros to renovate the N-634 in Piloña",
+        "entradilla": "The Ministry of Transport has put out to tender the rehabilitation of thirty kilometres of road linking Villamayor with Marcenado via Nava and Siero.",
+        "cuerpo": [
+          "The affected stretch runs from kilometre 357.5 to 387.9 of the N-634, some 30.4 kilometres used daily by residents of Piloña, Nava and Siero to move between municipalities. The tender process is already under way.",
+          "The work involves milling and replacing the asphalt where it is most worn, repairing sections where the damage has reached the base layer, and laying a new three-centimetre wearing course along the entire stretch. Road markings, signage, delineators and safety barriers will also be renewed.",
+          "The project is part of the State's Extraordinary Road Surfacing Improvement Plan, driven by Minister Óscar Puente, which moves 1,629 million euros across the whole national network. No start date has been announced yet."
+        ],
+        "apunte": "Thirty kilometres of potholes with an expiry date.",
+        "enVeinte": [
+          "The Ministry of Transport has tendered the rehabilitation of 30.4 kilometres of the N-634 between Villamayor and Marcenado for 11.4 million euros.",
+          "The work includes renewal of the road surface, signage, road markings and safety barriers in the municipalities of Piloña, Nava and Siero.",
+          "The project is part of a 1,629-million-euro national plan to improve roads across Spain, though no start date has been set yet."
+        ],
+        "cifra": {
+          "numero": "30.4",
+          "unidad": "kilometres",
+          "glosa": "This is the length of the stretch to be rehabilitated, from Villamayor to Marcenado. To put it in perspective: it is roughly the distance from Infiesto to Oviedo by road."
+        },
+        "palabra": null,
+        "porQue": "The N-634 is the main road connecting Piloña with the neighbouring municipalities of Nava and Siero; once renewed, residents will gain in safety and driving comfort on their everyday journeys.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "11,4 millions d'euros pour rénover la N-634 à Piloña",
+        "entradilla": "Le ministère des Transports a lancé un appel d'offres pour la réhabilitation de trente kilomètres de route reliant Villamayor à Marcenado en passant par Nava et Siero.",
+        "cuerpo": [
+          "Le tronçon concerné s'étend du kilomètre 357,5 au kilomètre 387,9 de la N-634, soit quelque 30,4 kilomètres empruntés quotidiennement par les habitants de Piloña, Nava et Siero pour circuler entre les communes. L'appel d'offres est déjà en cours.",
+          "Les travaux consistent à fraiser et à remplacer l'asphalte là où il est le plus dégradé, à réparer les sections où les dommages ont atteint la couche de base, et à étendre une nouvelle couche de roulement de trois centimètres sur l'ensemble du tronçon. Les marquages au sol, la signalisation, le balisage et les dispositifs de retenue seront également renouvelés.",
+          "L'opération s'inscrit dans le Plan extraordinaire d'amélioration des chaussées de l'État, porté par le ministre Óscar Puente, qui mobilise 1 629 millions d'euros sur l'ensemble du réseau national. La date de démarrage des travaux n'a pas encore été annoncée."
+        ],
+        "apunte": "Trente kilomètres de nids-de-poule avec une date de péremption.",
+        "enVeinte": [
+          "Le ministère des Transports a lancé un appel d'offres de 11,4 millions d'euros pour la réhabilitation de 30,4 kilomètres de la N-634 entre Villamayor et Marcenado.",
+          "Les travaux comprennent le renouvellement de la chaussée, de la signalisation, des marquages au sol et des dispositifs de retenue dans les communes de Piloña, Nava et Siero.",
+          "L'opération fait partie d'un plan national de 1 629 millions d'euros pour améliorer les routes de toute l'Espagne, bien qu'aucune date de début n'ait encore été fixée."
+        ],
+        "cifra": {
+          "numero": "30,4",
+          "unidad": "kilomètres",
+          "glosa": "C'est la longueur du tronçon qui va être réhabilité, de Villamayor à Marcenado. Pour se faire une idée : c'est à peu près la distance entre Infiesto et Oviedo par la route."
+        },
+        "palabra": null,
+        "porQue": "La N-634 est la route principale qui relie Piloña aux communes voisines de Nava et Siero ; une fois rénovée, les habitants gagneront en sécurité et en confort de conduite au quotidien.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "11,4 Millionen Euro für die Erneuerung der N-634 in Piloña",
+        "entradilla": "Das Verkehrsministerium hat die Sanierung von dreißig Kilometern Straße zwischen Villamayor und Marcenado über Nava und Siero ausgeschrieben.",
+        "cuerpo": [
+          "Der betroffene Abschnitt verläuft von Kilometer 357,5 bis 387,9 der N-634 – rund 30,4 Kilometer, die Bewohner von Piloña, Nava und Siero täglich nutzen, um zwischen den Gemeinden zu pendeln. Die Ausschreibung läuft bereits.",
+          "Die Arbeiten umfassen das Fräsen und Erneuern des Asphalts an den stärker beschädigten Stellen, die Instandsetzung von Abschnitten, an denen der Schaden bis zur Tragschicht reicht, sowie das Aufbringen einer neuen drei Zentimeter starken Deckschicht auf dem gesamten Abschnitt. Auch Fahrbahnmarkierungen, Beschilderung, Leiteinrichtungen und Rückhaltesysteme werden erneuert.",
+          "Die Maßnahme ist Teil des außerordentlichen staatlichen Fahrbahnverbesserungsplans, den Minister Óscar Puente vorantreibt und der 1.629 Millionen Euro für das gesamte nationale Straßennetz umfasst. Ein Baubeginn wurde noch nicht bekanntgegeben."
+        ],
+        "apunte": "Dreißig Kilometer Schlaglöcher mit Verfallsdatum.",
+        "enVeinte": [
+          "Das Verkehrsministerium hat die Sanierung von 30,4 Kilometern der N-634 zwischen Villamayor und Marcenado für 11,4 Millionen Euro ausgeschrieben.",
+          "Die Arbeiten umfassen die Erneuerung des Fahrbahnbelags, der Beschilderung, der Fahrbahnmarkierungen und der Rückhaltesysteme in den Gemeinden Piloña, Nava und Siero.",
+          "Die Maßnahme ist Teil eines nationalen Plans mit 1.629 Millionen Euro zur Verbesserung der Straßen in ganz Spanien, obwohl noch kein Starttermin festgelegt wurde."
+        ],
+        "cifra": {
+          "numero": "30,4",
+          "unidad": "Kilometer",
+          "glosa": "Das ist die Länge des Abschnitts, der saniert werden soll – von Villamayor bis Marcenado. Zur Orientierung: Das entspricht in etwa der Straßenentfernung von Infiesto nach Oviedo."
+        },
+        "palabra": null,
+        "porQue": "Die N-634 ist die wichtigste Verbindungsstraße zwischen Piloña und den benachbarten Gemeinden Nava und Siero. Nach der Erneuerung werden die Anwohner im Alltag mehr Sicherheit und Fahrkomfort gewinnen.",
+        "lugar": "",
         "precio": ""
       }
     }
@@ -21657,6 +22550,128 @@
         },
         "porQue": "Ein bedeutendes Fest im östlichen Asturien wird in der Gemeinde selbst gefeiert, mit dem Bürgermeister von Piloña als öffentlichem Gesicht: Es ist die Art von Veranstaltung, die Infiesto und seine Pfarreien einmal im Jahr auf die regionale Landkarte bringt.",
         "lugar": "Majada de Espineres",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayo",
+    "url": "/pilona/mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayo/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "11,4 millones para arreglar la N-634 en Piloña",
+    "entradilla": "El Ministerio de Transportes saca a concurso las obras de rehabilitación de más de treinta kilómetros entre Villamayor y Marcenado.",
+    "cuerpo": [
+      "La N-634 va a recibir una reforma en profundidad entre Villamayor y Marcenado, a su paso por Piloña, Nava y Siero. El Ministerio de Transportes ha puesto en marcha la licitación con un presupuesto de 11,4 millones de euros.",
+      "El grueso del trabajo es el firme: se fresa el asfalto deteriorado y se reponen las capas bituminosas. El proyecto también contempla sellar grietas, repintar la señalización horizontal, renovar las señales verticales y sustituir los sistemas de contención del tramo.",
+      "La actuación se encuadra en el Plan Extraordinario de mejora de firmes del Estado. Con esta inversión, el gasto acumulado en la red de carreteras de Asturias desde junio de 2018 supera los 240 millones de euros."
+    ],
+    "apunte": "Treinta kilómetros de baches con fecha de caducidad.",
+    "enVeinte": [
+      "El Ministerio de Transportes licita por 11,4 millones la rehabilitación del firme de la N-634 entre Villamayor y Marcenado.",
+      "Los trabajos afectan a más de treinta kilómetros del trazado que cruza Piloña, Nava y Siero, e incluyen asfalto, señalización y sistemas de contención.",
+      "La obra forma parte del Plan Extraordinario de firmes y eleva a más de 240 millones la inversión estatal en carreteras asturianas desde 2018."
+    ],
+    "cifra": {
+      "numero": "240",
+      "unidad": "millones de euros",
+      "glosa": "Es lo que el Estado lleva invertido en la red viaria de Asturias desde junio de 2018. Los 11,4 millones de esta obra se suman a esa cifra acumulada a través del Plan Extraordinario de mejora de firmes."
+    },
+    "palabra": null,
+    "porQue": "Quien recorre a diario la N-634 entre Piloña, Nava y Siero sabe bien el estado del firme; esta licitación es el paso previo a que las máquinas entren a trabajar de verdad.",
+    "etiquetas": [
+      "N-634",
+      "carreteras",
+      "Piloña",
+      "obras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/N-634-Villamayor.jpg",
+    "fecha": "2026-08-21T13:15:59.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/21/08/2026/mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayor-y-marcenao/",
+      "titularOriginal": "Más de once millones para mejorar el firme de la N-634 entre Villamayor y Marcenao"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "€11.4 million to repair the N-634 in Piloña",
+        "entradilla": "The Ministry of Transport has opened a tender for the rehabilitation of more than thirty kilometres between Villamayor and Marcenado.",
+        "cuerpo": [
+          "The N-634 is set for a thorough overhaul between Villamayor and Marcenado, as it passes through the municipalities of Piloña, Nava and Siero. The Ministry of Transport has launched the tender with a budget of €11.4 million.",
+          "The bulk of the work concerns the road surface: the deteriorated asphalt will be milled and the bituminous layers replaced. The project also includes sealing cracks, repainting road markings, renewing vertical signs and replacing the containment systems along the stretch.",
+          "The works form part of the State's Extraordinary Road Surfacing Improvement Plan. With this investment, cumulative spending on the Asturian road network since June 2018 exceeds €240 million."
+        ],
+        "apunte": "Thirty kilometres of potholes with an expiry date.",
+        "enVeinte": [
+          "The Ministry of Transport has put the rehabilitation of the N-634 surface between Villamayor and Marcenado out to tender for €11.4 million.",
+          "The works affect more than thirty kilometres of the route running through Piloña, Nava and Siero, and include resurfacing, road markings and containment systems.",
+          "The project is part of the Extraordinary Road Surfacing Plan and brings total state investment in Asturian roads since 2018 to more than €240 million."
+        ],
+        "cifra": {
+          "numero": "240",
+          "unidad": "million euros",
+          "glosa": "This is the total the State has invested in the Asturian road network since June 2018. The €11.4 million from this project adds to that cumulative figure through the Extraordinary Road Surfacing Improvement Plan."
+        },
+        "palabra": null,
+        "porQue": "Anyone who drives the N-634 daily between Piloña, Nava and Siero knows the state of the road surface; this tender is the step before the machinery moves in to do the real work.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "11,4 millions d'euros pour rénover la N-634 à Piloña",
+        "entradilla": "Le ministère des Transports lance un appel d'offres pour la réhabilitation de plus de trente kilomètres entre Villamayor et Marcenado.",
+        "cuerpo": [
+          "La N-634 va faire l'objet d'une réforme en profondeur entre Villamayor et Marcenado, sur le tronçon traversant les communes de Piloña, Nava et Siero. Le ministère des Transports a lancé l'appel d'offres avec un budget de 11,4 millions d'euros.",
+          "L'essentiel des travaux porte sur la chaussée : le bitume dégradé sera fraisé et les couches bitumineuses remplacées. Le projet prévoit également de colmater les fissures, de repeindre la signalisation horizontale, de renouveler les panneaux verticaux et de remplacer les dispositifs de retenue du tronçon.",
+          "L'opération s'inscrit dans le Plan extraordinaire d'amélioration des chaussées de l'État. Avec cet investissement, les dépenses cumulées sur le réseau routier des Asturies depuis juin 2018 dépassent les 240 millions d'euros."
+        ],
+        "apunte": "Trente kilomètres de nids-de-poule avec une date de péremption.",
+        "enVeinte": [
+          "Le ministère des Transports lance un appel d'offres de 11,4 millions d'euros pour la réhabilitation de la chaussée de la N-634 entre Villamayor et Marcenado.",
+          "Les travaux concernent plus de trente kilomètres du tracé traversant Piloña, Nava et Siero, et incluent le revêtement, la signalisation et les dispositifs de retenue.",
+          "L'opération fait partie du Plan extraordinaire de chaussées et porte à plus de 240 millions d'euros l'investissement de l'État dans les routes asturiennes depuis 2018."
+        ],
+        "cifra": {
+          "numero": "240",
+          "unidad": "millions d'euros",
+          "glosa": "C'est ce que l'État a investi dans le réseau routier des Asturies depuis juin 2018. Les 11,4 millions de ce chantier viennent s'ajouter à ce total cumulé dans le cadre du Plan extraordinaire d'amélioration des chaussées."
+        },
+        "palabra": null,
+        "porQue": "Quiconque emprunte quotidiennement la N-634 entre Piloña, Nava et Siero connaît bien l'état de la chaussée ; cet appel d'offres est l'étape qui précède l'entrée en action des machines.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "11,4 Millionen Euro für die Sanierung der N-634 in Piloña",
+        "entradilla": "Das Verkehrsministerium schreibt die Rehabilitierungsarbeiten für mehr als dreißig Kilometer zwischen Villamayor und Marcenado aus.",
+        "cuerpo": [
+          "Die N-634 soll zwischen Villamayor und Marcenado, auf dem Abschnitt durch die Gemeinden Piloña, Nava und Siero, grundlegend erneuert werden. Das Verkehrsministerium hat die Ausschreibung mit einem Budget von 11,4 Millionen Euro eingeleitet.",
+          "Der Großteil der Arbeiten betrifft die Fahrbahn: Der beschädigte Asphalt wird gefräst und die Bitumenschichten erneuert. Das Projekt umfasst außerdem das Versiegeln von Rissen, das Neumarkieren der Fahrbahnmarkierungen, die Erneuerung der Verkehrszeichen und den Austausch der Rückhaltesysteme des Streckenabschnitts.",
+          "Die Maßnahme ist Teil des Außerordentlichen Staatsplans zur Verbesserung von Fahrbahnbelägen. Mit dieser Investition übersteigen die kumulierten Ausgaben für das Straßennetz Asturiens seit Juni 2018 die Marke von 240 Millionen Euro."
+        ],
+        "apunte": "Dreißig Kilometer Schlaglöcher mit Verfallsdatum.",
+        "enVeinte": [
+          "Das Verkehrsministerium schreibt die Sanierung des Fahrbahnbelags der N-634 zwischen Villamayor und Marcenado für 11,4 Millionen Euro aus.",
+          "Die Arbeiten betreffen mehr als dreißig Kilometer der Strecke durch Piloña, Nava und Siero und umfassen Asphalt, Markierungen und Rückhaltesysteme.",
+          "Das Vorhaben gehört zum Außerordentlichen Fahrbahnplan und hebt die staatlichen Investitionen in asturische Straßen seit 2018 auf über 240 Millionen Euro.",
+          "Die Maßnahme ist Teil des Außerordentlichen Staatsplans zur Verbesserung von Fahrbahnbelägen und bringt die staatlichen Gesamtinvestitionen in das asturische Straßennetz seit 2018 auf über 240 Millionen Euro."
+        ],
+        "cifra": {
+          "numero": "240",
+          "unidad": "Millionen Euro",
+          "glosa": "So viel hat der Staat seit Juni 2018 in das Straßennetz Asturiens investiert. Die 11,4 Millionen Euro dieses Projekts kommen im Rahmen des Außerordentlichen Plans zur Verbesserung von Fahrbahnbelägen zu dieser Gesamtsumme hinzu."
+        },
+        "palabra": null,
+        "porQue": "Wer die N-634 täglich zwischen Piloña, Nava und Siero befährt, kennt den Zustand der Fahrbahn nur zu gut; diese Ausschreibung ist der Schritt, bevor die Maschinen wirklich zu arbeiten beginnen.",
+        "lugar": "",
         "precio": ""
       }
     }
@@ -22453,6 +23468,71 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "alrededor-de-150-piloneses-viajaran-a-navelgas-para-participar-en-el-d",
+    "url": "/pilona/alrededor-de-150-piloneses-viajaran-a-navelgas-para-participar-en-el-d/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Infiesto, pueblo homenajeado en Navelgas el 30 de agosto",
+    "entradilla": "Unos 150 piloñeses subirán a tres autobuses para recibir la Paloma de la Fraternidad en la XLIV edición del Día de los Pueblos de Asturias.",
+    "cuerpo": [
+      "El domingo 30 de agosto, Navelgas (Tineo) celebra el Día de los Pueblos de Asturias y este año le toca el turno a Infiesto: la capital de Piloña será la localidad homenajeada en la edición número 44 de esta fiesta declarada de Interés Turístico Regional.",
+      "El acto principal arranca a las 12:30, cuando se descubra el nombre de Infiesto en el monumento de la Plaza del Día de los Pueblos. Después habrá una comida de hermandad abierta a todos los visitantes que se acerquen desde Piloña y sus alrededores.",
+      "Desde Piloña saldrán tres autobuses con alrededor de 150 personas. La Asociación de Pensionistas del concejo colabora en la organización del viaje. El alcalde Iván Allende estuvo en la presentación del acto junto a Manuel García Linares y la presidenta de la Asociación Cultural El Arbedeiro, Alba Iglesias Gómez."
+    ],
+    "apunte": "El alcalde lo resumió bien: \"Presta mucho que se acuerden de nosotros.\"",
+    "enVeinte": [
+      "El 30 de agosto, Navelgas homenajea a Infiesto en el Día de los Pueblos de Asturias, ya en su edición 44.",
+      "El acto central es a las 12:30, con el descubrimiento del nombre de Infiesto en el monumento de la plaza y una comida de hermandad para todos los visitantes.",
+      "Unos 150 piloñeses viajarán en tres autobuses, con la Asociación de Pensionistas del concejo colaborando en el viaje."
+    ],
+    "cifra": {
+      "numero": "150",
+      "unidad": "piloñeses",
+      "glosa": "Esas 150 personas llenarán tres autobuses completos. Es la representación que Piloña lleva a Navelgas para el homenaje a Infiesto, la cifra más visible del vínculo entre los dos concejos en esta edición."
+    },
+    "palabra": {
+      "termino": "El Arbedeiro",
+      "como": "el ar-be-DEI-ro",
+      "definicion": "Arbusto autóctono del paisaje asturiano, el madroño en castellano. La Asociación Cultural El Arbedeiro, fundada en Navelgas, tomó su nombre de este árbol de monte y fue quien impulsó el Día de los Pueblos en 1980."
+    },
+    "porQue": "Que Infiesto sea la localidad homenajeada este año pone el nombre de Piloña delante de toda Asturias en una de sus fiestas más veteranas; y hay plaza en los autobuses para quien quiera ir.",
+    "etiquetas": [
+      "Piloña",
+      "Navelgas",
+      "Día de los Pueblos",
+      "Infiesto"
+    ],
+    "fechaEvento": "2026-08-30",
+    "tipoEvento": "fiesta",
+    "lugar": "Navelgas (Tineo)",
+    "hora": "12:30",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/DIA-PUEBLOS-DE-ASTURIAS-Navelgas.Infiesto-1.jpeg",
+    "fecha": "2026-08-19T14:22:44.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/19/08/2026/alrededor-de-150-piloneses-viajaran-a-navelgas-para-participar-en-el-dia-de-los-pueblos-de-asturias/",
+      "titularOriginal": "Alrededor de 150 piloñeses viajarán a Navelgas para participar en el Día de los Pueblos de Asturias"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "la xliv edicion del dia de los pueblos",
+      "xliv edicion del dia de los pueblos de",
+      "edicion del dia de los pueblos de asturias",
+      "el nombre de infiesto en el monumento de",
+      "nombre de infiesto en el monumento de la",
+      "de infiesto en el monumento de la plaza",
+      "infiesto en el monumento de la plaza del",
+      "en el monumento de la plaza del dia",
+      "el monumento de la plaza del dia de",
+      "monumento de la plaza del dia de los",
+      "de la plaza del dia de los pueblos"
+    ]
   },
   {
     "id": "isidro-cueto-una-vida-entre-asturcones",
@@ -23692,6 +24772,112 @@
     "trad": {},
     "revisar": [
       "itinerante de mucho foco en lo rural que"
+    ]
+  },
+  {
+    "id": "aprobacion-inicial-del-reglamento-de-uso-de-la-sala-de-estudios-munici",
+    "url": "/villaviciosa/aprobacion-inicial-del-reglamento-de-uso-de-la-sala-de-estudios-munici/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa regula el uso de su sala de estudios",
+    "entradilla": "El pleno municipal aprobó el pasado 30 de julio el reglamento que fijará las normas de la sala.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa da un paso para ordenar el acceso a la sala de estudios municipal: el pleno aprobó de forma inicial su reglamento de uso en la sesión ordinaria del 30 de julio de 2026.",
+      "La aprobación es todavía inicial, lo que significa que el texto pasa ahora por un periodo de exposición pública antes de quedar definitivamente vigente. Quien quiera consultarlo puede hacerlo en el tablón de anuncios de la sede electrónica del ayuntamiento."
+    ],
+    "apunte": "Ahora a esperar el trámite de exposición pública: la sala tendrá sus reglas, pero aún no del todo.",
+    "enVeinte": [
+      "El pleno de Villaviciosa aprobó el 30 de julio de 2026 el reglamento de uso de la sala de estudios municipal.",
+      "La aprobación es inicial, así que el texto debe pasar aún por exposición pública antes de entrar en vigor.",
+      "El documento está disponible para consulta en el tablón de anuncios de la sede electrónica del ayuntamiento."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si usas la sala de estudios municipal de Villaviciosa, o tienes pensado hacerlo, el nuevo reglamento definirá las condiciones de acceso y las normas que habrá que cumplir a partir de ahora.",
+    "etiquetas": [
+      "Villaviciosa",
+      "sala de estudios",
+      "reglamento",
+      "ayuntamiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-08-14T11:03:00.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19749468",
+      "titularOriginal": "Aprobación inicial del Reglamento de uso de la sala de estudios municipal del Ayuntamiento de Villaviciosa",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa regulates the use of its study room",
+        "entradilla": "The full council approved the regulations governing the room on 30 July.",
+        "cuerpo": [
+          "The council of Villaviciosa is taking a step to organise access to the municipal study room: the full council gave initial approval to its usage regulations at the ordinary session held on 30 July 2026.",
+          "The approval is still initial, which means the text now enters a period of public consultation before coming into definitive force. Anyone wishing to review it can do so on the notice board of the council's electronic office."
+        ],
+        "apunte": "Now to wait for the public consultation process: the room will have its rules, but not quite yet.",
+        "enVeinte": [
+          "The full council of Villaviciosa approved the usage regulations for the municipal study room on 30 July 2026.",
+          "The approval is initial, so the text must still go through a public consultation period before coming into force.",
+          "The document is available for review on the notice board of the council's electronic office."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you use the municipal study room in Villaviciosa, or are thinking of doing so, the new regulations will set out the conditions of access and the rules that must be followed from now on.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa réglemente l'utilisation de sa salle d'étude",
+        "entradilla": "Le conseil municipal a approuvé le 30 juillet dernier le règlement qui fixera les normes de la salle.",
+        "cuerpo": [
+          "La mairie de Villaviciosa franchit une étape pour organiser l'accès à la salle d'étude municipale : le conseil municipal a approuvé à titre initial son règlement d'utilisation lors de la séance ordinaire du 30 juillet 2026.",
+          "Cette approbation est encore initiale, ce qui signifie que le texte entre désormais dans une période de consultation publique avant d'entrer définitivement en vigueur. Toute personne souhaitant le consulter peut le faire sur le tableau d'affichage du siège électronique de la mairie."
+        ],
+        "apunte": "Place maintenant à la procédure de consultation publique : la salle aura ses règles, mais pas tout à fait encore.",
+        "enVeinte": [
+          "Le conseil municipal de Villaviciosa a approuvé le 30 juillet 2026 le règlement d'utilisation de la salle d'étude municipale.",
+          "L'approbation est initiale, aussi le texte doit-il encore passer par une consultation publique avant d'entrer en vigueur.",
+          "Le document est disponible à la consultation sur le tableau d'affichage du siège électronique de la mairie."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous utilisez la salle d'étude municipale de Villaviciosa, ou si vous envisagez de le faire, le nouveau règlement définira les conditions d'accès et les normes à respecter dorénavant.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa regelt die Nutzung seines Lernraums",
+        "entradilla": "Der Gemeinderat stimmte am 30. Juli der Ordnung zu, die die Regeln für den Raum festlegen wird.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa unternimmt einen Schritt, um den Zugang zum städtischen Lernraum zu ordnen: Der Gemeinderat erteilte in der ordentlichen Sitzung vom 30. Juli 2026 seine vorläufige Zustimmung zur Nutzungsordnung.",
+          "Die Zustimmung ist noch vorläufig, was bedeutet, dass der Text nun eine öffentliche Auslegungsfrist durchläuft, bevor er endgültig in Kraft tritt. Wer ihn einsehen möchte, kann dies am Aushangbrett des elektronischen Amtssitzes des Rathauses tun."
+        ],
+        "apunte": "Jetzt heißt es, die öffentliche Auslegungsfrist abzuwarten: Der Raum wird seine Regeln bekommen, aber noch nicht ganz.",
+        "enVeinte": [
+          "Der Gemeinderat von Villaviciosa hat am 30. Juli 2026 die Nutzungsordnung für den städtischen Lernraum vorläufig genehmigt.",
+          "Die Genehmigung ist vorläufig, sodass der Text noch eine öffentliche Auslegungsfrist durchlaufen muss, bevor er in Kraft tritt.",
+          "Das Dokument ist am Aushangbrett des elektronischen Amtssitzes des Rathauses einsehbar."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Sie den städtischen Lernraum in Villaviciosa nutzen oder dies vorhaben, wird die neue Ordnung die Zugangsbedingungen und die ab sofort geltenden Regeln festlegen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "tablon de anuncios de la sede electronica del",
+      "de anuncios de la sede electronica del ayuntamiento"
     ]
   },
   {
@@ -29890,88 +31076,5 @@
     "revisar": [
       "en la fiesta de la sidra de nava"
     ]
-  },
-  {
-    "id": "viuda-de-corsino-mejor-sidra-local-en-el-festival-de-nava",
-    "url": "/nava/viuda-de-corsino-mejor-sidra-local-en-el-festival-de-nava/",
-    "concejo": "Nava",
-    "concejoSlug": "nava",
-    "seccion": "deporte-y-cultura",
-    "titular": "El título local del Festival de Nava, para Viuda de Corsino",
-    "entradilla": "En la categoría general ganó Sidra Contrueces, que se lo lleva para Gijón.",
-    "cuerpo": [
-      "El jurado del Festival de Nava dio el título de mejor sidra local a Viuda de Corsino. En la categoría general, el reconocimiento a la mejor de Asturias se fue a Gijón, para Contrueces.",
-      "El de Nava es el certamen que más pesa del año en el sector, y el premio local tiene un prestigio propio: se compite en casa y contra los vecinos, que es contra quien de verdad duele perder.",
-      "Los fallos se dieron a conocer dentro del programa del Festival, que cada julio convierte la villa en la capital de la manzana."
-    ],
-    "etiquetas": [
-      "Sidra",
-      "Premios",
-      "Festival de la Sidra"
-    ],
-    "imagen": "",
-    "fecha": "2026-07-12T09:28:28.000Z",
-    "fechaEvento": "",
-    "fuente": {
-      "nombre": "El Fielato",
-      "url": "https://www.elfielato.es/articulo/nava/viuda-corsino-mejor-sidra-festival-nava/20260712112828099464.html",
-      "titularOriginal": "Viuda de Corsino, Mejor Sidra Local en el Festival de Nava"
-    },
-    "reescrito": true,
-    "apunte": "",
-    "tipoEvento": "concierto",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "trad": {
-      "en": {
-        "titular": "The local title at Festival de Nava goes to Viuda de Corsino",
-        "entradilla": "In the open category, Sidra Contrueces won, taking the prize to Gijón.",
-        "cuerpo": [
-          "The jury at Festival de Nava awarded the title of best local cider to Viuda de Corsino. In the open category, the prize for best cider in Asturias went to Gijón, to Contrueces.",
-          "Festival de Nava is the most important competition of the year in the sector, and the local prize carries its own prestige: you compete on home ground, against your neighbours — and those are the ones it really hurts to lose to.",
-          "The results were announced as part of the Festival programme, which every July turns the town into the apple capital."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le titre local du Festival de Nava pour Viuda de Corsino",
-        "entradilla": "Dans la catégorie générale, c'est Sidra Contrueces qui l'emporte, ramenant le prix à Gijón.",
-        "cuerpo": [
-          "Le jury du Festival de Nava a décerné le titre de meilleur cidre local à Viuda de Corsino. Dans la catégorie générale, la récompense de la meilleure sidre des Asturies est allée à Gijón, pour Contrueces.",
-          "Le Festival de Nava est le concours le plus important de l'année dans le secteur, et le prix local a un prestige bien à lui : on y concourt chez soi, face aux voisins — et c'est contre eux que perdre fait vraiment mal.",
-          "Les résultats ont été annoncés dans le cadre du programme du Festival, qui chaque juillet transforme le bourg en capitale de la pomme."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Der lokale Titel beim Festival de Nava geht an Viuda de Corsino",
-        "entradilla": "In der offenen Kategorie gewann Sidra Contrueces und nimmt den Preis nach Gijón mit.",
-        "cuerpo": [
-          "Die Jury des Festival de Nava kürte Viuda de Corsino zur besten lokalen Sidra. In der offenen Kategorie ging die Auszeichnung für die beste Sidra Asturiens nach Gijón, an Contrueces.",
-          "Das Festival de Nava ist der bedeutendste Wettbewerb des Jahres in der Branche, und der lokale Preis hat ein eigenes Gewicht: Man tritt zu Hause an, gegen die Nachbarn — und gegen die tut eine Niederlage am meisten weh.",
-          "Die Ergebnisse wurden im Rahmen des Festivalprogramms bekanntgegeben, das den Ort jeden Juli in die Hauptstadt des Apfels verwandelt."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   }
 ]

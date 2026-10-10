@@ -24,77 +24,11 @@
       "motivo": "respuesta sin titular (stop_reason: end_turn)",
       "ultima": "2026-10-10T06:44:03.936Z"
     },
-    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=20013498": {
-      "intentos": 1,
-      "titulo": "Noticia - Programa Joven Ocupate 2026",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:51:24.638Z"
-    },
-    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19992104": {
-      "intentos": 1,
-      "titulo": "Programación del mes de octubre en la Casa de Cultura \"Marta Portal\"",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:51:26.890Z"
-    },
-    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19803508": {
-      "intentos": 1,
-      "titulo": "Actividades deportivas 26-27 y horarios de inscripcion",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:53:47.845Z"
-    },
-    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19738827": {
-      "intentos": 1,
-      "titulo": "VII Premio de Novela Corta de Terror e Historias Fantásticas \"Casa de Cultura Marta Portal\"",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:54:17.308Z"
-    },
-    "cabrales.es/detalle-rss?articleid=20032808": {
-      "intentos": 1,
-      "titulo": "Caminando por Cabrales",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:55:45.126Z"
-    },
-    "cabrales.es/detalle-rss?articleid=20030620": {
-      "intentos": 1,
-      "titulo": "Ayudas de Protección a la Familia y Atención a la Pobreza Infantil 2026",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:56:11.230Z"
-    },
     "cabrales.es/detalle-rss?articleid=20030572": {
       "intentos": 1,
       "titulo": "Ayudas contra la pobreza energética",
       "motivo": "respuesta sin titular (stop_reason: end_turn)",
       "ultima": "2026-10-10T06:56:13.635Z"
-    },
-    "cabrales.es/detalle-rss?articleid=20018035": {
-      "intentos": 1,
-      "titulo": "Cursos gratuitos presenciales en Cabrales",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:56:39.519Z"
-    },
-    "cabrales.es/detalle-rss?articleid=19986805": {
-      "intentos": 1,
-      "titulo": "Nuestra Señora del Rosario-Tielve",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:56:42.648Z"
-    },
-    "cabrales.es/detalle-rss?articleid=19978047": {
-      "intentos": 1,
-      "titulo": "4 subida Cabrales",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:57:22.432Z"
-    },
-    "cabrales.es/detalle-rss?articleid=19868137": {
-      "intentos": 1,
-      "titulo": "La Salud 2026",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T06:57:55.920Z"
-    },
-    "villaviciosa.es/detalle-rss?articleid=19954445": {
-      "intentos": 1,
-      "titulo": "noticia: actividades deportivas 2627",
-      "motivo": "respuesta sin titular (stop_reason: end_turn)",
-      "ultima": "2026-10-10T07:01:34.433Z"
     }
   },
   "descartadas": {
@@ -252,6 +186,71 @@
       "motivo": "duplicado de /villaviciosa/villaviciosa-presume-de-sus-ganaderos-y-cultura-rural/",
       "fecha": "2026-10-10T06:43:27.266Z",
       "titulo": "Jornada de Homenaje a la Cultura Rural y a los Ganaderos de Villaviciosa"
+    },
+    "cabrales.es/detalle-rss?articleid=20030572": {
+      "motivo": "duplicado de /cabrales/cabrales-lanza-un-programa-de-ayudas-para-combatir-la-pobreza-energeti/",
+      "fecha": "2026-10-10T11:21:36.967Z",
+      "titulo": "Ayudas contra la pobreza energética"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=20013498": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:26:58.249Z",
+      "titulo": "Noticia - Programa Joven Ocupate 2026"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19992104": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:00.361Z",
+      "titulo": "Programación del mes de octubre en la Casa de Cultura \"Marta Portal\""
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19803508": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:02.777Z",
+      "titulo": "Actividades deportivas 26-27 y horarios de inscripcion"
+    },
+    "ayto-nava.es/web/ayto-nava/detalle-rss?articleid=19738827": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:04.981Z",
+      "titulo": "VII Premio de Novela Corta de Terror e Historias Fantásticas \"Casa de Cultura Marta Portal\""
+    },
+    "cabrales.es/detalle-rss?articleid=20032808": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:45.740Z",
+      "titulo": "Caminando por Cabrales"
+    },
+    "cabrales.es/detalle-rss?articleid=20030620": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:49.507Z",
+      "titulo": "Ayudas de Protección a la Familia y Atención a la Pobreza Infantil 2026"
+    },
+    "cabrales.es/detalle-rss?articleid=20018035": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:51.719Z",
+      "titulo": "Cursos gratuitos presenciales en Cabrales"
+    },
+    "cabrales.es/detalle-rss?articleid=19986805": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:54.137Z",
+      "titulo": "Nuestra Señora del Rosario-Tielve"
+    },
+    "cabrales.es/detalle-rss?articleid=19978047": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:57.313Z",
+      "titulo": "4 subida Cabrales"
+    },
+    "cabrales.es/detalle-rss?articleid=19868137": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:27:59.664Z",
+      "titulo": "La Salud 2026"
+    },
+    "cabrales.es/detalle-rss?articleid=19847950": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:28:01.574Z",
+      "titulo": "Becas comedor escolar y material educativo"
+    },
+    "villaviciosa.es/detalle-rss?articleid=19954445": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-10T11:28:03.812Z",
+      "titulo": "noticia: actividades deportivas 2627"
     }
   }
 }
