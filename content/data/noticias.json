@@ -1,5 +1,239 @@
 [
   {
+    "id": "la-iglesia-de-rales-en-villaviciosa-a-punto-de-colapsar-hay-un-riesgo-",
+    "url": "/villaviciosa/la-iglesia-de-rales-en-villaviciosa-a-punto-de-colapsar-hay-un-riesgo-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Vecinos piden al Arzobispado que salve la iglesia de Rales",
+    "entradilla": "El templo villaviciosino amenaza ruina y los vecinos ya han dicho basta.",
+    "cuerpo": [
+      "Un grupo de residentes de Rales ha advertido al Arzobispado de que la iglesia del pueblo está al borde del derrumbe y exige que se actúe antes de que sea demasiado tarde.",
+      "Según los vecinos, el riesgo es evidente y el deterioro avanza sin que nadie lo frene."
+    ],
+    "apunte": "La iglesia aguanta, pero por poco.",
+    "enVeinte": [
+      "Vecinos de Rales alertan de que su iglesia puede derrumbarse si el Arzobispado no interviene pronto.",
+      "El deterioro del templo es visible y el grupo que lo denuncia lo califica de riesgo claro.",
+      "La pelota está ahora en el tejado del Arzobispado, que es quien debe decidir qué se hace."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concejo",
+      "como": "con-CE-yo",
+      "definicion": "En Asturias, el concejo es la división administrativa equivalente al municipio en el resto de España. Villaviciosa es el concejo al que pertenece la parroquia de Rales."
+    },
+    "porQue": "Si la iglesia colapsa, Rales pierde un referente del paisaje y la memoria del pueblo que no se recupera; lo que pase en las próximas semanas marcará si queda algo que salvar.",
+    "etiquetas": [
+      "Villaviciosa",
+      "patrimonio",
+      "Arzobispado",
+      "Rales"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/09/rales-iglesia-exterior-Ru9GEYnueip4s2X6YWrjlWJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-10T11:47:13.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/iglesia-rales-villaviciosa-punto-colapsar-riesgo-claro-20261009134712-nt.html",
+      "titularOriginal": "La iglesia de Rales, en Villaviciosa, a punto de colapsar: «Hay un riesgo claro»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Residents urge the Archbishopric to save the church of Rales",
+        "entradilla": "The church in Villaviciosa municipality is on the verge of collapse, and residents have had enough.",
+        "cuerpo": [
+          "A group of residents of Rales has warned the Archbishopric that the village church is on the brink of collapse and is demanding action before it is too late.",
+          "According to residents, the risk is plain to see and the deterioration is advancing with nothing to stop it."
+        ],
+        "apunte": "The church is holding on, but only just.",
+        "enVeinte": [
+          "Residents of Rales are warning that their church could collapse if the Archbishopric does not step in soon.",
+          "The deterioration of the building is visible, and the group raising the alarm describes it as a clear risk.",
+          "The ball is now in the Archbishopric's court — it is up to them to decide what happens next."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concejo",
+          "como": "con-CE-yo",
+          "definicion": "In Asturias, a concejo is the administrative division equivalent to a municipality in the rest of Spain. Villaviciosa is the municipality to which the parish of Rales belongs."
+        },
+        "porQue": "If the church collapses, Rales loses a landmark and a piece of the village's living memory that cannot be recovered; what happens in the coming weeks will determine whether anything is left worth saving.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des habitants demandent à l'Archevêché de sauver l'église de Rales",
+        "entradilla": "Le temple de la commune de Villaviciosa menace ruine et les habitants ont dit stop.",
+        "cuerpo": [
+          "Un groupe de résidents de Rales a averti l'Archevêché que l'église du village est au bord de l'effondrement et exige que des mesures soient prises avant qu'il ne soit trop tard.",
+          "Selon les habitants, le danger est évident et la dégradation progresse sans que personne ne l'enraye."
+        ],
+        "apunte": "L'église tient encore, mais de justesse.",
+        "enVeinte": [
+          "Les habitants de Rales alertent sur le risque d'effondrement de leur église si l'Archevêché n'intervient pas rapidement.",
+          "La dégradation du bâtiment est visible, et le groupe qui la dénonce la qualifie de danger manifeste.",
+          "La balle est désormais dans le camp de l'Archevêché, seul à même de décider de la marche à suivre."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concejo",
+          "como": "con-CE-yo",
+          "definicion": "En Asturies, le concejo est la division administrative équivalente à la commune dans le reste de l'Espagne. Villaviciosa est la commune à laquelle appartient la paroisse de Rales."
+        },
+        "porQue": "Si l'église s'effondre, Rales perd un repère du paysage et de la mémoire collective du village qui ne se retrouvera jamais ; ce qui se passe dans les prochaines semaines déterminera s'il reste encore quelque chose à sauver.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Anwohner fordern das Erzbistum auf, die Kirche von Rales zu retten",
+        "entradilla": "Die Kirche in der Gemeinde Villaviciosa ist einsturzgefährdet, und die Anwohner haben genug.",
+        "cuerpo": [
+          "Eine Gruppe von Bewohnern aus Rales hat das Erzbistum gewarnt, dass die Dorfkirche kurz vor dem Einsturz steht, und fordert, dass gehandelt wird, bevor es zu spät ist.",
+          "Laut den Bewohnern ist die Gefahr offensichtlich und der Verfall schreitet voran, ohne dass jemand ihn aufhält."
+        ],
+        "apunte": "Die Kirche hält noch stand — aber nur knapp.",
+        "enVeinte": [
+          "Bewohner von Rales warnen, dass ihre Kirche einstürzen könnte, wenn das Erzbistum nicht bald eingreift.",
+          "Der Verfall des Gebäudes ist sichtbar, und die Gruppe, die ihn anprangert, bezeichnet ihn als eindeutige Gefahr.",
+          "Der Ball liegt nun beim Erzbistum, das entscheiden muss, was als Nächstes geschieht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concejo",
+          "como": "con-CE-yo",
+          "definicion": "In Asturien ist ein concejo die Verwaltungseinheit, die der Gemeinde im übrigen Spanien entspricht. Villaviciosa ist die Gemeinde, zu der die Pfarrei Rales gehört."
+        },
+        "porQue": "Wenn die Kirche zusammenbricht, verliert Rales ein Wahrzeichen der Landschaft und des kollektiven Gedächtnisses des Dorfes, das sich nicht wiederherstellen lässt; was in den nächsten Wochen geschieht, wird zeigen, ob noch etwas zu retten bleibt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresarial",
+    "url": "/pilona/la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresarial/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "L'Infiestu acoge la feria de emprendedoras el día 17",
+    "entradilla": "La cuarta edición del encuentro quiere abrir puertas entre mujeres que llevan o arrancan un negocio.",
+    "cuerpo": [
+      "El próximo 17 de octubre L'Infiestu será el escenario de la IV Feria de Emprendedoras de Asturias, una cita pensada para quienes ya tienen una empresa en marcha o están a punto de lanzarla.",
+      "El objetivo es doble: reforzar los proyectos que ya existen y crear conexiones entre mujeres que pueden colaborar o apoyarse."
+    ],
+    "apunte": "Cuatro ediciones después, la feria ya tiene historia propia en Piloña.",
+    "enVeinte": [
+      "El 17 de octubre se celebra en L'Infiestu la IV Feria de Emprendedoras de Asturias.",
+      "El encuentro busca fortalecer proyectos empresariales liderados por mujeres y fomentar la colaboración entre ellas.",
+      "No se han dado a conocer la hora exacta ni el precio de entrada."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "L'Infiestu",
+      "como": "l-in-FIES-tu",
+      "definicion": "Nombre asturiano de Infiesto, capital del concejo de Piloña. Así lo llaman por aquí y así aparece en la señalización oficial bilingüe."
+    },
+    "porQue": "Si tienes o sueñas con un negocio propio en el concejo, el 17 de octubre tienes en casa una feria pensada exactamente para eso.",
+    "etiquetas": [
+      "emprendimiento",
+      "mujeres",
+      "L'Infiestu",
+      "Piloña"
+    ],
+    "fechaEvento": "2026-10-17",
+    "tipoEvento": "feria",
+    "lugar": "L'Infiestu",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/la-iv-feria-de-emprendedoras-de-asturias-impulsa-proye-11671.jpg",
+    "fecha": "2026-10-10T11:23:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresariales-liderados-por-mujeres-11276392.html",
+      "titularOriginal": "La IV Feria de Emprendedoras de Asturias impulsa proyectos empresariales liderados por mujeres"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "L'Infiestu hosts the women entrepreneurs' fair on the 17th",
+        "entradilla": "The fourth edition of the event aims to open doors for women running or starting a business.",
+        "cuerpo": [
+          "On 17 October, L'Infiestu will be the venue for the IV Feria de Emprendedoras de Asturias, an event designed for those who already have a business up and running or are about to launch one.",
+          "The aim is twofold: to strengthen existing projects and to build connections between women who can collaborate or support each other."
+        ],
+        "apunte": "Four editions in, the fair has already made its mark in Piloña.",
+        "enVeinte": [
+          "The IV Feria de Emprendedoras de Asturias takes place in L'Infiestu on 17 October.",
+          "The event seeks to strengthen business projects led by women and encourage collaboration among them.",
+          "The exact time and entry price have not yet been announced."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "L'Infiestu",
+          "como": "l-in-FIES-tu",
+          "definicion": "The Asturian name for Infiesto, the main town of the municipality of Piloña. This is what locals call it, and it appears on the official bilingual road signs."
+        },
+        "porQue": "If you have or dream of running your own business in the municipality, on 17 October there is a fair right on your doorstep designed for exactly that.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'Infiestu accueille la foire des femmes entrepreneures le 17",
+        "entradilla": "La quatrième édition de la rencontre souhaite ouvrir des portes aux femmes qui dirigent ou lancent une entreprise.",
+        "cuerpo": [
+          "Le 17 octobre prochain, L'Infiestu sera le cadre de la IV Feria de Emprendedoras de Asturias, un rendez-vous pensé pour celles qui ont déjà une entreprise en activité ou sont sur le point d'en lancer une.",
+          "L'objectif est double : consolider les projets existants et créer des liens entre femmes susceptibles de collaborer ou de se soutenir mutuellement."
+        ],
+        "apunte": "Quatre éditions après ses débuts, la foire a déjà sa propre histoire à Piloña.",
+        "enVeinte": [
+          "La IV Feria de Emprendedoras de Asturias se tient à L'Infiestu le 17 octobre.",
+          "La rencontre cherche à renforcer les projets d'entreprise menés par des femmes et à favoriser la collaboration entre elles.",
+          "L'heure exacte et le prix d'entrée n'ont pas encore été communiqués."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "L'Infiestu",
+          "como": "l-in-FIES-tu",
+          "definicion": "Nom asturien d'Infiesto, chef-lieu de la commune de Piloña. C'est ainsi que les habitants l'appellent, et c'est ainsi qu'il figure sur la signalisation officielle bilingue."
+        },
+        "porQue": "Si vous avez ou rêvez d'avoir votre propre entreprise dans la commune, le 17 octobre vous offre une foire faite exactement pour cela, juste chez vous.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      },
+      "de": {
+        "titular": "L'Infiestu ist am 17. Gastgeber der Gründerinnenmesse",
+        "entradilla": "Die vierte Ausgabe der Veranstaltung will Türen öffnen für Frauen, die ein Unternehmen führen oder gründen.",
+        "cuerpo": [
+          "Am 17. Oktober wird L'Infiestu Schauplatz der IV Feria de Emprendedoras de Asturias sein, einer Veranstaltung, die sich an Frauen richtet, die bereits ein Unternehmen betreiben oder kurz davor stehen, eines zu gründen.",
+          "Das Ziel ist doppelt: bestehende Projekte stärken und Verbindungen zwischen Frauen schaffen, die zusammenarbeiten oder sich gegenseitig unterstützen können."
+        ],
+        "apunte": "Nach vier Ausgaben hat die Messe in Piloña bereits ihre eigene Geschichte.",
+        "enVeinte": [
+          "Die IV Feria de Emprendedoras de Asturias findet am 17. Oktober in L'Infiestu statt.",
+          "Die Veranstaltung will von Frauen geführte Unternehmensprojekte stärken und die Zusammenarbeit unter ihnen fördern.",
+          "Genaue Uhrzeit und Eintrittspreis wurden noch nicht bekanntgegeben."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "L'Infiestu",
+          "como": "l-in-FIES-tu",
+          "definicion": "Der asturische Name für Infiesto, den Hauptort der Gemeinde Piloña. So nennen es die Einheimischen, und so erscheint es auf den offiziellen zweisprachigen Ortsschildern."
+        },
+        "porQue": "Wer in der Gemeinde ein eigenes Unternehmen hat oder davon träumt, findet am 17. Oktober direkt vor Ort eine Messe, die genau dafür gemacht ist.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "los-greim-refuerzan-su-preparacion-para-rescates-en-el-urriellu",
     "url": "/cabrales/los-greim-refuerzan-su-preparacion-para-rescates-en-el-urriellu/",
     "concejo": "Cabrales",
@@ -30940,141 +31174,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "la-degustacion-de-bonito-del-norte-agota-sus-300-raciones-en-la-fiesta",
-    "url": "/nava/la-degustacion-de-bonito-del-norte-agota-sus-300-raciones-en-la-fiesta/",
-    "concejo": "Nava",
-    "concejoSlug": "nava",
-    "seccion": "deporte-y-cultura",
-    "titular": "El bonito de la Fiesta agota 300 raciones en Nava",
-    "entradilla": "Opasturias llenó la cita sidrera con una degustación que se quedó sin producto antes de que sobrara apetito.",
-    "cuerpo": [
-      "La degustación de Bonito del Norte que Opasturias montó en la Fiesta de la Sidra de Nava se cerró con las 300 raciones repartidas y sin una de sobra.",
-      "La iniciativa quiso poner en valor la pesca artesanal asturiana y lo consiguió: la afluencia fue notable y el producto voló."
-    ],
-    "apunte": "Trescientas raciones y ni una para el que llegó tarde.",
-    "enVeinte": [
-      "La degustación de Bonito del Norte de la Fiesta de la Sidra de Nava agotó sus 300 raciones.",
-      "La organizó Opasturias con el objetivo de promocionar la pesca artesanal asturiana.",
-      "El éxito de asistencia dejó claro que el bonito y la sidra se entienden bien en Nava."
-    ],
-    "cifra": {
-      "numero": "300",
-      "unidad": "raciones",
-      "glosa": "Esas 300 raciones de Bonito del Norte marcaban el techo de la degustación. Que se agotaran todas indica que la demanda superó a la oferta, señal habitual de que un evento funciona."
-    },
-    "palabra": {
-      "termino": "espicha",
-      "como": "es-PI-cha",
-      "definicion": "Fiesta asturiana en torno a la apertura de un tonel de sidra. Aunque aquí la cita es la Fiesta de la Sidra, la espicha es el formato más íntimo y tradicional de celebrar la sidrina en Asturias."
-    },
-    "porQue": "Que una iniciativa así agote 300 raciones en Nava muestra el tirón que tiene la Fiesta de la Sidra y abre la puerta a que Opasturias repita o amplíe la propuesta el año que viene.",
-    "etiquetas": [
-      "Nava",
-      "Fiesta de la Sidra",
-      "bonito del norte",
-      "Opasturias"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "gastro",
-    "lugar": "Nava",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/12/2026071211132762286.jpg",
-    "fecha": "2026-07-12T14:11:11.000Z",
-    "fuente": {
-      "nombre": "Nava · feed propio",
-      "url": "https://www.elfielato.es/articulo/nava/degustacion-bonito-norte-agota-300-raciones-fiesta-sidra-nava/20260712121111099465.html",
-      "titularOriginal": "La degustación de Bonito del Norte agota sus 300 raciones en la Fiesta de la Sidra de Nava"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The festival tuna sells out 300 portions in Nava",
-        "entradilla": "Opasturias filled the cider event with a tasting that ran out of product before anyone ran out of appetite.",
-        "cuerpo": [
-          "The Bonito del Norte tasting organised by Opasturias at the Fiesta de la Sidra de Nava closed with all 300 portions handed out and not one to spare.",
-          "The initiative set out to highlight Asturian artisanal fishing — and it succeeded: turnout was remarkable and the product flew."
-        ],
-        "apunte": "Three hundred portions, and none left for anyone who arrived late.",
-        "enVeinte": [
-          "The Bonito del Norte tasting at the Fiesta de la Sidra de Nava sold out all 300 portions.",
-          "It was organised by Opasturias with the aim of promoting Asturian artisanal fishing.",
-          "The strong attendance made it clear that tuna and cider go very well together in Nava."
-        ],
-        "cifra": {
-          "numero": "300",
-          "unidad": "portions",
-          "glosa": "Those 300 portions of Bonito del Norte marked the ceiling of the tasting. The fact that every single one was taken shows that demand outstripped supply — a reliable sign that an event is working."
-        },
-        "palabra": {
-          "termino": "espicha",
-          "como": "es-PI-cha",
-          "definicion": "An Asturian celebration centred on the opening of a cider barrel. Although the occasion here is the Fiesta de la Sidra, the espicha is the most intimate and traditional way of marking cider culture in Asturias."
-        },
-        "porQue": "An initiative like this selling out 300 portions in Nava shows the drawing power of the Fiesta de la Sidra and opens the door for Opasturias to repeat or expand the offer next year.",
-        "lugar": "Nava",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le bonito de la Fiesta épuise 300 portions à Nava",
-        "entradilla": "Opasturias a rempli le rendez-vous cidrier avec une dégustation qui s'est retrouvée sans produit avant que l'appétit soit rassasié.",
-        "cuerpo": [
-          "La dégustation de Bonito del Norte organisée par Opasturias lors de la Fiesta de la Sidra de Nava s'est terminée avec les 300 portions distribuées et pas une de reste.",
-          "L'initiative voulait mettre en valeur la pêche artisanale asturienne, et elle y est parvenue : l'affluence a été notable et le produit s'est envolé."
-        ],
-        "apunte": "Trois cents portions, et pas une pour celui qui est arrivé en retard.",
-        "enVeinte": [
-          "La dégustation de Bonito del Norte de la Fiesta de la Sidra de Nava a épuisé ses 300 portions.",
-          "Elle a été organisée par Opasturias dans l'objectif de promouvoir la pêche artisanale asturienne.",
-          "Le succès de fréquentation a clairement montré que le bonito et le cidre font bon ménage à Nava."
-        ],
-        "cifra": {
-          "numero": "300",
-          "unidad": "portions",
-          "glosa": "Ces 300 portions de Bonito del Norte constituaient le plafond de la dégustation. Qu'elles aient toutes été écoulées indique que la demande a dépassé l'offre — signe habituel qu'un événement fonctionne."
-        },
-        "palabra": {
-          "termino": "espicha",
-          "como": "es-PI-cha",
-          "definicion": "Fête asturienne autour de l'ouverture d'un tonneau de cidre. Bien que l'occasion ici soit la Fiesta de la Sidra, l'espicha est la façon la plus intime et la plus traditionnelle de célébrer le cidre en Asturies."
-        },
-        "porQue": "Qu'une initiative de ce type épuise 300 portions à Nava montre l'attrait de la Fiesta de la Sidra et ouvre la voie à ce qu'Opasturias reconduise ou élargisse la proposition l'année prochaine.",
-        "lugar": "Nava",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Der Bonito der Fiesta reicht für 300 Portionen in Nava — nicht mehr",
-        "entradilla": "Opasturias füllte das Cidre-Event mit einer Verkostung, die ausverkauft war, bevor der Appetit der Gäste nachließ.",
-        "cuerpo": [
-          "Die Bonito-del-Norte-Verkostung, die Opasturias bei der Fiesta de la Sidra de Nava ausrichtete, endete mit 300 verteilten Portionen — ohne eine einzige übrig.",
-          "Die Initiative wollte die handwerkliche Fischerei Asturiens ins Rampenlicht rücken, und das gelang: Der Andrang war beachtlich, das Produkt war im Nu weg."
-        ],
-        "apunte": "Dreihundert Portionen — und keine einzige für den, der zu spät kam.",
-        "enVeinte": [
-          "Die Bonito-del-Norte-Verkostung bei der Fiesta de la Sidra de Nava war mit allen 300 Portionen restlos ausverkauft.",
-          "Organisiert wurde sie von Opasturias mit dem Ziel, die handwerkliche Fischerei Asturiens zu fördern.",
-          "Der starke Zuspruch machte deutlich, dass Bonito und Cidre in Nava bestens harmonieren."
-        ],
-        "cifra": {
-          "numero": "300",
-          "unidad": "Portionen",
-          "glosa": "Diese 300 Portionen Bonito del Norte bildeten die Obergrenze der Verkostung. Dass alle vergriffen waren, zeigt, dass die Nachfrage das Angebot überstieg — ein verlässliches Zeichen dafür, dass eine Veranstaltung funktioniert."
-        },
-        "palabra": {
-          "termino": "espicha",
-          "como": "es-PI-cha",
-          "definicion": "Asturisches Fest rund um das Anstechen eines Cidrefasses. Auch wenn der Anlass hier die Fiesta de la Sidra ist, stellt die espicha die intimste und traditionellste Form dar, die Cidrekultur in Asturien zu feiern."
-        },
-        "porQue": "Dass eine solche Initiative in Nava 300 Portionen ausverkauft, zeigt die Strahlkraft der Fiesta de la Sidra und eröffnet Opasturias die Möglichkeit, das Angebot im nächsten Jahr zu wiederholen oder auszuweiten.",
-        "lugar": "Nava",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "en la fiesta de la sidra de nava"
-    ]
   }
 ]
