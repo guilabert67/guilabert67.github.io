@@ -123,13 +123,45 @@ function imagenDe(bloque) {
   );
 }
 
+/**
+ * Fechas «día-mes-año» (RTPA: «09-10-2026 22:47»), en hora de Asturias.
+ *
+ * `new Date()` las lee al estilo americano, mes-día-año: el 9 de octubre se
+ * convertía en el 10 de septiembre, y cualquier día por encima del 12 en una
+ * fecha inválida que se sellaba con la de hoy. Comprobado el 10/10/2026.
+ * Solo se aceptan con el año al final y en cuatro cifras, así que no pisa las
+ * fechas RFC 822 («Fri, 09 Oct 2026…») ni las ISO («2026-10-09…»).
+ */
+const RE_FECHA_EUROPEA = /^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})(?:[ T]+(\d{1,2}):(\d{2})(?::(\d{2}))?)?$/;
+const minutosDeMadrid = (ms) => {
+  const p = Object.fromEntries(
+    new Intl.DateTimeFormat('en-GB', {
+      timeZone: 'Europe/Madrid', hourCycle: 'h23',
+      year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit',
+    }).formatToParts(new Date(ms)).map((x) => [x.type, Number(x.value)])
+  );
+  return (Date.UTC(p.year, p.month - 1, p.day, p.hour, p.minute) - ms) / 60000;
+};
+export function fechaEuropea(texto) {
+  const m = RE_FECHA_EUROPEA.exec(String(texto).trim());
+  if (!m) return null;
+  const [, d, mes, a, h = '0', mi = '0', se = '0'] = m;
+  if (+mes < 1 || +mes > 12 || +d < 1 || +d > 31 || +h > 23 || +mi > 59) return null;
+  const local = Date.UTC(+a, +mes - 1, +d, +h, +mi, +se);
+  if (new Date(local).getUTCDate() !== +d) return null; // 31-02 y similares
+  // Dos pasadas por si la hora cae justo en el cambio de hora.
+  let ms = local - minutosDeMadrid(local) * 60000;
+  ms = local - minutosDeMadrid(ms) * 60000;
+  return new Date(ms);
+}
+
 function fechaDe(bloque) {
   const bruto =
     etiqueta(bloque, 'pubDate') ||
     etiqueta(bloque, 'published') ||
     etiqueta(bloque, 'updated') ||
     etiqueta(bloque, 'dc:date');
-  const d = bruto ? new Date(bruto) : null;
+  const d = bruto ? (fechaEuropea(bruto) ?? new Date(bruto)) : null;
   // Si el canal no da fecha usable se sella con la de hoy, porque el resto del
   // sistema necesita una fecha. Pero eso convierte una pieza vieja en «de hoy»,
   // así que la marca queda a la vista en `sinFecha` y la ingesta la cuenta.
