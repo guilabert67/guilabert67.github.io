@@ -383,7 +383,7 @@ async function main() {
   // distintos, así que este conjunto es de toda la pasada, no de cada concejo.
   const fuentesDeEstaPasada = new Set();
   let repetidas = 0;
-  const contador = { publicidad: 0, duplicadas: 0, sinReescribir: 0, abandonadas: [] };
+  const contador = { publicidad: 0, duplicadas: 0, sinReescribir: 0, sinMaterial: 0, abandonadas: [] };
 
   const candidatas = [];
   for (const c of concejos) {
@@ -446,6 +446,16 @@ async function main() {
 
     // Sin reescribir no se publica: sería el texto del medio de origen. Se
     // reintenta en la pasada siguiente, y a los N fallos se abandona en rojo.
+    if (!SIN_IA && !red.reescrito && red.rechazada) {
+      // El redactor dice que no hay noticia (decidido el 10/10/2026: se descarta
+      // a la primera, sin tres reintentos ni aviso en rojo). La URL queda vetada
+      // para que no vuelva a pagarse en la pasada siguiente.
+      if (clave) vetadas[clave] = { motivo: 'el material no da para una noticia', fecha: new Date().toISOString(), titulo: item.titulo };
+      delete fallidas[clave];
+      contador.sinMaterial++;
+      console.log(`  ⊘ [${concejo.nombre}] sin material para una noticia: ${item.titulo}`);
+      continue;
+    }
     if (!SIN_IA && !red.reescrito) {
       const f = (fallidas[clave] ??= { intentos: 0, titulo: item.titulo });
       f.intentos++;
@@ -560,6 +570,7 @@ async function main() {
     contador.duplicadas && `${contador.duplicadas} duplicadas`,
     contador.publicidad && `${contador.publicidad} publicidad`,
     contador.sinReescribir && `${contador.sinReescribir} sin reescribir (se reintentan)`,
+    contador.sinMaterial && `${contador.sinMaterial} sin material para una noticia`,
     retiradas.sinReescribir && `${retiradas.sinReescribir} retiradas del archivo por no estar reescritas`,
     retiradas.duplicadas && `${retiradas.duplicadas} retiradas del archivo por duplicadas`,
   ].filter(Boolean);
