@@ -71,11 +71,22 @@ const idDe = (item) => slug(`${item.titulo}`) || slug(item.enlace);
 // Lo que no cambia entre feeds es la URL de origen, así que se deduplica por
 // ella. `idDe` se queda como está a propósito: de ahí sale la dirección pública
 // de cada artículo (/concejo/id/) y cambiarla rompería todo lo ya publicado.
+// Los parámetros de la URL se tiran (utm_source y compañía cambian sin que
+// cambie el artículo), SALVO los que identifican la pieza. Los Ayuntamientos
+// (Liferay) sirven todas sus noticias en la MISMA ruta, «/detalle-rss», y solo
+// cambia `…_articleId=20013498`: sin esto, la primera noticia de cada
+// Ayuntamiento tapaba todas las demás como «ya publicada». Medido el 10/10/2026.
+const PARAMETRO_QUE_IDENTIFICA = /(^|_)articleid$/i;
 const claveFuente = (url) => {
   if (!url) return '';
   try {
     const u = new URL(url);
-    return (u.host.replace(/^www\./, '') + u.pathname.replace(/\/+$/, '')).toLowerCase();
+    const id = [...u.searchParams]
+      .filter(([k]) => PARAMETRO_QUE_IDENTIFICA.test(k))
+      .map(([, v]) => `articleId=${v}`)
+      .sort()
+      .join('&');
+    return (u.host.replace(/^www\./, '').replace(/:443$/, '') + u.pathname.replace(/\/+$/, '') + (id ? `?${id}` : '')).toLowerCase();
   } catch {
     return String(url).trim().toLowerCase().replace(/^https?:\/\/(www\.)?/, '').replace(/\/+$/, '');
   }
@@ -235,12 +246,16 @@ async function main() {
 
   for (const c of concejos) {
     console.log(`· ${c.nombre}`);
-    for (const url of c.feeds) {
-      const items = await leerFeed(url, `${c.nombre} · feed propio`);
+    for (const canal of c.feeds) {
+      // Un canal es una URL o { url, nombre, oficial }. `oficial` = el propio
+      // Ayuntamiento: sus avisos son de aquí aunque no nombren el concejo.
+      const { url, nombre, oficial = false } = typeof canal === 'string' ? { url: canal } : canal;
+      const items = await leerFeed(url, nombre ?? `${c.nombre} · feed propio`);
+      if (oficial) for (const i of items) i.oficial = true;
       anotarSalud(salud.get(c.slug), items);
       sinFecha += items.filter((i) => i.sinFecha).length;
       const suyas = items.filter(
-        (i) => mencionaConcejo(i, c, { usarEnlace: false }) && !esResumenRegional(i, otrosLugares)
+        (i) => (oficial || mencionaConcejo(i, c, { usarEnlace: false })) && !esResumenRegional(i, otrosLugares)
       );
       porConcejo.get(c.slug).push(...suyas);
       salud.get(c.slug).deCasa += suyas.length;
@@ -290,6 +305,8 @@ async function main() {
   const previas = guardadas.filter((p) => {
     const c = concejos.find((x) => x.slug === p.concejoSlug);
     if (!c) return false;
+    // Lo que publicó el propio Ayuntamiento es de aquí aunque no nombre el concejo.
+    if (p.fuente?.oficial === true) return true;
     const comoItem = {
       titulo: p.titular ?? '',
       resumenOriginal: `${p.entradilla ?? ''} ${p.cuerpo ?? ''}`,
@@ -485,7 +502,7 @@ async function main() {
       imagen: ingesta.usarImagenDeLaFuente ? item.imagen : '',
       imagenFuente: item.imagen,
       fecha: item.fecha,
-      fuente: { nombre: item.origen, url: item.enlace, titularOriginal: item.titulo },
+      fuente: { nombre: item.origen, url: item.enlace, titularOriginal: item.titulo, ...(item.oficial ? { oficial: true } : {}) },
       reescrito: red.reescrito,
     });
     // Un plan con fecha futura va a la agenda; si ya pasó, sigue siendo cultura
