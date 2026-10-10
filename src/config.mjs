@@ -258,6 +258,15 @@ export const concejos = [
       // —El Fielato llevaba desde el 22 de septiembre sin publicar nada de
       // allí— y esto es información de primera mano, no refrito.
       'https://labenefica.org/feed/',
+      // Añadidos el 10/10/2026, comprobados con el analizador real. La Crónica
+      // de Piloña es una publicación independiente del concejo: 9 de sus 10
+      // últimas piezas eran de aquí. La sección Piloña de COPE trae lo mismo que
+      // el canal general de COPE, pero con días de margen: el general solo
+      // guarda 20 piezas de toda la comarca, y si una edición falla se pierden.
+      // OJO: el canal del Ayuntamiento de Piloña (journal/rss/137768) está
+      // CONGELADO en 2011-2012. No añadirlo.
+      'https://lacronicadepilona.com/feed/',
+      'https://coperibadesella.com/seccion/comarca/pilona/feed/',
     ],
     web: 'https://www.ayto-pilona.es/noticias',
     claves: [
@@ -292,7 +301,14 @@ export const concejos = [
     letra: 'N',
     emoji: '🍏',
     lema: 'Pequeña, llana y con museo propio',
-    feeds: ['https://www.elfielato.es/rss/nava/'],
+    feeds: [
+      'https://www.elfielato.es/rss/nava/',
+      // `oficial: true` = canal del propio Ayuntamiento. Sus avisos («Programa
+      // Joven Ocúpate», «Reapertura de la piscina») no nombran el concejo porque
+      // no hace falta, y el filtro de topónimos los tiraba. Son de aquí por
+      // definición. Añadido el 10/10/2026.
+      { url: 'https://www.ayto-nava.es/web/ayto-nava/detalle-rss/-/journal/rss/152735?doAsGroupId=118304&refererPlid=271641&controlPanelCategory=current_site.pages&_15_groupId=118304', nombre: 'Ayuntamiento de Nava', oficial: true },
+    ],
     web: 'https://www.ayto-nava.es/noticias',
     claves: [
       'nava', 'ceceda', 'priandi', 'fuensanta',
@@ -354,6 +370,10 @@ export const concejos = [
       // canal por concejo, vivo, y trae los rescates de Picos que son el grueso
       // de lo que se publica de aquí.
       'https://coperibadesella.com/seccion/comarca/cabrales/feed/',
+      // Canal del Ayuntamiento (ver Nava). El enlace de su web apunta a una IP
+      // interna (212.89.23.11:8080); con www.cabrales.es funciona. Trae los
+      // cortes de carretera (AS-264). Añadido el 10/10/2026.
+      { url: 'https://www.cabrales.es/web/ayto-cabrales/detalle-rss/-/journal/rss/134199?doAsGroupId=133984&refererPlid=995592&controlPanelCategory=current_site.content&_15_groupId=133984', nombre: 'Ayuntamiento de Cabrales', oficial: true },
     ],
     web: 'https://www.cabrales.es/noticias',
     claves: [
@@ -394,7 +414,11 @@ export const concejos = [
     letra: 'V',
     emoji: '🍎',
     lema: 'La ría, la manzana y el románico',
-    feeds: ['https://www.elfielato.es/rss/villaviciosa/'],
+    feeds: [
+      'https://www.elfielato.es/rss/villaviciosa/',
+      // Canal del Ayuntamiento (ver Nava). Añadido el 10/10/2026.
+      { url: 'https://www.villaviciosa.es/web/ayto-villaviciosa/detalle-rss/-/journal/rss/262918?doAsGroupId=262722&refererPlid=1456886&controlPanelCategory=current_site.pages&_15_groupId=262722', nombre: 'Ayuntamiento de Villaviciosa', oficial: true },
+    ],
     web: 'https://www.villaviciosa.es/noticias',
     claves: [
       'villaviciosa', 'maliayo', 'tazones', 'rodiles', 'amandi', 'valdediós', 'valdedios',
@@ -479,9 +503,10 @@ export const fuentesRegionales = [
   { nombre: 'El Comercio · Oriente', url: 'https://www.elcomercio.es/rss/2.0/?section=/asturias/oriente', tipo: 'rss' },
   // Canal monográfico de un concejo entero.
   { nombre: 'El Comercio · Villaviciosa', url: 'https://www.elcomercio.es/rss/2.0/?section=/area-metropolitana-asturias/villaviciosa', tipo: 'rss' },
-  // Diario y fresco, pero solo 10 piezas en el canal: si un día no se mira, se
-  // pierde. Con seis ediciones al día no debería pasar.
-  { nombre: 'La Nueva España · Oriente', url: 'https://www.lne.es/rss/section/3022', tipo: 'rss' },
+  // RETIRADA el 10/10/2026: La Nueva España · Oriente (lne.es/rss/section/3022)
+  // contesta HTTP 406 al robot desde GitHub, edición tras edición, y no ha
+  // aportado ni una pieza al archivo. Desde un navegador sí responde: el medio
+  // bloquea a los robots. No se disfraza al robot de navegador.
   // Revista de cultura sidrera: Nava y Villaviciosa de lleno.
   { nombre: 'La Sidra', url: 'https://www.lasidra.net/es/feed/', tipo: 'rss' },
 
