@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-10T16:20:01.928Z",
+  "fecha": "2026-10-11T09:10:15.146Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Los vecinos de Rales exigen al Arzobispado que salve su iglesia antes de que caiga.",
-      "enlace": "/villaviciosa/la-iglesia-de-rales-en-villaviciosa-a-punto-de-colapsar-hay-un-riesgo-/"
+      "frase": "Campamento gratis en Villaviciosa para niños de 3 a 12 años, este puente.",
+      "enlace": "/villaviciosa/noticia-campa-animes/"
     },
     {
-      "concejo": "Piloña",
-      "frase": "El día 17, L'Infiestu reúne a emprendedoras para hacer red y abrir puertas.",
-      "enlace": "/pilona/la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresarial/"
+      "concejo": "Villaviciosa",
+      "frase": "Javier Gutiérrez será embajador de la Espicha Solidaria el 7 de noviembre en Llagar Cortina.",
+      "enlace": "/villaviciosa/javier-gutierrez-sera-el-embajador-de-la-xii-espicha-solidaria/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "La residencia municipal de Villaviciosa busca gerocultores: bolsa de empleo abierta.",
+      "enlace": "/villaviciosa/bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem/"
     }
   ]
 }

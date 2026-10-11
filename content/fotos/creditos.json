@@ -494,18 +494,6 @@
     "pie": "Fachada Iglesia Santa María de la Oliva en Villaviciosa (Asturias)",
     "consulta": "iglesia asturias Villaviciosa"
   },
-  "corte-total-as-264-arenas-de-cabrales-limite-cantabria-por-sotres": {
-    "archivo": "corte-total-as-264-arenas-de-cabrales-limite-cantabria-por-sotres.jpg",
-    "autor": "Txo",
-    "licencia": "CC BY-SA 4.0",
-    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "atribucion": true,
-    "redimensionada": true,
-    "origen": "https://commons.wikimedia.org/w/index.php?curid=58141800",
-    "fuente": "wikimedia",
-    "pie": "Naranjo de Bulnes 7",
-    "consulta": "carretera asturias Cabrales"
-  },
   "los-vecinos-de-santa-cruz-de-llanera-disfrutan-del-festival-de-la-avel": {
     "archivo": "los-vecinos-de-santa-cruz-de-llanera-disfrutan-del-festival-de-la-avel.jpg",
     "autor": "McBodes",
@@ -517,5 +505,17 @@
     "fuente": "Wikimedia Commons",
     "pie": "Iglesia de Espinaréu , Piloña, Asturias- España. - panoramio",
     "consulta": "iglesia asturias Piloña"
+  },
+  "de-los-negocios-millonarios-a-la-nostalgia-de-los-emigrantes-barbon-bu": {
+    "archivo": "de-los-negocios-millonarios-a-la-nostalgia-de-los-emigrantes-barbon-bu.jpg",
+    "autor": "McBodes",
+    "licencia": "CC BY 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=56799012",
+    "fuente": "wikimedia",
+    "pie": "File:Iglesia de Bulnes , ( Cabrales ) . Asturias - panoramio.jpg",
+    "consulta": "iglesia asturias Cabrales"
   }
 }
