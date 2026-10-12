@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-12T09:44:10.032Z",
+  "fecha": "2026-10-12T19:29:32.534Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "295 corredores toman Infiesto en el Rogaine Tierra de Asturcones, ya con más de veinte años.",
-      "enlace": "/pilona/el-rogaine-tierra-de-asturcones-reune-a-295-participantes-en-infiesto/"
+      "frase": "El Sueve salió a la calle en Infiesto para exigir protección frente al lobo.",
+      "enlace": "/pilona/los-ganaderos-del-sueve-se-movilizan-en-infiesto-para-exigir-medidas-c/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa llena diez días de agenda con la manzana, desde los colegios hasta los llagares.",
+      "enlace": "/villaviciosa/villaviciosa-celebra-por-todo-lo-alto-el-dia-de-la-manzana-con-diez-di/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El 7 de noviembre, espicha solidaria contra el cáncer en el Llagar Cortina de Villaviciosa.",
+      "enlace": "/villaviciosa/villaviciosa-acogera-la-xii-espicha-solidaria-frente-al-cancer-el-7-de/"
     }
   ]
 }

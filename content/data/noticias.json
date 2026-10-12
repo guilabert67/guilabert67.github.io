@@ -1,5 +1,732 @@
 [
   {
+    "id": "el-maliayo-alejandro-fernandez-se-proclama-campeon-de-la-copa-de-espan",
+    "url": "/villaviciosa/el-maliayo-alejandro-fernandez-se-proclama-campeon-de-la-copa-de-espan/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Alejandro Fernández, campeón de España en aguas interiores",
+    "entradilla": "El regatista de Tueru suma otro título nacional con el Club Náutico Albatros.",
+    "cuerpo": [
+      "Alejandro Fernández, joven regatista de Tueru, en la parroquia de Oles, se ha proclamado campeón de la Copa de España de Aguas Interiores en la categoría ILCA 6. La competición se celebró en el embalse de Orellana, en Badajoz.",
+      "Fernández compite bajo los colores del Club Náutico Albatros y el título se suma a su palmarés deportivo."
+    ],
+    "apunte": "De Tueru al podio nacional: el agua de Badajoz ya sabe a sidrina.",
+    "enVeinte": [
+      "Alejandro Fernández, de Tueru (Oles, Villaviciosa), gana la Copa de España de Aguas Interiores en la clase ILCA 6.",
+      "La prueba tuvo lugar en el embalse de Orellana, en Badajoz.",
+      "Fernández compite con el Club Náutico Albatros."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliayo",
+      "como": "ma-LIA-yu",
+      "definicion": "Gentilicio popular de Villaviciosa y su concejo. Viene de Maliayo, el nombre histórico del territorio, y lo usan con orgullo quienes son de allí."
+    },
+    "porQue": "Un vecino del concejo sube al podio nacional: buena noticia para la vela asturiana y para Tueru en particular.",
+    "etiquetas": [
+      "vela",
+      "Villaviciosa",
+      "Club Náutico Albatros",
+      "Copa de España"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "embalse de Orellana, Badajoz",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-maliayo-alejandro-fernandez-se-proclama-campeon-72ea6a9b.jpg",
+    "fecha": "2026-10-12T18:53:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/deportes/el-maliayo-alejandro-fernandez-se-proclama-campeon-de-la-copa-de-espana-de-aguas-interiores-de-ilca-6-11276521.html",
+      "titularOriginal": "El maliayo Alejandro Fernández se proclama campeón de la Copa de España de Aguas Interiores de ILCA 6"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Alejandro Fernández, national champion in inland waters",
+        "entradilla": "The sailor from Tueru adds another national title with Club Náutico Albatros.",
+        "cuerpo": [
+          "Alejandro Fernández, a young sailor from Tueru, in the parish of Oles, has been crowned champion of the Copa de España de Aguas Interiores in the ILCA 6 class. The competition took place at the Orellana reservoir, in Badajoz.",
+          "Fernández competes under the colours of Club Náutico Albatros, and the title adds to his sporting record."
+        ],
+        "apunte": "From Tueru to the national podium: the water in Badajoz now tastes of sidrina (cider).",
+        "enVeinte": [
+          "Alejandro Fernández, from Tueru (Oles, Villaviciosa), wins the Copa de España de Aguas Interiores in the ILCA 6 class.",
+          "The event took place at the Orellana reservoir, in Badajoz.",
+          "Fernández competes with Club Náutico Albatros."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "The popular demonym for Villaviciosa and its municipality. It comes from Maliayo, the historic name of the territory, and is used with pride by those from there."
+        },
+        "porQue": "A resident of the municipality reaches the national podium: good news for Asturian sailing and for Tueru in particular.",
+        "lugar": "embalse de Orellana, Badajoz",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Alejandro Fernández, champion d'Espagne en eaux intérieures",
+        "entradilla": "Le régatier de Tueru ajoute un nouveau titre national avec le Club Náutico Albatros.",
+        "cuerpo": [
+          "Alejandro Fernández, jeune régatier de Tueru, dans la paroisse de Oles, s'est proclamé champion de la Copa de España de Aguas Interiores dans la catégorie ILCA 6. La compétition s'est déroulée sur le lac de retenue d'Orellana, à Badajoz.",
+          "Fernández concourt sous les couleurs du Club Náutico Albatros, et ce titre vient enrichir son palmarès sportif."
+        ],
+        "apunte": "De Tueru au podium national : l'eau de Badajoz a désormais un goût de sidrina (cidre).",
+        "enVeinte": [
+          "Alejandro Fernández, originaire de Tueru (Oles, Villaviciosa), remporte la Copa de España de Aguas Interiores dans la classe ILCA 6.",
+          "L'épreuve s'est tenue sur le lac de retenue d'Orellana, à Badajoz.",
+          "Fernández concourt avec le Club Náutico Albatros."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "Le gentilé populaire de Villaviciosa et de sa commune. Il vient de Maliayo, le nom historique du territoire, et ceux qui en sont originaires l'emploient avec fierté."
+        },
+        "porQue": "Un habitant de la commune monte sur le podium national : une bonne nouvelle pour la voile asturienne et pour Tueru en particulier.",
+        "lugar": "embalse de Orellana, Badajoz",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Alejandro Fernández, Spanischer Meister im Binnengewässer-Segeln",
+        "entradilla": "Der Regattasegler aus Tueru gewinnt mit dem Club Náutico Albatros einen weiteren nationalen Titel.",
+        "cuerpo": [
+          "Alejandro Fernández, junger Regattasegler aus Tueru in der Pfarrei Oles, hat sich in der Klasse ILCA 6 zum Champion der Copa de España de Aguas Interiores gekürt. Der Wettkampf fand am Stausee Orellana in Badajoz statt.",
+          "Fernández startet unter den Farben des Club Náutico Albatros; der Titel reiht sich in seine sportliche Erfolgsliste ein."
+        ],
+        "apunte": "Von Tueru aufs nationale Podium: Das Wasser in Badajoz schmeckt jetzt nach sidrina (Apfelwein).",
+        "enVeinte": [
+          "Alejandro Fernández aus Tueru (Oles, Villaviciosa) gewinnt die Copa de España de Aguas Interiores in der Klasse ILCA 6.",
+          "Der Wettkampf fand am Stausee Orellana in Badajoz statt.",
+          "Fernández segelt für den Club Náutico Albatros."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "Der volkstümliche Einwohnername für Villaviciosa und seine Gemeinde. Er leitet sich von Maliayo ab, dem historischen Namen des Gebiets, und wird von den Einheimischen mit Stolz getragen."
+        },
+        "porQue": "Ein Bewohner der Gemeinde erreicht das nationale Podium: gute Nachrichten für den asturischen Segelsport und für Tueru im Besonderen.",
+        "lugar": "embalse de Orellana, Badajoz",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "campeon de la copa de espana de aguas",
+      "de la copa de espana de aguas interiores"
+    ]
+  },
+  {
+    "id": "los-ganaderos-del-sueve-se-movilizan-en-infiesto-para-exigir-medidas-c",
+    "url": "/pilona/los-ganaderos-del-sueve-se-movilizan-en-infiesto-para-exigir-medidas-c/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "actualidad",
+    "titular": "El Sueve sale a la calle contra el lobo",
+    "entradilla": "Fotos de ganado herido, un animal muerto y alpacas ardiendo: así arrancó una marcha que llenó las calles de Infiesto.",
+    "cuerpo": [
+      "La Junta Administrativa del Sueve convocó ayer la protesta y el respaldo fue amplio. Ganaderas como Alexandre Martín y Lucía Costales mostraron imágenes de ataques recientes para que nadie dudara de la magnitud del problema.",
+      "Gaspar Luis Costales, presidente de la Junta, y Borja Fernández, coordinador de Unión Rural Asturiana, coincidieron en que ya es hora de que lleguen soluciones concretas. Los alcaldes de Piloña y Colunga, concejos directamente afectados, se sumaron a la marcha.",
+      "El diputado del PP Luis Venta aprovechó para criticar la gestión del Principado y los años de protección especial del lobo. Los ganaderos, por su parte, avisan de que si no hay respuesta, las próximas movilizaciones serán más contundentes."
+    ],
+    "apunte": "Las alpacas ardiendo dijeron más que cualquier pancarta.",
+    "enVeinte": [
+      "Ganaderos del Sueve marcharon por Infiesto para exigir medidas urgentes contra los ataques del lobo.",
+      "La protesta, convocada por la Junta Administrativa del Sueve, reunió a alcaldes, representantes políticos y organizaciones agrarias.",
+      "Los ganaderos advierten de que, si no hay respuesta del Principado, las movilizaciones irán a más."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Junta Administrativa",
+      "como": "Junta Administrativa (igual que en castellano)",
+      "definicion": "En Asturias, la Junta Administrativa es el órgano que gobierna una parroquia, la división territorial más pequeña por debajo del concejo. La del Sueve agrupa a los vecinos de esa sierra y actúa como su voz colectiva ante instituciones y administraciones."
+    },
+    "porQue": "Los ataques del lobo en la sierra del Sueve afectan directamente a explotaciones ganaderas de Piloña y los concejos vecinos; lo que el Principado decida en los próximos meses marcará si esas familias pueden seguir con su actividad.",
+    "etiquetas": [
+      "lobo",
+      "ganadería",
+      "Sueve",
+      "Infiesto"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261012143948_RTPA8710697.webp",
+    "fecha": "2026-10-12T17:59:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-12/Los-ganaderos-del-Sueve-se-movilizan-en-Infiesto-para-exigir-medidas-contra-el-lobo_111791809585.html",
+      "titularOriginal": "Los ganaderos del Sueve se movilizan en Infiesto para exigir medidas contra el lobo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Sueve takes to the streets against the wolf",
+        "entradilla": "Photos of injured livestock, a dead animal and burning bales: that is how a march began that filled the streets of Infiesto.",
+        "cuerpo": [
+          "The Junta Administrativa del Sueve called the protest yesterday and the support was broad. Farmers such as Alexandre Martín and Lucía Costales showed images of recent attacks so that no one could doubt the scale of the problem.",
+          "Gaspar Luis Costales, president of the Junta, and Borja Fernández, coordinator of Unión Rural Asturiana, agreed that it is time for concrete solutions to arrive. The mayors of Piloña and Colunga, municipalities directly affected, joined the march.",
+          "PP member of parliament Luis Venta took the opportunity to criticise the Principality's management and the years of special protection for the wolf. The farmers, for their part, warn that if there is no response, the next mobilisations will be more forceful."
+        ],
+        "apunte": "The burning bales said more than any banner.",
+        "enVeinte": [
+          "Farmers from El Sueve marched through Infiesto to demand urgent measures against wolf attacks.",
+          "The protest, called by the Junta Administrativa del Sueve, brought together mayors, political representatives and farming organisations.",
+          "The farmers warn that if there is no response from the Principality, the mobilisations will escalate."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Junta Administrativa",
+          "como": "Junta Administrativa (as in Spanish)",
+          "definicion": "In Asturias, the Junta Administrativa is the body that governs a parish — the smallest territorial division below the municipality. The one for El Sueve brings together the residents of that mountain range and acts as their collective voice before institutions and public authorities."
+        },
+        "porQue": "Wolf attacks on the El Sueve range directly affect farming operations in Piloña and the neighbouring municipalities; what the Principality decides in the coming months will determine whether those families can continue their work.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Sueve descend dans la rue contre le loup",
+        "entradilla": "Photos de bétail blessé, un animal mort et des balles de foin en flammes : c'est ainsi qu'a démarré une marche qui a rempli les rues d'Infiesto.",
+        "cuerpo": [
+          "La Junta Administrativa del Sueve a lancé hier la protestation et la mobilisation a été large. Des éleveuses comme Alexandre Martín et Lucía Costales ont montré des images d'attaques récentes pour que personne ne puisse douter de l'ampleur du problème.",
+          "Gaspar Luis Costales, président de la Junta, et Borja Fernández, coordinateur de Unión Rural Asturiana, ont convenu qu'il est temps que des solutions concrètes voient le jour. Les maires de Piloña et de Colunga, communes directement touchées, se sont joints à la marche.",
+          "Le député PP Luis Venta en a profité pour critiquer la gestion de la Principauté et les années de protection spéciale accordée au loup. Les éleveurs, de leur côté, préviennent que si aucune réponse n'est apportée, les prochaines mobilisations seront plus déterminées."
+        ],
+        "apunte": "Les balles en flammes en ont dit plus que n'importe quelle pancarte.",
+        "enVeinte": [
+          "Des éleveurs du Sueve ont défilé à travers Infiesto pour exiger des mesures urgentes contre les attaques du loup.",
+          "La protestation, convoquée par la Junta Administrativa del Sueve, a réuni des maires, des représentants politiques et des organisations agricoles.",
+          "Les éleveurs avertissent que, si la Principauté ne répond pas, les mobilisations s'intensifieront."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Junta Administrativa",
+          "como": "Junta Administrativa (comme en espagnol)",
+          "definicion": "En Asturies, la Junta Administrativa est l'organe qui gouverne une paroisse, la plus petite division territoriale en dessous de la commune. Celle du Sueve regroupe les habitants de cette sierra et agit comme leur voix collective auprès des institutions et des administrations."
+        },
+        "porQue": "Les attaques du loup sur la sierra del Sueve touchent directement des exploitations d'élevage de Piloña et des communes voisines ; ce que la Principauté décidera dans les prochains mois déterminera si ces familles peuvent poursuivre leur activité.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Sueve geht gegen den Wolf auf die Straße",
+        "entradilla": "Fotos von verletztem Vieh, ein totes Tier und brennende Heuballen: So begann ein Marsch, der die Straßen von Infiesto füllte.",
+        "cuerpo": [
+          "Die Junta Administrativa del Sueve rief gestern zur Protestaktion auf — der Rückhalt war groß. Landwirtinnen wie Alexandre Martín und Lucía Costales zeigten Bilder jüngster Angriffe, damit niemand das Ausmaß des Problems bezweifeln konnte.",
+          "Gaspar Luis Costales, Präsident der Junta, und Borja Fernández, Koordinator von Unión Rural Asturiana, waren sich einig: Es ist an der Zeit, dass konkrete Lösungen kommen. Die Bürgermeister von Piloña und Colunga, direkt betroffene Gemeinden, schlossen sich dem Marsch an.",
+          "Der PP-Abgeordnete Luis Venta nutzte die Gelegenheit, um das Verwaltungshandeln des Fürstentums und die jahrelange Sonderscbutzregelung für den Wolf zu kritisieren. Die Landwirte ihrerseits warnen, dass die nächsten Mobilisierungen entschlossener ausfallen werden, wenn keine Antwort kommt."
+        ],
+        "apunte": "Die brennenden Heuballen sagten mehr als jedes Transparent.",
+        "enVeinte": [
+          "Landwirte aus El Sueve marschierten durch Infiesto, um dringende Maßnahmen gegen Wolfsangriffe zu fordern.",
+          "Die von der Junta Administrativa del Sueve einberufene Protestaktion brachte Bürgermeister, politische Vertreter und Agrarorganisationen zusammen.",
+          "Die Landwirte warnen: Bleibt eine Antwort des Fürstentums aus, werden die Proteste zunehmen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Junta Administrativa",
+          "como": "Junta Administrativa (wie im Spanischen)",
+          "definicion": "In Asturien ist die Junta Administrativa das Organ, das eine Pfarrgemeinde (parroquia) verwaltet — die kleinste territoriale Einheit unterhalb der Gemeinde. Die des Sueve vereint die Bewohner dieser Bergregion und vertritt sie als kollektive Stimme gegenüber Institutionen und Behörden."
+        },
+        "porQue": "Die Wolfsangriffe auf der Sierra del Sueve betreffen unmittelbar Viehbetriebe in Piloña und den benachbarten Gemeinden; was das Fürstentum in den kommenden Monaten entscheidet, wird darüber bestimmen, ob diese Familien ihre Tätigkeit fortführen können.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la gestion del principado y los anos de",
+      "gestion del principado y los anos de proteccion",
+      "del principado y los anos de proteccion especial",
+      "principado y los anos de proteccion especial del",
+      "y los anos de proteccion especial del lobo"
+    ]
+  },
+  {
+    "id": "villaviciosa-celebra-por-todo-lo-alto-el-dia-de-la-manzana-con-diez-di",
+    "url": "/villaviciosa/villaviciosa-celebra-por-todo-lo-alto-el-dia-de-la-manzana-con-diez-di/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Villaviciosa llena diez días con la manzana",
+    "entradilla": "El Día de la Manzana se celebra este año con una agenda que va desde los colegios hasta los llagares.",
+    "cuerpo": [
+      "Villaviciosa prepara diez días de actividades para festejar el Día de la Manzana, con propuestas para todos los públicos: reparto de manzanas en los centros escolares, un certamen de sidra casera, experiencias sensoriales, talleres científicos y jornadas de divulgación sobre la cultura sidrera.",
+      "La fecha central es el 12 de octubre, aunque la programación se extiende varios días antes y después para dar cabida a toda la variedad de actos previstos."
+    ],
+    "apunte": "Diez días para que nadie pueda decir que no se enteró.",
+    "enVeinte": [
+      "Villaviciosa celebra el Día de la Manzana con diez días de actividades.",
+      "La programación incluye reparto de manzanas en colegios, un certamen de sidra casera, talleres científicos y experiencias sensoriales.",
+      "La fecha central del evento es el 12 de octubre de 2026."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "sidra casera",
+      "como": "sidrina, en la conversación de casa",
+      "definicion": "En Asturias, la sidra elaborada de manera artesanal, normalmente en llagares particulares o de pequeña escala, al margen de la producción industrial. En el certamen que recoge esta noticia, los vecinos compiten con la que han hecho ellos mismos."
+    },
+    "porQue": "Si vives en Villaviciosa o en cualquiera de los pueblos del concejo, tienes diez días para acercarte al centro, llevar a los críos a los talleres y tomarte una sidrina con la excusa de que es cultura.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Día de la Manzana",
+      "sidra",
+      "cultura sidrera"
+    ],
+    "fechaEvento": "2026-10-12",
+    "tipoEvento": "fiesta",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/12/2026101216214483338.jpg",
+    "fecha": "2026-10-12T17:00:00.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-celebraciones-dia-manzana/20261012180000104514.html",
+      "titularOriginal": "Villaviciosa celebra por todo lo alto el Día de la Manzana con diez días de actividades"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa fills ten days with the apple",
+        "entradilla": "El Día de la Manzana is being celebrated this year with a programme that ranges from schools to llagares (cider presses).",
+        "cuerpo": [
+          "Villaviciosa is preparing ten days of activities to mark El Día de la Manzana, with something for everyone: apple distribution at schools, a homemade cider competition, sensory experiences, science workshops and talks on cider culture.",
+          "The central date is 12 October, though the programme stretches several days either side to accommodate the full range of planned events."
+        ],
+        "apunte": "Ten days so that no one can claim they didn't know.",
+        "enVeinte": [
+          "Villaviciosa marks El Día de la Manzana with ten days of activities.",
+          "The programme includes apple distribution at schools, a homemade cider competition, science workshops and sensory experiences.",
+          "The central date of the event is 12 October 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra casera",
+          "como": "sidrina, in everyday conversation",
+          "definicion": "In Asturias, cider made by hand, usually in private or small-scale llagares, outside industrial production. In the competition covered by this article, local residents enter cider they have made themselves."
+        },
+        "porQue": "If you live in Villaviciosa or anywhere else in the municipality, you have ten days to come into town, bring the kids to the workshops and have a sidrina (homemade cider) on the grounds that it counts as culture.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa remplit dix jours avec la pomme",
+        "entradilla": "El Día de la Manzana est célébré cette année avec un programme qui va des écoles aux llagares (pressoirs à cidre).",
+        "cuerpo": [
+          "Villaviciosa prépare dix jours d'activités pour fêter El Día de la Manzana, avec des propositions pour tous les publics : distribution de pommes dans les établissements scolaires, un concours de cidre maison, des expériences sensorielles, des ateliers scientifiques et des journées de découverte de la culture cidrière.",
+          "La date centrale est le 12 octobre, même si le programme s'étend plusieurs jours avant et après pour accueillir l'ensemble des événements prévus."
+        ],
+        "apunte": "Dix jours pour que personne ne puisse dire qu'il n'était pas au courant.",
+        "enVeinte": [
+          "Villaviciosa célèbre El Día de la Manzana avec dix jours d'activités.",
+          "Le programme comprend la distribution de pommes dans les écoles, un concours de cidre maison, des ateliers scientifiques et des expériences sensorielles.",
+          "La date centrale de l'événement est le 12 octobre 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra casera",
+          "como": "sidrina, dans la conversation quotidienne",
+          "definicion": "En Asturies, le cidre fabriqué de façon artisanale, généralement dans des llagares privés ou de petite taille, en dehors de la production industrielle. Dans le concours couvert par cet article, les habitants s'y affrontent avec le cidre qu'ils ont eux-mêmes élaboré."
+        },
+        "porQue": "Si vous vivez à Villaviciosa ou dans l'un des villages de la commune, vous avez dix jours pour venir en centre-ville, emmener les enfants aux ateliers et boire une sidrina (cidre maison) sous prétexte que c'est de la culture.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa füllt zehn Tage mit dem Apfel",
+        "entradilla": "El Día de la Manzana wird dieses Jahr mit einem Programm gefeiert, das von Schulen bis zu den llagares (Mostereien) reicht.",
+        "cuerpo": [
+          "Villaviciosa bereitet zehn Tage voller Veranstaltungen vor, um El Día de la Manzana zu feiern – mit Angeboten für alle: Apfelverteilung in Schulen, ein Wettbewerb für selbstgemachten Apfelwein, sensorische Erlebnisse, wissenschaftliche Workshops und Informationsveranstaltungen zur Apfelweinkultur.",
+          "Der zentrale Termin ist der 12. Oktober, doch das Programm erstreckt sich einige Tage davor und danach, um die gesamte Bandbreite der geplanten Veranstaltungen aufzunehmen."
+        ],
+        "apunte": "Zehn Tage, damit niemand sagen kann, er hätte es nicht gewusst.",
+        "enVeinte": [
+          "Villaviciosa feiert El Día de la Manzana mit zehn Tagen voller Veranstaltungen.",
+          "Das Programm umfasst Apfelverteilung in Schulen, einen Wettbewerb für selbstgemachten Apfelwein, wissenschaftliche Workshops und sensorische Erlebnisse.",
+          "Der zentrale Termin des Events ist der 12. Oktober 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra casera",
+          "como": "sidrina, im Alltagsgespräch",
+          "definicion": "In Asturien bezeichnet es handwerklich hergestellten Apfelwein, der meist in privaten oder kleinen llagares außerhalb der industriellen Produktion erzeugt wird. Bei dem in diesem Artikel beschriebenen Wettbewerb treten die Einwohner mit ihrem selbst gebrauten Apfelwein gegeneinander an."
+        },
+        "porQue": "Wer in Villaviciosa oder in einem der Dörfer der Gemeinde lebt, hat zehn Tage Zeit, ins Zentrum zu kommen, die Kinder zu den Workshops mitzunehmen und eine sidrina (selbstgemachter Apfelwein) zu trinken – mit der Begründung, dass das Kultur ist.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "un certamen de sidra casera experiencias sensoriales talleres",
+      "certamen de sidra casera experiencias sensoriales talleres cientificos",
+      "de sidra casera experiencias sensoriales talleres cientificos y"
+    ]
+  },
+  {
+    "id": "villaviciosa-acogera-la-xii-espicha-solidaria-frente-al-cancer-el-7-de",
+    "url": "/villaviciosa/villaviciosa-acogera-la-xii-espicha-solidaria-frente-al-cancer-el-7-de/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Espicha Solidaria contra el cáncer el 7 de noviembre",
+    "entradilla": "El Llagar Cortina acoge la duodécima edición de esta cita benéfica, con el actor Javier Gutiérrez como nuevo Embajador.",
+    "cuerpo": [
+      "Villaviciosa celebra el 7 de noviembre la XII Espicha Solidaria frente al Cáncer en el Llagar Cortina. Parte de lo recaudado irá a la Fundación Sandra Ibarra.",
+      "El actor Javier Gutiérrez recibirá en el acto el nombramiento de Embajador de la iniciativa."
+    ],
+    "apunte": "Sidrina y causa justa: una combinación que ya va por la docena.",
+    "enVeinte": [
+      "El 7 de noviembre se celebra en el Llagar Cortina la XII Espicha Solidaria frente al Cáncer.",
+      "Parte de la recaudación se destinará a la Fundación Sandra Ibarra.",
+      "El actor Javier Gutiérrez será nombrado Embajador de la iniciativa en el acto."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "espicha",
+      "como": "es-PI-cha",
+      "definicion": "Reunión festiva en torno a un tonel de sidra que se abre para beber en compañía. En Asturias, es también el tapón de madera que sella el barril, y el nombre ha pasado a designar toda la celebración."
+    },
+    "porQue": "Quien acuda a la espicha colabora directamente con la lucha contra el cáncer, y la cita ya tiene doce ediciones de arraigo en el concejo.",
+    "etiquetas": [
+      "espicha solidaria",
+      "Villaviciosa",
+      "cáncer",
+      "Javier Gutiérrez"
+    ],
+    "fechaEvento": "2026-11-07",
+    "tipoEvento": "gastro",
+    "lugar": "Llagar Cortina, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-acogera-la-xii-espicha-solidaria-fren-b179a046.jpg",
+    "fecha": "2026-10-12T15:54:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-acogera-la-xii-espicha-solidaria-frente-al-cancer-el-7-de-noviembre-11276520.html",
+      "titularOriginal": "Villaviciosa acogerá la XII Espicha Solidaria frente al Cáncer el 7 de noviembre"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Solidarity Espicha against cancer on 7 November",
+        "entradilla": "Llagar Cortina hosts the twelfth edition of this charity event, with actor Javier Gutiérrez as its new Ambassador.",
+        "cuerpo": [
+          "Villaviciosa celebrates the XII Espicha Solidaria frente al Cáncer on 7 November at Llagar Cortina. Part of the proceeds will go to the Fundación Sandra Ibarra.",
+          "Actor Javier Gutiérrez will receive the title of Ambassador of the initiative at the event."
+        ],
+        "apunte": "Cider and a good cause: a combination now in its twelfth round.",
+        "enVeinte": [
+          "The XII Espicha Solidaria frente al Cáncer takes place at Llagar Cortina on 7 November.",
+          "Part of the proceeds will go to the Fundación Sandra Ibarra.",
+          "Actor Javier Gutiérrez will be named Ambassador of the initiative at the event."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "A festive gathering around a cider barrel opened for communal drinking. In Asturias, the word also refers to the wooden plug that seals the barrel; over time it has come to name the whole celebration."
+        },
+        "porQue": "Anyone who attends the espicha (a cider-house feast) contributes directly to the fight against cancer, and the event now has twelve well-rooted editions in the municipality.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Espicha Solidaria contre le cancer le 7 novembre",
+        "entradilla": "Le Llagar Cortina accueille la douzième édition de cette manifestation caritative, avec l'acteur Javier Gutiérrez comme nouvel Ambassadeur.",
+        "cuerpo": [
+          "Villaviciosa célèbre le 7 novembre la XII Espicha Solidaria frente al Cáncer au Llagar Cortina. Une partie des recettes ira à la Fundación Sandra Ibarra.",
+          "L'acteur Javier Gutiérrez recevra lors de l'événement le titre d'Ambassadeur de l'initiative."
+        ],
+        "apunte": "Du cidre et une belle cause : une combinaison qui en est à sa douzième édition.",
+        "enVeinte": [
+          "La XII Espicha Solidaria frente al Cáncer se tient au Llagar Cortina le 7 novembre.",
+          "Une partie des recettes sera reversée à la Fundación Sandra Ibarra.",
+          "L'acteur Javier Gutiérrez sera nommé Ambassadeur de l'initiative lors de l'événement."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "Rassemblement festif autour d'un tonneau de cidre que l'on ouvre pour boire en bonne compagnie. En Asturies, le mot désigne aussi le bouchon de bois qui ferme le fût ; par extension, il a fini par nommer toute la célébration."
+        },
+        "porQue": "Quiconque participe à l'espicha (fête autour d'un tonneau de cidre) contribue directement à la lutte contre le cancer, et la manifestation compte déjà douze éditions bien ancrées dans la commune.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Espicha Solidaria gegen Krebs am 7. November",
+        "entradilla": "Der Llagar Cortina ist Gastgeber der zwölften Ausgabe dieser Wohltätigkeitsveranstaltung, mit dem Schauspieler Javier Gutiérrez als neuem Botschafter.",
+        "cuerpo": [
+          "Villaviciosa feiert am 7. November die XII Espicha Solidaria frente al Cáncer im Llagar Cortina. Ein Teil der Einnahmen geht an die Fundación Sandra Ibarra.",
+          "Der Schauspieler Javier Gutiérrez wird bei der Veranstaltung zum Botschafter der Initiative ernannt."
+        ],
+        "apunte": "Cidre und ein guter Zweck: eine Kombination, die schon in die zwölfte Runde geht.",
+        "enVeinte": [
+          "Die XII Espicha Solidaria frente al Cáncer findet am 7. November im Llagar Cortina statt.",
+          "Ein Teil der Einnahmen wird an die Fundación Sandra Ibarra weitergegeben.",
+          "Der Schauspieler Javier Gutiérrez wird bei der Veranstaltung zum Botschafter der Initiative ernannt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "espicha",
+          "como": "es-PI-cha",
+          "definicion": "Ein geselliges Fest rund um ein Fass Cidre, das zum gemeinsamen Trinken geöffnet wird. In Asturien bezeichnet das Wort auch den Holzstopfen, der das Fass verschließt; mit der Zeit hat es sich auf die gesamte Feier ausgeweitet."
+        },
+        "porQue": "Wer an der espicha (einem Cidre-Fass-Fest) teilnimmt, unterstützt direkt den Kampf gegen Krebs. Die Veranstaltung blickt bereits auf zwölf fest verwurzelte Ausgaben in der Gemeinde zurück.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "cancer el 7 de noviembre el llagar cortina",
+      "a la fundacion sandra ibarra el actor javier",
+      "la fundacion sandra ibarra el actor javier gutierrez"
+    ]
+  },
+  {
+    "id": "rescatada-una-senderista-que-se-quedo-enriscada-en-una-cornisa-cerca-d",
+    "url": "/cabrales/rescatada-una-senderista-que-se-quedo-enriscada-en-una-cornisa-cerca-d/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Rescatan a una senderista enriscada cerca de Las Moñetas",
+    "entradilla": "Los equipos de rescate la sacaron de una cornisa y pudo seguir caminando.",
+    "cuerpo": [
+      "Una mujer quedó atrapada en una cornisa próxima al lago Las Moñetas, en Cabrales, sin poder avanzar ni retroceder por su propio pie.",
+      "Los equipos de rescate llegaron hasta ella, la pusieron en terreno seguro y, una vez a salvo, la senderista continuó la marcha sin que la fuente señale que necesitara atención médica."
+    ],
+    "apunte": "Enriscarse en Cabrales no es una metáfora.",
+    "enVeinte": [
+      "Una senderista quedó atrapada en una cornisa cerca del lago Las Moñetas, en Cabrales.",
+      "Los equipos de rescate llegaron hasta ella y la trasladaron a zona segura.",
+      "Una vez a salvo, la mujer pudo continuar la marcha por su propio pie."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "enriscada",
+      "como": "en-ris-CA-da",
+      "definicion": "Dicho de una persona que ha quedado atrapada entre riscos o peñas, sin poder bajar ni subir. En la montaña asturiana el verbo 'enriscarse' describe exactamente eso: meterse en un paso del que ya no se sale solo."
+    },
+    "porQue": "Las Moñetas es un destino frecuentado por senderistas de los cinco concejos; este rescate recuerda que las cornisas del entorno pueden sorprender incluso a quienes conocen bien la zona.",
+    "etiquetas": [
+      "rescate",
+      "senderismo",
+      "Cabrales",
+      "Las Moñetas"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/10/2026081009535234476.jpg",
+    "fecha": "2026-10-12T14:40:28.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cabrales/rescatada-cabrales-mujer-que-quedo-enriscada/20261012164028104515.html",
+      "titularOriginal": "Rescatada una senderista que se quedó enriscada en una cornisa cerca del lago Las Moñetas"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Rescue teams reach hiker stranded on a ledge near Las Moñetas",
+        "entradilla": "Rescue teams got her off a ledge and she was able to continue her walk.",
+        "cuerpo": [
+          "A woman became trapped on a ledge near the lake Las Moñetas, in the municipality of Cabrales, unable to move forward or back on her own.",
+          "Rescue teams reached her, brought her to safe ground, and once out of danger the hiker continued on her way — the source makes no mention of her needing medical attention."
+        ],
+        "apunte": "Getting enriscada in Cabrales is no figure of speech.",
+        "enVeinte": [
+          "A hiker became trapped on a ledge near the lake Las Moñetas, in the municipality of Cabrales.",
+          "Rescue teams reached her and moved her to safe ground.",
+          "Once out of danger, the woman was able to continue on her own."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Said of a person who has become trapped among crags or rocks, unable to go up or down. In the Asturian mountains the verb 'enriscarse' describes exactly that: getting into a pass from which you cannot get out alone."
+        },
+        "porQue": "Las Moñetas is a destination regularly visited by hikers from all five municipalities; this rescue is a reminder that the ledges in the area can catch even those who know the terrain well.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Une randonneuse secourue après s'être retrouvée bloquée près de Las Moñetas",
+        "entradilla": "Les équipes de secours l'ont tirée d'une corniche et elle a pu reprendre sa marche.",
+        "cuerpo": [
+          "Une femme s'est retrouvée bloquée sur une corniche proche du lac Las Moñetas, dans la commune de Cabrales, incapable d'avancer ou de reculer par ses propres moyens.",
+          "Les équipes de secours l'ont atteinte, l'ont mise en sécurité et, une fois hors de danger, la randonneuse a repris sa marche — la source n'indique pas qu'elle ait eu besoin de soins médicaux."
+        ],
+        "apunte": "Être enriscada à Cabrales n'est pas une métaphore.",
+        "enVeinte": [
+          "Une randonneuse s'est retrouvée bloquée sur une corniche près du lac Las Moñetas, dans la commune de Cabrales.",
+          "Les équipes de secours l'ont atteinte et l'ont conduite en zone sécurisée.",
+          "Une fois hors de danger, la femme a pu reprendre sa marche par ses propres moyens."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Se dit d'une personne qui s'est retrouvée piégée entre des rochers ou des escarpements, incapable de monter ou de descendre. Dans la montagne asturienne, le verbe 'enriscarse' décrit exactement cela : s'engager dans un passage dont on ne peut plus sortir seul."
+        },
+        "porQue": "Las Moñetas est une destination fréquentée par des randonneurs des cinq communes ; ce sauvetage rappelle que les corniches des environs peuvent surprendre même ceux qui connaissent bien le secteur.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Wanderin an Felssims nahe Las Moñetas gerettet",
+        "entradilla": "Die Rettungsteams holten sie von einem Felssims herunter, danach konnte sie ihren Weg fortsetzen.",
+        "cuerpo": [
+          "Eine Frau saß auf einem Felssims nahe dem See Las Moñetas in der Gemeinde Cabrales fest — weder vor noch zurück war sie aus eigener Kraft gekommen.",
+          "Die Rettungsteams erreichten sie, brachten sie auf sicheres Gelände, und sobald sie in Sicherheit war, setzte die Wanderin ihre Tour fort; laut der Quelle benötigte sie keine medizinische Versorgung."
+        ],
+        "apunte": "Enriscada zu sein ist in Cabrales keine Redensart.",
+        "enVeinte": [
+          "Eine Wanderin saß auf einem Felssims nahe dem See Las Moñetas in der Gemeinde Cabrales fest.",
+          "Die Rettungsteams erreichten sie und brachten sie in Sicherheit.",
+          "Sobald sie außer Gefahr war, konnte die Frau ihren Weg aus eigener Kraft fortsetzen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Bezeichnet eine Person, die zwischen Felsen oder Klippen festsitzt und weder auf- noch absteigen kann. Im asturischen Gebirge beschreibt das Verb 'enriscarse' genau das: in einen Engpass zu geraten, aus dem man allein nicht mehr herauskommt."
+        },
+        "porQue": "Las Moñetas ist ein von Wanderern aus allen fünf Gemeinden viel besuchtes Ziel; diese Rettungsaktion erinnert daran, dass die Felssimse in der Umgebung selbst erfahrene Kenner der Gegend überraschen können.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "herido-un-cazador-tras-sufrir-una-caida-en-pelugano-aller",
+    "url": "/cabrales/herido-un-cazador-tras-sufrir-una-caida-en-pelugano-aller/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Un cazador herido y una mujer rescatada",
+    "entradilla": "Dos intervenciones de emergencia en la misma jornada, una en Aller y otra en Cabrales.",
+    "cuerpo": [
+      "Un cazador cayó en Pelúgano, en el concejo de Aller, y tuvo que ser trasladado al Hospital Universitario Central de Asturias. En paralelo, los servicios de rescate sacaron a una mujer que había quedado enriscada en Cabrales.",
+      "Dos accidentes distintos, el mismo día. La montaña no perdona los descuidos, y la temporada de caza concentra cada año buena parte de los avisos a emergencias en la zona."
+    ],
+    "apunte": "Dos rescates en el mismo día: el monte da sustos sin avisar.",
+    "enVeinte": [
+      "Un cazador cayó en Pelúgano (Aller) y fue evacuado al HUCA.",
+      "En la misma jornada, una mujer quedó enriscada en Cabrales y tuvo que ser rescatada.",
+      "Dos intervenciones de emergencia en un solo día en la zona de Cabrales y los concejos vecinos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "enriscada",
+      "como": "en-ris-CA-da",
+      "definicion": "Dícese de quien ha quedado atrapado o sin salida entre rocas o terreno muy abrupto. Por aquí se usa mucho para referirse a personas —o animales— que suben por el monte y no encuentran la manera de bajar."
+    },
+    "porQue": "Con la temporada de caza abierta, conviene recordar que el monte de Cabrales y los concejos limítrofes exige preparación y prudencia: los rescates se repiten cada otoño.",
+    "etiquetas": [
+      "rescate",
+      "caza",
+      "Cabrales",
+      "Aller"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/herido-un-cazador-tras-sufrir-una-caida-en-pelugano-al-12757.jpg",
+    "fecha": "2026-10-12T13:40:05.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/sucesos/herido-un-cazador-tras-sufrir-una-caida-en-pelugano-aller-11276517.html",
+      "titularOriginal": "Herido un cazador tras sufrir una caída en Pelúgano, Aller"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A hunter injured and a woman rescued",
+        "entradilla": "Two emergency interventions on the same day, one in Aller and one in Cabrales.",
+        "cuerpo": [
+          "A hunter fell in Pelúgano, in the municipality of Aller, and had to be transferred to the Hospital Universitario Central de Asturias. At the same time, rescue services brought down a woman who had become enriscada (trapped on a sheer rocky face) in Cabrales.",
+          "Two separate accidents, the same day. The mountains do not forgive carelessness, and the hunting season concentrates a large share of the year's emergency calls in the area."
+        ],
+        "apunte": "Two rescues on the same day: the mountain strikes without warning.",
+        "enVeinte": [
+          "A hunter fell in Pelúgano (Aller) and was evacuated to the HUCA.",
+          "On the same day, a woman became enriscada in Cabrales and had to be rescued.",
+          "Two emergency interventions in a single day across Cabrales and the neighbouring municipalities."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Said of someone who has become trapped or stranded among rocks or very rough terrain with no way out. Around here it is commonly used for people — or animals — who climb into the hills and cannot find their way back down. Stress the third syllable: en-ris-CA-da."
+        },
+        "porQue": "With the hunting season under way, it is worth remembering that the hills of Cabrales and the neighbouring municipalities demand preparation and caution: rescues repeat themselves every autumn.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un chasseur blessé et une femme secourue",
+        "entradilla": "Deux interventions d'urgence le même jour, l'une à Aller et l'autre à Cabrales.",
+        "cuerpo": [
+          "Un chasseur a chuté à Pelúgano, dans la commune de Aller, et a dû être transporté à l'Hospital Universitario Central de Asturias. En parallèle, les équipes de secours ont sorti une femme qui s'était retrouvée enriscada (bloquée dans une paroi rocheuse sans issue) à Cabrales.",
+          "Deux accidents distincts, le même jour. La montagne ne pardonne pas les imprudences, et la saison de chasse concentre chaque année une bonne partie des appels aux secours dans la zone."
+        ],
+        "apunte": "Deux secours le même jour : la montagne surprend sans prévenir.",
+        "enVeinte": [
+          "Un chasseur a chuté à Pelúgano (Aller) et a été évacué vers le HUCA.",
+          "Le même jour, une femme s'est retrouvée enriscada à Cabrales et a dû être secourue.",
+          "Deux interventions d'urgence en une seule journée dans le secteur de Cabrales et les communes voisines."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Se dit de quelqu'un qui s'est retrouvé piégé ou bloqué parmi des rochers ou un terrain très accidenté, sans pouvoir en sortir. Dans la région, le mot s'emploie couramment pour désigner des personnes — ou des animaux — qui montent sur le mont et ne trouvent plus le chemin du retour. L'accent tonique tombe sur la troisième syllabe : en-ris-CA-da."
+        },
+        "porQue": "Avec la saison de chasse ouverte, il est bon de rappeler que le massif de Cabrales et les communes limitrophes exigent préparation et prudence : les secours se répètent chaque automne.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein verletzter Jäger und eine gerettete Frau",
+        "entradilla": "Zwei Noteinsätze am selben Tag, einer in Aller und einer in Cabrales.",
+        "cuerpo": [
+          "Ein Jäger stürzte in Pelúgano, in der Gemeinde Aller, und musste in das Hospital Universitario Central de Asturias gebracht werden. Gleichzeitig holten die Rettungsdienste eine Frau aus dem Gelände, die in Cabrales enriscada (in steilem Fels festgesessen, ohne Ausweg) war.",
+          "Zwei verschiedene Unfälle, am selben Tag. Die Berge verzeihen keine Unachtsamkeit, und die Jagdsaison bündelt jedes Jahr einen Großteil der Notrufe in der Region."
+        ],
+        "apunte": "Zwei Rettungen an einem Tag: das Gebirge schlägt ohne Vorwarnung zu.",
+        "enVeinte": [
+          "Ein Jäger stürzte in Pelúgano (Aller) und wurde zum HUCA evakuiert.",
+          "Am selben Tag saß eine Frau in Cabrales enriscada fest und musste gerettet werden.",
+          "Zwei Noteinsätze an einem einzigen Tag im Gebiet von Cabrales und den benachbarten Gemeinden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "enriscada",
+          "como": "en-ris-CA-da",
+          "definicion": "Bezeichnet jemanden, der zwischen Felsen oder in sehr unwegsamem Gelände festsitzt und keinen Ausweg findet. Hier wird das Wort häufig für Menschen — oder Tiere — verwendet, die ins Gebirge aufsteigen und den Weg zurück nicht mehr finden. Die Betonung liegt auf der dritten Silbe: en-ris-CA-da."
+        },
+        "porQue": "Da die Jagdsaison begonnen hat, sei daran erinnert, dass das Gebirge von Cabrales und die angrenzenden Gemeinden Vorbereitung und Vorsicht verlangen: Die Rettungseinsätze wiederholen sich jeden Herbst.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-rogaine-tierra-de-asturcones-reune-a-295-participantes-en-infiesto",
     "url": "/pilona/el-rogaine-tierra-de-asturcones-reune-a-295-participantes-en-infiesto/",
     "concejo": "Piloña",
