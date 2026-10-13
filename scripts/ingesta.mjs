@@ -13,10 +13,10 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { concejos, fuentesRegionales, otrosLugares, ingesta } from '../src/config.mjs';
 import { leerFeed, mencionaConcejo, esResumenRegional } from '../src/lib/rss.mjs';
-import { reescribir, despertador, traducir } from '../src/lib/redactor.mjs';
+import { reescribir, despertador, traducir, mismoSuceso } from '../src/lib/redactor.mjs';
 import { tipoDeEvento, esFuturo, esEmpleo } from '../src/lib/eventos.mjs';
 import { revisarPieza } from '../src/lib/antiplagio.mjs';
-import { duplicadoDe, esDuplicado, esPublicidad } from '../src/lib/duplicados.mjs';
+import { duplicadoDe, esDuplicado, esPublicidad, dudosos } from '../src/lib/duplicados.mjs';
 
 const RAIZ = path.resolve(import.meta.dirname, '..');
 const DATOS = path.join(RAIZ, 'content', 'data');
@@ -354,8 +354,25 @@ async function main() {
   const estado = await leerJSON(ESTADO, {});
   const fallidas = estado.fallidas ?? {};
   const vetadas = estado.descartadas ?? {};
+  // Juicios «¿es el mismo hecho?» ya hechos, para no pagar dos veces la misma pareja.
+  const juicios = estado.juicios ?? {};
+  let juiciosHechos = 0;
+  /** true si `a` cuenta lo mismo que `b` según el modelo (con memoria). */
+  const mismoQue = async (claveA, a, b) => {
+    const k = `${claveA}|${b.id}`;
+    if (juicios[k]) return juicios[k].r === 'mismo';
+    if (SIN_IA || juiciosHechos >= (ingesta.maxJuiciosPorPasada ?? 40)) return false;
+    juiciosHechos++;
+    const v = await mismoSuceso(
+      { titular: a.titular, texto: a.texto, fecha: a.fecha },
+      { titular: b.titular, texto: `${b.entradilla ?? ''} ${(b.cuerpo ?? []).join(' ')}`, fecha: b.fecha }
+    );
+    if (v === null) return false; // sin respuesta clara: no se guarda, se reintenta otro día
+    juicios[k] = { r: v ? 'mismo' : 'distinto', fecha: new Date().toISOString() };
+    return v;
+  };
   const corte = Date.now() - ingesta.diasDeVigencia * 86400000;
-  for (const m of [fallidas, vetadas]) {
+  for (const m of [fallidas, vetadas, juicios]) {
     for (const [k, v] of Object.entries(m)) if (Date.parse(v.ultima ?? v.fecha) < corte) delete m[k];
   }
 
@@ -385,6 +402,28 @@ async function main() {
         console.log(`  ✗ retirada, mismo suceso (${Math.round(d.r * 100)} %): «${p.titular}» = «${d.otra.titular}»`);
         const k = claveFuente(p.fuente?.url);
         if (k) vetadas[k] = { motivo: `duplicado de ${d.otra.url}`, fecha: new Date().toISOString(), titulo: p.titular };
+        retiradas.duplicadas++;
+      } else quedan.push(p);
+    }
+    previas.splice(0, previas.length, ...quedan);
+  }
+  // Y las parejas parecidas separadas por días: se le pregunta al modelo (una vez).
+  {
+    const porFecha = [...previas].sort((a, b) => Date.parse(a.fecha) - Date.parse(b.fecha));
+    const quedan = [];
+    for (const p of porFecha) {
+      let repetida = null;
+      for (const { otra } of dudosos(p, quedan).slice(0, 3)) {
+        const k = claveFuente(p.fuente?.url) || p.id;
+        if (await mismoQue(k, { titular: p.titular, texto: `${p.entradilla ?? ''} ${(p.cuerpo ?? []).join(' ')}`, fecha: p.fecha }, otra)) {
+          repetida = otra;
+          break;
+        }
+      }
+      if (repetida) {
+        console.log(`  ✗ retirada, mismo hecho días después: «${p.titular}» = «${repetida.titular}»`);
+        const k = claveFuente(p.fuente?.url);
+        if (k) vetadas[k] = { motivo: `mismo hecho que ${repetida.url}`, fecha: new Date().toISOString(), titulo: p.titular };
         retiradas.duplicadas++;
       } else quedan.push(p);
     }
@@ -454,6 +493,24 @@ async function main() {
   if (repetidas) {
     console.log(`\n  ${repetidas} piezas descartadas por venir de una URL ya publicada.`);
   }
+
+  // El mismo hecho ya publicado días atrás por otro medio: se pregunta al modelo
+  // antes de pagar la reescritura (Espicha Solidaria, tres veces en cuatro días).
+  for (let i = candidatas.length - 1; i >= 0; i--) {
+    const { item, concejo: c } = candidatas[i];
+    const yo = { concejoSlug: c.slug, fecha: item.fecha, titular: item.titulo, fuente: { titularOriginal: item.titulo } };
+    for (const { otra } of dudosos(yo, previas).slice(0, 3)) {
+      const clave = claveFuente(item.enlace);
+      if (await mismoQue(clave, { titular: item.titulo, texto: item.resumenOriginal, fecha: item.fecha }, otra)) {
+        console.log(`  ⊘ mismo hecho que «${otra.titular.slice(0, 50)}» (${otra.fecha.slice(0, 10)}): ${item.titulo.slice(0, 50)}`);
+        if (clave) vetadas[clave] = { motivo: `mismo hecho que ${otra.url}`, fecha: new Date().toISOString(), titulo: item.titulo };
+        contador.duplicadas++;
+        candidatas.splice(i, 1);
+        break;
+      }
+    }
+  }
+  if (juiciosHechos) console.log(`\n  ${juiciosHechos} consultas «¿es el mismo hecho?» al modelo en esta pasada.`);
 
   console.log(`\n· ${candidatas.length} piezas nuevas para redactar\n`);
 
@@ -613,7 +670,7 @@ async function main() {
     console.error(`\n✖  ${m}`);
     if (process.env.GITHUB_ACTIONS) console.log(`::error title=Reescritura caída::${m}`);
   }
-  await fs.writeFile(path.join(DATOS, ESTADO), JSON.stringify({ fallidas, descartadas: vetadas }, null, 2) + '\n');
+  await fs.writeFile(path.join(DATOS, ESTADO), JSON.stringify({ fallidas, descartadas: vetadas, juicios }, null, 2) + '\n');
 
   // 4. Guardar
   const todas = [...nuevas, ...previas]
