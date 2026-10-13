@@ -895,4 +895,13 @@ export const ingesta = {
   // de 40 h), y caza Torrecerredo, Festival de la Manzana, Poreñu, Cordal…
   umbralDuplicado: 0.4,
   ventanaDuplicadoHoras: 24,
+  // Más allá de esas 24 h, el mismo hecho vuelve a colarse contado por otro medio
+  // días después (Javier Gutiérrez, embajador de la Espicha Solidaria: 09/10,
+  // 11/10 y 12/10). Pero a esa distancia el parecido de los titulares no basta:
+  // Poreñu y Lluaria celebran la Pilarica (80 %) y son dos fiestas. Así que las
+  // parejas parecidas de hasta `ventanaDudosaDias` días se le preguntan al modelo
+  // («¿es el mismo hecho?»), una sola vez cada pareja: la respuesta se guarda.
+  umbralDudoso: 0.5,
+  ventanaDudosaDias: 7,
+  maxJuiciosPorPasada: 40,
 };
