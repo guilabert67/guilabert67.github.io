@@ -1,5 +1,1012 @@
 [
   {
+    "id": "el-certamen-del-queso-gamoneu-de-onis-no-tendra-feria-pero-si-un-inten",
+    "url": "/cabrales/el-certamen-del-queso-gamoneu-de-onis-no-tendra-feria-pero-si-un-inten/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "agenda",
+    "titular": "El Gamonéu de Onís se celebra sin feria",
+    "entradilla": "El certamen mantiene su programa de actividades aunque este año prescinde de la feria.",
+    "cuerpo": [
+      "El Certamen del Queso Gamonéu de Onís arranca este sábado 18 de octubre con un programa de actividades, aunque sin feria, según informa El Fielato.",
+      "La organización ha optado por mantener la celebración activa pese a suprimir el formato ferial habitual."
+    ],
+    "apunte": "Sin feria, pero el queso sigue mandando.",
+    "enVeinte": [
+      "El Certamen del Queso Gamonéu de Onís celebra su edición este año sin feria pero con actividades.",
+      "El programa arranca el sábado 18 de octubre.",
+      "El formato cambia, pero el certamen no desaparece."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "gamonéu",
+      "como": "ga-mo-néu",
+      "definicion": "Queso asturiano de pasta azul elaborado en los concejos de Onís y Cangas de Onís. Se madura en cuevas de montaña y tiene denominación de origen propia."
+    },
+    "porQue": "Quien acostumbraba a acercarse a la feria del Gamonéu de Onís este otoño encontrará el certamen en pie, pero sin el formato de mercado; conviene revisar el programa antes de salir de casa.",
+    "etiquetas": [
+      "gamonéu",
+      "Onís",
+      "queso",
+      "certamen"
+    ],
+    "fechaEvento": "2026-10-18",
+    "tipoEvento": "gastro",
+    "lugar": "Onís",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/13/2026101318030590425.jpg",
+    "fecha": "2026-10-13T16:03:49.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/onis/certamen-gamoneu-onis-feria-programa/20261013180349104595.html",
+      "titularOriginal": "El Certamen del Queso Gamonéu de Onís no tendrá feria pero sí un intenso programa de actividades"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Gamonéu de Onís is held without a fair",
+        "entradilla": "The competition keeps its programme of activities, though this year it drops the fair.",
+        "cuerpo": [
+          "El Certamen del Queso Gamonéu de Onís opens this Saturday, 18 October, with a programme of activities — but without a fair, according to El Fielato.",
+          "The organisers have chosen to keep the event going despite dropping the usual market format."
+        ],
+        "apunte": "No fair, but the cheese still rules.",
+        "enVeinte": [
+          "El Certamen del Queso Gamonéu de Onís is holding its edition this year without a fair but with activities.",
+          "The programme opens on Saturday, 18 October.",
+          "The format changes, but the competition is not going away."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-NEH-oo",
+          "definicion": "An Asturian blue-veined cheese made in the municipalities of Onís and Cangas de Onís. It is aged in mountain caves and has its own protected designation of origin."
+        },
+        "porQue": "Anyone who usually made their way to El Gamonéu de Onís fair this autumn will find the competition still on — but without the market format. Worth checking the programme before leaving home.",
+        "lugar": "Onís",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Gamonéu de Onís se tient sans foire",
+        "entradilla": "Le concours maintient son programme d'activités, mais renonce cette année à la foire.",
+        "cuerpo": [
+          "El Certamen del Queso Gamonéu de Onís ouvre ce samedi 18 octobre avec un programme d'activités, mais sans foire, selon El Fielato.",
+          "Les organisateurs ont choisi de maintenir la manifestation malgré la suppression du format de marché habituel."
+        ],
+        "apunte": "Sans foire, mais le fromage reste roi.",
+        "enVeinte": [
+          "El Certamen del Queso Gamonéu de Onís tient son édition cette année sans foire mais avec des activités.",
+          "Le programme démarre le samedi 18 octobre.",
+          "Le format change, mais le concours ne disparaît pas."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-néu",
+          "definicion": "Fromage asturien à pâte persillée fabriqué dans les communes d'Onís et de Cangas de Onís. Il est affiné dans des grottes de montagne et bénéficie d'une appellation d'origine protégée."
+        },
+        "porQue": "Ceux qui avaient l'habitude de se rendre à la foire du Gamonéu de Onís cet automne trouveront le concours bien présent, mais sans le format de marché. Mieux vaut consulter le programme avant de partir.",
+        "lugar": "Onís",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Gamonéu de Onís findet ohne Markt statt",
+        "entradilla": "Der Wettbewerb behält sein Aktivitätenprogramm bei, verzichtet in diesem Jahr jedoch auf den Markt.",
+        "cuerpo": [
+          "El Certamen del Queso Gamonéu de Onís startet diesen Samstag, den 18. Oktober, mit einem Aktivitätenprogramm — allerdings ohne Markt, wie El Fielato berichtet.",
+          "Die Veranstalter haben sich entschieden, die Veranstaltung trotz des Wegfalls des üblichen Marktformats aufrechtzuerhalten."
+        ],
+        "apunte": "Kein Markt, aber der Käse behält das Sagen.",
+        "enVeinte": [
+          "El Certamen del Queso Gamonéu de Onís findet in diesem Jahr ohne Markt, aber mit Aktivitäten statt.",
+          "Das Programm beginnt am Samstag, dem 18. Oktober.",
+          "Das Format ändert sich, aber der Wettbewerb verschwindet nicht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-néu",
+          "definicion": "Asturischer Blauschimmelkäse aus den Gemeinden Onís und Cangas de Onís. Er reift in Gebirgshöhlen und besitzt eine eigene geschützte Ursprungsbezeichnung."
+        },
+        "porQue": "Wer in diesem Herbst gewöhnlich zum Markt von El Gamonéu de Onís gefahren ist, findet den Wettbewerb weiterhin vor — jedoch ohne Marktformat. Es lohnt sich, das Programm zu prüfen, bevor man das Haus verlässt.",
+        "lugar": "Onís",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "fotomaliayo-2026-celebrara-su-gala-en-villaviciosa-con-un-homenaje-a-l",
+    "url": "/villaviciosa/fotomaliayo-2026-celebrara-su-gala-en-villaviciosa-con-un-homenaje-a-l/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "FotoMaliayo premia en Villaviciosa la memoria oral asturiana",
+    "entradilla": "El Teatro Riera acoge el 17 de octubre la gala de la cuarta edición del certamen fotográfico, con reconocimiento expreso a quienes cuidan el patrimonio de la palabra.",
+    "cuerpo": [
+      "El certamen FotoMaliayo llega a su cuarta edición con gala de premios en el Teatro Riera de Villaviciosa el próximo 17 de octubre. La tradición oral asturiana centra el homenaje de este año.",
+      "Xosé Ambás y Ramsés Ilesies recibirán reconocimiento por su trabajo en la conservación de ese patrimonio inmaterial que se transmite de boca en boca y de generación en generación."
+    ],
+    "apunte": "Una gala de fotografía que acaba siendo, sobre todo, un homenaje a la palabra.",
+    "enVeinte": [
+      "El certamen fotográfico FotoMaliayo celebra su cuarta gala de premios el 17 de octubre en el Teatro Riera de Villaviciosa.",
+      "Este año el protagonismo lo tiene la tradición oral asturiana como hilo conductor del homenaje.",
+      "Xosé Ambás y Ramsés Ilesies serán reconocidos por su labor en la preservación del patrimonio oral."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Maliayo",
+      "como": "Ma-lia-yo",
+      "definicion": "Nombre asturiano del concejo de Villaviciosa. Es el que se usa en asturiano y el que da nombre al certamen fotográfico FotoMaliayo."
+    },
+    "porQue": "Para quien vive en el concejo, la gala es una cita cercana donde se reconoce a personas que trabajan por mantener viva la cultura propia, y el Teatro Riera queda a la vuelta de la esquina.",
+    "etiquetas": [
+      "FotoMaliayo",
+      "Villaviciosa",
+      "patrimonio",
+      "tradición oral"
+    ],
+    "fechaEvento": "2026-10-17",
+    "tipoEvento": "expo",
+    "lugar": "Teatro Riera, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/fotomaliayo-2026-celebrara-su-gala-en-villaviciosa-fbee7a44.jpg",
+    "fecha": "2026-10-13T15:17:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/fotomaliayo-2026-celebrara-su-gala-en-villaviciosa-con-un-homenaje-a-la-tradicion-oral-asturiana-11276544.html",
+      "titularOriginal": "FotoMaliayo 2026 celebrará su gala en Villaviciosa con un homenaje a la tradición oral asturiana"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "FotoMaliayo honours Asturian oral memory in Villaviciosa",
+        "entradilla": "The Teatro Riera hosts the awards ceremony of the fourth edition of the photography contest on 17 October, with explicit recognition for those who preserve the heritage of the spoken word.",
+        "cuerpo": [
+          "The FotoMaliayo contest reaches its fourth edition with an awards ceremony at the Teatro Riera in Villaviciosa on 17 October. Asturian oral tradition is the focus of this year's tribute.",
+          "Xosé Ambás and Ramsés Ilesies will be recognised for their work in preserving this intangible heritage, passed on by word of mouth from generation to generation."
+        ],
+        "apunte": "A photography ceremony that ends up being, above all, a tribute to the spoken word.",
+        "enVeinte": [
+          "The FotoMaliayo photography contest holds its fourth awards ceremony on 17 October at the Teatro Riera in Villaviciosa.",
+          "This year, Asturian oral tradition takes centre stage as the guiding theme of the tribute.",
+          "Xosé Ambás and Ramsés Ilesies will be recognised for their work in preserving oral heritage."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Maliayo",
+          "como": "Ma-lia-yo",
+          "definicion": "The Asturian name for the municipality of Villaviciosa. It is the form used in Asturian and the name behind the FotoMaliayo photography contest."
+        },
+        "porQue": "For those living in the municipality, the ceremony is a local event where people who work to keep their own culture alive are recognised — and the Teatro Riera is just around the corner.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "FotoMaliayo récompense la mémoire orale asturienne à Villaviciosa",
+        "entradilla": "Le Teatro Riera accueille le 17 octobre la soirée de remise des prix de la quatrième édition du concours photographique, avec une reconnaissance expresse pour ceux qui préservent le patrimoine de la parole.",
+        "cuerpo": [
+          "Le concours FotoMaliayo arrive à sa quatrième édition avec une soirée de remise des prix au Teatro Riera de Villaviciosa le 17 octobre prochain. La tradition orale asturienne est au cœur de l'hommage de cette année.",
+          "Xosé Ambás et Ramsés Ilesies seront récompensés pour leur travail de préservation de ce patrimoine immatériel, transmis de bouche à oreille et de génération en génération."
+        ],
+        "apunte": "Une soirée de photographie qui finit par être, avant tout, un hommage à la parole.",
+        "enVeinte": [
+          "Le concours photographique FotoMaliayo tient sa quatrième soirée de remise des prix le 17 octobre au Teatro Riera de Villaviciosa.",
+          "Cette année, la tradition orale asturienne occupe le devant de la scène comme fil conducteur de l'hommage.",
+          "Xosé Ambás et Ramsés Ilesies seront reconnus pour leur travail de préservation du patrimoine oral."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Maliayo",
+          "como": "Ma-lia-yo",
+          "definicion": "Le nom asturien de la commune de Villaviciosa. C'est la forme utilisée en asturien et celle qui donne son nom au concours photographique FotoMaliayo."
+        },
+        "porQue": "Pour ceux qui vivent dans la commune, la soirée est un rendez-vous de proximité où l'on rend hommage à des personnes qui œuvrent pour maintenir vivante leur propre culture — et le Teatro Riera est à deux pas.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "FotoMaliayo ehrt in Villaviciosa das mündliche Gedächtnis Asturiens",
+        "entradilla": "Das Teatro Riera empfängt am 17. Oktober die Preisverleihung der vierten Ausgabe des Fotowettbewerbs — mit ausdrücklicher Anerkennung für jene, die das Erbe des gesprochenen Wortes hüten.",
+        "cuerpo": [
+          "Der Wettbewerb FotoMaliayo erreicht seine vierte Ausgabe mit einer Preisverleihung im Teatro Riera in Villaviciosa am 17. Oktober. Die asturische mündliche Überlieferung steht im Mittelpunkt der diesjährigen Ehrung.",
+          "Xosé Ambás und Ramsés Ilesies werden für ihre Arbeit zur Bewahrung dieses immateriellen Erbes ausgezeichnet, das von Mund zu Mund und von Generation zu Generation weitergegeben wird."
+        ],
+        "apunte": "Eine Fotografie-Gala, die am Ende vor allem eine Hommage an das gesprochene Wort ist.",
+        "enVeinte": [
+          "Der Fotowettbewerb FotoMaliayo feiert am 17. Oktober seine vierte Preisverleihung im Teatro Riera in Villaviciosa.",
+          "In diesem Jahr steht die asturische mündliche Überlieferung als roter Faden der Ehrung im Vordergrund.",
+          "Xosé Ambás und Ramsés Ilesies werden für ihre Arbeit zur Erhaltung des mündlichen Erbes gewürdigt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Maliayo",
+          "como": "Ma-lia-yo",
+          "definicion": "Der asturische Name der Gemeinde Villaviciosa. Er ist die im Asturischen gebräuchliche Form und gibt dem Fotowettbewerb FotoMaliayo seinen Namen."
+        },
+        "porQue": "Für die Bewohner der Gemeinde ist die Gala ein nahe gelegener Termin, bei dem Menschen geehrt werden, die daran arbeiten, die eigene Kultur lebendig zu halten — und das Teatro Riera liegt gleich um die Ecke.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "leonardo-da-vinci-llega-a-el-prial-de-infiesto-con-maquinas-e-inventos",
+    "url": "/pilona/leonardo-da-vinci-llega-a-el-prial-de-infiesto-con-maquinas-e-inventos/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Da Vinci monta taller en El Prial el miércoles",
+    "entradilla": "El centro de formación de Infiesto abre una muestra con réplicas de las máquinas que imaginó el genio del Renacimiento.",
+    "cuerpo": [
+      "El Prial, el centro de formación de Piloña en Infiesto, inaugura este miércoles 14 de octubre una exposición dedicada a Leonardo da Vinci con reproducciones de sus inventos y artefactos.",
+      "La muestra permite ver de cerca esos ingenios que el italiano dejó en sus cuadernos hace más de quinientos años: máquinas voladoras, mecanismos de guerra, artilugios hidráulicos."
+    ],
+    "apunte": "Quinientos años después, Leonardo aparece por Piloña.",
+    "enVeinte": [
+      "El centro de formación El Prial de Infiesto abre el miércoles 14 de octubre una exposición sobre Leonardo da Vinci.",
+      "La muestra incluye reproducciones de los inventos y máquinas que ideó el artista e inventor italiano.",
+      "La fuente no da hora de apertura ni precio de entrada."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Los vecinos de Piloña tienen a partir del miércoles una exposición de divulgación científica e histórica en el propio concejo, sin necesidad de desplazarse a ciudades más grandes.",
+    "etiquetas": [
+      "exposición",
+      "Infiesto",
+      "El Prial",
+      "Leonardo da Vinci"
+    ],
+    "fechaEvento": "2026-10-14",
+    "tipoEvento": "expo",
+    "lugar": "El Prial, Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/culturas/2026/10/13/figura-davinci-kho-U302212916345UmF-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-13T15:16:53.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/leonardo-vinci-llega-prial-infiesto-maquinas-inventos-20261013171652-nt.html",
+      "titularOriginal": "Leonardo da Vinci llega a El Prial de Infiesto con máquinas e inventos"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Da Vinci sets up workshop at El Prial on Wednesday",
+        "entradilla": "The Infiesto training centre opens an exhibition with replicas of the machines imagined by the Renaissance genius.",
+        "cuerpo": [
+          "El Prial, the Piloña training centre in Infiesto, opens on Wednesday 14 October an exhibition dedicated to Leonardo da Vinci, featuring reproductions of his inventions and devices.",
+          "The exhibition lets visitors see up close the ideas the Italian left in his notebooks more than five hundred years ago: flying machines, war mechanisms, hydraulic contraptions."
+        ],
+        "apunte": "Five hundred years on, Leonardo turns up in Piloña.",
+        "enVeinte": [
+          "The El Prial training centre in Infiesto opens on Wednesday 14 October an exhibition about Leonardo da Vinci.",
+          "The exhibition includes reproductions of the inventions and machines devised by the Italian artist and inventor.",
+          "The source gives no opening time or admission price."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "From Wednesday, residents of the Piloña municipality have a science and history exhibition on their doorstep, with no need to travel to larger cities.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Da Vinci installe son atelier à El Prial mercredi",
+        "entradilla": "Le centre de formation d'Infiesto ouvre une exposition avec des répliques des machines imaginées par le génie de la Renaissance.",
+        "cuerpo": [
+          "El Prial, le centre de formation de Piloña à Infiesto, inaugure mercredi 14 octobre une exposition consacrée à Léonard de Vinci, avec des reproductions de ses inventions et engins.",
+          "L'exposition permet de voir de près ces idées que l'Italien a laissées dans ses carnets il y a plus de cinq cents ans : machines volantes, mécanismes de guerre, dispositifs hydrauliques."
+        ],
+        "apunte": "Cinq cents ans plus tard, Léonard fait son apparition à Piloña.",
+        "enVeinte": [
+          "Le centre de formation El Prial d'Infiesto ouvre mercredi 14 octobre une exposition sur Léonard de Vinci.",
+          "L'exposition comprend des reproductions des inventions et machines conçues par l'artiste et inventeur italien.",
+          "La source ne précise ni l'heure d'ouverture ni le prix d'entrée."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "À partir de mercredi, les habitants de la commune de Piloña disposent d'une exposition de vulgarisation scientifique et historique sur place, sans avoir à se rendre dans de plus grandes villes.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Da Vinci richtet Werkstatt in El Prial ein – am Mittwoch",
+        "entradilla": "Das Ausbildungszentrum in Infiesto eröffnet eine Ausstellung mit Nachbauten der Maschinen, die sich der Genius der Renaissance ausdachte.",
+        "cuerpo": [
+          "El Prial, das Ausbildungszentrum von Piloña in Infiesto, eröffnet am Mittwoch, dem 14. Oktober, eine Ausstellung über Leonardo da Vinci mit Reproduktionen seiner Erfindungen und Apparate.",
+          "Die Ausstellung ermöglicht es, jene Ideen aus nächster Nähe zu betrachten, die der Italiener vor mehr als fünfhundert Jahren in seinen Notizbüchern festgehalten hat: fliegende Maschinen, Kriegsmechanismen, hydraulische Vorrichtungen."
+        ],
+        "apunte": "Fünfhundert Jahre später taucht Leonardo in Piloña auf.",
+        "enVeinte": [
+          "Das Ausbildungszentrum El Prial in Infiesto eröffnet am Mittwoch, dem 14. Oktober, eine Ausstellung über Leonardo da Vinci.",
+          "Die Ausstellung umfasst Reproduktionen der Erfindungen und Maschinen, die der italienische Künstler und Erfinder erdachte.",
+          "Die Quelle nennt weder Öffnungszeit noch Eintrittspreise."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ab Mittwoch haben die Bewohner der Gemeinde Piloña eine wissenschafts- und geschichtsgeschichtliche Ausstellung vor Ort – ohne in größere Städte fahren zu müssen.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "noticia-apple-day",
+    "url": "/villaviciosa/noticia-apple-day/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Villaviciosa celebra la manzana hasta el 23",
+    "entradilla": "Diez días de actividades unen sidra, literatura y tradición en la capital manzanera de España.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto en marcha un programa de actos para conmemorar el Día Internacional de la Manzana. Las propuestas, organizadas junto a varias entidades, arrancan el 13 de octubre y llegan hasta el día 23.",
+      "La primera cita fue el martes 13 en la Casa de los Hevia, donde se reunió el jurado del I Certamen Literario Internacional 'Sidra de Autor', convocado por la Fundación Automáticos Tineo. La participación desbordó las previsiones: llegaron 520 relatos, 110 de ellos desde fuera de España.",
+      "El domingo 19 de octubre toca la Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, que cierra además el Calendariu Sidreru del municipio en su novena edición. El programa incluye también reparto de manzanas en colegios, exposiciones y rutas de sidraturismo."
+    ],
+    "apunte": "520 relatos sobre sidra llegados de medio mundo: la manzana tiene más fans de los que uno imagina.",
+    "enVeinte": [
+      "Villaviciosa celebra el Día Internacional de la Manzana con un programa de actos del 13 al 23 de octubre.",
+      "El certamen literario 'Sidra de Autor' recibió 520 relatos en su primera edición, 110 procedentes de fuera de España.",
+      "El domingo 19 se falla la Seleición de la Meyor Sidre Casero d'Asturies, cierre del Calendariu Sidreru del concejo."
+    ],
+    "cifra": {
+      "numero": "520",
+      "unidad": "relatos",
+      "glosa": "Es el número de textos que llegaron al I Certamen Literario Internacional 'Sidra de Autor' en su primera convocatoria. Que más de una quinta parte vengan del extranjero dice mucho del tirón que tiene la cultura sidrera asturiana más allá de los Pirineos."
+    },
+    "palabra": {
+      "termino": "sidraturismo",
+      "como": "si-dra-tu-ris-mo",
+      "definicion": "Turismo centrado en conocer de cerca el mundo de la sidra: visitas a llagares, recorridos por manzanales y catas. En concejos como Villaviciosa es una forma de poner en valor el paisaje y el oficio de toda la vida."
+    },
+    "porQue": "Si vives en Villaviciosa o sus alrededores, estos diez días traen actos gratuitos en el pueblo y una Seleición de sidra casera que premia la tradición de los de casa.",
+    "etiquetas": [
+      "Villaviciosa",
+      "manzana",
+      "sidra",
+      "Apple Day"
+    ],
+    "fechaEvento": "2026-10-13",
+    "tipoEvento": "gastro",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-13T14:39:37.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20059516",
+      "titularOriginal": "noticia: apple day",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa celebrates the apple until the 23rd",
+        "entradilla": "Ten days of events bring together cider, literature and tradition in Spain's apple capital.",
+        "cuerpo": [
+          "The council of Villaviciosa has launched a programme of events to mark the International Apple Day. The activities, organised together with several organisations, run from 13 October through to the 23rd.",
+          "The first event took place on Tuesday the 13th at the Casa de los Hevia, where the jury of the I Certamen Literario Internacional 'Sidra de Autor', organised by the Fundación Automáticos Tineo, held its meeting. Participation exceeded all expectations: 520 stories were submitted, 110 of them from outside Spain.",
+          "On Sunday 19 October it is the turn of the Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, which also closes the Calendariu Sidreru of the municipality in its ninth edition. The programme also includes apple distribution in schools, exhibitions and sidraturismo (cider-tourism) routes."
+        ],
+        "apunte": "520 stories about cider arrived from around the world: the apple has more fans than you might think.",
+        "enVeinte": [
+          "Villaviciosa is marking International Apple Day with a programme of events from 13 to 23 October.",
+          "The literary competition 'Sidra de Autor' received 520 stories in its first edition, 110 of them from outside Spain.",
+          "On Sunday the 19th the Seleición de la Meyor Sidre Casero d'Asturies is decided, closing the Calendariu Sidreru of the municipality."
+        ],
+        "cifra": {
+          "numero": "520",
+          "unidad": "stories",
+          "glosa": "That is the number of texts submitted to the I Certamen Literario Internacional 'Sidra de Autor' in its first edition. The fact that more than a fifth came from abroad says a great deal about the pull of Asturian cider culture beyond the Pyrenees."
+        },
+        "palabra": null,
+        "porQue": "If you live in Villaviciosa or the surrounding area, these ten days bring free events in town and a Seleición of homemade cider that honours local tradition.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa fête la pomme jusqu'au 23",
+        "entradilla": "Dix jours d'activités réunissent cidre, littérature et tradition dans la capitale espagnole de la pomme.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a lancé un programme de manifestations pour célébrer la Journée internationale de la Pomme. Les propositions, organisées en collaboration avec plusieurs entités, débutent le 13 octobre et se poursuivent jusqu'au 23.",
+          "Le premier rendez-vous a eu lieu le mardi 13 à la Casa de los Hevia, où s'est réuni le jury du I Certamen Literario Internacional «Sidra de Autor», organisé par la Fundación Automáticos Tineo. La participation a largement dépassé les prévisions : 520 nouvelles ont été reçues, dont 110 en provenance de l'étranger.",
+          "Le dimanche 19 octobre se tient la Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, qui clôture également le Calendariu Sidreru de la commune dans sa neuvième édition. Le programme comprend aussi une distribution de pommes dans les écoles, des expositions et des itinéraires de sidraturismo (tourisme cidricole)."
+        ],
+        "apunte": "520 nouvelles sur le cidre venues des quatre coins du monde : la pomme a plus de fans qu'on ne le croit.",
+        "enVeinte": [
+          "Villaviciosa célèbre la Journée internationale de la Pomme avec un programme de manifestations du 13 au 23 octobre.",
+          "Le concours littéraire «Sidra de Autor» a reçu 520 nouvelles dès sa première édition, dont 110 en provenance de l'étranger.",
+          "Le dimanche 19, le jury rend son verdict pour la Seleición de la Meyor Sidre Casero d'Asturies, qui clôt le Calendariu Sidreru de la commune."
+        ],
+        "cifra": {
+          "numero": "520",
+          "unidad": "nouvelles",
+          "glosa": "C'est le nombre de textes reçus par le I Certamen Literario Internacional «Sidra de Autor» lors de sa première édition. Que plus d'un cinquième viennent de l'étranger en dit long sur le rayonnement de la culture cidricole asturienne au-delà des Pyrénées."
+        },
+        "palabra": null,
+        "porQue": "Si vous habitez à Villaviciosa ou aux alentours, ces dix jours proposent des manifestations gratuites dans la ville et une Seleición de cidre artisanal qui récompense la tradition locale.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa feiert den Apfel bis zum 23.",
+        "entradilla": "Zehn Tage lang verbinden Veranstaltungen Cidre, Literatur und Tradition in der Apfelhauptstadt Spaniens.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat ein Veranstaltungsprogramm zum Internationalen Tag des Apfels auf den Weg gebracht. Die Angebote, gemeinsam mit verschiedenen Einrichtungen organisiert, beginnen am 13. Oktober und reichen bis zum 23.",
+          "Der erste Termin fand am Dienstag, dem 13., im Casa de los Hevia statt, wo die Jury des I Certamen Literario Internacional «Sidra de Autor» zusammenkam – ausgeschrieben von der Fundación Automáticos Tineo. Die Beteiligung übertraf alle Erwartungen: 520 Erzählungen wurden eingereicht, davon 110 aus dem Ausland.",
+          "Am Sonntag, dem 19. Oktober, steht die Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada auf dem Programm, die zugleich den Calendariu Sidreru der Gemeinde in seiner neunten Ausgabe abschließt. Das Programm umfasst außerdem eine Apfelverteilung in Schulen, Ausstellungen und Routen des sidraturismo (Cidre-Tourismus)."
+        ],
+        "apunte": "520 Erzählungen über Cidre aus aller Welt: Der Apfel hat mehr Fans, als man vermuten würde.",
+        "enVeinte": [
+          "Villaviciosa begeht den Internationalen Tag des Apfels mit einem Veranstaltungsprogramm vom 13. bis 23. Oktober.",
+          "Der Literaturwettbewerb «Sidra de Autor» erhielt in seiner ersten Ausgabe 520 Einreichungen, davon 110 aus dem Ausland.",
+          "Am Sonntag, dem 19., wird die Seleición de la Meyor Sidre Casero d'Asturies entschieden, mit der der Calendariu Sidreru der Gemeinde endet."
+        ],
+        "cifra": {
+          "numero": "520",
+          "unidad": "Erzählungen",
+          "glosa": "So viele Texte gingen beim I Certamen Literario Internacional «Sidra de Autor» in seiner ersten Ausschreibung ein. Dass mehr als ein Fünftel aus dem Ausland stammt, sagt viel über die Anziehungskraft der asturischen Cidre-Kultur jenseits der Pyrenäen."
+        },
+        "palabra": null,
+        "porQue": "Wer in Villaviciosa oder der näheren Umgebung wohnt, erwartet in diesen zehn Tagen kostenlose Veranstaltungen im Ort und eine Seleición von hausgemachtem Cidre, die die einheimische Tradition würdigt.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "jurado del i certamen literario internacional sidra de",
+      "del i certamen literario internacional sidra de autor",
+      "i certamen literario internacional sidra de autor convocado",
+      "certamen literario internacional sidra de autor convocado por",
+      "literario internacional sidra de autor convocado por la",
+      "internacional sidra de autor convocado por la fundacion",
+      "sidra de autor convocado por la fundacion automaticos",
+      "de autor convocado por la fundacion automaticos tineo",
+      "la seleicion de la meyor sidre casero d",
+      "seleicion de la meyor sidre casero d asturies",
+      "de la meyor sidre casero d asturies premios",
+      "la meyor sidre casero d asturies premios mundo",
+      "meyor sidre casero d asturies premios mundo collada",
+      "sidre casero d asturies premios mundo collada que"
+    ]
+  },
+  {
+    "id": "noticia-rom",
+    "url": "/villaviciosa/noticia-rom/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre el plazo para eliminar su reglamento municipal",
+    "entradilla": "Cualquier vecino puede presentar alegaciones durante los próximos treinta días hábiles antes de que el cambio sea definitivo.",
+    "cuerpo": [
+      "El pleno del Ayuntamiento de Villaviciosa aprobó el pasado 1 de octubre derogar el Reglamento Orgánico Municipal, el texto que regula el funcionamiento interno del propio consistorio.",
+      "Desde esa fecha corre un plazo de treinta días hábiles en el que cualquiera puede presentar alegaciones. Solo después de ese trámite el acuerdo podrá ser definitivo."
+    ],
+    "apunte": "Treinta días hábiles para opinar sobre la norma que nadie había leído, pero que regula a quienes sí mandan.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa quiere eliminar su Reglamento Orgánico Municipal.",
+      "El pleno lo aprobó inicialmente el 1 de octubre y ahora hay treinta días hábiles para presentar alegaciones.",
+      "Si no hay objeciones que lo impidan, la derogación quedará aprobada de forma definitiva."
+    ],
+    "cifra": {
+      "numero": "30",
+      "unidad": "días hábiles",
+      "glosa": "Es el tiempo que la ley reserva para que vecinos y entidades puedan oponerse o matizar una decisión municipal antes de que sea firme. Los días hábiles no cuentan fines de semana ni festivos, así que el plazo real supera el mes natural."
+    },
+    "palabra": {
+      "termino": "Reglamento Orgánico Municipal",
+      "como": "ROM, como se lo llama en los papeles del ayuntamiento",
+      "definicion": "Es la norma que cada ayuntamiento se da a sí mismo para regular cómo funcionan sus plenos, sus comisiones y los derechos de los concejales. Cada municipio puede tenerlo o no; Villaviciosa ha decidido prescindir del suyo."
+    },
+    "porQue": "Eliminar el ROM cambia las reglas del juego interno del consistorio: afecta a cómo se debaten y votan los asuntos que luego le llegan al vecino.",
+    "etiquetas": [
+      "Villaviciosa",
+      "ayuntamiento",
+      "reglamento",
+      "alegaciones"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-13T14:31:16.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20056857",
+      "titularOriginal": "noticia: ROM",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens the period to repeal its municipal bylaw",
+        "entradilla": "Any resident can submit objections during the next thirty working days before the change becomes final.",
+        "cuerpo": [
+          "The full council of Villaviciosa council voted on 1 October to repeal the Reglamento Orgánico Municipal, the text that governs the internal workings of the council itself.",
+          "From that date, a thirty-working-day period runs during which anyone may submit objections. Only after that process can the decision become final."
+        ],
+        "apunte": "Thirty working days to have a say on the rule nobody had read, but which governs those who do call the shots.",
+        "enVeinte": [
+          "Villaviciosa council wants to repeal its Reglamento Orgánico Municipal.",
+          "The full council gave initial approval on 1 October and there are now thirty working days to submit objections.",
+          "If no objections prevent it, the repeal will be definitively approved."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "working days",
+          "glosa": "This is the time the law sets aside for residents and organisations to challenge or qualify a council decision before it becomes binding. Working days exclude weekends and public holidays, so the actual period extends beyond one calendar month."
+        },
+        "palabra": {
+          "termino": "Reglamento Orgánico Municipal",
+          "como": "ROM, as it is referred to in council documents",
+          "definicion": "The internal bylaw that each council draws up for itself to regulate how its full meetings and committees work, and what rights its councillors have. Each municipality may or may not have one; Villaviciosa has decided to do without its own."
+        },
+        "porQue": "Repealing the ROM changes the internal rules of the council: it affects how matters are debated and voted on before they reach the resident.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre le délai pour abroger son règlement municipal",
+        "entradilla": "Tout habitant peut déposer des observations pendant les trente prochains jours ouvrables avant que le changement ne soit définitif.",
+        "cuerpo": [
+          "Le conseil municipal de la mairie de Villaviciosa a approuvé le 1er octobre l'abrogation du Reglamento Orgánico Municipal, le texte qui régit le fonctionnement interne de la mairie elle-même.",
+          "À compter de cette date, un délai de trente jours ouvrables court pendant lequel toute personne peut déposer des observations. Ce n'est qu'à l'issue de cette procédure que la décision pourra être définitive."
+        ],
+        "apunte": "Trente jours ouvrables pour donner son avis sur le règlement que personne n'avait lu, mais qui encadre ceux qui décident.",
+        "enVeinte": [
+          "La mairie de Villaviciosa souhaite abroger son Reglamento Orgánico Municipal.",
+          "Le conseil municipal l'a approuvé à titre initial le 1er octobre et il reste trente jours ouvrables pour déposer des observations.",
+          "En l'absence d'objections bloquantes, l'abrogation sera définitivement adoptée."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "jours ouvrables",
+          "glosa": "C'est le délai que la loi réserve aux habitants et aux associations pour s'opposer à une décision municipale ou en nuancer la portée avant qu'elle ne soit exécutoire. Les jours ouvrables excluant les week-ends et les jours fériés, le délai réel dépasse un mois calendaire."
+        },
+        "palabra": {
+          "termino": "Reglamento Orgánico Municipal",
+          "como": "ROM, comme on l'appelle dans les documents de la mairie",
+          "definicion": "La norme interne que chaque mairie se donne pour régler le fonctionnement de ses séances plénières, de ses commissions et les droits de ses élus. Chaque commune peut en avoir un ou non ; Villaviciosa a décidé de supprimer le sien."
+        },
+        "porQue": "Abroger le ROM change les règles du jeu interne de la mairie : cela influe sur la façon dont les affaires sont débattues et votées avant d'affecter le quotidien des habitants.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa eröffnet die Frist zur Abschaffung seiner Gemeindeordnung",
+        "entradilla": "Jeder Einwohner kann innerhalb der nächsten dreißig Werktage Einwände einreichen, bevor die Änderung endgültig wird.",
+        "cuerpo": [
+          "Die Vollversammlung des Rathauses von Villaviciosa beschloss am 1. Oktober die Aufhebung des Reglamento Orgánico Municipal, des Textes, der die interne Funktionsweise des Rathauses selbst regelt.",
+          "Ab diesem Datum läuft eine Frist von dreißig Werktagen, innerhalb derer jedermann Einwände einreichen kann. Erst nach diesem Verfahren kann der Beschluss endgültig werden."
+        ],
+        "apunte": "Dreißig Werktage, um zu einer Vorschrift Stellung zu nehmen, die niemand gelesen hatte, die aber regelt, wie jene handeln, die das Sagen haben.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa möchte sein Reglamento Orgánico Municipal abschaffen.",
+          "Die Vollversammlung stimmte am 1. Oktober zunächst dafür, und nun bleiben dreißig Werktage, um Einwände einzureichen.",
+          "Sollte nichts dagegensprechen, wird die Aufhebung endgültig beschlossen."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "Werktage",
+          "glosa": "Dies ist die gesetzlich vorgesehene Frist, innerhalb derer Einwohner und Organisationen einem Gemeinderatsbeschluss widersprechen oder ihn einschränken können, bevor er verbindlich wird. Da Wochenenden und Feiertage nicht zählen, übersteigt die tatsächliche Frist einen Kalendermonat."
+        },
+        "palabra": {
+          "termino": "Reglamento Orgánico Municipal",
+          "como": "ROM, wie es in den Dokumenten des Rathauses genannt wird",
+          "definicion": "Die interne Vorschrift, die sich jede Gemeinde selbst gibt, um die Abläufe ihrer Vollversammlungen und Ausschüsse sowie die Rechte der Ratsmitglieder zu regeln. Jede Gemeinde kann eine solche Vorschrift haben oder darauf verzichten; Villaviciosa hat entschieden, auf seine zu verzichten."
+        },
+        "porQue": "Die Abschaffung des ROM verändert die internen Spielregeln des Rathauses: Sie beeinflusst, wie Angelegenheiten debattiert und abgestimmt werden, bevor sie den Einwohner betreffen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "asturias-da-luz-verde-a-casi-300-viviendas-publicas-en-oviedo-y-villav",
+    "url": "/villaviciosa/asturias-da-luz-verde-a-casi-300-viviendas-publicas-en-oviedo-y-villav/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Cincuenta viviendas públicas llegarán a Villaviciosa",
+    "entradilla": "El Principado se queda con suelo municipal cedido gratis para levantar pisos de alquiler asequible en el concejo.",
+    "cuerpo": [
+      "El Gobierno asturiano ha aceptado la cesión de terrenos municipales para construir alrededor de 50 viviendas públicas en Villaviciosa. Los solares los cede el ayuntamiento sin coste alguno, y el Principado asume la promoción.",
+      "La misma operación se repite en Oviedo, donde el paquete es mayor: unas 270 viviendas sobre casi 5.700 metros cuadrados de suelo. Para la capital, el ejecutivo regional prevé que las obras arranquen en 2027."
+    ],
+    "apunte": "Suelo gratis, pisos pendientes: ahora toca ver los plazos para Villaviciosa.",
+    "enVeinte": [
+      "El Principado acepta suelo municipal cedido gratis en Villaviciosa para levantar unas 50 viviendas públicas.",
+      "La misma fórmula se aplica en Oviedo, con cerca de 270 pisos previstos y obras que arrancarían en 2027.",
+      "De momento no hay fecha ni condiciones de acceso confirmadas para las viviendas de Villaviciosa."
+    ],
+    "cifra": {
+      "numero": "50",
+      "unidad": "viviendas",
+      "glosa": "Esas son las casas públicas previstas para Villaviciosa dentro de este acuerdo. El número es aproximado y depende de cómo se desarrolle el proyecto sobre el suelo cedido."
+    },
+    "palabra": null,
+    "porQue": "Si los plazos se cumplen, Villaviciosa sumará medio centenar de pisos a precio asequible, una bolsa de vivienda pública que el concejo apenas tiene hoy.",
+    "etiquetas": [
+      "vivienda pública",
+      "Villaviciosa",
+      "Principado",
+      "suelo municipal"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-13T11:54:33.000Z",
+    "fuente": {
+      "nombre": "AsturiasMundial",
+      "url": "https://www.asturiasmundial.com/noticia/144736/asturias-da-luz-verde-casi-300-viviendas-publicas-oviedo-villaviciosa-donde-construiran-cuando-estaran-listas-quien-podra-acceder-ellas/",
+      "titularOriginal": "Asturias da luz verde a casi 300 viviendas públicas en Oviedo y Villaviciosa: dónde se construirán, cuándo estarán listas y quién podrá acceder a ellas"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Fifty public homes are coming to Villaviciosa",
+        "entradilla": "The Principality takes on municipal land handed over for free to build affordable rental flats in the municipality.",
+        "cuerpo": [
+          "The Asturian Government has accepted the transfer of municipal land to build around 50 public homes in Villaviciosa. The plots are handed over by the council at no cost, and the Principality takes charge of the development.",
+          "The same operation is being repeated in Oviedo, where the package is larger: around 270 homes on nearly 5,700 square metres of land. For the capital, the regional government expects building work to begin in 2027."
+        ],
+        "apunte": "Free land, flats still to come: now it is time to see the timeline for Villaviciosa.",
+        "enVeinte": [
+          "The Principality accepts municipal land handed over for free in Villaviciosa to build around 50 public homes.",
+          "The same formula is being applied in Oviedo, with roughly 270 flats planned and building work expected to start in 2027.",
+          "There is no confirmed date or access conditions yet for the homes in Villaviciosa."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "homes",
+          "glosa": "That is the number of public homes planned for Villaviciosa under this agreement. The figure is approximate and depends on how the project develops on the transferred land."
+        },
+        "palabra": null,
+        "porQue": "If the deadlines are met, Villaviciosa will gain around fifty affordable homes — a stock of public housing the municipality barely has today.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Cinquante logements publics attendus à Villaviciosa",
+        "entradilla": "La Principauté récupère des terrains municipaux cédés gratuitement pour y construire des appartements en location abordable dans la commune.",
+        "cuerpo": [
+          "Le Gouvernement asturien a accepté la cession de terrains municipaux pour construire environ 50 logements publics à Villaviciosa. Les parcelles sont cédées par la mairie sans frais, et la Principauté prend en charge la promotion.",
+          "La même opération se répète à Oviedo, où le volume est plus important : quelque 270 logements sur près de 5 700 mètres carrés de terrain. Pour la capitale, l'exécutif régional prévoit que les travaux démarrent en 2027."
+        ],
+        "apunte": "Terrain gratuit, logements en attente : reste à voir le calendrier pour Villaviciosa.",
+        "enVeinte": [
+          "La Principauté accepte des terrains municipaux cédés gratuitement à Villaviciosa pour construire environ 50 logements publics.",
+          "La même formule s'applique à Oviedo, avec près de 270 appartements prévus et des travaux qui débuteraient en 2027.",
+          "Il n'existe pour l'instant ni date ni conditions d'accès confirmées pour les logements de Villaviciosa."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "logements",
+          "glosa": "C'est le nombre de logements publics prévus pour Villaviciosa dans le cadre de cet accord. Ce chiffre est approximatif et dépend du développement du projet sur les terrains cédés."
+        },
+        "palabra": null,
+        "porQue": "Si les délais sont respectés, Villaviciosa disposera d'une cinquantaine de logements à prix abordable — un parc de logements publics dont la commune est quasiment dépourvue aujourd'hui.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Fünfzig öffentliche Wohnungen kommen nach Villaviciosa",
+        "entradilla": "Das Fürstentum übernimmt kostenlos abgetretenes Gemeindegelände, um in der Gemeinde bezahlbare Mietwohnungen zu bauen.",
+        "cuerpo": [
+          "Die asturische Regierung hat die Übertragung von Gemeindegelände akzeptiert, um rund 50 öffentliche Wohnungen in Villaviciosa zu bauen. Die Grundstücke werden vom Rathaus kostenlos abgetreten, und das Fürstentum übernimmt die Trägerschaft.",
+          "Dieselbe Vorgehensweise wiederholt sich in Oviedo, wo das Paket größer ist: rund 270 Wohnungen auf knapp 5.700 Quadratmetern Fläche. Für die Hauptstadt plant die Regionalregierung, dass die Bauarbeiten 2027 beginnen."
+        ],
+        "apunte": "Kostenloses Gelände, Wohnungen noch ausstehend: Jetzt kommt es darauf an, die Zeitpläne für Villaviciosa zu sehen.",
+        "enVeinte": [
+          "Das Fürstentum akzeptiert in Villaviciosa kostenlos abgetretenes Gemeindegelände, um rund 50 öffentliche Wohnungen zu bauen.",
+          "Dieselbe Formel wird in Oviedo angewandt, mit rund 270 geplanten Wohnungen und Bauarbeiten, die 2027 beginnen sollen.",
+          "Für die Wohnungen in Villaviciosa gibt es bislang weder einen bestätigten Termin noch bestätigte Zugangsbedingungen."
+        ],
+        "cifra": {
+          "numero": "50",
+          "unidad": "Wohnungen",
+          "glosa": "So viele öffentliche Wohnungen sind im Rahmen dieser Vereinbarung für Villaviciosa geplant. Die Zahl ist ungefähr und hängt davon ab, wie sich das Projekt auf dem abgetretenen Gelände entwickelt."
+        },
+        "palabra": null,
+        "porQue": "Wenn die Fristen eingehalten werden, erhält Villaviciosa rund fünfzig bezahlbare Wohnungen — ein öffentlicher Wohnungsbestand, über den die Gemeinde heute kaum verfügt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "alberto-valero-y-manuel-espina-conquistan-por-tercer-ano-consecutivo-e",
+    "url": "/pilona/alberto-valero-y-manuel-espina-conquistan-por-tercer-ano-consecutivo-e/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Valero y Espina, tricampeones del Rogaine de Infiesto",
+    "entradilla": "La pareja local se llevó la categoría masculina de cuatro horas por tercera vez seguida en una prueba que reunió a 295 personas en el monte Cayón.",
+    "cuerpo": [
+      "Alberto Valero y Manuel Espina, del club Piloña Deporte, volvieron a ganar el Rogaine Tierra de Asturcones el domingo 11 de octubre. Sumaron 237 puntos en la modalidad masculina de cuatro horas y nadie los alcanzó: fue su tercera victoria consecutiva, después de imponerse también en 2024 y 2025.",
+      "El segundo puesto fue para los hermanos Sergio y Pedro Martínez, también del Piloña Deporte, con 213 puntos. Los Castrones —Juan García Mayo, Juan Carlos Pérez González e Iván Lavandera— cerraron el podio con 201. En femenino ganaron Beatriz Lucio e Izaskun Echevarria, del CDN-Cobi, con 150 puntos; y en mixto se impuso el equipo Pisasetas-Escondite, formado por Enrique Jiménez y Claudia Rodríguez, con 164.",
+      "La prueba recorrió las vertientes norte y sur del monte Cayón y también tuvo una modalidad de tres horas, con Los Garapiellos como vencedores por equipos y Aitor Anabitarte Mendia como mejor individual. Los más jóvenes y los que se inician en el deporte tuvieron su propia carrera de una hora por las calles de Infiesto. La cita, organizada por Piloña.deporte dentro de las Ferias y Fiestas de Santa Teresa, lleva ya más de veinte años en el calendario."
+    ],
+    "apunte": "Tres años ganando la misma carrera en tu pueblo tiene otro nombre: costumbre.",
+    "enVeinte": [
+      "Alberto Valero y Manuel Espina ganaron por tercera vez consecutiva la categoría masculina de cuatro horas del Rogaine Tierra de Asturcones, celebrado el 11 de octubre en Infiesto.",
+      "La prueba reunió a 295 participantes en el monte Cayón y forma parte de las Ferias y Fiestas de Santa Teresa, organizada por el club Piloña.deporte.",
+      "Hubo también categorías femenina, mixta y de tres horas, más una prueba de iniciación de una hora por las calles de Infiesto para los más jóvenes."
+    ],
+    "cifra": {
+      "numero": "295",
+      "unidad": "participantes",
+      "glosa": "Son las personas que tomaron parte en el Rogaine Tierra de Asturcones 2026. Una cifra que confirma el tirón de una prueba con más de dos décadas de historia en Piloña."
+    },
+    "palabra": {
+      "termino": "rogaine",
+      "como": "ro-GAINE, como suena en inglés; por aquí se dice tal cual",
+      "definicion": "Deporte de orientación en equipo en el que los participantes tienen un tiempo fijo para localizar el mayor número posible de controles repartidos por el terreno. Cuantos más controles marcan, más puntos suman. No hay un recorrido obligatorio: cada equipo decide su propia estrategia."
+    },
+    "porQue": "Valero y Espina son del concejo y han ganado tres años seguidos una prueba con casi 300 participantes de fuera: el nombre de Piloña sale en los resultados del deporte de orientación asturiano.",
+    "etiquetas": [
+      "rogaine",
+      "orientación",
+      "Piloña Deporte",
+      "Infiesto"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://lacronicadepilona.com/wp-content/uploads/rogaine-tierra-asturcones2026-podium-masculino-4h.webp",
+    "fecha": "2026-10-13T10:32:31.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://lacronicadepilona.com/alberto-valero-y-manuel-espina-conquistan-por-tercer-ano-consecutivo-el-rogaine-tierra-de-asturcones/",
+      "titularOriginal": "Alberto Valero y Manuel Espina conquistan por tercer año consecutivo el Rogaine Tierra de Asturcones"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Valero y Espina, three-time champions of the Rogaine de Infiesto",
+        "entradilla": "The local pair won the four-hour men's category for the third year running in an event that brought 295 people to Monte Cayón.",
+        "cuerpo": [
+          "Alberto Valero y Manuel Espina, from the club Piloña Deporte, won the Rogaine Tierra de Asturcones again on Sunday, 11 October. They scored 237 points in the four-hour men's category and no one came close: it was their third consecutive victory, having also won in 2024 and 2025.",
+          "Second place went to brothers Sergio y Pedro Martínez, also from Piloña Deporte, with 213 points. Los Castrones — Juan García Mayo, Juan Carlos Pérez González and Iván Lavandera — completed the podium with 201. In the women's category, Beatriz Lucio e Izaskun Echevarria, from CDN-Cobi, won with 150 points; and in the mixed category, team Pisasetas-Escondite, made up of Enrique Jiménez and Claudia Rodríguez, took first place with 164.",
+          "The event covered the northern and southern slopes of Monte Cayón and also included a three-hour category, with Los Garapiellos as the winning team and Aitor Anabitarte Mendia as the best individual. The youngest participants and those new to the sport had their own one-hour race through the streets of Infiesto. The event, organised by Piloña.deporte as part of the Ferias y Fiestas de Santa Teresa, has been on the calendar for over twenty years."
+        ],
+        "apunte": "Winning the same race in your home town three years in a row has another name: tradition.",
+        "enVeinte": [
+          "Alberto Valero y Manuel Espina won the four-hour men's category of the Rogaine Tierra de Asturcones for the third consecutive time. The event was held on 11 October in Infiesto.",
+          "The race brought 295 participants to Monte Cayón and is part of the Ferias y Fiestas de Santa Teresa, organised by the club Piloña.deporte.",
+          "There were also women's, mixed and three-hour categories, plus a one-hour introductory race through the streets of Infiesto for the youngest participants."
+        ],
+        "cifra": {
+          "numero": "295",
+          "unidad": "participants",
+          "glosa": "These are the people who took part in the Rogaine Tierra de Asturcones 2026. A figure that confirms the pull of an event with more than two decades of history in Piloña."
+        },
+        "palabra": {
+          "termino": "rogaine",
+          "como": "ro-GAINE, as it sounds in English; around here it is said exactly like that",
+          "definicion": "A team orienteering sport in which participants have a fixed amount of time to locate as many checkpoints as possible scattered across the terrain. The more checkpoints they mark, the more points they score. There is no set route: each team decides its own strategy."
+        },
+        "porQue": "Valero y Espina are from the municipality and have won three years in a row a race with nearly 300 participants from outside: the name of Piloña appears in the results of Asturian orienteering.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Valero y Espina, triple champions du Rogaine de Infiesto",
+        "entradilla": "Le duo local a remporté la catégorie masculine de quatre heures pour la troisième année consécutive lors d'une épreuve qui a réuni 295 personnes sur le Monte Cayón.",
+        "cuerpo": [
+          "Alberto Valero y Manuel Espina, du club Piloña Deporte, ont de nouveau remporté le Rogaine Tierra de Asturcones le dimanche 11 octobre. Ils ont totalisé 237 points dans la catégorie masculine de quatre heures et personne ne les a rattrapés : c'était leur troisième victoire consécutive, après s'être également imposés en 2024 et 2025.",
+          "La deuxième place est revenue aux frères Sergio y Pedro Martínez, également du Piloña Deporte, avec 213 points. Los Castrones — Juan García Mayo, Juan Carlos Pérez González et Iván Lavandera — ont complété le podium avec 201 points. Chez les femmes, Beatriz Lucio e Izaskun Echevarria, du CDN-Cobi, l'ont emporté avec 150 points ; et en mixte, l'équipe Pisasetas-Escondite, composée de Enrique Jiménez et Claudia Rodríguez, s'est imposée avec 164 points.",
+          "L'épreuve a parcouru les versants nord et sud du Monte Cayón et comprenait également une catégorie de trois heures, avec Los Garapiellos comme vainqueurs par équipes et Aitor Anabitarte Mendia comme meilleur individuel. Les plus jeunes et les débutants ont eu leur propre course d'une heure dans les rues d'Infiesto. La manifestation, organisée par Piloña.deporte dans le cadre des Ferias y Fiestas de Santa Teresa, figure au calendrier depuis plus de vingt ans."
+        ],
+        "apunte": "Gagner trois années de suite la même course dans sa commune a un autre nom : une habitude.",
+        "enVeinte": [
+          "Alberto Valero y Manuel Espina ont remporté pour la troisième fois consécutive la catégorie masculine de quatre heures du Rogaine Tierra de Asturcones, disputé le 11 octobre à Infiesto.",
+          "L'épreuve a réuni 295 participants sur le Monte Cayón et s'inscrit dans les Ferias y Fiestas de Santa Teresa, organisée par le club Piloña.deporte.",
+          "Des catégories féminine, mixte et de trois heures étaient également au programme, ainsi qu'une course d'initiation d'une heure dans les rues d'Infiesto pour les plus jeunes."
+        ],
+        "cifra": {
+          "numero": "295",
+          "unidad": "participants",
+          "glosa": "Ce sont les personnes qui ont pris part au Rogaine Tierra de Asturcones 2026. Un chiffre qui confirme l'attrait d'une épreuve forte de plus de deux décennies d'histoire à Piloña."
+        },
+        "palabra": {
+          "termino": "rogaine",
+          "como": "ro-GAINE, comme en anglais ; par ici, on le prononce exactement ainsi",
+          "definicion": "Sport d'orientation par équipes dans lequel les participants disposent d'un temps fixe pour localiser le plus grand nombre possible de balises réparties sur le terrain. Plus ils en marquent, plus ils accumulent de points. Il n'y a pas de parcours imposé : chaque équipe choisit sa propre stratégie."
+        },
+        "porQue": "Valero y Espina sont originaires de la commune et ont remporté trois années de suite une épreuve avec près de 300 participants venus de l'extérieur : le nom de Piloña figure dans les résultats de l'orientation asturienne.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Valero y Espina, dreifache Champions des Rogaine de Infiesto",
+        "entradilla": "Das lokale Duo gewann die Herrenklasse über vier Stunden zum dritten Mal in Folge bei einem Wettkampf, der 295 Teilnehmer auf den Monte Cayón brachte.",
+        "cuerpo": [
+          "Alberto Valero y Manuel Espina vom Club Piloña Deporte gewannen den Rogaine Tierra de Asturcones erneut am Sonntag, dem 11. Oktober. Sie erzielten 237 Punkte in der Herrenklasse über vier Stunden und niemand kam ihnen nahe: Es war ihr dritter Sieg in Folge, nachdem sie auch 2024 und 2025 gewonnen hatten.",
+          "Den zweiten Platz belegten die Brüder Sergio y Pedro Martínez, ebenfalls vom Piloña Deporte, mit 213 Punkten. Los Castrones — Juan García Mayo, Juan Carlos Pérez González und Iván Lavandera — vervollständigten das Podium mit 201 Punkten. Bei den Frauen gewannen Beatriz Lucio e Izaskun Echevarria vom CDN-Cobi mit 150 Punkten; in der Mixed-Wertung setzte sich das Team Pisasetas-Escondite durch, bestehend aus Enrique Jiménez und Claudia Rodríguez, mit 164 Punkten.",
+          "Der Wettkampf führte über die Nord- und Südhänge des Monte Cayón und umfasste auch eine Drei-Stunden-Klasse, bei der Los Garapiellos als Mannschaftssieger und Aitor Anabitarte Mendia als bester Einzelläufer abschnitten. Die Jüngsten und Einsteiger hatten ihr eigenes Rennen über eine Stunde durch die Straßen von Infiesto. Die Veranstaltung, die von Piloña.deporte im Rahmen der Ferias y Fiestas de Santa Teresa organisiert wird, steht seit mehr als zwanzig Jahren im Kalender."
+        ],
+        "apunte": "Dasselbe Rennen im eigenen Ort drei Jahre in Folge zu gewinnen hat einen anderen Namen: Gewohnheit.",
+        "enVeinte": [
+          "Alberto Valero y Manuel Espina gewannen zum dritten Mal in Folge die Herrenklasse über vier Stunden des Rogaine Tierra de Asturcones, der am 11. Oktober in Infiesto stattfand.",
+          "Das Rennen brachte 295 Teilnehmer auf den Monte Cayón und ist Teil der Ferias y Fiestas de Santa Teresa, organisiert vom Club Piloña.deporte.",
+          "Es gab außerdem eine Frauen-, eine Mixed- und eine Drei-Stunden-Klasse sowie ein einstündiges Einführungsrennen durch die Straßen von Infiesto für die jüngsten Teilnehmer."
+        ],
+        "cifra": {
+          "numero": "295",
+          "unidad": "Teilnehmer",
+          "glosa": "Das sind die Personen, die am Rogaine Tierra de Asturcones 2026 teilgenommen haben. Eine Zahl, die die Anziehungskraft eines Wettkampfs mit mehr als zwei Jahrzehnten Geschichte in Piloña bestätigt."
+        },
+        "palabra": {
+          "termino": "rogaine",
+          "como": "ro-GAINE, wie im Englischen ausgesprochen; hier vor Ort sagt man es genauso",
+          "definicion": "Eine Mannschaftsorientierungssportart, bei der die Teilnehmer eine festgelegte Zeit haben, um so viele wie möglich der im Gelände verteilten Kontrollpunkte zu finden. Je mehr Punkte sie markieren, desto mehr Punkte sammeln sie. Es gibt keine vorgeschriebene Route: Jedes Team entscheidet seine eigene Strategie."
+        },
+        "porQue": "Valero y Espina stammen aus der Gemeinde und haben drei Jahre in Folge ein Rennen mit fast 300 auswärtigen Teilnehmern gewonnen: Der Name Piloña taucht in den Ergebnislisten des asturischen Orientierungslaufs auf.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "su tercera victoria consecutiva despues de imponerse tambien",
+      "tercera victoria consecutiva despues de imponerse tambien en",
+      "juan garcia mayo juan carlos perez gonzalez e",
+      "garcia mayo juan carlos perez gonzalez e ivan",
+      "mayo juan carlos perez gonzalez e ivan lavandera",
+      "equipo pisasetas escondite formado por enrique jimenez y",
+      "pisasetas escondite formado por enrique jimenez y claudia",
+      "escondite formado por enrique jimenez y claudia rodriguez",
+      "las vertientes norte y sur del monte cayon"
+    ]
+  },
+  {
+    "id": "el-gobierno-de-asturias-amplia-el-parque-publico-de-vivienda-con-300-n",
+    "url": "/villaviciosa/el-gobierno-de-asturias-amplia-el-parque-publico-de-vivienda-con-300-n/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa sumará pisos públicos de alquiler asequible",
+    "entradilla": "El Gobierno regional acepta suelo cedido para levantar vivienda pública en Villaviciosa y Oviedo.",
+    "cuerpo": [
+      "El Principado ha aceptado la cesión de 5.700 metros cuadrados de suelo para construir cerca de 300 viviendas públicas de alquiler asequible repartidas entre Oviedo y Villaviciosa.",
+      "La operación amplía el parque regional de vivienda pública en un momento en que el acceso al alquiler es uno de los problemas más señalados en los concejos costeros."
+    ],
+    "apunte": "5.700 metros cuadrados de suelo cedido: ahora falta ver cuántos acaban en Villaviciosa y cuántos en Oviedo.",
+    "enVeinte": [
+      "El Gobierno de Asturias acepta la cesión de suelo para construir cerca de 300 viviendas públicas de alquiler asequible en Oviedo y Villaviciosa.",
+      "El suelo cedido suma 5.700 metros cuadrados entre ambas localidades.",
+      "La medida busca ampliar el parque público de vivienda en la región."
+    ],
+    "cifra": {
+      "numero": "5.700",
+      "unidad": "metros cuadrados de suelo",
+      "glosa": "Es la superficie cedida al Principado para construir las nuevas viviendas. Para hacerse una idea, equivale aproximadamente a ocho campos de baloncesto."
+    },
+    "palabra": null,
+    "porQue": "Si parte de esas viviendas acaba en Villaviciosa, el concejo ganará pisos públicos a precios contenidos, algo que escasea en la zona desde hace años.",
+    "etiquetas": [
+      "vivienda",
+      "Villaviciosa",
+      "alquiler asequible",
+      "Principado"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-gobierno-de-asturias-amplia-el-parque-publico-de-vi-13008.jpg",
+    "fecha": "2026-10-13T09:15:53.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/el-gobierno-de-asturias-amplia-el-parque-publico-de-vivienda-con-300-nuevos-pisos-en-oviedo-y-villaviciosa-11276528.html",
+      "titularOriginal": "El Gobierno de Asturias amplía el parque público de vivienda con 300 nuevos pisos en Oviedo y Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa to gain affordable public rental flats",
+        "entradilla": "The regional government accepts donated land to build public housing in Villaviciosa and Oviedo.",
+        "cuerpo": [
+          "The Principality has accepted the transfer of 5,700 square metres of land to build around 300 affordable public rental homes split between Oviedo and Villaviciosa.",
+          "The move expands the regional public housing stock at a time when access to rental accommodation is one of the most pressing problems in the coastal municipalities."
+        ],
+        "apunte": "5,700 square metres of donated land: it remains to be seen how many end up in Villaviciosa and how many in Oviedo.",
+        "enVeinte": [
+          "The Government of Asturias has accepted the transfer of land to build around 300 affordable public rental homes in Oviedo and Villaviciosa.",
+          "The donated land totals 5,700 square metres across both locations.",
+          "The measure aims to expand the public housing stock in the area."
+        ],
+        "cifra": {
+          "numero": "5,700",
+          "unidad": "square metres of land",
+          "glosa": "This is the area transferred to the Principality to build the new homes. To put it in perspective, it is roughly equivalent to eight basketball courts."
+        },
+        "palabra": null,
+        "porQue": "If some of those homes end up in Villaviciosa, the municipality will gain public flats at controlled prices — something that has been in short supply in the area for years.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa va gagner des logements publics à loyer abordable",
+        "entradilla": "Le gouvernement régional accepte la cession de terrain pour construire des logements publics à Villaviciosa et à Oviedo.",
+        "cuerpo": [
+          "La Principauté a accepté la cession de 5 700 mètres carrés de terrain pour construire près de 300 logements publics à loyer abordable, répartis entre Oviedo et Villaviciosa.",
+          "L'opération élargit le parc régional de logements publics à un moment où l'accès à la location est l'un des problèmes les plus souvent cités dans les communes côtières."
+        ],
+        "apunte": "5 700 mètres carrés de terrain cédés : il reste à voir combien atterriront à Villaviciosa et combien à Oviedo.",
+        "enVeinte": [
+          "Le gouvernement des Asturies accepte la cession de terrain pour construire près de 300 logements publics à loyer abordable à Oviedo et à Villaviciosa.",
+          "Le terrain cédé totalise 5 700 mètres carrés entre les deux localités.",
+          "La mesure vise à élargir le parc public de logements dans la région."
+        ],
+        "cifra": {
+          "numero": "5 700",
+          "unidad": "mètres carrés de terrain",
+          "glosa": "C'est la superficie cédée à la Principauté pour construire les nouveaux logements. Pour se faire une idée, cela correspond à environ huit terrains de basket."
+        },
+        "palabra": null,
+        "porQue": "Si une partie de ces logements aboutit à Villaviciosa, la commune gagnera des appartements publics à prix maîtrisés — une denrée rare dans la zone depuis des années.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa bekommt öffentliche Wohnungen zu erschwinglichen Mieten",
+        "entradilla": "Die Regionalregierung nimmt abgetretenes Grundstück an, um öffentlichen Wohnraum in Villaviciosa und Oviedo zu errichten.",
+        "cuerpo": [
+          "Das Fürstentum hat die Abtretung von 5.700 Quadratmetern Bauland akzeptiert, um rund 300 öffentliche Mietwohnungen zu erschwinglichen Preisen zu bauen, verteilt auf Oviedo und Villaviciosa.",
+          "Die Maßnahme erweitert den regionalen öffentlichen Wohnungsbestand zu einem Zeitpunkt, an dem der Zugang zu Mietwohnungen eines der meistgenannten Probleme in den Küstengemeinden ist."
+        ],
+        "apunte": "5.700 Quadratmeter abgetretenes Bauland: Es bleibt abzuwarten, wie viele davon in Villaviciosa und wie viele in Oviedo entstehen.",
+        "enVeinte": [
+          "Die Regierung Asturiens nimmt die Abtretung von Grundstücken an, um rund 300 öffentliche Mietwohnungen zu erschwinglichen Preisen in Oviedo und Villaviciosa zu bauen.",
+          "Das abgetretene Bauland umfasst 5.700 Quadratmeter auf beide Orte verteilt.",
+          "Die Maßnahme soll den öffentlichen Wohnungsbestand in der Region ausweiten."
+        ],
+        "cifra": {
+          "numero": "5.700",
+          "unidad": "Quadratmeter Bauland",
+          "glosa": "Das ist die Fläche, die dem Fürstentum für den Bau der neuen Wohnungen übertragen wird. Zum Vergleich: Das entspricht ungefähr acht Basketballfeldern."
+        },
+        "palabra": null,
+        "porQue": "Wenn ein Teil dieser Wohnungen in Villaviciosa entsteht, gewinnt die Gemeinde öffentliche Wohnungen zu gedämpften Preisen — etwas, das in der Gegend seit Jahren knapp ist.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la cesion de 5 700 metros cuadrados de",
+      "cesion de 5 700 metros cuadrados de suelo",
+      "de 5 700 metros cuadrados de suelo para",
+      "5 700 metros cuadrados de suelo para construir",
+      "700 metros cuadrados de suelo para construir cerca",
+      "metros cuadrados de suelo para construir cerca de",
+      "cuadrados de suelo para construir cerca de 300",
+      "de suelo para construir cerca de 300 viviendas",
+      "suelo para construir cerca de 300 viviendas publicas",
+      "para construir cerca de 300 viviendas publicas de",
+      "construir cerca de 300 viviendas publicas de alquiler",
+      "cerca de 300 viviendas publicas de alquiler asequible"
+    ]
+  },
+  {
     "id": "el-maliayo-alejandro-fernandez-se-proclama-campeon-de-la-copa-de-espan",
     "url": "/villaviciosa/el-maliayo-alejandro-fernandez-se-proclama-campeon-de-la-copa-de-espan/",
     "concejo": "Villaviciosa",
