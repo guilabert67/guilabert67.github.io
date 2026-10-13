@@ -88,6 +88,25 @@ export function esDuplicado(a, b) {
   return r > ingesta.umbralDuplicado ? r : 0;
 }
 
+/**
+ * Parejas DUDOSAS: mismo concejo, entre `ventanaDuplicadoHoras` y
+ * `ventanaDudosaDias` de distancia y parecido por encima de `umbralDudoso`.
+ * Aquí el parecido solo no decide: la ingesta pregunta al modelo. Se devuelven
+ * de más a menos parecidas.
+ */
+export function dudosos(pieza, lista) {
+  const max = (ingesta.ventanaDudosaDias ?? 7) * 24;
+  const salida = [];
+  for (const otra of lista) {
+    if (otra === pieza || otra.concejoSlug !== pieza.concejoSlug) continue;
+    const horas = Math.abs(Date.parse(pieza.fecha) - Date.parse(otra.fecha)) / 36e5;
+    if (!(horas > ingesta.ventanaDuplicadoHoras && horas <= max)) continue;
+    const r = parecido(pieza, otra);
+    if (r > (ingesta.umbralDudoso ?? 0.5)) salida.push({ otra, r });
+  }
+  return salida.sort((x, y) => y.r - x.r);
+}
+
 /** Devuelve la primera pieza de `lista` que cuenta lo mismo que `pieza`, o null. */
 export function duplicadoDe(pieza, lista) {
   for (const otra of lista) {

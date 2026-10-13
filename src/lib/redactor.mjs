@@ -440,6 +440,42 @@ function parrafos(v) {
   return [];
 }
 
+/**
+ * ¿Cuentan A y B el mismo hecho? Para las parejas que se parecen pero están
+ * separadas por días, donde el parecido de titulares no distingue «el mismo
+ * anuncio en otro medio» de «la crónica» o «otra fiesta del mismo nombre».
+ * Devuelve true (mismo), false (distinto) o null (no se pudo saber: se trata
+ * como distinto, mejor publicar de más que tirar una noticia).
+ */
+export async function mismoSuceso(a, b, { apiKey = process.env.ANTHROPIC_API_KEY } = {}) {
+  if (!apiKey) return null;
+  const ficha = (p) => `TITULAR: ${p.titular}\nTEXTO: ${String(p.texto ?? '').slice(0, 600)}\nFECHA: ${String(p.fecha).slice(0, 10)}`;
+  const instruccion = `Dos piezas de noticias del mismo concejo. ¿Cuentan el MISMO HECHO?
+
+MISMO: el mismo anuncio, acto o suceso, aunque lo cuenten medios distintos, con otras palabras o con días de diferencia.
+DISTINTO: hechos distintos aunque se parezcan: el anuncio de un evento y la crónica de cómo salió; dos fiestas o actos en pueblos distintos; una novedad posterior del mismo asunto (una reacción, una cifra nueva, otra fase).
+
+Responde SOLO con una palabra: MISMO o DISTINTO.
+
+${envolverMaterial(`PIEZA A\n${ficha(a)}\n\nPIEZA B\n${ficha(b)}`)}`;
+  try {
+    const res = await fetch(API, {
+      method: 'POST',
+      signal: AbortSignal.timeout(ESPERA_API_MS),
+      headers: { 'content-type': 'application/json', 'x-api-key': apiKey, 'anthropic-version': '2023-06-01' },
+      body: JSON.stringify({ model: ingesta.modelo, system: SISTEMA, max_tokens: 10, messages: [{ role: 'user', content: instruccion }] }),
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const t = (data.content ?? []).map((x) => x.text ?? '').join('').trim().toUpperCase();
+    if (/^MISMO\b/.test(t)) return true;
+    if (/^DISTINTO\b/.test(t)) return false;
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 export async function traducir(pieza, { apiKey = process.env.ANTHROPIC_API_KEY } = {}) {
   if (!apiKey || !ingesta.traducir) return {};
 
