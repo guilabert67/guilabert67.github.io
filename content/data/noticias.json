@@ -1,5 +1,421 @@
 [
   {
+    "id": "la-sidra-en-la-emigracion-asturiana-llegara-a-bimenes",
+    "url": "/nava/la-sidra-en-la-emigracion-asturiana-llegara-a-bimenes/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "La sidra de los emigrantes llega a Bimenes",
+    "entradilla": "Una exposición itinerante recorre la historia de la sidra asturiana al otro lado del Atlántico, con parada próxima en el concejo vecino.",
+    "cuerpo": [
+      "La Fundación Asturies XXI ha reunido fotografías, carteles, etiquetas y documentos de los siglos XIX y XX para mostrar cómo la sidra viajó con los asturianos que emigraron a América y les ayudó a no perder el hilo con su tierra. El proyecto se llama «La sidre na emigración asturiana. Memoria gráfica d'una cultura compartida» y se puede consultar en un libro de 48 páginas y en una exposición virtual de veinte piezas.",
+      "La muestra itinerante, que lleva esas mismas veinte fotografías impresas a 70 por 100 centímetros, está pensada para instituciones, asociaciones y centros educativos. Entre las imágenes hay una botella de sidra en la mesa de un escribano en México hacia 1870, dos emigrantes asturianos retratados en Cuba en 1885 y una excursión de la Juventud de Cuideiru en La Habana en 1917. También aparece el embarque de sidra en el muelle de La Espuncia, en Villaviciosa, hacia 1920, que muestra el peso comercial que tuvo el producto en los mercados americanos.",
+      "La muestra se inaugurará próximamente en Bimenes, aunque la fuente no precisa fecha. El proyecto cuenta con el apoyo del Gobierno del Principado y de los ayuntamientos de Nava y Bimenes, entre otros colaboradores."
+    ],
+    "apunte": "La sidra cruzó el Atlántico antes que muchos de nosotros, y vuelve en fotografía.",
+    "enVeinte": [
+      "La Fundación Asturies XXI recupera en imágenes la relación entre la emigración asturiana y la cultura sidrera durante los siglos XIX y XX.",
+      "El proyecto incluye un libro, una exposición virtual de veinte piezas y una muestra itinerante de fotografías que pronto se podrá ver en Bimenes.",
+      "Los ayuntamientos de Nava y Bimenes figuran entre los colaboradores, junto al Gobierno del Principado y varias entidades del sector sidrero."
+    ],
+    "cifra": {
+      "numero": "48",
+      "unidad": "páginas",
+      "glosa": "El libro que recoge el proyecto tiene 48 páginas. Junto a la exposición virtual de veinte piezas y la muestra itinerante, forma el grueso de un trabajo que rastrea la presencia de la sidra en las comunidades emigrantes asturianas a ambos lados del Atlántico."
+    },
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (la «ll» asturiana, como en «llave»)",
+      "definicion": "Lugar donde se elabora la sidra, equivalente a lo que en otros sitios llaman lagar. En Asturies, el llagar es el corazón de la producción sidrera, y los grandes llagares asturianos tuvieron relación comercial directa con los mercados americanos durante décadas."
+    },
+    "porQue": "La exposición recalará en Bimenes, concejo colindante con Nava, lo que acercará esta recuperación de la memoria sidrera y emigrante a los vecinos de toda la comarca sin necesidad de desplazarse lejos.",
+    "etiquetas": [
+      "sidra",
+      "emigración",
+      "Bimenes",
+      "Fundación Asturies XXI"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "expo",
+    "lugar": "Bimenes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-14T03:00:26.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/sidra-emigracion-asturiana-exposicion-bimenes/",
+      "titularOriginal": "La sidra en la emigración asturiana llegará a Bimenes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The emigrants' cider reaches Bimenes",
+        "entradilla": "A travelling exhibition traces the history of Asturian cider across the Atlantic, with an upcoming stop in the neighbouring municipality.",
+        "cuerpo": [
+          "La Fundación Asturies XXI has brought together photographs, posters, labels and documents from the 19th and 20th centuries to show how cider travelled with the Asturians who emigrated to the Americas and helped them keep their connection with home. The project is called «La sidre na emigración asturiana. Memoria gráfica d'una cultura compartida» and can be consulted in a 48-page book and in a virtual exhibition of twenty pieces.",
+          "The travelling show, which takes those same twenty photographs printed at 70 by 100 centimetres, is designed for institutions, associations and schools. Among the images are a bottle of cider on a notary's desk in Mexico around 1870, two Asturian emigrants photographed in Cuba in 1885, and an excursion by the Juventud de Cuideiru in Havana in 1917. Also featured is the loading of cider at the quay of La Espuncia, in Villaviciosa, around 1920, which illustrates the commercial weight the product carried in American markets.",
+          "The exhibition will open in Bimenes in the near future, though no date has been specified. The project has the backing of the Gobierno del Principado and the councils of Nava and Bimenes, among other collaborators."
+        ],
+        "apunte": "Cider crossed the Atlantic before many of us did, and it returns now in photographs.",
+        "enVeinte": [
+          "La Fundación Asturies XXI recovers in images the relationship between Asturian emigration and cider culture during the 19th and 20th centuries.",
+          "The project includes a book, a virtual exhibition of twenty pieces, and a travelling photograph show that will soon be on display in Bimenes.",
+          "The councils of Nava and Bimenes are among the collaborators, alongside the Gobierno del Principado and several entities from the cider sector."
+        ],
+        "cifra": {
+          "numero": "48",
+          "unidad": "pages",
+          "glosa": "The book documenting the project runs to 48 pages. Together with the virtual exhibition of twenty pieces and the travelling show, it forms the bulk of a work that traces the presence of cider in Asturian emigrant communities on both sides of the Atlantic."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (the Asturian «ll», as in «llave»)",
+          "definicion": "The place where cider is made, equivalent to what is called a lagar elsewhere. In Asturies, the llagar is the heart of cider production, and the great Asturian llagares had direct commercial ties with American markets for decades."
+        },
+        "porQue": "The exhibition will stop in Bimenes, a municipality bordering Nava, bringing this recovery of cider and emigrant memory closer to residents throughout the area without them having to travel far.",
+        "lugar": "Bimenes",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le cidre des émigrés arrive à Bimenes",
+        "entradilla": "Une exposition itinérante retrace l'histoire du cidre asturien de l'autre côté de l'Atlantique, avec une prochaine étape dans la commune voisine.",
+        "cuerpo": [
+          "La Fundación Asturies XXI a rassemblé des photographies, des affiches, des étiquettes et des documents des XIXe et XXe siècles pour montrer comment le cidre a voyagé avec les Asturiens qui ont émigré en Amérique et les a aidés à garder le lien avec leur terre. Le projet s'intitule «La sidre na emigración asturiana. Memoria gráfica d'una cultura compartida» et peut être consulté dans un livre de 48 pages ainsi que dans une exposition virtuelle de vingt pièces.",
+          "L'exposition itinérante, qui présente ces mêmes vingt photographies imprimées en 70 sur 100 centimètres, est destinée aux institutions, aux associations et aux établissements scolaires. Parmi les images figure une bouteille de cidre sur le bureau d'un notaire au Mexique vers 1870, deux émigrés asturiens photographiés à Cuba en 1885 et une excursion de la Juventud de Cuideiru à La Havane en 1917. On y voit aussi l'embarquement de cidre sur le quai de La Espuncia, à Villaviciosa, vers 1920, qui illustre le poids commercial qu'a eu ce produit sur les marchés américains.",
+          "L'exposition sera inaugurée prochainement à Bimenes, sans que la source précise de date. Le projet bénéficie du soutien du Gobierno del Principado et des mairies de Nava et de Bimenes, parmi d'autres collaborateurs."
+        ],
+        "apunte": "Le cidre a traversé l'Atlantique avant beaucoup d'entre nous, et il revient aujourd'hui en photographie.",
+        "enVeinte": [
+          "La Fundación Asturies XXI retrace en images la relation entre l'émigration asturienne et la culture du cidre aux XIXe et XXe siècles.",
+          "Le projet comprend un livre, une exposition virtuelle de vingt pièces et une exposition itinérante de photographies qui sera bientôt visible à Bimenes.",
+          "Les mairies de Nava et de Bimenes figurent parmi les collaborateurs, aux côtés du Gobierno del Principado et de plusieurs entités du secteur cidricole."
+        ],
+        "cifra": {
+          "numero": "48",
+          "unidad": "pages",
+          "glosa": "Le livre qui documente le projet compte 48 pages. Avec l'exposition virtuelle de vingt pièces et l'exposition itinérante, il constitue l'essentiel d'un travail qui retrace la présence du cidre dans les communautés d'émigrés asturiens des deux côtés de l'Atlantique."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (le «ll» asturien, comme dans «llave»)",
+          "definicion": "Le lieu où l'on fabrique le cidre, équivalent de ce que l'on appelle ailleurs un lagar. En Asturies, le llagar est le cœur de la production cidricole, et les grands llagares asturiens ont entretenu des liens commerciaux directs avec les marchés américains pendant des décennies."
+        },
+        "porQue": "L'exposition fera étape à Bimenes, commune limitrophe de Nava, ce qui permettra aux habitants de toute la zone de découvrir cette mémoire du cidre et de l'émigration sans avoir à se déplacer loin.",
+        "lugar": "Bimenes",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Cidre der Auswanderer kommt nach Bimenes",
+        "entradilla": "Eine Wanderausstellung zeichnet die Geschichte des asturischen Cidre auf der anderen Seite des Atlantiks nach — mit einer bevorstehenden Station in der benachbarten Gemeinde.",
+        "cuerpo": [
+          "La Fundación Asturies XXI hat Fotografien, Plakate, Etiketten und Dokumente aus dem 19. und 20. Jahrhundert zusammengetragen, um zu zeigen, wie der Cidre mit den Asturiern, die nach Amerika auswanderten, mitreiste und ihnen half, den Faden zu ihrer Heimat nicht zu verlieren. Das Projekt trägt den Namen «La sidre na emigración asturiana. Memoria gráfica d'una cultura compartida» und kann in einem 48-seitigen Buch sowie in einer virtuellen Ausstellung mit zwanzig Exponaten eingesehen werden.",
+          "Die Wanderausstellung, die dieselben zwanzig Fotografien im Format 70 mal 100 Zentimeter zeigt, richtet sich an Institutionen, Vereine und Bildungseinrichtungen. Zu den Aufnahmen gehören eine Cidreflasche auf dem Schreibtisch eines Notars in Mexiko um 1870, zwei asturische Auswanderer, die 1885 in Kuba porträtiert wurden, und ein Ausflug der Juventud de Cuideiru in Havanna im Jahr 1917. Außerdem ist das Verladen von Cidre am Kai von La Espuncia in Villaviciosa um 1920 zu sehen, das das kommerzielle Gewicht des Produkts auf den amerikanischen Märkten belegt.",
+          "Die Ausstellung soll demnächst in Bimenes eröffnet werden, ohne dass die Quelle ein genaues Datum nennt. Das Projekt wird vom Gobierno del Principado sowie den Rathäusern von Nava und Bimenes unterstützt, neben weiteren Mitträgern."
+        ],
+        "apunte": "Der Cidre überquerte den Atlantik, bevor viele von uns es taten — und kehrt nun in Fotografien zurück.",
+        "enVeinte": [
+          "La Fundación Asturies XXI hält in Bildern die Beziehung zwischen der asturischen Auswanderung und der Cidrekultur im 19. und 20. Jahrhundert fest.",
+          "Das Projekt umfasst ein Buch, eine virtuelle Ausstellung mit zwanzig Exponaten und eine Wanderausstellung mit Fotografien, die bald in Bimenes zu sehen sein wird.",
+          "Die Rathäuser von Nava und Bimenes zählen zu den Mitträgern, ebenso wie das Gobierno del Principado und mehrere Einrichtungen aus dem Cidresektor."
+        ],
+        "cifra": {
+          "numero": "48",
+          "unidad": "Seiten",
+          "glosa": "Das Buch, das das Projekt dokumentiert, umfasst 48 Seiten. Zusammen mit der virtuellen Ausstellung mit zwanzig Exponaten und der Wanderausstellung bildet es den Kern einer Arbeit, die die Präsenz des Cidre in den asturischen Auswanderergemeinschaften auf beiden Seiten des Atlantiks nachzeichnet."
+        },
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (das asturische «ll», wie in «llave»)",
+          "definicion": "Der Ort, an dem Cidre hergestellt wird, vergleichbar mit dem, was anderswo lagar genannt wird. In Asturies ist der llagar das Herzstück der Cidreproduktion, und die großen asturischen Llagares unterhielten jahrzehntelang direkte Handelsbeziehungen zu den amerikanischen Märkten."
+        },
+        "porQue": "Die Ausstellung macht Station in Bimenes, einer an Nava angrenzenden Gemeinde, und bringt so diese Aufarbeitung des Cidre- und Auswanderergedächtnisses den Bewohnern der gesamten Gegend nahe, ohne dass sie weit reisen müssen.",
+        "lugar": "Bimenes",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la sidre na emigracion asturiana memoria grafica d",
+      "sidre na emigracion asturiana memoria grafica d una",
+      "na emigracion asturiana memoria grafica d una cultura",
+      "emigracion asturiana memoria grafica d una cultura compartida",
+      "en un libro de 48 paginas y en",
+      "un libro de 48 paginas y en una",
+      "libro de 48 paginas y en una exposicion",
+      "de 48 paginas y en una exposicion virtual",
+      "48 paginas y en una exposicion virtual de",
+      "paginas y en una exposicion virtual de veinte",
+      "y en una exposicion virtual de veinte piezas",
+      "una botella de sidra en la mesa de",
+      "botella de sidra en la mesa de un",
+      "de sidra en la mesa de un escribano",
+      "en cuba en 1885 y una excursion de",
+      "cuba en 1885 y una excursion de la",
+      "en 1885 y una excursion de la juventud",
+      "1885 y una excursion de la juventud de",
+      "y una excursion de la juventud de cuideiru",
+      "una excursion de la juventud de cuideiru en",
+      "excursion de la juventud de cuideiru en la",
+      "de la juventud de cuideiru en la habana",
+      "la juventud de cuideiru en la habana en",
+      "juventud de cuideiru en la habana en 1917",
+      "el embarque de sidra en el muelle de",
+      "embarque de sidra en el muelle de la",
+      "de sidra en el muelle de la espuncia",
+      "sidra en el muelle de la espuncia en",
+      "en el muelle de la espuncia en villaviciosa",
+      "el muelle de la espuncia en villaviciosa hacia",
+      "muelle de la espuncia en villaviciosa hacia 1920"
+    ]
+  },
+  {
+    "id": "samantha-hudson-actuara-en-la-benefica-de-pilona-con-su-album-musica-p",
+    "url": "/pilona/samantha-hudson-actuara-en-la-benefica-de-pilona-con-su-album-musica-p/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Samantha Hudson llega a L'Infiestu en noviembre",
+    "entradilla": "La artista presenta en La Benéfica su tercer disco, que mezcla electrónica y humor.",
+    "cuerpo": [
+      "Samantha Hudson actuará el 6 de noviembre en La Benéfica de Piloña, en L'Infiestu, para presentar 'Música para Muñecas', su tercer álbum.",
+      "El concierto combina electrónica y humor en un mismo espectáculo."
+    ],
+    "apunte": "Electrónica y humor bajo el mismo techo en L'Infiestu: peor plan se ha visto.",
+    "enVeinte": [
+      "Samantha Hudson actúa el 6 de noviembre en La Benéfica de Piloña, en L'Infiestu.",
+      "El concierto sirve para presentar 'Música para Muñecas', su tercer disco.",
+      "La propuesta mezcla música electrónica con humor."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un nombre de alcance nacional aterriza en L'Infiestu: no hace falta ir a Xixón ni a Madrid para verla.",
+    "etiquetas": [
+      "música",
+      "Piloña",
+      "L'Infiestu",
+      "concierto"
+    ],
+    "fechaEvento": "2026-11-06",
+    "tipoEvento": "concierto",
+    "lugar": "La Benéfica de Piloña, L'Infiestu",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/samantha-hudson-actuara-en-la-benefica-de-pilona-c-4cd3ffad.jpg",
+    "fecha": "2026-10-13T22:19:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-pilona-infiesto/samantha-hudson-actuara-en-la-benefica-de-pilona-con-su-album-musica-para-munecas-11276547.html",
+      "titularOriginal": "Samantha Hudson actuará en La Benéfica de Piloña con su álbum ‘Música para Muñecas’"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Samantha Hudson comes to L'Infiestu in November",
+        "entradilla": "The artist presents her third album at La Benéfica, blending electronic music and humour.",
+        "cuerpo": [
+          "Samantha Hudson will perform on 6 November at La Benéfica de Piloña, in L'Infiestu, to present 'Música para Muñecas', her third album.",
+          "The concert combines electronic music and humour in a single show."
+        ],
+        "apunte": "Electronic music and humour under the same roof in L'Infiestu: worse plans have been seen.",
+        "enVeinte": [
+          "Samantha Hudson performs on 6 November at La Benéfica de Piloña, in L'Infiestu.",
+          "The concert serves to present 'Música para Muñecas', her third album.",
+          "The show blends electronic music with humour."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A nationally known name lands in L'Infiestu: you don't need to go to Xixón or Madrid to see her.",
+        "lugar": "La Benéfica de Piloña, L'Infiestu",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Samantha Hudson arrive à L'Infiestu en novembre",
+        "entradilla": "L'artiste présente son troisième album à La Benéfica, mêlant musique électronique et humour.",
+        "cuerpo": [
+          "Samantha Hudson se produira le 6 novembre à La Benéfica de Piloña, à L'Infiestu, pour présenter 'Música para Muñecas', son troisième album.",
+          "Le concert associe musique électronique et humour dans un même spectacle."
+        ],
+        "apunte": "Musique électronique et humour sous le même toit à L'Infiestu : on a vu pire comme programme.",
+        "enVeinte": [
+          "Samantha Hudson se produit le 6 novembre à La Benéfica de Piloña, à L'Infiestu.",
+          "Le concert sert à présenter 'Música para Muñecas', son troisième album.",
+          "Le spectacle mêle musique électronique et humour."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un nom de portée nationale débarque à L'Infiestu : inutile d'aller à Xixón ou à Madrid pour la voir.",
+        "lugar": "La Benéfica de Piloña, L'Infiestu",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Samantha Hudson kommt im November nach L'Infiestu",
+        "entradilla": "Die Künstlerin stellt ihr drittes Album in La Benéfica vor – eine Mischung aus Elektromusik und Humor.",
+        "cuerpo": [
+          "Samantha Hudson tritt am 6. November in La Benéfica de Piloña in L'Infiestu auf, um ihr drittes Album 'Música para Muñecas' vorzustellen.",
+          "Das Konzert verbindet Elektromusik und Humor in einer einzigen Show."
+        ],
+        "apunte": "Elektromusik und Humor unter einem Dach in L'Infiestu – schlechtere Pläne hat man schon gesehen.",
+        "enVeinte": [
+          "Samantha Hudson tritt am 6. November in La Benéfica de Piloña in L'Infiestu auf.",
+          "Das Konzert dient der Vorstellung von 'Música para Muñecas', ihrem dritten Album.",
+          "Das Programm verbindet Elektromusik mit Humor."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein landesweit bekannter Name macht Station in L'Infiestu – man muss nicht nach Xixón oder Madrid fahren, um sie zu sehen.",
+        "lugar": "La Benéfica de Piloña, L'Infiestu",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "samantha hudson actuara el 6 de noviembre en",
+      "hudson actuara el 6 de noviembre en la",
+      "actuara el 6 de noviembre en la benefica",
+      "el 6 de noviembre en la benefica de",
+      "6 de noviembre en la benefica de pilona",
+      "de noviembre en la benefica de pilona en",
+      "noviembre en la benefica de pilona en l",
+      "en la benefica de pilona en l infiestu",
+      "la benefica de pilona en l infiestu para",
+      "benefica de pilona en l infiestu para presentar"
+    ]
+  },
+  {
+    "id": "villaviciosa-contara-con-50-pisos-destinados-para-familias-vulnerables",
+    "url": "/villaviciosa/villaviciosa-contara-con-50-pisos-destinados-para-familias-vulnerables/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "50 pisos para familias vulnerables en Villaviciosa",
+    "entradilla": "El solar elegido está en la avenida del Carbayu, en plena capital del concejo.",
+    "cuerpo": [
+      "Villaviciosa tendrá 50 viviendas destinadas a familias en situación vulnerable. El proyecto se levantará sobre una parcela de unos 1.500 metros cuadrados ubicada en la avenida del Carbayu.",
+      "El material disponible no detalla promotor, plazos de construcción ni condiciones de acceso, así que habrá que esperar a que se concreten esos pasos."
+    ],
+    "apunte": "1.500 metros cuadrados que pueden cambiar la vida de 50 familias.",
+    "enVeinte": [
+      "Villaviciosa construirá 50 viviendas para familias vulnerables en la avenida del Carbayu.",
+      "La parcela mide unos 1.500 metros cuadrados y está en la capital del concejo.",
+      "Todavía no se conocen promotor, plazos ni condiciones de acceso."
+    ],
+    "cifra": {
+      "numero": "1.500",
+      "unidad": "m²",
+      "glosa": "Ese es el tamaño de la parcela donde se construirán los 50 pisos. Equivale, a grandes rasgos, a tres campos de baloncesto."
+    },
+    "palabra": {
+      "termino": "maliayés",
+      "como": "ma-lia-YÉS",
+      "definicion": "Gentilicio de Maliayo, el nombre asturiano tradicional de Villaviciosa. Lo verás escrito así en la prensa y en documentos oficiales del concejo."
+    },
+    "porQue": "Si vives en Villaviciosa y estás en una situación económica difícil, este proyecto puede abrir una vía de acceso a vivienda pública en el propio municipio, sin tener que salir del concejo.",
+    "etiquetas": [
+      "vivienda",
+      "Villaviciosa",
+      "familias vulnerables",
+      "avenida del Carbayu"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Avenida del Carbayu, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/13/villa_papel_xoptimizadax_20261013213646-RsIy4mihfqSx6ZlbR7EIsBI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-13T20:04:29.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-contara-pisos-destinados-familias-vulnerables-20261013220428-nt.html",
+      "titularOriginal": "Villaviciosa contará con 50 pisos destinados para familias vulnerables"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "50 flats for vulnerable families in Villaviciosa",
+        "entradilla": "The chosen plot is on Avenida del Carbayu, in the heart of the municipality's capital.",
+        "cuerpo": [
+          "Villaviciosa will have 50 homes for families in vulnerable situations. The project will be built on a plot of around 1,500 square metres on Avenida del Carbayu.",
+          "The available material gives no details about the developer, the construction timeline or the access conditions, so there will be a wait before those steps are clarified."
+        ],
+        "apunte": "1,500 square metres that could change the lives of 50 families.",
+        "enVeinte": [
+          "Villaviciosa will build 50 homes for vulnerable families on Avenida del Carbayu.",
+          "The plot covers around 1,500 square metres and sits in the municipality's capital.",
+          "The developer, timeline and access conditions are not yet known."
+        ],
+        "cifra": {
+          "numero": "1.500",
+          "unidad": "m²",
+          "glosa": "That is the size of the plot where the 50 flats will be built. Roughly speaking, it is about the same as three basketball courts."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-YÉS",
+          "definicion": "The demonym from Maliayo, the traditional Asturian name for Villaviciosa. You will find it written this way in the press and in official documents of the municipality."
+        },
+        "porQue": "If you live in Villaviciosa and are going through financial hardship, this project could open a route to public housing within the municipality itself, without having to leave the municipality.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "50 logements pour familles vulnérables à Villaviciosa",
+        "entradilla": "Le terrain retenu se trouve sur l'avenida del Carbayu, en plein cœur du chef-lieu de la commune.",
+        "cuerpo": [
+          "Villaviciosa disposera de 50 logements destinés aux familles en situation de vulnérabilité. Le projet sera construit sur une parcelle d'environ 1 500 mètres carrés située sur l'avenida del Carbayu.",
+          "Le matériau disponible ne précise ni le maître d'ouvrage, ni le calendrier de construction, ni les conditions d'accès : il faudra donc attendre que ces éléments soient définis."
+        ],
+        "apunte": "1 500 mètres carrés qui pourraient changer la vie de 50 familles.",
+        "enVeinte": [
+          "Villaviciosa construira 50 logements pour familles vulnérables sur l'avenida del Carbayu.",
+          "La parcelle fait environ 1 500 mètres carrés et se situe dans le chef-lieu de la commune.",
+          "Le maître d'ouvrage, le calendrier et les conditions d'accès ne sont pas encore connus."
+        ],
+        "cifra": {
+          "numero": "1.500",
+          "unidad": "m²",
+          "glosa": "C'est la superficie de la parcelle sur laquelle les 50 logements seront construits. Cela correspond, à titre de comparaison, à environ trois terrains de basket."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-YÉS",
+          "definicion": "Le gentilé dérivé de Maliayo, le nom asturien traditionnel de Villaviciosa. Vous le trouverez écrit ainsi dans la presse et dans les documents officiels de la commune."
+        },
+        "porQue": "Si vous habitez à Villaviciosa et traversez une période de difficultés financières, ce projet pourrait vous ouvrir l'accès à un logement public dans la commune même, sans avoir à la quitter.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "50 Wohnungen für bedürftige Familien in Villaviciosa",
+        "entradilla": "Das ausgewählte Grundstück liegt an der Avenida del Carbayu, mitten im Hauptort der Gemeinde.",
+        "cuerpo": [
+          "Villaviciosa wird 50 Wohnungen für Familien in einer vulnerablen Lage erhalten. Das Projekt soll auf einem etwa 1.500 Quadratmeter großen Grundstück an der Avenida del Carbayu entstehen.",
+          "Das vorliegende Material enthält keine Angaben zu Bauträger, Bauzeitraum oder Zugangsbedingungen, sodass abgewartet werden muss, bis diese Schritte konkretisiert werden."
+        ],
+        "apunte": "1.500 Quadratmeter, die das Leben von 50 Familien verändern könnten.",
+        "enVeinte": [
+          "Villaviciosa wird an der Avenida del Carbayu 50 Wohnungen für bedürftige Familien bauen.",
+          "Das Grundstück umfasst etwa 1.500 Quadratmeter und liegt im Hauptort der Gemeinde.",
+          "Bauträger, Zeitplan und Zugangsbedingungen sind noch nicht bekannt."
+        ],
+        "cifra": {
+          "numero": "1.500",
+          "unidad": "m²",
+          "glosa": "So groß ist das Grundstück, auf dem die 50 Wohnungen gebaut werden. Das entspricht in etwa drei Basketballfeldern."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-YÉS",
+          "definicion": "Die Herkunftsbezeichnung von Maliayo, dem traditionellen asturischen Namen für Villaviciosa. Sie werden sie in der Presse und in offiziellen Dokumenten der Gemeinde so geschrieben finden."
+        },
+        "porQue": "Wenn Sie in Villaviciosa leben und sich in einer finanziell schwierigen Lage befinden, könnte dieses Projekt Ihnen den Zugang zu öffentlichem Wohnraum in der Gemeinde selbst ermöglichen, ohne dass Sie die Gemeinde verlassen müssen.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-certamen-del-queso-gamoneu-de-onis-no-tendra-feria-pero-si-un-inten",
     "url": "/cabrales/el-certamen-del-queso-gamoneu-de-onis-no-tendra-feria-pero-si-un-inten/",
     "concejo": "Cabrales",

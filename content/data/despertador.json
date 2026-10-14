@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-13T16:30:08.518Z",
+  "fecha": "2026-10-14T05:25:55.785Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Cincuenta pisos públicos de alquiler asequible llegan a Villaviciosa.",
-      "enlace": "/villaviciosa/asturias-da-luz-verde-a-casi-300-viviendas-publicas-en-oviedo-y-villav/"
+      "frase": "50 pisos para familias vulnerables se construirán en la avenida del Carbayu.",
+      "enlace": "/villaviciosa/villaviciosa-contara-con-50-pisos-destinados-para-familias-vulnerables/"
     },
     {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa celebra la manzana diez días con sidra, libros y tradición.",
-      "enlace": "/villaviciosa/noticia-apple-day/"
+      "concejo": "Nava",
+      "frase": "La historia de la sidra asturiana emigrante llega en exposición al concejo de Bimenes.",
+      "enlace": "/nava/la-sidra-en-la-emigracion-asturiana-llegara-a-bimenes/"
     },
     {
       "concejo": "Piloña",
-      "frase": "Valero y Espina ganan por tercera vez seguida el Rogaine de Infiesto.",
-      "enlace": "/pilona/alberto-valero-y-manuel-espina-conquistan-por-tercer-ano-consecutivo-e/"
+      "frase": "Samantha Hudson trae su nuevo disco a La Benéfica de L'Infiestu en noviembre.",
+      "enlace": "/pilona/samantha-hudson-actuara-en-la-benefica-de-pilona-con-su-album-musica-p/"
     }
   ]
 }
