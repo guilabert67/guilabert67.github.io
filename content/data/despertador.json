@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-14T10:35:56.451Z",
+  "fecha": "2026-10-14T19:44:03.600Z",
   "puntos": [
     {
-      "concejo": "Cabranes",
-      "frase": "Kikiricoop de Cabranes gana el premio nacional a la mejor producción ecológica.",
-      "enlace": "/cabranes/el-ministerio-de-agricultura-premia-a-la-cooperativa-kikiricoop-con-se/"
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa arregla la tubería rota de Careñes y Villaverde: 81.413 euros.",
+      "enlace": "/villaviciosa/villaviciosa-licita-por-81-413-euros-la-mejora-del-abastecimiento-de-a/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "La Viesca estrena centro eléctrico cubierto: adiós a parte del tendido aéreo en Villaviciosa.",
-      "enlace": "/villaviciosa/el-centro-de-transformacion-la-viesca-en-villaviciosa-deja-la-intemper/"
+      "frase": "También van 80.000 euros a cortar las fugas de agua en Les Mariñes.",
+      "enlace": "/villaviciosa/obras-en-les-marines-para-acabar-con-las-perdidas-y-las-averias-en-el-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "FotoMaliayo premia este sábado a Ambas, Ramses y dos entidades con cuarenta años.",
+      "enlace": "/villaviciosa/fotomaliayo-celebra-este-sabado-su-cuarta-edicion-en-villaviciosa-con-/"
     }
   ]
 }
