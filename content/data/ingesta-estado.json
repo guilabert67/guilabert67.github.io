@@ -361,6 +361,16 @@
       "motivo": "duplicado de /villaviciosa/villaviciosa-licita-por-81-413-euros-la-mejora-del-abastecimiento-de-a/",
       "fecha": "2026-10-14T19:44:00.973Z",
       "titulo": "Villaviciosa licita nuevas obras para mejorar el abastecimiento de agua en Careñes y Villaverde"
+    },
+    "elbuscolu.com/noticias-pilona-infiesto/xxx-jornadas-micologicas-en-pilona-11276571.html": {
+      "motivo": "mismo hecho que /pilona/pilona-celebra-las-xxx-jornadas-micologicas-del-23-al-26-de-octubre/",
+      "fecha": "2026-10-15T05:51:36.221Z",
+      "titulo": "Piloña celebra sus XXX Jornadas Micológicas en octubre"
+    },
+    "coperibadesella.com/14/10/2026/los-suenos-mecanicos-de-leonardo-da-vinci-en-el-prial-de-infiesto-del-papel-a-la-madera": {
+      "motivo": "mismo hecho que /pilona/leonardo-da-vinci-llega-a-el-prial-de-infiesto-con-maquinas-e-inventos/",
+      "fecha": "2026-10-15T05:51:36.985Z",
+      "titulo": "Los sueños mecánicos de Leonardo da Vinci en El Prial de Infiesto. Del papel a la madera"
     }
   },
   "juicios": {
@@ -431,6 +441,14 @@
     "elbuscolu.com/noticias-villaviciosa/villaviciosa-acogera-la-xii-espicha-solidaria-frente-al-cancer-el-7-de-noviembre-11276520.html|el-actor-javier-gutierrez-embajador-de-la-sidra-de-asturias-solidaria": {
       "r": "mismo",
       "fecha": "2026-10-13T07:25:27.334Z"
+    },
+    "elbuscolu.com/noticias-pilona-infiesto/xxx-jornadas-micologicas-en-pilona-11276571.html|pilona-celebra-las-xxx-jornadas-micologicas-del-23-al-26-de-octubre": {
+      "r": "mismo",
+      "fecha": "2026-10-15T05:51:36.221Z"
+    },
+    "coperibadesella.com/14/10/2026/los-suenos-mecanicos-de-leonardo-da-vinci-en-el-prial-de-infiesto-del-papel-a-la-madera|leonardo-da-vinci-llega-a-el-prial-de-infiesto-con-maquinas-e-inventos": {
+      "r": "mismo",
+      "fecha": "2026-10-15T05:51:36.985Z"
     }
   }
 }
