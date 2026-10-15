@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-15T05:51:39.474Z",
+  "fecha": "2026-10-15T10:43:54.430Z",
   "puntos": [
     {
-      "concejo": "Cabranes",
-      "frase": "Kikiricoop de Cabranes gana el premio nacional a la mejor producción ecológica.",
-      "enlace": "/cabranes/el-ministerio-de-agricultura-premia-a-la-cooperativa-kikiricoop-con-se/"
+      "concejo": "Villaviciosa",
+      "frase": "Un relato sobre sidra gana por primera vez un certamen literario internacional.",
+      "enlace": "/villaviciosa/la-cultura-sidrera-asturiana-tiene-mucho-que-contar/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa celebra la manzana diez días con sidra, libros y tradición hasta el 23.",
-      "enlace": "/villaviciosa/noticia-apple-day/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Cincuenta pisos para familias vulnerables llegarán a la avenida del Carbayu.",
-      "enlace": "/villaviciosa/villaviciosa-contara-con-50-pisos-destinados-para-familias-vulnerables/"
+      "frase": "Villaviciosa celebra el Día de la Manzana con talleres, exposiciones y concursos de sidra.",
+      "enlace": "/villaviciosa/villaviciosa-conmemora-el-dia-internacional-de-la-manzana-con-un-varia/"
     }
   ]
 }

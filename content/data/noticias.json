@@ -1,5 +1,242 @@
 [
   {
+    "id": "la-cultura-sidrera-asturiana-tiene-mucho-que-contar",
+    "url": "/villaviciosa/la-cultura-sidrera-asturiana-tiene-mucho-que-contar/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un relato sobre sidra gana certamen internacional",
+    "entradilla": "El fallo se celebró en Villaviciosa y premia por primera vez una obra literaria inspirada en la cultura sidrera asturiana.",
+    "cuerpo": [
+      "Nathaly Judith Silva Villanueva se lleva el primer Certamen Literario Internacional Sidra de Autor con su obra 'Patrimonio con IVA'. El concurso lo impulsa la Fundación Automáticos Tineo y el fallo tuvo lugar en Villaviciosa.",
+      "Es la primera edición de un certamen que busca poner en valor la sidra como tema literario, no solo como bebida o tradición de lagar."
+    ],
+    "apunte": "Que la sidra inspire literatura ya lo sabíamos; que gane premios internacionales, eso es nuevo.",
+    "enVeinte": [
+      "Nathaly Judith Silva Villanueva gana la primera edición del Certamen Literario Internacional Sidra de Autor con 'Patrimonio con IVA'.",
+      "El concurso lo promueve la Fundación Automáticos Tineo y el fallo se celebró en Villaviciosa.",
+      "El certamen nace para dar valor literario a la cultura sidrera asturiana."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (ll- asturiana, suena como y- en muchas zonas)",
+      "definicion": "Lugar donde se elabora la sidra: se prensan las manzanas, fermenta el mosto y se guarda el líquido en pipas. Es el corazón de la cultura sidrera asturiana, y la pieza gira precisamente en torno a ese patrimonio."
+    },
+    "porQue": "Villaviciosa es capital mundial de la sidra y que un certamen literario internacional la tome como tema central pone la cultura del concejo en un escaparate que va más allá de la espicha.",
+    "etiquetas": [
+      "sidra",
+      "certamen literario",
+      "Villaviciosa",
+      "cultura asturiana"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "letras",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/15/jurado-villaviciosa-ROwxMzml9JbDiYV0PBtrOGO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-15T10:25:01.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/cultura-sidrera-asturiana-contar-20261015122501-nt.html",
+      "titularOriginal": "«La cultura sidrera asturiana tiene mucho que contar»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A story about cider wins international competition",
+        "entradilla": "The verdict was announced in Villaviciosa and rewards, for the first time, a literary work inspired by Asturian cider culture.",
+        "cuerpo": [
+          "Nathaly Judith Silva Villanueva takes first place at the Certamen Literario Internacional Sidra de Autor with her work 'Patrimonio con IVA'. The competition is driven by the Fundación Automáticos Tineo and the verdict was delivered in Villaviciosa.",
+          "This is the first edition of a competition that aims to elevate cider as a literary subject, not merely as a drink or a llagar (cider-press tradition)."
+        ],
+        "apunte": "That cider inspires literature, we already knew; that it wins international prizes — that is new.",
+        "enVeinte": [
+          "Nathaly Judith Silva Villanueva wins the first edition of the Certamen Literario Internacional Sidra de Autor with 'Patrimonio con IVA'.",
+          "The competition is promoted by the Fundación Automáticos Tineo and the verdict was announced in Villaviciosa.",
+          "The competition was created to give literary recognition to Asturian cider culture."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (the Asturian ll- sounds like y- in many areas)",
+          "definicion": "The place where cider is made: apples are pressed, the must ferments and the liquid is stored in barrels. It is the heart of Asturian cider culture, and this piece revolves precisely around that heritage."
+        },
+        "porQue": "Villaviciosa is the world capital of cider, and an international literary competition taking its culture as a central theme puts this municipality in a spotlight that goes well beyond the espicha (a cider-house feast).",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un récit sur le cidre remporte un concours international",
+        "entradilla": "Le verdict a été prononcé à Villaviciosa et récompense pour la première fois une œuvre littéraire inspirée de la culture cidrière asturienne.",
+        "cuerpo": [
+          "Nathaly Judith Silva Villanueva remporte le premier Certamen Literario Internacional Sidra de Autor avec son œuvre «Patrimonio con IVA». Le concours est porté par la Fundación Automáticos Tineo et le verdict a été rendu à Villaviciosa.",
+          "C'est la première édition d'un concours qui cherche à mettre en valeur le cidre comme sujet littéraire, et pas seulement comme boisson ou tradition du llagar (pressoir à cidre)."
+        ],
+        "apunte": "Que le cidre inspire la littérature, on le savait déjà ; qu'il remporte des prix internationaux, ça, c'est nouveau.",
+        "enVeinte": [
+          "Nathaly Judith Silva Villanueva remporte la première édition du Certamen Literario Internacional Sidra de Autor avec «Patrimonio con IVA».",
+          "Le concours est promu par la Fundación Automáticos Tineo et le verdict a été prononcé à Villaviciosa.",
+          "Le concours est né pour donner une valeur littéraire à la culture cidrière asturienne."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (le ll- asturien se prononce comme y- dans de nombreuses zones)",
+          "definicion": "L'endroit où le cidre est élaboré : on y presse les pommes, le moût y fermente et le liquide est conservé dans des fûts. C'est le cœur de la culture cidrière asturienne, et cette pièce tourne précisément autour de ce patrimoine."
+        },
+        "porQue": "Villaviciosa est la capitale mondiale du cidre, et qu'un concours littéraire international en fasse son thème central place la culture de cette commune sous un projecteur qui va bien au-delà de l'espicha (fête autour du cidre).",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Eine Geschichte über Cidre gewinnt internationalen Wettbewerb",
+        "entradilla": "Das Urteil wurde in Villaviciosa verkündet und prämiert erstmals ein literarisches Werk, das von der asturischen Cidre-Kultur inspiriert ist.",
+        "cuerpo": [
+          "Nathaly Judith Silva Villanueva gewinnt den ersten Certamen Literario Internacional Sidra de Autor mit ihrem Werk «Patrimonio con IVA». Den Wettbewerb trägt die Fundación Automáticos Tineo, und das Urteil wurde in Villaviciosa gesprochen.",
+          "Es ist die erste Ausgabe eines Wettbewerbs, der Cidre als literarisches Thema aufwerten möchte — nicht nur als Getränk oder Tradition des llagar (Cidre-Presshaus)."
+        ],
+        "apunte": "Dass Cidre zur Literatur inspiriert, war bekannt; dass er internationale Preise gewinnt — das ist neu.",
+        "enVeinte": [
+          "Nathaly Judith Silva Villanueva gewinnt die erste Ausgabe des Certamen Literario Internacional Sidra de Autor mit «Patrimonio con IVA».",
+          "Der Wettbewerb wird von der Fundación Automáticos Tineo gefördert, und das Urteil wurde in Villaviciosa verkündet.",
+          "Der Wettbewerb wurde ins Leben gerufen, um der asturischen Cidre-Kultur literarischen Wert zu verleihen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (das asturische ll- klingt in vielen Gegenden wie y-)",
+          "definicion": "Der Ort, an dem Cidre hergestellt wird: Äpfel werden gepresst, der Most gärt und die Flüssigkeit wird in Fässern gelagert. Er ist das Herzstück der asturischen Cidre-Kultur, und um genau dieses Erbe dreht sich dieser Beitrag."
+        },
+        "porQue": "Villaviciosa gilt als Welthauptstadt des Cidres. Dass ein internationaler Literaturwettbewerb ihre Kultur zum zentralen Thema macht, rückt diese Gemeinde ins Rampenlicht — weit über die espicha (Cidre-Fest) hinaus.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el primer certamen literario internacional sidra de autor"
+    ]
+  },
+  {
+    "id": "villaviciosa-conmemora-el-dia-internacional-de-la-manzana-con-un-varia",
+    "url": "/villaviciosa/villaviciosa-conmemora-el-dia-internacional-de-la-manzana-con-un-varia/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Villaviciosa celebra el Día de la Manzana",
+    "entradilla": "La capital manzanera prepara exposiciones, talleres y concursos de sidra para la jornada.",
+    "cuerpo": [
+      "Villaviciosa se viste de manzana este 15 de octubre con un programa que mezcla cultura y gastronomía para conmemorar el Día Internacional de la Manzana.",
+      "El cartel incluye exposiciones, talleres y concursos de sidra, actividades que ponen en valor el papel del concejo como referente de la manzana en España."
+    ],
+    "apunte": "Si hay un día para estar en Villaviciosa oliendo a manzana, es hoy.",
+    "enVeinte": [
+      "Villaviciosa celebra el 15 de octubre el Día Internacional de la Manzana con un programa cultural y gastronómico.",
+      "El programa incluye exposiciones, talleres y concursos de sidra.",
+      "La villa lleva el título de Capital Manzanera de España y el día reafirma ese protagonismo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "sidra",
+      "como": "sidrina (en confianza, la de casa)",
+      "definicion": "La bebida fermentada de manzana que vertebra la cultura asturiana. En Villaviciosa, tierra manzanera por excelencia, hablar de sidra es hablar de identidad y de cosecha."
+    },
+    "porQue": "Para quien vive en el concejo, la jornada es la ocasión del año en que la manzana —y todo lo que la rodea, desde el llagar hasta el vaso— ocupa el centro de la villa.",
+    "etiquetas": [
+      "manzana",
+      "sidra",
+      "Villaviciosa",
+      "gastronomía"
+    ],
+    "fechaEvento": "2026-10-15",
+    "tipoEvento": "gastro",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-celebra-el-dia-internacional-de-la-manzan-13839.jpg",
+    "fecha": "2026-10-15T08:06:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/villaviciosa-conmemora-el-dia-internacional-de-la-manzana-con-un-variado-programa-cultural-y-gastronomico-11276586.html",
+      "titularOriginal": "Villaviciosa conmemora el Día Internacional de la Manzana con un variado programa cultural y gastronómico"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa celebrates Apple Day",
+        "entradilla": "The apple capital is preparing exhibitions, workshops and cider competitions for the occasion.",
+        "cuerpo": [
+          "Villaviciosa dresses up for apples this 15 October with a programme that blends culture and gastronomy to mark the International Apple Day.",
+          "The bill includes exhibitions, workshops and cider competitions — activities that highlight the municipality's role as Spain's apple benchmark."
+        ],
+        "apunte": "If there is one day to be in Villaviciosa breathing in the scent of apples, this is it.",
+        "enVeinte": [
+          "Villaviciosa marks International Apple Day on 15 October with a cultural and gastronomic programme.",
+          "The programme includes exhibitions, workshops and cider competitions.",
+          "The town holds the title of Apple Capital of Spain, and the day reaffirms that standing."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra",
+          "como": "sidrina (en confianza, la de casa)",
+          "definicion": "The fermented apple drink that runs through the heart of Asturian culture. In Villaviciosa, apple country par excellence, to speak of sidra is to speak of identity and harvest. Pronunciation: SEE-dra."
+        },
+        "porQue": "For those who live in the municipality, the day is the year's one occasion when the apple — and everything around it, from the llagar (the cider press) to the glass — takes centre stage in the town.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa fête le Jour de la Pomme",
+        "entradilla": "La capitale de la pomme prépare expositions, ateliers et concours de sidre pour la journée.",
+        "cuerpo": [
+          "Villaviciosa se pare aux couleurs de la pomme ce 15 octobre avec un programme mêlant culture et gastronomie pour commémorer la Journée Internationale de la Pomme.",
+          "L'affiche comprend expositions, ateliers et concours de sidre, des activités qui mettent en valeur le rôle de la commune comme référence de la pomme en Espagne."
+        ],
+        "apunte": "S'il y a un jour pour être à Villaviciosa et sentir la pomme dans l'air, c'est aujourd'hui.",
+        "enVeinte": [
+          "Villaviciosa célèbre le 15 octobre la Journée Internationale de la Pomme avec un programme culturel et gastronomique.",
+          "Le programme comprend expositions, ateliers et concours de sidre.",
+          "La ville porte le titre de Capitale de la Pomme d'Espagne et la journée réaffirme ce rayonnement."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra",
+          "como": "sidrina (en confianza, la de casa)",
+          "definicion": "La boisson fermentée à base de pomme qui structure la culture asturienne. À Villaviciosa, terre pomicole par excellence, parler de sidra, c'est parler d'identité et de récolte. Prononciation : SEE-dra."
+        },
+        "porQue": "Pour ceux qui vivent dans la commune, la journée est l'occasion de l'année où la pomme — et tout ce qui l'entoure, du llagar (pressoir à cidre) au verre — occupe le centre de la ville.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa feiert den Tag des Apfels",
+        "entradilla": "Die Apfelhauptstadt bereitet Ausstellungen, Workshops und Apfelweinwettbewerbe für den Festtag vor.",
+        "cuerpo": [
+          "Villaviciosa hüllt sich am 15. Oktober in Apfelstimmung: Ein Programm aus Kultur und Gastronomie begeht den Internationalen Tag des Apfels.",
+          "Das Programm umfasst Ausstellungen, Workshops und Apfelweinwettbewerbe — Veranstaltungen, die die Rolle der Gemeinde als spanische Referenz für den Apfelanbau hervorheben."
+        ],
+        "apunte": "Wenn es einen Tag gibt, um in Villaviciosa den Duft von Äpfeln einzuatmen, dann ist es heute.",
+        "enVeinte": [
+          "Villaviciosa begeht am 15. Oktober den Internationalen Tag des Apfels mit einem kulturellen und gastronomischen Programm.",
+          "Das Programm umfasst Ausstellungen, Workshops und Apfelweinwettbewerbe.",
+          "Die Stadt trägt den Titel Apfelhauptstadt Spaniens — der Festtag bekräftigt diesen Anspruch."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "sidra",
+          "como": "sidrina (en confianza, la de casa)",
+          "definicion": "Das vergorene Apfelgetränk, das die asturische Kultur prägt. In Villaviciosa, dem Apfelland schlechthin, bedeutet von sidra zu sprechen, von Identität und Ernte zu sprechen. Aussprache: SEE-dra."
+        },
+        "porQue": "Für die Bewohner der Gemeinde ist der Festtag die Gelegenheit des Jahres, bei der der Apfel — und alles, was dazugehört, vom llagar (der Apfelweinpresse) bis zum Glas — in den Mittelpunkt der Stadt rückt.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-licita-por-81-413-euros-la-mejora-del-abastecimiento-de-a",
     "url": "/villaviciosa/villaviciosa-licita-por-81-413-euros-la-mejora-del-abastecimiento-de-a/",
     "concejo": "Villaviciosa",
