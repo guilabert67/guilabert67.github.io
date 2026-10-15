@@ -1,5 +1,341 @@
 [
   {
+    "id": "villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-apa",
+    "url": "/villaviciosa/villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-apa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa suma 360 plazas de aparcamiento nuevas",
+    "entradilla": "Un cambio en la circulación y la señalización de varias calles del centro es la clave.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa va a reorganizar el tráfico en el casco urbano para ganar alrededor de 360 plazas de aparcamiento. La medida afecta a la señalización y la ordenación de varias calles del centro.",
+      "El material disponible no detalla qué calles se verán afectadas ni cuándo arrancan los trabajos, así que habrá que estar pendientes de los anuncios municipales para saber cuándo y dónde cambia la cosa."
+    ],
+    "apunte": "360 plazas nuevas sin mover un ladrillo: solo con pintura y señales.",
+    "enVeinte": [
+      "Villaviciosa va a reorganizar el tráfico y la señalización en varias calles del centro.",
+      "El resultado será la creación de unas 360 nuevas plazas de aparcamiento.",
+      "Aún no se han dado a conocer las calles afectadas ni las fechas de inicio."
+    ],
+    "cifra": {
+      "numero": "360",
+      "unidad": "plazas de aparcamiento",
+      "glosa": "Es el número de nuevos sitios para aparcar que el Ayuntamiento espera conseguir reorganizando la circulación y la señalización, sin necesidad de construir un aparcamiento nuevo."
+    },
+    "palabra": null,
+    "porQue": "Quien va al centro de Villaviciosa y da vueltas buscando aparcamiento notará la diferencia si la medida sale como se anuncia.",
+    "etiquetas": [
+      "aparcamiento",
+      "tráfico",
+      "Villaviciosa",
+      "casco urbano"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-reorganiza-el-trafico-para-crear-360-3539a41a.jpg",
+    "fecha": "2026-10-15T15:39:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-aparcamiento-11276597.html",
+      "titularOriginal": "Villaviciosa reorganiza el tráfico para crear 360 nuevas plazas de aparcamiento"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa adds 360 new parking spaces",
+        "entradilla": "Changes to traffic flow and signage on several streets in the town centre are the key.",
+        "cuerpo": [
+          "The council of Villaviciosa is going to reorganise traffic in the town centre to gain around 360 parking spaces. The measure affects the signage and layout of several streets in the centre.",
+          "The available material does not specify which streets will be affected or when work will begin, so it will be worth keeping an eye on municipal announcements to find out when and where things change."
+        ],
+        "apunte": "360 new spaces without moving a brick: just paint and signs.",
+        "enVeinte": [
+          "Villaviciosa is going to reorganise traffic and signage on several streets in the town centre.",
+          "The result will be the creation of around 360 new parking spaces.",
+          "The streets affected and the start dates have not yet been announced."
+        ],
+        "cifra": {
+          "numero": "360",
+          "unidad": "parking spaces",
+          "glosa": "This is the number of new places to park that the council expects to create by reorganising traffic flow and signage, with no need to build a new car park."
+        },
+        "palabra": null,
+        "porQue": "Anyone who drives to the centre of Villaviciosa and circles around looking for a space will notice the difference if the measure works as announced.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa va créer 360 nouvelles places de stationnement",
+        "entradilla": "La clé : une modification de la circulation et de la signalisation dans plusieurs rues du centre-ville.",
+        "cuerpo": [
+          "La mairie de Villaviciosa va réorganiser la circulation dans le centre-ville afin de gagner environ 360 places de stationnement. La mesure porte sur la signalisation et l'organisation de plusieurs rues du centre.",
+          "Les informations disponibles ne précisent ni quelles rues seront concernées ni quand les travaux débuteront : il faudra donc suivre les annonces municipales pour savoir quand et où les choses vont changer."
+        ],
+        "apunte": "360 nouvelles places sans déplacer une seule brique : juste de la peinture et des panneaux.",
+        "enVeinte": [
+          "Villaviciosa va réorganiser la circulation et la signalisation dans plusieurs rues du centre-ville.",
+          "Cela permettra de créer environ 360 nouvelles places de stationnement.",
+          "Les rues concernées et les dates de début des travaux n'ont pas encore été communiquées."
+        ],
+        "cifra": {
+          "numero": "360",
+          "unidad": "places de stationnement",
+          "glosa": "C'est le nombre de nouveaux emplacements de stationnement que la mairie espère obtenir en réorganisant la circulation et la signalisation, sans avoir besoin de construire un nouveau parking."
+        },
+        "palabra": null,
+        "porQue": "Quiconque se rend au centre de Villaviciosa et tourne en cherchant une place verra la différence si la mesure fonctionne comme annoncé.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schafft 360 neue Parkplätze",
+        "entradilla": "Der Schlüssel liegt in einer Änderung der Verkehrsführung und Beschilderung in mehreren Straßen des Stadtzentrums.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa wird den Verkehr im Stadtzentrum neu organisieren, um rund 360 Parkplätze zu gewinnen. Die Maßnahme betrifft die Beschilderung und die Anordnung mehrerer Straßen im Zentrum.",
+          "Die verfügbaren Informationen geben weder an, welche Straßen betroffen sein werden, noch wann die Arbeiten beginnen. Es lohnt sich daher, die städtischen Bekanntmachungen im Blick zu behalten, um zu erfahren, wann und wo sich etwas ändert."
+        ],
+        "apunte": "360 neue Parkplätze, ohne einen einzigen Stein zu versetzen: nur Farbe und Schilder.",
+        "enVeinte": [
+          "Villaviciosa wird die Verkehrsführung und Beschilderung in mehreren Straßen des Stadtzentrums neu organisieren.",
+          "Das Ergebnis wird die Schaffung von rund 360 neuen Parkplätzen sein.",
+          "Welche Straßen betroffen sind und wann die Maßnahmen beginnen, wurde noch nicht bekanntgegeben."
+        ],
+        "cifra": {
+          "numero": "360",
+          "unidad": "Parkplätze",
+          "glosa": "So viele neue Stellplätze erhofft sich das Rathaus durch die Neuorganisation der Verkehrsführung und Beschilderung — ohne dass ein neues Parkhaus gebaut werden muss."
+        },
+        "palabra": null,
+        "porQue": "Wer ins Zentrum von Villaviciosa fährt und lange nach einem Parkplatz sucht, wird den Unterschied bemerken, wenn die Maßnahme so funktioniert wie angekündigt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-reorganizacion-de-las-calles-en-villaviciosa-lograra-361-plazas-mas",
+    "url": "/villaviciosa/la-reorganizacion-de-las-calles-en-villaviciosa-lograra-361-plazas-mas/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa gana 361 plazas de aparcamiento",
+    "entradilla": "La villa reorganiza sus calles para absorber la presión de los nuevos edificios.",
+    "cuerpo": [
+      "Villaviciosa va a redistribuir el espacio en sus calles y con ello sumará 361 plazas de aparcamiento a las que ya existen.",
+      "El empuje viene de la construcción reciente: más vecinos, más coches y el mismo asfalto de siempre."
+    ],
+    "apunte": "361 plazas nuevas sin mover un bloque de hormigón: solo reorganizando lo que ya hay.",
+    "enVeinte": [
+      "Villaviciosa reorganiza sus calles y consigue 361 plazas de aparcamiento más.",
+      "El cambio responde al aumento de coches que traen los nuevos edificios construidos en la villa.",
+      "No hay obras nuevas: se gana espacio redistribuyendo el que ya existe."
+    ],
+    "cifra": {
+      "numero": "361",
+      "unidad": "plazas de aparcamiento",
+      "glosa": "Ese es el número de huecos que el Ayuntamiento de Villaviciosa espera sumar reordenando la disposición de las calles existentes. No son plazas construidas de cero, sino espacio ganado cambiando cómo se organiza el que ya había."
+    },
+    "palabra": null,
+    "porQue": "Quien vive o trabaja en Villaviciosa y lleva tiempo peleando por aparcar notará la diferencia en cuanto los cambios entren en vigor.",
+    "etiquetas": [
+      "Villaviciosa",
+      "aparcamiento",
+      "movilidad",
+      "urbanismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/15/villaviciosa-aparcar-RSqhxQMsU6zE5euR3nuD3XO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-15T15:17:25.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/plazas-aparcamiento-villaviciosa-reorganizacion-calles-20261015171643-nt.html",
+      "titularOriginal": "La reorganización de las calles en Villaviciosa logrará 361 plazas más para aparcar"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa gains 361 parking spaces",
+        "entradilla": "The town is reorganising its streets to absorb the pressure from new buildings.",
+        "cuerpo": [
+          "Villaviciosa is going to redistribute space on its streets, adding 361 parking spaces to those that already exist.",
+          "The push comes from recent construction: more residents, more cars and the same old tarmac."
+        ],
+        "apunte": "361 new spaces without moving a single concrete block: just by reorganising what is already there.",
+        "enVeinte": [
+          "Villaviciosa is reorganising its streets and gaining 361 more parking spaces.",
+          "The change responds to the increase in cars brought by the new buildings constructed in the town.",
+          "No new works: space is gained by redistributing what already exists."
+        ],
+        "cifra": {
+          "numero": "361",
+          "unidad": "parking spaces",
+          "glosa": "That is the number of spaces the Villaviciosa council expects to add by rearranging the layout of existing streets. These are not spaces built from scratch, but space gained by changing how what was already there is organised."
+        },
+        "palabra": null,
+        "porQue": "Anyone who lives or works in Villaviciosa and has long struggled to find parking will notice the difference as soon as the changes come into force.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa gagne 361 places de stationnement",
+        "entradilla": "La ville réorganise ses rues pour absorber la pression des nouveaux immeubles.",
+        "cuerpo": [
+          "Villaviciosa va redistribuer l'espace dans ses rues et gagnera ainsi 361 places de stationnement supplémentaires.",
+          "L'impulsion vient des constructions récentes : plus d'habitants, plus de voitures et le même bitume qu'avant."
+        ],
+        "apunte": "361 nouvelles places sans déplacer un seul bloc de béton : rien qu'en réorganisant ce qui existe déjà.",
+        "enVeinte": [
+          "Villaviciosa réorganise ses rues et obtient 361 places de stationnement supplémentaires.",
+          "Le changement répond à l'augmentation des voitures qu'entraînent les nouveaux immeubles construits dans la ville.",
+          "Pas de nouveaux travaux : l'espace est gagné en redistribuant celui qui existe déjà."
+        ],
+        "cifra": {
+          "numero": "361",
+          "unidad": "places de stationnement",
+          "glosa": "C'est le nombre d'emplacements que la mairie de Villaviciosa espère ajouter en réorganisant la disposition des rues existantes. Il ne s'agit pas de places construites de zéro, mais d'espace gagné en changeant la façon dont celui qui existait déjà est organisé."
+        },
+        "palabra": null,
+        "porQue": "Ceux qui vivent ou travaillent à Villaviciosa et qui peinent depuis longtemps à trouver à se garer remarqueront la différence dès que les changements entreront en vigueur.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa gewinnt 361 Parkplätze",
+        "entradilla": "Die Stadt ordnet ihre Straßen neu, um den Druck der neuen Gebäude aufzufangen.",
+        "cuerpo": [
+          "Villaviciosa wird den Platz in seinen Straßen neu verteilen und damit 361 Parkplätze zu den bereits bestehenden hinzugewinnen.",
+          "Den Anstoß geben die jüngsten Neubauten: mehr Bewohner, mehr Autos und der gleiche Asphalt wie immer."
+        ],
+        "apunte": "361 neue Parkplätze, ohne einen einzigen Betonblock zu verschieben: allein durch die Neuordnung dessen, was bereits vorhanden ist.",
+        "enVeinte": [
+          "Villaviciosa ordnet seine Straßen neu und gewinnt damit 361 zusätzliche Parkplätze.",
+          "Die Änderung ist eine Antwort auf die steigende Zahl von Autos, die die neuen Gebäude in der Stadt mit sich bringen.",
+          "Keine neuen Bauarbeiten: Der Platz wird gewonnen, indem der vorhandene neu verteilt wird."
+        ],
+        "cifra": {
+          "numero": "361",
+          "unidad": "Parkplätze",
+          "glosa": "Das ist die Anzahl der Stellplätze, die das Rathaus von Villaviciosa durch die Neuordnung der vorhandenen Straßen hinzuzugewinnen hofft. Es handelt sich nicht um von Grund auf neu gebaute Plätze, sondern um Raum, der durch eine veränderte Organisation des bereits Vorhandenen gewonnen wird."
+        },
+        "palabra": null,
+        "porQue": "Wer in Villaviciosa lebt oder arbeitet und seit Langem auf Parkplatzsuche kämpft, wird den Unterschied bemerken, sobald die Änderungen in Kraft treten.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "noticia",
+    "url": "/villaviciosa/noticia/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa aprueba el reglamento de su sala de estudios",
+    "entradilla": "El uso del espacio municipal ya tiene normas claras y oficiales.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha aprobado definitivamente el reglamento que regula cómo se usa la sala de estudios municipal. La aprobación se publicó el 15 de octubre de 2026.",
+      "Con este reglamento, el acceso y el funcionamiento del espacio quedan fijados por escrito, lo que da seguridad tanto a quienes lo gestionan como a quienes lo utilizan."
+    ],
+    "apunte": "Ahora ya nadie podrá decir que no sabía las normas.",
+    "enVeinte": [
+      "Villaviciosa tiene desde el 15 de octubre de 2026 un reglamento aprobado definitivamente para la sala de estudios municipal.",
+      "El texto fija las condiciones de uso del espacio y da respaldo oficial a su gestión.",
+      "Quien quiera usar la sala deberá atenerse a las normas recogidas en ese reglamento."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si estudias o tienes hijos que estudian en Villaviciosa, las reglas del espacio público donde se puede ir a preparar exámenes ya están fijadas y son de obligado cumplimiento.",
+    "etiquetas": [
+      "Villaviciosa",
+      "sala de estudios",
+      "reglamento",
+      "ayuntamiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-15T14:37:32.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20079305",
+      "titularOriginal": "noticia:",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa approves the regulation for its municipal study room",
+        "entradilla": "The use of the municipal space now has clear, official rules.",
+        "cuerpo": [
+          "The council of Villaviciosa has definitively approved the regulation governing how the municipal study room is used. The approval was published on 15 October 2026.",
+          "With this regulation, access to and operation of the space are set down in writing, giving certainty both to those who manage it and to those who use it."
+        ],
+        "apunte": "From now on, nobody will be able to claim they did not know the rules.",
+        "enVeinte": [
+          "Villaviciosa has had a definitively approved regulation for its municipal study room since 15 October 2026.",
+          "The text sets out the conditions for using the space and gives official backing to its management.",
+          "Anyone wishing to use the room must abide by the rules laid down in that regulation."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you study or have children who study in Villaviciosa, the rules for the public space where you can go to prepare for exams are now fixed and legally binding.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa approuve le règlement de sa salle d'étude municipale",
+        "entradilla": "L'utilisation de l'espace municipal dispose désormais de règles claires et officielles.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a approuvé définitivement le règlement qui régit l'utilisation de la salle d'étude municipale. L'approbation a été publiée le 15 octobre 2026.",
+          "Grâce à ce règlement, les conditions d'accès et de fonctionnement de l'espace sont fixées par écrit, ce qui apporte une sécurité tant aux gestionnaires qu'aux utilisateurs."
+        ],
+        "apunte": "Désormais, personne ne pourra prétendre qu'il ignorait les règles.",
+        "enVeinte": [
+          "Villaviciosa dispose depuis le 15 octobre 2026 d'un règlement définitivement approuvé pour sa salle d'étude municipale.",
+          "Le texte fixe les conditions d'utilisation de l'espace et donne un cadre officiel à sa gestion.",
+          "Toute personne souhaitant utiliser la salle devra se conformer aux règles contenues dans ce règlement."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous étudiez ou si vous avez des enfants qui étudient à Villaviciosa, les règles de l'espace public où l'on peut aller préparer ses examens sont désormais établies et d'application obligatoire.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa verabschiedet die Satzung für seinen städtischen Lernraum",
+        "entradilla": "Die Nutzung des städtischen Raums hat nun klare und offizielle Regeln.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat die Satzung zur Nutzung des städtischen Lernraums endgültig verabschiedet. Die Genehmigung wurde am 15. Oktober 2026 veröffentlicht.",
+          "Mit dieser Satzung sind Zugang und Betrieb des Raums schriftlich festgelegt, was sowohl den Verwaltenden als auch den Nutzenden Rechtssicherheit gibt."
+        ],
+        "apunte": "Von nun an kann niemand mehr sagen, er habe die Regeln nicht gekannt.",
+        "enVeinte": [
+          "Villaviciosa verfügt seit dem 15. Oktober 2026 über eine endgültig verabschiedete Satzung für seinen städtischen Lernraum.",
+          "Der Text legt die Nutzungsbedingungen des Raums fest und gibt seiner Verwaltung einen offiziellen Rahmen.",
+          "Wer den Raum nutzen möchte, muss sich an die in dieser Satzung enthaltenen Regeln halten."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Sie in Villaviciosa studieren oder Kinder haben, die dort studieren, sind die Regeln für den öffentlichen Raum, in dem man sich auf Prüfungen vorbereiten kann, nun festgelegt und verbindlich.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-cultura-sidrera-asturiana-tiene-mucho-que-contar",
     "url": "/villaviciosa/la-cultura-sidrera-asturiana-tiene-mucho-que-contar/",
     "concejo": "Villaviciosa",

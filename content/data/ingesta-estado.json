@@ -376,6 +376,16 @@
       "motivo": "duplicado de /cabranes/el-ministerio-de-agricultura-premia-a-la-cooperativa-kikiricoop-con-se/",
       "fecha": "2026-10-15T10:42:44.673Z",
       "titulo": "Asturcilla recoge el Premio Alimentos de España 2026 a la Producción Ecológica"
+    },
+    "elfielato.es/articulo/pilona/infiestu-acoge-sabado-iv-feria-emprendedores-asturias/20261015190000104651.html": {
+      "motivo": "mismo hecho que /pilona/la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresarial/",
+      "fecha": "2026-10-15T19:18:20.916Z",
+      "titulo": "Infiestu acoge este sábado la IV Feria de Emprendedoras de Asturias"
+    },
+    "elfielato.es/articulo/villaviciosa/villaviciosa-reorganiza-senalizacion-nuevos-aparcamientos/20261015201724104655.html": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-15T19:18:23.375Z",
+      "titulo": "Villaviciosa reorganiza la señalización de siete calles para sumar 360 nuevas plazas de aparcamiento"
     }
   },
   "juicios": {
@@ -454,6 +464,10 @@
     "coperibadesella.com/14/10/2026/los-suenos-mecanicos-de-leonardo-da-vinci-en-el-prial-de-infiesto-del-papel-a-la-madera|leonardo-da-vinci-llega-a-el-prial-de-infiesto-con-maquinas-e-inventos": {
       "r": "mismo",
       "fecha": "2026-10-15T05:51:36.985Z"
+    },
+    "elfielato.es/articulo/pilona/infiestu-acoge-sabado-iv-feria-emprendedores-asturias/20261015190000104651.html|la-iv-feria-de-emprendedoras-de-asturias-impulsa-proyectos-empresarial": {
+      "r": "mismo",
+      "fecha": "2026-10-15T19:18:20.916Z"
     }
   }
 }
