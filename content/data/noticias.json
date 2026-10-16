@@ -1,5 +1,798 @@
 [
   {
+    "id": "venta-pide-aplazar-la-veda-del-salmon-al-censo-subacuatico-previsto-pa",
+    "url": "/pilona/venta-pide-aplazar-la-veda-del-salmon-al-censo-subacuatico-previsto-pa/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "actualidad",
+    "titular": "El PP pide esperar al censo antes de vedar el salmón",
+    "entradilla": "El diputado Luis Venta quiere que el Consejo de Pesca del lunes no cierre ninguna puerta hasta tener los datos completos de noviembre.",
+    "cuerpo": [
+      "El popular Luis Venta, diputado en la Junta General del Principado, reclama al Gobierno asturiano que no decida todavía la prohibición de pescar salmón en 2027. Su argumento: los datos sobre los que descansa esa posible veda siguen incompletos. El Consejo de Pesca se reúne el lunes 19 de octubre, y Venta pide que de ahí no salga una resolución definitiva.",
+      "El diputado señala que el informe del Servicio de Vida Silvestre utiliza cifras de capturas que solo llegan hasta agosto, y que la entrada de salmones a los ríos se ha retrasado este año. Además, el propio informe reconoce que las capturas no son un indicador estable del estado de la población, lo que, a su juicio, debilita el razonamiento para una veda general.",
+      "Los censos subacuáticos de este otoño muestran una mejoría notable en las cuatro cuencas principales: en el Narcea pasaron de 367 a 585 ejemplares respecto a 2025; en el Sella, de 226 a 433; en el Cares-Deva, de 132 a 417; y en el Esva, de 28 a 95. Venta aclara que estos números no indican que el salmón esté fuera de peligro, pero sí que la situación varía por ríos y que algunos registran los mejores datos de casi una década. El PP también exige que, pase lo que pase con la veda, el campanu quede garantizado en los ríos asturianos."
+    ],
+    "apunte": "Antes de cerrar el río, que se abra el Excel.",
+    "enVeinte": [
+      "El diputado del PP Luis Venta pide que el Consejo de Pesca del 19 de octubre no decida la veda del salmón para 2027 hasta contar con todos los datos poblacionales.",
+      "Venta cuestiona que el Gobierno use cifras de capturas que solo llegan hasta agosto y que el propio informe oficial reconoce como indicador poco fiable.",
+      "Los censos de este otoño muestran una recuperación significativa en el Narcea, el Sella, el Cares-Deva y el Esva respecto al año anterior, aunque el diputado admite que el salmón sigue amenazado."
+    ],
+    "cifra": {
+      "numero": "417",
+      "unidad": "salmones en el Cares-Deva este otoño",
+      "glosa": "Frente a los 132 contabilizados en la misma cuenca en 2025, el dato triplica el registro del año anterior. Es la mejora más llamativa de las cuatro cuencas asturianas y uno de los argumentos centrales del PP para pedir que se espere antes de decretar la veda."
+    },
+    "palabra": {
+      "termino": "campanu",
+      "como": "cam-PA-nu",
+      "definicion": "El campanu es el último salmón capturado en la temporada en un río asturiano. Su pesca se celebra como un rito: el pescador afortunado pasea el ejemplar en volandas y hay quien lo subastar para causas benéficas. Perderlo un año entero no es solo un recorte deportivo; es un golpe a una tradición muy arraigada en los concejos de interior."
+    },
+    "porQue": "Si el Consejo de Pesca aprueba la veda el lunes, en 2027 no habrá temporada de salmón en los ríos asturianos, lo que afecta directamente a pescadores, hostelería y al ritual del campanu en concejos como Piloña, cuyo territorio está atravesado por afluentes salmoneros.",
+    "etiquetas": [
+      "salmón",
+      "pesca",
+      "Junta General",
+      "PP"
+    ],
+    "fechaEvento": "2026-10-19",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/SALMONES-Plomo-Sella.jpg",
+    "fecha": "2026-10-16T14:42:17.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/16/10/2026/venta-pide-aplazar-la-veda-del-salmon-al-censo-subacuatico-previsto-para-noviembre/",
+      "titularOriginal": "Venta pide aplazar la veda del salmón al censo subacuático previsto para noviembre"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The PP asks to wait for the census before banning salmon fishing",
+        "entradilla": "MP Luis Venta wants Monday's Fishing Council not to close any doors until the full November data are in.",
+        "cuerpo": [
+          "PP member Luis Venta, an MP in the Junta General del Principado, is calling on the Asturian Government not to decide yet on a ban on salmon fishing in 2027. His argument: the data underpinning that possible ban are still incomplete. The Fishing Council meets on Monday 19 October, and Venta is asking that no definitive resolution come out of that meeting.",
+          "The MP points out that the report from the Wildlife Service uses catch figures that only run up to August, and that salmon have been entering the rivers later than usual this year. Moreover, the report itself acknowledges that catches are not a stable indicator of population status — which, in his view, weakens the case for a blanket ban.",
+          "The underwater surveys carried out this autumn show a notable improvement across the four main river basins: on the Narcea, numbers rose from 367 to 585 compared with 2025; on the Sella, from 226 to 433; on the Cares-Deva, from 132 to 417; and on the Esva, from 28 to 95. Venta is clear that these figures do not mean salmon are out of danger, but they do show that the situation varies from river to river and that some are recording their best data in nearly a decade. The PP also demands that, whatever happens with the ban, the campanu (the last salmon of the season, a cherished local tradition) be guaranteed in Asturian rivers."
+        ],
+        "apunte": "Before closing the river, open the spreadsheet.",
+        "enVeinte": [
+          "PP MP Luis Venta is asking that the Fishing Council on 19 October not decide on a salmon ban for 2027 until all population data are available.",
+          "Venta questions the Government's use of catch figures that only run to August and that the official report itself acknowledges as an unreliable indicator.",
+          "This autumn's surveys show a significant recovery on the Narcea, Sella, Cares-Deva and Esva compared with the previous year, though the MP acknowledges that salmon remain under threat."
+        ],
+        "cifra": {
+          "numero": "417",
+          "unidad": "salmon in the Cares-Deva this autumn",
+          "glosa": "Compared with the 132 counted in the same basin in 2025, this figure is three times the previous year's record. It is the most striking improvement of the four Asturian river basins and one of the PP's central arguments for waiting before imposing a ban."
+        },
+        "palabra": {
+          "termino": "campanu",
+          "como": "cam-PA-nu",
+          "definicion": "The campanu is the last salmon caught during the season in an Asturian river. Its capture is celebrated as a ritual: the lucky angler carries the fish aloft in a procession, and some years it is auctioned off for charitable causes. Going a whole year without it is not just a sporting setback; it is a blow to a deeply rooted tradition in the inland municipalities."
+        },
+        "porQue": "If the Fishing Council approves the ban on Monday, there will be no salmon season on Asturian rivers in 2027, directly affecting anglers, the hospitality trade and the campanu ritual in municipalities such as Piloña, whose territory is crossed by salmon-bearing tributaries.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le PP demande d'attendre le recensement avant d'interdire le saumon",
+        "entradilla": "Le député Luis Venta souhaite que le Conseil de la Pêche de lundi ne ferme aucune porte tant que les données complètes de novembre ne seront pas disponibles.",
+        "cuerpo": [
+          "Le membre du PP Luis Venta, député à la Junta General del Principado, demande au gouvernement asturien de ne pas encore statuer sur l'interdiction de pêcher le saumon en 2027. Son argument : les données sur lesquelles repose cette éventuelle prohibition sont encore incomplètes. Le Conseil de la Pêche se réunit lundi 19 octobre, et Venta demande qu'aucune résolution définitive n'en sorte.",
+          "Le député souligne que le rapport du Service de la Faune Sauvage utilise des chiffres de captures qui ne vont que jusqu'au mois d'août, et que l'entrée des saumons dans les rivières a été plus tardive cette année. De plus, le rapport lui-même reconnaît que les captures ne sont pas un indicateur stable de l'état de la population, ce qui, selon lui, fragilise le raisonnement en faveur d'une interdiction générale.",
+          "Les recensements subaquatiques de cet automne montrent une amélioration notable dans les quatre bassins principaux : sur le Narcea, les effectifs sont passés de 367 à 585 individus par rapport à 2025 ; sur le Sella, de 226 à 433 ; sur le Cares-Deva, de 132 à 417 ; et sur l'Esva, de 28 à 95. Venta précise que ces chiffres n'indiquent pas que le saumon est hors de danger, mais bien que la situation varie d'une rivière à l'autre et que certaines enregistrent leurs meilleures données depuis presque une décennie. Le PP exige également que, quoi qu'il advienne de l'interdiction, le campanu (le dernier saumon pêché de la saison, une tradition locale très ancrée) soit garanti dans les rivières asturiennes."
+        ],
+        "apunte": "Avant de fermer la rivière, qu'on ouvre le tableur.",
+        "enVeinte": [
+          "Le député PP Luis Venta demande que le Conseil de la Pêche du 19 octobre ne décide pas de l'interdiction du saumon pour 2027 avant de disposer de toutes les données sur les populations.",
+          "Venta remet en question l'utilisation par le gouvernement de chiffres de captures qui ne vont que jusqu'au mois d'août et que le rapport officiel lui-même reconnaît comme un indicateur peu fiable.",
+          "Les recensements de cet automne montrent une reprise significative sur le Narcea, le Sella, le Cares-Deva et l'Esva par rapport à l'année précédente, même si le député admet que le saumon reste menacé."
+        ],
+        "cifra": {
+          "numero": "417",
+          "unidad": "saumons dans le Cares-Deva cet automne",
+          "glosa": "Face aux 132 comptabilisés dans le même bassin en 2025, ce chiffre triple le résultat de l'année précédente. C'est l'amélioration la plus marquante des quatre bassins asturiens et l'un des arguments centraux du PP pour demander que l'on attende avant de décréter l'interdiction."
+        },
+        "palabra": {
+          "termino": "campanu",
+          "como": "cam-PA-nu",
+          "definicion": "Le campanu est le dernier saumon capturé dans la saison sur une rivière asturienne. Sa pêche se célèbre comme un rite : le pêcheur chanceux parade avec le poisson à bout de bras, et certains l'enchérissent au profit d'œuvres caritatives. Le perdre pendant une année entière n'est pas seulement une restriction sportive ; c'est un coup porté à une tradition très enracinée dans les communes de l'intérieur."
+        },
+        "porQue": "Si le Conseil de la Pêche approuve l'interdiction lundi, il n'y aura pas de saison du saumon dans les rivières asturiennes en 2027, ce qui affectera directement les pêcheurs, la restauration et le rituel du campanu dans des communes comme Piloña, dont le territoire est traversé par des affluents à saumons.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die PP fordert, vor einem Lachsfangverbot den Zensus abzuwarten",
+        "entradilla": "Der Abgeordnete Luis Venta möchte, dass der Fischereirat am Montag keine Entscheidung trifft, bevor nicht alle Daten vom November vorliegen.",
+        "cuerpo": [
+          "Der PP-Politiker Luis Venta, Abgeordneter in der Junta General del Principado, fordert die asturische Regierung auf, noch nicht über ein Verbot des Lachsfangs im Jahr 2027 zu entscheiden. Sein Argument: Die Daten, auf denen dieses mögliche Verbot beruht, sind noch unvollständig. Der Fischereirat tagt am Montag, dem 19. Oktober, und Venta verlangt, dass aus dieser Sitzung keine endgültige Entschließung hervorgeht.",
+          "Der Abgeordnete weist darauf hin, dass der Bericht des Wildtierdienstes Fangzahlen verwendet, die nur bis August reichen, und dass die Lachse in diesem Jahr später als üblich in die Flüsse eingewandert sind. Darüber hinaus räumt der Bericht selbst ein, dass die Fangmengen kein verlässlicher Indikator für den Zustand der Population sind — was seiner Ansicht nach das Argument für ein generelles Verbot schwächt.",
+          "Die Unterwasserzählungen dieses Herbstes zeigen eine deutliche Verbesserung in den vier wichtigsten Flusseinzugsgebieten: Im Narcea stiegen die Zahlen gegenüber 2025 von 367 auf 585 Exemplare; im Sella von 226 auf 433; im Cares-Deva von 132 auf 417; und im Esva von 28 auf 95. Venta stellt klar, dass diese Zahlen nicht bedeuten, dass der Lachs außer Gefahr ist, aber sie zeigen, dass die Lage von Fluss zu Fluss unterschiedlich ist und einige die besten Daten seit fast einem Jahrzehnt verzeichnen. Die PP fordert außerdem, dass unabhängig vom Ausgang der Verbotsfrage der campanu (der letzte Lachs der Saison, eine tief verwurzelte lokale Tradition) in den asturischen Flüssen garantiert bleibt."
+        ],
+        "apunte": "Bevor man den Fluss sperrt, sollte man die Tabelle öffnen.",
+        "enVeinte": [
+          "Der PP-Abgeordnete Luis Venta fordert, dass der Fischereirat am 19. Oktober kein Lachsfangverbot für 2027 beschließt, bevor alle Bestandsdaten vorliegen.",
+          "Venta zweifelt daran, dass die Regierung Fangzahlen heranzieht, die nur bis August reichen und die der offizielle Bericht selbst als wenig zuverlässigen Indikator bezeichnet.",
+          "Die Zählungen dieses Herbstes zeigen eine deutliche Erholung im Narcea, Sella, Cares-Deva und Esva gegenüber dem Vorjahr, obwohl der Abgeordnete einräumt, dass der Lachs weiterhin bedroht ist."
+        ],
+        "cifra": {
+          "numero": "417",
+          "unidad": "Lachse im Cares-Deva in diesem Herbst",
+          "glosa": "Im Vergleich zu den 132 Exemplaren, die 2025 im selben Einzugsgebiet gezählt wurden, verdreifacht diese Zahl den Wert des Vorjahres. Es ist die auffälligste Verbesserung der vier asturischen Flussgebiete und eines der zentralen Argumente der PP dafür, vor einem Verbot abzuwarten."
+        },
+        "palabra": {
+          "termino": "campanu",
+          "como": "cam-PA-nu",
+          "definicion": "Der campanu ist der letzte Lachs, der in einer Saison in einem asturischen Fluss gefangen wird. Sein Fang wird wie ein Ritual gefeiert: Der glückliche Angler trägt den Fisch hochgereckt durch die Gegend, und mancherorts wird er für wohltätige Zwecke versteigert. Ihn ein ganzes Jahr lang zu missen ist nicht nur ein sportlicher Einschnitt; es ist ein Schlag gegen eine tief verwurzelte Tradition in den Gemeinden des Binnenlandes."
+        },
+        "porQue": "Wenn der Fischereirat am Montag das Verbot beschließt, wird es 2027 keine Lachssaison in den asturischen Flüssen geben. Das trifft direkt Angler, das Gastgewerbe und das campanu-Ritual in Gemeinden wie Piloña, deren Gebiet von lachstragenden Zuflüssen durchzogen wird.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "hasta agosto y que la entrada de salmones"
+    ]
+  },
+  {
+    "id": "bulnes-celebra-los-25-anos-de-un-funicular-que-puso-fin-a-su-aislamien",
+    "url": "/cabrales/bulnes-celebra-los-25-anos-de-un-funicular-que-puso-fin-a-su-aislamien/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Bulnes festeja 25 años sin aislamiento",
+    "entradilla": "Más de millón y medio de viajeros han subido y bajado por el funicular cabraliegu desde que abrió en septiembre de 2001.",
+    "cuerpo": [
+      "El presidente del Principado, Adrián Barbón, se acercó ayer a Bulnes para celebrar el 25 aniversario del funicular, la infraestructura que sacó al pueblo del aislamiento y lo conectó con el resto del concejo de Cabrales.",
+      "Desde su puesta en marcha hace un cuarto de siglo, el aparato ha dado servicio tanto a los vecinos como al turismo: la cifra total de viajeros supera ya el millón seiscientos sesenta y tres mil.",
+      "Barbón reconoció en el acto el papel de Sergio Marqués, que impulsó la construcción, y el de Vicente Álvarez Areces, que le dio continuidad hasta que el funicular echó a andar."
+    ],
+    "apunte": "Veinticinco años tardando dos minutos en llegar a donde antes se tardaba una hora larga a pie.",
+    "enVeinte": [
+      "El funicular de Bulnes cumple 25 años y Adrián Barbón visitó el pueblo para conmemorarlo.",
+      "Desde su inauguración en septiembre de 2001 ha transportado a más de 1.663.000 viajeros.",
+      "La infraestructura fue impulsada por Sergio Marqués y continuada por Vicente Álvarez Areces."
+    ],
+    "cifra": {
+      "numero": "1.663.000",
+      "unidad": "viajeros",
+      "glosa": "Son los pasajeros que ha movido el funicular de Bulnes en sus primeros 25 años. La cifra incluye tanto a vecinos del pueblo en su día a día como a turistas que se acercan a conocer uno de los rincones más singulares de Cabrales."
+    },
+    "palabra": {
+      "termino": "cabraliegu",
+      "como": "ca-bra-LIE-gu",
+      "definicion": "Adjetivo asturiano para todo lo que es del concejo de Cabrales. Como castellano diría 'cabraliense', aquí se dice cabraliegu —o cabraliega en femenino— y así se reconoce en la lengua de la tierra."
+    },
+    "porQue": "El funicular no es solo una atracción: para los pocos vecinos que quedan en Bulnes sigue siendo el único acceso cómodo al mundo exterior, y su mantenimiento determina que el pueblo pueda seguir habitado.",
+    "etiquetas": [
+      "Bulnes",
+      "funicular",
+      "Cabrales",
+      "aniversario"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Bulnes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261016125346_RTPA8728972.webp",
+    "fecha": "2026-10-16T12:43:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-16/Bulnes-celebra-los-25-años-de-un-funicular-que-puso-fin-a-su-aislamiento_111792147682.html",
+      "titularOriginal": "Bulnes celebra los 25 años de un funicular que puso fin a su aislamiento"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
+    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
+    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca arquitecto/a jefe en concurso",
+    "entradilla": "El Ayuntamiento abre el proceso para cubrir una plaza técnica de peso dentro de la casa.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto en marcha un concurso de méritos para seleccionar a quien ocupará el puesto de arquitecto o arquitecta jefe. La plaza sale de la Oferta de Empleo Público de 2026.",
+      "Ya está publicada la lista provisional de candidatos admitidos y excluidos, lo que indica que el proceso está en marcha y que quienes se presentaron pueden comprobar su situación."
+    ],
+    "apunte": "La plaza lleva tiempo esperando dueño: es de la oferta de empleo de 2026.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa selecciona a su próximo arquitecto o arquitecta jefe mediante concurso de méritos.",
+      "La convocatoria forma parte de la Oferta de Empleo Público de 2026.",
+      "Ya está disponible la lista provisional de admitidos y excluidos al proceso."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El arquitecto o arquitecta jefe del Ayuntamiento supervisa licencias, obras y planeamiento urbano: que esa plaza esté cubierta afecta directamente a los trámites de cualquier vecino que quiera construir o reformar.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "arquitectura",
+      "ayuntamiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-16T11:52:54.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
+      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks chief architect in open competition",
+        "entradilla": "The council has launched the process to fill a key technical post within the house.",
+        "cuerpo": [
+          "Villaviciosa council has launched a merit-based competition to select its next chief architect. The post comes from the 2026 Public Employment Offer.",
+          "The provisional list of admitted and excluded candidates has already been published, which means the process is under way and applicants can check their status."
+        ],
+        "apunte": "The post has been waiting to be filled for some time: it dates from the 2026 employment offer.",
+        "enVeinte": [
+          "Villaviciosa council is selecting its next chief architect through a merit-based competition.",
+          "The call forms part of the 2026 Public Employment Offer.",
+          "The provisional list of admitted and excluded applicants is already available."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The chief architect at the council oversees licences, building works and urban planning: having that post filled directly affects the paperwork for any resident who wants to build or renovate.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche un·e architecte en chef par concours",
+        "entradilla": "La mairie lance le processus pour pourvoir un poste technique clé en son sein.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a lancé un concours sur titres et travaux pour sélectionner son prochain architecte ou sa prochaine architecte en chef. Le poste est issu de l'Offre d'emploi public de 2026.",
+          "La liste provisoire des candidats admis et exclus est déjà publiée, ce qui indique que le processus est en cours et que les personnes ayant postulé peuvent vérifier leur situation."
+        ],
+        "apunte": "Le poste attend preneur depuis un moment : il fait partie de l'offre d'emploi de 2026.",
+        "enVeinte": [
+          "La mairie de Villaviciosa sélectionne son prochain architecte ou sa prochaine architecte en chef par concours sur titres et travaux.",
+          "L'appel fait partie de l'Offre d'emploi public de 2026.",
+          "La liste provisoire des admis et des exclus à la procédure est déjà disponible."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "L'architecte en chef de la mairie supervise les permis, les travaux et l'urbanisme : que ce poste soit pourvu affecte directement les démarches de tout habitant souhaitant construire ou rénover.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht Chefarchitekt·in im Auswahlverfahren",
+        "entradilla": "Das Rathaus hat das Verfahren zur Besetzung einer wichtigen technischen Stelle eingeleitet.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat ein Leistungswettbewerb-Verfahren zur Auswahl des nächsten Chefarchitekten oder der nächsten Chefarchitektin eingeleitet. Die Stelle stammt aus dem Öffentlichen Stellenangebot 2026.",
+          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber·innen ist bereits veröffentlicht, was zeigt, dass das Verfahren läuft und Interessierte ihren Status prüfen können."
+        ],
+        "apunte": "Die Stelle wartet seit Längerem auf eine Besetzung: Sie entstammt dem Stellenangebot von 2026.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa wählt seinen nächsten Chefarchitekten oder seine nächste Chefarchitektin im Leistungswettbewerb aus.",
+          "Die Ausschreibung ist Teil des Öffentlichen Stellenangebots 2026.",
+          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber·innen ist bereits verfügbar."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Der Chefarchitekt bzw. die Chefarchitektin des Rathauses überwacht Baugenehmigungen, Bauvorhaben und Stadtplanung: Ob diese Stelle besetzt ist, wirkt sich unmittelbar auf die Verfahren jeder Person aus, die bauen oder renovieren möchte.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-funicular-de-bulnes-cumple-25-anos-con-un-acumulado-de-1-663-000-pa",
+    "url": "/cabrales/el-funicular-de-bulnes-cumple-25-anos-con-un-acumulado-de-1-663-000-pa/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El funicular de Bulnes cumple 25 años",
+    "entradilla": "Un cuarto de siglo después de su inauguración, más de 1,6 millones de personas han subido a Bulnes por los carriles.",
+    "cuerpo": [
+      "El funicular de Bulnes lleva 25 años en marcha y ha transportado a 1.663.000 viajeros desde que echó a andar. El año pasado fue el mejor de su historia: 115.931 personas subieron a la localidad cabraliega enclavada en el macizo central de los Picos de Europa.",
+      "El presidente Adrián Barbón visitó Bulnes con motivo del aniversario y recordó a sus predecesores Sergio Marqués y Vicente Álvarez Areces —ambos fallecidos— por haber impulsado y sacado adelante la infraestructura. Barbón también subrayó que desde 2019 el Gobierno regional ha metido más de siete millones de euros en mantenimiento y seguridad: mando eléctrico nuevo, carros de frenado sustituidos y plataformas de carga renovadas que doblan la capacidad hasta las 9,6 toneladas.",
+      "Desde la primavera pasada el funicular amplió frecuencias: de 22 pasó a 26 en temporada alta, y ese horario reforzado se mantiene todo el año."
+    ],
+    "apunte": "Veinticinco años subiendo gente a un pueblo al que antes solo se llegaba a pie: no está mal para una obra que muchos miraron con escepticismo.",
+    "enVeinte": [
+      "El funicular de Bulnes celebra su 25 aniversario con 1.663.000 pasajeros acumulados y un récord de 115.931 el año pasado.",
+      "El Gobierno asturiano ha invertido más de siete millones desde 2019 en mantener y mejorar la infraestructura.",
+      "Desde esta primavera el servicio tiene más frecuencias —26 en temporada alta— y el horario ampliado rige todo el año."
+    ],
+    "cifra": {
+      "numero": "1.663.000",
+      "unidad": "viajeros en 25 años",
+      "glosa": "Son las personas que han subido a Bulnes en funicular desde 2001. El año pasado, con casi 116.000 pasajeros, se batió el récord histórico, lo que da idea de cómo ha crecido la afluencia al Parque Nacional."
+    },
+    "palabra": {
+      "termino": "majada",
+      "como": "majada, como se dice aquí y en toda la montaña",
+      "definicion": "Refugio de pastor con los corrales para el ganado en los puertos de altura. Bulnes y su entorno en los Picos de Europa están rodeados de majadas que definen el paisaje y la economía tradicional de la zona."
+    },
+    "porQue": "Quien vive en Bulnes depende del funicular para moverse y para que le suban mercancías; más frecuencias y una infraestructura mejor mantenida son, sencillamente, tener mejor vida.",
+    "etiquetas": [
+      "Bulnes",
+      "Cabrales",
+      "funicular",
+      "Picos de Europa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/2026_10_16-presidente-bulnes-3-scaled.jpg",
+    "fecha": "2026-10-16T11:04:25.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://coperibadesella.com/16/10/2026/el-funicular-de-bulnes-cumple-25-anos-con-un-acumulado-de-1-663-000-pasajeros/",
+      "titularOriginal": "El Funicular de Bulnes cumple 25 años con un acumulado de 1.663.000 pasajeros"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Bulnes funicular turns 25",
+        "entradilla": "A quarter of a century after its inauguration, more than 1.6 million people have ridden the rails up to Bulnes.",
+        "cuerpo": [
+          "The Bulnes funicular has been running for 25 years and has carried 1,663,000 passengers since it opened. Last year was the best in its history: 115,931 people made the trip up to the village of Bulnes, nestled in the central massif of the Picos de Europa.",
+          "President Adrián Barbón visited Bulnes to mark the anniversary and paid tribute to his predecessors Sergio Marqués and Vicente Álvarez Areces — both now deceased — for having championed and delivered the infrastructure. Barbón also stressed that since 2019 the regional government has put more than seven million euros into maintenance and safety: a new electrical control system, replacement braking carriages, and renewed loading platforms that double capacity to 9.6 tonnes.",
+          "Since last spring the funicular has increased its timetable: from 22 to 26 runs in high season, and that extended schedule now runs all year round."
+        ],
+        "apunte": "Twenty-five years carrying people up to a village that was once only reachable on foot: not bad for a project that many viewed with scepticism.",
+        "enVeinte": [
+          "The Bulnes funicular marks its 25th anniversary with 1,663,000 passengers carried and a record 115,931 last year.",
+          "The Asturian government has invested more than seven million euros since 2019 in maintaining and improving the infrastructure.",
+          "Since this spring the service runs more frequently — 26 times a day in high season — and the extended timetable applies all year."
+        ],
+        "cifra": {
+          "numero": "1,663,000",
+          "unidad": "passengers in 25 years",
+          "glosa": "These are the people who have travelled up to Bulnes by funicular since 2001. Last year, with nearly 116,000 passengers, the all-time record was broken, giving a sense of how visitor numbers to the National Park have grown."
+        },
+        "palabra": {
+          "termino": "majada",
+          "como": "majada, as it is said here and throughout the mountains",
+          "definicion": "A shepherd's shelter with livestock pens in the high mountain pastures. Bulnes and its surroundings in the Picos de Europa are dotted with majadas that define the landscape and the traditional economy of the area."
+        },
+        "porQue": "The people who live in Bulnes depend on the funicular to get around and to have supplies brought up; more frequent services and better-maintained infrastructure simply mean a better quality of life.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le funiculaire de Bulnes fête ses 25 ans",
+        "entradilla": "Un quart de siècle après son inauguration, plus de 1,6 million de personnes ont emprunté les rails pour monter à Bulnes.",
+        "cuerpo": [
+          "Le funiculaire de Bulnes fonctionne depuis 25 ans et a transporté 1 663 000 voyageurs depuis son ouverture. L'année dernière a été la meilleure de son histoire : 115 931 personnes ont fait le trajet jusqu'au village de Bulnes, niché dans le massif central des Picos de Europa.",
+          "Le président Adrián Barbón s'est rendu à Bulnes à l'occasion de cet anniversaire et a rendu hommage à ses prédécesseurs Sergio Marqués et Vicente Álvarez Areces — tous deux décédés — pour avoir porté et mené à bien l'infrastructure. Barbón a également souligné que depuis 2019 le gouvernement régional a investi plus de sept millions d'euros dans la maintenance et la sécurité : un nouveau système de commande électrique, des chariots de freinage remplacés et des plateformes de chargement rénovées qui doublent la capacité jusqu'à 9,6 tonnes.",
+          "Depuis le printemps dernier, le funiculaire a augmenté ses fréquences : de 22 il est passé à 26 trajets en haute saison, et ces horaires renforcés sont désormais maintenus toute l'année."
+        ],
+        "apunte": "Vingt-cinq ans à faire monter des gens dans un village qu'on ne pouvait atteindre qu'à pied : ce n'est pas mal pour un ouvrage que beaucoup regardaient avec scepticisme.",
+        "enVeinte": [
+          "Le funiculaire de Bulnes célèbre son 25e anniversaire avec 1 663 000 passagers au total et un record de 115 931 l'année dernière.",
+          "Le gouvernement asturien a investi plus de sept millions d'euros depuis 2019 pour entretenir et améliorer l'infrastructure.",
+          "Depuis ce printemps, le service propose davantage de fréquences — 26 en haute saison — et les horaires élargis s'appliquent toute l'année."
+        ],
+        "cifra": {
+          "numero": "1 663 000",
+          "unidad": "voyageurs en 25 ans",
+          "glosa": "Ce sont les personnes qui ont monté à Bulnes en funiculaire depuis 2001. L'année dernière, avec près de 116 000 passagers, le record historique a été battu, ce qui donne une idée de la progression de la fréquentation du Parc National."
+        },
+        "palabra": {
+          "termino": "majada",
+          "como": "majada, comme on dit ici et dans toute la montagne",
+          "definicion": "Abri de berger avec les enclos pour le bétail dans les pâturages d'altitude. Bulnes et ses environs dans les Picos de Europa sont entourés de majadas qui définissent le paysage et l'économie traditionnelle de la zone."
+        },
+        "porQue": "Les habitants de Bulnes dépendent du funiculaire pour se déplacer et pour que les marchandises leur soient acheminées ; des fréquences plus nombreuses et une infrastructure mieux entretenue, c'est tout simplement une meilleure qualité de vie.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Standseilbahn von Bulnes wird 25 Jahre alt",
+        "entradilla": "Ein Vierteljahrhundert nach ihrer Einweihung sind mehr als 1,6 Millionen Menschen mit der Bahn nach Bulnes hinaufgefahren.",
+        "cuerpo": [
+          "Die Standseilbahn von Bulnes ist seit 25 Jahren in Betrieb und hat seit ihrer Eröffnung 1.663.000 Fahrgäste befördert. Das vergangene Jahr war das beste ihrer Geschichte: 115.931 Menschen fuhren hinauf in den Ort Bulnes, der im zentralen Massiv der Picos de Europa liegt.",
+          "Präsident Adrián Barbón besuchte Bulnes anlässlich des Jubiläums und gedachte seiner Vorgänger Sergio Marqués und Vicente Álvarez Areces — beide inzwischen verstorben —, die die Infrastruktur vorangetrieben und verwirklicht hatten. Barbón betonte außerdem, dass die Regionalregierung seit 2019 mehr als sieben Millionen Euro in Instandhaltung und Sicherheit investiert hat: eine neue elektrische Steuerung, ersetzte Bremsschlitten und erneuerte Laderampen, die die Kapazität auf 9,6 Tonnen verdoppeln.",
+          "Seit dem vergangenen Frühjahr hat die Standseilbahn ihr Fahrtenangebot ausgebaut: von 22 auf 26 Fahrten in der Hochsaison, und dieser erweiterte Fahrplan gilt nun das ganze Jahr."
+        ],
+        "apunte": "Fünfundzwanzig Jahre lang Menschen in ein Dorf zu bringen, das vorher nur zu Fuß erreichbar war: keine schlechte Bilanz für ein Projekt, das viele mit Skepsis betrachteten.",
+        "enVeinte": [
+          "Die Standseilbahn von Bulnes feiert ihr 25-jähriges Jubiläum mit insgesamt 1.663.000 Fahrgästen und einem Rekord von 115.931 im vergangenen Jahr.",
+          "Die asturische Regionalregierung hat seit 2019 mehr als sieben Millionen Euro in die Instandhaltung und Verbesserung der Infrastruktur investiert.",
+          "Seit diesem Frühjahr fährt die Bahn häufiger — 26 Mal täglich in der Hochsaison — und der erweiterte Fahrplan gilt das ganze Jahr."
+        ],
+        "cifra": {
+          "numero": "1.663.000",
+          "unidad": "Fahrgäste in 25 Jahren",
+          "glosa": "So viele Menschen sind seit 2001 mit der Standseilbahn nach Bulnes hinaufgefahren. Im vergangenen Jahr wurde mit knapp 116.000 Fahrgästen der historische Rekord gebrochen — ein Beleg dafür, wie stark die Besucherzahlen im Nationalpark gewachsen sind."
+        },
+        "palabra": {
+          "termino": "majada",
+          "como": "majada, wie man hier und im ganzen Gebirge sagt",
+          "definicion": "Eine Schutzhütte für Hirten mit Pferchen für das Vieh in den Hochweiden. Bulnes und seine Umgebung in den Picos de Europa sind von majadas umgeben, die die Landschaft und die traditionelle Wirtschaft der Region prägen."
+        },
+        "porQue": "Die Bewohner von Bulnes sind auf die Standseilbahn angewiesen, um sich fortzubewegen und um Waren geliefert zu bekommen; mehr Fahrten und eine besser gewartete Infrastruktur bedeuten schlicht und einfach ein besseres Leben.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la localidad cabraliega enclavada en el macizo central",
+      "de los picos de europa el presidente adrian",
+      "los picos de europa el presidente adrian barbon",
+      "sergio marques y vicente alvarez areces ambos fallecidos",
+      "marques y vicente alvarez areces ambos fallecidos por",
+      "y vicente alvarez areces ambos fallecidos por haber",
+      "vicente alvarez areces ambos fallecidos por haber impulsado"
+    ]
+  },
+  {
+    "id": "noticia-instalaciones-deportivas",
+    "url": "/villaviciosa/noticia-instalaciones-deportivas/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre plazo para opinar sobre instalaciones deportivas",
+    "entradilla": "El Ayuntamiento ha aprobado inicialmente el reglamento que regulará el uso de los espacios deportivos municipales y ahora da la palabra a los vecinos.",
+    "cuerpo": [
+      "El pleno de Villaviciosa dio luz verde de manera provisional a un reglamento que fijará cómo se usan las instalaciones deportivas del concejo. Antes de que entre en vigor, cualquier vecino puede presentar sugerencias o reclamaciones.",
+      "El plazo para hacerlo cierra el 27 de noviembre. La aprobación inicial se publicó en el BOPA número 199."
+    ],
+    "apunte": "Hasta el 27 de noviembre, la palabra es del vecino.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ha aprobado inicialmente un reglamento para regular el uso de sus instalaciones deportivas.",
+      "Los vecinos tienen hasta el 27 de noviembre para presentar sugerencias o reclamaciones.",
+      "La aprobación inicial consta en el BOPA número 199."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El reglamento determinará las normas de acceso y uso de los espacios deportivos municipales, algo que afecta a cualquiera que los utilice o quiera utilizarlos.",
+    "etiquetas": [
+      "Villaviciosa",
+      "deporte",
+      "reglamento",
+      "participación ciudadana"
+    ],
+    "fechaEvento": "2026-11-27",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-16T10:59:20.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20085760",
+      "titularOriginal": "noticia: instalaciones deportivas",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens a period for residents to comment on sports facilities",
+        "entradilla": "The council has given initial approval to the regulations that will govern the use of municipal sports spaces and is now inviting residents to have their say.",
+        "cuerpo": [
+          "The full council of Villaviciosa gave provisional approval to regulations setting out how the municipality's sports facilities are to be used. Before they come into force, any resident may submit suggestions or objections.",
+          "The deadline to do so is 27 November. The initial approval was published in BOPA number 199."
+        ],
+        "apunte": "Until 27 November, residents have the floor.",
+        "enVeinte": [
+          "Villaviciosa council has given initial approval to regulations governing the use of its sports facilities.",
+          "Residents have until 27 November to submit suggestions or objections.",
+          "The initial approval appears in BOPA number 199."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The regulations will set the rules for access to and use of the municipal sports spaces — something that affects anyone who uses them or is thinking of doing so.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre une période de consultation sur les équipements sportifs",
+        "entradilla": "La mairie a approuvé à titre initial le règlement qui encadrera l'utilisation des espaces sportifs municipaux et donne maintenant la parole aux habitants.",
+        "cuerpo": [
+          "Le conseil municipal de Villaviciosa a provisoirement validé un règlement définissant les conditions d'utilisation des équipements sportifs de la commune. Avant son entrée en vigueur, tout habitant peut déposer des suggestions ou des réclamations.",
+          "Le délai pour le faire expire le 27 novembre. L'approbation initiale a été publiée au BOPA numéro 199."
+        ],
+        "apunte": "Jusqu'au 27 novembre, la parole est aux habitants.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a approuvé à titre initial un règlement encadrant l'utilisation de ses équipements sportifs.",
+          "Les habitants ont jusqu'au 27 novembre pour déposer des suggestions ou des réclamations.",
+          "L'approbation initiale figure au BOPA numéro 199."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Le règlement fixera les conditions d'accès et d'utilisation des espaces sportifs municipaux, ce qui concerne toute personne qui les fréquente ou souhaite les fréquenter.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa eröffnet Frist für Bürgermeinungen zu Sportanlagen",
+        "entradilla": "Das Rathaus hat eine Verordnung zur Nutzung der gemeindlichen Sportanlagen vorläufig genehmigt und gibt nun den Bürgerinnen und Bürgern das Wort.",
+        "cuerpo": [
+          "Der Gemeinderat von Villaviciosa hat vorläufig eine Verordnung gebilligt, die regelt, wie die Sportanlagen der Gemeinde genutzt werden. Bevor sie in Kraft tritt, kann jeder Einwohner Anregungen oder Einwände einreichen.",
+          "Die Frist dafür endet am 27. November. Die vorläufige Genehmigung wurde im BOPA Nummer 199 veröffentlicht."
+        ],
+        "apunte": "Bis zum 27. November haben die Bürgerinnen und Bürger das Wort.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa hat vorläufig eine Verordnung zur Nutzung seiner Sportanlagen genehmigt.",
+          "Die Einwohner haben bis zum 27. November Zeit, Anregungen oder Einwände einzureichen.",
+          "Die vorläufige Genehmigung ist im BOPA Nummer 199 veröffentlicht."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Verordnung legt die Zugangs- und Nutzungsregeln für die gemeindlichen Sportanlagen fest — etwas, das jeden betrifft, der sie nutzt oder nutzen möchte.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "ribadesella-recupera-la-circulacion-en-todas-sus-calles-tras-concluir-",
+    "url": "/pilona/ribadesella-recupera-la-circulacion-en-todas-sus-calles-tras-concluir-/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Ribadesella recupera calles y puente libres",
+    "entradilla": "El corte por obras en tres vías del centro y en el puente sobre el Sella terminó este viernes, aunque solo de momento.",
+    "cuerpo": [
+      "El Ayuntamiento de Ribadesella dio por acabada la pavimentación de las calles Fonte del Cai, Magín Berenguer y Hnos Uría Aza. Desde las 12.00 del viernes 16 de octubre, los vehículos vuelven a circular con libertad por esos tramos, cocheras y aparcamientos incluidos.",
+      "La empresa Aglomerados y Obras aplicó aglomerado impreso y pintura antideslizante en el tramo más deteriorado de esas calles. La actuación mejora la seguridad en un acceso con bastante pendiente.",
+      "El puente sobre el río Sella también abrió en ambas direcciones, sin semáforos, a partir de las 14.00 del viernes. Esa tregua dura hasta el domingo: el lunes vuelven los semáforos para continuar con los trabajos de rehabilitación y ampliación del viaducto."
+    ],
+    "apunte": "El lunes, a madrugar un poco más si se pasa por el puente.",
+    "enVeinte": [
+      "Tres calles del centro de Ribadesella recuperaron el tráfico el viernes 16 de octubre tras dos semanas de obras de pavimentación.",
+      "El puente sobre el Sella abrió también ese viernes por la tarde, sin restricciones, pero solo hasta el domingo.",
+      "El lunes regresan los semáforos al puente para seguir con su rehabilitación y ampliación."
+    ],
+    "cifra": {
+      "numero": "2",
+      "unidad": "semanas",
+      "glosa": "Es el tiempo que duraron las obras de pavimentación en las tres calles afectadas. En ese plazo se renovó el firme y se aplicó pintura antideslizante en el tramo con más pendiente."
+    },
+    "palabra": null,
+    "porQue": "Quien entre o salga de Ribadesella por el puente tiene vía libre este fin de semana, pero conviene saber que el lunes vuelven las restricciones.",
+    "etiquetas": [
+      "obras",
+      "Ribadesella",
+      "tráfico",
+      "pavimentación"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/CALLE-FONTE-DEL-CAI-pavimentada.jpeg",
+    "fecha": "2026-10-16T08:50:19.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/16/10/2026/ribadesella-recupera-la-circulacion-en-todas-sus-calles-tras-concluir-la-nueva-pavimentacion/",
+      "titularOriginal": "Ribadesella recupera la circulación en todas sus calles tras concluir la nueva pavimentación"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella gets its streets and bridge back",
+        "entradilla": "Roadworks that had closed three streets in the town centre and the bridge over the Sella came to an end this Friday — at least for now.",
+        "cuerpo": [
+          "The council of Ribadesella announced the completion of paving works on Fonte del Cai, Magín Berenguer and Hnos Uría Aza streets. From 12.00 on Friday 16 October, vehicles can move freely along those stretches again, including access to garages and parking spaces.",
+          "The company Aglomerados y Obras applied stamped asphalt and anti-slip paint to the most worn section of those streets. The work improves safety on an access road with a considerable slope.",
+          "The bridge over the river Sella also reopened in both directions, without traffic lights, from 14.00 on Friday. That respite lasts until Sunday: on Monday the traffic lights return to allow rehabilitation and widening works on the viaduct to continue."
+        ],
+        "apunte": "Monday means an earlier start if your route takes you over the bridge.",
+        "enVeinte": [
+          "Three streets in the centre of Ribadesella returned to normal traffic on Friday 16 October after two weeks of paving works.",
+          "The bridge over the Sella also reopened that Friday afternoon, without restrictions — but only until Sunday.",
+          "On Monday, traffic lights return to the bridge as its rehabilitation and widening works resume."
+        ],
+        "cifra": {
+          "numero": "2",
+          "unidad": "weeks",
+          "glosa": "That is how long the paving works lasted on the three affected streets. In that time the road surface was renewed and anti-slip paint was applied to the steepest section."
+        },
+        "palabra": null,
+        "porQue": "Anyone entering or leaving Ribadesella via the bridge has a clear run this weekend, but it is worth knowing that restrictions return on Monday.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Ribadesella retrouve ses rues et son pont",
+        "entradilla": "La fermeture due aux travaux de trois voies du centre-ville et du pont sur le Sella a pris fin ce vendredi — du moins pour l'instant.",
+        "cuerpo": [
+          "La mairie de Ribadesella a annoncé l'achèvement des travaux de pavage des rues Fonte del Cai, Magín Berenguer et Hnos Uría Aza. Depuis 12 h 00 le vendredi 16 octobre, les véhicules circulent à nouveau librement sur ces tronçons, garages et stationnements inclus.",
+          "L'entreprise Aglomerados y Obras a appliqué de l'enrobé imprimé et une peinture antidérapante sur la section la plus dégradée de ces rues. L'intervention améliore la sécurité sur un accès présentant une pente assez marquée.",
+          "Le pont sur le río Sella a également rouvert dans les deux sens, sans feux de signalisation, à partir de 14 h 00 le vendredi. Cette trêve dure jusqu'au dimanche : lundi, les feux reviennent pour permettre la poursuite des travaux de réhabilitation et d'élargissement du viaduc."
+        ],
+        "apunte": "Lundi, il faudra se lever un peu plus tôt si l'on passe par le pont.",
+        "enVeinte": [
+          "Trois rues du centre de Ribadesella ont retrouvé leur trafic habituel le vendredi 16 octobre après deux semaines de travaux de pavage.",
+          "Le pont sur le Sella a également rouvert ce vendredi après-midi, sans restrictions — mais jusqu'au dimanche seulement.",
+          "Lundi, les feux de signalisation reviennent sur le pont pour la poursuite de sa réhabilitation et de son élargissement."
+        ],
+        "cifra": {
+          "numero": "2",
+          "unidad": "semaines",
+          "glosa": "C'est la durée des travaux de pavage sur les trois rues concernées. Dans ce délai, la chaussée a été renouvelée et une peinture antidérapante a été appliquée sur le tronçon le plus pentu."
+        },
+        "palabra": null,
+        "porQue": "Quiconque entre dans Ribadesella ou en sort par le pont dispose d'un accès libre ce week-end, mais il convient de savoir que les restrictions reviennent lundi.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ribadesella: Straßen und Brücke wieder frei",
+        "entradilla": "Die Sperrung von drei Straßen im Stadtzentrum und der Brücke über den Sella wegen Bauarbeiten endete diesen Freitag — zumindest vorübergehend.",
+        "cuerpo": [
+          "Das Rathaus von Ribadesella gab den Abschluss der Pflasterarbeiten in den Straßen Fonte del Cai, Magín Berenguer und Hnos Uría Aza bekannt. Ab 12.00 Uhr am Freitag, dem 16. Oktober, können Fahrzeuge diese Abschnitte wieder ungehindert befahren, einschließlich Garagen und Parkplätzen.",
+          "Das Unternehmen Aglomerados y Obras trug geprägten Asphalt und rutschfeste Farbe auf den am stärksten abgenutzten Bereich dieser Straßen auf. Die Maßnahme verbessert die Sicherheit auf einem Zufahrtsweg mit erheblichem Gefälle.",
+          "Die Brücke über den Río Sella wurde ebenfalls in beide Richtungen geöffnet, ohne Ampeln, ab 14.00 Uhr am Freitag. Diese Atempause dauert bis Sonntag: Am Montag kehren die Ampeln zurück, damit die Sanierungs- und Erweiterungsarbeiten am Viadukt fortgesetzt werden können."
+        ],
+        "apunte": "Am Montag heißt es etwas früher aufstehen, wenn man über die Brücke muss.",
+        "enVeinte": [
+          "Drei Straßen im Zentrum von Ribadesella wurden am Freitag, dem 16. Oktober, nach zwei Wochen Pflasterarbeiten wieder für den Verkehr freigegeben.",
+          "Die Brücke über den Sella öffnete ebenfalls an jenem Freitagnachmittag ohne Einschränkungen — allerdings nur bis Sonntag.",
+          "Am Montag kehren die Ampeln zur Brücke zurück, damit die Sanierungs- und Erweiterungsarbeiten weitergehen können."
+        ],
+        "cifra": {
+          "numero": "2",
+          "unidad": "Wochen",
+          "glosa": "So lange dauerten die Pflasterarbeiten in den drei betroffenen Straßen. In diesem Zeitraum wurde der Fahrbahnbelag erneuert und auf dem steilsten Abschnitt rutschfeste Farbe aufgetragen."
+        },
+        "palabra": null,
+        "porQue": "Wer Ribadesella dieses Wochenende über die Brücke betritt oder verlässt, hat freie Fahrt — sollte aber wissen, dass die Einschränkungen am Montag zurückkehren.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "las calles fonte del cai magin berenguer y",
+      "calles fonte del cai magin berenguer y hnos",
+      "fonte del cai magin berenguer y hnos uria",
+      "del cai magin berenguer y hnos uria aza"
+    ]
+  },
+  {
+    "id": "una-gaita-esculpida-hace-siglos-en-villaviciosa-vuelve-a-sonar-en-el-t",
+    "url": "/villaviciosa/una-gaita-esculpida-hace-siglos-en-villaviciosa-vuelve-a-sonar-en-el-t/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Gaitas medievales de piedra vuelven a sonar",
+    "entradilla": "La Asociación Amantigua reconstruye los instrumentos que los canteros esculpieron en la iglesia de Villaviciosa y los lleva al Teatro Riera dentro del festival Medievalia.",
+    "cuerpo": [
+      "Durante siglos, unas gaitas talladas en piedra en la iglesia de Villaviciosa no han sido otra cosa que decoración. Amantigua las ha estudiado, reconstruido como instrumentos reales y ahora las saca al escenario.",
+      "El concierto se celebra en el Teatro Riera y cuenta con la participación de la Orquesta de Cámara Solidaria. El marco es el festival Medievalia."
+    ],
+    "apunte": "Siglos calladas en la piedra; una noche para sonar.",
+    "enVeinte": [
+      "La Asociación Amantigua ha reconstruido las gaitas que los canteros medievales esculpieron en la iglesia de Villaviciosa.",
+      "Esos instrumentos recreados actuarán en el Teatro Riera junto a la Orquesta de Cámara Solidaria dentro del festival Medievalia.",
+      "Fecha y hora exactas del concierto no se han comunicado aún."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "cantero",
+      "como": "canteru en asturiano",
+      "definicion": "Artesano que trabaja y talla la piedra. En la Edad Media dejaron su huella en iglesias y catedrales con figuras que a veces representaban instrumentos musicales, oficios o escenas cotidianas."
+    },
+    "porQue": "Un patrimonio que Villaviciosa llevaba grabado en la piedra desde la Edad Media cobra vida por primera vez como música real, y lo hace en el teatro del pueblo.",
+    "etiquetas": [
+      "Medievalia",
+      "Villaviciosa",
+      "música medieval",
+      "Amantigua"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "Teatro Riera, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/16/2026101609413075430.jpg",
+    "fecha": "2026-10-16T07:41:57.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/gaita-esculpida-siglos-medievalia-villaviciosa/20261016094157104672.html",
+      "titularOriginal": "Una gaita esculpida hace siglos en Villaviciosa vuelve a sonar en el Teatro Riera como parte de Medievalia"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Medieval stone bagpipes sound again",
+        "entradilla": "The Asociación Amantigua reconstructs the instruments carved by stonemasons in the church of Villaviciosa and brings them to the Teatro Riera as part of the Medievalia festival.",
+        "cuerpo": [
+          "For centuries, bagpipes carved in stone in the church of Villaviciosa were nothing more than decoration. Amantigua has studied them, rebuilt them as real instruments, and now brings them to the stage.",
+          "The concert takes place at the Teatro Riera and features the Orquesta de Cámara Solidaria. The setting is the Medievalia festival."
+        ],
+        "apunte": "Centuries silent in stone; one night to sound.",
+        "enVeinte": [
+          "The Asociación Amantigua has reconstructed the bagpipes that medieval stonemasons carved in the church of Villaviciosa.",
+          "Those recreated instruments will perform at the Teatro Riera alongside the Orquesta de Cámara Solidaria as part of the Medievalia festival.",
+          "The exact date and time of the concert have not yet been announced."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cantero",
+          "como": "canteru in Asturian",
+          "definicion": "A craftsman who works and carves stone. In the Middle Ages they left their mark on churches and cathedrals with figures that sometimes depicted musical instruments, trades, or scenes from everyday life."
+        },
+        "porQue": "A heritage that Villaviciosa had carved in stone since the Middle Ages comes to life as real music for the first time — and it does so in the town's own theatre.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des cornemuses médiévales de pierre résonnent à nouveau",
+        "entradilla": "L'Asociación Amantigua reconstruit les instruments que les tailleurs de pierre ont sculptés dans l'église de Villaviciosa et les amène au Teatro Riera dans le cadre du festival Medievalia.",
+        "cuerpo": [
+          "Pendant des siècles, des cornemuses taillées dans la pierre de l'église de Villaviciosa n'ont été rien d'autre que de la décoration. Amantigua les a étudiées, reconstruites en véritables instruments et les porte désormais sur scène.",
+          "Le concert se tient au Teatro Riera avec la participation de l'Orquesta de Cámara Solidaria. Le cadre est le festival Medievalia."
+        ],
+        "apunte": "Des siècles silencieuses dans la pierre ; une nuit pour résonner.",
+        "enVeinte": [
+          "L'Asociación Amantigua a reconstruit les cornemuses que les tailleurs de pierre médiévaux ont sculptées dans l'église de Villaviciosa.",
+          "Ces instruments recréés se produiront au Teatro Riera aux côtés de l'Orquesta de Cámara Solidaria dans le cadre du festival Medievalia.",
+          "La date et l'heure exactes du concert n'ont pas encore été communiquées."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cantero",
+          "como": "canteru en asturien",
+          "definicion": "Artisan qui travaille et taille la pierre. Au Moyen Âge, ils ont laissé leur empreinte dans les églises et les cathédrales avec des figures représentant parfois des instruments de musique, des métiers ou des scènes de la vie quotidienne."
+        },
+        "porQue": "Un patrimoine gravé dans la pierre de Villaviciosa depuis le Moyen Âge prend vie pour la première fois sous forme de vraie musique — et cela se passe dans le théâtre même de la ville.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Mittelalterliche Steindudelsäcke erklingen wieder",
+        "entradilla": "Der Asociación Amantigua rekonstruiert die Instrumente, die Steinmetze in der Kirche von Villaviciosa gemeißelt haben, und bringt sie im Rahmen des Festivals Medievalia ins Teatro Riera.",
+        "cuerpo": [
+          "Jahrhundertelang waren in der Kirche von Villaviciosa in Stein gemeißelte Dudelsäcke nichts weiter als Dekoration. Amantigua hat sie untersucht, als echte Instrumente nachgebaut und bringt sie nun auf die Bühne.",
+          "Das Konzert findet im Teatro Riera statt und wird von der Orquesta de Cámara Solidaria mitgestaltet. Der Rahmen ist das Festival Medievalia."
+        ],
+        "apunte": "Jahrhunderte lang stumm im Stein; eine Nacht, um zu erklingen.",
+        "enVeinte": [
+          "Der Asociación Amantigua hat die Dudelsäcke rekonstruiert, die mittelalterliche Steinmetze in der Kirche von Villaviciosa gemeißelt haben.",
+          "Diese nachgebauten Instrumente werden im Teatro Riera gemeinsam mit der Orquesta de Cámara Solidaria im Rahmen des Festivals Medievalia auftreten.",
+          "Der genaue Termin und die Uhrzeit des Konzerts wurden noch nicht bekanntgegeben."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cantero",
+          "como": "canteru auf Asturisch",
+          "definicion": "Ein Handwerker, der Stein bearbeitet und meißelt. Im Mittelalter hinterließen sie ihre Spuren in Kirchen und Kathedralen mit Figuren, die mitunter Musikinstrumente, Berufe oder Szenen aus dem Alltag darstellten."
+        },
+        "porQue": "Ein Erbe, das Villaviciosa seit dem Mittelalter in Stein eingraviert trug, erwacht zum ersten Mal als echte Musik zum Leben — und das im Theater des Ortes selbst.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la asociacion amantigua reconstruye los instrumentos que los",
+      "asociacion amantigua reconstruye los instrumentos que los canteros",
+      "esculpieron en la iglesia de villaviciosa y los",
+      "en la iglesia de villaviciosa y los lleva",
+      "la iglesia de villaviciosa y los lleva al"
+    ]
+  },
+  {
     "id": "la-casa-de-cultura-marta-portal-de-nava-expone-fotografias-sobre-la-mu",
     "url": "/nava/la-casa-de-cultura-marta-portal-de-nava-expone-fotografias-sobre-la-mu/",
     "concejo": "Nava",
