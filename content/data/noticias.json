@@ -1,5 +1,394 @@
 [
   {
+    "id": "villaviciosa-acogera-una-charla-sobre-la-eutanasia-con-la-exministra-d",
+    "url": "/villaviciosa/villaviciosa-acogera-una-charla-sobre-la-eutanasia-con-la-exministra-d/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "El Ateneo debate la eutanasia con Luisa Carcedo",
+    "entradilla": "La exministra de Sanidad y la periodista Asun Gómez Bueno protagonizan el encuentro que organiza el Ateneo Obrero de Villaviciosa el 30 de octubre.",
+    "cuerpo": [
+      "El Ateneo Obrero de Villaviciosa acoge el 30 de octubre una charla sobre el derecho a morir. La exministra de Sanidad Luisa Carcedo y la periodista Asun Gómez Bueno son las dos voces convocadas para el debate.",
+      "El material disponible no detalla hora de inicio ni si la entrada es libre, así que conviene estar pendiente del Ateneo para confirmar esos datos antes de acercarse."
+    ],
+    "apunte": "Pocas veces una charla reúne a quien firmó la ley y a quien la ha contado.",
+    "enVeinte": [
+      "El Ateneo Obrero de Villaviciosa organiza para el 30 de octubre un debate sobre la eutanasia.",
+      "Participan la exministra de Sanidad Luisa Carcedo y la periodista Asun Gómez Bueno.",
+      "La hora y el precio de entrada no han sido confirmados todavía por los organizadores."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Ateneo Obrero",
+      "como": "Ateneo Obrero (se dice igual)",
+      "definicion": "Asociación cultural de raíz popular y tradición laica que nació en el siglo XIX para extender la educación y el debate entre la clase trabajadora. En Villaviciosa sigue siendo uno de los espacios de referencia para charlas y actos públicos."
+    },
+    "porQue": "Quien vive en Villaviciosa o los concejos cercanos tiene cerca una conversación de fondo sobre un derecho que la ley reconoce desde 2021 pero que sigue generando dudas y preguntas en muchas familias.",
+    "etiquetas": [
+      "eutanasia",
+      "Villaviciosa",
+      "Ateneo Obrero",
+      "Luisa Carcedo"
+    ],
+    "fechaEvento": "2026-10-30",
+    "tipoEvento": "taller",
+    "lugar": "Ateneo Obrero de Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-acogera-una-charla-sobre-la-eutanasia-5b3c441c.jpg",
+    "fecha": "2026-10-16T18:02:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-acogera-una-charla-sobre-la-eutanasia-con-la-exministra-de-sanidad-luisa-carcedo-11276625.html",
+      "titularOriginal": "Villaviciosa acogerá una charla sobre la eutanasia con la exministra de Sanidad Luisa Carcedo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Ateneo debates euthanasia with Luisa Carcedo",
+        "entradilla": "The former Health Minister and journalist Asun Gómez Bueno headline the event organised by the Ateneo Obrero de Villaviciosa on 30 October.",
+        "cuerpo": [
+          "The Ateneo Obrero de Villaviciosa hosts a talk on the right to die on 30 October. Former Health Minister Luisa Carcedo and journalist Asun Gómez Bueno are the two voices brought together for the debate.",
+          "The available material does not give a start time or say whether entry is free, so it is worth keeping an eye on the Ateneo to confirm those details before you go."
+        ],
+        "apunte": "It is rare for a single talk to bring together the person who signed the law and the person who covered it.",
+        "enVeinte": [
+          "The Ateneo Obrero de Villaviciosa is organising a debate on euthanasia on 30 October.",
+          "Participants include former Health Minister Luisa Carcedo and journalist Asun Gómez Bueno.",
+          "The start time and ticket price have not yet been confirmed by the organisers."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ateneo Obrero",
+          "como": "Ateneo Obrero (pronounced the same)",
+          "definicion": "A cultural association with popular roots and a secular tradition, founded in the nineteenth century to spread education and debate among the working class. In Villaviciosa it remains one of the main venues for talks and public events."
+        },
+        "porQue": "Anyone living in Villaviciosa or the nearby municipalities has close access to a serious conversation about a right that the law has recognised since 2021 but that still raises doubts and questions for many families.",
+        "lugar": "Ateneo Obrero de Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'Ateneo débat de l'euthanasie avec Luisa Carcedo",
+        "entradilla": "L'ancienne ministre de la Santé et la journaliste Asun Gómez Bueno sont les figures centrales de la rencontre organisée par l'Ateneo Obrero de Villaviciosa le 30 octobre.",
+        "cuerpo": [
+          "L'Ateneo Obrero de Villaviciosa accueille le 30 octobre une conférence sur le droit à mourir. L'ancienne ministre de la Santé Luisa Carcedo et la journaliste Asun Gómez Bueno sont les deux voix réunies pour le débat.",
+          "Le matériel disponible n'indique ni l'heure de début ni si l'entrée est libre ; il convient donc de suivre l'actualité de l'Ateneo pour confirmer ces informations avant de s'y rendre."
+        ],
+        "apunte": "Il est rare qu'une seule conférence réunisse celle qui a signé la loi et celle qui l'a racontée.",
+        "enVeinte": [
+          "L'Ateneo Obrero de Villaviciosa organise le 30 octobre un débat sur l'euthanasie.",
+          "Y participent l'ancienne ministre de la Santé Luisa Carcedo et la journaliste Asun Gómez Bueno.",
+          "L'heure et le tarif d'entrée n'ont pas encore été confirmés par les organisateurs."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ateneo Obrero",
+          "como": "Ateneo Obrero (se prononce de la même façon)",
+          "definicion": "Association culturelle d'inspiration populaire et de tradition laïque, née au XIXe siècle pour diffuser l'éducation et le débat au sein de la classe ouvrière. À Villaviciosa, elle reste l'un des lieux de référence pour les conférences et les événements publics."
+        },
+        "porQue": "Les habitants de Villaviciosa ou des communes voisines ont à portée de main une conversation de fond sur un droit reconnu par la loi depuis 2021, mais qui soulève encore des doutes et des questions dans de nombreuses familles.",
+        "lugar": "Ateneo Obrero de Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Ateneo diskutiert die Sterbehilfe mit Luisa Carcedo",
+        "entradilla": "Die ehemalige Gesundheitsministerin und die Journalistin Asun Gómez Bueno stehen im Mittelpunkt der Veranstaltung, die das Ateneo Obrero de Villaviciosa am 30. Oktober organisiert.",
+        "cuerpo": [
+          "Das Ateneo Obrero de Villaviciosa beherbergt am 30. Oktober eine Gesprächsrunde zum Thema Sterberecht. Die ehemalige Gesundheitsministerin Luisa Carcedo und die Journalistin Asun Gómez Bueno sind die beiden Stimmen, die für die Debatte eingeladen wurden.",
+          "Das vorliegende Material enthält weder eine Anfangszeit noch Angaben dazu, ob der Eintritt frei ist. Es empfiehlt sich daher, die Ankündigungen des Ateneo im Blick zu behalten und diese Details vor dem Besuch zu bestätigen."
+        ],
+        "apunte": "Selten bringt eine einzige Veranstaltung diejenige zusammen, die das Gesetz unterzeichnet hat, und diejenige, die darüber berichtet hat.",
+        "enVeinte": [
+          "Das Ateneo Obrero de Villaviciosa veranstaltet am 30. Oktober eine Debatte über die Sterbehilfe.",
+          "Teilnehmerinnen sind die ehemalige Gesundheitsministerin Luisa Carcedo und die Journalistin Asun Gómez Bueno.",
+          "Uhrzeit und Eintrittspreis wurden von den Veranstaltern noch nicht bestätigt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ateneo Obrero",
+          "como": "Ateneo Obrero (wird genauso ausgesprochen)",
+          "definicion": "Ein Kulturverein mit volksnahen Wurzeln und laizistischer Tradition, der im 19. Jahrhundert gegründet wurde, um Bildung und Debatte in der Arbeiterklasse zu verbreiten. In Villaviciosa ist er nach wie vor einer der wichtigsten Orte für Vorträge und öffentliche Veranstaltungen."
+        },
+        "porQue": "Wer in Villaviciosa oder den umliegenden Gemeinden lebt, hat ein ernsthaftes Gespräch über ein Recht in greifbarer Nähe, das seit 2021 gesetzlich anerkannt ist, aber in vielen Familien noch immer Fragen und Zweifel aufwirft.",
+        "lugar": "Ateneo Obrero de Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "luisa carcedo y la periodista asun gomez bueno"
+    ]
+  },
+  {
+    "id": "cosecha-del-27-llevara-la-poesia-de-lorca-y-hernandez-a-cuatro-encuent",
+    "url": "/nava/cosecha-del-27-llevara-la-poesia-de-lorca-y-hernandez-a-cuatro-encuent/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Lorca y Hernández llegan al Museo de la Sidra",
+    "entradilla": "El proyecto itinerante Cosecha del 27 arranca en Nava el 24 de octubre con poesía, música en directo y participación del público.",
+    "cuerpo": [
+      "Nava abre la gira de Cosecha del 27, una iniciativa cultural que combina poesía de Federico García Lorca y Miguel Hernández con música en vivo. El punto de partida es el Museo de la Sidra, y la fecha de inicio, el 24 de octubre.",
+      "El proyecto tiene apoyo del Ministerio y recorrerá también localidades de La Rioja y Andalucía en un total de cuatro encuentros. La participación ciudadana forma parte del formato desde el principio."
+    ],
+    "apunte": "Que la primera parada de una gira nacional sea el Museo de la Sidra de Nava dice algo bueno del pueblo.",
+    "enVeinte": [
+      "El proyecto Cosecha del 27 lleva la poesía de Lorca y Hernández a cuatro encuentros en Asturias, La Rioja y Andalucía.",
+      "El primer acto se celebra el 24 de octubre en el Museo de la Sidra de Nava, con música en directo y participación ciudadana.",
+      "La iniciativa cuenta con el respaldo del Ministerio y tiene un formato itinerante que combina literatura y música."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar, con elle como la de lluvia",
+      "definicion": "El lugar donde se elabora la sidra: se prensan las manzanas, fermenta el mosto y nace la botella. El Museo de la Sidra de Nava tiene uno que puede visitarse y que explica de pe a pa el proceso."
+    },
+    "porQue": "Nava es la primera parada de una gira con respaldo ministerial: el Museo de la Sidra sale en el mapa cultural más allá de Asturias.",
+    "etiquetas": [
+      "poesía",
+      "Museo de la Sidra",
+      "Nava",
+      "cultura itinerante"
+    ],
+    "fechaEvento": "2026-10-24",
+    "tipoEvento": "letras",
+    "lugar": "Museo de la Sidra de Nava",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/cosecha-del-27-llevara-la-poesia-de-lorca-y-hernandez-14482.jpg",
+    "fecha": "2026-10-16T15:45:50.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/cosecha-del-27-llevara-la-poesia-de-lorca-y-hernandez-a-cuatro-encuentros-en-asturias-la-rioja-y-andalucia-11276621.html",
+      "titularOriginal": "Cosecha del 27 llevará la poesía de Lorca y Hernández a cuatro encuentros en Asturias, La Rioja y Andalucía"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Lorca and Hernández arrive at the Museo de la Sidra",
+        "entradilla": "The touring project Cosecha del 27 kicks off in Nava on 24 October with poetry, live music and audience participation.",
+        "cuerpo": [
+          "Nava opens the tour of Cosecha del 27, a cultural initiative combining the poetry of Federico García Lorca and Miguel Hernández with live music. The starting point is the Museo de la Sidra, and the opening date is 24 October.",
+          "The project has backing from the Ministry and will also visit towns in La Rioja and Andalucía across a total of four events. Public participation is part of the format from the outset."
+        ],
+        "apunte": "The fact that the first stop of a national tour is the Museo de la Sidra in Nava says something good about the town.",
+        "enVeinte": [
+          "The Cosecha del 27 project brings the poetry of Lorca and Hernández to four events in Asturias, La Rioja and Andalucía.",
+          "The first event takes place on 24 October at the Museo de la Sidra in Nava, with live music and public participation.",
+          "The initiative has Ministry backing and follows a touring format combining literature and music."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar, with the ll as in lluvia",
+          "definicion": "The place where cider is made: apples are pressed, the must ferments and the bottle is born. The Museo de la Sidra in Nava has one that can be visited and explains the whole process from start to finish."
+        },
+        "porQue": "Nava is the first stop of a tour with Ministry backing: the Museo de la Sidra is stepping onto the cultural map well beyond Asturias.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Lorca et Hernández arrivent au Museo de la Sidra",
+        "entradilla": "Le projet itinérant Cosecha del 27 débute à Nava le 24 octobre avec de la poésie, de la musique en direct et la participation du public.",
+        "cuerpo": [
+          "Nava ouvre la tournée de Cosecha del 27, une initiative culturelle qui associe la poésie de Federico García Lorca et Miguel Hernández à de la musique live. Le point de départ est le Museo de la Sidra, et la date d'ouverture, le 24 octobre.",
+          "Le projet bénéficie du soutien du Ministère et visitera également des localités de La Rioja et d'Andalousie, pour un total de quatre rencontres. La participation citoyenne fait partie du format dès le départ."
+        ],
+        "apunte": "Que le premier arrêt d'une tournée nationale soit le Museo de la Sidra de Nava dit quelque chose de bien sur le village.",
+        "enVeinte": [
+          "Le projet Cosecha del 27 porte la poésie de Lorca et Hernández dans quatre rencontres en Asturias, La Rioja et Andalousie.",
+          "Le premier événement se tient le 24 octobre au Museo de la Sidra de Nava, avec musique en direct et participation citoyenne.",
+          "L'initiative bénéficie du soutien du Ministère et adopte un format itinérant alliant littérature et musique."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar, avec le ll comme dans lluvia",
+          "definicion": "L'endroit où se fabrique le cidre : on y presse les pommes, le moût fermente et la bouteille naît. Le Museo de la Sidra de Nava en possède un ouvert à la visite, qui explique tout le processus de bout en bout."
+        },
+        "porQue": "Nava est le premier arrêt d'une tournée soutenue par le Ministère : le Museo de la Sidra s'inscrit sur la carte culturelle bien au-delà des Asturias.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Lorca und Hernández kommen ins Museo de la Sidra",
+        "entradilla": "Das Tournee-Projekt Cosecha del 27 startet am 24. Oktober in Nava mit Poesie, Live-Musik und Publikumsbeteiligung.",
+        "cuerpo": [
+          "Nava eröffnet die Tournee von Cosecha del 27, einer Kulturinitiative, die Gedichte von Federico García Lorca und Miguel Hernández mit Live-Musik verbindet. Ausgangspunkt ist das Museo de la Sidra, Starttermin der 24. Oktober.",
+          "Das Projekt wird vom Ministerium unterstützt und macht im Rahmen von insgesamt vier Veranstaltungen auch in Ortschaften in La Rioja und Andalucía halt. Die Bürgerbeteiligung ist von Anfang an Teil des Formats."
+        ],
+        "apunte": "Dass der erste Halt einer nationalen Tournee das Museo de la Sidra in Nava ist, spricht für den Ort.",
+        "enVeinte": [
+          "Das Projekt Cosecha del 27 bringt die Poesie von Lorca und Hernández in vier Veranstaltungen nach Asturias, La Rioja und Andalucía.",
+          "Die erste Veranstaltung findet am 24. Oktober im Museo de la Sidra in Nava statt, mit Live-Musik und Bürgerbeteiligung.",
+          "Die Initiative wird vom Ministerium unterstützt und folgt einem Tournee-Format, das Literatur und Musik verbindet."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar, mit dem ll wie in lluvia",
+          "definicion": "Der Ort, an dem Cidre hergestellt wird: Äpfel werden gepresst, der Most gärt und die Flasche entsteht. Das Museo de la Sidra in Nava besitzt einen, der besichtigt werden kann und den gesamten Prozess von Anfang bis Ende erklärt."
+        },
+        "porQue": "Nava ist der erste Halt einer Tournee mit Ministeriumsunterstützung: Das Museo de la Sidra tritt auf der Kulturlandkarte weit über Asturias hinaus in Erscheinung.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-red-de-participacion-social-del-oriente-de-asturias-incorpora-a-tre",
+    "url": "/pilona/la-red-de-participacion-social-del-oriente-de-asturias-incorpora-a-tre/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "El tejido asociativo del oriente se reúne en Caravia",
+    "entradilla": "El XXI Encuentro «Creando Redes de Solidaridad» suma este sábado a tres entidades nuevas y cierra con premios a los mejores proyectos solidarios de la comarca.",
+    "cuerpo": [
+      "Mañana sábado, la Casona de El Francu, en Duesos (Caravia), recibe a más de treinta entidades y asociaciones del oriente asturiano para su cita anual en red. Se suman por primera vez la Asociación Vecinal El Portalón de Biedes, de Piloña; la Asociación Cultural Llar de Caravia; y la Asociación Cultural Cagigalines de Peñamellera.",
+      "La jornada arranca hacia las diez de la mañana y acaba con el fallo del concurso Pueblos Solidarios 2026, al que se han presentado ocho proyectos. Los cuatro más votados por las entidades presentes se llevan el reconocimiento: hay propuestas de todo tipo, desde servicios sociosanitarios hasta recuperación de patrimonio o actividades para personas mayores.",
+      "También se premiarán cinco proyectos del concurso Solidaridad en Red, pensado para reforzar a las propias asociaciones de la red: recuperar actividades, mantenerlas o conseguir un local en condiciones, según explicó Laura Gutiérrez, coordinadora del Centro de Voluntariado El Prial de Infiesto. La red cumple 24 años de trabajo continuado."
+    ],
+    "apunte": "Veinticuatro años dando vueltas a lo mismo y sin cansarse: juntarse para no irse cada uno por su lado.",
+    "enVeinte": [
+      "Este sábado, más de treinta asociaciones del oriente asturiano se reúnen en Caravia en su encuentro anual de trabajo en red.",
+      "Tres entidades se incorporan por primera vez: El Portalón de Biedes (Piloña), Llar de Caravia y Cagigalines de Peñamellera.",
+      "La jornada cierra con premios a los proyectos más votados de los concursos Pueblos Solidarios y Solidaridad en Red."
+    ],
+    "cifra": {
+      "numero": "24",
+      "unidad": "años",
+      "glosa": "La Red de Participación Social del Oriente de Asturias lleva 24 años celebrando estos encuentros. Es una de las iniciativas de tejido asociativo rural más longevas del oriente de la región."
+    },
+    "palabra": {
+      "termino": "casona",
+      "como": "casona, con la 'o' bien abierta, como se dice por aquí",
+      "definicion": "Nombre que se da en Asturias a las casas señoriales o casonas de indianos, grandes y con empaque. La de El Francu, en Duesos, es uno de esos edificios de piedra que marcan el paisaje del pueblo y que hoy sirven también como espacio de encuentro."
+    },
+    "porQue": "Para quien vive en Piloña o en cualquier concejo del oriente, este encuentro es la oportunidad de ver qué hacen las asociaciones vecinas y de sumarse a proyectos que pueden mejorar la vida en el rural.",
+    "etiquetas": [
+      "asociacionismo",
+      "oriente de Asturias",
+      "Caravia",
+      "Piloña"
+    ],
+    "fechaEvento": "2026-10-17",
+    "tipoEvento": "taller",
+    "lugar": "Casona de El Francu, Duesos (Caravia)",
+    "hora": "10:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-16-a-las-17.07.39.png",
+    "fecha": "2026-10-16T15:09:35.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/16/10/2026/la-red-de-participacion-social-del-oriente-de-asturias-incorpora-a-tres-nuevas-entidades/",
+      "titularOriginal": "La Red de Participación Social del Oriente de Asturias incorpora a tres nuevas entidades"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The eastern associative network meets in Caravia",
+        "entradilla": "The XXI Encuentro «Creando Redes de Solidaridad» welcomes three new organisations this Saturday and closes with awards for the best solidarity projects in the county.",
+        "cuerpo": [
+          "This Saturday, the Casona de El Francu, in Duesos (Caravia), hosts more than thirty organisations and associations from eastern Asturias for their annual networking event. Joining for the first time are the Asociación Vecinal El Portalón de Biedes, from Piloña; the Asociación Cultural Llar de Caravia; and the Asociación Cultural Cagigalines de Peñamellera.",
+          "The day begins around ten in the morning and ends with the results of the Pueblos Solidarios 2026 competition, which has received eight entries. The four projects that receive the most votes from the organisations present will be recognised: proposals cover a wide range, from social and health services to heritage recovery and activities for older people.",
+          "Five projects from the Solidaridad en Red competition will also receive awards. This strand is designed to strengthen the network's own member associations — reviving activities, keeping them going, or finding suitable premises — as Laura Gutiérrez, coordinator of the Centro de Voluntariado El Prial de Infiesto, explained. The network has now completed 24 years of uninterrupted work."
+        ],
+        "apunte": "Twenty-four years turning over the same idea and never tiring of it: coming together so no one goes it alone.",
+        "enVeinte": [
+          "This Saturday, more than thirty associations from eastern Asturias meet in Caravia for their annual networking event.",
+          "Three organisations join for the first time: El Portalón de Biedes (Piloña), Llar de Caravia and Cagigalines de Peñamellera.",
+          "The day closes with awards for the highest-voted projects in the Pueblos Solidarios and Solidaridad en Red competitions."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "years",
+          "glosa": "The Red de Participación Social del Oriente de Asturias has been holding these gatherings for 24 years. It is one of the longest-running rural associative initiatives in the east of the region."
+        },
+        "palabra": {
+          "termino": "casona",
+          "como": "casona, with a wide-open 'o', as they say around here",
+          "definicion": "The name given in Asturias to grand manor houses or indianos' mansions — large, imposing buildings. The Casona de El Francu in Duesos is one of those stone structures that define the village's landscape and today also serve as a meeting place."
+        },
+        "porQue": "For anyone living in Piloña or any other municipality in the east, this gathering is a chance to see what neighbouring associations are doing and to join projects that can improve life in rural areas.",
+        "lugar": "Casona de El Francu, Duesos (Caravia)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le tissu associatif de l'est se réunit à Caravia",
+        "entradilla": "Le XXI Encuentro «Creando Redes de Solidaridad» accueille ce samedi trois nouvelles entités et se clôture par des prix remis aux meilleurs projets solidaires de la zone.",
+        "cuerpo": [
+          "Samedi, la Casona de El Francu, à Duesos (Caravia), reçoit plus de trente entités et associations de l'est des Asturies pour leur rendez-vous annuel en réseau. Se joignent pour la première fois l'Asociación Vecinal El Portalón de Biedes, de Piloña ; l'Asociación Cultural Llar de Caravia ; et l'Asociación Cultural Cagigalines de Peñamellera.",
+          "La journée commence vers dix heures du matin et s'achève avec le palmarès du concours Pueblos Solidarios 2026, auquel huit projets ont été soumis. Les quatre qui recueillent le plus de votes parmi les entités présentes reçoivent une distinction : les propositions sont très variées, allant des services médico-sociaux à la préservation du patrimoine, en passant par des activités pour les personnes âgées.",
+          "Cinq projets du concours Solidaridad en Red seront également récompensés. Ce volet vise à renforcer les associations membres du réseau elles-mêmes : relancer des activités, les maintenir ou trouver des locaux adaptés, comme l'a expliqué Laura Gutiérrez, coordinatrice du Centro de Voluntariado El Prial de Infiesto. Le réseau compte désormais 24 ans de travail ininterrompu."
+        ],
+        "apunte": "Vingt-quatre ans à ressasser la même idée sans jamais s'en lasser : se réunir pour que chacun n'aille pas de son côté.",
+        "enVeinte": [
+          "Ce samedi, plus de trente associations de l'est des Asturies se réunissent à Caravia pour leur rencontre annuelle de travail en réseau.",
+          "Trois entités rejoignent le réseau pour la première fois : El Portalón de Biedes (Piloña), Llar de Caravia et Cagigalines de Peñamellera.",
+          "La journée se clôture par des prix remis aux projets les plus votés des concours Pueblos Solidarios et Solidaridad en Red."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "ans",
+          "glosa": "La Red de Participación Social del Oriente de Asturias organise ces rencontres depuis 24 ans. C'est l'une des initiatives de tissu associatif rural les plus anciennes de l'est de la région."
+        },
+        "palabra": {
+          "termino": "casona",
+          "como": "casona, avec un 'o' bien ouvert, comme on le dit par ici",
+          "definicion": "Nom donné aux Asturies aux maisons seigneuriales ou aux demeures d'indianos — grandes et imposantes. La Casona de El Francu, à Duesos, est l'un de ces bâtiments en pierre qui marquent le paysage du village et qui servent aujourd'hui également d'espace de rencontre."
+        },
+        "porQue": "Pour qui vit à Piloña ou dans n'importe quelle autre commune de l'est, cette rencontre est l'occasion de découvrir ce que font les associations voisines et de rejoindre des projets susceptibles d'améliorer la vie en milieu rural.",
+        "lugar": "Casona de El Francu, Duesos (Caravia)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Vereinsnetz des Ostens trifft sich in Caravia",
+        "entradilla": "Der XXI Encuentro «Creando Redes de Solidaridad» begrüßt diesen Samstag drei neue Organisationen und schließt mit Auszeichnungen für die besten Solidaritätsprojekte der Gegend.",
+        "cuerpo": [
+          "Am Samstag empfängt die Casona de El Francu in Duesos (Caravia) mehr als dreißig Organisationen und Vereine aus dem östlichen Asturien zu ihrem jährlichen Netzwerktreffen. Zum ersten Mal dabei sind die Asociación Vecinal El Portalón de Biedes aus Piloña, die Asociación Cultural Llar de Caravia sowie die Asociación Cultural Cagigalines de Peñamellera.",
+          "Der Tag beginnt gegen zehn Uhr morgens und endet mit der Bekanntgabe der Ergebnisse des Wettbewerbs Pueblos Solidarios 2026, für den acht Projekte eingereicht wurden. Die vier Projekte, die von den anwesenden Organisationen am häufigsten gewählt werden, erhalten eine Auszeichnung: Die Vorschläge sind vielfältig und reichen von sozial- und gesundheitlichen Diensten über die Pflege des kulturellen Erbes bis hin zu Aktivitäten für ältere Menschen.",
+          "Ebenfalls ausgezeichnet werden fünf Projekte des Wettbewerbs Solidaridad en Red, der darauf ausgerichtet ist, die Mitgliedsvereine des Netzwerks selbst zu stärken — Aktivitäten wieder aufzunehmen, sie aufrechtzuerhalten oder geeignete Räumlichkeiten zu finden, wie Laura Gutiérrez, Koordinatorin des Centro de Voluntariado El Prial de Infiesto, erklärte. Das Netzwerk blickt auf 24 Jahre ununterbrochener Arbeit zurück."
+        ],
+        "apunte": "Vierundzwanzig Jahre, immer wieder dasselbe, und ohne je müde zu werden: zusammenkommen, damit keiner allein seinen Weg geht.",
+        "enVeinte": [
+          "Diesen Samstag treffen sich mehr als dreißig Vereine aus dem östlichen Asturien in Caravia zu ihrem jährlichen Netzwerktreffen.",
+          "Drei Organisationen stoßen zum ersten Mal dazu: El Portalón de Biedes (Piloña), Llar de Caravia und Cagigalines de Peñamellera.",
+          "Der Tag schließt mit Auszeichnungen für die meistgewählten Projekte der Wettbewerbe Pueblos Solidarios und Solidaridad en Red."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "Jahre",
+          "glosa": "Die Red de Participación Social del Oriente de Asturias veranstaltet diese Treffen seit 24 Jahren. Sie ist eine der langlebigsten Initiativen zur Stärkung des ländlichen Vereinslebens im Osten der Region."
+        },
+        "palabra": {
+          "termino": "casona",
+          "como": "casona, mit einem weit geöffneten 'o', wie man es hier ausspricht",
+          "definicion": "Bezeichnung in Asturien für herrschaftliche Häuser oder Indianos-Villen — groß und stattlich. Die Casona de El Francu in Duesos ist eines jener Steingebäude, die das Ortsbild prägen und heute auch als Begegnungsraum dienen."
+        },
+        "porQue": "Wer in Piloña oder einer anderen Gemeinde im Osten lebt, hat bei diesem Treffen die Möglichkeit, zu sehen, was die benachbarten Vereine tun, und sich Projekten anzuschließen, die das Leben im ländlichen Raum verbessern können.",
+        "lugar": "Casona de El Francu, Duesos (Caravia)",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "pilona la asociacion cultural llar de caravia y",
+      "la asociacion cultural llar de caravia y la",
+      "asociacion cultural llar de caravia y la asociacion",
+      "cultural llar de caravia y la asociacion cultural",
+      "llar de caravia y la asociacion cultural cagigalines",
+      "de caravia y la asociacion cultural cagigalines de",
+      "caravia y la asociacion cultural cagigalines de penamellera",
+      "con el fallo del concurso pueblos solidarios 2026",
+      "explico laura gutierrez coordinadora del centro de voluntariado",
+      "laura gutierrez coordinadora del centro de voluntariado el",
+      "gutierrez coordinadora del centro de voluntariado el prial",
+      "coordinadora del centro de voluntariado el prial de",
+      "del centro de voluntariado el prial de infiesto"
+    ]
+  },
+  {
     "id": "venta-pide-aplazar-la-veda-del-salmon-al-censo-subacuatico-previsto-pa",
     "url": "/pilona/venta-pide-aplazar-la-veda-del-salmon-al-censo-subacuatico-previsto-pa/",
     "concejo": "Piloña",
