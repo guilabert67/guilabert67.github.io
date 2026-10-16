@@ -1,5 +1,485 @@
 [
   {
+    "id": "la-casa-de-cultura-marta-portal-de-nava-expone-fotografias-sobre-la-mu",
+    "url": "/nava/la-casa-de-cultura-marta-portal-de-nava-expone-fotografias-sobre-la-mu/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Nava expone fotos sobre la mujer rural",
+    "entradilla": "Las imágenes, recogidas en ediciones pasadas del concurso del IES Peñamayor, estarán en la Casa de Cultura Marta Portal hasta finales de noviembre.",
+    "cuerpo": [
+      "La Casa de Cultura Marta Portal de Nava acoge una muestra fotográfica dedicada a la mujer rural, con trabajos seleccionados de anteriores convocatorias del concurso que organiza el IES Peñamayor.",
+      "La exposición puede visitarse hasta el 30 de noviembre."
+    ],
+    "apunte": "Un concurso escolar que acaba colgado en la pared del pueblo: algo están haciendo bien en Peñamayor.",
+    "enVeinte": [
+      "La Casa de Cultura Marta Portal de Nava muestra fotografías sobre la mujer rural hasta el 30 de noviembre.",
+      "Las imágenes proceden de ediciones anteriores del concurso de fotografía del IES Peñamayor.",
+      "La entrada es libre y la exposición está abierta al público durante todo el mes de noviembre."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Para quien vive en Nava o los concejos de alrededor, es un plan cultural gratuito a mano durante semanas, con imágenes que hablan de una realidad cercana.",
+    "etiquetas": [
+      "Nava",
+      "fotografía",
+      "mujer rural",
+      "IES Peñamayor"
+    ],
+    "fechaEvento": "2026-11-30",
+    "tipoEvento": "expo",
+    "lugar": "Casa de Cultura Marta Portal, Nava",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/la-casa-de-cultura-marta-portal-de-nava-expone-fot-f4ee2d90.jpg",
+    "fecha": "2026-10-15T23:11:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-nava/la-casa-de-cultura-marta-portal-de-nava-expone-fotografias-sobre-la-mujer-rural-11276610.html",
+      "titularOriginal": "La Casa de Cultura Marta Portal de Nava expone fotografías sobre la mujer rural"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava exhibits photos on rural women",
+        "entradilla": "The images, gathered from past editions of the IES Peñamayor competition, will be on show at the Casa de Cultura Marta Portal until the end of November.",
+        "cuerpo": [
+          "The Casa de Cultura Marta Portal in Nava is hosting a photography exhibition dedicated to rural women, featuring selected works from previous editions of the competition organised by IES Peñamayor.",
+          "The exhibition can be visited until 30 November."
+        ],
+        "apunte": "A school competition that ends up on the village wall: they must be doing something right at Peñamayor.",
+        "enVeinte": [
+          "The Casa de Cultura Marta Portal in Nava is showing photographs on rural women until 30 November.",
+          "The images come from previous editions of the IES Peñamayor photography competition.",
+          "Entry is free and the exhibition is open to the public throughout November."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "For anyone living in Nava or the surrounding municipalities, this is a free cultural outing close to home for several weeks, with images that speak to a familiar reality.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava expose des photos sur la femme rurale",
+        "entradilla": "Les images, issues des éditions passées du concours de l'IES Peñamayor, seront présentées à la Casa de Cultura Marta Portal jusqu'à fin novembre.",
+        "cuerpo": [
+          "La Casa de Cultura Marta Portal de Nava accueille une exposition photographique consacrée à la femme rurale, avec des travaux sélectionnés lors des précédentes éditions du concours organisé par l'IES Peñamayor.",
+          "L'exposition est visible jusqu'au 30 novembre."
+        ],
+        "apunte": "Un concours scolaire qui finit accroché au mur du village : ils font décidément quelque chose de bien à Peñamayor.",
+        "enVeinte": [
+          "La Casa de Cultura Marta Portal de Nava présente des photographies sur la femme rurale jusqu'au 30 novembre.",
+          "Les images proviennent des éditions précédentes du concours de photographie de l'IES Peñamayor.",
+          "L'entrée est libre et l'exposition est ouverte au public tout au long du mois de novembre."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Pour ceux qui vivent à Nava ou dans les communes environnantes, c'est une sortie culturelle gratuite et accessible pendant plusieurs semaines, avec des images qui parlent d'une réalité proche.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava zeigt Fotos über die Frau auf dem Land",
+        "entradilla": "Die Bilder, die aus früheren Ausgaben des Wettbewerbs des IES Peñamayor stammen, sind bis Ende November in der Casa de Cultura Marta Portal zu sehen.",
+        "cuerpo": [
+          "Die Casa de Cultura Marta Portal in Nava beherbergt eine Fotoausstellung über Frauen im ländlichen Raum. Gezeigt werden ausgewählte Arbeiten aus früheren Ausgaben des Wettbewerbs, den das IES Peñamayor veranstaltet.",
+          "Die Ausstellung ist bis zum 30. November zu besichtigen."
+        ],
+        "apunte": "Ein Schulwettbewerb, der am Ende an der Dorfwand hängt: In Peñamayor machen sie offensichtlich etwas richtig.",
+        "enVeinte": [
+          "Die Casa de Cultura Marta Portal in Nava zeigt bis zum 30. November Fotografien über Frauen im ländlichen Raum.",
+          "Die Bilder stammen aus früheren Ausgaben des Fotowettbewerbs des IES Peñamayor.",
+          "Der Eintritt ist frei, und die Ausstellung ist den ganzen November über für die Öffentlichkeit zugänglich."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Für alle, die in Nava oder den umliegenden Gemeinden leben, ist es wochenlang ein kostenloses Kulturangebot in der Nähe – mit Bildern, die eine vertraute Wirklichkeit zeigen.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la casa de cultura marta portal de nava"
+    ]
+  },
+  {
+    "id": "medievalia-en-villaviciosa-recupera-el-sonido-de-los-instrumentos-de-l",
+    "url": "/villaviciosa/medievalia-en-villaviciosa-recupera-el-sonido-de-los-instrumentos-de-l/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Música medieval suena en el Teatro Riera",
+    "entradilla": "El domingo, un concierto reconstruye instrumentos rescatados de la iconografía medieval asturiana.",
+    "cuerpo": [
+      "El Teatro Riera de Villaviciosa acoge el domingo 18 de octubre el concierto «Canteros del Sonido», dentro del programa de Medievalia.",
+      "El proyecto reconstruye instrumentos históricos tomando como modelo las figuras talladas en la escultura medieval asturiana: la música que se escuchará no existe en ningún catálogo moderno, sino que sale de estudiar la piedra."
+    ],
+    "apunte": "Los canteros tallaron la piedra; ahora alguien afina lo que esculpieron.",
+    "enVeinte": [
+      "El domingo 18 de octubre, el Teatro Riera de Villaviciosa programa el concierto «Canteros del Sonido» en el marco de Medievalia.",
+      "El proyecto reconstruye instrumentos históricos a partir de la iconografía medieval asturiana.",
+      "Es una forma de hacer sonar músicas que solo existían grabadas en piedra."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Medievalia",
+      "como": "Me-die-va-lia",
+      "definicion": "Festival o ciclo cultural que Villaviciosa dedica a la cultura y las tradiciones medievales. El nombre alude directamente a la Edad Media y al patrimonio histórico de la villa."
+    },
+    "porQue": "Quien vive en el concejo tiene a diez minutos un concierto que no se programa en ningún otro sitio: música reconstruida desde la escultura asturiana, y sin salir de casa.",
+    "etiquetas": [
+      "Medievalia",
+      "Villaviciosa",
+      "música histórica",
+      "Teatro Riera"
+    ],
+    "fechaEvento": "2026-10-18",
+    "tipoEvento": "concierto",
+    "lugar": "Teatro Riera, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/medievalia-en-villaviciosa-recupera-el-sonido-de-l-eaa9108a.jpg",
+    "fecha": "2026-10-15T22:20:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/medievalia-en-villaviciosa-recupera-el-sonido-de-los-instrumentos-de-la-escultura-medieval-11276608.html",
+      "titularOriginal": "Medievalia en Villaviciosa recupera el sonido de los instrumentos de la escultura medieval"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Medieval music sounds at the Teatro Riera",
+        "entradilla": "On Sunday, a concert reconstructs instruments rescued from Asturian medieval iconography.",
+        "cuerpo": [
+          "The Teatro Riera in Villaviciosa hosts the concert «Canteros del Sonido» on Sunday 18 October, as part of the Medievalia programme.",
+          "The project reconstructs historical instruments using as a model the figures carved in Asturian medieval sculpture: the music to be heard does not exist in any modern catalogue — it comes from studying stone."
+        ],
+        "apunte": "The stonemasons carved the stone; now someone is tuning what they sculpted.",
+        "enVeinte": [
+          "On Sunday 18 October, the Teatro Riera in Villaviciosa presents the concert «Canteros del Sonido» as part of Medievalia.",
+          "The project reconstructs historical instruments based on Asturian medieval iconography.",
+          "It is a way of making music sound that only ever existed carved in stone."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Medievalia",
+          "como": "Me-die-va-lia",
+          "definicion": "A festival or cultural series that Villaviciosa dedicates to medieval culture and traditions. The name refers directly to the Middle Ages and to the historical heritage of the town."
+        },
+        "porQue": "Anyone living in the municipality has a concert ten minutes away that is programmed nowhere else: music reconstructed from Asturian sculpture, and without leaving home.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "De la musique médiévale résonne au Teatro Riera",
+        "entradilla": "Dimanche, un concert reconstruit des instruments tirés de l'iconographie médiévale asturienne.",
+        "cuerpo": [
+          "Le Teatro Riera de Villaviciosa accueille dimanche 18 octobre le concert « Canteros del Sonido », dans le cadre du programme Medievalia.",
+          "Le projet reconstruit des instruments historiques en prenant pour modèle les figures sculptées dans la statuaire médiévale asturienne : la musique que l'on entendra n'existe dans aucun catalogue moderne — elle naît de l'étude de la pierre."
+        ],
+        "apunte": "Les tailleurs de pierre ont sculpté la roche ; quelqu'un accorde aujourd'hui ce qu'ils ont ciselé.",
+        "enVeinte": [
+          "Dimanche 18 octobre, le Teatro Riera de Villaviciosa programme le concert « Canteros del Sonido » dans le cadre de Medievalia.",
+          "Le projet reconstruit des instruments historiques à partir de l'iconographie médiévale asturienne.",
+          "C'est une façon de faire résonner des musiques qui n'existaient que gravées dans la pierre."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Medievalia",
+          "como": "Me-die-va-lia",
+          "definicion": "Festival ou cycle culturel que Villaviciosa consacre à la culture et aux traditions médiévales. Le nom renvoie directement au Moyen Âge et au patrimoine historique de la ville."
+        },
+        "porQue": "Qui vit dans la commune a à dix minutes un concert que l'on ne programme nulle part ailleurs : de la musique reconstruite à partir de la sculpture asturienne, sans quitter son chez-soi.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Mittelalterliche Musik erklingt im Teatro Riera",
+        "entradilla": "Am Sonntag rekonstruiert ein Konzert Instrumente, die aus der mittelalterlichen asturischen Ikonografie geborgen wurden.",
+        "cuerpo": [
+          "Das Teatro Riera in Villaviciosa ist am Sonntag, dem 18. Oktober, Schauplatz des Konzerts «Canteros del Sonido» im Rahmen des Programms Medievalia.",
+          "Das Projekt rekonstruiert historische Instrumente anhand der Figuren, die in der mittelalterlichen asturischen Skulptur gemeißelt sind: Die Musik, die zu hören sein wird, existiert in keinem modernen Katalog — sie entsteht aus dem Studium des Steins."
+        ],
+        "apunte": "Die Steinmetze haben den Stein behauen; jetzt stimmt jemand das, was sie gemeißelt haben.",
+        "enVeinte": [
+          "Am Sonntag, dem 18. Oktober, zeigt das Teatro Riera in Villaviciosa das Konzert «Canteros del Sonido» im Rahmen von Medievalia.",
+          "Das Projekt rekonstruiert historische Instrumente auf der Grundlage der mittelalterlichen asturischen Ikonografie.",
+          "Es ist eine Möglichkeit, Musik erklingen zu lassen, die bislang nur in Stein gemeißelt existierte."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Medievalia",
+          "como": "Me-die-va-lia",
+          "definicion": "Festival oder Kulturzyklus, den Villaviciosa der mittelalterlichen Kultur und ihren Traditionen widmet. Der Name verweist unmittelbar auf das Mittelalter und das historische Erbe der Stadt."
+        },
+        "porQue": "Wer in der Gemeinde lebt, hat ein Konzert in zehn Minuten Entfernung, das nirgendwo sonst auf dem Programm steht: Musik, die aus asturischer Skulptur rekonstruiert wurde — und das ohne das eigene Zuhause zu verlassen.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el domingo 18 de octubre el concierto canteros",
+      "domingo 18 de octubre el concierto canteros del",
+      "18 de octubre el concierto canteros del sonido"
+    ]
+  },
+  {
+    "id": "la-benefica-y-laboral-buscan-tres-centros-publicos-asturianos-para-apr",
+    "url": "/pilona/la-benefica-y-laboral-buscan-tres-centros-publicos-asturianos-para-apr/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Arte en las aulas: buscan tres centros asturianos",
+    "entradilla": "La Benéfica y LABoral abren el plazo para que colegios e institutos públicos se metan de lleno en cine, escritura o memoria del territorio.",
+    "cuerpo": [
+      "La convocatoria ARTE + ESCUELA 2026/2027 está abierta y busca tres centros públicos de Asturias dispuestos a trabajar proyectos artísticos durante el curso. Las entidades promotoras son La Benéfica y LABoral.",
+      "Las propuestas giran en torno a tres ejes: cine, creación literaria y memoria del territorio. Un menú que da margen para que cada centro llegue desde lo que tiene más cerca."
+    ],
+    "apunte": "El plazo cierra el 9 de noviembre: tiempo justo para que el claustro lo hable y se anime.",
+    "enVeinte": [
+      "La Benéfica y LABoral buscan tres centros públicos asturianos para el programa ARTE + ESCUELA 2026/2027.",
+      "Los proyectos pueden ser de cine, creación literaria o memoria del territorio.",
+      "El plazo de inscripción se cierra el 9 de noviembre de 2026."
+    ],
+    "cifra": {
+      "numero": "3",
+      "unidad": "centros",
+      "glosa": "Solo se seleccionarán tres centros públicos en toda Asturias, así que la plaza es escasa y la competencia puede ser alta."
+    },
+    "palabra": null,
+    "porQue": "Si hay un colegio o instituto en el concejo con ganas de hacer algo distinto este curso, tiene hasta el 9 de noviembre para presentarse.",
+    "etiquetas": [
+      "educación",
+      "arte",
+      "convocatoria",
+      "Asturias"
+    ],
+    "fechaEvento": "2026-11-09",
+    "tipoEvento": "taller",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/la-benefica-y-laboral-buscan-tres-centros-publicos-11276606.jpg",
+    "fecha": "2026-10-15T21:11:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/la-benefica-y-laboral-buscan-tres-centros-publicos-asturianos-para-aprender-a-traves-del-arte-11276606.html",
+      "titularOriginal": "La Benéfica y LABoral buscan tres centros públicos asturianos para aprender a través del arte"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Art in the classroom: three Asturian schools wanted",
+        "entradilla": "La Benéfica and LABoral open the call for state schools to dive into film, writing or local memory.",
+        "cuerpo": [
+          "The ARTE + ESCUELA 2026/2027 call is open and looking for three state schools in Asturias willing to work on artistic projects throughout the school year. The organisations behind it are La Benéfica and LABoral.",
+          "The proposals revolve around three themes: film, literary creation and memory of the territory. A menu broad enough for each school to start from what is closest to home."
+        ],
+        "apunte": "The deadline is 9 November — just enough time for the staff to talk it over and take the plunge.",
+        "enVeinte": [
+          "La Benéfica and LABoral are looking for three Asturian state schools for the ARTE + ESCUELA 2026/2027 programme.",
+          "Projects can focus on film, literary creation or memory of the territory.",
+          "The application deadline is 9 November 2026."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "schools",
+          "glosa": "Only three state schools will be selected across the whole of Asturias, so places are scarce and competition may be high."
+        },
+        "palabra": null,
+        "porQue": "If there is a school in the municipality keen to do something different this year, it has until 9 November to apply.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'art en classe : trois établissements asturiens recherchés",
+        "entradilla": "La Benéfica et LABoral ouvrent l'appel à candidatures pour que des écoles et lycées publics se lancent dans le cinéma, l'écriture ou la mémoire du territoire.",
+        "cuerpo": [
+          "L'appel ARTE + ESCUELA 2026/2027 est ouvert et cherche trois établissements publics d'Asturies prêts à mener des projets artistiques tout au long de l'année scolaire. Les entités porteuses sont La Benéfica et LABoral.",
+          "Les projets s'articulent autour de trois axes : cinéma, création littéraire et mémoire du territoire. Un menu suffisamment ouvert pour que chaque établissement parte de ce qu'il a le plus à portée de main."
+        ],
+        "apunte": "La date limite est le 9 novembre : tout juste le temps d'en discuter en conseil des enseignants et de se lancer.",
+        "enVeinte": [
+          "La Benéfica et LABoral recherchent trois établissements publics asturiens pour le programme ARTE + ESCUELA 2026/2027.",
+          "Les projets peuvent porter sur le cinéma, la création littéraire ou la mémoire du territoire.",
+          "La date limite d'inscription est le 9 novembre 2026."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "établissements",
+          "glosa": "Seuls trois établissements publics seront sélectionnés dans toute l'Asturies : les places sont rares et la concurrence peut être élevée."
+        },
+        "palabra": null,
+        "porQue": "S'il existe une école ou un lycée dans la commune qui souhaite faire quelque chose de différent cette année, il lui reste jusqu'au 9 novembre pour candidater.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Kunst im Unterricht: drei asturische Schulen gesucht",
+        "entradilla": "La Benéfica und LABoral eröffnen die Ausschreibung für öffentliche Schulen und Institute, die sich auf Film, Schreiben oder lokale Erinnerungsarbeit einlassen wollen.",
+        "cuerpo": [
+          "Die Ausschreibung ARTE + ESCUELA 2026/2027 ist offen und sucht drei öffentliche Schulen in Asturien, die bereit sind, im Laufe des Schuljahres künstlerische Projekte zu erarbeiten. Die Trägerorganisationen sind La Benéfica und LABoral.",
+          "Die Vorschläge drehen sich um drei Schwerpunkte: Film, literarisches Schreiben und Gedächtnis des Territoriums. Ein Angebot, das jeder Schule Spielraum lässt, von dem auszugehen, was ihr am nächsten liegt."
+        ],
+        "apunte": "Die Frist endet am 9. November — gerade genug Zeit, um es im Kollegium zu besprechen und den Schritt zu wagen.",
+        "enVeinte": [
+          "La Benéfica und LABoral suchen drei öffentliche asturische Schulen für das Programm ARTE + ESCUELA 2026/2027.",
+          "Die Projekte können sich auf Film, literarisches Schreiben oder Gedächtnis des Territoriums beziehen.",
+          "Die Anmeldefrist endet am 9. November 2026."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "Schulen",
+          "glosa": "In ganz Asturien werden nur drei öffentliche Schulen ausgewählt — die Plätze sind knapp und der Wettbewerb kann hoch sein."
+        },
+        "palabra": null,
+        "porQue": "Wenn es in der Gemeinde eine Schule gibt, die in diesem Jahr etwas Besonderes machen möchte, hat sie bis zum 9. November Zeit, sich zu bewerben.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-p",
+    "url": "/cabrales/picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-p/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "avisos",
+    "titular": "El Cares corta dos puentes por obras sin fecha",
+    "entradilla": "Quien quiera andar la Garganta Divina esta temporada tendrá que conformarse con tramos de ida y vuelta, sin poder cruzar de punta a punta.",
+    "cuerpo": [
+      "El Parque Nacional de Picos de Europa ha cerrado dos pasos de la Ruta del Cares por trabajos de reparación: el Puente de los Rebecos, a tres kilómetros de Caín, y el Puente de Bolín, a ocho kilómetros de Poncebos. Mientras duren las obras, no hay manera de completar el recorrido completo entre León y Asturias.",
+      "Los senderistas sí pueden entrar por cualquiera de los dos extremos, pero tienen que volver por donde han venido. La dirección del parque atribuye los cortes al desgaste detectado en esas infraestructuras y asegura que los trabajos avanzan a toda velocidad, aunque no ha puesto fecha de reapertura.",
+      "Quien tenga una visita planeada debería consultarlo antes de salir: el parque comunicará el fin de las obras por sus canales oficiales cuando los puentes vuelvan a estar en servicio."
+    ],
+    "apunte": "Decenas de miles de senderistas al año, y justo ahora sin puente.",
+    "enVeinte": [
+      "El Parque Nacional de Picos de Europa ha cerrado dos puentes de la Ruta del Cares por obras de reparación.",
+      "No se puede hacer el recorrido completo entre Poncebos y Caín; solo tramos de ida y vuelta desde cada extremo.",
+      "No hay fecha de reapertura; el parque avisará por sus canales cuando los puentes estén listos."
+    ],
+    "cifra": {
+      "numero": "8",
+      "unidad": "kilómetros",
+      "glosa": "El Puente de Bolín, el más alejado desde el lado asturiano, está a ocho kilómetros de Poncebos. Eso significa que quien salga desde aquí puede andar ese trecho, pero tendrá que darse la vuelta antes de llegar al corte."
+    },
+    "palabra": {
+      "termino": "Poncebos",
+      "como": "Pón-ce-bos",
+      "definicion": "Pequeña localidad del concejo de Cabrales que hace de puerta asturiana a la Ruta del Cares. Por aquí arranca el sendero que sube a la Garganta Divina siguiendo el desfiladero del río Cares."
+    },
+    "porQue": "Cualquier vecino de Cabrales o visitante que tenga pensado bajar al Cares estas semanas de otoño debe saber que la travesía completa está cortada: no hay paso por los dos puentes y no hay fecha para que vuelvan a abrirse.",
+    "etiquetas": [
+      "Picos de Europa",
+      "Ruta del Cares",
+      "obras",
+      "senderismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Ruta del Cares (Poncebos, Asturias – Caín, León)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/RUTA-DEL-CARES-acceso-restringido.png.jpeg",
+    "fecha": "2026-10-15T20:11:27.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://coperibadesella.com/15/10/2026/picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-por-obras/",
+      "titularOriginal": "Picos de Europa restringe el paso en la Ruta del Cares en dos tramos por obras"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Cares closes two bridges for works with no end date",
+        "entradilla": "Anyone planning to walk the Garganta Divina this season will have to settle for out-and-back sections, with no way to cross from one end to the other.",
+        "cuerpo": [
+          "The Picos de Europa National Park has closed two crossings on the Ruta del Cares for repair works: the Puente de los Rebecos, three kilometres from Caín, and the Puente de Bolín, eight kilometres from Poncebos. While the works last, there is no way to complete the full route between León and Asturias.",
+          "Walkers can still enter from either end, but they must return the way they came. The park's management attributes the closures to wear and tear detected in those structures and says the works are progressing at full speed, though no reopening date has been given.",
+          "Anyone with a visit planned should check before setting out: the park will announce the end of the works through its official channels when the bridges are back in service."
+        ],
+        "apunte": "Tens of thousands of walkers a year, and right now there is no bridge.",
+        "enVeinte": [
+          "The Picos de Europa National Park has closed two bridges on the Ruta del Cares for repair works.",
+          "The full route between Poncebos and Caín cannot be completed; only out-and-back sections from each end.",
+          "No reopening date has been set; the park will announce when the bridges are ready through its official channels."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "kilometres",
+          "glosa": "The Puente de Bolín, the furthest point from the Asturian side, is eight kilometres from Poncebos. That means anyone setting off from here can walk that stretch, but will have to turn back before reaching the closure."
+        },
+        "palabra": {
+          "termino": "Poncebos",
+          "como": "Pón-ce-bos",
+          "definicion": "A small village in the municipality of Cabrales that serves as the Asturian gateway to the Ruta del Cares. This is where the path begins, climbing into the Garganta Divina along the gorge of the river Cares."
+        },
+        "porQue": "Any resident of Cabrales or visitor planning to walk down to the Cares in these autumn weeks should know that the full crossing is closed: there is no passage across either of the two bridges, and no date has been set for them to reopen.",
+        "lugar": "Ruta del Cares (Poncebos, Asturias – Caín, León)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Cares ferme deux ponts pour des travaux sans date connue",
+        "entradilla": "Ceux qui souhaitent parcourir la Garganta Divina cette saison devront se contenter de tronçons aller-retour, sans pouvoir traverser d'un bout à l'autre.",
+        "cuerpo": [
+          "Le Parc national des Picos de Europa a fermé deux passages de la Ruta del Cares pour des travaux de réfection : le Puente de los Rebecos, à trois kilomètres de Caín, et le Puente de Bolín, à huit kilomètres de Poncebos. Le temps que durent les travaux, il est impossible d'effectuer le parcours complet entre León et les Asturies.",
+          "Les randonneurs peuvent entrer par l'un ou l'autre des deux accès, mais ils doivent rebrousser chemin. La direction du parc attribue les fermetures à l'usure constatée sur ces ouvrages et assure que les travaux avancent rapidement, bien qu'aucune date de réouverture n'ait été annoncée.",
+          "Toute personne ayant planifié une visite devrait vérifier la situation avant de partir : le parc annoncera la fin des travaux par ses canaux officiels dès que les ponts seront de nouveau en service."
+        ],
+        "apunte": "Des dizaines de milliers de randonneurs par an, et justement maintenant plus de pont.",
+        "enVeinte": [
+          "Le Parc national des Picos de Europa a fermé deux ponts de la Ruta del Cares pour des travaux de réfection.",
+          "Le parcours complet entre Poncebos et Caín est impossible ; seuls des tronçons aller-retour depuis chaque extrémité sont accessibles.",
+          "Aucune date de réouverture n'a été fixée ; le parc avisera par ses canaux officiels lorsque les ponts seront prêts."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "kilomètres",
+          "glosa": "Le Puente de Bolín, le plus éloigné depuis le côté asturien, se trouve à huit kilomètres de Poncebos. Cela signifie que les personnes qui partent de là peuvent parcourir ce tronçon, mais devront faire demi-tour avant d'atteindre la coupure."
+        },
+        "palabra": {
+          "termino": "Poncebos",
+          "como": "Pón-ce-bos",
+          "definicion": "Petit village de la commune de Cabrales qui constitue la porte asturienne de la Ruta del Cares. C'est ici que commence le sentier qui monte dans la Garganta Divina en longeant les gorges de la rivière Cares."
+        },
+        "porQue": "Tout habitant de Cabrales ou visiteur ayant prévu de descendre au Cares ces semaines d'automne doit savoir que la traversée complète est coupée : les deux ponts sont impraticables et aucune date de réouverture n'a été fixée.",
+        "lugar": "Ruta del Cares (Poncebos, Asturies – Caín, León)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Cares sperrt zwei Brücken für Bauarbeiten ohne Enddatum",
+        "entradilla": "Wer die Garganta Divina in dieser Saison erwandern möchte, muss sich mit Hin-und-zurück-Abschnitten begnügen – eine Durchquerung von einem Ende zum anderen ist nicht möglich.",
+        "cuerpo": [
+          "Der Nationalpark Picos de Europa hat zwei Übergänge auf der Ruta del Cares für Reparaturarbeiten gesperrt: die Puente de los Rebecos, drei Kilometer von Caín entfernt, und die Puente de Bolín, acht Kilometer von Poncebos entfernt. Solange die Arbeiten andauern, ist es nicht möglich, die gesamte Strecke zwischen León und Asturien zurückzulegen.",
+          "Wanderer können von beiden Seiten einsteigen, müssen jedoch denselben Weg zurückgehen. Die Parkverwaltung führt die Sperrungen auf Verschleißerscheinungen an diesen Bauwerken zurück und versichert, dass die Arbeiten zügig voranschreiten – ein Wiedereröffnungsdatum wurde jedoch nicht genannt.",
+          "Wer einen Besuch geplant hat, sollte vor der Abreise die aktuelle Lage prüfen: Der Park wird die Fertigstellung der Arbeiten über seine offiziellen Kanäle bekannt geben, sobald die Brücken wieder passierbar sind."
+        ],
+        "apunte": "Zehntausende Wanderer pro Jahr – und ausgerechnet jetzt keine Brücke.",
+        "enVeinte": [
+          "Der Nationalpark Picos de Europa hat zwei Brücken auf der Ruta del Cares für Reparaturarbeiten gesperrt.",
+          "Die vollständige Strecke zwischen Poncebos und Caín ist nicht begehbar; nur Hin-und-zurück-Abschnitte von jedem Ende aus sind möglich.",
+          "Ein Wiedereröffnungsdatum steht nicht fest; der Park gibt über seine offiziellen Kanäle Bescheid, sobald die Brücken fertig sind."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "Kilometer",
+          "glosa": "Die Puente de Bolín, der am weitesten entfernte Punkt von der asturischen Seite aus, liegt acht Kilometer von Poncebos entfernt. Wer von dort aufbricht, kann diesen Abschnitt zurücklegen, muss aber vor der Sperrung umkehren."
+        },
+        "palabra": {
+          "termino": "Poncebos",
+          "como": "Pón-ce-bos",
+          "definicion": "Kleiner Ort in der Gemeinde Cabrales, der als asturisches Eingangstor zur Ruta del Cares dient. Hier beginnt der Wanderweg, der durch die Schlucht des Flusses Cares hinauf in die Garganta Divina führt."
+        },
+        "porQue": "Jeder Bewohner von Cabrales und jeder Besucher, der in diesen Herbstwochen zum Cares hinabsteigen möchte, sollte wissen, dass die vollständige Durchquerung gesperrt ist: Beide Brücken sind nicht passierbar, und ein Datum für die Wiedereröffnung steht nicht fest.",
+        "lugar": "Ruta del Cares (Poncebos, Asturien – Caín, León)",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-apa",
     "url": "/villaviciosa/villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-apa/",
     "concejo": "Villaviciosa",

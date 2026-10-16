@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-15T19:19:51.647Z",
+  "fecha": "2026-10-16T05:13:24.880Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa estrena 360 plazas nuevas gracias a una reorganización del tráfico del centro.",
-      "enlace": "/villaviciosa/villaviciosa-reorganiza-el-trafico-para-crear-360-nuevas-plazas-de-apa/"
+      "concejo": "Cabrales",
+      "frase": "El Cares corta dos puentes: quien vaya a la Garganta no puede cruzarla entera.",
+      "enlace": "/cabrales/picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-p/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "La Benéfica y LABoral buscan tres colegios o institutos asturianos para proyectos de arte.",
+      "enlace": "/pilona/la-benefica-y-laboral-buscan-tres-centros-publicos-asturianos-para-apr/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "La sala de estudios de Villaviciosa ya tiene reglamento: el uso del espacio queda regulado.",
-      "enlace": "/villaviciosa/noticia/"
+      "frase": "El domingo, música medieval con instrumentos rescatados de imágenes asturianas, en el Teatro Riera.",
+      "enlace": "/villaviciosa/medievalia-en-villaviciosa-recupera-el-sonido-de-los-instrumentos-de-l/"
     }
   ]
 }
