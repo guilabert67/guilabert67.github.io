@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-17T04:18:48.838Z",
+  "fecha": "2026-10-17T12:31:59.304Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "Las tres escuelines de Llanes pasan al Principado desde el 1 de noviembre.",
-      "enlace": "/cabrales/llanes-aprueba-la-integracion-de-sus-tres-escuelines-en-la-red-autonom/"
+      "concejo": "Villaviciosa",
+      "frase": "Arranca la red de saneamiento para la ría de Villaviciosa, con 2,1 millones invertidos.",
+      "enlace": "/villaviciosa/comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "L'Infiestu recibe hoy a veinticuatro emprendedoras de catorce municipios asturianos.",
+      "enlace": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El Rodiles vuelve al fútbol sala este sábado visitando al Ourense.",
-      "enlace": "/villaviciosa/el-gaitero-rodiles-retoma-la-competicion-midiendose-a-domicilio-al-our/"
+      "frase": "Musllera, El Picu y Rodiles mejoran su saneamiento: llegarán a unas 500 personas.",
+      "enlace": "/villaviciosa/villaviciosa-inicia-el-saneamiento-de-musllera-el-picu-y-rodiles-con-u/"
     }
   ]
 }

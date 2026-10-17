@@ -1,5 +1,356 @@
 [
   {
+    "id": "el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex",
+    "url": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "L'Infiestu acoge la IV Feria de Emprendedoras",
+    "entradilla": "Veinticuatro mujeres de catorce municipios asturianos exponen sus negocios en la capital de Piloña.",
+    "cuerpo": [
+      "La vicepresidenta del Gobierno de Asturias, Gimena Llamedo, inauguró la cuarta edición de la Feria de Emprendedoras celebrada en L'Infiestu, con 24 expositoras llegadas de 14 municipios de la región.",
+      "Llamedo subrayó en el acto la necesidad de respaldar los proyectos empresariales que llevan al frente mujeres, una apuesta que el Gobierno regional lleva ya cuatro ediciones convirtiendo en escaparate público."
+    ],
+    "apunte": "Catorce concejos en un mismo recinto: el mapa del emprendimiento femenino asturiano cabe en L'Infiestu.",
+    "enVeinte": [
+      "La IV Feria de Emprendedoras se celebró en L'Infiestu con 24 expositoras de 14 municipios asturianos.",
+      "La vicepresidenta Gimena Llamedo inauguró el evento y destacó la importancia de apoyar los negocios liderados por mujeres.",
+      "Es la cuarta edición de esta feria impulsada por el Gobierno de Asturias."
+    ],
+    "cifra": {
+      "numero": "24",
+      "unidad": "expositoras",
+      "glosa": "Veinticuatro mujeres empresarias participaron en la feria, procedentes de 14 municipios distintos. Es la cifra más amplia en cuanto a representación territorial que recoge el titular de la noticia."
+    },
+    "palabra": null,
+    "porQue": "Una feria así en L'Infiestu pone a Piloña en el centro del debate sobre emprendimiento femenino en Asturias, y da visibilidad a negocios de la zona que de otro modo apenas tienen escaparate regional.",
+    "etiquetas": [
+      "emprendimiento",
+      "mujeres",
+      "Piloña",
+      "Gobierno de Asturias"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "L'Infiestu",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprend-14624.jpg",
+    "fecha": "2026-10-17T12:06:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-expositoras-de-14-municipios-11276637.html",
+      "titularOriginal": "El Gobierno de Asturias celebra la IV Feria de Emprendedoras con 24 expositoras de 14 municipios"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "L'Infiestu hosts the IV Feria de Emprendedoras",
+        "entradilla": "Twenty-four women from fourteen Asturian municipalities showcase their businesses in the capital of the Piloña municipality.",
+        "cuerpo": [
+          "The Vice-President of the Government of Asturias, Gimena Llamedo, opened the fourth edition of the Feria de Emprendedoras, held in L'Infiestu, with 24 exhibitors from 14 municipalities across the region.",
+          "At the event, Llamedo stressed the need to support business projects led by women — a commitment the regional government has now turned into a public showcase across four consecutive editions."
+        ],
+        "apunte": "Fourteen municipalities under one roof: the map of Asturian female entrepreneurship fits inside L'Infiestu.",
+        "enVeinte": [
+          "The IV Feria de Emprendedoras was held in L'Infiestu with 24 exhibitors from 14 Asturian municipalities.",
+          "Vice-President Gimena Llamedo opened the event and highlighted the importance of supporting businesses led by women.",
+          "This is the fourth edition of the fair, promoted by the Government of Asturias."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "exhibitors",
+          "glosa": "Twenty-four women business owners took part in the fair, coming from 14 different municipalities. It is the broadest figure in terms of territorial representation mentioned in the headline."
+        },
+        "palabra": null,
+        "porQue": "A fair like this in L'Infiestu puts Piloña at the centre of the debate on female entrepreneurship in Asturias, and gives visibility to local businesses that would otherwise have little regional platform.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'Infiestu accueille la IV Feria de Emprendedoras",
+        "entradilla": "Vingt-quatre femmes venues de quatorze communes asturiennes présentent leurs entreprises dans la capitale de la commune de Piloña.",
+        "cuerpo": [
+          "La vice-présidente du gouvernement des Asturies, Gimena Llamedo, a inauguré la quatrième édition de la Feria de Emprendedoras à L'Infiestu, en présence de 24 exposantes venues de 14 communes de la région.",
+          "Lors de la cérémonie, Llamedo a souligné la nécessité de soutenir les projets d'entreprise portés par des femmes — un engagement que le gouvernement régional transforme en vitrine publique depuis quatre éditions consécutives."
+        ],
+        "apunte": "Quatorze communes réunies sous un même toit : la carte de l'entrepreneuriat féminin asturien tient entière à L'Infiestu.",
+        "enVeinte": [
+          "La IV Feria de Emprendedoras s'est tenue à L'Infiestu avec 24 exposantes issues de 14 communes asturiennes.",
+          "La vice-présidente Gimena Llamedo a inauguré l'événement et souligné l'importance de soutenir les entreprises dirigées par des femmes.",
+          "Il s'agit de la quatrième édition de cette foire portée par le gouvernement des Asturies."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "exposantes",
+          "glosa": "Vingt-quatre femmes chefs d'entreprise ont participé à la foire, venues de 14 communes différentes. C'est le chiffre le plus large en termes de représentation territoriale mentionné dans le titre de l'article."
+        },
+        "palabra": null,
+        "porQue": "Une foire de ce type à L'Infiestu place Piloña au cœur du débat sur l'entrepreneuriat féminin aux Asturies, et donne de la visibilité à des entreprises locales qui, autrement, disposeraient de peu de vitrine régionale.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      },
+      "de": {
+        "titular": "L'Infiestu ist Gastgeber der IV Feria de Emprendedoras",
+        "entradilla": "Vierundzwanzig Frauen aus vierzehn asturischen Gemeinden stellen ihre Unternehmen in der Hauptstadt der Gemeinde Piloña vor.",
+        "cuerpo": [
+          "Die Vizepräsidentin der Regierung Asturiens, Gimena Llamedo, eröffnete die vierte Ausgabe der Feria de Emprendedoras in L'Infiestu mit 24 Ausstellerinnen aus 14 Gemeinden der Region.",
+          "Llamedo betonte bei der Veranstaltung die Notwendigkeit, von Frauen geführte Unternehmensvorhaben zu fördern — ein Engagement, das die Regionalregierung nun bereits in vier aufeinanderfolgenden Ausgaben in ein öffentliches Schaufenster verwandelt hat."
+        ],
+        "apunte": "Vierzehn Gemeinden unter einem Dach: Die Landkarte des weiblichen Unternehmertums in Asturien findet in L'Infiestu Platz.",
+        "enVeinte": [
+          "Die IV Feria de Emprendedoras fand in L'Infiestu mit 24 Ausstellerinnen aus 14 asturischen Gemeinden statt.",
+          "Vizepräsidentin Gimena Llamedo eröffnete die Veranstaltung und betonte die Bedeutung der Förderung von Unternehmen unter weiblicher Führung.",
+          "Es ist die vierte Ausgabe dieser Messe, die von der Regierung Asturiens getragen wird."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "Ausstellerinnen",
+          "glosa": "Vierundzwanzig Unternehmerinnen nahmen an der Messe teil und kamen aus 14 verschiedenen Gemeinden. Das ist die breiteste Zahl in Bezug auf die territoriale Repräsentation, die in der Überschrift des Artikels genannt wird."
+        },
+        "palabra": null,
+        "porQue": "Eine solche Messe in L'Infiestu rückt Piloña in den Mittelpunkt der Debatte über weibliches Unternehmertum in Asturien und gibt lokalen Betrieben Sichtbarkeit, die sonst kaum eine regionale Bühne hätten.",
+        "lugar": "L'Infiestu",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid",
+    "url": "/villaviciosa/comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Arranca la red de saneamiento para la ría",
+    "entradilla": "Las obras, con un presupuesto de 2,1 millones de euros, llegan tras años de demanda vecinal.",
+    "cuerpo": [
+      "Villaviciosa echa a andar una obra que llevaba tiempo pendiente: la construcción de una red de saneamiento para cortar los vertidos que llegan a la ría. Los trabajos ya han comenzado.",
+      "La infraestructura dará cobertura a los núcleos de Muslera, El Pico y Rodiles, zonas que hasta ahora no contaban con este servicio."
+    ],
+    "apunte": "La ría llevaba esperando esta red más tiempo del que conviene recordar.",
+    "enVeinte": [
+      "Han arrancado las obras de una red de saneamiento en Villaviciosa para evitar vertidos a la ría.",
+      "La actuación cuesta 2,1 millones de euros y beneficiará a Muslera, El Pico y Rodiles.",
+      "Era una demanda histórica del concejo que por fin pasa del papel a la excavadora."
+    ],
+    "cifra": {
+      "numero": "2,1 millones",
+      "unidad": "euros",
+      "glosa": "Es el coste total de la obra. Una infraestructura de saneamiento de este tipo implica tendido de tuberías, pozos de registro y conexiones a la red general, lo que explica la envergadura de la inversión."
+    },
+    "palabra": null,
+    "porQue": "Muslera, El Pico y Rodiles tendrán por fin saneamiento, y la ría dejará de recibir vertidos de esas zonas, algo que afecta tanto a la calidad del agua como al entorno natural de la costa de Villaviciosa.",
+    "etiquetas": [
+      "saneamiento",
+      "ría de Villaviciosa",
+      "obras",
+      "Rodiles"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/17/saneamiento-obras-ria-villaviciosa-R4BHMVaqBWLfl56EXqiZsbP-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-17T11:24:23.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/comienza-construccion-red-saneamiento-eliminara-vertidos-ria-20261017132423-nt.html",
+      "titularOriginal": "Comienza la construcción de la red de saneamiento que eliminará vertidos a la ría de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Work begins on the estuary's sewage network",
+        "entradilla": "The works, with a budget of 2.1 million euros, come after years of pressure from residents.",
+        "cuerpo": [
+          "Villaviciosa is getting under way with a long-overdue project: the construction of a sewage network to stop discharges reaching the estuary. Work has already begun.",
+          "The infrastructure will serve the settlements of Muslera, El Pico and Rodiles, areas that until now had no access to this service."
+        ],
+        "apunte": "The estuary had been waiting for this network for longer than anyone cares to remember.",
+        "enVeinte": [
+          "Work has started on a sewage network in Villaviciosa to prevent discharges into the estuary.",
+          "The project costs 2.1 million euros and will benefit Muslera, El Pico and Rodiles.",
+          "It was a longstanding demand from the municipality that has finally moved from paper to digger."
+        ],
+        "cifra": {
+          "numero": "2.1 million",
+          "unidad": "euros",
+          "glosa": "This is the total cost of the works. A sewage infrastructure of this kind involves laying pipes, installing inspection chambers and connecting to the main network, which explains the scale of the investment."
+        },
+        "palabra": null,
+        "porQue": "Muslera, El Pico and Rodiles will finally have proper sewage facilities, and the estuary will stop receiving discharges from those areas — something that affects both water quality and the natural environment along the Villaviciosa coast.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le réseau d'assainissement pour la ria démarre enfin",
+        "entradilla": "Les travaux, dotés d'un budget de 2,1 millions d'euros, arrivent après des années de demandes des habitants.",
+        "cuerpo": [
+          "Villaviciosa lance un chantier attendu depuis longtemps : la construction d'un réseau d'assainissement pour mettre fin aux rejets qui atteignent la ria. Les travaux ont déjà commencé.",
+          "L'infrastructure desservira les hameaux de Muslera, El Pico et Rodiles, des zones qui jusqu'ici n'étaient pas raccordées à ce service."
+        ],
+        "apunte": "La ria attendait ce réseau depuis plus longtemps qu'il n'est bon de s'en souvenir.",
+        "enVeinte": [
+          "Les travaux d'un réseau d'assainissement ont démarré à Villaviciosa pour éviter les rejets dans la ria.",
+          "L'opération coûte 2,1 millions d'euros et profitera à Muslera, El Pico et Rodiles.",
+          "C'était une demande de longue date de la commune qui passe enfin des plans à la pelleteuse."
+        ],
+        "cifra": {
+          "numero": "2,1 millions",
+          "unidad": "euros",
+          "glosa": "C'est le coût total des travaux. Une infrastructure d'assainissement de ce type implique la pose de canalisations, l'installation de regards de visite et des raccordements au réseau général, ce qui explique l'ampleur de l'investissement."
+        },
+        "palabra": null,
+        "porQue": "Muslera, El Pico et Rodiles disposeront enfin d'un réseau d'assainissement, et la ria cessera de recevoir des rejets en provenance de ces zones — ce qui touche aussi bien la qualité de l'eau que l'environnement naturel du littoral de Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Bau des Abwassernetzes für die Ría beginnt",
+        "entradilla": "Die Arbeiten mit einem Budget von 2,1 Millionen Euro kommen nach jahrelangen Forderungen der Anwohner.",
+        "cuerpo": [
+          "Villaviciosa nimmt ein seit Langem ausstehendes Projekt in Angriff: den Bau eines Abwassernetzes, das Einleitungen in die Ría unterbinden soll. Die Arbeiten haben bereits begonnen.",
+          "Die Infrastruktur wird die Ortschaften Muslera, El Pico und Rodiles versorgen — Gebiete, die bislang über keinen Anschluss an diesen Dienst verfügten."
+        ],
+        "apunte": "Die Ría wartete auf dieses Netz länger, als man sich gerne erinnert.",
+        "enVeinte": [
+          "In Villaviciosa haben die Arbeiten an einem Abwassernetz begonnen, um Einleitungen in die Ría zu verhindern.",
+          "Das Projekt kostet 2,1 Millionen Euro und kommt Muslera, El Pico und Rodiles zugute.",
+          "Es war eine langjährige Forderung der Gemeinde, die endlich vom Papier zum Bagger wird."
+        ],
+        "cifra": {
+          "numero": "2,1 Millionen",
+          "unidad": "Euro",
+          "glosa": "Das sind die Gesamtkosten des Projekts. Eine Abwasserinfrastruktur dieser Art umfasst die Verlegung von Rohren, den Einbau von Kontrollschächten und den Anschluss an das Hauptnetz — das erklärt den Umfang der Investition."
+        },
+        "palabra": null,
+        "porQue": "Muslera, El Pico und Rodiles erhalten endlich eine Abwasserversorgung, und die Ría wird keine Einleitungen aus diesen Gebieten mehr aufnehmen müssen — etwas, das sowohl die Wasserqualität als auch die natürliche Umgebung der Küste von Villaviciosa betrifft.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-inicia-el-saneamiento-de-musllera-el-picu-y-rodiles-con-u",
+    "url": "/villaviciosa/villaviciosa-inicia-el-saneamiento-de-musllera-el-picu-y-rodiles-con-u/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa mejora el saneamiento de tres zonas costeras",
+    "entradilla": "Las obras en Musllera, El Picu y Rodiles llegarán a unas 500 personas y suponen una inversión de más de dos millones de euros.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa pone en marcha el saneamiento de tres núcleos del concejo: Musllera, El Picu y Rodiles. La inversión prevista ronda los 2,17 millones de euros.",
+      "Según los datos del proyecto, la mejora beneficiará a unos 500 vecinos y vecinas de esas zonas."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Villaviciosa inicia las obras de saneamiento en Musllera, El Picu y Rodiles.",
+      "La inversión asciende a 2,17 millones de euros.",
+      "El proyecto dará servicio a una población estimada de unas 500 personas."
+    ],
+    "cifra": {
+      "numero": "2,17 millones",
+      "unidad": "euros",
+      "glosa": "Es lo que costará renovar la red de saneamiento en tres núcleos del concejo. Una inversión de este tamaño suele requerir financiación supramunicipal, aunque la fuente no detalla su origen."
+    },
+    "palabra": null,
+    "porQue": "Un saneamiento en mal estado afecta a la salud, al medio ambiente y al valor de las viviendas: que estas obras arranquen es una buena noticia para quienes viven en esas zonas.",
+    "etiquetas": [
+      "saneamiento",
+      "Villaviciosa",
+      "obras",
+      "Rodiles"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/17/2026101710354991419.jpg",
+    "fecha": "2026-10-17T10:39:49.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-obras-saneamiento-rodiles/20261017123949104702.html",
+      "titularOriginal": "Villaviciosa inicia el saneamiento de Musllera, El Picu y Rodiles con una inversión de 2,17 millones"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa improves sewage infrastructure in three coastal areas",
+        "entradilla": "Works in Musllera, El Picu and Rodiles will benefit around 500 people and represent an investment of over two million euros.",
+        "cuerpo": [
+          "The Villaviciosa council is launching a sewage improvement scheme for three settlements in the municipality: Musllera, El Picu and Rodiles. The planned investment stands at around 2.17 million euros.",
+          "According to the project data, the improvements will benefit approximately 500 residents in those areas."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa begins sewage works in Musllera, El Picu and Rodiles.",
+          "The investment amounts to 2.17 million euros.",
+          "The project will serve an estimated population of around 500 people."
+        ],
+        "cifra": {
+          "numero": "2.17 million",
+          "unidad": "euros",
+          "glosa": "This is the cost of upgrading the sewage network in three settlements of the municipality. An investment of this size typically requires funding from above the local level, although the source does not specify its origin."
+        },
+        "palabra": null,
+        "porQue": "A failing sewage system affects public health, the environment and property values: the start of these works is good news for the people who live in those areas.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa améliore l'assainissement de trois zones côtières",
+        "entradilla": "Les travaux à Musllera, El Picu et Rodiles concerneront environ 500 personnes et représentent un investissement de plus de deux millions d'euros.",
+        "cuerpo": [
+          "La mairie de Villaviciosa lance l'amélioration de l'assainissement dans trois localités de la commune : Musllera, El Picu et Rodiles. L'investissement prévu avoisine les 2,17 millions d'euros.",
+          "Selon les données du projet, l'amélioration bénéficiera à environ 500 habitants de ces zones."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa lance les travaux d'assainissement à Musllera, El Picu et Rodiles.",
+          "L'investissement s'élève à 2,17 millions d'euros.",
+          "Le projet desservira une population estimée à environ 500 personnes."
+        ],
+        "cifra": {
+          "numero": "2,17 millions",
+          "unidad": "euros",
+          "glosa": "C'est le coût de la rénovation du réseau d'assainissement dans trois localités de la commune. Un investissement de cette ampleur nécessite généralement un financement supracommunal, bien que la source n'en précise pas l'origine."
+        },
+        "palabra": null,
+        "porQue": "Un réseau d'assainissement défaillant nuit à la santé, à l'environnement et à la valeur des logements : le lancement de ces travaux est une bonne nouvelle pour les habitants de ces zones.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa verbessert die Kanalisation in drei Küstengebieten",
+        "entradilla": "Die Arbeiten in Musllera, El Picu und Rodiles kommen rund 500 Menschen zugute und erfordern eine Investition von mehr als zwei Millionen Euro.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa startet die Sanierung der Kanalisation in drei Ortschaften der Gemeinde: Musllera, El Picu und Rodiles. Die geplante Investition beläuft sich auf rund 2,17 Millionen Euro.",
+          "Den Projektdaten zufolge wird die Verbesserung etwa 500 Einwohnern dieser Gebiete zugutekommen."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa beginnt mit den Kanalisationsarbeiten in Musllera, El Picu und Rodiles.",
+          "Die Investition beläuft sich auf 2,17 Millionen Euro.",
+          "Das Projekt wird einer geschätzten Bevölkerung von rund 500 Personen dienen."
+        ],
+        "cifra": {
+          "numero": "2,17 Millionen",
+          "unidad": "Euro",
+          "glosa": "So viel kostet die Erneuerung des Kanalnetzes in drei Ortschaften der Gemeinde. Eine Investition dieser Größenordnung erfordert in der Regel überörtliche Finanzierung, obwohl die Quelle deren Herkunft nicht nennt."
+        },
+        "palabra": null,
+        "porQue": "Ein marodes Kanalisationsnetz schadet der Gesundheit, der Umwelt und dem Immobilienwert: Der Beginn dieser Arbeiten ist eine gute Nachricht für die Menschen, die in diesen Gebieten leben.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "llanes-aprueba-la-integracion-de-sus-tres-escuelines-en-la-red-autonom",
     "url": "/cabrales/llanes-aprueba-la-integracion-de-sus-tres-escuelines-en-la-red-autonom/",
     "concejo": "Cabrales",
