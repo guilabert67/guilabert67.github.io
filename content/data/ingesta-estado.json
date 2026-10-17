@@ -406,6 +406,11 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-10-16T14:52:23.846Z",
       "titulo": "AVISO IMPORTANTE"
+    },
+    "elbuscolu.com/fiestas-tradiciones/pandiellu-celebra-el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-11276630.html": {
+      "motivo": "mismo hecho que /cabrales/el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-se-celebrara-e/",
+      "fecha": "2026-10-17T04:17:16.826Z",
+      "titulo": "Pandiellu celebra el IX Festival Comunitario «Cabrales de pueblo en pueblo»"
     }
   },
   "juicios": {
@@ -492,6 +497,10 @@
     "villaviciosa.es/detalle-rss?articleid=20079305|aprobacion-inicial-del-reglamento-de-uso-de-la-sala-de-estudios-munici": {
       "r": "distinto",
       "fecha": "2026-10-16T05:11:02.643Z"
+    },
+    "elbuscolu.com/fiestas-tradiciones/pandiellu-celebra-el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-11276630.html|el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-se-celebrara-e": {
+      "r": "mismo",
+      "fecha": "2026-10-17T04:17:16.826Z"
     }
   }
 }

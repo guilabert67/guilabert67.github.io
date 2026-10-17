@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-16T18:31:00.095Z",
+  "fecha": "2026-10-17T04:18:48.838Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El tejido asociativo del oriente se cita este sábado en Caravia.",
-      "enlace": "/pilona/la-red-de-participacion-social-del-oriente-de-asturias-incorpora-a-tre/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "La Generación del 27 llega al Museo de la Sidra de Nava el 24 de octubre.",
-      "enlace": "/nava/cosecha-del-27-llevara-la-poesia-de-lorca-y-hernandez-a-cuatro-encuent/"
+      "concejo": "Cabrales",
+      "frase": "Las tres escuelines de Llanes pasan al Principado desde el 1 de noviembre.",
+      "enlace": "/cabrales/llanes-aprueba-la-integracion-de-sus-tres-escuelines-en-la-red-autonom/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El Ateneo de Villaviciosa debate la eutanasia con Luisa Carcedo el día 30.",
-      "enlace": "/villaviciosa/villaviciosa-acogera-una-charla-sobre-la-eutanasia-con-la-exministra-d/"
+      "frase": "El Rodiles vuelve al fútbol sala este sábado visitando al Ourense.",
+      "enlace": "/villaviciosa/el-gaitero-rodiles-retoma-la-competicion-midiendose-a-domicilio-al-our/"
     }
   ]
 }
