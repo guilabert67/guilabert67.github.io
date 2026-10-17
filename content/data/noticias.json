@@ -1,5 +1,356 @@
 [
   {
+    "id": "la-comarca-de-la-sidra-gana-turistas-de-todo-el-mundo-hasta-en-tempora",
+    "url": "/villaviciosa/la-comarca-de-la-sidra-gana-turistas-de-todo-el-mundo-hasta-en-tempora/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa atrae viajeros de ultramar hasta en otoño",
+    "entradilla": "El Camino de Santiago y la cultura de la sidra llevan turistas de América a la comarca incluso fuera de la temporada alta.",
+    "cuerpo": [
+      "La comarca de la Sidra no para cuando bajan las temperaturas. Visitantes llegados de Estados Unidos, Canadá y Brasil están eligiendo Villaviciosa y su entorno también en meses que antes se consideraban de descansillo turístico.",
+      "Dos imanes explican el tirón: el Camino de Santiago, que atraviesa la zona, y todo lo que rodea a la sidra como producto y como forma de vida, desde el llagar hasta la espicha."
+    ],
+    "apunte": "Al parecer, una buena sidrina no entiende de temporadas.",
+    "enVeinte": [
+      "La comarca de la Sidra recibe turistas de Estados Unidos, Canadá y Brasil incluso en temporada baja.",
+      "El Camino de Santiago y la cultura sidrera son los principales reclamos para estos visitantes de larga distancia.",
+      "El fenómeno rompe el patrón de concentración turística en verano y abre el concejo a un perfil de viajero internacional todo el año."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (ll asturiana, como en 'llamar')",
+      "definicion": "El llagar es el lugar donde se prensa la manzana y se elabora la sidra. En Asturias es mucho más que una instalación: es el corazón de la cultura sidrera y, a menudo, un espacio de encuentro social."
+    },
+    "porQue": "Que lleguen viajeros de América en pleno otoño significa actividad económica para hostelería, comercio y productores de sidra cuando habitualmente el concejo afloja el ritmo.",
+    "etiquetas": [
+      "turismo",
+      "sidra",
+      "Villaviciosa",
+      "Camino de Santiago"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/16/peregrinas-villaviciosa-RqiR9RerMuGfIRIp9ce34gJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-17T17:38:46.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/comarca-sidra-gana-turistas-mundo-temporada-baja-20261016163655-nt.html",
+      "titularOriginal": "La comarca de la Sidra gana turistas de todo el mundo hasta en temporada baja"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa draws overseas travellers even in autumn",
+        "entradilla": "The Camino de Santiago and cider culture are bringing tourists from the Americas to the county even outside peak season.",
+        "cuerpo": [
+          "La comarca de la Sidra does not slow down when temperatures drop. Visitors from the United States, Canada and Brazil are choosing Villaviciosa and its surroundings in months that were once considered a tourist off-season.",
+          "Two magnets explain the pull: the Camino de Santiago, which runs through the area, and everything surrounding cider as a product and a way of life, from the llagar (the cider mill) to the espicha (a cider-house feast)."
+        ],
+        "apunte": "It seems a good sidrina knows no season.",
+        "enVeinte": [
+          "La comarca de la Sidra receives tourists from the United States, Canada and Brazil even in the low season.",
+          "The Camino de Santiago and cider culture are the main draws for these long-haul visitors.",
+          "The trend breaks the pattern of tourism concentrated in summer and opens the municipality to an international traveller profile all year round."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en 'llamar')",
+          "definicion": "The llagar is the place where apples are pressed and cider is made. In Asturias it is far more than a production facility: it is the heart of cider culture and, very often, a space for social gathering."
+        },
+        "porQue": "Travellers arriving from the Americas in the depths of autumn means economic activity for hospitality businesses, shops and cider producers at a time when the municipality would normally be winding down.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa attire des voyageurs d'outre-mer jusque en automne",
+        "entradilla": "Le Camino de Santiago et la culture du cidre amènent des touristes d'Amérique dans la zone même hors saison haute.",
+        "cuerpo": [
+          "La comarca de la Sidra ne s'arrête pas quand les températures baissent. Des visiteurs venus des États-Unis, du Canada et du Brésil choisissent Villaviciosa et ses environs jusque dans des mois qui étaient autrefois considérés comme une période creuse.",
+          "Deux aimants expliquent cet attrait : le Camino de Santiago, qui traverse la zone, et tout ce qui entoure le cidre en tant que produit et mode de vie, du llagar (le pressoir à cidre) à l'espicha (la fête du cidre)."
+        ],
+        "apunte": "Il semblerait qu'une bonne sidrina ne connaît pas les saisons.",
+        "enVeinte": [
+          "La comarca de la Sidra reçoit des touristes des États-Unis, du Canada et du Brésil même en basse saison.",
+          "Le Camino de Santiago et la culture cidricole sont les principaux attraits pour ces visiteurs de long-courrier.",
+          "Le phénomène rompt le schéma de concentration touristique estivale et ouvre la commune à un profil de voyageur international tout au long de l'année."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en 'llamar')",
+          "definicion": "Le llagar est l'endroit où l'on presse les pommes et où l'on fabrique le cidre. En Asturies, c'est bien plus qu'une installation de production : c'est le cœur de la culture cidricole et, souvent, un espace de rassemblement social."
+        },
+        "porQue": "L'arrivée de voyageurs d'Amérique en plein automne représente une activité économique pour l'hôtellerie, le commerce et les producteurs de cidre à un moment où la commune ralentit habituellement son rythme.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa zieht Fernreisende selbst im Herbst an",
+        "entradilla": "Der Camino de Santiago und die Apfelweinkultur bringen Touristen aus Amerika in die Gegend – auch außerhalb der Hochsaison.",
+        "cuerpo": [
+          "La comarca de la Sidra kommt nicht zur Ruhe, wenn die Temperaturen sinken. Besucher aus den Vereinigten Staaten, Kanada und Brasilien wählen Villaviciosa und seine Umgebung auch in Monaten, die früher als touristische Nebensaison galten.",
+          "Zwei Magnete erklären die Anziehungskraft: der Camino de Santiago, der durch die Gegend führt, und alles, was den Apfelwein als Produkt und Lebensweise umgibt – vom llagar (der Apfelweinpresse) bis zur espicha (dem Apfelweinfest)."
+        ],
+        "apunte": "Eine gute sidrina kennt offenbar keine Saison.",
+        "enVeinte": [
+          "La comarca de la Sidra empfängt Touristen aus den Vereinigten Staaten, Kanada und Brasilien selbst in der Nebensaison.",
+          "Der Camino de Santiago und die Apfelweinkultur sind die wichtigsten Anziehungspunkte für diese Fernreisenden.",
+          "Das Phänomen durchbricht das Muster der auf den Sommer konzentrierten Touristik und öffnet die Gemeinde das ganze Jahr über einem internationalen Reiseprofil."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en 'llamar')",
+          "definicion": "Der llagar ist der Ort, an dem Äpfel gepresst und Apfelwein hergestellt werden. In Asturien ist er weit mehr als eine Produktionsstätte: Er ist das Herzstück der Apfelweinkultur und häufig auch ein Ort der gesellschaftlichen Begegnung."
+        },
+        "porQue": "Die Ankunft von Reisenden aus Amerika mitten im Herbst bedeutet wirtschaftliche Aktivität für Gastronomie, Handel und Apfelweinproduzenten zu einer Zeit, in der die Gemeinde gewöhnlich das Tempo drosselt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "aqui-donde-derrotaron-la-belleza-tazones-recuerda-con-poesia-y-memoria",
+    "url": "/villaviciosa/aqui-donde-derrotaron-la-belleza-tazones-recuerda-con-poesia-y-memoria/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Tazones homenajea al maestro fusilado en el 37",
+    "entradilla": "Un acto con poesía y memoria rescata la figura de José Salas Calvente, docente en Tazones ejecutado en Colunga durante la Guerra Civil.",
+    "cuerpo": [
+      "José Salas Calvente dio clases en el colegio de Tazones, una pequeña localidad del concejo de Villaviciosa. En noviembre de 1937 fue fusilado en Colunga.",
+      "El homenaje lleva por título «Aquí donde derrotaron la belleza», una frase que mezcla memoria histórica y palabra poética para recuperar su figura ante el pueblo que lo conoció."
+    ],
+    "apunte": "Casi noventa años después, la poesía hace lo que no pudo hacer la justicia de entonces.",
+    "enVeinte": [
+      "Tazones recuerda con un acto de homenaje a José Salas Calvente, maestro del pueblo fusilado en Colunga en noviembre de 1937.",
+      "El acto combina poesía y memoria para rescatar del olvido a un docente ejecutado durante la Guerra Civil.",
+      "El título del homenaje, «Aquí donde derrotaron la belleza», da la medida de cómo el pueblo quiere recordarle."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Recuperar el nombre de quienes enseñaron en estas aulas y fueron silenciados a la fuerza es también contar la historia del concejo tal como fue, sin eufemismos.",
+    "etiquetas": [
+      "memoria histórica",
+      "Tazones",
+      "Guerra Civil",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Tazones",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/17/tazones-homenaje-RyDAJ7rdo1UWiIrfdaxmGSP-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-17T17:29:40.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/derrotaron-belleza-tazones-recuerda-poesia-memoria-maestro-20261017192939-nt.html",
+      "titularOriginal": "«Aquí donde derrotaron la belleza»: Tazones recuerda con poesía y memoria al maestro José Salas Calvente"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Tazones pays tribute to the teacher shot in '37",
+        "entradilla": "An event combining poetry and memory rescues the figure of José Salas Calvente, a teacher in Tazones executed in Colunga during the Civil War.",
+        "cuerpo": [
+          "José Salas Calvente taught at the school in Tazones, a small village in the municipality of Villaviciosa. In November 1937 he was shot in Colunga.",
+          "The tribute bears the title «Aquí donde derrotaron la belleza», a phrase that blends historical memory and poetic language to restore his figure to the community that knew him."
+        ],
+        "apunte": "Almost ninety years on, poetry does what the justice of the time could not.",
+        "enVeinte": [
+          "Tazones honours José Salas Calvente, the village's teacher who was shot in Colunga in November 1937, with a tribute event.",
+          "The event combines poetry and memory to rescue from oblivion a teacher executed during the Civil War.",
+          "The title of the tribute, «Aquí donde derrotaron la belleza», captures the spirit in which the community wishes to remember him."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Recovering the names of those who taught in these classrooms and were forcibly silenced is also telling the history of the municipality as it truly was, without euphemisms.",
+        "lugar": "Tazones",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Tazones rend hommage au maître fusillé en 37",
+        "entradilla": "Un événement mêlant poésie et mémoire restitue la figure de José Salas Calvente, enseignant à Tazones exécuté à Colunga pendant la Guerre Civile.",
+        "cuerpo": [
+          "José Salas Calvente enseignait à l'école de Tazones, un petit village de la commune de Villaviciosa. En novembre 1937, il fut fusillé à Colunga.",
+          "L'hommage porte le titre «Aquí donde derrotaron la belleza», une phrase qui mêle mémoire historique et parole poétique pour redonner sa place à sa figure auprès du peuple qui l'a connu."
+        ],
+        "apunte": "Près de quatre-vingt-dix ans plus tard, la poésie accomplit ce que la justice de l'époque n'a pas pu faire.",
+        "enVeinte": [
+          "Tazones commémore José Salas Calvente, maître du village fusillé à Colunga en novembre 1937, par un acte d'hommage.",
+          "L'événement associe poésie et mémoire pour tirer de l'oubli un enseignant exécuté pendant la Guerre Civile.",
+          "Le titre de l'hommage, «Aquí donde derrotaron la belleza», dit à lui seul comment le village souhaite le garder en mémoire."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Retrouver le nom de ceux qui ont enseigné dans ces salles de classe et ont été réduits au silence de force, c'est aussi raconter l'histoire de la commune telle qu'elle fut réellement, sans euphémismes.",
+        "lugar": "Tazones",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Tazones ehrt den 1937 erschossenen Lehrer",
+        "entradilla": "Eine Veranstaltung aus Poesie und Erinnerung holt die Gestalt von José Salas Calvente zurück: ein Lehrer in Tazones, der während des Bürgerkriegs in Colunga hingerichtet wurde.",
+        "cuerpo": [
+          "José Salas Calvente unterrichtete an der Schule in Tazones, einem kleinen Ort in der Gemeinde Villaviciosa. Im November 1937 wurde er in Colunga erschossen.",
+          "Die Ehrung trägt den Titel «Aquí donde derrotaron la belleza», ein Satz, der historisches Gedächtnis und poetische Sprache verbindet, um seine Gestalt dem Ort zurückzugeben, der ihn kannte."
+        ],
+        "apunte": "Fast neunzig Jahre später leistet die Poesie, was die Justiz der damaligen Zeit nicht vermochte.",
+        "enVeinte": [
+          "Tazones erinnert mit einer Gedenkveranstaltung an José Salas Calvente, den Dorflehrer, der im November 1937 in Colunga erschossen wurde.",
+          "Die Veranstaltung verbindet Poesie und Erinnerung, um einen während des Bürgerkriegs hingerichteten Lehrer aus dem Vergessen zu holen.",
+          "Der Titel der Ehrung, «Aquí donde derrotaron la belleza», zeigt, wie der Ort ihn in Erinnerung behalten möchte."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Namen derer wiederzufinden, die in diesen Klassenräumen unterrichteten und gewaltsam zum Schweigen gebracht wurden, bedeutet auch, die Geschichte der Gemeinde so zu erzählen, wie sie wirklich war – ohne Beschönigungen.",
+        "lugar": "Tazones",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "pilona-celebrara-sus-xxx-jornadas-micologicas-del-23-al-26-de-octubre",
+    "url": "/pilona/pilona-celebrara-sus-xxx-jornadas-micologicas-del-23-al-26-de-octubre/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Piloña celebra sus XXX Jornadas Micológicas",
+    "entradilla": "Cuatro días de setas en Infiesto, del 23 al 26 de octubre, con los restaurantes del concejo sumados al programa.",
+    "cuerpo": [
+      "Piloña acoge este año la trigésima edición de sus Jornadas Micológicas. Los actos arrancan el jueves 23 de octubre y se alargan hasta el domingo 26.",
+      "La hostelería del concejo también se apunta: varios restaurantes pondrán en carta platos con setas como ingrediente principal durante esos días."
+    ],
+    "apunte": "Treinta ediciones buscando setas y ya nadie puede decir que es moda.",
+    "enVeinte": [
+      "Piloña celebra del 23 al 26 de octubre sus XXX Jornadas Micológicas.",
+      "Este año se cumple la trigésima edición del certamen micológico del concejo.",
+      "Varios restaurantes de la zona sumarán platos de setas a su carta durante las jornadas."
+    ],
+    "cifra": {
+      "numero": "30",
+      "unidad": "ediciones",
+      "glosa": "Las Jornadas Micológicas de Piloña llegan a su trigésima entrega. Tres décadas de un certamen que ya forma parte del otoño del concejo."
+    },
+    "palabra": {
+      "termino": "micológicas",
+      "como": "mi-co-LÓ-gi-cas",
+      "definicion": "Del griego mýkes, hongo. Las jornadas micológicas son encuentros dedicados al estudio, la recogida y el disfrute gastronómico de las setas y hongos silvestres, muy arraigados en el otoño asturiano."
+    },
+    "porQue": "Si te gustan las setas, cuatro días en los que Piloña las pone en el centro: en la mesa y, previsiblemente, en el monte.",
+    "etiquetas": [
+      "micología",
+      "Piloña",
+      "gastronomía",
+      "Infiesto"
+    ],
+    "fechaEvento": "2026-10-23",
+    "tipoEvento": "gastro",
+    "lugar": "Piloña (Infiesto)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2021/10/23/2021102318210718796.jpg",
+    "fecha": "2026-10-17T14:20:36.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/pilona-jornadas-micologicas-setas/20261017162036104703.html",
+      "titularOriginal": "Piloña celebrará sus XXX Jornadas Micológicas del 23 al 26 de octubre"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Piloña holds its XXX Jornadas Micológicas",
+        "entradilla": "Four days of mushrooms in Infiesto, from 23 to 26 October, with the municipality's restaurants joining the programme.",
+        "cuerpo": [
+          "Piloña is hosting the thirtieth edition of its Jornadas Micológicas this year. Events begin on Thursday 23 October and run through Sunday 26.",
+          "The municipality's hospitality sector is also on board: several restaurants will add dishes featuring mushrooms as the main ingredient to their menus during those days."
+        ],
+        "apunte": "Thirty editions hunting mushrooms, and nobody can call it a trend anymore.",
+        "enVeinte": [
+          "Piloña holds its XXX Jornadas Micológicas from 23 to 26 October.",
+          "This year marks the thirtieth edition of the municipality's mycology event.",
+          "Several local restaurants will add mushroom dishes to their menus during the event."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "editions",
+          "glosa": "The Jornadas Micológicas de Piloña reach their thirtieth instalment. Three decades of an event that has become a fixture of autumn in the municipality."
+        },
+        "palabra": {
+          "termino": "micológicas",
+          "como": "mi-co-LÓ-gi-cas",
+          "definicion": "From the Greek mýkes, mushroom. Jornadas micológicas are gatherings dedicated to the study, foraging and gastronomic enjoyment of wild mushrooms and fungi, a deeply rooted autumn tradition in Asturias."
+        },
+        "porQue": "If you love mushrooms, four days in which Piloña puts them centre stage: on the table and, in all likelihood, on the hillside.",
+        "lugar": "Piloña (Infiesto)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Piloña célèbre ses XXX Jornadas Micológicas",
+        "entradilla": "Quatre jours de champignons à Infiesto, du 23 au 26 octobre, avec les restaurants de la commune associés au programme.",
+        "cuerpo": [
+          "Piloña accueille cette année la trentième édition de ses Jornadas Micológicas. Les festivités débutent le jeudi 23 octobre et se prolongent jusqu'au dimanche 26.",
+          "La restauration de la commune est également de la partie : plusieurs restaurants proposeront à la carte des plats à base de champignons comme ingrédient principal pendant ces journées."
+        ],
+        "apunte": "Trente éditions à chercher des champignons, et plus personne ne peut dire que c'est une mode.",
+        "enVeinte": [
+          "Piloña célèbre ses XXX Jornadas Micológicas du 23 au 26 octobre.",
+          "Cette année marque la trentième édition du rendez-vous mycologique de la commune.",
+          "Plusieurs restaurants de la zone ajouteront des plats aux champignons à leur carte pendant les journées."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "éditions",
+          "glosa": "Les Jornadas Micológicas de Piloña atteignent leur trentième édition. Trois décennies d'un événement qui fait désormais partie intégrante de l'automne de la commune."
+        },
+        "palabra": {
+          "termino": "micológicas",
+          "como": "mi-co-LÓ-gi-cas",
+          "definicion": "Du grec mýkes, champignon. Les jornadas micológicas sont des rencontres consacrées à l'étude, la cueillette et la découverte gastronomique des champignons et des fungi sauvages, profondément ancrés dans l'automne asturien."
+        },
+        "porQue": "Si vous aimez les champignons, quatre jours où Piloña les met à l'honneur : à table et, vraisemblablement, en forêt.",
+        "lugar": "Piloña (Infiesto)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Piloña feiert seine XXX Jornadas Micológicas",
+        "entradilla": "Vier Tage rund um Pilze in Infiesto, vom 23. bis 26. Oktober, mit den Restaurants der Gemeinde als Teil des Programms.",
+        "cuerpo": [
+          "Piloña ist in diesem Jahr Gastgeber der dreißigsten Ausgabe seiner Jornadas Micológicas. Die Veranstaltungen beginnen am Donnerstag, dem 23. Oktober, und dauern bis Sonntag, den 26.",
+          "Auch die Gastronomie der Gemeinde macht mit: Mehrere Restaurants werden in diesen Tagen Gerichte mit Pilzen als Hauptzutat in ihre Speisekarte aufnehmen."
+        ],
+        "apunte": "Dreißig Ausgaben auf Pilzsuche – und niemand kann mehr behaupten, das sei ein Trend.",
+        "enVeinte": [
+          "Piloña feiert vom 23. bis 26. Oktober seine XXX Jornadas Micológicas.",
+          "In diesem Jahr findet die dreißigste Ausgabe des mykologischen Wettbewerbs der Gemeinde statt.",
+          "Mehrere Restaurants der Gegend werden während der Veranstaltung Pilzgerichte in ihre Speisekarte aufnehmen."
+        ],
+        "cifra": {
+          "numero": "30",
+          "unidad": "Ausgaben",
+          "glosa": "Die Jornadas Micológicas de Piloña erreichen ihre dreißigste Auflage. Drei Jahrzehnte einer Veranstaltung, die längst zum Herbst der Gemeinde gehört."
+        },
+        "palabra": {
+          "termino": "micológicas",
+          "como": "mi-co-LÓ-gi-cas",
+          "definicion": "Vom griechischen mýkes, Pilz. Jornadas micológicas sind Treffen, die dem Studium, dem Sammeln und dem kulinarischen Genuss von Wildpilzen gewidmet sind – eine tief verwurzelte Herbsttradition in Asturien."
+        },
+        "porQue": "Wer Pilze liebt, erlebt vier Tage, an denen Piloña sie in den Mittelpunkt stellt: auf dem Teller und aller Voraussicht nach auch im Wald.",
+        "lugar": "Piloña (Infiesto)",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex",
     "url": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/",
     "concejo": "Piloña",

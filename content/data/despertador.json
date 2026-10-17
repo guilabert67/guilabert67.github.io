@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-17T12:31:59.304Z",
+  "fecha": "2026-10-17T18:27:47.147Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Arranca la red de saneamiento para la ría de Villaviciosa, con 2,1 millones invertidos.",
-      "enlace": "/villaviciosa/comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid/"
-    },
-    {
       "concejo": "Piloña",
-      "frase": "L'Infiestu recibe hoy a veinticuatro emprendedoras de catorce municipios asturianos.",
-      "enlace": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/"
+      "frase": "Infiesto celebra cuatro días de setas del 23 al 26 de octubre.",
+      "enlace": "/pilona/pilona-celebrara-sus-xxx-jornadas-micologicas-del-23-al-26-de-octubre/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Musllera, El Picu y Rodiles mejoran su saneamiento: llegarán a unas 500 personas.",
-      "enlace": "/villaviciosa/villaviciosa-inicia-el-saneamiento-de-musllera-el-picu-y-rodiles-con-u/"
+      "frase": "Tazones recupera la memoria de un maestro fusilado en la Guerra Civil.",
+      "enlace": "/villaviciosa/aqui-donde-derrotaron-la-belleza-tazones-recuerda-con-poesia-y-memoria/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Camino y la sidra traen turistas americanos a Villaviciosa en otoño.",
+      "enlace": "/villaviciosa/la-comarca-de-la-sidra-gana-turistas-de-todo-el-mundo-hasta-en-tempora/"
     }
   ]
 }
