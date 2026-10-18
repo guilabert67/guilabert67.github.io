@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-17T18:27:47.147Z",
+  "fecha": "2026-10-18T05:49:42.670Z",
   "puntos": [
     {
+      "concejo": "Villaviciosa",
+      "frase": "Arranca la red de saneamiento de la ría de Villaviciosa, 2,1 millones de euros.",
+      "enlace": "/villaviciosa/comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid/"
+    },
+    {
       "concejo": "Piloña",
-      "frase": "Infiesto celebra cuatro días de setas del 23 al 26 de octubre.",
+      "frase": "Infiesto celebra sus XXX Jornadas Micológicas del 23 al 26 de octubre.",
       "enlace": "/pilona/pilona-celebrara-sus-xxx-jornadas-micologicas-del-23-al-26-de-octubre/"
     },
     {
-      "concejo": "Villaviciosa",
-      "frase": "Tazones recupera la memoria de un maestro fusilado en la Guerra Civil.",
-      "enlace": "/villaviciosa/aqui-donde-derrotaron-la-belleza-tazones-recuerda-con-poesia-y-memoria/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "El Camino y la sidra traen turistas americanos a Villaviciosa en otoño.",
-      "enlace": "/villaviciosa/la-comarca-de-la-sidra-gana-turistas-de-todo-el-mundo-hasta-en-tempora/"
+      "concejo": "Piloña",
+      "frase": "Veinticuatro emprendedoras de catorce concejos exponen sus negocios este fin de semana en Infiesto.",
+      "enlace": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/"
     }
   ]
 }
