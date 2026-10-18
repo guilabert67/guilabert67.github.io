@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-18T05:49:42.670Z",
+  "fecha": "2026-10-18T10:03:02.585Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Arranca la red de saneamiento de la ría de Villaviciosa, 2,1 millones de euros.",
-      "enlace": "/villaviciosa/comienza-la-construccion-de-la-red-de-saneamiento-que-eliminara-vertid/"
+      "concejo": "Cabrales",
+      "frase": "La sidra de hielo ya puede certificarse con sello DOP asturiano desde la cosecha de 2025.",
+      "enlace": "/cabrales/la-sidra-de-hielo-se-incorpora-a-la-dop-sidra-de-asturias-un-avance-de/"
     },
     {
       "concejo": "Piloña",
-      "frase": "Infiesto celebra sus XXX Jornadas Micológicas del 23 al 26 de octubre.",
-      "enlace": "/pilona/pilona-celebrara-sus-xxx-jornadas-micologicas-del-23-al-26-de-octubre/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Veinticuatro emprendedoras de catorce concejos exponen sus negocios este fin de semana en Infiesto.",
-      "enlace": "/pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/"
+      "frase": "Abelardo y Enrique se llevan el Trofeo de la Avellana en la nueva bolera de San Cipriano.",
+      "enlace": "/pilona/alberto-y-enrique-de-la-pena-el-arenal-ganan-el-trofeo-de-bolos-de-la-/"
     }
   ]
 }
