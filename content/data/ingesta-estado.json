@@ -431,6 +431,16 @@
       "motivo": "duplicado de /villaviciosa/aqui-donde-derrotaron-la-belleza-tazones-recuerda-con-poesia-y-memoria/",
       "fecha": "2026-10-18T05:49:40.064Z",
       "titulo": "Tazones homenajea al maestro José Salas Calvente, fusilado en 1937"
+    },
+    "rtpa.es/noticias-deportes/2026-10-18/el-gaitero-rodiles-cae-goleado-en-su-visita-a-ourense-(5-0)_111792330148.html": {
+      "motivo": "mismo hecho que /villaviciosa/el-gaitero-rodiles-retoma-la-competicion-midiendose-a-domicilio-al-our/",
+      "fecha": "2026-10-18T17:18:34.991Z",
+      "titulo": "El Gaitero Rodiles cae goleado en su visita a Ourense (5-0)"
+    },
+    "asturiasmundial.com/noticia/144789/recetas-una-abuela-asturiana-salchiches-alemanes-patates-casa-salsa-pide-pan": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-10-18T17:19:29.377Z",
+      "titulo": "Recetas de una abuela asturiana: Salchiches alemanes, patates de casa y una salsa que pide pan"
     }
   },
   "juicios": {
@@ -521,6 +531,10 @@
     "elbuscolu.com/fiestas-tradiciones/pandiellu-celebra-el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-11276630.html|el-ix-festival-comunitario-cabrales-de-pueblo-en-pueblo-se-celebrara-e": {
       "r": "mismo",
       "fecha": "2026-10-17T04:17:16.826Z"
+    },
+    "rtpa.es/noticias-deportes/2026-10-18/el-gaitero-rodiles-cae-goleado-en-su-visita-a-ourense-(5-0)_111792330148.html|el-gaitero-rodiles-retoma-la-competicion-midiendose-a-domicilio-al-our": {
+      "r": "mismo",
+      "fecha": "2026-10-18T17:18:34.991Z"
     }
   }
 }

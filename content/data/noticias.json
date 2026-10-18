@@ -1,5 +1,267 @@
 [
   {
+    "id": "la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen",
+    "url": "/cabranes/la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen/",
+    "concejo": "Cabranes",
+    "concejoSlug": "cabranes",
+    "seccion": "actualidad",
+    "titular": "La Rectoral de Taramundi cierra para reformarse",
+    "entradilla": "El hotel rural más antiguo de España para dos millones de euros en obras y no reabrirá antes de 2028.",
+    "cuerpo": [
+      "La Rectoral de Taramundi ha servido el último desayuno. El establecimiento cierra de forma temporal para acometer una renovación completa que costará dos millones de euros: seguridad, instalaciones eléctricas y accesibilidad, entre otras mejoras, según el alcalde de Taramundi, César Villabrille.",
+      "El hotel abrió en 1986 en una antigua casa rectoral del siglo XVIII y fue el primer alojamiento rural que echó a andar en todo el país. Cuatro décadas después, su director, Jesús Mier, que lleva treinta años al frente, se marcha con él: le llegó la jubilación.",
+      "Cuando reabra, la intención es que La Rectoral sea el primer establecimiento de una futura red pública de turismo rural del Principado, al estilo de los Paradores. Los plazos apuntan a que las puertas no volverán a abrirse antes de 2028."
+    ],
+    "apunte": "Cuarenta años recibiendo turistas y ahora toca ser turista esperando que abra.",
+    "enVeinte": [
+      "La Rectoral de Taramundi, el primer hotel rural de España, cierra temporalmente para una reforma de dos millones de euros.",
+      "Las obras afectan a seguridad, electricidad y accesibilidad; no reabrirá, como mínimo, hasta 2028.",
+      "Cuando vuelva a abrir, el hotel aspira a ser el primero de una red pública de alojamientos rurales del Principado al estilo de Paradores."
+    ],
+    "cifra": {
+      "numero": "2.000.000",
+      "unidad": "euros",
+      "glosa": "Es la inversión prevista para renovar por completo La Rectoral de Taramundi. El dinero irá a mejorar la seguridad, los sistemas eléctricos y la accesibilidad del edificio, una casa rectoral del siglo XVIII que lleva cuarenta años funcionando como hotel de cuatro estrellas."
+    },
+    "palabra": {
+      "termino": "rectoral",
+      "como": "rec-to-ral, igual que en castellano",
+      "definicion": "Casa rectoral es la vivienda tradicional del cura párroco, ligada a la iglesia del pueblo. En Asturias muchas de estas casas, ya sin uso religioso, se han reconvertido en hoteles o casas de aldea; de ahí que el nombre haya quedado como seña de identidad del establecimiento."
+    },
+    "porQue": "Quien tenía reserva en La Rectoral o pensaba hacerla tendrá que esperar al menos hasta 2028; y si los planes del Principado salen adelante, el hotel que reabra será ya parte de una red pública de turismo rural con otra forma de gestionarse.",
+    "etiquetas": [
+      "turismo rural",
+      "Taramundi",
+      "hostelería",
+      "Asturias"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Taramundi",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261018165254_RTPA8736695.webp",
+    "fecha": "2026-10-18T14:56:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-18/La-Rectoral-de-Taramundi-cierra-por-reformas-tras-40-años-como-referente-del-turismo-rural_111792335271.html",
+      "titularOriginal": "La Rectoral de Taramundi cierra por reformas tras 40 años como referente del turismo rural"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Rectoral de Taramundi closes for renovation",
+        "entradilla": "Spain's oldest rural hotel pauses for two million euros' worth of works and will not reopen before 2028.",
+        "cuerpo": [
+          "La Rectoral de Taramundi has served its last breakfast. The establishment is closing temporarily to undertake a complete renovation costing two million euros: safety, electrical installations and accessibility, among other improvements, according to the mayor of Taramundi, César Villabrille.",
+          "The hotel opened in 1986 in a former eighteenth-century rectory and was the first rural accommodation to get off the ground anywhere in the country. Four decades on, its director, Jesús Mier, who has been at the helm for thirty years, is leaving with it: retirement has caught up with him.",
+          "When it reopens, the intention is for La Rectoral to become the first establishment in a future public rural tourism network run by the Principality, along the lines of the Paradores. The timelines suggest the doors will not open again before 2028."
+        ],
+        "apunte": "Forty years welcoming tourists, and now it's time to be the tourist waiting for it to open.",
+        "enVeinte": [
+          "La Rectoral de Taramundi, Spain's first rural hotel, is closing temporarily for a two-million-euro renovation.",
+          "The works cover safety, electricity and accessibility; it will not reopen before 2028 at the earliest.",
+          "When it does reopen, the hotel aims to become the first in a public rural accommodation network run by the Principality, along the lines of the Paradores."
+        ],
+        "cifra": {
+          "numero": "2,000,000",
+          "unidad": "euros",
+          "glosa": "This is the planned investment to fully renovate La Rectoral de Taramundi. The money will go towards improving safety, electrical systems and accessibility at the building, an eighteenth-century rectory that has been operating as a four-star hotel for forty years."
+        },
+        "palabra": {
+          "termino": "rectoral",
+          "como": "rec-to-ral, as in Spanish",
+          "definicion": "A casa rectoral is the traditional home of the parish priest, attached to the village church. In Asturias many of these houses, no longer in religious use, have been converted into hotels or rural guesthouses; that is why the name has remained as the establishment's defining identity."
+        },
+        "porQue": "Anyone who had a booking at La Rectoral or was planning to make one will have to wait until at least 2028; and if the Principality's plans go ahead, the hotel that reopens will already be part of a public rural tourism network run along different lines.",
+        "lugar": "Taramundi",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Rectoral de Taramundi ferme pour travaux",
+        "entradilla": "Le plus ancien hôtel rural d'Espagne marque une pause pour deux millions d'euros de travaux et ne rouvrira pas avant 2028.",
+        "cuerpo": [
+          "La Rectoral de Taramundi a servi son dernier petit-déjeuner. L'établissement ferme temporairement pour mener à bien une rénovation complète qui coûtera deux millions d'euros : sécurité, installations électriques et accessibilité, entre autres améliorations, selon le maire de Taramundi, César Villabrille.",
+          "L'hôtel a ouvert en 1986 dans une ancienne maison curiale du XVIIIe siècle et a été le premier hébergement rural à voir le jour dans tout le pays. Quatre décennies plus tard, son directeur, Jesús Mier, qui est aux commandes depuis trente ans, part avec lui : la retraite est arrivée.",
+          "Lorsqu'il rouvrira, l'intention est que La Rectoral devienne le premier établissement d'un futur réseau public de tourisme rural de la Principauté, sur le modèle des Paradores. Les délais laissent entendre que les portes ne rouvriront pas avant 2028."
+        ],
+        "apunte": "Quarante ans à accueillir des touristes, et voilà qu'il faut être le touriste qui attend que ça rouvre.",
+        "enVeinte": [
+          "La Rectoral de Taramundi, premier hôtel rural d'Espagne, ferme temporairement pour une rénovation de deux millions d'euros.",
+          "Les travaux portent sur la sécurité, l'électricité et l'accessibilité ; l'établissement ne rouvrira pas avant 2028 au plus tôt.",
+          "À sa réouverture, l'hôtel ambitionne d'être le premier d'un réseau public d'hébergements ruraux de la Principauté, sur le modèle des Paradores."
+        ],
+        "cifra": {
+          "numero": "2 000 000",
+          "unidad": "euros",
+          "glosa": "C'est l'investissement prévu pour rénover entièrement La Rectoral de Taramundi. L'argent servira à améliorer la sécurité, les systèmes électriques et l'accessibilité du bâtiment, une maison curiale du XVIIIe siècle qui fonctionne comme hôtel quatre étoiles depuis quarante ans."
+        },
+        "palabra": {
+          "termino": "rectoral",
+          "como": "rec-to-ral, comme en espagnol",
+          "definicion": "Une casa rectoral est la demeure traditionnelle du curé de paroisse, attenante à l'église du village. En Asturias, beaucoup de ces maisons, désormais sans usage religieux, ont été reconverties en hôtels ou en gîtes ruraux ; c'est pourquoi le nom est resté comme signe distinctif de l'établissement."
+        },
+        "porQue": "Quiconque avait une réservation à La Rectoral ou envisageait d'en faire une devra attendre au moins jusqu'en 2028 ; et si les projets de la Principauté se concrétisent, l'hôtel qui rouvrira fera déjà partie d'un réseau public de tourisme rural géré différemment.",
+        "lugar": "Taramundi",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Rectoral de Taramundi schließt für Umbauarbeiten",
+        "entradilla": "Spaniens ältestes Landhotel legt für Bauarbeiten im Wert von zwei Millionen Euro eine Pause ein und wird vor 2028 nicht wieder öffnen.",
+        "cuerpo": [
+          "La Rectoral de Taramundi hat sein letztes Frühstück serviert. Das Haus schließt vorübergehend, um eine vollständige Renovierung durchzuführen, die zwei Millionen Euro kosten wird: Sicherheit, Elektroinstallationen und Barrierefreiheit zählen zu den Verbesserungen, wie der Bürgermeister von Taramundi, César Villabrille, mitteilte.",
+          "Das Hotel öffnete 1986 in einem ehemaligen Pfarrhaus aus dem 18. Jahrhundert und war das erste Landhotel, das im ganzen Land seinen Betrieb aufnahm. Vier Jahrzehnte später verlässt es auch sein Direktor, Jesús Mier, der seit dreißig Jahren an der Spitze steht: Er geht in Rente.",
+          "Nach der Wiedereröffnung soll La Rectoral das erste Haus eines künftigen öffentlichen Landtourismus-Netzwerks der Principauté werden, nach dem Vorbild der Paradores. Den Zeitplänen zufolge werden die Türen frühestens 2028 wieder aufgehen."
+        ],
+        "apunte": "Vierzig Jahre lang Touristen empfangen – und jetzt heißt es selbst Tourist sein und warten, bis es wieder aufmacht.",
+        "enVeinte": [
+          "La Rectoral de Taramundi, Spaniens erstes Landhotel, schließt vorübergehend für eine Renovierung im Wert von zwei Millionen Euro.",
+          "Die Arbeiten betreffen Sicherheit, Elektrik und Barrierefreiheit; die Wiedereröffnung erfolgt frühestens 2028.",
+          "Nach der Wiedereröffnung soll das Hotel das erste Haus eines öffentlichen Landunterkunfts-Netzwerks der Principauté nach dem Vorbild der Paradores werden."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "Euro",
+          "glosa": "Das ist die geplante Investition für die vollständige Renovierung von La Rectoral de Taramundi. Das Geld fließt in die Verbesserung der Sicherheit, der Elektrosysteme und der Barrierefreiheit des Gebäudes – eines Pfarrhauses aus dem 18. Jahrhundert, das seit vierzig Jahren als Vier-Sterne-Hotel in Betrieb ist."
+        },
+        "palabra": {
+          "termino": "rectoral",
+          "como": "rec-to-ral, wie im Spanischen",
+          "definicion": "Eine casa rectoral ist die traditionelle Unterkunft des Gemeindepfarrers, die zur Dorfkirche gehört. In Asturias wurden viele dieser Häuser, die keiner religiösen Nutzung mehr dienen, zu Hotels oder Landunterkünften umgebaut; daher ist der Name als Erkennungszeichen des Hauses erhalten geblieben."
+        },
+        "porQue": "Wer eine Buchung bei La Rectoral hatte oder eine plante, muss mindestens bis 2028 warten; und sollten die Pläne der Principauté umgesetzt werden, wird das wiedereröffnete Hotel bereits Teil eines öffentlichen Landtourismus-Netzwerks mit einer anderen Verwaltungsstruktur sein.",
+        "lugar": "Taramundi",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en 1986 en una antigua casa rectoral del",
+      "1986 en una antigua casa rectoral del siglo",
+      "en una antigua casa rectoral del siglo xviii"
+    ]
+  },
+  {
+    "id": "fotomaliayo-2026-reune-en-villaviciosa-fotografia-tradicion-y-reconoci",
+    "url": "/villaviciosa/fotomaliayo-2026-reune-en-villaviciosa-fotografia-tradicion-y-reconoci/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "FotoMaliayo premia paisaje y etnografía en Villaviciosa",
+    "entradilla": "La gala del Teatro Riera también reconoció a la Banda de Gaites y a la Escuela de Teitau.",
+    "cuerpo": [
+      "El Teatro Riera de Villaviciosa fue el escenario de la entrega de premios de FotoMaliayo 2026, certamen que convoca las categorías de paisaje y etnografía y que pone el foco en el patrimonio asturiano.",
+      "La gala rindió homenaje a Ambás y a Ramsés, y reconoció la trayectoria de la Banda de Gaites de Villaviciosa y de la Escuela de Teitau."
+    ],
+    "apunte": "Una gala donde la cámara y la gaita terminaron en el mismo escenario, y nadie se quejó.",
+    "enVeinte": [
+      "FotoMaliayo 2026 celebró su gala de premios en el Teatro Riera de Villaviciosa.",
+      "El certamen reconoció trabajos de paisaje y etnografía, además de homenajear a Ambás y a Ramsés.",
+      "La Banda de Gaites de Villaviciosa y la Escuela de Teitau también recibieron reconocimiento en el acto."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "teitau",
+      "como": "tei-TAU",
+      "definicion": "Técnica tradicional asturiana de cubrición de tejados con paja de centeno o escoba. La Escuela de Teitau trabaja por mantener vivo este oficio, que forma parte del patrimonio constructivo rural de Asturias."
+    },
+    "porQue": "FotoMaliayo es uno de los certámenes que cada año pone a Villaviciosa en el mapa de la fotografía patrimonial asturiana, y los reconocimientos a la Banda de Gaites y a la Escuela de Teitau visibilizan dos pilares de la cultura viva del concejo.",
+    "etiquetas": [
+      "FotoMaliayo",
+      "fotografía",
+      "patrimonio",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Teatro Riera, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/18/2026101813484515950.jpg",
+    "fecha": "2026-10-18T11:56:26.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/fotomaliayo-villaviciosa-santi-hevia/20261018135626104737.html",
+      "titularOriginal": "FotoMaliayo 2026 reúne en Villaviciosa fotografía, tradición y reconocimiento al patrimonio asturiano"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "FotoMaliayo awards landscape and ethnography prizes in Villaviciosa",
+        "entradilla": "The gala at the Teatro Riera also recognised the Banda de Gaites and the Escuela de Teitau.",
+        "cuerpo": [
+          "The Teatro Riera in Villaviciosa hosted the award ceremony for FotoMaliayo 2026, a competition that covers the categories of landscape and ethnography and focuses on Asturian heritage.",
+          "The gala paid tribute to Ambás and Ramsés, and recognised the careers of the Banda de Gaites de Villaviciosa and the Escuela de Teitau."
+        ],
+        "apunte": "A gala where the camera and the bagpipe ended up on the same stage, and nobody complained.",
+        "enVeinte": [
+          "FotoMaliayo 2026 held its award gala at the Teatro Riera in Villaviciosa.",
+          "The competition recognised works in landscape and ethnography, and also paid tribute to Ambás and Ramsés.",
+          "The Banda de Gaites de Villaviciosa and the Escuela de Teitau also received recognition at the event."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "teitau",
+          "como": "tei-TAU",
+          "definicion": "A traditional Asturian technique for covering roofs with rye straw or broom. The Escuela de Teitau works to keep this craft alive, as it forms part of Asturias's rural building heritage."
+        },
+        "porQue": "FotoMaliayo is one of the competitions that every year puts Villaviciosa on the map of Asturian heritage photography, and the recognition of the Banda de Gaites and the Escuela de Teitau highlights two pillars of living culture in the municipality.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "FotoMaliayo récompense paysage et ethnographie à Villaviciosa",
+        "entradilla": "La soirée du Teatro Riera a également salué la Banda de Gaites et l'Escuela de Teitau.",
+        "cuerpo": [
+          "Le Teatro Riera de Villaviciosa a accueilli la cérémonie de remise des prix de FotoMaliayo 2026, un concours qui couvre les catégories paysage et ethnographie et met en valeur le patrimoine asturien.",
+          "La soirée a rendu hommage à Ambás et à Ramsés, et a reconnu le parcours de la Banda de Gaites de Villaviciosa et de l'Escuela de Teitau."
+        ],
+        "apunte": "Une soirée où l'appareil photo et la cornemuse ont fini sur la même scène, et personne ne s'en est plaint.",
+        "enVeinte": [
+          "FotoMaliayo 2026 a tenu sa soirée de remise des prix au Teatro Riera de Villaviciosa.",
+          "Le concours a distingué des œuvres de paysage et d'ethnographie, et a également rendu hommage à Ambás et à Ramsés.",
+          "La Banda de Gaites de Villaviciosa et l'Escuela de Teitau ont elles aussi été reconnues lors de la cérémonie."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "teitau",
+          "como": "tei-TAU",
+          "definicion": "Technique traditionnelle asturienne de couverture des toits avec de la paille de seigle ou du genêt. L'Escuela de Teitau œuvre pour maintenir vivant ce métier, qui fait partie du patrimoine constructif rural des Asturies."
+        },
+        "porQue": "FotoMaliayo est l'un des concours qui, chaque année, place Villaviciosa sur la carte de la photographie patrimoniale asturienne, et la distinction accordée à la Banda de Gaites et à l'Escuela de Teitau met en lumière deux piliers de la culture vivante de la commune.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "FotoMaliayo zeichnet Landschaft und Ethnografie in Villaviciosa aus",
+        "entradilla": "Die Gala im Teatro Riera würdigte außerdem die Banda de Gaites und die Escuela de Teitau.",
+        "cuerpo": [
+          "Das Teatro Riera in Villaviciosa war Schauplatz der Preisverleihung von FotoMaliayo 2026, einem Wettbewerb in den Kategorien Landschaft und Ethnografie, der das asturische Kulturerbe in den Mittelpunkt stellt.",
+          "Die Gala ehrte Ambás und Ramsés und würdigte das Lebenswerk der Banda de Gaites de Villaviciosa und der Escuela de Teitau."
+        ],
+        "apunte": "Eine Gala, bei der Kamera und Dudelsack auf derselben Bühne landeten – und niemand sich beschwerte.",
+        "enVeinte": [
+          "FotoMaliayo 2026 hielt seine Preisverleihung im Teatro Riera in Villaviciosa ab.",
+          "Der Wettbewerb zeichnete Arbeiten in den Bereichen Landschaft und Ethnografie aus und ehrte außerdem Ambás und Ramsés.",
+          "Die Banda de Gaites de Villaviciosa und die Escuela de Teitau wurden bei der Veranstaltung ebenfalls gewürdigt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "teitau",
+          "como": "tei-TAU",
+          "definicion": "Traditionelle asturische Technik zur Deckung von Dächern mit Roggenstroh oder Besenginster. Die Escuela de Teitau setzt sich dafür ein, dieses Handwerk lebendig zu halten, das zum ländlichen Bauerbe Asturiens gehört."
+        },
+        "porQue": "FotoMaliayo ist einer der Wettbewerbe, die Villaviciosa jedes Jahr auf der Karte der asturischen Kulturerbefotografie platzieren. Die Auszeichnungen für die Banda de Gaites und die Escuela de Teitau machen zwei tragende Säulen der gelebten Kultur der Gemeinde sichtbar.",
+        "lugar": "Teatro Riera, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "de la banda de gaites de villaviciosa y"
+    ]
+  },
+  {
     "id": "alberto-y-enrique-de-la-pena-el-arenal-ganan-el-trofeo-de-bolos-de-la-",
     "url": "/pilona/alberto-y-enrique-de-la-pena-el-arenal-ganan-el-trofeo-de-bolos-de-la-/",
     "concejo": "Piloña",
