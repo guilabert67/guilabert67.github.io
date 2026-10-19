@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-19T15:02:43.309Z",
+  "fecha": "2026-10-19T20:35:40.126Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "La Vega de Urriellu bajó a -2,2 grados: abrígate si subes a los Picos.",
-      "enlace": "/cabrales/vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c/"
+      "concejo": "Piloña",
+      "frase": "El puente de Ribadesella corta a los coches desde el 26 de octubre hasta marzo.",
+      "enlace": "/pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "La psicoasesoría vuelve al Espacio Joven de Villaviciosa este viernes 23 de octubre.",
+      "enlace": "/villaviciosa/la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava ofrece talleres gratis de cómic y animación con plazas limitadas a finales de octubre.",
+      "enlace": "/nava/nava-organiza-dos-talleres-gratuitos-de-animacion-y-comic-para-ninos-y/"
     }
   ]
 }

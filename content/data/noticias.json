@@ -1,5 +1,435 @@
 [
   {
+    "id": "la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu",
+    "url": "/villaviciosa/la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La psicoasesoría vuelve al Espacio Joven de Villaviciosa",
+    "entradilla": "La alta demanda del servicio lo devuelve a la programación del Ateneo Obrero desde este viernes 23 de octubre.",
+    "cuerpo": [
+      "El Espacio Joven de Villaviciosa arranca nueva temporada el viernes 23 de octubre en el Ateneo Obrero, con la psicoasesoría como una de sus propuestas estrella tras el éxito de participación de la edición anterior.",
+      "El servicio regresa porque la demanda así lo ha pedido, según recoge el medio de origen. La programación incluye también ocio y actividades de participación, aunque el material disponible no detalla más."
+    ],
+    "apunte": "Cuando la demanda habla, el calendario escucha.",
+    "enVeinte": [
+      "El Espacio Joven de Villaviciosa retoma su actividad el viernes 23 de octubre en el Ateneo Obrero.",
+      "La psicoasesoría vuelve a la programación por la alta demanda registrada en la temporada anterior.",
+      "El arranque incluye ocio y actividades de participación, aunque los detalles del programa no se han concretado aún."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Los jóvenes del concejo vuelven a tener un espacio de escucha y orientación psicológica accesible, algo que la temporada pasada se quedó corto ante quienes lo necesitaban.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Espacio Joven",
+      "psicoasesoría",
+      "Ateneo Obrero"
+    ],
+    "fechaEvento": "2026-10-23",
+    "tipoEvento": "taller",
+    "lugar": "Ateneo Obrero, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/19/espacio-joven-villaviciosa-RgNtFITd7RDKUvFPjkWvgPK-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-19T18:21:45.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/psicoasesoria-villaviciosa-regresa-ante-alta-demanda-nueva-20261019191413-nt.html",
+      "titularOriginal": "La psicoasesoría de Villaviciosa regresa ante la alta demanda en la nueva temporada de Espacio Joven"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Psychological counselling returns to the Espacio Joven of Villaviciosa",
+        "entradilla": "High demand for the service brings it back to the Ateneo Obrero programme from this Friday, 23 October.",
+        "cuerpo": [
+          "The Espacio Joven of Villaviciosa launches a new season on Friday, 23 October at the Ateneo Obrero, with psychological counselling as one of its flagship offerings after the strong turnout of the previous edition.",
+          "The service returns because demand called for it, according to the source. The programme also includes leisure and participation activities, though the available material gives no further details."
+        ],
+        "apunte": "When demand speaks, the calendar listens.",
+        "enVeinte": [
+          "The Espacio Joven of Villaviciosa resumes its activity on Friday, 23 October at the Ateneo Obrero.",
+          "Psychological counselling returns to the programme due to the high demand recorded in the previous season.",
+          "The launch includes leisure and participation activities, though the details of the programme have not yet been confirmed."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Young people in the municipality once again have an accessible space for psychological listening and guidance — something that last season fell short of meeting the need.",
+        "lugar": "Ateneo Obrero, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le service de conseil psychologique revient à l'Espacio Joven de Villaviciosa",
+        "entradilla": "La forte demande pour ce service le ramène à la programmation de l'Ateneo Obrero dès ce vendredi 23 octobre.",
+        "cuerpo": [
+          "L'Espacio Joven de Villaviciosa entame une nouvelle saison le vendredi 23 octobre à l'Ateneo Obrero, avec le service de conseil psychologique comme l'une de ses propositions phares après le succès de participation de l'édition précédente.",
+          "Le service revient parce que la demande l'a réclamé, selon la source d'origine. La programmation comprend également des activités de loisirs et de participation, bien que le matériel disponible n'en précise pas davantage."
+        ],
+        "apunte": "Quand la demande parle, le calendrier écoute.",
+        "enVeinte": [
+          "L'Espacio Joven de Villaviciosa reprend son activité le vendredi 23 octobre à l'Ateneo Obrero.",
+          "Le conseil psychologique revient à la programmation en raison de la forte demande enregistrée lors de la saison précédente.",
+          "Le lancement comprend des activités de loisirs et de participation, mais les détails du programme n'ont pas encore été précisés."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Les jeunes de la commune disposent à nouveau d'un espace d'écoute et d'orientation psychologique accessible, quelque chose qui, la saison dernière, n'avait pas suffi à répondre aux besoins de ceux qui en avaient besoin.",
+        "lugar": "Ateneo Obrero, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Psychologische Beratung kehrt in den Espacio Joven von Villaviciosa zurück",
+        "entradilla": "Die hohe Nachfrage nach dem Angebot bringt es ab diesem Freitag, dem 23. Oktober, zurück ins Programm des Ateneo Obrero.",
+        "cuerpo": [
+          "Der Espacio Joven von Villaviciosa startet am Freitag, dem 23. Oktober, im Ateneo Obrero in eine neue Saison — mit der psychologischen Beratung als einem der Highlights, nachdem die Beteiligung in der vorigen Ausgabe sehr groß war.",
+          "Das Angebot kehrt zurück, weil die Nachfrage es verlangt hat, so die Ursprungsquelle. Das Programm umfasst auch Freizeit- und Mitmachangebote, obwohl das vorliegende Material keine weiteren Einzelheiten nennt."
+        ],
+        "apunte": "Wenn die Nachfrage spricht, hört der Kalender zu.",
+        "enVeinte": [
+          "Der Espacio Joven von Villaviciosa nimmt seine Tätigkeit am Freitag, dem 23. Oktober, im Ateneo Obrero wieder auf.",
+          "Die psychologische Beratung kehrt ins Programm zurück, weil in der vergangenen Saison eine hohe Nachfrage verzeichnet wurde.",
+          "Der Auftakt umfasst Freizeit- und Mitmachangebote, die Details des Programms sind jedoch noch nicht festgelegt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Junge Menschen in der Gemeinde haben wieder Zugang zu einem Raum für psychologisches Zuhören und Orientierung — etwas, das in der vergangenen Saison nicht ausreichte, um alle zu erreichen, die es brauchten.",
+        "lugar": "Ateneo Obrero, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "viernes 23 de octubre en el ateneo obrero"
+    ]
+  },
+  {
+    "id": "el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch",
+    "url": "/pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "El puente de Ribadesella cierra a los coches el 26 de octubre",
+    "entradilla": "Cuatro años de parches y semáforos terminan con un corte completo hasta marzo.",
+    "cuerpo": [
+      "A partir del 26 de octubre, los vehículos no podrán cruzar el puente que une las dos orillas de Ribadesella sobre el Sella. El corte se prolongará hasta marzo.",
+      "La obra lleva casi cuatro años generando cortes parciales, semáforos y desvíos. Esta nueva fase supone cerrar del todo el paso al tráfico rodado."
+    ],
+    "apunte": "Cuatro años dando el rodeo y ahora el rodeo se hace obligatorio.",
+    "enVeinte": [
+      "El puente de Ribadesella sobre el Sella cerrará al tráfico a partir del 26 de octubre.",
+      "El corte se mantendrá hasta marzo, sin paso para vehículos durante ese tiempo.",
+      "La obra acumula casi cuatro años de interrupciones parciales antes de llegar a este cierre total."
+    ],
+    "cifra": {
+      "numero": "4",
+      "unidad": "años",
+      "glosa": "Casi cuatro años lleva esta obra condicionando el cruce del Sella en Ribadesella, entre semáforos, cortes puntuales y desvíos. El cierre total a partir del 26 de octubre es la fase más restrictiva hasta ahora."
+    },
+    "palabra": null,
+    "porQue": "Quien cruce habitualmente por Ribadesella —para ir a trabajar, al médico o de camino a la costa— tendrá que buscar otra ruta entre el 26 de octubre y marzo.",
+    "etiquetas": [
+      "obras",
+      "Ribadesella",
+      "tráfico",
+      "puente"
+    ],
+    "fechaEvento": "2026-10-26",
+    "tipoEvento": "",
+    "lugar": "Ribadesella",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2025/10/01/2025100113524224786.jpg",
+    "fecha": "2026-10-19T18:04:55.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/ribadesella/ribadesella-queda-puente-coches-n-632-sella-cierra-26-octubre-marzo/20261019200455104759.html",
+      "titularOriginal": "El puente que une las dos orillas de Ribadesella dice adiós a los coches hasta marzo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella bridge closes to traffic on 26 October",
+        "entradilla": "Four years of patches and traffic lights end with a full closure until March.",
+        "cuerpo": [
+          "From 26 October, vehicles will not be able to cross the bridge linking the two banks of Ribadesella over the Sella. The closure will last until March.",
+          "The works have spent nearly four years causing partial closures, traffic lights and diversions. This new phase means a complete shutdown for road traffic."
+        ],
+        "apunte": "Four years of taking the long way round, and now the long way round is compulsory.",
+        "enVeinte": [
+          "The Ribadesella bridge over the Sella will close to traffic from 26 October.",
+          "The closure will remain in place until March, with no passage for vehicles during that time.",
+          "The works have accumulated nearly four years of partial disruptions before reaching this full closure."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "years",
+          "glosa": "Nearly four years of traffic lights, spot closures and diversions: that is how long these works have been affecting the crossing of the Sella at Ribadesella. The full closure from 26 October is the most restrictive phase yet."
+        },
+        "palabra": null,
+        "porQue": "Anyone who regularly crosses Ribadesella — to get to work, to the doctor or on the way to the coast — will need to find another route between 26 October and March.",
+        "lugar": "Ribadesella",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le pont de Ribadesella fermé aux voitures le 26 octobre",
+        "entradilla": "Quatre ans de rustines et de feux de circulation s'achèvent par une fermeture totale jusqu'en mars.",
+        "cuerpo": [
+          "À partir du 26 octobre, les véhicules ne pourront plus emprunter le pont qui relie les deux rives de Ribadesella sur le Sella. La fermeture durera jusqu'en mars.",
+          "Les travaux ont engendré pendant près de quatre ans des coupures partielles, des feux de circulation et des déviations. Cette nouvelle phase implique la fermeture totale au trafic routier."
+        ],
+        "apunte": "Quatre ans à faire le détour, et voilà que le détour devient obligatoire.",
+        "enVeinte": [
+          "Le pont de Ribadesella sur le Sella sera fermé à la circulation à partir du 26 octobre.",
+          "La fermeture se prolongera jusqu'en mars, sans passage possible pour les véhicules pendant cette période.",
+          "Les travaux cumulent près de quatre ans d'interruptions partielles avant d'aboutir à cette fermeture totale."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "ans",
+          "glosa": "Près de quatre ans de feux de circulation, de coupures ponctuelles et de déviations : c'est le bilan de ces travaux sur la traversée du Sella à Ribadesella. La fermeture totale à partir du 26 octobre constitue la phase la plus restrictive à ce jour."
+        },
+        "palabra": null,
+        "porQue": "Quiconque traverse habituellement Ribadesella — pour aller travailler, chez le médecin ou en direction de la côte — devra trouver un autre itinéraire entre le 26 octobre et mars.",
+        "lugar": "Ribadesella",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Brücke in Ribadesella wird am 26. Oktober für Autos gesperrt",
+        "entradilla": "Vier Jahre lang Flickwerk und Ampeln enden mit einer vollständigen Sperrung bis März.",
+        "cuerpo": [
+          "Ab dem 26. Oktober können Fahrzeuge die Brücke, die die beiden Ufer von Ribadesella über den Sella verbindet, nicht mehr passieren. Die Sperrung dauert bis März.",
+          "Die Bauarbeiten haben seit fast vier Jahren zu Teilsperrungen, Ampelregelungen und Umleitungen geführt. Diese neue Phase bedeutet eine vollständige Schließung für den Fahrzeugverkehr."
+        ],
+        "apunte": "Vier Jahre Umweg, und jetzt wird der Umweg zur Pflicht.",
+        "enVeinte": [
+          "Die Brücke von Ribadesella über den Sella wird ab dem 26. Oktober für den Verkehr gesperrt.",
+          "Die Sperrung bleibt bis März bestehen; in dieser Zeit ist kein Fahrzeugverkehr möglich.",
+          "Die Bauarbeiten haben fast vier Jahre lang zu Teilunterbrechungen geführt, bevor es zu dieser vollständigen Sperrung kam."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "Jahre",
+          "glosa": "Fast vier Jahre mit Ampeln, punktuellen Sperrungen und Umleitungen: So lange beeinträchtigen die Bauarbeiten die Querung des Sella in Ribadesella bereits. Die vollständige Sperrung ab dem 26. Oktober ist die bislang einschränkendste Phase."
+        },
+        "palabra": null,
+        "porQue": "Wer regelmäßig durch Ribadesella fährt — zur Arbeit, zum Arzt oder auf dem Weg zur Küste — wird zwischen dem 26. Oktober und März eine andere Route suchen müssen.",
+        "lugar": "Ribadesella",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el puente que une las dos orillas de",
+      "puente que une las dos orillas de ribadesella"
+    ]
+  },
+  {
+    "id": "el-ayuntamiento-de-villaviciosa-y-la-asociacion-clarin-rubrican-su-acu",
+    "url": "/villaviciosa/el-ayuntamiento-de-villaviciosa-y-la-asociacion-clarin-rubrican-su-acu/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa y la asociación Clarín firman acuerdo",
+    "entradilla": "El convenio reconoce el papel del colectivo literario en la proyección cultural del concejo más allá de Asturias.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa y la asociación Clarín han sellado un acuerdo de colaboración. El consistorio subraya que el colectivo enriquece la vida cultural local y pone el nombre del municipio en el mapa de las letras a escala internacional.",
+      "El material disponible no detalla las condiciones del convenio ni los compromisos concretos de cada parte, así que habrá que esperar a que el Ayuntamiento haga pública la letra pequeña."
+    ],
+    "apunte": "Clarín en el nombre del pueblo, el pueblo en el nombre de Clarín.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa y la asociación Clarín han firmado un acuerdo de colaboración cultural.",
+      "El consistorio destaca que el colectivo enriquece la oferta local y da proyección internacional al municipio en el ámbito literario.",
+      "Los detalles del convenio no se han hecho públicos todavía."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un acuerdo así puede traducirse en más actividades literarias y en mayor visibilidad para Villaviciosa fuera de Asturias, aunque habrá que ver qué compromisos concretos trae consigo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "asociación Clarín",
+      "cultura",
+      "convenio"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/19/clarin-convenio-RmVixp0UCljYUlETXXLIVCP-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-19T17:13:48.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ayuntamiento-villaviciosa-asociacion-clarin-rubrican-acuerdo-20261019191348-nt.html",
+      "titularOriginal": "El Ayuntamiento de Villaviciosa y la asociación Clarín rubrican su acuerdo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa and the Clarín association sign agreement",
+        "entradilla": "The agreement recognises the literary collective's role in raising the municipality's cultural profile beyond Asturias.",
+        "cuerpo": [
+          "Villaviciosa council and the Clarín association have sealed a collaboration agreement. The council stresses that the collective enriches local cultural life and puts the municipality on the map of letters at an international level.",
+          "The available material does not detail the terms of the agreement or the specific commitments of each party, so we will have to wait for the council to make the fine print public."
+        ],
+        "apunte": "Clarín in the name of the town, the town in the name of Clarín.",
+        "enVeinte": [
+          "Villaviciosa council and the Clarín association have signed a cultural collaboration agreement.",
+          "The council highlights that the collective enriches the local offer and gives the municipality international reach in the literary field.",
+          "The details of the agreement have not yet been made public."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "An agreement like this could lead to more literary activities and greater visibility for Villaviciosa outside Asturias, though the concrete commitments it brings will need to be seen.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa et l'association Clarín signent un accord",
+        "entradilla": "La convention reconnaît le rôle du collectif littéraire dans le rayonnement culturel de la commune au-delà des Asturies.",
+        "cuerpo": [
+          "La mairie de Villaviciosa et l'association Clarín ont scellé un accord de collaboration. La mairie souligne que le collectif enrichit la vie culturelle locale et place la commune sur la carte des lettres à l'échelle internationale.",
+          "Le matériau disponible ne précise ni les conditions de la convention ni les engagements concrets de chaque partie ; il faudra donc attendre que la mairie rende publics les détails du texte."
+        ],
+        "apunte": "Clarín dans le nom du village, le village dans le nom de Clarín.",
+        "enVeinte": [
+          "La mairie de Villaviciosa et l'association Clarín ont signé un accord de collaboration culturelle.",
+          "La mairie souligne que le collectif enrichit l'offre locale et donne à la commune un rayonnement international dans le domaine littéraire.",
+          "Les détails de la convention n'ont pas encore été rendus publics."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un tel accord pourrait se traduire par davantage d'activités littéraires et une meilleure visibilité de Villaviciosa en dehors des Asturies, même s'il reste à voir quels engagements concrets il implique.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa und der Verein Clarín unterzeichnen Vereinbarung",
+        "entradilla": "Die Vereinbarung erkennt die Rolle des Literaturkollektivs bei der kulturellen Ausstrahlung der Gemeinde über Asturien hinaus an.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa und der Verein Clarín haben eine Kooperationsvereinbarung geschlossen. Das Rathaus betont, dass das Kollektiv das kulturelle Leben vor Ort bereichert und die Gemeinde auf der Landkarte der Literatur international bekannt macht.",
+          "Das vorliegende Material enthält weder die Bedingungen der Vereinbarung noch die konkreten Verpflichtungen der einzelnen Parteien; man wird also warten müssen, bis das Rathaus das Kleingedruckte veröffentlicht."
+        ],
+        "apunte": "Clarín im Namen des Ortes, der Ort im Namen von Clarín.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa und der Verein Clarín haben eine kulturelle Kooperationsvereinbarung unterzeichnet.",
+          "Das Rathaus hebt hervor, dass das Kollektiv das lokale Angebot bereichert und der Gemeinde im literarischen Bereich internationale Sichtbarkeit verschafft.",
+          "Die Einzelheiten der Vereinbarung wurden noch nicht veröffentlicht."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Eine solche Vereinbarung könnte zu mehr literarischen Veranstaltungen und einer größeren Sichtbarkeit Villaviciosas außerhalb Asturiens führen, auch wenn abzuwarten bleibt, welche konkreten Verpflichtungen sie mit sich bringt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el ayuntamiento de villaviciosa y la asociacion clarin"
+    ]
+  },
+  {
+    "id": "nava-organiza-dos-talleres-gratuitos-de-animacion-y-comic-para-ninos-y",
+    "url": "/nava/nava-organiza-dos-talleres-gratuitos-de-animacion-y-comic-para-ninos-y/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Nava abre talleres de cómic y animación gratis",
+    "entradilla": "La Casa de Cultura 'Marta Portal' tiene plazas limitadas para dos sesiones a finales de octubre.",
+    "cuerpo": [
+      "El Ayuntamiento de Nava organiza dos talleres gratuitos en la Casa de Cultura 'Marta Portal': uno de técnicas de animación y otro de creación de cómics, dirigidos a niños y jóvenes.",
+      "Las sesiones se celebran los días 27 y 29 de octubre. Las plazas son limitadas, así que quien quiera apuntarse tiene que moverse antes de que se agoten."
+    ],
+    "apunte": "Plazas limitadas: dos palabras que suenan a correr.",
+    "enVeinte": [
+      "La Casa de Cultura 'Marta Portal' de Nava acoge dos talleres gratuitos de animación y cómic los días 27 y 29 de octubre.",
+      "Las actividades están dirigidas a niños y jóvenes y tienen plazas limitadas.",
+      "Quien quiera participar deberá apuntarse antes de que se llenen los cupos."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si tienes críos en casa con ganas de dibujar o de hacer sus propias historias, estos dos días son una oportunidad sin coste en el propio pueblo.",
+    "etiquetas": [
+      "Nava",
+      "talleres",
+      "cómic",
+      "animación"
+    ],
+    "fechaEvento": "2026-10-27",
+    "tipoEvento": "taller",
+    "lugar": "Casa de Cultura «Marta Portal», Nava",
+    "hora": "",
+    "precio": "gratis",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/nava-organiza-dos-talleres-gratuitos-de-animacion-240e08da.jpg",
+    "fecha": "2026-10-19T15:37:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-nava/nava-organiza-dos-talleres-gratuitos-de-animacion-y-comic-para-ninos-y-jovenes-11276666.html",
+      "titularOriginal": "Nava organiza dos talleres gratuitos de animación y cómic para niños y jóvenes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava opens free comic and animation workshops",
+        "entradilla": "The Casa de Cultura 'Marta Portal' has limited places for two sessions at the end of October.",
+        "cuerpo": [
+          "The council of Nava is organising two free workshops at the Casa de Cultura 'Marta Portal': one on animation techniques and one on comic creation, aimed at children and young people.",
+          "The sessions take place on 27 and 29 October. Places are limited, so anyone who wants to sign up needs to act before they run out."
+        ],
+        "apunte": "Limited places: two words that mean hurry up.",
+        "enVeinte": [
+          "The Casa de Cultura 'Marta Portal' in Nava is hosting two free workshops on animation and comics on 27 and 29 October.",
+          "The activities are aimed at children and young people and have limited places.",
+          "Anyone who wants to take part should sign up before the spots are gone."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you have kids at home who love drawing or want to create their own stories, these two days are a no-cost opportunity right in the village.",
+        "lugar": "Casa de Cultura «Marta Portal», Nava",
+        "precio": "free"
+      },
+      "fr": {
+        "titular": "Nava propose des ateliers gratuits de bande dessinée et d'animation",
+        "entradilla": "La Casa de Cultura 'Marta Portal' offre des places limitées pour deux séances fin octobre.",
+        "cuerpo": [
+          "La mairie de Nava organise deux ateliers gratuits à la Casa de Cultura 'Marta Portal' : l'un sur les techniques d'animation et l'autre sur la création de bandes dessinées, destinés aux enfants et aux jeunes.",
+          "Les séances ont lieu les 27 et 29 octobre. Les places sont limitées, alors ceux qui souhaitent s'inscrire doivent se dépêcher avant qu'elles ne soient épuisées."
+        ],
+        "apunte": "Places limitées : deux mots qui font courir.",
+        "enVeinte": [
+          "La Casa de Cultura 'Marta Portal' de Nava accueille deux ateliers gratuits d'animation et de bande dessinée les 27 et 29 octobre.",
+          "Les activités sont destinées aux enfants et aux jeunes et disposent de places limitées.",
+          "Ceux qui souhaitent participer devront s'inscrire avant que les places ne soient complètes."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous avez des enfants à la maison qui aiment dessiner ou qui veulent créer leurs propres histoires, ces deux journées sont une occasion gratuite dans leur propre village.",
+        "lugar": "Casa de Cultura «Marta Portal», Nava",
+        "precio": "gratuit"
+      },
+      "de": {
+        "titular": "Nava bietet kostenlose Comic- und Animationsworkshops an",
+        "entradilla": "Die Casa de Cultura 'Marta Portal' hat begrenzte Plätze für zwei Veranstaltungen Ende Oktober.",
+        "cuerpo": [
+          "Das Rathaus von Nava organisiert zwei kostenlose Workshops in der Casa de Cultura 'Marta Portal': einen zu Animationstechniken und einen zur Comic-Erstellung, gerichtet an Kinder und Jugendliche.",
+          "Die Veranstaltungen finden am 27. und 29. Oktober statt. Die Plätze sind begrenzt, wer also mitmachen möchte, sollte sich beeilen, bevor sie vergeben sind."
+        ],
+        "apunte": "Begrenzte Plätze: zwei Wörter, die zur Eile mahnen.",
+        "enVeinte": [
+          "Die Casa de Cultura 'Marta Portal' in Nava veranstaltet am 27. und 29. Oktober zwei kostenlose Workshops zu Animation und Comic.",
+          "Die Angebote richten sich an Kinder und Jugendliche und verfügen über begrenzte Plätze.",
+          "Wer teilnehmen möchte, sollte sich anmelden, bevor die Plätze belegt sind."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Sie Kinder zu Hause haben, die gerne zeichnen oder eigene Geschichten erfinden möchten, sind diese zwei Tage eine kostenlose Gelegenheit direkt im eigenen Ort.",
+        "lugar": "Casa de Cultura «Marta Portal», Nava",
+        "precio": "kostenlos"
+      }
+    }
+  },
+  {
     "id": "vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c",
     "url": "/cabrales/vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c/",
     "concejo": "Cabrales",
