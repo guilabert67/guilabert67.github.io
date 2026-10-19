@@ -6,29 +6,25 @@
     "concejoSlug": "cabranes",
     "seccion": "actualidad",
     "titular": "La Rectoral de Taramundi cierra para reformarse",
-    "entradilla": "El hotel rural más antiguo de España para dos millones de euros en obras y no reabrirá antes de 2028.",
+    "entradilla": "El hotel rural más antiguo de España para un año entero para renovarse con dos millones de euros.",
     "cuerpo": [
-      "La Rectoral de Taramundi ha servido el último desayuno. El establecimiento cierra de forma temporal para acometer una renovación completa que costará dos millones de euros: seguridad, instalaciones eléctricas y accesibilidad, entre otras mejoras, según el alcalde de Taramundi, César Villabrille.",
-      "El hotel abrió en 1986 en una antigua casa rectoral del siglo XVIII y fue el primer alojamiento rural que echó a andar en todo el país. Cuatro décadas después, su director, Jesús Mier, que lleva treinta años al frente, se marcha con él: le llegó la jubilación.",
-      "Cuando reabra, la intención es que La Rectoral sea el primer establecimiento de una futura red pública de turismo rural del Principado, al estilo de los Paradores. Los plazos apuntan a que las puertas no volverán a abrirse antes de 2028."
+      "La Rectoral de Taramundi baja la persiana de forma temporal. El establecimiento, que abrió en 1986 como el primer hotel rural del país, acomete ahora una reforma integral que costará dos millones de euros y que afectará a la seguridad, la instalación eléctrica y la accesibilidad, según el alcalde de Taramundi, César Villabrille.",
+      "La reapertura no se espera antes de 2027. El director del hotel, Jesús Mier, que ha llevado el establecimiento durante 30 de sus 40 años de vida, se marcha ahora jubilado.",
+      "Cuando vuelva a abrir, la intención es que La Rectoral sea el primer hotel en integrarse en una futura red pública de alojamientos rurales del Principado, de funcionamiento similar al de los Paradores."
     ],
-    "apunte": "Cuarenta años recibiendo turistas y ahora toca ser turista esperando que abra.",
+    "apunte": "Cuarenta años dando cama y desayuno, y ahora le toca ser el paciente.",
     "enVeinte": [
-      "La Rectoral de Taramundi, el primer hotel rural de España, cierra temporalmente para una reforma de dos millones de euros.",
-      "Las obras afectan a seguridad, electricidad y accesibilidad; no reabrirá, como mínimo, hasta 2028.",
-      "Cuando vuelva a abrir, el hotel aspira a ser el primero de una red pública de alojamientos rurales del Principado al estilo de Paradores."
+      "La Rectoral de Taramundi, el primer hotel rural de España, cierra temporalmente para acometer una reforma de dos millones de euros.",
+      "Las obras afectan a seguridad, electricidad y accesibilidad; la reapertura no se prevé antes de 2027.",
+      "Cuando reabra, el hotel aspira a ser el primero de una red pública de establecimientos rurales del Principado, al estilo de los Paradores."
     ],
     "cifra": {
       "numero": "2.000.000",
       "unidad": "euros",
-      "glosa": "Es la inversión prevista para renovar por completo La Rectoral de Taramundi. El dinero irá a mejorar la seguridad, los sistemas eléctricos y la accesibilidad del edificio, una casa rectoral del siglo XVIII que lleva cuarenta años funcionando como hotel de cuatro estrellas."
+      "glosa": "Es la inversión prevista para la reforma integral de La Rectoral. El dinero irá a seguridad, instalación eléctrica y mejoras de accesibilidad, según el alcalde de Taramundi."
     },
-    "palabra": {
-      "termino": "rectoral",
-      "como": "rec-to-ral, igual que en castellano",
-      "definicion": "Casa rectoral es la vivienda tradicional del cura párroco, ligada a la iglesia del pueblo. En Asturias muchas de estas casas, ya sin uso religioso, se han reconvertido en hoteles o casas de aldea; de ahí que el nombre haya quedado como seña de identidad del establecimiento."
-    },
-    "porQue": "Quien tenía reserva en La Rectoral o pensaba hacerla tendrá que esperar al menos hasta 2028; y si los planes del Principado salen adelante, el hotel que reabra será ya parte de una red pública de turismo rural con otra forma de gestionarse.",
+    "palabra": null,
+    "porQue": "La Rectoral es uno de los referentes del turismo rural asturiano desde hace cuatro décadas; su reforma y su posible entrada en una red pública de hoteles rurales puede marcar el modelo para otros municipios de la región.",
     "etiquetas": [
       "turismo rural",
       "Taramundi",
@@ -37,12 +33,12 @@
     ],
     "fechaEvento": "",
     "tipoEvento": "",
-    "lugar": "Taramundi",
+    "lugar": "",
     "hora": "",
     "precio": "",
     "imagen": "",
     "imagenFuente": "https://www.rtpa.es//26/10//20261018165254_RTPA8736695.webp",
-    "fecha": "2026-10-18T14:56:00.000Z",
+    "fecha": "2026-10-19T06:53:00.000Z",
     "fuente": {
       "nombre": "RTPA",
       "url": "https://www.rtpa.es/noticias-asturias/2026-10-18/La-Rectoral-de-Taramundi-cierra-por-reformas-tras-40-años-como-referente-del-turismo-rural_111792335271.html",
@@ -52,93 +48,459 @@
     "trad": {
       "en": {
         "titular": "La Rectoral de Taramundi closes for renovation",
-        "entradilla": "Spain's oldest rural hotel pauses for two million euros' worth of works and will not reopen before 2028.",
+        "entradilla": "Spain's oldest rural hotel shuts for a full year to undergo a two-million-euro overhaul.",
         "cuerpo": [
-          "La Rectoral de Taramundi has served its last breakfast. The establishment is closing temporarily to undertake a complete renovation costing two million euros: safety, electrical installations and accessibility, among other improvements, according to the mayor of Taramundi, César Villabrille.",
-          "The hotel opened in 1986 in a former eighteenth-century rectory and was the first rural accommodation to get off the ground anywhere in the country. Four decades on, its director, Jesús Mier, who has been at the helm for thirty years, is leaving with it: retirement has caught up with him.",
-          "When it reopens, the intention is for La Rectoral to become the first establishment in a future public rural tourism network run by the Principality, along the lines of the Paradores. The timelines suggest the doors will not open again before 2028."
+          "La Rectoral de Taramundi is closing its doors temporarily. The establishment, which opened in 1986 as the country's first rural hotel, is now undertaking a full renovation costing two million euros that will cover safety, electrical installation and accessibility, according to the mayor of Taramundi, César Villabrille.",
+          "Reopening is not expected before 2027. The hotel's director, Jesús Mier, who has run the establishment for 30 of its 40 years, is now retiring.",
+          "When it reopens, the intention is for La Rectoral to be the first hotel to join a future public network of rural accommodation in the Principality, operating along similar lines to the Paradores."
         ],
-        "apunte": "Forty years welcoming tourists, and now it's time to be the tourist waiting for it to open.",
+        "apunte": "Forty years providing bed and breakfast, and now it's the one in need of care.",
         "enVeinte": [
-          "La Rectoral de Taramundi, Spain's first rural hotel, is closing temporarily for a two-million-euro renovation.",
-          "The works cover safety, electricity and accessibility; it will not reopen before 2028 at the earliest.",
-          "When it does reopen, the hotel aims to become the first in a public rural accommodation network run by the Principality, along the lines of the Paradores."
-        ],
-        "cifra": {
-          "numero": "2,000,000",
-          "unidad": "euros",
-          "glosa": "This is the planned investment to fully renovate La Rectoral de Taramundi. The money will go towards improving safety, electrical systems and accessibility at the building, an eighteenth-century rectory that has been operating as a four-star hotel for forty years."
-        },
-        "palabra": {
-          "termino": "rectoral",
-          "como": "rec-to-ral, as in Spanish",
-          "definicion": "A casa rectoral is the traditional home of the parish priest, attached to the village church. In Asturias many of these houses, no longer in religious use, have been converted into hotels or rural guesthouses; that is why the name has remained as the establishment's defining identity."
-        },
-        "porQue": "Anyone who had a booking at La Rectoral or was planning to make one will have to wait until at least 2028; and if the Principality's plans go ahead, the hotel that reopens will already be part of a public rural tourism network run along different lines.",
-        "lugar": "Taramundi",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Rectoral de Taramundi ferme pour travaux",
-        "entradilla": "Le plus ancien hôtel rural d'Espagne marque une pause pour deux millions d'euros de travaux et ne rouvrira pas avant 2028.",
-        "cuerpo": [
-          "La Rectoral de Taramundi a servi son dernier petit-déjeuner. L'établissement ferme temporairement pour mener à bien une rénovation complète qui coûtera deux millions d'euros : sécurité, installations électriques et accessibilité, entre autres améliorations, selon le maire de Taramundi, César Villabrille.",
-          "L'hôtel a ouvert en 1986 dans une ancienne maison curiale du XVIIIe siècle et a été le premier hébergement rural à voir le jour dans tout le pays. Quatre décennies plus tard, son directeur, Jesús Mier, qui est aux commandes depuis trente ans, part avec lui : la retraite est arrivée.",
-          "Lorsqu'il rouvrira, l'intention est que La Rectoral devienne le premier établissement d'un futur réseau public de tourisme rural de la Principauté, sur le modèle des Paradores. Les délais laissent entendre que les portes ne rouvriront pas avant 2028."
-        ],
-        "apunte": "Quarante ans à accueillir des touristes, et voilà qu'il faut être le touriste qui attend que ça rouvre.",
-        "enVeinte": [
-          "La Rectoral de Taramundi, premier hôtel rural d'Espagne, ferme temporairement pour une rénovation de deux millions d'euros.",
-          "Les travaux portent sur la sécurité, l'électricité et l'accessibilité ; l'établissement ne rouvrira pas avant 2028 au plus tôt.",
-          "À sa réouverture, l'hôtel ambitionne d'être le premier d'un réseau public d'hébergements ruraux de la Principauté, sur le modèle des Paradores."
-        ],
-        "cifra": {
-          "numero": "2 000 000",
-          "unidad": "euros",
-          "glosa": "C'est l'investissement prévu pour rénover entièrement La Rectoral de Taramundi. L'argent servira à améliorer la sécurité, les systèmes électriques et l'accessibilité du bâtiment, une maison curiale du XVIIIe siècle qui fonctionne comme hôtel quatre étoiles depuis quarante ans."
-        },
-        "palabra": {
-          "termino": "rectoral",
-          "como": "rec-to-ral, comme en espagnol",
-          "definicion": "Une casa rectoral est la demeure traditionnelle du curé de paroisse, attenante à l'église du village. En Asturias, beaucoup de ces maisons, désormais sans usage religieux, ont été reconverties en hôtels ou en gîtes ruraux ; c'est pourquoi le nom est resté comme signe distinctif de l'établissement."
-        },
-        "porQue": "Quiconque avait une réservation à La Rectoral ou envisageait d'en faire une devra attendre au moins jusqu'en 2028 ; et si les projets de la Principauté se concrétisent, l'hôtel qui rouvrira fera déjà partie d'un réseau public de tourisme rural géré différemment.",
-        "lugar": "Taramundi",
-        "precio": ""
-      },
-      "de": {
-        "titular": "La Rectoral de Taramundi schließt für Umbauarbeiten",
-        "entradilla": "Spaniens ältestes Landhotel legt für Bauarbeiten im Wert von zwei Millionen Euro eine Pause ein und wird vor 2028 nicht wieder öffnen.",
-        "cuerpo": [
-          "La Rectoral de Taramundi hat sein letztes Frühstück serviert. Das Haus schließt vorübergehend, um eine vollständige Renovierung durchzuführen, die zwei Millionen Euro kosten wird: Sicherheit, Elektroinstallationen und Barrierefreiheit zählen zu den Verbesserungen, wie der Bürgermeister von Taramundi, César Villabrille, mitteilte.",
-          "Das Hotel öffnete 1986 in einem ehemaligen Pfarrhaus aus dem 18. Jahrhundert und war das erste Landhotel, das im ganzen Land seinen Betrieb aufnahm. Vier Jahrzehnte später verlässt es auch sein Direktor, Jesús Mier, der seit dreißig Jahren an der Spitze steht: Er geht in Rente.",
-          "Nach der Wiedereröffnung soll La Rectoral das erste Haus eines künftigen öffentlichen Landtourismus-Netzwerks der Principauté werden, nach dem Vorbild der Paradores. Den Zeitplänen zufolge werden die Türen frühestens 2028 wieder aufgehen."
-        ],
-        "apunte": "Vierzig Jahre lang Touristen empfangen – und jetzt heißt es selbst Tourist sein und warten, bis es wieder aufmacht.",
-        "enVeinte": [
-          "La Rectoral de Taramundi, Spaniens erstes Landhotel, schließt vorübergehend für eine Renovierung im Wert von zwei Millionen Euro.",
-          "Die Arbeiten betreffen Sicherheit, Elektrik und Barrierefreiheit; die Wiedereröffnung erfolgt frühestens 2028.",
-          "Nach der Wiedereröffnung soll das Hotel das erste Haus eines öffentlichen Landunterkunfts-Netzwerks der Principauté nach dem Vorbild der Paradores werden."
+          "La Rectoral de Taramundi, Spain's first rural hotel, is closing temporarily to carry out a two-million-euro renovation.",
+          "The works cover safety, electricity and accessibility; reopening is not expected before 2027.",
+          "When it reopens, the hotel aims to be the first in a public network of rural establishments in the Principality, modelled on the Paradores."
         ],
         "cifra": {
           "numero": "2.000.000",
-          "unidad": "Euro",
-          "glosa": "Das ist die geplante Investition für die vollständige Renovierung von La Rectoral de Taramundi. Das Geld fließt in die Verbesserung der Sicherheit, der Elektrosysteme und der Barrierefreiheit des Gebäudes – eines Pfarrhauses aus dem 18. Jahrhundert, das seit vierzig Jahren als Vier-Sterne-Hotel in Betrieb ist."
+          "unidad": "euros",
+          "glosa": "This is the planned investment for the full renovation of La Rectoral. The money will go towards safety, electrical installation and accessibility improvements, according to the mayor of Taramundi."
+        },
+        "palabra": null,
+        "porQue": "La Rectoral has been one of the benchmarks of Asturian rural tourism for four decades; its renovation and possible entry into a public rural hotel network could set the model for other municipalities in the region.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Rectoral de Taramundi ferme ses portes pour se rénover",
+        "entradilla": "Le plus ancien hôtel rural d'Espagne suspend son activité pendant un an entier pour se refaire une beauté, avec deux millions d'euros à la clé.",
+        "cuerpo": [
+          "La Rectoral de Taramundi baisse temporairement le rideau. L'établissement, qui a ouvert en 1986 comme premier hôtel rural du pays, entame désormais une rénovation complète d'un coût de deux millions d'euros, portant sur la sécurité, l'installation électrique et l'accessibilité, selon le maire de Taramundi, César Villabrille.",
+          "La réouverture n'est pas attendue avant 2027. Le directeur de l'hôtel, Jesús Mier, qui a dirigé l'établissement pendant 30 de ses 40 années d'existence, part maintenant à la retraite.",
+          "À sa réouverture, l'intention est que La Rectoral soit le premier hôtel à intégrer un futur réseau public d'hébergements ruraux de la Principauté, fonctionnant sur un modèle similaire à celui des Paradores."
+        ],
+        "apunte": "Quarante ans à offrir le gîte et le couvert, et voilà qu'il est à son tour le patient.",
+        "enVeinte": [
+          "La Rectoral de Taramundi, premier hôtel rural d'Espagne, ferme temporairement pour entreprendre une rénovation de deux millions d'euros.",
+          "Les travaux concernent la sécurité, l'électricité et l'accessibilité ; la réouverture n'est pas prévue avant 2027.",
+          "À sa réouverture, l'hôtel ambitionne d'être le premier d'un réseau public d'établissements ruraux de la Principauté, sur le modèle des Paradores."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "euros",
+          "glosa": "C'est l'investissement prévu pour la rénovation complète de La Rectoral. L'argent sera consacré à la sécurité, à l'installation électrique et aux améliorations d'accessibilité, selon le maire de Taramundi."
+        },
+        "palabra": null,
+        "porQue": "La Rectoral est l'une des références du tourisme rural asturien depuis quatre décennies ; sa rénovation et son éventuelle intégration dans un réseau public d'hôtels ruraux pourraient servir de modèle à d'autres communes de la région.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Rectoral de Taramundi schließt für Renovierungsarbeiten",
+        "entradilla": "Spaniens ältestes Landhotel macht ein ganzes Jahr lang zu, um sich für zwei Millionen Euro zu erneuern.",
+        "cuerpo": [
+          "La Rectoral de Taramundi schließt vorübergehend seine Türen. Das Haus, das 1986 als erstes Landhotel des Landes eröffnete, unterzieht sich nun einer Komplettrenovierung für zwei Millionen Euro, die Sicherheit, Elektroinstallation und Barrierefreiheit umfasst — so der Bürgermeister von Taramundi, César Villabrille.",
+          "Eine Wiedereröffnung wird vor 2027 nicht erwartet. Der Hoteldirektor Jesús Mier, der das Haus 30 seiner 40 Jahre lang geführt hat, geht jetzt in den Ruhestand.",
+          "Nach der Wiedereröffnung soll La Rectoral als erstes Hotel in ein künftiges öffentliches Netzwerk ländlicher Unterkünfte des Fürstentums aufgenommen werden, das ähnlich wie die Paradores funktionieren soll."
+        ],
+        "apunte": "Vierzig Jahre lang Bett und Frühstück geboten — jetzt ist es selbst der Patient.",
+        "enVeinte": [
+          "La Rectoral de Taramundi, Spaniens erstes Landhotel, schließt vorübergehend, um eine Renovierung für zwei Millionen Euro durchzuführen.",
+          "Die Arbeiten betreffen Sicherheit, Elektrik und Barrierefreiheit; eine Wiedereröffnung ist vor 2027 nicht geplant.",
+          "Nach der Wiedereröffnung will das Hotel das erste eines öffentlichen Netzwerks ländlicher Einrichtungen des Fürstentums werden — nach dem Vorbild der Paradores."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "euros",
+          "glosa": "Das ist die geplante Investition für die Komplettrenovierung von La Rectoral. Das Geld fließt in Sicherheit, Elektroinstallation und Verbesserungen der Barrierefreiheit, so der Bürgermeister von Taramundi."
+        },
+        "palabra": null,
+        "porQue": "La Rectoral ist seit vier Jahrzehnten eine der Referenzen des asturischen Landtourismus; seine Renovierung und ein möglicher Eintritt in ein öffentliches Landhotel-Netzwerk könnten das Modell für andere Gemeinden der Region prägen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-mejor-sidra-casera-de-asturias-se-hace-en-salas-y-la-elabora-marcos",
+    "url": "/pilona/la-mejor-sidra-casera-de-asturias-se-hace-en-salas-y-la-elabora-marcos/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un salense gana el concurso de sidra casera asturiana",
+    "entradilla": "Marcos Rodríguez se llevó el primer premio por delante de una piloñesa y elabora mil litros en la tradición de su familia.",
+    "cuerpo": [
+      "Marcos Rodríguez, de Salas, tiene la mejor sidra casera de Asturias. Así lo decidió el concurso organizado por la Asociación de Fomento de la Sidra Tradicional Asturiana, donde compitieron 55 llagareros de 24 concejos distintos.",
+      "Piloña tuvo voz propia: José Llera quedó octavo, y Juan Pérez, de Villaviciosa, se hizo con el quinto puesto. Ambos coincidieron en que la cosecha de este año no puso las cosas fáciles.",
+      "La degustación popular movió casi 9.000 culines repartidos en 110 cajas, lo que da idea del tamaño del evento. Para quien hace sidra en casa, este certamen es hoy por hoy la cita de referencia del sector."
+    ],
+    "apunte": "Mil litros, tradición familiar y primer premio: Marcos Rodríguez no tiene mal año para pedir ese deseo.",
+    "enVeinte": [
+      "El salense Marcos Rodríguez gana el concurso de sidra casera de Asturias con una producción de mil litros.",
+      "José Llera, de Piloña, quedó octavo; ambos llagareros locales señalan que la cosecha de este año fue complicada.",
+      "El certamen reunió a 55 participantes de 24 concejos y repartió casi 9.000 culines en la degustación popular."
+    ],
+    "cifra": {
+      "numero": "55",
+      "unidad": "llagareros",
+      "glosa": "Cincuenta y cinco elaboradores de sidra casera de 24 concejos distintos se presentaron al concurso. Es una cifra que muestra que la sidra artesana de llagar particular sigue muy viva en toda Asturias, no solo en los grandes municipios sidrófilos."
+    },
+    "palabra": {
+      "termino": "llagarero",
+      "como": "lla-ga-RE-ro",
+      "definicion": "Persona que elabora sidra en un llagar, es decir, en el lagar o prensa donde se trabaja la manzana. En Asturias el término se aplica tanto al dueño del llagar como a quien cuida del proceso de elaboración, y lleva implícito un saber hacer que pasa de generación en generación."
+    },
+    "porQue": "Que un piloñés quede entre los diez mejores de Asturias en sidra casera recuerda que el oficio de llagarero sigue arraigado en el concejo, aunque la cosecha apriete.",
+    "etiquetas": [
+      "sidra",
+      "llagareros",
+      "Piloña",
+      "concurso"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "gastro",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261018193738_RTPA8737261.webp",
+    "fecha": "2026-10-19T06:51:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-18/La-mejor-sidra-casera-de-Asturias-se-hace-en-Salas-y-la-elabora-Marcos-Rodriguez_111792342146.html",
+      "titularOriginal": "La mejor sidra casera de Asturias se hace en Salas y la elabora Marcos Rodríguez"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A man from Salas wins the Asturian home-made cider competition",
+        "entradilla": "Marcos Rodríguez took first prize ahead of a competitor from Piloña and produces a thousand litres following his family tradition.",
+        "cuerpo": [
+          "Marcos Rodríguez, from Salas, makes the best home-made cider in Asturias. That was the verdict of the competition organised by the Asociación de Fomento de la Sidra Tradicional Asturiana, in which 55 llagareros (home cider-makers) from 24 different municipalities competed.",
+          "Piloña had its own voice: José Llera finished eighth, and Juan Pérez, from Villaviciosa, took fifth place. Both agreed that this year's harvest made things far from easy.",
+          "The public tasting got through almost 9,000 culines (small cider glasses) spread across 110 crates, which gives a sense of the scale of the event. For anyone who makes cider at home, this competition is now the sector's go-to fixture."
+        ],
+        "apunte": "A thousand litres, a family tradition and first prize: Marcos Rodríguez is having quite the year.",
+        "enVeinte": [
+          "Marcos Rodríguez, from Salas, wins the Asturian home-made cider competition with a production of a thousand litres.",
+          "José Llera, from Piloña, finished eighth; both local llagareros noted that this year's harvest was difficult.",
+          "The competition brought together 55 participants from 24 municipalities and poured almost 9,000 culines at the public tasting."
+        ],
+        "cifra": {
+          "numero": "55",
+          "unidad": "llagareros",
+          "glosa": "Fifty-five home cider-makers from 24 different municipalities entered the competition. The figure shows that artisan cider-making in private llagareros remains very much alive across Asturias, not only in the large municipalities with the strongest cider culture."
         },
         "palabra": {
-          "termino": "rectoral",
-          "como": "rec-to-ral, wie im Spanischen",
-          "definicion": "Eine casa rectoral ist die traditionelle Unterkunft des Gemeindepfarrers, die zur Dorfkirche gehört. In Asturias wurden viele dieser Häuser, die keiner religiösen Nutzung mehr dienen, zu Hotels oder Landunterkünften umgebaut; daher ist der Name als Erkennungszeichen des Hauses erhalten geblieben."
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "A person who makes cider in a llagar — that is, the press or mill where apples are processed. In Asturias the term applies both to the owner of the llagar and to whoever oversees the production process, and it implies a craft knowledge passed down from generation to generation."
         },
-        "porQue": "Wer eine Buchung bei La Rectoral hatte oder eine plante, muss mindestens bis 2028 warten; und sollten die Pläne der Principauté umgesetzt werden, wird das wiedereröffnete Hotel bereits Teil eines öffentlichen Landtourismus-Netzwerks mit einer anderen Verwaltungsstruktur sein.",
-        "lugar": "Taramundi",
+        "porQue": "A competitor from Piloña finishing in the top ten in Asturias for home-made cider is a reminder that the llagarero's craft remains deeply rooted in the municipality, even when the harvest is tough.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un habitant de Salas remporte le concours de cidre maison asturien",
+        "entradilla": "Marcos Rodríguez a décroché le premier prix devant une concurrente de Piloña et produit mille litres dans la tradition de sa famille.",
+        "cuerpo": [
+          "Marcos Rodríguez, originaire de Salas, fabrique le meilleur cidre maison des Asturies. C'est ce qu'a décidé le concours organisé par l'Asociación de Fomento de la Sidra Tradicional Asturiana, où 55 llagareros (producteurs de cidre artisanal) issus de 24 communes différentes se sont affrontés.",
+          "Piloña avait ses représentants : José Llera a terminé huitième, et Juan Pérez, de Villaviciosa, a décroché la cinquième place. Tous deux ont reconnu que la récolte de cette année n'avait pas facilité les choses.",
+          "La dégustation publique a écoulé près de 9 000 culines (petits verres à cidre) répartis dans 110 caisses, ce qui donne une idée de l'ampleur de l'événement. Pour qui fabrique du cidre chez soi, ce certamen est aujourd'hui le rendez-vous de référence du secteur."
+        ],
+        "apunte": "Mille litres, une tradition familiale et le premier prix : Marcos Rodríguez peut se féliciter de son année.",
+        "enVeinte": [
+          "Marcos Rodríguez, originaire de Salas, remporte le concours de cidre maison des Asturies avec une production de mille litres.",
+          "José Llera, de Piloña, a terminé huitième ; les deux llagareros locaux soulignent que la récolte de cette année a été difficile.",
+          "Le concours a réuni 55 participants issus de 24 communes et a servi près de 9 000 culines lors de la dégustation publique."
+        ],
+        "cifra": {
+          "numero": "55",
+          "unidad": "llagareros",
+          "glosa": "Cinquante-cinq producteurs de cidre maison issus de 24 communes différentes se sont présentés au concours. Ce chiffre montre que la fabrication artisanale de cidre en llagar particulier reste très vivante dans l'ensemble des Asturies, et pas seulement dans les grandes communes à forte culture cidrière."
+        },
+        "palabra": {
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "Personne qui fabrique du cidre dans un llagar, c'est-à-dire le pressoir où les pommes sont travaillées. Dans les Asturies, le terme s'applique aussi bien au propriétaire du llagar qu'à celui qui supervise le processus de fabrication, et il implique un savoir-faire transmis de génération en génération."
+        },
+        "porQue": "Qu'un habitant de Piloña figure parmi les dix meilleurs producteurs de cidre maison des Asturies rappelle que le métier de llagarero reste profondément enraciné dans la commune, même quand la récolte est difficile.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Mann aus Salas gewinnt den asturischen Hausmacher-Apfelwein-Wettbewerb",
+        "entradilla": "Marcos Rodríguez holte den ersten Preis vor einer Teilnehmerin aus Piloña und stellt tausend Liter nach der Tradition seiner Familie her.",
+        "cuerpo": [
+          "Marcos Rodríguez aus Salas macht den besten Hausmacher-Apfelwein Asturiens. So entschied es der Wettbewerb der Asociación de Fomento de la Sidra Tradicional Asturiana, an dem 55 llagareros (Hausmacher-Apfelweinerzeuger) aus 24 verschiedenen Gemeinden teilnahmen.",
+          "Piloña hatte eine eigene Stimme: José Llera belegte den achten Platz, und Juan Pérez aus Villaviciosa den fünften. Beide waren sich einig, dass die diesjährige Ernte die Sache nicht leicht gemacht hat.",
+          "Bei der öffentlichen Verkostung wurden knapp 9.000 culines (kleine Apfelweingläser) aus 110 Kisten gereicht — eine Zahl, die den Umfang der Veranstaltung ahnen lässt. Für alle, die zu Hause Apfelwein herstellen, ist dieser Wettbewerb heute die wichtigste Veranstaltung der Branche."
+        ],
+        "apunte": "Tausend Liter, Familientradition und erster Preis: Marcos Rodríguez hat keinen schlechten Jahrgang.",
+        "enVeinte": [
+          "Marcos Rodríguez aus Salas gewinnt den asturischen Hausmacher-Apfelwein-Wettbewerb mit einer Produktion von tausend Litern.",
+          "José Llera aus Piloña belegte den achten Platz; beide lokalen llagareros betonen, dass die diesjährige Ernte schwierig war.",
+          "Der Wettbewerb versammelte 55 Teilnehmer aus 24 Gemeinden und reichte bei der öffentlichen Verkostung knapp 9.000 culines."
+        ],
+        "cifra": {
+          "numero": "55",
+          "unidad": "llagareros",
+          "glosa": "Fünfundfünfzig Hausmacher-Apfelweinerzeuger aus 24 verschiedenen Gemeinden nahmen am Wettbewerb teil. Diese Zahl zeigt, dass die handwerkliche Apfelweinherstellung im privaten llagar in ganz Asturien sehr lebendig geblieben ist — nicht nur in den großen Gemeinden mit starker Apfelweintradition."
+        },
+        "palabra": {
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "Person, die Apfelwein in einem llagar herstellt, also in der Presse oder Mühle, in der die Äpfel verarbeitet werden. In Asturien bezeichnet der Begriff sowohl den Eigentümer des llagar als auch denjenigen, der den Herstellungsprozess betreut. Das Wort schließt ein von Generation zu Generation weitergegebenes handwerkliches Wissen ein."
+        },
+        "porQue": "Dass ein Einwohner aus Piloña zu den zehn besten Hausmacher-Apfelweinerzeugern Asturiens gehört, erinnert daran, dass das Handwerk des llagarero in der Gemeinde tief verwurzelt bleibt — auch wenn die Ernte schwierig ist.",
+        "lugar": "",
         "precio": ""
       }
     },
     "revisar": [
-      "en 1986 en una antigua casa rectoral del",
-      "1986 en una antigua casa rectoral del siglo",
-      "en una antigua casa rectoral del siglo xviii"
+      "la asociacion de fomento de la sidra tradicional",
+      "asociacion de fomento de la sidra tradicional asturiana"
+    ]
+  },
+  {
+    "id": "la-sidra-casera-conquista-asturias-las-cosas-cada-vez-se-hacen-mejor",
+    "url": "/villaviciosa/la-sidra-casera-conquista-asturias-las-cosas-cada-vez-se-hacen-mejor/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un salense gana la final de los Mundo Collada",
+    "entradilla": "Marcos Rodríguez se lleva el primer premio del certamen de sidra casera celebrado en Villaviciosa, por delante de Lorena Menéndez y Miguel González.",
+    "cuerpo": [
+      "Marcos Rodríguez, elaborador de Salas, se alzó con el galardón principal de los premios Mundo Collada, el concurso de sidra casera que reunió a aficionados de toda Asturias en Villaviciosa.",
+      "Lorena Menéndez y Miguel González completaron el podio en segundo y tercer puesto respectivamente."
+    ],
+    "apunte": "Un salense cruzó el oriente entero para llevarse el premio a casa.",
+    "enVeinte": [
+      "Marcos Rodríguez, de Salas, ganó la final de los premios Mundo Collada de sidra casera en Villaviciosa.",
+      "Lorena Menéndez quedó segunda y Miguel González, tercero.",
+      "El certamen reúne a elaboradores particulares de toda Asturias."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (ll asturiana, como en Llanes)",
+      "definicion": "Lugar donde se elabora la sidra: se pisa o mayola la manzana, se fermenta el mosto y se guarda en pipas. Cada llagar casero tiene su estilo propio, y precisamente eso es lo que compite en los Mundo Collada."
+    },
+    "porQue": "Estos premios ponen en valor la tradición sidrícola que se practica en muchas casas del concejo y reconocen que hacer buena sidra en el llagar de casa tiene su mérito.",
+    "etiquetas": [
+      "sidra casera",
+      "Mundo Collada",
+      "Villaviciosa",
+      "concurso"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/18/sidra-gente-R5NcnIfMocv2954W2bgF0pK-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-18T17:22:19.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/sidra-casera-conquista-asturias-vez-mejor-20261018175810-nt.html",
+      "titularOriginal": "La sidra casera conquista Asturias: «Las cosas cada vez se hacen mejor»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A competitor from Salas wins the Mundo Collada final",
+        "entradilla": "Marcos Rodríguez takes first prize at the home-cider competition held in Villaviciosa, ahead of Lorena Menéndez and Miguel González.",
+        "cuerpo": [
+          "Marcos Rodríguez, a maker from Salas, took the top prize at the Mundo Collada awards, the home-cider competition that brought together enthusiasts from across Asturias in Villaviciosa.",
+          "Lorena Menéndez and Miguel González completed the podium in second and third place respectively."
+        ],
+        "apunte": "A competitor from Salas crossed the entire eastern part of the region to bring the prize home.",
+        "enVeinte": [
+          "Marcos Rodríguez, from Salas, won the Mundo Collada home-cider final in Villaviciosa.",
+          "Lorena Menéndez finished second and Miguel González third.",
+          "The competition brings together amateur makers from across Asturias."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en Llanes)",
+          "definicion": "The place where cider is made: apples are pressed or crushed, the juice is fermented and stored in barrels. Each home llagar has its own style, and that is precisely what the Mundo Collada competition is about."
+        },
+        "porQue": "These awards celebrate the cider-making tradition practised in many homes in the municipality and recognise that producing good cider in a home llagar is a genuine achievement.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un concurrent de Salas remporte la finale des Mundo Collada",
+        "entradilla": "Marcos Rodríguez décroche le premier prix du concours de cidre artisanal organisé à Villaviciosa, devant Lorena Menéndez et Miguel González.",
+        "cuerpo": [
+          "Marcos Rodríguez, producteur originaire de Salas, a remporté le prix principal des Mundo Collada, le concours de cidre artisanal qui a réuni des amateurs de toute l'Asturie à Villaviciosa.",
+          "Lorena Menéndez et Miguel González ont complété le podium en deuxième et troisième position respectivement."
+        ],
+        "apunte": "Un concurrent de Salas a traversé tout l'orient de la région pour ramener le prix chez lui.",
+        "enVeinte": [
+          "Marcos Rodríguez, de Salas, a remporté la finale des Mundo Collada de cidre artisanal à Villaviciosa.",
+          "Lorena Menéndez a terminé deuxième et Miguel González troisième.",
+          "Le concours rassemble des producteurs amateurs de toute l'Asturie."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en Llanes)",
+          "definicion": "Le lieu où l'on fabrique le cidre : les pommes y sont pressées ou écrasées, le moût fermente et est conservé en fûts. Chaque llagar artisanal a son propre style, et c'est précisément ce qui est en compétition lors des Mundo Collada."
+        },
+        "porQue": "Ces prix mettent en valeur la tradition cidricole pratiquée dans de nombreuses maisons de la commune et reconnaissent que produire un bon cidre dans le llagar familial est un véritable mérite.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Teilnehmer aus Salas gewinnt das Finale der Mundo Collada",
+        "entradilla": "Marcos Rodríguez holt den ersten Preis des Hausapfelwein-Wettbewerbs in Villaviciosa, vor Lorena Menéndez und Miguel González.",
+        "cuerpo": [
+          "Marcos Rodríguez, ein Hersteller aus Salas, gewann den Hauptpreis der Mundo Collada, dem Wettbewerb für selbst gemachten Apfelwein, der Liebhaber aus ganz Asturien in Villaviciosa versammelte.",
+          "Lorena Menéndez und Miguel González vervollständigten das Podium auf dem zweiten und dritten Platz."
+        ],
+        "apunte": "Ein Teilnehmer aus Salas durchquerte den gesamten Osten der Region, um den Preis mit nach Hause zu nehmen.",
+        "enVeinte": [
+          "Marcos Rodríguez aus Salas gewann das Finale der Mundo Collada für selbst gemachten Apfelwein in Villaviciosa.",
+          "Lorena Menéndez belegte den zweiten Platz, Miguel González den dritten.",
+          "Der Wettbewerb bringt private Hersteller aus ganz Asturien zusammen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (ll asturiana, como en Llanes)",
+          "definicion": "Der Ort, an dem Apfelwein hergestellt wird: Äpfel werden gepresst oder gemahlen, der Most gärt und wird in Fässern gelagert. Jeder häusliche llagar hat seinen eigenen Stil – genau das steht bei den Mundo Collada im Wettbewerb."
+        },
+        "porQue": "Diese Auszeichnungen würdigen die Apfelweintradition, die in vielen Häusern der Gemeinde gepflegt wird, und erkennen an, dass das Herstellen eines guten Apfelweins im heimischen llagar echtes Können erfordert.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en villaviciosa por delante de lorena menendez y",
+      "villaviciosa por delante de lorena menendez y miguel",
+      "por delante de lorena menendez y miguel gonzalez"
+    ]
+  },
+  {
+    "id": "fotos-que-rinden-tributo-al-patrimonio-visual-etnologico-y-natural-de-",
+    "url": "/villaviciosa/fotos-que-rinden-tributo-al-patrimonio-visual-etnologico-y-natural-de-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "FotoMaliayo premia el patrimonio asturiano en Villaviciosa",
+    "entradilla": "Las imágenes ganadoras del certamen toman la calle en la capital del concejo.",
+    "cuerpo": [
+      "El Festival FotoMaliayo ha repartido sus premios en Villaviciosa y monta ahora una exposición al aire libre con las fotografías ganadoras, dedicadas al patrimonio visual, etnológico y natural de Asturias.",
+      "La muestra recorre la villa al alcance de cualquiera que pase por allí, sin necesidad de entrar en ningún recinto."
+    ],
+    "apunte": "El museo esta vez no tiene paredes.",
+    "enVeinte": [
+      "El Festival FotoMaliayo ha entregado sus premios en Villaviciosa.",
+      "Las fotos ganadoras, sobre patrimonio y naturaleza de Asturias, se exponen en la calle.",
+      "La muestra es de acceso libre para quien pasee por la capital del concejo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "etnológico",
+      "como": "et-no-LÓ-xi-co",
+      "definicion": "Relativo a los usos, costumbres y tradiciones de un pueblo. En este caso, las fotos recogen oficios, fiestas y formas de vida propias de Asturias que corren el riesgo de quedarse solo en la memoria."
+    },
+    "porQue": "Villaviciosa acoge una exposición gratuita en la calle: quien salga a desayunar o a hacer la compra puede verla sin desvío ni entrada.",
+    "etiquetas": [
+      "FotoMaliayo",
+      "fotografía",
+      "patrimonio",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "expo",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/18/expo-calle-villaviciosa-Rw9lD2OuCrWVWWY3h6YmmWJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-18T17:21:51.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/fotos-rinden-tributo-patrimonio-visual-etnologico-natural-20261018192150-nt.html",
+      "titularOriginal": "Fotos que rinden tributo al patrimonio visual, etnológico y natural de Asturias"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "FotoMaliayo honours Asturian heritage in Villaviciosa",
+        "entradilla": "The winning images from the competition take to the streets in the municipality's main town.",
+        "cuerpo": [
+          "The Festival FotoMaliayo has awarded its prizes in Villaviciosa and is now staging an open-air exhibition featuring the winning photographs, dedicated to the visual, ethnological and natural heritage of Asturias.",
+          "The show winds through the town within reach of anyone who happens to pass by, with no need to enter any enclosed space."
+        ],
+        "apunte": "This time the museum has no walls.",
+        "enVeinte": [
+          "The Festival FotoMaliayo has presented its awards in Villaviciosa.",
+          "The winning photographs, on the heritage and nature of Asturias, are displayed in the street.",
+          "The exhibition is free to enter for anyone strolling through the municipality's main town."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "etnológico",
+          "como": "et-no-LÓ-xi-co",
+          "definicion": "Relating to the customs, traditions and ways of life of a people. In this case, the photographs capture trades, festivals and ways of living particular to Asturias that risk surviving only in living memory."
+        },
+        "porQue": "Villaviciosa is hosting a free open-air exhibition: anyone heading out for breakfast or to do their shopping can see it without a detour or a ticket.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "FotoMaliayo récompense le patrimoine asturien à Villaviciosa",
+        "entradilla": "Les images primées du concours investissent les rues du chef-lieu de la commune.",
+        "cuerpo": [
+          "Le Festival FotoMaliayo a remis ses prix à Villaviciosa et installe désormais une exposition en plein air avec les photographies lauréates, consacrées au patrimoine visuel, ethnologique et naturel des Asturies.",
+          "L'exposition parcourt la ville à la portée de quiconque passe par là, sans qu'il soit nécessaire de pénétrer dans un espace fermé."
+        ],
+        "apunte": "Ce musée-là n'a pas de murs.",
+        "enVeinte": [
+          "Le Festival FotoMaliayo a remis ses prix à Villaviciosa.",
+          "Les photos primées, consacrées au patrimoine et à la nature des Asturies, sont exposées dans la rue.",
+          "L'exposition est en accès libre pour quiconque se promène dans le chef-lieu de la commune."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "etnológico",
+          "como": "et-no-LÓ-xi-co",
+          "definicion": "Relatif aux usages, coutumes et traditions d'un peuple. Ici, les photos saisissent des métiers, des fêtes et des modes de vie propres aux Asturies qui risquent de ne survivre que dans les mémoires."
+        },
+        "porQue": "Villaviciosa accueille une exposition gratuite dans la rue : ceux qui sortent prendre leur petit-déjeuner ou faire leurs courses peuvent la voir sans détour ni billet.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "FotoMaliayo zeichnet asturisches Erbe in Villaviciosa aus",
+        "entradilla": "Die Siegerbilder des Wettbewerbs ziehen in die Straßen des Hauptorts der Gemeinde.",
+        "cuerpo": [
+          "Das Festival FotoMaliayo hat seine Preise in Villaviciosa verliehen und richtet nun eine Freilichtausstellung mit den Siegerfotos aus, die dem visuellen, ethnologischen und natürlichen Erbe Asturiens gewidmet sind.",
+          "Die Schau zieht sich durch die Stadt und ist für jeden zugänglich, der zufällig vorbeikommt – ohne dass man ein Gebäude betreten müsste."
+        ],
+        "apunte": "Dieses Museum hat diesmal keine Wände.",
+        "enVeinte": [
+          "Das Festival FotoMaliayo hat seine Preise in Villaviciosa verliehen.",
+          "Die Siegerfotos zum Thema Erbe und Natur Asturiens werden auf der Straße gezeigt.",
+          "Die Ausstellung ist für alle frei zugänglich, die durch den Hauptort der Gemeinde spazieren."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "etnológico",
+          "como": "et-no-LÓ-xi-co",
+          "definicion": "Bezogen auf die Bräuche, Gewohnheiten und Traditionen eines Volkes. In diesem Fall halten die Fotos Handwerksberufe, Feste und Lebensweisen fest, die für Asturien typisch sind und Gefahr laufen, nur noch in der Erinnerung zu überleben."
+        },
+        "porQue": "Villaviciosa zeigt eine kostenlose Ausstellung auf der Straße: Wer zum Frühstück oder zum Einkaufen ausgeht, kann sie ohne Umweg und ohne Eintrittskarte sehen.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "al patrimonio visual etnologico y natural de asturias"
     ]
   },
   {

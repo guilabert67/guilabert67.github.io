@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-18T17:20:05.103Z",
+  "fecha": "2026-10-19T07:45:42.834Z",
   "puntos": [
     {
+      "concejo": "Piloña",
+      "frase": "Un salense gana el concurso de sidra casera con mil litros de tradición familiar.",
+      "enlace": "/pilona/la-mejor-sidra-casera-de-asturias-se-hace-en-salas-y-la-elabora-marcos/"
+    },
+    {
       "concejo": "Cabranes",
-      "frase": "La Rectoral de Taramundi cierra hasta 2028 por obras de dos millones.",
+      "frase": "La Rectoral de Taramundi cierra un año entero para reformarse con dos millones.",
       "enlace": "/cabranes/la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "FotoMaliayo premia paisaje, etnografía y cultura popular en Villaviciosa.",
-      "enlace": "/villaviciosa/fotomaliayo-2026-reune-en-villaviciosa-fotografia-tradicion-y-reconoci/"
+      "frase": "Las fotos ganadoras de FotoMaliayo ya están expuestas en las calles de Villaviciosa.",
+      "enlace": "/villaviciosa/fotos-que-rinden-tributo-al-patrimonio-visual-etnologico-y-natural-de-/"
     }
   ]
 }
