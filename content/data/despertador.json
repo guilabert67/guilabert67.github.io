@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-19T07:45:42.834Z",
+  "fecha": "2026-10-19T15:02:43.309Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "Un salense gana el concurso de sidra casera con mil litros de tradición familiar.",
-      "enlace": "/pilona/la-mejor-sidra-casera-de-asturias-se-hace-en-salas-y-la-elabora-marcos/"
-    },
-    {
-      "concejo": "Cabranes",
-      "frase": "La Rectoral de Taramundi cierra un año entero para reformarse con dos millones.",
-      "enlace": "/cabranes/la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Las fotos ganadoras de FotoMaliayo ya están expuestas en las calles de Villaviciosa.",
-      "enlace": "/villaviciosa/fotos-que-rinden-tributo-al-patrimonio-visual-etnologico-y-natural-de-/"
+      "concejo": "Cabrales",
+      "frase": "La Vega de Urriellu bajó a -2,2 grados: abrígate si subes a los Picos.",
+      "enlace": "/cabrales/vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c/"
     }
   ]
 }

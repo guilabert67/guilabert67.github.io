@@ -1,35 +1,38 @@
 [
   {
-    "id": "la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen",
-    "url": "/cabranes/la-rectoral-de-taramundi-cierra-por-reformas-tras-40-anos-como-referen/",
-    "concejo": "Cabranes",
-    "concejoSlug": "cabranes",
+    "id": "vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c",
+    "url": "/cabrales/vega-de-urriellu-se-cuela-entre-las-temperaturas-mas-bajas-de-espana-c/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
     "seccion": "actualidad",
-    "titular": "La Rectoral de Taramundi cierra para reformarse",
-    "entradilla": "El hotel rural más antiguo de España para un año entero para renovarse con dos millones de euros.",
+    "titular": "Vega de Urriellu, entre los puntos más fríos",
+    "entradilla": "La madrugada del 19 de octubre dejó -2,2 grados en el refugio de los Picos, una de las marcas mínimas registradas esa noche en todo el país.",
     "cuerpo": [
-      "La Rectoral de Taramundi baja la persiana de forma temporal. El establecimiento, que abrió en 1986 como el primer hotel rural del país, acomete ahora una reforma integral que costará dos millones de euros y que afectará a la seguridad, la instalación eléctrica y la accesibilidad, según el alcalde de Taramundi, César Villabrille.",
-      "La reapertura no se espera antes de 2027. El director del hotel, Jesús Mier, que ha llevado el establecimiento durante 30 de sus 40 años de vida, se marcha ahora jubilado.",
-      "Cuando vuelva a abrir, la intención es que La Rectoral sea el primer hotel en integrarse en una futura red pública de alojamientos rurales del Principado, de funcionamiento similar al de los Paradores."
+      "El refugio de Vega de Urriellu, en el corazón del concejo de Cabrales, apareció este lunes entre los enclaves con las temperaturas más bajas de España: -2,2 grados en la madrugada del 19 de octubre.",
+      "Las heladas no se limitaron a los Picos. La cornisa cantábrica y Castilla y León también notaron el tirón del frío esa misma noche, en lo que apunta a un otoño que empieza a afinar el diente."
     ],
-    "apunte": "Cuarenta años dando cama y desayuno, y ahora le toca ser el paciente.",
+    "apunte": "A casi 1.950 metros, el güelu invierno ya asomó la cabeza.",
     "enVeinte": [
-      "La Rectoral de Taramundi, el primer hotel rural de España, cierra temporalmente para acometer una reforma de dos millones de euros.",
-      "Las obras afectan a seguridad, electricidad y accesibilidad; la reapertura no se prevé antes de 2027.",
-      "Cuando reabra, el hotel aspira a ser el primero de una red pública de establecimientos rurales del Principado, al estilo de los Paradores."
+      "El refugio de Vega de Urriellu registró -2,2 grados en la madrugada del 19 de octubre.",
+      "Esa marca lo situó entre las temperaturas mínimas más bajas de España esa noche.",
+      "Las heladas afectaron también a la cornisa cantábrica y a Castilla y León."
     ],
     "cifra": {
-      "numero": "2.000.000",
-      "unidad": "euros",
-      "glosa": "Es la inversión prevista para la reforma integral de La Rectoral. El dinero irá a seguridad, instalación eléctrica y mejoras de accesibilidad, según el alcalde de Taramundi."
+      "numero": "-2,2",
+      "unidad": "°C",
+      "glosa": "La temperatura que marcó Vega de Urriellu en la madrugada del 19 de octubre. Bastó para colocar este rincón de Cabrales entre los puntos más fríos del país esa noche."
     },
-    "palabra": null,
-    "porQue": "La Rectoral es uno de los referentes del turismo rural asturiano desde hace cuatro décadas; su reforma y su posible entrada en una red pública de hoteles rurales puede marcar el modelo para otros municipios de la región.",
+    "palabra": {
+      "termino": "Vega de Urriellu",
+      "como": "Ve-ga de U-rrie-llu (la ll suena como en asturiano, palatal)",
+      "definicion": "Majada de alta montaña en los Picos de Europa, dentro del concejo de Cabrales, donde se asienta el refugio del mismo nombre. Es también el nombre asturiano del macizo que los castellanohablantes conocen como Urriellu o Naranjo de Bulnes."
+    },
+    "porQue": "Quien tenga pensado subir al refugio o moverse por los puertos de Cabrales en los próximos días debe saber que las heladas ya son una realidad a esas alturas.",
     "etiquetas": [
-      "turismo rural",
-      "Taramundi",
-      "hostelería",
-      "Asturias"
+      "Cabrales",
+      "Picos de Europa",
+      "meteorología",
+      "Vega de Urriellu"
     ],
     "fechaEvento": "",
     "tipoEvento": "",
@@ -37,84 +40,93 @@
     "hora": "",
     "precio": "",
     "imagen": "",
-    "imagenFuente": "https://www.rtpa.es//26/10//20261018165254_RTPA8736695.webp",
-    "fecha": "2026-10-19T06:53:00.000Z",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/19/vega-urriellu-k1EH-U302313564821RDH-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-19T13:16:53.000Z",
     "fuente": {
-      "nombre": "RTPA",
-      "url": "https://www.rtpa.es/noticias-asturias/2026-10-18/La-Rectoral-de-Taramundi-cierra-por-reformas-tras-40-años-como-referente-del-turismo-rural_111792335271.html",
-      "titularOriginal": "La Rectoral de Taramundi cierra por reformas tras 40 años como referente del turismo rural"
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/vega-urriellu-cuela-temperaturas-bajas-espana-grados-20261019151653-nt.html",
+      "titularOriginal": "Vega de Urriellu se cuela entre las temperaturas más bajas de España con -2,2 grados"
     },
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "La Rectoral de Taramundi closes for renovation",
-        "entradilla": "Spain's oldest rural hotel shuts for a full year to undergo a two-million-euro overhaul.",
+        "titular": "Vega de Urriellu among the coldest spots",
+        "entradilla": "The early hours of 19 October brought -2.2 degrees to the Picos refuge, one of the lowest readings recorded that night across the country.",
         "cuerpo": [
-          "La Rectoral de Taramundi is closing its doors temporarily. The establishment, which opened in 1986 as the country's first rural hotel, is now undertaking a full renovation costing two million euros that will cover safety, electrical installation and accessibility, according to the mayor of Taramundi, César Villabrille.",
-          "Reopening is not expected before 2027. The hotel's director, Jesús Mier, who has run the establishment for 30 of its 40 years, is now retiring.",
-          "When it reopens, the intention is for La Rectoral to be the first hotel to join a future public network of rural accommodation in the Principality, operating along similar lines to the Paradores."
+          "The Vega de Urriellu refuge, in the heart of the Cabrales municipality, appeared this Monday among the coldest places in Spain: -2.2 degrees in the early hours of 19 October.",
+          "The frosts were not limited to the Picos. The Cantabrian coast and Castilla y León also felt the cold snap that same night, in what looks like an autumn beginning to bare its teeth."
         ],
-        "apunte": "Forty years providing bed and breakfast, and now it's the one in need of care.",
+        "apunte": "At nearly 1,950 metres, old man winter has already shown his face.",
         "enVeinte": [
-          "La Rectoral de Taramundi, Spain's first rural hotel, is closing temporarily to carry out a two-million-euro renovation.",
-          "The works cover safety, electricity and accessibility; reopening is not expected before 2027.",
-          "When it reopens, the hotel aims to be the first in a public network of rural establishments in the Principality, modelled on the Paradores."
+          "The Vega de Urriellu refuge recorded -2.2 degrees in the early hours of 19 October.",
+          "That reading placed it among the lowest minimum temperatures in Spain that night.",
+          "Frosts also affected the Cantabrian coast and Castilla y León."
         ],
         "cifra": {
-          "numero": "2.000.000",
-          "unidad": "euros",
-          "glosa": "This is the planned investment for the full renovation of La Rectoral. The money will go towards safety, electrical installation and accessibility improvements, according to the mayor of Taramundi."
+          "numero": "-2.2",
+          "unidad": "°C",
+          "glosa": "The temperature recorded at Vega de Urriellu in the early hours of 19 October. It was enough to place this corner of Cabrales among the coldest spots in the country that night."
         },
-        "palabra": null,
-        "porQue": "La Rectoral has been one of the benchmarks of Asturian rural tourism for four decades; its renovation and possible entry into a public rural hotel network could set the model for other municipalities in the region.",
+        "palabra": {
+          "termino": "Vega de Urriellu",
+          "como": "Ve-ga de U-rrie-llu (the ll is pronounced as in Asturian, a palatal sound)",
+          "definicion": "A high-mountain summer pasture settlement in the Picos de Europa, within the Cabrales municipality, where the refuge of the same name stands. It is also the Asturian name for the massif that Spanish speakers know as Urriellu or Naranjo de Bulnes."
+        },
+        "porQue": "Anyone planning to head up to the refuge or move through the Cabrales mountain passes in the coming days should know that frosts are already a reality at those altitudes.",
         "lugar": "",
         "precio": ""
       },
       "fr": {
-        "titular": "La Rectoral de Taramundi ferme ses portes pour se rénover",
-        "entradilla": "Le plus ancien hôtel rural d'Espagne suspend son activité pendant un an entier pour se refaire une beauté, avec deux millions d'euros à la clé.",
+        "titular": "Vega de Urriellu parmi les points les plus froids",
+        "entradilla": "La nuit du 19 octobre a laissé -2,2 degrés au refuge des Picos, l'une des températures minimales les plus basses enregistrées cette nuit-là dans tout le pays.",
         "cuerpo": [
-          "La Rectoral de Taramundi baisse temporairement le rideau. L'établissement, qui a ouvert en 1986 comme premier hôtel rural du pays, entame désormais une rénovation complète d'un coût de deux millions d'euros, portant sur la sécurité, l'installation électrique et l'accessibilité, selon le maire de Taramundi, César Villabrille.",
-          "La réouverture n'est pas attendue avant 2027. Le directeur de l'hôtel, Jesús Mier, qui a dirigé l'établissement pendant 30 de ses 40 années d'existence, part maintenant à la retraite.",
-          "À sa réouverture, l'intention est que La Rectoral soit le premier hôtel à intégrer un futur réseau public d'hébergements ruraux de la Principauté, fonctionnant sur un modèle similaire à celui des Paradores."
+          "Le refuge de Vega de Urriellu, au cœur de la commune de Cabrales, figurait ce lundi parmi les endroits les plus froids d'Espagne : -2,2 degrés dans la nuit du 19 octobre.",
+          "Les gelées ne se sont pas limitées aux Picos. La corniche cantabrique et Castilla y León ont également ressenti le coup de froid cette même nuit, dans ce qui s'annonce comme un automne qui commence à montrer les dents."
         ],
-        "apunte": "Quarante ans à offrir le gîte et le couvert, et voilà qu'il est à son tour le patient.",
+        "apunte": "À près de 1 950 mètres, le vieil hiver a déjà pointé le bout de son nez.",
         "enVeinte": [
-          "La Rectoral de Taramundi, premier hôtel rural d'Espagne, ferme temporairement pour entreprendre une rénovation de deux millions d'euros.",
-          "Les travaux concernent la sécurité, l'électricité et l'accessibilité ; la réouverture n'est pas prévue avant 2027.",
-          "À sa réouverture, l'hôtel ambitionne d'être le premier d'un réseau public d'établissements ruraux de la Principauté, sur le modèle des Paradores."
+          "Le refuge de Vega de Urriellu a enregistré -2,2 degrés dans la nuit du 19 octobre.",
+          "Ce relevé l'a placé parmi les températures minimales les plus basses d'Espagne cette nuit-là.",
+          "Les gelées ont également touché la corniche cantabrique et Castilla y León."
         ],
         "cifra": {
-          "numero": "2.000.000",
-          "unidad": "euros",
-          "glosa": "C'est l'investissement prévu pour la rénovation complète de La Rectoral. L'argent sera consacré à la sécurité, à l'installation électrique et aux améliorations d'accessibilité, selon le maire de Taramundi."
+          "numero": "-2,2",
+          "unidad": "°C",
+          "glosa": "La température relevée à Vega de Urriellu dans la nuit du 19 octobre. Elle a suffi à placer ce coin de Cabrales parmi les points les plus froids du pays cette nuit-là."
         },
-        "palabra": null,
-        "porQue": "La Rectoral est l'une des références du tourisme rural asturien depuis quatre décennies ; sa rénovation et son éventuelle intégration dans un réseau public d'hôtels ruraux pourraient servir de modèle à d'autres communes de la région.",
+        "palabra": {
+          "termino": "Vega de Urriellu",
+          "como": "Ve-ga de U-rrie-llu (le ll se prononce à l'asturienne, son palatal)",
+          "definicion": "Estive de haute montagne dans les Picos de Europa, au sein de la commune de Cabrales, où se trouve le refuge du même nom. C'est aussi le nom asturien du massif que les hispanophones connaissent sous le nom d'Urriellu ou Naranjo de Bulnes."
+        },
+        "porQue": "Quiconque envisage de monter au refuge ou de se déplacer par les cols de Cabrales dans les prochains jours doit savoir que les gelées sont déjà une réalité à ces altitudes.",
         "lugar": "",
         "precio": ""
       },
       "de": {
-        "titular": "La Rectoral de Taramundi schließt für Renovierungsarbeiten",
-        "entradilla": "Spaniens ältestes Landhotel macht ein ganzes Jahr lang zu, um sich für zwei Millionen Euro zu erneuern.",
+        "titular": "Vega de Urriellu unter den kältesten Punkten",
+        "entradilla": "In der Nacht vom 19. Oktober wurden in der Schutzhütte der Picos -2,2 Grad gemessen – einer der niedrigsten Werte, die in dieser Nacht im ganzen Land verzeichnet wurden.",
         "cuerpo": [
-          "La Rectoral de Taramundi schließt vorübergehend seine Türen. Das Haus, das 1986 als erstes Landhotel des Landes eröffnete, unterzieht sich nun einer Komplettrenovierung für zwei Millionen Euro, die Sicherheit, Elektroinstallation und Barrierefreiheit umfasst — so der Bürgermeister von Taramundi, César Villabrille.",
-          "Eine Wiedereröffnung wird vor 2027 nicht erwartet. Der Hoteldirektor Jesús Mier, der das Haus 30 seiner 40 Jahre lang geführt hat, geht jetzt in den Ruhestand.",
-          "Nach der Wiedereröffnung soll La Rectoral als erstes Hotel in ein künftiges öffentliches Netzwerk ländlicher Unterkünfte des Fürstentums aufgenommen werden, das ähnlich wie die Paradores funktionieren soll."
+          "Die Schutzhütte Vega de Urriellu, im Herzen der Gemeinde Cabrales, zählte diesen Montag zu den kältesten Orten Spaniens: -2,2 Grad in der Nacht des 19. Oktober.",
+          "Die Fröste beschränkten sich nicht auf die Picos. Auch die kantabrische Küste und Kastilien-León spürten den Kälteeinbruch in derselben Nacht – ein Zeichen dafür, dass der Herbst langsam Ernst macht."
         ],
-        "apunte": "Vierzig Jahre lang Bett und Frühstück geboten — jetzt ist es selbst der Patient.",
+        "apunte": "Auf knapp 1.950 Metern hat der güelu invierno (der alte Winter) bereits den Kopf gereckt.",
         "enVeinte": [
-          "La Rectoral de Taramundi, Spaniens erstes Landhotel, schließt vorübergehend, um eine Renovierung für zwei Millionen Euro durchzuführen.",
-          "Die Arbeiten betreffen Sicherheit, Elektrik und Barrierefreiheit; eine Wiedereröffnung ist vor 2027 nicht geplant.",
-          "Nach der Wiedereröffnung will das Hotel das erste eines öffentlichen Netzwerks ländlicher Einrichtungen des Fürstentums werden — nach dem Vorbild der Paradores."
+          "Die Schutzhütte Vega de Urriellu verzeichnete in der Nacht des 19. Oktober -2,2 Grad.",
+          "Dieser Wert platzierte sie unter den niedrigsten Minimaltemperaturen Spaniens in dieser Nacht.",
+          "Die Fröste betrafen auch die kantabrische Küste und Kastilien-León."
         ],
         "cifra": {
-          "numero": "2.000.000",
-          "unidad": "euros",
-          "glosa": "Das ist die geplante Investition für die Komplettrenovierung von La Rectoral. Das Geld fließt in Sicherheit, Elektroinstallation und Verbesserungen der Barrierefreiheit, so der Bürgermeister von Taramundi."
+          "numero": "-2,2",
+          "unidad": "°C",
+          "glosa": "Die Temperatur, die Vega de Urriellu in der Nacht des 19. Oktober maß. Sie reichte aus, um diesen Winkel von Cabrales in dieser Nacht zu einem der kältesten Punkte des Landes zu machen."
         },
-        "palabra": null,
-        "porQue": "La Rectoral ist seit vier Jahrzehnten eine der Referenzen des asturischen Landtourismus; seine Renovierung und ein möglicher Eintritt in ein öffentliches Landhotel-Netzwerk könnten das Modell für andere Gemeinden der Region prägen.",
+        "palabra": {
+          "termino": "Vega de Urriellu",
+          "como": "Ve-ga de U-rrie-llu (das ll wird asturisch ausgesprochen, ein palataler Laut)",
+          "definicion": "Hochgelegene Almweide in den Picos de Europa, innerhalb der Gemeinde Cabrales, wo die gleichnamige Schutzhütte steht. Es ist auch der asturische Name des Massivs, das spanischsprachige Menschen als Urriellu oder Naranjo de Bulnes kennen."
+        },
+        "porQue": "Wer in den nächsten Tagen zur Schutzhütte aufsteigen oder sich durch die Bergpässe von Cabrales bewegen möchte, sollte wissen, dass Frost in diesen Höhen bereits Wirklichkeit ist.",
         "lugar": "",
         "precio": ""
       }
@@ -8716,764 +8728,6 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "curso-gratuito-monitor-a-de-tiempo-libre",
-    "url": "/villaviciosa/curso-gratuito-monitor-a-de-tiempo-libre/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa ofrece un curso gratis de monitor de tiempo libre",
-    "entradilla": "El Ayuntamiento forma a quienes quieran trabajar con actividades de ocio y educación no formal.",
-    "cuerpo": [
-      "El concejo de Villaviciosa pone en marcha un curso oficial y gratuito para obtener el título de monitor o monitora de tiempo libre. Las clases arrancan el 21 de septiembre y terminan el 6 de noviembre.",
-      "Quien esté interesado puede pedir información o apuntarse en los números de contacto que facilita el Ayuntamiento."
-    ],
-    "apunte": "Dos meses de curso oficial que no cuestan ni un euro: pocas veces sale tan redondo.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa organiza un curso oficial y gratuito de monitor de tiempo libre.",
-      "Las clases van del 21 de septiembre al 6 de noviembre.",
-      "La inscripción se gestiona a través de los teléfonos de contacto del Ayuntamiento."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Tener el título de monitor de tiempo libre abre la puerta a trabajar en campamentos, ludotecas y actividades de ocio; hacerlo gratis y cerca de casa es una oportunidad que no abunda.",
-    "etiquetas": [
-      "formación",
-      "tiempo libre",
-      "Villaviciosa",
-      "gratuito"
-    ],
-    "fechaEvento": "2025-09-21",
-    "tipoEvento": "taller",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "gratis",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:44:09.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19866649",
-      "titularOriginal": "Curso Gratuito - Monitor/a de Tiempo Libre",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa offers a free leisure monitor course",
-        "entradilla": "The council organises training for those who want to work in leisure activities and non-formal education.",
-        "cuerpo": [
-          "The municipality of Villaviciosa is launching an official, free course to obtain the qualification of leisure monitor. Classes start on 21 September and end on 6 November.",
-          "Anyone interested can ask for information or sign up through the contact numbers provided by the council."
-        ],
-        "apunte": "Two months of official training that costs not a single euro: opportunities this neat don't come along often.",
-        "enVeinte": [
-          "The council of Villaviciosa is organising an official, free leisure monitor course.",
-          "Classes run from 21 September to 6 November.",
-          "Enrolment is handled through the council's contact numbers."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Holding a leisure monitor qualification opens the door to working in summer camps, play centres and leisure activities; doing it for free and close to home is an opportunity that rarely comes around.",
-        "lugar": "Villaviciosa",
-        "precio": "free"
-      },
-      "fr": {
-        "titular": "Villaviciosa propose un cours gratuit de moniteur de loisirs",
-        "entradilla": "La mairie forme celles et ceux qui souhaitent travailler dans les activités de loisirs et d'éducation non formelle.",
-        "cuerpo": [
-          "La commune de Villaviciosa lance un cours officiel et gratuit pour obtenir le titre de moniteur ou monitrice de loisirs. Les cours débutent le 21 septembre et se terminent le 6 novembre.",
-          "Les personnes intéressées peuvent demander des informations ou s'inscrire en contactant les numéros communiqués par la mairie."
-        ],
-        "apunte": "Deux mois de formation officielle sans débourser un seul euro : c'est rare que les choses tombent aussi bien.",
-        "enVeinte": [
-          "La mairie de Villaviciosa organise un cours officiel et gratuit de moniteur de loisirs.",
-          "Les cours se déroulent du 21 septembre au 6 novembre.",
-          "L'inscription se fait par l'intermédiaire des numéros de contact de la mairie."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Le titre de moniteur de loisirs ouvre la porte aux emplois dans les centres de vacances, les ludothèques et les activités de loisirs ; l'obtenir gratuitement et près de chez soi est une occasion qui ne se présente pas souvent.",
-        "lugar": "Villaviciosa",
-        "precio": "gratuit"
-      },
-      "de": {
-        "titular": "Villaviciosa bietet einen kostenlosen Kurs zum Freizeitbetreuer an",
-        "entradilla": "Das Rathaus bildet alle aus, die in der Freizeit- und non-formalen Bildungsarbeit tätig werden möchten.",
-        "cuerpo": [
-          "Die Gemeinde Villaviciosa startet einen offiziellen und kostenlosen Kurs zum Erwerb des Titels als Freizeitbetreuer oder Freizeitbetreuerin. Der Unterricht beginnt am 21. September und endet am 6. November.",
-          "Interessierte können über die vom Rathaus bekanntgegebenen Kontaktnummern Informationen anfragen oder sich anmelden."
-        ],
-        "apunte": "Zwei Monate offizielle Ausbildung, die keinen einzigen Euro kostet: So günstig geht es selten auf.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa organisiert einen offiziellen und kostenlosen Kurs zum Freizeitbetreuer.",
-          "Der Unterricht findet vom 21. September bis zum 6. November statt.",
-          "Die Anmeldung erfolgt über die Kontaktnummern des Rathauses."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Der Titel als Freizeitbetreuer öffnet Türen zu Stellen in Ferienlagern, Spielhäusern und Freizeitangeboten; ihn kostenlos und in der Nähe des eigenen Wohnorts zu erwerben ist eine Gelegenheit, die selten ist.",
-        "lugar": "Villaviciosa",
-        "precio": "kostenlos"
-      }
-    }
-  },
-  {
-    "id": "aprobacion-inicial-del-reglamento-de-uso-de-la-sala-de-estudios-munici",
-    "url": "/villaviciosa/aprobacion-inicial-del-reglamento-de-uso-de-la-sala-de-estudios-munici/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa regula el uso de su sala de estudios",
-    "entradilla": "El pleno municipal aprobó en julio el reglamento que ordenará cómo se usa este espacio público.",
-    "cuerpo": [
-      "El pleno del Ayuntamiento de Villaviciosa dio luz verde el 30 de julio de 2026 a las normas que van a regir la sala de estudios municipal. Es una aprobación inicial, así que el reglamento todavía puede recibir alegaciones antes de quedar definitivo.",
-      "Quien quiera consultarlo puede hacerlo en el tablón de anuncios de la sede electrónica del ayuntamiento, donde está publicado junto con el anuncio oficial."
-    ],
-    "apunte": "Aprobación inicial significa que aún hay margen para decir lo que uno piensa.",
-    "enVeinte": [
-      "El pleno de Villaviciosa aprobó el 30 de julio de 2026 el reglamento de uso de la sala de estudios municipal.",
-      "La aprobación es inicial, por lo que el texto puede recibir alegaciones antes de ser definitivo.",
-      "El reglamento está disponible en el tablón de anuncios de la sede electrónica del ayuntamiento."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Si usas la sala de estudios municipal, estas normas van a marcar las condiciones de acceso y funcionamiento; y si tienes algo que objetar, este es el momento de hacerlo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "sala de estudios",
-      "reglamento",
-      "ayuntamiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:43:09.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19749468",
-      "titularOriginal": "Aprobación inicial del Reglamento de uso de la sala de estudios municipal del Ayuntamiento de Villaviciosa",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa regulates the use of its study room",
-        "entradilla": "The full council approved in July the rules that will govern how this public space is used.",
-        "cuerpo": [
-          "The full council of the Ayuntamiento de Villaviciosa gave the green light on 30 July 2026 to the rules that will govern the municipal study room. This is an initial approval, so the regulation can still receive objections before becoming final.",
-          "Anyone wishing to consult it can do so on the notice board of the council's electronic office, where it has been published alongside the official announcement."
-        ],
-        "apunte": "Initial approval means there is still time to have your say.",
-        "enVeinte": [
-          "The full council of Villaviciosa approved on 30 July 2026 the regulation governing the use of the municipal study room.",
-          "The approval is initial, so the text can still receive objections before becoming final.",
-          "The regulation is available on the notice board of the council's electronic office."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "If you use the municipal study room, these rules will set the conditions for access and how the space works; and if you have any objection, now is the time to raise it.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa réglemente l'utilisation de sa salle d'étude",
-        "entradilla": "L'assemblée municipale a approuvé en juillet le règlement qui organisera l'usage de cet espace public.",
-        "cuerpo": [
-          "L'assemblée plénière de l'Ayuntamiento de Villaviciosa a donné son feu vert le 30 juillet 2026 aux règles qui régiront la salle d'étude municipale. Il s'agit d'une approbation initiale, de sorte que le règlement peut encore recevoir des observations avant d'être définitif.",
-          "Toute personne souhaitant le consulter peut le faire sur le tableau d'affichage du siège électronique de la mairie, où il est publié avec l'annonce officielle."
-        ],
-        "apunte": "Une approbation initiale signifie qu'il est encore possible de donner son avis.",
-        "enVeinte": [
-          "L'assemblée plénière de Villaviciosa a approuvé le 30 juillet 2026 le règlement d'utilisation de la salle d'étude municipale.",
-          "L'approbation est initiale, ce qui signifie que le texte peut encore recevoir des observations avant d'être définitif.",
-          "Le règlement est disponible sur le tableau d'affichage du siège électronique de la mairie."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Si vous utilisez la salle d'étude municipale, ces règles fixeront les conditions d'accès et de fonctionnement ; et si vous avez quelque chose à objecter, c'est le moment de le faire.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa regelt die Nutzung seines Lernraums",
-        "entradilla": "Die Vollversammlung des Rathauses stimmte im Juli der Ordnung zu, die die Nutzung dieses öffentlichen Raums regeln wird.",
-        "cuerpo": [
-          "Die Vollversammlung des Ayuntamiento de Villaviciosa gab am 30. Juli 2026 grünes Licht für die Vorschriften, die den städtischen Lernraum künftig regeln werden. Es handelt sich um eine vorläufige Genehmigung, sodass die Ordnung noch Einwände entgegennehmen kann, bevor sie endgültig wird.",
-          "Wer sie einsehen möchte, kann dies im Aushang des elektronischen Sitzes des Rathauses tun, wo sie zusammen mit der offiziellen Bekanntmachung veröffentlicht ist."
-        ],
-        "apunte": "Vorläufige Genehmigung bedeutet, dass es noch Spielraum gibt, seine Meinung zu äußern.",
-        "enVeinte": [
-          "Die Vollversammlung von Villaviciosa genehmigte am 30. Juli 2026 die Nutzungsordnung für den städtischen Lernraum.",
-          "Die Genehmigung ist vorläufig, sodass der Text noch Einwände entgegennehmen kann, bevor er endgültig wird.",
-          "Die Ordnung ist im Aushang des elektronischen Sitzes des Rathauses verfügbar."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Wer den städtischen Lernraum nutzt, für den werden diese Regeln die Zugangs- und Nutzungsbedingungen festlegen; und wer etwas einzuwenden hat, sollte dies jetzt tun.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "tablon de anuncios de la sede electronica del",
-      "de anuncios de la sede electronica del ayuntamiento"
-    ]
-  },
-  {
-    "id": "borrador-del-reglamento-de-uso-de-las-instalaciones-deportivas-del-con",
-    "url": "/villaviciosa/borrador-del-reglamento-de-uso-de-las-instalaciones-deportivas-del-con/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa abre a consulta su reglamento deportivo",
-    "entradilla": "El Ayuntamiento publica el borrador que regulará el uso de todos los espacios deportivos del concejo y pide la opinión de los vecinos antes de aprobarlo.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha puesto en consulta pública el borrador del reglamento que ordenará el uso de sus instalaciones deportivas. Cualquier vecino puede leerlo y, si el proceso lo permite, hacer llegar sus observaciones antes de que el texto se apruebe definitivamente.",
-      "El documento está disponible en el tablón de anuncios de la sede electrónica municipal. La consulta pública es el paso previo obligatorio antes de que el pleno pueda votar el reglamento."
-    ],
-    "apunte": "Mejor enterarse ahora que protestar cuando ya esté aprobado.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa ha sacado a consulta pública el borrador que regulará el uso de sus instalaciones deportivas.",
-      "El texto está disponible en el tablón de anuncios de la sede electrónica municipal para que los vecinos puedan consultarlo.",
-      "Es el trámite previo a la aprobación definitiva del reglamento, y el momento en que la ciudadanía puede hacer llegar sus aportaciones."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Si usas el pabellón, el campo de fútbol o cualquier otra instalación deportiva del concejo, este reglamento va a marcar las reglas del juego; ahora es cuando se puede influir en su redacción.",
-    "etiquetas": [
-      "Villaviciosa",
-      "deporte",
-      "reglamento",
-      "trámites"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:42:53.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19799462",
-      "titularOriginal": "Borrador del Reglamento de Uso de las instalaciones deportivas del concejo de Villaviciosa",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa opens its sports regulations to public consultation",
-        "entradilla": "The council has published the draft that will govern the use of all sports facilities in the municipality and is asking residents for their views before it is approved.",
-        "cuerpo": [
-          "The council of Villaviciosa has put the draft sports regulations out to public consultation. The document sets out how all municipal sports facilities will be used. Any resident can read it and, if the process allows, submit observations before the text is formally approved.",
-          "The document is available on the notice board of the municipal electronic office. Public consultation is the mandatory step before the full council can vote on the regulations."
-        ],
-        "apunte": "Better to find out now than to complain once it has already been approved.",
-        "enVeinte": [
-          "The council of Villaviciosa has put out to public consultation the draft that will govern the use of its sports facilities.",
-          "The text is available on the notice board of the municipal electronic office for residents to read.",
-          "This is the step that must come before the regulations are finally approved, and the moment when residents can submit their contributions."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "If you use the sports hall, the football pitch or any other sports facility in the municipality, these regulations will set the rules of the game — and right now is when you can have a say in how they are written.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ouvre son règlement sportif à la consultation publique",
-        "entradilla": "La mairie publie l'avant-projet qui encadrera l'utilisation de tous les équipements sportifs de la commune et invite les habitants à donner leur avis avant son adoption.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a soumis à consultation publique l'avant-projet de règlement qui organisera l'utilisation de ses installations sportives. Tout habitant peut le lire et, si la procédure le permet, faire parvenir ses observations avant que le texte soit adopté définitivement.",
-          "Le document est disponible sur le tableau d'affichage du portail électronique municipal. La consultation publique est l'étape préalable obligatoire avant que le conseil municipal puisse voter le règlement."
-        ],
-        "apunte": "Mieux vaut s'informer maintenant que se plaindre une fois le règlement adopté.",
-        "enVeinte": [
-          "La mairie de Villaviciosa a soumis à consultation publique l'avant-projet qui encadrera l'utilisation de ses installations sportives.",
-          "Le texte est disponible sur le tableau d'affichage du portail électronique municipal pour que les habitants puissent le consulter.",
-          "Il s'agit de l'étape préalable à l'adoption définitive du règlement, et du moment où les citoyens peuvent faire valoir leurs contributions."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Si vous utilisez le gymnase, le terrain de football ou toute autre installation sportive de la commune, ce règlement fixera les règles du jeu — et c'est maintenant que vous pouvez influer sur sa rédaction.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa legt Sportordnung zur öffentlichen Konsultation vor",
-        "entradilla": "Das Rathaus veröffentlicht den Entwurf, der die Nutzung aller Sportstätten der Gemeinde regeln soll, und bittet die Einwohner um ihre Meinung, bevor er verabschiedet wird.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat den Entwurf der Sportordnung zur öffentlichen Konsultation freigegeben. Jeder Einwohner kann ihn lesen und, sofern das Verfahren es erlaubt, Stellungnahmen einreichen, bevor der Text endgültig verabschiedet wird.",
-          "Das Dokument ist auf dem Aushangbrett des elektronischen Gemeindeportals verfügbar. Die öffentliche Konsultation ist der vorgeschriebene Schritt, bevor der Stadtrat über die Ordnung abstimmen kann."
-        ],
-        "apunte": "Besser jetzt informieren als protestieren, wenn alles schon beschlossen ist.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa hat den Entwurf, der die Nutzung seiner Sportstätten regeln soll, zur öffentlichen Konsultation freigegeben.",
-          "Der Text steht auf dem Aushangbrett des elektronischen Gemeindeportals zur Verfügung, damit die Einwohner ihn einsehen können.",
-          "Dies ist der Schritt vor der endgültigen Verabschiedung der Ordnung und der Moment, in dem die Bürgerinnen und Bürger ihre Anmerkungen einbringen können."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Wer die Sporthalle, den Fußballplatz oder eine andere Sportstätte der Gemeinde nutzt, für den legt diese Ordnung die Spielregeln fest — und jetzt ist der Moment, um auf ihren Inhalt Einfluss zu nehmen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "modificacion-de-la-ordenanza-de-proteccion-del-medio-ambiente-contra-l",
-    "url": "/villaviciosa/modificacion-de-la-ordenanza-de-proteccion-del-medio-ambiente-contra-l/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa retoca su norma contra el ruido",
-    "entradilla": "El pleno municipal dio luz verde en mayo a la primera modificación de la ordenanza que regula los ruidos y las vibraciones en el concejo.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa aprobó inicialmente, en sesión plenaria del 28 de mayo de 2026, los cambios en la ordenanza municipal que protege el medio ambiente frente a emisiones de ruido y vibraciones.",
-      "Esta aprobación es el primer paso del proceso: la modificación todavía tiene que pasar por un periodo de exposición pública antes de quedar en vigor de forma definitiva."
-    ],
-    "apunte": "Aprobación inicial: queda trecho por recorrer antes de que la norma mande de verdad.",
-    "enVeinte": [
-      "El pleno de Villaviciosa acordó el 28 de mayo de 2026 cambiar la ordenanza municipal sobre ruidos y vibraciones.",
-      "De momento es una aprobación inicial, lo que significa que el texto tiene que pasar aún por información pública.",
-      "Hasta que no se apruebe de forma definitiva, la norma actual sigue siendo la que vale."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "ordenanza municipal",
-      "como": "or-de-nán-za",
-      "definicion": "Norma aprobada por el propio ayuntamiento para regular asuntos concretos de la vida local —ruido, terrazas, animales, limpieza— dentro de su término. Tiene rango inferior a la ley autonómica o estatal, pero es de obligado cumplimiento para vecinos y negocios del concejo."
-    },
-    "porQue": "Si la modificación afecta a los niveles de ruido permitidos o a los horarios, vecinos, hosteleros y empresas del concejo tendrán que adaptar su actividad a las nuevas reglas cuando entren en vigor.",
-    "etiquetas": [
-      "Villaviciosa",
-      "ruido",
-      "ordenanza",
-      "medio ambiente"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:42:33.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19877135",
-      "titularOriginal": "Modificación de la Ordenanza de Protección del Medio Ambiente contra la emisión de ruidos y vibraciones",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa tweaks its noise by-law",
-        "entradilla": "The full council gave the go-ahead in May to the first amendment of the by-law regulating noise and vibrations in the municipality.",
-        "cuerpo": [
-          "Villaviciosa council gave initial approval, at its full council session on 28 May 2026, to the changes in the municipal by-law that protects the environment from noise and vibration emissions.",
-          "This approval is the first step in the process: the amendment still has to go through a period of public consultation before it comes into definitive force."
-        ],
-        "apunte": "Initial approval: there is still some way to go before the rule actually bites.",
-        "enVeinte": [
-          "Villaviciosa's full council agreed on 28 May 2026 to amend the municipal by-law on noise and vibrations.",
-          "For now it is only an initial approval, meaning the text still has to go through public consultation.",
-          "Until a definitive approval is reached, the current rule remains in force."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "ordenanza municipal",
-          "como": "or-de-nán-za",
-          "definicion": "A rule adopted by the council itself to regulate specific aspects of local life — noise, terraces, animals, cleanliness — within its boundaries. It ranks below regional or national law, but is binding on residents and businesses in the municipality."
-        },
-        "porQue": "If the amendment affects permitted noise levels or opening hours, residents, hospitality businesses and companies in the municipality will have to adapt their activities to the new rules once they come into force.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa retouche sa règle anti-bruit",
-        "entradilla": "L'assemblée municipale a donné son feu vert en mai à la première modification de l'arrêté qui réglemente les bruits et les vibrations dans la commune.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a approuvé à titre initial, en séance plénière du 28 mai 2026, les modifications de l'arrêté municipal qui protège l'environnement contre les émissions de bruit et de vibrations.",
-          "Cette approbation n'est que la première étape du processus : la modification doit encore passer par une période d'enquête publique avant d'entrer définitivement en vigueur."
-        ],
-        "apunte": "Approbation initiale : il reste du chemin à parcourir avant que la règle s'impose vraiment.",
-        "enVeinte": [
-          "L'assemblée plénière de Villaviciosa a décidé le 28 mai 2026 de modifier l'arrêté municipal sur les bruits et les vibrations.",
-          "Pour l'instant, il ne s'agit que d'une approbation initiale, ce qui signifie que le texte doit encore passer par une enquête publique.",
-          "Tant qu'une approbation définitive n'est pas intervenue, c'est la règle actuelle qui s'applique."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "ordenanza municipal",
-          "como": "or-de-nán-za",
-          "definicion": "Arrêté adopté par la mairie elle-même pour réglementer des aspects précis de la vie locale — bruit, terrasses, animaux, propreté — sur son territoire. Son rang est inférieur à la loi régionale ou nationale, mais il est obligatoire pour les habitants et les commerces de la commune."
-        },
-        "porQue": "Si la modification touche aux niveaux de bruit autorisés ou aux horaires, riverains, restaurateurs et entreprises de la commune devront adapter leur activité aux nouvelles règles dès leur entrée en vigueur.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa überarbeitet seine Lärmschutzvorschrift",
-        "entradilla": "Der Gemeinderat stimmte im Mai der ersten Änderung der Satzung zu, die Lärm und Erschütterungen in der Gemeinde regelt.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat in der Vollversammlung vom 28. Mai 2026 die Änderungen an der kommunalen Satzung zum Schutz der Umwelt vor Lärm- und Erschütterungsemissionen vorläufig genehmigt.",
-          "Diese Genehmigung ist nur der erste Schritt des Verfahrens: Die Änderung muss noch eine öffentliche Auslegungsfrist durchlaufen, bevor sie endgültig in Kraft tritt."
-        ],
-        "apunte": "Vorläufige Genehmigung: Bis die Vorschrift wirklich gilt, ist noch einiges zu tun.",
-        "enVeinte": [
-          "Der Gemeinderat von Villaviciosa beschloss am 28. Mai 2026, die kommunale Satzung zu Lärm und Erschütterungen zu ändern.",
-          "Vorerst handelt es sich nur um eine vorläufige Genehmigung, das heißt, der Text muss noch öffentlich ausgelegt werden.",
-          "Bis zur endgültigen Genehmigung gilt weiterhin die bestehende Regelung."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "ordenanza municipal",
-          "como": "or-de-nán-za",
-          "definicion": "Eine vom Rathaus selbst erlassene Satzung, die bestimmte Bereiche des örtlichen Lebens regelt — Lärm, Außengastronomie, Tiere, Sauberkeit — und innerhalb des Gemeindegebiets gilt. Sie steht im Rang unter dem regionalen oder staatlichen Gesetz, ist aber für Einwohner und Betriebe der Gemeinde verbindlich."
-        },
-        "porQue": "Wenn die Änderung die zulässigen Lärmpegel oder die Betriebszeiten betrifft, müssen Anwohner, Gastronomiebetriebe und Unternehmen in der Gemeinde ihre Tätigkeit nach Inkrafttreten der neuen Regeln anpassen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "noticia-campa-animes",
-    "url": "/villaviciosa/noticia-campa-animes/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "agenda",
-    "titular": "Campamento gratuito en Villaviciosa por el puente",
-    "entradilla": "El Ayuntamiento organiza tres días de actividades para niños de 3 a 12 años coincidiendo con el puente de Todos los Santos.",
-    "cuerpo": [
-      "Los días 30 de octubre y 3 y 4 de noviembre, Villaviciosa acoge un campamento urbano dirigido a chavales de entre 3 y 12 años. El horario es de 8:30 a 14:30, y la participación es gratuita.",
-      "Las actividades combinan juego y aprendizaje, como en ediciones anteriores. El plazo de inscripción ya cerró el 2 de octubre, así que quien no se apuntó tendrá que esperar a la próxima convocatoria."
-    ],
-    "apunte": "Tres días para que los peques no se aburran y los mayores puedan respirar.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa organiza un campamento urbano gratuito para niños de 3 a 12 años durante el puente de Todos los Santos.",
-      "Las jornadas son el 30 de octubre y el 3 y 4 de noviembre, de 8:30 a 14:30, con actividades lúdico-educativas.",
-      "El plazo de inscripción ya ha cerrado; quien quiera participar deberá estar pendiente de la próxima edición."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Para las familias con hijos en edad escolar, el campamento resuelve los tres días de puente en los que los colegios no abren, sin coste alguno.",
-    "etiquetas": [
-      "infancia",
-      "campamento urbano",
-      "Villaviciosa",
-      "puente de Todos los Santos"
-    ],
-    "fechaEvento": "2026-10-30",
-    "tipoEvento": "taller",
-    "lugar": "Villaviciosa",
-    "hora": "8:30",
-    "precio": "gratis",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:42:20.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19943754",
-      "titularOriginal": "noticia; campa animes",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Free holiday camp in Villaviciosa over the long weekend",
-        "entradilla": "The council is organising three days of activities for children aged 3 to 12 over the All Saints' long weekend.",
-        "cuerpo": [
-          "On 30 October and 3 and 4 November, Villaviciosa hosts an urban camp aimed at children between 3 and 12 years old. Hours are 8:30 to 14:30, and participation is free.",
-          "Activities combine play and learning, as in previous editions. The registration deadline closed on 2 October, so anyone who did not sign up will have to wait for the next edition."
-        ],
-        "apunte": "Three days to keep the little ones entertained while the grown-ups get a breather.",
-        "enVeinte": [
-          "The Villaviciosa council is organising a free urban camp for children aged 3 to 12 over the All Saints' long weekend.",
-          "Sessions run on 30 October and 3 and 4 November, from 8:30 to 14:30, with play-and-learn activities.",
-          "Registration has already closed; those wishing to take part should keep an eye out for the next edition."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "For families with school-age children, the camp takes care of the three days of the long weekend when schools are closed, at no cost.",
-        "lugar": "Villaviciosa",
-        "precio": "free"
-      },
-      "fr": {
-        "titular": "Camp gratuit à Villaviciosa pour le pont de la Toussaint",
-        "entradilla": "La mairie organise trois jours d'activités pour les enfants de 3 à 12 ans à l'occasion du pont de la Toussaint.",
-        "cuerpo": [
-          "Les 30 octobre, 3 et 4 novembre, Villaviciosa accueille un camp urbain destiné aux enfants de 3 à 12 ans. Les horaires sont de 8 h 30 à 14 h 30 et la participation est gratuite.",
-          "Les activités mêlent jeu et apprentissage, comme lors des éditions précédentes. Les inscriptions ont fermé le 2 octobre ; ceux qui ne se sont pas inscrits devront attendre le prochain appel."
-        ],
-        "apunte": "Trois jours pour que les petits ne s'ennuient pas et que les grands puissent souffler.",
-        "enVeinte": [
-          "La mairie de Villaviciosa organise un camp urbain gratuit pour les enfants de 3 à 12 ans pendant le pont de la Toussaint.",
-          "Les journées ont lieu les 30 octobre, 3 et 4 novembre, de 8 h 30 à 14 h 30, avec des activités ludo-éducatives.",
-          "Les inscriptions sont déjà closes ; ceux qui souhaitent participer devront suivre la prochaine édition."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Pour les familles avec des enfants en âge scolaire, le camp règle le problème des trois jours de pont pendant lesquels les écoles sont fermées, sans aucun frais.",
-        "lugar": "Villaviciosa",
-        "precio": "gratuit"
-      },
-      "de": {
-        "titular": "Kostenloses Ferienlager in Villaviciosa über das lange Wochenende",
-        "entradilla": "Das Rathaus organisiert drei Tage mit Aktivitäten für Kinder von 3 bis 12 Jahren rund um das lange Wochenende zu Allerheiligen.",
-        "cuerpo": [
-          "Am 30. Oktober sowie am 3. und 4. November veranstaltet Villaviciosa ein städtisches Ferienlager für Kinder zwischen 3 und 12 Jahren. Die Zeiten sind 8:30 bis 14:30 Uhr, die Teilnahme ist kostenlos.",
-          "Die Aktivitäten verbinden Spiel und Lernen, wie in den vorangegangenen Ausgaben. Die Anmeldefrist endete bereits am 2. Oktober; wer sich nicht angemeldet hat, muss auf die nächste Ausschreibung warten."
-        ],
-        "apunte": "Drei Tage, damit die Kleinen sich nicht langweilen und die Großen durchatmen können.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa organisiert ein kostenloses städtisches Ferienlager für Kinder von 3 bis 12 Jahren über das lange Allerheiligen-Wochenende.",
-          "Die Tage sind der 30. Oktober sowie der 3. und 4. November, jeweils von 8:30 bis 14:30 Uhr, mit spiel- und lernorientierten Aktivitäten.",
-          "Die Anmeldung ist bereits geschlossen; wer teilnehmen möchte, sollte die nächste Ausgabe im Blick behalten."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Für Familien mit schulpflichtigen Kindern löst das Lager das Problem der drei Tage des langen Wochenendes, an denen die Schulen geschlossen sind – und das ohne jegliche Kosten.",
-        "lugar": "Villaviciosa",
-        "precio": "kostenlos"
-      }
-    }
-  },
-  {
-    "id": "apertura-matricula-escuela-de-musica-municipal",
-    "url": "/villaviciosa/apertura-matricula-escuela-de-musica-municipal/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "La Escuela de Música de Villaviciosa abre matrícula",
-    "entradilla": "El Ayuntamiento ya admite inscripciones para el curso 2026/2027.",
-    "cuerpo": [
-      "Quien quiera apuntarse a la Escuela de Música Municipal de Villaviciosa ya puede hacerlo: el plazo de matrícula para el próximo curso está abierto.",
-      "El Ayuntamiento no ha precisado fechas de cierre del plazo ni condiciones de inscripción, así que conviene acercarse a preguntar cuanto antes."
-    ],
-    "apunte": "El solfeo no espera: la matrícula ya está abierta.",
-    "enVeinte": [
-      "La Escuela de Música Municipal de Villaviciosa ha abierto el plazo de matrícula para el curso 2026/2027.",
-      "El Ayuntamiento no ha publicado fecha límite de inscripción ni condiciones concretas.",
-      "Quien esté interesado debe informarse directamente cuanto antes para no quedarse sin plaza."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Si tienes hijos o quieres apuntarte tú mismo a aprender música, el momento de moverse es ahora que el plazo acaba de abrirse.",
-    "etiquetas": [
-      "música",
-      "matrícula",
-      "Villaviciosa",
-      "educación"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "taller",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:41:47.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19899956",
-      "titularOriginal": "Apertura matrícula Escuela de Música Municipal",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa Music School opens enrolment",
-        "entradilla": "The council is now accepting registrations for the 2026/2027 school year.",
-        "cuerpo": [
-          "Anyone wishing to enrol at the Escuela de Música Municipal de Villaviciosa can now do so: registration for the coming year is open.",
-          "The council has not announced a closing date or enrolment conditions, so it is worth going in to ask as soon as possible."
-        ],
-        "apunte": "Music theory waits for no one: enrolment is already open.",
-        "enVeinte": [
-          "The Escuela de Música Municipal de Villaviciosa has opened the registration period for the 2026/2027 school year.",
-          "The council has not published a deadline or specific enrolment conditions.",
-          "Those interested should find out directly as soon as possible to avoid missing a place."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "If you have children or want to start learning music yourself, now is the time to act — registration has just opened.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "L'École de musique de Villaviciosa ouvre les inscriptions",
-        "entradilla": "La mairie accepte déjà les inscriptions pour l'année scolaire 2026/2027.",
-        "cuerpo": [
-          "Toute personne souhaitant s'inscrire à l'Escuela de Música Municipal de Villaviciosa peut désormais le faire : les inscriptions pour la prochaine année scolaire sont ouvertes.",
-          "La mairie n'a pas précisé de date limite ni les conditions d'inscription, il est donc conseillé de se renseigner le plus tôt possible."
-        ],
-        "apunte": "Le solfège n'attend pas : les inscriptions sont déjà ouvertes.",
-        "enVeinte": [
-          "L'Escuela de Música Municipal de Villaviciosa a ouvert la période d'inscription pour l'année scolaire 2026/2027.",
-          "La mairie n'a pas publié de date limite ni de conditions d'inscription précises.",
-          "Les personnes intéressées doivent se renseigner directement le plus tôt possible pour ne pas manquer une place."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Si vous avez des enfants ou souhaitez apprendre la musique vous-même, le moment d'agir est maintenant que les inscriptions viennent d'ouvrir.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die Musikschule Villaviciosa öffnet die Anmeldung",
-        "entradilla": "Das Rathaus nimmt bereits Anmeldungen für das Schuljahr 2026/2027 entgegen.",
-        "cuerpo": [
-          "Wer sich an der Escuela de Música Municipal de Villaviciosa anmelden möchte, kann das jetzt tun: Der Anmeldezeitraum für das kommende Schuljahr ist geöffnet.",
-          "Das Rathaus hat weder einen Anmeldeschluss noch konkrete Bedingungen bekannt gegeben — es empfiehlt sich daher, so bald wie möglich persönlich nachzufragen."
-        ],
-        "apunte": "Solfège wartet nicht: Die Anmeldung ist bereits geöffnet.",
-        "enVeinte": [
-          "Die Escuela de Música Municipal de Villaviciosa hat den Anmeldezeitraum für das Schuljahr 2026/2027 eröffnet.",
-          "Das Rathaus hat weder eine Frist noch konkrete Anmeldebedingungen veröffentlicht.",
-          "Interessierte sollten sich so bald wie möglich direkt informieren, um keinen Platz zu verpassen."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Wer Kinder hat oder selbst Musik lernen möchte, sollte jetzt handeln — die Anmeldung ist gerade erst eröffnet worden.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem",
-    "url": "/villaviciosa/bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "Villaviciosa busca gerocultores para su residencia municipal",
-    "entradilla": "El Ayuntamiento abre una bolsa de empleo temporal para cubrir plazas de Auxiliar de Enfermería-Gerocultor/a.",
-    "cuerpo": [
-      "La residencia municipal de Villaviciosa necesita refuerzo: el Ayuntamiento ha puesto en marcha una bolsa de empleo para contratar personal con carácter temporal en la categoría de Auxiliar de Enfermería-Gerocultor/a.",
-      "Quienes quieran apuntarse pueden consultar las bases en el Boletín Oficial del Principado de Asturias. El propio anuncio municipal remite a ese documento para conocer los requisitos y el plazo de presentación de solicitudes."
-    ],
-    "apunte": "",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa abre una bolsa de empleo temporal para Auxiliares de Enfermería-Gerocultor/a en la residencia municipal.",
-      "Las bases están publicadas en el BOPA, donde se pueden consultar los requisitos y el plazo.",
-      "Quien busque trabajo en el sector sociosanitario en Villaviciosa tiene aquí una puerta abierta."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "gerocultor",
-      "como": "ge-ro-cul-tor",
-      "definicion": "Profesional que atiende a personas mayores en residencias: les ayuda con la higiene, la movilidad y las actividades del día a día. Es la figura de apoyo directo al cuidado que más horas pasa junto a los residentes."
-    },
-    "porQue": "Si la residencia municipal cubre bien sus turnos, los mayores de Villaviciosa reciben mejor atención; y para quien busca trabajo en el sector, esta bolsa puede ser la vía de entrada.",
-    "etiquetas": [
-      "empleo",
-      "residencia",
-      "Villaviciosa",
-      "gerocultores"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-09T11:41:06.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19985929",
-      "titularOriginal": "Bolsa de empleo a efectos de contratación de personal con carácter temporal en la categoría de Auxiliar de Enfermería-Gerocultor/a en la residencia municipal",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa seeks care assistants for its municipal care home",
-        "entradilla": "The council has opened a temporary employment register to fill Nursing Assistant–Care Worker posts.",
-        "cuerpo": [
-          "The municipal care home in Villaviciosa needs extra staff: the council has launched an employment register to hire workers on a temporary basis as Nursing Assistants–Care Workers.",
-          "Those wishing to apply can find the terms and conditions in the Boletín Oficial del Principado de Asturias. The council's own notice directs applicants to that document for the requirements and the deadline for submissions."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "The council of Villaviciosa has opened a temporary employment register for Nursing Assistants–Care Workers at the municipal care home.",
-          "The terms and conditions are published in the BOPA, where applicants can find the requirements and the deadline.",
-          "Anyone looking for work in the social and health sector in Villaviciosa has an opening here."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "gerocultor",
-          "como": "ge-ro-cul-tor",
-          "definicion": "A professional who looks after elderly residents in care homes, helping them with personal hygiene, mobility and daily activities. This is the frontline care role that spends the most hours alongside residents."
-        },
-        "porQue": "When the municipal care home covers its shifts properly, the elderly people of Villaviciosa receive better care; and for anyone seeking work in the sector, this register can be the way in.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa recherche des aides-soignants pour sa maison de retraite municipale",
-        "entradilla": "La mairie ouvre un vivier d'emploi temporaire pour pourvoir des postes d'Aide-soignant(e)–Gérocultor/a.",
-        "cuerpo": [
-          "La maison de retraite municipale de Villaviciosa a besoin de renfort : la mairie a mis en place un vivier d'emploi pour recruter du personnel à titre temporaire dans la catégorie Aide-soignant(e)–Gérocultor/a.",
-          "Les personnes souhaitant candidater peuvent consulter le règlement dans le Boletín Oficial del Principado de Asturias. L'avis municipal renvoie lui-même à ce document pour connaître les conditions requises et le délai de dépôt des candidatures."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "La mairie de Villaviciosa ouvre un vivier d'emploi temporaire pour des Aides-soignant(e)s–Gérocultor/a à la maison de retraite municipale.",
-          "Le règlement est publié au BOPA, où l'on peut consulter les conditions requises et le délai.",
-          "Toute personne en recherche d'emploi dans le secteur médico-social à Villaviciosa trouve ici une porte ouverte."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "gerocultor",
-          "como": "ge-ro-cul-tor",
-          "definicion": "Professionnel qui s'occupe des personnes âgées en maison de retraite : il les aide pour l'hygiène, la mobilité et les activités du quotidien. C'est le poste d'accompagnement direct qui passe le plus d'heures auprès des résidents."
-        },
-        "porQue": "Lorsque la maison de retraite municipale assure correctement ses tours de garde, les personnes âgées de Villaviciosa bénéficient d'une meilleure prise en charge ; et pour ceux qui cherchent un emploi dans ce secteur, ce vivier peut être la voie d'entrée.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht Pflegehilfskräfte für sein kommunales Pflegeheim",
-        "entradilla": "Das Rathaus eröffnet eine Bewerberliste für befristete Stellen als Pflegehilfskraft–Gerocultor/a.",
-        "cuerpo": [
-          "Das kommunale Pflegeheim in Villaviciosa braucht Verstärkung: Das Rathaus hat eine Bewerberliste eingerichtet, um Personal befristet in der Kategorie Pflegehilfskraft–Gerocultor/a einzustellen.",
-          "Wer sich bewerben möchte, kann die Ausschreibungsunterlagen im Boletín Oficial del Principado de Asturias einsehen. Die Bekanntmachung der Gemeinde verweist auf dieses Dokument, das die Voraussetzungen und die Bewerbungsfrist enthält."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa eröffnet eine Bewerberliste für befristete Stellen als Pflegehilfskraft–Gerocultor/a im kommunalen Pflegeheim.",
-          "Die Ausschreibungsunterlagen sind im BOPA veröffentlicht, wo Voraussetzungen und Frist nachgelesen werden können.",
-          "Wer im Sozial- und Gesundheitsbereich in Villaviciosa Arbeit sucht, findet hier eine Möglichkeit."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "gerocultor",
-          "como": "ge-ro-cul-tor",
-          "definicion": "Eine Fachkraft, die ältere Menschen in Pflegeheimen betreut: Sie hilft bei der Körperpflege, der Mobilität und den Aktivitäten des Alltags. Es handelt sich um die direkte Betreuungsrolle, die die meisten Stunden an der Seite der Bewohner verbringt."
-        },
-        "porQue": "Wenn das kommunale Pflegeheim seine Schichten ordentlich besetzt, erhalten die älteren Menschen in Villaviciosa eine bessere Betreuung; und für alle, die im Pflegebereich Arbeit suchen, kann diese Bewerberliste der Einstieg sein.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "personal con caracter temporal en la categoria de",
-      "con caracter temporal en la categoria de auxiliar",
-      "caracter temporal en la categoria de auxiliar de",
-      "temporal en la categoria de auxiliar de enfermeria",
-      "en la categoria de auxiliar de enfermeria gerocultor",
-      "la categoria de auxiliar de enfermeria gerocultor a"
-    ]
   },
   {
     "id": "ayudas-municipales-en-villaviciosa-para-el-deporte-y-los-festejos",
@@ -36864,207 +36118,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "proyecto-escena-soledad-no-deseada",
-    "url": "/cabranes/proyecto-escena-soledad-no-deseada/",
-    "concejo": "Cabranes",
-    "concejoSlug": "cabranes",
-    "seccion": "actualidad",
-    "titular": "Estudiantes europeos llegan a Cabranes a trabajar contra la soledad",
-    "entradilla": "Proyecto Escena investiga la soledad no deseada y actúa sobre ella desde el lado creativo.",
-    "cuerpo": [
-      "Proyecto Escena ha traído a Cabranes a estudiantes europeos para trabajar sobre la soledad no deseada. La iniciativa es intergeneracional y se plantea las dos cosas a la vez: investigar el problema y hacer algo con él, desde una mirada creativa.",
-      "Que el sitio elegido sea Cabranes no es casual: la soledad no deseada aprieta distinto en un concejo que ha perdido más de la mitad de su población en un siglo."
-    ],
-    "apunte": "",
-    "enVeinte": [],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "La despoblación se cuenta siempre en cifras de padrón. Esto la cuenta por el otro lado: cuánta gente se queda sola cuando el pueblo se vacía.",
-    "etiquetas": [
-      "Cabranes"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-07-21T12:56:51.000Z",
-    "fuente": {
-      "nombre": "El Fielato",
-      "url": "https://www.elfielato.es/articulo/cabranes/proyecto-escena-cabranes-estudiantes-soledad-deseada/20260721125651100094.html",
-      "titularOriginal": "Proyecto Escena trae a Cabranes a estudiantes europeos para combatir la soledad no deseada"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "European students come to Cabranes to work against loneliness",
-        "entradilla": "Proyecto Escena investigates unwanted loneliness and tackles it from a creative angle.",
-        "cuerpo": [
-          "Proyecto Escena has brought European students to Cabranes to work on unwanted loneliness. The initiative is intergenerational and pursues both goals at once: researching the problem and doing something about it, through a creative lens.",
-          "The choice of Cabranes is no coincidence: unwanted loneliness weighs differently in a municipality that has lost more than half its population in a century."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Depopulation is always told in census figures. This tells it from the other side: how many people are left alone when a village empties out.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Des étudiants européens arrivent à Cabranes pour lutter contre la solitude",
-        "entradilla": "Proyecto Escena explore la solitude non désirée et y répond par une approche créative.",
-        "cuerpo": [
-          "Proyecto Escena a accueilli à Cabranes des étudiants européens pour travailler sur la solitude non désirée. L'initiative est intergénérationnelle et poursuit les deux objectifs à la fois : étudier le problème et agir sur lui, avec un regard créatif.",
-          "Si Cabranes a été choisi, ce n'est pas un hasard : la solitude non désirée pèse différemment dans une commune qui a perdu plus de la moitié de sa population en un siècle."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "La dépopulation se raconte toujours en chiffres de recensement. Ici, elle se raconte par l'autre bout : combien de personnes se retrouvent seules quand le village se vide.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Europäische Studierende kommen nach Cabranes, um gegen Einsamkeit zu arbeiten",
-        "entradilla": "Proyecto Escena erforscht ungewollte Einsamkeit und begegnet ihr mit einem kreativen Ansatz.",
-        "cuerpo": [
-          "Proyecto Escena hat europäische Studierende nach Cabranes geholt, um an dem Thema ungewollte Einsamkeit zu arbeiten. Die Initiative ist generationenübergreifend und verfolgt beides zugleich: das Problem zu erforschen und mit einem kreativen Blick etwas dagegen zu tun.",
-          "Dass die Wahl auf Cabranes fiel, ist kein Zufall: Ungewollte Einsamkeit trifft eine Gemeinde anders, die in einem Jahrhundert mehr als die Hälfte ihrer Bevölkerung verloren hat."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Entvölkerung wird immer in Einwohnerzahlen erzählt. Hier wird sie von der anderen Seite erzählt: wie viele Menschen allein zurückbleiben, wenn ein Dorf sich leert.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon",
-    "url": "/pilona/voluntarios-de-la-parroquia-repintan-el-santuario-de-la-cueva-de-pilon/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Vecinos repintan el Santuario de la Cueva",
-    "entradilla": "El trabajo voluntario alcanzó también la fachada del templo parroquial de Infiesto.",
-    "cuerpo": [
-      "Un grupo de voluntarios de la parroquia se puso manos a la obra para repintar el Santuario de la Cueva de Piloña, devolviendo al lugar un aspecto más cuidado.",
-      "La labor no se quedó dentro: también trabajaron en el exterior del templo parroquial de Infiesto."
-    ],
-    "apunte": "Sin subvención ni contrato: solo ganas y brochas.",
-    "enVeinte": [
-      "Voluntarios de la parroquia han repintado el Santuario de la Cueva de Piloña.",
-      "El trabajo incluyó también el exterior del templo parroquial de Infiesto.",
-      "La iniciativa partió de los propios vecinos, sin que la fuente mencione apoyo institucional."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "parroquia",
-      "como": "parroquia",
-      "definicion": "En Asturias, la parroquia es la unidad territorial básica por debajo del concejo: un conjunto de aldeas y lugares que comparten nombre, iglesia y, muchas veces, identidad. Aquí no es solo lo eclesiástico; es la forma en que la gente se sitúa en el mapa."
-    },
-    "porQue": "El Santuario de la Cueva es un referente del concejo, y que los propios vecinos se organicen para mantenerlo muestra que el cuidado del patrimonio no siempre espera a las instituciones.",
-    "etiquetas": [
-      "Piloña",
-      "patrimonio",
-      "voluntariado",
-      "Infiesto"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/21/2026072110370078329.jpg",
-    "fecha": "2026-07-21T08:40:58.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/voluntarios-repintan-santuario-cueva-pilona/20260721104058100087.html",
-      "titularOriginal": "Voluntarios de la parroquia repintan el Santuario de la Cueva de Piloña"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Residents repaint the Santuario de la Cueva",
-        "entradilla": "The volunteer effort also reached the façade of the parish church in Infiesto.",
-        "cuerpo": [
-          "A group of parish volunteers rolled up their sleeves to repaint the Santuario de la Cueva in Piloña, restoring a tidier look to the site.",
-          "The work did not stop inside: they also tackled the exterior of the parish church in Infiesto."
-        ],
-        "apunte": "No grant, no contract: just willingness and paintbrushes.",
-        "enVeinte": [
-          "Parish volunteers have repainted the Santuario de la Cueva in Piloña.",
-          "The work also included the exterior of the parish church in Infiesto.",
-          "The initiative came from the residents themselves, with no institutional support mentioned."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "parroquia",
-          "como": "parroquia",
-          "definicion": "In Asturias, the parroquia is the basic territorial unit below the municipality: a cluster of villages and hamlets that share a name, a church and, often, a common identity. Here it is not purely an ecclesiastical term; it is the way people place themselves on the map."
-        },
-        "porQue": "The Santuario de la Cueva is a landmark of the municipality, and the fact that residents organise themselves to maintain it shows that heritage care does not always wait for institutions.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Des habitants repeignent le Santuario de la Cueva",
-        "entradilla": "Le travail bénévole a également concerné la façade de l'église paroissiale d'Infiesto.",
-        "cuerpo": [
-          "Un groupe de bénévoles de la paroisse s'est mis au travail pour repeindre le Santuario de la Cueva de Piloña, rendant au lieu un aspect plus soigné.",
-          "Le chantier ne s'est pas limité à l'intérieur : ils ont aussi œuvré sur l'extérieur de l'église paroissiale d'Infiesto."
-        ],
-        "apunte": "Ni subvention ni contrat : seulement de la bonne volonté et des pinceaux.",
-        "enVeinte": [
-          "Des bénévoles de la paroisse ont repeint le Santuario de la Cueva de Piloña.",
-          "Le travail a également porté sur l'extérieur de l'église paroissiale d'Infiesto.",
-          "L'initiative est venue des habitants eux-mêmes, sans soutien institutionnel mentionné."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "parroquia",
-          "como": "parroquia",
-          "definicion": "En Asturie, la parroquia est l'unité territoriale de base, en dessous de la commune : un ensemble de hameaux et de lieux-dits qui partagent un nom, une église et, souvent, une identité commune. Le terme n'est pas purement ecclésiastique ; c'est la façon dont les gens se situent sur la carte."
-        },
-        "porQue": "Le Santuario de la Cueva est un repère de la commune, et le fait que les habitants s'organisent eux-mêmes pour l'entretenir montre que la préservation du patrimoine n'attend pas toujours les institutions.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Anwohner streichen das Santuario de la Cueva neu",
-        "entradilla": "Die Freiwilligenarbeit erfasste auch die Fassade der Pfarrkirche in Infiesto.",
-        "cuerpo": [
-          "Eine Gruppe von Freiwilligen der Pfarrgemeinde machte sich ans Werk, um das Santuario de la Cueva in Piloña neu zu streichen und dem Ort ein gepflegteres Erscheinungsbild zurückzugeben.",
-          "Die Arbeit blieb nicht auf das Innere beschränkt: Auch die Außenwände der Pfarrkirche in Infiesto wurden in Angriff genommen."
-        ],
-        "apunte": "Kein Zuschuss, kein Auftrag – nur Tatkraft und Pinsel.",
-        "enVeinte": [
-          "Freiwillige der Pfarrgemeinde haben das Santuario de la Cueva in Piloña neu gestrichen.",
-          "Die Arbeiten umfassten auch das Äußere der Pfarrkirche in Infiesto.",
-          "Die Initiative ging von den Bewohnern selbst aus; institutionelle Unterstützung wird nicht erwähnt."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "parroquia",
-          "como": "parroquia",
-          "definicion": "In Asturien ist die parroquia die territoriale Grundeinheit unterhalb der Gemeinde: ein Verbund von Dörfern und Weilern, die einen gemeinsamen Namen, eine Kirche und oft auch eine gemeinsame Identität teilen. Der Begriff ist nicht rein kirchlicher Natur; er beschreibt die Art, wie die Menschen sich auf der Karte verorten."
-        },
-        "porQue": "Das Santuario de la Cueva ist ein Wahrzeichen der Gemeinde. Dass die Bewohner sich selbst organisieren, um es zu erhalten, zeigt: Denkmalpflege wartet nicht immer auf Institutionen.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "en el exterior del templo parroquial de infiesto"
-    ]
   }
 ]

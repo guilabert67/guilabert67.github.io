@@ -446,6 +446,11 @@
       "motivo": "duplicado de /pilona/alberto-y-enrique-de-la-pena-el-arenal-ganan-el-trofeo-de-bolos-de-la-/",
       "fecha": "2026-10-19T07:43:01.543Z",
       "titulo": "Abelardo y Enrique de la Peña El Arenal, ganan el Trofeo de Bolos de la Avellana"
+    },
+    "elfielato.es/articulo/pilona/infiestu-feria-emprendedoras-expositoras/20261019110904104748.html": {
+      "motivo": "mismo hecho que /pilona/el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex/",
+      "fecha": "2026-10-19T15:02:00.608Z",
+      "titulo": "Infiestu se llena de emprendedoras: 24 negocios de 14 concejos toman Piloña en la IV Feria de Emprendedoras"
     }
   },
   "juicios": {
@@ -540,6 +545,10 @@
     "rtpa.es/noticias-deportes/2026-10-18/el-gaitero-rodiles-cae-goleado-en-su-visita-a-ourense-(5-0)_111792330148.html|el-gaitero-rodiles-retoma-la-competicion-midiendose-a-domicilio-al-our": {
       "r": "mismo",
       "fecha": "2026-10-18T17:18:34.991Z"
+    },
+    "elfielato.es/articulo/pilona/infiestu-feria-emprendedoras-expositoras/20261019110904104748.html|el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex": {
+      "r": "mismo",
+      "fecha": "2026-10-19T15:02:00.608Z"
     }
   }
 }

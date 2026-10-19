@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T07:45:44.163Z",
+  "actualizado": "2026-10-19T15:02:44.638Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -11,19 +11,19 @@
     "nava": {
       "max": 14,
       "min": 3,
-      "estado": "Intervalos nubosos",
+      "estado": "Poco nuboso",
       "lluvia": 3
     },
     "cabranes": {
       "max": 14,
       "min": 4,
-      "estado": "Nuboso",
+      "estado": "Intervalos nubosos",
       "lluvia": 3
     },
     "cabrales": {
       "max": 13,
       "min": 5,
-      "estado": "Poco nuboso",
+      "estado": "Nuboso",
       "lluvia": 0
     },
     "villaviciosa": {
