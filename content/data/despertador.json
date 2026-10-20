@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-19T20:35:40.126Z",
+  "fecha": "2026-10-20T04:43:02.757Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El puente de Ribadesella corta a los coches desde el 26 de octubre hasta marzo.",
-      "enlace": "/pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "La psicoasesoría vuelve al Espacio Joven de Villaviciosa este viernes 23 de octubre.",
-      "enlace": "/villaviciosa/la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu/"
+      "frase": "El concurso Clarín de Quintes sube el premio a 2.000 euros.",
+      "enlace": "/villaviciosa/villaviciosa-firma-un-convenio-con-la-sociedad-clarin-de-quintes-para-/"
     },
     {
       "concejo": "Nava",
-      "frase": "Nava ofrece talleres gratis de cómic y animación con plazas limitadas a finales de octubre.",
-      "enlace": "/nava/nava-organiza-dos-talleres-gratuitos-de-animacion-y-comic-para-ninos-y/"
+      "frase": "El Museo de la Sidra mezcla el sábado poesía del 27 con sidra.",
+      "enlace": "/nava/nava-inaugura-el-proyecto-cosecha-del-27-que-une-poesia-sidra-y-memori/"
     }
   ]
 }

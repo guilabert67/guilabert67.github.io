@@ -1,5 +1,258 @@
 [
   {
+    "id": "nava-inaugura-el-proyecto-cosecha-del-27-que-une-poesia-sidra-y-memori",
+    "url": "/nava/nava-inaugura-el-proyecto-cosecha-del-27-que-une-poesia-sidra-y-memori/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Poesía, sidra y Generación del 27 en Nava",
+    "entradilla": "El Museo de la Sidra acoge el sábado una propuesta que mezcla versos de hace un siglo con la tradición sidrería asturiana.",
+    "cuerpo": [
+      "El Museo de la Sidra de Nava pone en marcha el proyecto 'Cosecha del 27' el sábado 24 de octubre. La propuesta conecta la Generación del 27 con la cultura sidrera de la región y combina interpretación escénica con memoria del territorio.",
+      "Quien quiera acercarse tiene el museo de Nava como destino. Más allá de eso, la fuente no adelanta horario ni precio de entrada."
+    ],
+    "apunte": "Lorca y la sidra en el mismo vaso: no es la combinación más obvia, pero por algo se llama 'Cosecha'.",
+    "enVeinte": [
+      "El Museo de la Sidra de Nava estrena el proyecto 'Cosecha del 27' el sábado 24 de octubre.",
+      "La propuesta une poesía de la Generación del 27 con la tradición sidrera asturiana mediante interpretación escénica.",
+      "No se conocen por ahora el horario exacto ni el precio de la entrada."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (la 'll' asturiana, bien marcada)",
+      "definicion": "El llagar es el lugar donde se prensa la manzana y fermenta el mosto para convertirse en sidra. En Asturias no hay fiesta de la cosecha que no pase por uno."
+    },
+    "porQue": "Quien vive en Nava o alrededores tiene en casa un plan cultural para el sábado sin salir del concejo.",
+    "etiquetas": [
+      "Nava",
+      "Museo de la Sidra",
+      "cultura",
+      "sidra"
+    ],
+    "fechaEvento": "2026-10-24",
+    "tipoEvento": "escena",
+    "lugar": "Museo de la Sidra de Nava",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/nava-inaugura-el-proyecto-cosecha-del-27-que-une-p-7849b4f8.jpg",
+    "fecha": "2026-10-19T22:13:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-nava/nava-inaugura-el-proyecto-cosecha-del-27-que-une-poesia-sidra-y-memoria-del-territorio-11276670.html",
+      "titularOriginal": "Nava inaugura el proyecto ‘Cosecha del 27’, que une poesía, sidra y memoria del territorio"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Poetry, cider and the Generation of '27 in Nava",
+        "entradilla": "The Museo de la Sidra hosts a project on Saturday that blends verses from a century ago with Asturian cider-making tradition.",
+        "cuerpo": [
+          "The Museo de la Sidra in Nava launches the project 'Cosecha del 27' on Saturday 24 October. The proposal connects the Generation of '27 with the cider culture of the region and combines stage performance with the memory of the territory.",
+          "Anyone who wants to attend has the Nava museum as their destination. Beyond that, the source does not give advance notice of the timetable or the admission price."
+        ],
+        "apunte": "Lorca and cider in the same glass: it is not the most obvious combination, but there is a reason it is called 'Cosecha'.",
+        "enVeinte": [
+          "The Museo de la Sidra in Nava premieres the project 'Cosecha del 27' on Saturday 24 October.",
+          "The proposal unites poetry from the Generation of '27 with Asturian cider-making tradition through stage performance.",
+          "The exact timetable and admission price are not yet known."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (the Asturian 'll', clearly pronounced)",
+          "definicion": "The llagar is the place where apples are pressed and the must ferments to become cider. In Asturias, no harvest celebration goes by without one."
+        },
+        "porQue": "Anyone living in Nava or nearby has a cultural plan for Saturday without leaving the municipality.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Poésie, cidre et Génération de 27 à Nava",
+        "entradilla": "Le Museo de la Sidra accueille samedi un projet qui mêle des vers vieux d'un siècle à la tradition cidrière asturienne.",
+        "cuerpo": [
+          "Le Museo de la Sidra de Nava lance le projet 'Cosecha del 27' le samedi 24 octobre. La proposition relie la Génération de 27 à la culture du cidre de la région et associe interprétation scénique et mémoire du territoire.",
+          "Les personnes souhaitant y assister ont le musée de Nava pour destination. Au-delà de cela, la source ne communique ni horaire ni tarif d'entrée."
+        ],
+        "apunte": "Lorca et le cidre dans le même verre : ce n'est pas la combinaison la plus évidente, mais ce n'est pas pour rien que cela s'appelle 'Cosecha'.",
+        "enVeinte": [
+          "Le Museo de la Sidra de Nava inaugure le projet 'Cosecha del 27' le samedi 24 octobre.",
+          "La proposition unit la poésie de la Génération de 27 à la tradition cidrière asturienne par le biais de l'interprétation scénique.",
+          "L'horaire exact et le tarif d'entrée ne sont pas encore connus."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (le 'll' asturien, bien marqué)",
+          "definicion": "Le llagar est l'endroit où les pommes sont pressées et où le moût fermente pour devenir du cidre. En Asturies, aucune fête de la récolte ne se passe de l'un d'eux."
+        },
+        "porQue": "Ceux qui vivent à Nava ou aux alentours disposent d'un programme culturel pour le samedi sans quitter la commune.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Poesie, Cidre und die Generation von 27 in Nava",
+        "entradilla": "Das Museo de la Sidra zeigt am Samstag ein Projekt, das Verse von vor einem Jahrhundert mit der asturischen Cidre-Tradition verbindet.",
+        "cuerpo": [
+          "Das Museo de la Sidra in Nava startet das Projekt 'Cosecha del 27' am Samstag, dem 24. Oktober. Das Vorhaben verbindet die Generation von 27 mit der Cidre-Kultur der Region und kombiniert szenische Interpretation mit dem Gedächtnis des Territoriums.",
+          "Wer teilnehmen möchte, findet im Museum in Nava sein Ziel. Darüber hinaus nennt die Quelle weder Uhrzeit noch Eintrittspreis."
+        ],
+        "apunte": "Lorca und Cidre im selben Glas: nicht die naheliegendste Kombination – aber es heißt ja nicht umsonst 'Cosecha'.",
+        "enVeinte": [
+          "Das Museo de la Sidra in Nava bringt das Projekt 'Cosecha del 27' am Samstag, dem 24. Oktober, zur Uraufführung.",
+          "Das Vorhaben verbindet Poesie der Generation von 27 mit der asturischen Cidre-Tradition durch szenische Interpretation.",
+          "Genaue Uhrzeit und Eintrittspreis sind noch nicht bekannt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagar",
+          "como": "llagar (das asturische 'll', deutlich ausgesprochen)",
+          "definicion": "Der llagar ist der Ort, an dem Äpfel gepresst werden und der Most zu Cidre vergärt. In Asturien gibt es kein Erntafest, das ohne einen solchen auskommt."
+        },
+        "porQue": "Wer in Nava oder der näheren Umgebung lebt, hat für den Samstag ein kulturelles Programm – ohne die Gemeinde zu verlassen.",
+        "lugar": "Museo de la Sidra de Nava",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-firma-un-convenio-con-la-sociedad-clarin-de-quintes-para-",
+    "url": "/villaviciosa/villaviciosa-firma-un-convenio-con-la-sociedad-clarin-de-quintes-para-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa pone 1.500 € al concurso Clarín",
+    "entradilla": "El premio de relatos cortos de Quintes sube hasta los 2.000 euros gracias al acuerdo entre el Ayuntamiento y la Sociedad Clarín.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa y la Sociedad Clarín de Quintes han firmado un convenio por el que el consistorio aporta 1.500 euros al Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+      "Con esa inyección municipal, la dotación total del premio pasa a ser de 2.000 euros."
+    ],
+    "apunte": "Clarín nunca tuvo tantos euros de su concejo detrás.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa aporta 1.500 euros al Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+      "Gracias al convenio con la Sociedad Clarín de Quintes, el premio total sube hasta los 2.000 euros.",
+      "El acuerdo refuerza con dinero público un certamen literario que lleva el nombre del escritor asturiano más universal."
+    ],
+    "cifra": {
+      "numero": "2.000",
+      "unidad": "euros",
+      "glosa": "Es la dotación total que tendrá ahora el concurso. De esos 2.000 euros, 1.500 los pone el Ayuntamiento de Villaviciosa mediante el convenio recién firmado."
+    },
+    "palabra": {
+      "termino": "Quintes",
+      "como": "Quintes, con acento en la primera sílaba, como lo dice cualquiera del concejo",
+      "definicion": "Parroquia del concejo de Villaviciosa donde tiene su sede la Sociedad Clarín, la entidad que organiza el concurso literario dedicado al escritor Leopoldo Alas."
+    },
+    "porQue": "Un premio literario con más respaldo económico y municipal proyecta el nombre de Villaviciosa más allá de Asturias y da más motivos a escritores de fuera para fijar la vista en el concejo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Concurso Clarín",
+      "literatura",
+      "convenio"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "letras",
+    "lugar": "Quintes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-firma-un-convenio-con-la-sociedad-cla-8212220a.jpg",
+    "fecha": "2026-10-19T22:02:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-firma-un-convenio-con-la-sociedad-clarin-de-quintes-para-impulsar-su-concurso-literario-11276669.html",
+      "titularOriginal": "Villaviciosa firma un convenio con la Sociedad Clarín de Quintes para impulsar su concurso literario"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa puts €1,500 into the Clarín contest",
+        "entradilla": "The short story prize from Quintes rises to 2,000 euros thanks to the agreement between the council and the Sociedad Clarín.",
+        "cuerpo": [
+          "The council of Villaviciosa and the Sociedad Clarín de Quintes have signed an agreement by which the municipality contributes 1,500 euros to the Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+          "With that municipal injection, the total prize money rises to 2,000 euros."
+        ],
+        "apunte": "Clarín has never had so many euros from his municipality behind it.",
+        "enVeinte": [
+          "The council of Villaviciosa contributes 1,500 euros to the Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+          "Thanks to the agreement with the Sociedad Clarín de Quintes, the total prize rises to 2,000 euros.",
+          "The agreement backs a literary contest bearing the name of Asturias's most universal writer with public money."
+        ],
+        "cifra": {
+          "numero": "2,000",
+          "unidad": "euros",
+          "glosa": "This is the total prize fund the contest will now carry. Of those 2,000 euros, 1,500 come from the council of Villaviciosa through the newly signed agreement."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, with the stress on the first syllable, as anyone from the municipality says it",
+          "definicion": "A parish in the municipality of Villaviciosa where the Sociedad Clarín is based — the organisation that runs the literary contest dedicated to the writer Leopoldo Alas."
+        },
+        "porQue": "A literary prize with stronger financial and municipal backing projects the name of Villaviciosa beyond Asturias and gives writers from elsewhere more reason to turn their attention to the municipality.",
+        "lugar": "Quintes",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa apporte 1 500 € au concours Clarín",
+        "entradilla": "Le prix de nouvelles de Quintes monte à 2 000 euros grâce à l'accord entre la mairie et la Sociedad Clarín.",
+        "cuerpo": [
+          "La mairie de Villaviciosa et la Sociedad Clarín de Quintes ont signé une convention par laquelle la commune verse 1 500 euros au Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+          "Grâce à cet apport municipal, la dotation totale du prix passe à 2 000 euros."
+        ],
+        "apunte": "Clarín n'avait jamais eu autant d'euros de sa commune derrière lui.",
+        "enVeinte": [
+          "La mairie de Villaviciosa apporte 1 500 euros au Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín».",
+          "Grâce à la convention avec la Sociedad Clarín de Quintes, le prix total monte à 2 000 euros.",
+          "L'accord soutient avec des fonds publics un concours littéraire qui porte le nom de l'écrivain asturien le plus universel."
+        ],
+        "cifra": {
+          "numero": "2 000",
+          "unidad": "euros",
+          "glosa": "C'est la dotation totale que le concours aura désormais. Sur ces 2 000 euros, 1 500 sont apportés par la mairie de Villaviciosa dans le cadre de la convention récemment signée."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, avec l'accent sur la première syllabe, comme le dit n'importe qui de la commune",
+          "definicion": "Paroisse de la commune de Villaviciosa où a son siège la Sociedad Clarín, l'entité qui organise le concours littéraire dédié à l'écrivain Leopoldo Alas."
+        },
+        "porQue": "Un prix littéraire bénéficiant d'un soutien financier et municipal renforcé projette le nom de Villaviciosa au-delà des Asturies et donne davantage de raisons aux écrivains d'ailleurs de porter leur regard vers la commune.",
+        "lugar": "Quintes",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa stellt 1.500 € für den Clarín-Wettbewerb bereit",
+        "entradilla": "Der Kurzgeschichtenpreis aus Quintes steigt dank der Vereinbarung zwischen dem Rathaus und der Sociedad Clarín auf 2.000 Euro.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa und die Sociedad Clarín de Quintes haben eine Vereinbarung unterzeichnet, durch die die Gemeinde 1.500 Euro zum Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín» beisteuert.",
+          "Mit dieser kommunalen Finanzspritze steigt die Gesamtdotierung des Preises auf 2.000 Euro."
+        ],
+        "apunte": "Clarín hatte noch nie so viele Euro aus seiner Gemeinde im Rücken.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa stellt 1.500 Euro für den Concurso Internacional de Relatos Cortos Leopoldo Alas «Clarín» bereit.",
+          "Dank der Vereinbarung mit der Sociedad Clarín de Quintes steigt der Gesamtpreis auf 2.000 Euro.",
+          "Die Vereinbarung stärkt einen Literaturwettbewerb, der den Namen des bekanntesten asturischen Schriftstellers trägt, mit öffentlichen Mitteln."
+        ],
+        "cifra": {
+          "numero": "2.000",
+          "unidad": "Euro",
+          "glosa": "Das ist die Gesamtdotierung, die der Wettbewerb künftig haben wird. Von diesen 2.000 Euro kommen 1.500 vom Rathaus Villaviciosa im Rahmen der soeben unterzeichneten Vereinbarung."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, mit der Betonung auf der ersten Silbe, so wie es jeder aus der Gemeinde ausspricht",
+          "definicion": "Kirchspiel der Gemeinde Villaviciosa, wo die Sociedad Clarín ihren Sitz hat — die Einrichtung, die den dem Schriftsteller Leopoldo Alas gewidmeten Literaturwettbewerb organisiert."
+        },
+        "porQue": "Ein Literaturpreis mit stärkerem finanziellen und kommunalen Rückhalt trägt den Namen Villaviciosas über Asturien hinaus und gibt Schriftstellern von außerhalb mehr Gründe, ihren Blick auf die Gemeinde zu richten.",
+        "lugar": "Quintes",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "concurso internacional de relatos cortos leopoldo alas clarin"
+    ]
+  },
+  {
     "id": "la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu",
     "url": "/villaviciosa/la-psicoasesoria-de-villaviciosa-regresa-ante-la-alta-demanda-en-la-nu/",
     "concejo": "Villaviciosa",
