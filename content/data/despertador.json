@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-20T04:43:02.757Z",
+  "fecha": "2026-10-20T14:35:58.778Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "El concurso Clarín de Quintes sube el premio a 2.000 euros.",
-      "enlace": "/villaviciosa/villaviciosa-firma-un-convenio-con-la-sociedad-clarin-de-quintes-para-/"
+      "concejo": "Piloña",
+      "frase": "Sin salmón ni campanu en 2027: Asturias pide un año de respiro a la especie.",
+      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
     },
     {
-      "concejo": "Nava",
-      "frase": "El Museo de la Sidra mezcla el sábado poesía del 27 con sidra.",
-      "enlace": "/nava/nava-inaugura-el-proyecto-cosecha-del-27-que-une-poesia-sidra-y-memori/"
+      "concejo": "Piloña",
+      "frase": "Filmetrad se despidió con lleno: los vecinos eligieron a los ganadores.",
+      "enlace": "/pilona/vecinos-historias-y-cine-filmetrad-echa-el-telon-a-su-primera-edicion-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Los Princesa de Asturias arrancan y el Serida de Villaviciosa está en la agenda.",
+      "enlace": "/villaviciosa/el-escritor-julian-barnes-y-los-cientificos-mayer-klenerman-y-balasubr/"
     }
   ]
 }
