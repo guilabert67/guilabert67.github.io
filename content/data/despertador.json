@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-20T14:35:58.778Z",
+  "fecha": "2026-10-20T18:45:20.437Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "Sin salmón ni campanu en 2027: Asturias pide un año de respiro a la especie.",
-      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Filmetrad se despidió con lleno: los vecinos eligieron a los ganadores.",
-      "enlace": "/pilona/vecinos-historias-y-cine-filmetrad-echa-el-telon-a-su-primera-edicion-/"
+      "frase": "Patricia Martínez gana el Pachín de Melás: 6.000 euros y obra en escena.",
+      "enlace": "/pilona/patricia-martinez-cueto-gana-la-cuarta-edicion-del-premio-pachin-de-me/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Los Princesa de Asturias arrancan y el Serida de Villaviciosa está en la agenda.",
-      "enlace": "/villaviciosa/el-escritor-julian-barnes-y-los-cientificos-mayer-klenerman-y-balasubr/"
+      "frase": "Villaviciosa busca sitio para aparcar camiones; cuatro ubicaciones en estudio.",
+      "enlace": "/villaviciosa/villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Ca Llechi, el queso de Pintueles, llega premiado a la mesa asturiana.",
+      "enlace": "/pilona/ca-llechi-el-sabor-de-quedarse-y-apostar-por-pilona/"
     }
   ]
 }

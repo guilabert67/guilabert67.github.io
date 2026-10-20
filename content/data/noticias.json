@@ -1,5 +1,490 @@
 [
   {
+    "id": "villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones",
+    "url": "/villaviciosa/villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca aparcamiento para camiones",
+    "entradilla": "El municipio tiene cuatro posibles ubicaciones sobre la mesa mientras los solares que servían de parking empiezan a llenarse de obras.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa trabaja en encontrar un lugar donde los camiones puedan aparcar, después de que varios solares que cumplían esa función informal hayan pasado a edificarse.",
+      "El consistorio maneja cuatro opciones distintas, aunque por ahora no ha hecho pública ninguna decisión sobre cuál será la elegida."
+    ],
+    "apunte": "Cuatro soluciones para un problema que llegó solo cuando alguien decidió construir de verdad.",
+    "enVeinte": [
+      "Villaviciosa ha perdido plazas de aparcamiento para camiones porque los solares que los acogían han empezado a edificarse.",
+      "El Ayuntamiento estudia cuatro emplazamientos alternativos para compensar esa pérdida.",
+      "De momento no hay decisión tomada ni plazo anunciado."
+    ],
+    "cifra": {
+      "numero": "4",
+      "unidad": "posibles ubicaciones",
+      "glosa": "El Ayuntamiento maneja cuatro lugares distintos donde podría habilitarse el nuevo aparcamiento para camiones. Es el número de opciones sobre la mesa, no de plazas ni de solares concretos."
+    },
+    "palabra": null,
+    "porQue": "Si eres transportista o vives cerca del centro, la decisión que tome el consistorio va a cambiar dónde pasan la noche los camiones que abastecen la villa.",
+    "etiquetas": [
+      "Villaviciosa",
+      "aparcamiento",
+      "camiones",
+      "tráfico"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/20/centro-villaviciosa-RITXgsyPKfq0mus83dmcKwO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-20T16:00:12.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-busca-espacio-puedan-aparcar-camiones-20261020180011-nt.html",
+      "titularOriginal": "Villaviciosa busca espacio para que puedan aparcar los camiones"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa looks for lorry parking",
+        "entradilla": "The municipality has four possible locations on the table as the plots that served as informal parking are starting to fill up with construction work.",
+        "cuerpo": [
+          "Villaviciosa council is working to find a place where lorries can park, after several plots that had informally served that purpose have begun to be built on.",
+          "The council is considering four different options, although no decision has yet been made public on which one will be chosen."
+        ],
+        "apunte": "Four solutions to a problem that only arrived when someone decided to build in earnest.",
+        "enVeinte": [
+          "Villaviciosa has lost lorry parking spaces because the plots that accommodated them have begun to be built on.",
+          "The council is studying four alternative sites to make up for that loss.",
+          "So far, no decision has been taken and no deadline has been announced."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "possible locations",
+          "glosa": "The council has four different sites under consideration where the new lorry parking could be set up. This is the number of options on the table, not the number of spaces or specific plots."
+        },
+        "palabra": null,
+        "porQue": "If you are a haulier or you live near the town centre, the decision the council takes will change where the lorries that supply the town spend the night.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche un stationnement pour les camions",
+        "entradilla": "La commune a quatre emplacements possibles à l'étude, tandis que les terrains qui servaient de parking commencent à être occupés par des chantiers.",
+        "cuerpo": [
+          "La mairie de Villaviciosa cherche un endroit où les camions pourront stationner, après que plusieurs terrains qui remplissaient cette fonction de manière informelle ont commencé à être construits.",
+          "La mairie examine quatre options différentes, mais aucune décision n'a encore été rendue publique quant au choix définitif."
+        ],
+        "apunte": "Quatre solutions pour un problème qui n'est apparu que lorsque quelqu'un a décidé de construire pour de bon.",
+        "enVeinte": [
+          "Villaviciosa a perdu des places de stationnement pour camions parce que les terrains qui les accueillaient ont commencé à être construits.",
+          "La mairie étudie quatre emplacements alternatifs pour compenser cette perte.",
+          "Pour l'instant, aucune décision n'a été prise et aucun délai n'a été annoncé."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "emplacements possibles",
+          "glosa": "La mairie examine quatre sites distincts où le nouveau stationnement pour camions pourrait être aménagé. Il s'agit du nombre d'options sur la table, et non du nombre de places ou de terrains précis."
+        },
+        "palabra": null,
+        "porQue": "Si vous êtes transporteur ou si vous habitez près du centre-ville, la décision que prendra la mairie changera l'endroit où passent la nuit les camions qui approvisionnent la ville.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht Parkplätze für Lastwagen",
+        "entradilla": "Die Gemeinde hat vier mögliche Standorte in der Diskussion, während die Grundstücke, die bisher als informelle Parkflächen dienten, zunehmend bebaut werden.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa arbeitet daran, einen Ort zu finden, an dem Lastwagen parken können, nachdem mehrere Grundstücke, die diese Funktion informell erfüllt hatten, bebaut worden sind.",
+          "Das Rathaus prüft vier verschiedene Optionen, hat aber bisher keine Entscheidung darüber bekanntgegeben, welche davon gewählt werden soll."
+        ],
+        "apunte": "Vier Lösungen für ein Problem, das erst auftauchte, als jemand beschloss, ernsthaft zu bauen.",
+        "enVeinte": [
+          "Villaviciosa hat Lkw-Parkplätze verloren, weil die Grundstücke, auf denen sie sich befanden, bebaut worden sind.",
+          "Das Rathaus prüft vier alternative Standorte, um diesen Verlust auszugleichen.",
+          "Bisher wurde weder eine Entscheidung getroffen noch ein Zeitplan bekanntgegeben."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "mögliche Standorte",
+          "glosa": "Das Rathaus prüft vier verschiedene Standorte, an denen der neue Lkw-Parkplatz eingerichtet werden könnte. Dies ist die Anzahl der zur Diskussion stehenden Optionen, nicht die Anzahl der Stellplätze oder konkreten Grundstücke."
+        },
+        "palabra": null,
+        "porQue": "Wenn Sie Spediteur sind oder in der Nähe des Stadtzentrums wohnen, wird die Entscheidung des Rathauses ändern, wo die Lastwagen, die die Stadt versorgen, die Nacht verbringen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "ca-llechi-el-sabor-de-quedarse-y-apostar-por-pilona",
+    "url": "/pilona/ca-llechi-el-sabor-de-quedarse-y-apostar-por-pilona/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Ca Llechi, queso artesano premiado en Pintueles",
+    "entradilla": "El Franxón de Marina y Alberto llega con un reconocimiento que pone nombre propio a una apuesta por quedarse en Piloña.",
+    "cuerpo": [
+      "Marina y Alberto elaboran quesos artesanos en Pintueles con leche que les llegan de pequeñas ganaderías del concejo. Su proyecto, Ca Llechi, acaba de recibir un premio por el Franxón, uno de sus quesos.",
+      "Detrás del reconocimiento hay una forma de trabajar que combina las maneras de siempre con ideas propias y un compromiso claro con el territorio y con quienes crían en él."
+    ],
+    "apunte": "Un premio al Franxón que sabe, sobre todo, a quedarse.",
+    "enVeinte": [
+      "Marina y Alberto producen quesos artesanos en Pintueles bajo el nombre Ca Llechi, con leche de pequeñas ganaderías de Piloña.",
+      "Su queso Franxón acaba de recibir un premio que reconoce su apuesta por tradición, innovación y arraigo al territorio.",
+      "El proyecto es un ejemplo de quienes deciden quedarse y trabajar el concejo desde dentro."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Franxón",
+      "como": "fran-XÓN",
+      "definicion": "Nombre asturiano que designa un tipo de queso elaborado de forma artesanal. En este caso es la variedad premiada de Ca Llechi, la quesería de Pintueles."
+    },
+    "porQue": "Cada proyecto como Ca Llechi que echa raíces en el concejo mantiene vivas las ganaderías pequeñas y demuestra que hay salida para quien quiere trabajar y quedarse en Piloña.",
+    "etiquetas": [
+      "queso artesano",
+      "Pintueles",
+      "Ca Llechi",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Pintueles",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f449.png",
+    "fecha": "2026-10-20T15:52:32.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://lacronicadepilona.com/ca-llechi-el-sabor-de-quedarse-y-apostar-por-pilona/",
+      "titularOriginal": "Ca Llechi: el sabor de quedarse y apostar por Piloña"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ca Llechi, award-winning artisan cheese from Pintueles",
+        "entradilla": "Marina and Alberto's Franxón has earned a prize that puts a name to a commitment to staying in Piloña.",
+        "cuerpo": [
+          "Marina and Alberto make artisan cheeses in Pintueles using milk from small livestock farms in the municipality. Their project, Ca Llechi, has just won an award for the Franxón, one of their cheeses.",
+          "Behind the recognition lies a way of working that combines traditional methods with ideas of their own and a clear commitment to the land and to those who raise animals on it."
+        ],
+        "apunte": "An award for the Franxón that tastes, above all, of staying put.",
+        "enVeinte": [
+          "Marina and Alberto produce artisan cheeses in Pintueles under the name Ca Llechi, using milk from small Piloña livestock farms.",
+          "Their Franxón cheese has just received an award recognising their commitment to tradition, innovation and rootedness in the land.",
+          "The project is an example of those who choose to stay and work the municipality from within."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Franxón",
+          "como": "fran-XÓN",
+          "definicion": "An Asturian name for a type of artisan cheese. In this case it is the award-winning variety from Ca Llechi, the cheese dairy in Pintueles."
+        },
+        "porQue": "Every project like Ca Llechi that puts down roots in the municipality keeps small livestock farms alive and shows there is a future for those who want to work and stay in Piloña.",
+        "lugar": "Pintueles",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Ca Llechi, fromage artisanal primé à Pintueles",
+        "entradilla": "Le Franxón de Marina et Alberto vient d'être récompensé, donnant un visage à l'engagement de rester à Piloña.",
+        "cuerpo": [
+          "Marina et Alberto fabriquent des fromages artisanaux à Pintueles à partir de lait provenant de petits élevages de la commune. Leur projet, Ca Llechi, vient de recevoir un prix pour le Franxón, l'un de leurs fromages.",
+          "Derrière cette récompense se trouve une façon de travailler qui allie les méthodes d'autrefois à des idées propres, avec un engagement clair envers le territoire et ceux qui y élèvent leurs bêtes."
+        ],
+        "apunte": "Un prix pour le Franxón qui a, surtout, le goût de rester.",
+        "enVeinte": [
+          "Marina et Alberto produisent des fromages artisanaux à Pintueles sous le nom Ca Llechi, avec du lait issu de petits élevages de Piloña.",
+          "Leur fromage Franxón vient de recevoir un prix qui salue leur attachement à la tradition, à l'innovation et à l'ancrage dans le territoire.",
+          "Le projet est un exemple de ceux qui choisissent de rester et de travailler la commune de l'intérieur."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Franxón",
+          "como": "fran-XÓN",
+          "definicion": "Nom asturien désignant un type de fromage élaboré de façon artisanale. Il s'agit ici de la variété primée de Ca Llechi, la fromagerie de Pintueles."
+        },
+        "porQue": "Chaque projet comme Ca Llechi qui s'enracine dans la commune maintient en vie les petits élevages et démontre qu'il existe un avenir pour ceux qui veulent travailler et rester à Piloña.",
+        "lugar": "Pintueles",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ca Llechi, preisgekrönter Handkäse aus Pintueles",
+        "entradilla": "Der Franxón von Marina und Alberto wurde ausgezeichnet – ein Name, der für die Entscheidung steht, in Piloña zu bleiben.",
+        "cuerpo": [
+          "Marina und Alberto stellen in Pintueles handwerklichen Käse aus Milch kleiner Viehbetriebe der Gemeinde her. Ihr Projekt Ca Llechi wurde gerade für den Franxón, einen ihrer Käse, mit einem Preis ausgezeichnet.",
+          "Hinter der Auszeichnung steckt eine Arbeitsweise, die überlieferte Methoden mit eigenen Ideen verbindet – und ein klares Bekenntnis zur Region und zu jenen, die dort Tiere halten."
+        ],
+        "apunte": "Ein Preis für den Franxón, der vor allem nach Bleiben schmeckt.",
+        "enVeinte": [
+          "Marina und Alberto produzieren unter dem Namen Ca Llechi handwerklichen Käse in Pintueles, mit Milch kleiner Viehbetriebe aus Piloña.",
+          "Ihr Käse Franxón wurde gerade mit einem Preis ausgezeichnet, der ihr Bekenntnis zu Tradition, Innovation und Verwurzelung im Gebiet würdigt.",
+          "Das Projekt ist ein Beispiel für Menschen, die sich entscheiden zu bleiben und die Gemeinde von innen heraus zu gestalten."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Franxón",
+          "como": "fran-XÓN",
+          "definicion": "Asturischer Name für eine handwerklich hergestellte Käsesorte. Hier handelt es sich um die preisgekrönte Sorte von Ca Llechi, der Käserei in Pintueles."
+        },
+        "porQue": "Jedes Projekt wie Ca Llechi, das in der Gemeinde Wurzeln schlägt, hält kleine Viehbetriebe am Leben und zeigt, dass es eine Zukunft für alle gibt, die in Piloña arbeiten und bleiben wollen.",
+        "lugar": "Pintueles",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "patricia-martinez-cueto-gana-la-cuarta-edicion-del-premio-pachin-de-me",
+    "url": "/pilona/patricia-martinez-cueto-gana-la-cuarta-edicion-del-premio-pachin-de-me/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Una profesora de Infiesto gana el Pachín de Melás",
+    "entradilla": "Patricia Martínez Cueto se lleva 6.000 euros y la promesa de ver su obra sobre los escenarios.",
+    "cuerpo": [
+      "La Consejería de Cultura del Principado ha fallado la cuarta edición del Premio Pachín de Melás a Patricia Martínez Cueto por su texto teatral en asturiano 'Llugares comunes. Drama rural femenín en trés actos'. El jurado destacó el ritmo del texto, el uso natural del asturiano y el dominio de la expresión corporal y la musicalidad.",
+      "Martínez Cueto es periodista de formación y lleva desde 2018 dando clase de Lengua Castellana y Literatura en el Instituto de Infiesto, donde también coordina grupos de teatro. El premio llega, pues, a casa.",
+      "El galardón vale 6.000 euros y no se queda en el papel: el Principado coedita el texto ganador, lo coproduce con una compañía profesional y lo incorpora a su circuito de actividades culturales. La obra tiene, por tanto, papeletas reales de subir a un escenario."
+    ],
+    "apunte": "Drama rural femenino escrito por quien cada mañana entra a clase en Infiesto: la literatura tiene estas cosas.",
+    "enVeinte": [
+      "Patricia Martínez Cueto, profesora del Instituto de Infiesto, gana la cuarta edición del Premio Pachín de Melás con una obra de teatro en asturiano.",
+      "El galardón está dotado con 6.000 euros e incluye la publicación del texto y su coproducción con una compañía profesional.",
+      "El jurado valoró el ritmo fluido, el uso natural del asturiano y el manejo de la expresión corporal y los elementos audiovisuales."
+    ],
+    "cifra": {
+      "numero": "6.000",
+      "unidad": "euros",
+      "glosa": "Es la dotación económica del Premio Pachín de Melás. A eso se suma la coedición del texto y su coproducción escénica, lo que en la práctica vale tanto o más que el dinero."
+    },
+    "palabra": {
+      "termino": "Llugares comunes",
+      "como": "llu-ga-res co-mu-nes",
+      "definicion": "Es el título de la obra ganadora, escrito en asturiano. 'Llugar' es la forma asturiana de 'lugar', y en la llingua de aquí designa también un pueblo pequeño o una aldea, lo que le da al título un doble filo: los tópicos y el territorio."
+    },
+    "porQue": "Una docente del instituto del pueblo lleva el nombre de Infiesto a un premio del Principado y, de paso, acerca el teatro en asturiano a quienes viven aquí.",
+    "etiquetas": [
+      "teatro en asturiano",
+      "Premio Pachín de Melás",
+      "Infiesto",
+      "llingua asturiana"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "escena",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/Patricia-Martinez-Cueto-ganadora-Premio-Pachin-de-Melas-1.jpeg",
+    "fecha": "2026-10-20T15:27:02.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://coperibadesella.com/20/10/2026/patricia-martinez-cueto-gana-la-cuarta-edicion-del-premio-pachin-de-melas-de-textos-teatrales-en-asturiano/",
+      "titularOriginal": "Patricia Martínez Cueto gana la cuarta edición del ‘Premio Pachín de Melás’ de textos teatrales en asturiano"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A teacher from Infiesto wins the Pachín de Melás",
+        "entradilla": "Patricia Martínez Cueto takes home 6,000 euros and the promise of seeing her work on stage.",
+        "cuerpo": [
+          "The Culture Department of the Principality of Asturias has awarded the fourth edition of the Premio Pachín de Melás to Patricia Martínez Cueto for her theatrical text in Asturian, 'Llugares comunes. Drama rural femenín en trés actos'. The jury highlighted the rhythm of the text, the natural use of Asturian and the command of physical expression and musicality.",
+          "Martínez Cueto trained as a journalist and has been teaching Spanish Language and Literature at the Instituto de Infiesto since 2018, where she also runs theatre groups. The prize has come home, then.",
+          "The award is worth 6,000 euros and does not stay on paper: the Principality co-publishes the winning text, co-produces it with a professional company and adds it to its cultural activities circuit. The work therefore has a real chance of reaching a stage."
+        ],
+        "apunte": "A rural feminine drama written by someone who walks into class in Infiesto every morning: literature does these things.",
+        "enVeinte": [
+          "Patricia Martínez Cueto, a teacher at the Instituto de Infiesto, wins the fourth edition of the Premio Pachín de Melás with a theatre piece in Asturian.",
+          "The award carries 6,000 euros and includes publication of the text and its co-production with a professional company.",
+          "The jury valued the fluid rhythm, the natural use of Asturian and the handling of physical expression and audiovisual elements."
+        ],
+        "cifra": {
+          "numero": "6,000",
+          "unidad": "euros",
+          "glosa": "This is the cash prize of the Premio Pachín de Melás. On top of that comes the co-publication of the text and its stage co-production, which in practice is worth as much or more than the money."
+        },
+        "palabra": {
+          "termino": "Llugares comunes",
+          "como": "llu-ga-res co-mu-nes",
+          "definicion": "This is the title of the winning work, written in Asturian. 'Llugar' is the Asturian form of 'lugar' (place), and in the local language it also refers to a small village or hamlet, giving the title a double edge: clichés and territory at once."
+        },
+        "porQue": "A teacher at the local secondary school puts Infiesto on the map at a Principality prize and, along the way, brings Asturian-language theatre closer to those who live here.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Une professeure d'Infiesto remporte le Pachín de Melás",
+        "entradilla": "Patricia Martínez Cueto repart avec 6 000 euros et la promesse de voir son œuvre sur scène.",
+        "cuerpo": [
+          "La Consejería de Cultura du Principat des Asturies a désigné Patricia Martínez Cueto lauréate de la quatrième édition du Premio Pachín de Melás pour son texte théâtral en asturien 'Llugares comunes. Drama rural femenín en trés actos'. Le jury a salué le rythme du texte, l'usage naturel de l'asturien et la maîtrise de l'expression corporelle et de la musicalité.",
+          "Martínez Cueto est journaliste de formation et enseigne la Langue et la Littérature castillanes à l'Instituto de Infiesto depuis 2018, où elle coordonne également des groupes de théâtre. Le prix revient donc à la maison.",
+          "Le galardón vaut 6 000 euros et ne reste pas lettre morte : le Principat coédite le texte primé, le coproduit avec une compagnie professionnelle et l'intègre à son circuit d'activités culturelles. L'œuvre a donc de vraies chances de monter sur les planches."
+        ],
+        "apunte": "Un drame rural féminin écrit par quelqu'un qui entre en classe à Infiesto chaque matin : la littérature réserve ces surprises.",
+        "enVeinte": [
+          "Patricia Martínez Cueto, professeure à l'Instituto de Infiesto, remporte la quatrième édition du Premio Pachín de Melás avec une pièce de théâtre en asturien.",
+          "Le prix est doté de 6 000 euros et comprend la publication du texte et sa coproduction avec une compagnie professionnelle.",
+          "Le jury a apprécié le rythme fluide, l'usage naturel de l'asturien et la maîtrise de l'expression corporelle et des éléments audiovisuels."
+        ],
+        "cifra": {
+          "numero": "6 000",
+          "unidad": "euros",
+          "glosa": "C'est la dotation financière du Premio Pachín de Melás. À cela s'ajoutent la coédition du texte et sa coproduction scénique, ce qui vaut en pratique autant, voire plus, que l'argent."
+        },
+        "palabra": {
+          "termino": "Llugares comunes",
+          "como": "llu-ga-res co-mu-nes",
+          "definicion": "C'est le titre de l'œuvre lauréate, écrit en asturien. 'Llugar' est la forme asturienne de 'lugar' (lieu), et dans la langue d'ici il désigne aussi un petit village ou un hameau, ce qui donne au titre un double tranchant : les clichés et le territoire."
+        },
+        "porQue": "Une enseignante du lycée du village met le nom d'Infiesto à l'honneur lors d'un prix du Principat et, au passage, rapproche le théâtre en asturien de ceux qui vivent ici.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Eine Lehrerin aus Infiesto gewinnt den Pachín de Melás",
+        "entradilla": "Patricia Martínez Cueto erhält 6.000 Euro und das Versprechen, ihr Werk auf der Bühne zu sehen.",
+        "cuerpo": [
+          "Die Kulturbehörde des Fürstentums Asturien hat die vierte Ausgabe des Premio Pachín de Melás an Patricia Martínez Cueto für ihren Theatertexte auf Asturisch vergeben: 'Llugares comunes. Drama rural femenín en trés actos'. Die Jury hob den Rhythmus des Textes, den natürlichen Umgang mit dem Asturischen sowie die Beherrschung des körperlichen Ausdrucks und der Musikalität hervor.",
+          "Martínez Cueto hat Journalismus studiert und unterrichtet seit 2018 kastilische Sprache und Literatur am Instituto de Infiesto, wo sie auch Theatergruppen leitet. Der Preis kommt also nach Hause.",
+          "Die Auszeichnung ist mit 6.000 Euro dotiert und bleibt nicht auf dem Papier: Das Fürstentum verlegt den Gewinnertext in einer Koedition, produziert ihn gemeinsam mit einer professionellen Kompanie und nimmt ihn in sein Kulturprogramm auf. Das Werk hat also echte Chancen, auf eine Bühne zu kommen."
+        ],
+        "apunte": "Ein ländliches Frauendrama, geschrieben von jemandem, der jeden Morgen in Infiesto in die Klasse geht: Literatur hat so ihre Wege.",
+        "enVeinte": [
+          "Patricia Martínez Cueto, Lehrerin am Instituto de Infiesto, gewinnt die vierte Ausgabe des Premio Pachín de Melás mit einem Theaterstück auf Asturisch.",
+          "Der Preis ist mit 6.000 Euro dotiert und umfasst die Veröffentlichung des Textes sowie seine Koproduktion mit einer professionellen Kompanie.",
+          "Die Jury würdigte den flüssigen Rhythmus, den natürlichen Gebrauch des Asturischen sowie den Umgang mit körperlichem Ausdruck und audiovisuellen Elementen."
+        ],
+        "cifra": {
+          "numero": "6.000",
+          "unidad": "Euro",
+          "glosa": "Das ist die finanzielle Dotierung des Premio Pachín de Melás. Hinzu kommen die Koedition des Textes und seine szenische Koproduktion, was in der Praxis genauso viel oder mehr wert ist als das Geld."
+        },
+        "palabra": {
+          "termino": "Llugares comunes",
+          "como": "llu-ga-res co-mu-nes",
+          "definicion": "Das ist der Titel des preisgekrönten Werkes, auf Asturisch geschrieben. 'Llugar' ist die asturische Form von 'lugar' (Ort), und in der hiesigen Sprache bezeichnet es auch ein kleines Dorf oder einen Weiler, was dem Titel eine doppelte Schärfe verleiht: Klischees und Territorium zugleich."
+        },
+        "porQue": "Eine Lehrerin der Schule des Ortes bringt den Namen Infiesto zu einem Preis des Fürstentums und macht dabei das Theater auf Asturisch den Menschen, die hier leben, ein Stück näher.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la cuarta edicion del premio pachin de melas",
+      "llugares comunes drama rural femenin en tres actos",
+      "comunes drama rural femenin en tres actos el",
+      "drama rural femenin en tres actos el jurado",
+      "de lengua castellana y literatura en el instituto",
+      "lengua castellana y literatura en el instituto de",
+      "castellana y literatura en el instituto de infiesto",
+      "y literatura en el instituto de infiesto donde"
+    ]
+  },
+  {
+    "id": "villaviciosa-estrena-nueva-programacion-en-el-espacio-joven-con-activi",
+    "url": "/villaviciosa/villaviciosa-estrena-nueva-programacion-en-el-espacio-joven-con-activi/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "El Espacio Joven de Villaviciosa arranca el viernes",
+    "entradilla": "La programación de otoño mezcla videojuegos, juegos de mesa y propuestas para Halloween desde el 23 de octubre.",
+    "cuerpo": [
+      "El centro municipal retoma la actividad este viernes con una oferta pensada para el tiempo libre de los jóvenes del concejo, con videojuegos, juegos de mesa y actividades temáticas de Halloween.",
+      "La Psicoasesoría Joven, uno de los servicios del espacio, tiene todas sus plazas cubiertas, lo que indica que la demanda supera con creces lo disponible."
+    ],
+    "apunte": "La psicoasesoría ya está llena: quien llegue tarde, a apuntarse en lista de espera.",
+    "enVeinte": [
+      "El Espacio Joven de Villaviciosa reabre el viernes 23 de octubre con videojuegos, juegos de mesa y actividades de Halloween.",
+      "La nueva programación de otoño incluye también apoyo emocional a través de la Psicoasesoría Joven.",
+      "La psicoasesoría tiene todas sus plazas ocupadas, señal de que la demanda entre los jóvenes del concejo es alta."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si tienes hijos jóvenes o eres joven en Villaviciosa, ya sabes dónde pasar el viernes; y si necesitabas la psicoasesoría, conviene preguntar por la lista de espera cuanto antes.",
+    "etiquetas": [
+      "Villaviciosa",
+      "juventud",
+      "Espacio Joven",
+      "Halloween"
+    ],
+    "fechaEvento": "2026-10-23",
+    "tipoEvento": "taller",
+    "lugar": "Espacio Joven, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-estrena-nueva-programacion-en-el-espa-685488b3.jpg",
+    "fecha": "2026-10-20T14:56:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-estrena-nueva-programacion-en-el-espacio-joven-con-actividades-de-ocio-y-apoyo-emocional-11276689.html",
+      "titularOriginal": "Villaviciosa estrena nueva programación en el Espacio Joven con actividades de ocio y apoyo emocional"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Espacio Joven de Villaviciosa opens this Friday",
+        "entradilla": "The autumn programme mixes video games, board games and Halloween activities from 23 October.",
+        "cuerpo": [
+          "The municipal centre resumes activity this Friday with an offer designed for the free time of young people in the municipality, featuring video games, board games and Halloween-themed activities.",
+          "La Psicoasesoría Joven, one of the centre's services, has all its places filled, which shows that demand far exceeds what is available."
+        ],
+        "apunte": "La Psicoasesoría Joven is already full: latecomers should join the waiting list.",
+        "enVeinte": [
+          "Espacio Joven de Villaviciosa reopens on Friday 23 October with video games, board games and Halloween activities.",
+          "The new autumn programme also includes emotional support through La Psicoasesoría Joven.",
+          "La Psicoasesoría Joven has all its places taken, a sign that demand among young people in the municipality is high."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you have teenage children or you are young and living in Villaviciosa, now you know where to spend Friday; and if you needed La Psicoasesoría Joven, it is worth asking about the waiting list as soon as possible.",
+        "lugar": "Espacio Joven, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'Espacio Joven de Villaviciosa ouvre ses portes vendredi",
+        "entradilla": "La programmation d'automne mêle jeux vidéo, jeux de société et activités d'Halloween à partir du 23 octobre.",
+        "cuerpo": [
+          "Le centre municipal reprend son activité vendredi avec une offre pensée pour les loisirs des jeunes de la commune, avec des jeux vidéo, des jeux de société et des activités sur le thème d'Halloween.",
+          "La Psicoasesoría Joven, l'un des services de l'espace, affiche complet, ce qui indique que la demande dépasse largement les places disponibles."
+        ],
+        "apunte": "La Psicoasesoría Joven est déjà complète : les retardataires devront s'inscrire sur liste d'attente.",
+        "enVeinte": [
+          "L'Espacio Joven de Villaviciosa rouvre le vendredi 23 octobre avec des jeux vidéo, des jeux de société et des activités d'Halloween.",
+          "La nouvelle programmation d'automne propose également un soutien émotionnel via la Psicoasesoría Joven.",
+          "La Psicoasesoría Joven affiche complet, signe que la demande parmi les jeunes de la commune est élevée."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous avez des enfants adolescents ou si vous êtes jeune et vivez à Villaviciosa, vous savez maintenant où passer votre vendredi ; et si vous aviez besoin de la Psicoasesoría Joven, mieux vaut vous renseigner sur la liste d'attente le plus tôt possible.",
+        "lugar": "Espacio Joven, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Espacio Joven de Villaviciosa startet am Freitag",
+        "entradilla": "Das Herbstprogramm verbindet Videospiele, Brettspiele und Halloween-Angebote ab dem 23. Oktober.",
+        "cuerpo": [
+          "Das städtische Zentrum nimmt seinen Betrieb diesen Freitag wieder auf mit einem Angebot, das für die Freizeit der Jugendlichen der Gemeinde gedacht ist: Videospiele, Brettspiele und Halloween-Aktivitäten.",
+          "La Psicoasesoría Joven, einer der Dienste des Zentrums, ist vollständig ausgebucht, was zeigt, dass die Nachfrage das verfügbare Angebot bei Weitem übersteigt."
+        ],
+        "apunte": "La Psicoasesoría Joven ist bereits voll: Wer zu spät kommt, sollte sich auf die Warteliste setzen lassen.",
+        "enVeinte": [
+          "Espacio Joven de Villaviciosa öffnet am Freitag, dem 23. Oktober, wieder mit Videospielen, Brettspielen und Halloween-Aktivitäten.",
+          "Das neue Herbstprogramm umfasst auch emotionale Unterstützung durch La Psicoasesoría Joven.",
+          "La Psicoasesoría Joven ist vollständig ausgebucht – ein Zeichen dafür, dass die Nachfrage unter den Jugendlichen der Gemeinde groß ist."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Sie jugendliche Kinder haben oder selbst jung in Villaviciosa leben, wissen Sie jetzt, wo Sie den Freitag verbringen können; und falls Sie La Psicoasesoría Joven benötigen, lohnt es sich, so bald wie möglich nach der Warteliste zu fragen.",
+        "lugar": "Espacio Joven, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "videojuegos juegos de mesa y propuestas para halloween"
+    ]
+  },
+  {
     "id": "el-banco-de-semillas-de-svalbard-comparte-experiencias-con-el-serida",
     "url": "/villaviciosa/el-banco-de-semillas-de-svalbard-comparte-experiencias-con-el-serida/",
     "concejo": "Villaviciosa",
@@ -37151,91 +37636,6 @@
         },
         "porQue": "Das Festival bringt Erzeuger und Fachleute zusammen, die Türen öffnen können – für alle, die in der Gemeinde bereits Heidelbeeren anbauen oder daran denken, Land in diese Richtung umzustellen.",
         "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "los-arandanos-rosas-de-el-cierron-en-villaviciosa-mejor-producto-soste",
-    "url": "/villaviciosa/los-arandanos-rosas-de-el-cierron-en-villaviciosa-mejor-producto-soste/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Los arándanos de El Cierrón ganan el premio BBVA",
-    "entradilla": "Una finca de Villaviciosa se lleva el galardón al mejor producto agroalimentario sostenible de los premios BBVA.",
-    "cuerpo": [
-      "Los arándanos rosas producidos en El Cierrón, en Villaviciosa, han sido reconocidos como el mejor producto sostenible en los premios BBVA.",
-      "El galardón sitúa a Villaviciosa en el mapa de la producción agroalimentaria de referencia, según recoge el reconocimiento."
-    ],
-    "apunte": "No todo lo que da el campo asturiano sabe a manzana.",
-    "enVeinte": [],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Un premio nacional de este tipo pone el nombre del concejo ante compradores, distribuidores y medios de fuera, lo que puede abrir mercado a productores locales.",
-    "etiquetas": [
-      "Villaviciosa",
-      "agroalimentario",
-      "sostenibilidad",
-      "premios BBVA"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/22/PHOTO-2026-07-22-12-45-16-RIYLSKz8Q3JkwgOH9bEQUsN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-22T18:25:56.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/cierron-villaviciosa-mejor-producto-sostenible-premios-bbva-20260722201617-nt.html",
-      "titularOriginal": "Los arándanos rosas de El Cierrón, en Villaviciosa, mejor producto sostenible en los premios BBVA"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "El Cierrón blueberries win the BBVA award",
-        "entradilla": "A farm in Villaviciosa takes the prize for best sustainable agri-food product at the BBVA awards.",
-        "cuerpo": [
-          "The pink blueberries grown at El Cierrón, in Villaviciosa, have been recognised as the best sustainable product at the BBVA awards.",
-          "The prize puts Villaviciosa on the map of leading agri-food production, according to the recognition."
-        ],
-        "apunte": "Not everything the Asturian countryside yields tastes of apples.",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "A national award of this kind puts the municipality's name in front of buyers, distributors and media from outside the area, which may open up markets for local producers.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Les myrtilles d'El Cierrón remportent le prix BBVA",
-        "entradilla": "Une exploitation de Villaviciosa décroche le prix du meilleur produit agroalimentaire durable aux prix BBVA.",
-        "cuerpo": [
-          "Les myrtilles roses produites à El Cierrón, à Villaviciosa, ont été reconnues comme le meilleur produit durable aux prix BBVA.",
-          "Cette récompense place Villaviciosa sur la carte de la production agroalimentaire de référence, selon les termes du prix."
-        ],
-        "apunte": "Tout ce que donne la campagne asturienne ne sent pas la pomme.",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Un prix national de ce type met le nom de la commune devant des acheteurs, des distributeurs et des médias extérieurs, ce qui peut ouvrir de nouveaux marchés aux producteurs locaux.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die Heidelbeeren von El Cierrón gewinnen den BBVA-Preis",
-        "entradilla": "Ein Betrieb in Villaviciosa erhält die Auszeichnung für das beste nachhaltige Agrarlebensmittelprodukt bei den BBVA-Preisen.",
-        "cuerpo": [
-          "Die in El Cierrón, in Villaviciosa, angebauten rosa Heidelbeeren wurden bei den BBVA-Preisen als bestes nachhaltiges Produkt ausgezeichnet.",
-          "Die Auszeichnung stellt Villaviciosa auf die Landkarte der führenden Agrarlebensmittelproduktion, wie aus der Begründung hervorgeht."
-        ],
-        "apunte": "Nicht alles, was die asturische Landschaft hervorbringt, schmeckt nach Äpfeln.",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Ein nationaler Preis dieser Art bringt den Namen der Gemeinde vor Käufer, Händler und Medien von außerhalb, was lokalen Erzeugern neue Märkte eröffnen kann.",
-        "lugar": "",
         "precio": ""
       }
     }
