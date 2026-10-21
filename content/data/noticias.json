@@ -1,5 +1,754 @@
 [
   {
+    "id": "el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-a",
+    "url": "/pilona/el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-a/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "El puente de Ribadesella cierra desde el domingo",
+    "entradilla": "Las obras durarán hasta marzo de 2027 y el alcalde denuncia que el Ministerio no coordinó el corte con el Ayuntamiento.",
+    "cuerpo": [
+      "El puente sobre el Sella, en Ribadesella, quedará cortado al tráfico a partir del 26 de octubre para sustituir su tablero. La intervención la promueve el Ministerio, que prevé tenerlo listo en marzo de 2027.",
+      "Mientras tanto, el Ministerio ha establecido desvíos por la A-8. El alcalde, sin embargo, ha denunciado públicamente que la coordinación con el Ayuntamiento ha brillado por su ausencia."
+    ],
+    "apunte": "Dieciséis meses de obras y el Ministerio sin avisar al Ayuntamiento: una coordinación de manual.",
+    "enVeinte": [
+      "El puente de Ribadesella cierra al tráfico el 26 de octubre para cambiar su tablero.",
+      "Las obras las lleva el Ministerio y se prolongarán hasta marzo de 2027, con desvíos por la A-8.",
+      "El alcalde ha denunciado que el Ayuntamiento no fue consultado ni coordinado antes del corte."
+    ],
+    "cifra": {
+      "numero": "16",
+      "unidad": "meses de corte",
+      "glosa": "Desde el 26 de octubre de 2026 hasta marzo de 2027 el puente estará cerrado al tráfico. Son casi año y medio en los que quienes crucen el Sella por ese punto tendrán que dar la vuelta por la A-8."
+    },
+    "palabra": null,
+    "porQue": "Quien viaje desde los concejos del oriente asturiano hacia Ribadesella o al revés tendrá que contar con el desvío por la autovía durante los próximos dieciséis meses.",
+    "etiquetas": [
+      "Ribadesella",
+      "obras",
+      "tráfico",
+      "infraestructuras"
+    ],
+    "fechaEvento": "2026-10-26",
+    "tipoEvento": "",
+    "lugar": "Puente sobre el Sella, Ribadesella",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-puente-de-ribadesella-cerrara-al-trafico-hasta-9372e7e9.jpg",
+    "fecha": "2026-10-21T15:41:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-ribadesella/el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-alcalde-denuncia-falta-de-coordinacion-11276721.html",
+      "titularOriginal": "El puente de Ribadesella cerrará al tráfico hasta marzo de 2027 y el alcalde denuncia falta de coordinación"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Ribadesella bridge closes from Sunday",
+        "entradilla": "Works will run until March 2027 and the mayor has denounced that the Ministry did not coordinate the closure with the council.",
+        "cuerpo": [
+          "The bridge over the Sella, in Ribadesella, will be closed to traffic from 26 October for the replacement of its deck. The works are promoted by the Ministry, which expects to have it ready by March 2027.",
+          "In the meantime, the Ministry has set up diversions via the A-8. The mayor, however, has publicly denounced that coordination with the council was nowhere to be seen."
+        ],
+        "apunte": "Sixteen months of works and the Ministry without notifying the council: a masterclass in coordination.",
+        "enVeinte": [
+          "The Ribadesella bridge closes to traffic on 26 October for the replacement of its deck.",
+          "The works are carried out by the Ministry and will run until March 2027, with diversions via the A-8.",
+          "The mayor has denounced that the council was neither consulted nor coordinated before the closure."
+        ],
+        "cifra": {
+          "numero": "16",
+          "unidad": "months of closure",
+          "glosa": "From 26 October 2026 until March 2027 the bridge will be closed to traffic. That is almost a year and a half during which anyone crossing the Sella at that point will have to take the diversion via the A-8."
+        },
+        "palabra": null,
+        "porQue": "Anyone travelling from the eastern Asturian municipalities towards Ribadesella, or in the opposite direction, will need to allow for the motorway diversion over the next sixteen months.",
+        "lugar": "Puente sobre el Sella, Ribadesella",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le pont de Ribadesella ferme dès dimanche",
+        "entradilla": "Les travaux dureront jusqu'en mars 2027 et le maire dénonce que le Ministère n'a pas coordonné la fermeture avec la mairie.",
+        "cuerpo": [
+          "Le pont sur le Sella, à Ribadesella, sera fermé à la circulation à partir du 26 octobre pour le remplacement de son tablier. Les travaux sont portés par le Ministère, qui prévoit une livraison en mars 2027.",
+          "En attendant, le Ministère a mis en place des déviations par l'A-8. Le maire a toutefois dénoncé publiquement que la coordination avec la mairie a brillé par son absence."
+        ],
+        "apunte": "Seize mois de travaux et le Ministère sans prévenir la mairie : une coordination exemplaire.",
+        "enVeinte": [
+          "Le pont de Ribadesella ferme à la circulation le 26 octobre pour le remplacement de son tablier.",
+          "Les travaux sont menés par le Ministère et se prolongeront jusqu'en mars 2027, avec des déviations par l'A-8.",
+          "Le maire a dénoncé que la mairie n'a été ni consultée ni coordonnée avant la fermeture."
+        ],
+        "cifra": {
+          "numero": "16",
+          "unidad": "mois de fermeture",
+          "glosa": "Du 26 octobre 2026 jusqu'en mars 2027, le pont sera fermé à la circulation. C'est près d'un an et demi pendant lesquels ceux qui traversent le Sella à cet endroit devront faire le détour par l'A-8."
+        },
+        "palabra": null,
+        "porQue": "Toute personne voyageant depuis les communes de l'est des Asturies vers Ribadesella ou en sens inverse devra compter avec la déviation par l'autoroute pendant les seize prochains mois.",
+        "lugar": "Puente sobre el Sella, Ribadesella",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Brücke von Ribadesella wird ab Sonntag gesperrt",
+        "entradilla": "Die Bauarbeiten dauern bis März 2027 und der Bürgermeister kritisiert, dass das Ministerium die Sperrung nicht mit dem Rathaus abgestimmt hat.",
+        "cuerpo": [
+          "Die Brücke über den Sella in Ribadesella wird ab dem 26. Oktober für den Ersatz ihres Fahrbahnbelags für den Verkehr gesperrt. Die Maßnahme wird vom Ministerium vorangetrieben, das die Fertigstellung für März 2027 plant.",
+          "Das Ministerium hat inzwischen Umleitungen über die A-8 eingerichtet. Der Bürgermeister hat jedoch öffentlich kritisiert, dass eine Abstimmung mit dem Rathaus vollständig gefehlt habe."
+        ],
+        "apunte": "Sechzehn Monate Bauarbeiten und das Ministerium ohne Rücksprache mit dem Rathaus: ein Paradebeispiel an Koordination.",
+        "enVeinte": [
+          "Die Brücke von Ribadesella wird am 26. Oktober für den Ersatz ihres Fahrbahnbelags gesperrt.",
+          "Die Arbeiten werden vom Ministerium durchgeführt und dauern bis März 2027, mit Umleitungen über die A-8.",
+          "Der Bürgermeister hat kritisiert, dass das Rathaus vor der Sperrung weder konsultiert noch einbezogen wurde."
+        ],
+        "cifra": {
+          "numero": "16",
+          "unidad": "Monate Sperrung",
+          "glosa": "Vom 26. Oktober 2026 bis März 2027 ist die Brücke für den Verkehr gesperrt. Das sind fast anderthalb Jahre, in denen alle, die den Sella an dieser Stelle überqueren, den Umweg über die A-8 nehmen müssen."
+        },
+        "palabra": null,
+        "porQue": "Wer von den östlichen asturischen Gemeinden nach Ribadesella reist oder umgekehrt, muss in den nächsten sechzehn Monaten den Umweg über die Autobahn einplanen.",
+        "lugar": "Puente sobre el Sella, Ribadesella",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "hasta marzo de 2027 y el alcalde denuncia"
+    ]
+  },
+  {
+    "id": "el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-e",
+    "url": "/cabrales/el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-e/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El Principado aprueba la subestación de Ortiguero pese a las críticas",
+    "entradilla": "Los ecologistas denuncian que el proyecto ha esquivado la evaluación ambiental ordinaria y que sus alegaciones han caído en saco roto.",
+    "cuerpo": [
+      "El Gobierno asturiano ha dado luz verde a una segunda subestación eléctrica en Ortiguero, infraestructura que afecta a los concejos de Cabrales y Llanes.",
+      "La Coordinadora Ecoloxista d'Asturies cuestiona el proceso: según denuncia la organización, el proyecto no se ha sometido a una evaluación de impacto ambiental ordinaria y sus alegaciones para reducir el impacto no han sido atendidas."
+    ],
+    "apunte": "La subestación ya tiene permiso; las alegaciones, no tanto.",
+    "enVeinte": [
+      "El Principado ha autorizado la segunda subestación eléctrica de Ortiguero, que afecta a Cabrales y Llanes.",
+      "La Coordinadora Ecoloxista d'Asturies denuncia que el proyecto no pasó por una evaluación de impacto ambiental ordinaria.",
+      "Los ecologistas lamentan además que sus alegaciones para reducir el impacto no hayan sido tenidas en cuenta."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Ecoloxista",
+      "como": "e-co-lo-XEIS-ta",
+      "definicion": "Forma asturiana del castellano 'ecologista'. La Coordinadora Ecoloxista d'Asturies es la principal organización de defensa del medioambiente del Principado, y emplea el asturiano en su nombre oficial."
+    },
+    "porQue": "Una nueva subestación eléctrica de este tamaño puede cambiar el paisaje y el entorno de Cabrales y Llanes; si la evaluación ambiental fue insuficiente, los vecinos tienen menos garantías sobre sus efectos reales.",
+    "etiquetas": [
+      "Cabrales",
+      "Llanes",
+      "energía",
+      "medioambiente"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-principado-autoriza-la-segunda-subestacion-elec-298fc67d.jpg",
+    "fecha": "2026-10-21T15:23:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/ecologia-medioambiente/el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-entre-criticas-por-su-impacto-en-cabrales-y-llanes-11276720.html",
+      "titularOriginal": "El Principado autoriza la segunda subestación eléctrica de Ortiguero entre críticas por su impacto en Cabrales y Llanes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Principality approves the Ortiguero substation despite criticism",
+        "entradilla": "Environmentalists denounce that the project bypassed the ordinary environmental assessment and that their objections fell on deaf ears.",
+        "cuerpo": [
+          "The Asturian Government has given the green light to a second electricity substation in Ortiguero, an infrastructure that affects the municipalities of Cabrales and Llanes.",
+          "The Coordinadora Ecoloxista d'Asturies questions the process: according to the organisation, the project was not subjected to an ordinary environmental impact assessment and its objections to reduce the impact were not heeded."
+        ],
+        "apunte": "The substation has its permit; the objections, not so much.",
+        "enVeinte": [
+          "The Principality has authorised the second electricity substation at Ortiguero, affecting Cabrales and Llanes.",
+          "The Coordinadora Ecoloxista d'Asturies denounces that the project did not go through an ordinary environmental impact assessment.",
+          "The environmentalists also regret that their objections to reduce the impact were not taken into account."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ecoloxista",
+          "como": "e-co-lo-XEIS-ta",
+          "definicion": "The Asturian form of the Spanish word 'ecologista' (environmentalist). The Coordinadora Ecoloxista d'Asturies is the leading environmental protection organisation in the Principality and uses Asturian in its official name."
+        },
+        "porQue": "A new electricity substation of this size can alter the landscape and surroundings of Cabrales and Llanes; if the environmental assessment was inadequate, local residents have fewer guarantees about its actual effects.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Principauté approuve la sous-station d'Ortiguero malgré les critiques",
+        "entradilla": "Les écologistes dénoncent que le projet a contourné l'évaluation environnementale ordinaire et que leurs observations n'ont servi à rien.",
+        "cuerpo": [
+          "Le gouvernement asturien a donné son feu vert à une deuxième sous-station électrique à Ortiguero, une infrastructure qui concerne les communes de Cabrales et de Llanes.",
+          "La Coordinadora Ecoloxista d'Asturies remet en cause la procédure : selon l'organisation, le projet n'a pas été soumis à une évaluation d'impact environnemental ordinaire et ses observations visant à réduire l'impact n'ont pas été prises en compte."
+        ],
+        "apunte": "La sous-station a son autorisation ; les observations, beaucoup moins.",
+        "enVeinte": [
+          "La Principauté a autorisé la deuxième sous-station électrique d'Ortiguero, qui concerne Cabrales et Llanes.",
+          "La Coordinadora Ecoloxista d'Asturies dénonce que le projet n'a pas fait l'objet d'une évaluation d'impact environnemental ordinaire.",
+          "Les écologistes regrettent également que leurs observations pour réduire l'impact n'aient pas été prises en considération."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ecoloxista",
+          "como": "e-co-lo-XEIS-ta",
+          "definicion": "Forme asturienne du mot espagnol «ecologista» (écologiste). La Coordinadora Ecoloxista d'Asturies est la principale organisation de défense de l'environnement de la Principauté et utilise l'asturien dans son nom officiel."
+        },
+        "porQue": "Une nouvelle sous-station électrique de cette envergure peut modifier le paysage et l'environnement de Cabrales et de Llanes ; si l'évaluation environnementale a été insuffisante, les habitants ont moins de garanties sur ses effets réels.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Fürstentum genehmigt die Umspannstation Ortiguero trotz Kritik",
+        "entradilla": "Umweltschützer prangern an, dass das Projekt die ordentliche Umweltverträglichkeitsprüfung umgangen hat und ihre Einwände ignoriert wurden.",
+        "cuerpo": [
+          "Die asturische Regierung hat einer zweiten Umspannstation in Ortiguero grünes Licht gegeben, einer Infrastruktur, die die Gemeinden Cabrales und Llanes betrifft.",
+          "Die Coordinadora Ecoloxista d'Asturies stellt das Verfahren infrage: Nach Angaben der Organisation wurde das Projekt keiner ordentlichen Umweltverträglichkeitsprüfung unterzogen, und ihre Einwände zur Verringerung der Auswirkungen wurden nicht berücksichtigt."
+        ],
+        "apunte": "Die Umspannstation hat ihre Genehmigung; die Einwände eher nicht.",
+        "enVeinte": [
+          "Das Fürstentum hat die zweite Umspannstation in Ortiguero genehmigt, die Cabrales und Llanes betrifft.",
+          "Die Coordinadora Ecoloxista d'Asturies prangert an, dass das Projekt keine ordentliche Umweltverträglichkeitsprüfung durchlaufen hat.",
+          "Die Umweltschützer bedauern außerdem, dass ihre Einwände zur Verringerung der Auswirkungen nicht berücksichtigt wurden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Ecoloxista",
+          "como": "e-co-lo-XEIS-ta",
+          "definicion": "Asturische Form des spanischen Wortes «ecologista» (Umweltschützer). Die Coordinadora Ecoloxista d'Asturies ist die wichtigste Umweltschutzorganisation des Fürstentums und verwendet das Asturische in ihrem offiziellen Namen."
+        },
+        "porQue": "Eine neue Umspannstation dieser Größe kann die Landschaft und das Umfeld von Cabrales und Llanes verändern; war die Umweltverträglichkeitsprüfung unzureichend, haben die Anwohner weniger Garantien hinsichtlich der tatsächlichen Auswirkungen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "cabrales y llanes la coordinadora ecoloxista d asturies",
+      "a una evaluacion de impacto ambiental ordinaria y"
+    ]
+  },
+  {
+    "id": "sidra-cortina-celebra-su-gran-amaguestu-este-sabado-en-amandi",
+    "url": "/nava/sidra-cortina-celebra-su-gran-amaguestu-este-sabado-en-amandi/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Amagüestu con sidra y esfoyaza en Amandi",
+    "entradilla": "El Llagar de la Ferrería abre sus toneles el sábado para celebrar la castaña, la sidra y las tradiciones de toda la vida.",
+    "cuerpo": [
+      "Sidra Cortina organiza este sábado 24 de octubre su Gran Amagüestu en el Llagar de la Ferrería, en Amandi (Villaviciosa). La tarde arranca a las 18:30 con una visita guiada al llagar en plena campaña de mayado, y quienes vayan podrán probar un culín de sidra natural espichada directamente del tonel.",
+      "A las 19:30 la bodega de toneles de castaño se convierte en el escenario del amagüestu: castañas asadas, sidra dulce, productos asturianos y más sidra del tonel. Les Pandereteres de la Providencia pondrán la música, y el programa suma también una esfoyaza y juegos tradicionales. La fiesta se prolonga hasta las 22:00.",
+      "La entrada cuesta 24 euros para adultos y 12 para menores. Las reservas se gestionan a través de Sidraturismo Asturias."
+    ],
+    "apunte": "Un culín del tonel y castañas asadas: no está mal para un sábado de octubre.",
+    "enVeinte": [
+      "Sidra Cortina celebra el 24 de octubre su Gran Amagüestu en el Llagar de la Ferrería de Amandi, con inicio a las 18:30.",
+      "El programa incluye visita al llagar, castañas asadas, sidra del tonel, música de Les Pandereteres de la Providencia, esfoyaza y juegos tradicionales.",
+      "Las entradas cuestan 24 euros para adultos y 12 para menores; las reservas se hacen a través de Sidraturismo Asturias."
+    ],
+    "cifra": {
+      "numero": "24",
+      "unidad": "euros",
+      "glosa": "Es el precio de la entrada para adultos al Gran Amagüestu. Los menores pagan la mitad, 12 euros. Por ese precio se incluye la visita al llagar, la degustación y toda la programación de la tarde."
+    },
+    "palabra": {
+      "termino": "esfoyaza",
+      "como": "es-fo-YA-za",
+      "definicion": "Faena colectiva tradicional en la que los vecinos se juntan para desgranar las mazorcas de maíz quitándoles la folla, es decir, la hoja que las cubre. Era una reunión de trabajo pero también de charla y fiesta, y hoy se recupera como acto cultural en festejos como este amagüestu."
+    },
+    "porQue": "Quien viva en Villaviciosa o los concejos vecinos tiene a mano una tarde de tradición en un llagar en activo, sin necesidad de desplazarse lejos, y con precio cerrado que incluye todo el programa.",
+    "etiquetas": [
+      "sidra",
+      "amagüestu",
+      "Amandi",
+      "tradición"
+    ],
+    "fechaEvento": "2026-10-24",
+    "tipoEvento": "gastro",
+    "lugar": "Llagar de la Ferrería, Amandi (Villaviciosa)",
+    "hora": "18:30",
+    "precio": "24 € adultos / 12 € menores",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-21T15:08:36.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/cortina-gran-amaguestu-amandi-24-octubre-2026/",
+      "titularOriginal": "Sidra Cortina celebra su Gran Amagüestu este sábado en Amandi"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Amagüestu with cider and esfoyaza in Amandi",
+        "entradilla": "El Llagar de la Ferrería opens its barrels on Saturday to celebrate chestnuts, cider and age-old traditions.",
+        "cuerpo": [
+          "Sidra Cortina is hosting its Gran Amagüestu this Saturday, 24 October, at El Llagar de la Ferrería in Amandi (Villaviciosa). The afternoon kicks off at 18:30 with a guided tour of the llagar (traditional cider mill) in the middle of the mayado (pressing season), and visitors will be able to try a culín (a small glass) of natural cider tapped straight from the barrel.",
+          "At 19:30 the chestnut-barrel cellar becomes the setting for the amagüestu (a traditional chestnut feast): roasted chestnuts, sweet cider, Asturian produce and more cider from the barrel. Les Pandereteres de la Providencia will provide the music, and the programme also includes an esfoyaza (a communal maize-husking gathering) and traditional games. The festivities run until 22:00.",
+          "Tickets cost 24 euros for adults and 12 for children. Bookings are handled through Sidraturismo Asturias."
+        ],
+        "apunte": "A culín from the barrel and roasted chestnuts: not bad for an October Saturday.",
+        "enVeinte": [
+          "Sidra Cortina hosts its Gran Amagüestu on 24 October at El Llagar de la Ferrería in Amandi, starting at 18:30.",
+          "The programme includes a visit to the llagar, roasted chestnuts, cider from the barrel, music by Les Pandereteres de la Providencia, an esfoyaza and traditional games.",
+          "Tickets cost 24 euros for adults and 12 for children; bookings are made through Sidraturismo Asturias."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "euros",
+          "glosa": "This is the adult ticket price for the Gran Amagüestu. Children pay half, 12 euros. The price covers the llagar visit, the tasting and the full afternoon programme."
+        },
+        "palabra": {
+          "termino": "esfoyaza",
+          "como": "es-fo-YA-za",
+          "definicion": "A traditional communal task in which neighbours gather to husk maize cobs by stripping away the folla, that is, the leaves covering them. It was a working gathering but also a time for conversation and festivity, and today it is revived as a cultural event at celebrations such as this amagüestu."
+        },
+        "porQue": "Anyone living in Villaviciosa or the neighbouring municipalities has a traditional afternoon in a working llagar right on their doorstep, with no need to travel far and an all-inclusive flat price.",
+        "lugar": "Llagar de la Ferrería, Amandi (Villaviciosa)",
+        "precio": "24 € adults / 12 € children"
+      },
+      "fr": {
+        "titular": "Amagüestu avec cidre et esfoyaza à Amandi",
+        "entradilla": "El Llagar de la Ferrería ouvre ses tonneaux samedi pour célébrer la châtaigne, le cidre et les traditions d'antan.",
+        "cuerpo": [
+          "Sidra Cortina organise ce samedi 24 octobre son Gran Amagüestu au Llagar de la Ferrería (pressoir à cidre traditionnel), à Amandi (Villaviciosa). L'après-midi commence à 18 h 30 avec une visite guidée du llagar en pleine campagne de mayado (pressage), et les visiteurs pourront goûter un culín (une petite lampée) de cidre naturel tiré directement du tonneau.",
+          "À 19 h 30, la cave aux tonneaux de châtaignier devient le cadre de l'amagüestu (fête traditionnelle de la châtaigne) : châtaignes grillées, cidre doux, produits asturiens et encore du cidre au tonneau. Les Pandereteres de la Providencia assureront la musique, et le programme comprend également une esfoyaza (épluchage collectif traditionnel du maïs) et des jeux traditionnels. La fête se prolonge jusqu'à 22 h 00.",
+          "L'entrée coûte 24 euros pour les adultes et 12 euros pour les enfants. Les réservations se font par l'intermédiaire de Sidraturismo Asturias."
+        ],
+        "apunte": "Un culín au tonneau et des châtaignes grillées : pas mal pour un samedi d'octobre.",
+        "enVeinte": [
+          "Sidra Cortina célèbre le 24 octobre son Gran Amagüestu au Llagar de la Ferrería d'Amandi, avec un début à 18 h 30.",
+          "Le programme comprend une visite du llagar, des châtaignes grillées, du cidre au tonneau, la musique de Les Pandereteres de la Providencia, une esfoyaza et des jeux traditionnels.",
+          "Les billets coûtent 24 euros pour les adultes et 12 euros pour les enfants ; les réservations se font via Sidraturismo Asturias."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "euros",
+          "glosa": "C'est le prix du billet adulte pour le Gran Amagüestu. Les enfants paient la moitié, soit 12 euros. Ce prix comprend la visite du llagar, la dégustation et l'intégralité du programme de l'après-midi."
+        },
+        "palabra": {
+          "termino": "esfoyaza",
+          "como": "es-fo-YA-za",
+          "definicion": "Travail collectif traditionnel au cours duquel les voisins se réunissent pour égrener les épis de maïs en leur retirant la folla, c'est-à-dire les feuilles qui les enveloppent. C'était une réunion de travail, mais aussi de conversation et de fête ; aujourd'hui, elle est remise à l'honneur comme acte culturel lors de célébrations telles que cet amagüestu."
+        },
+        "porQue": "Les habitants de Villaviciosa ou des communes voisines ont à portée de main un après-midi de tradition dans un pressoir en activité, sans avoir à aller loin et avec un tarif tout compris.",
+        "lugar": "Llagar de la Ferrería, Amandi (Villaviciosa)",
+        "precio": "24 € adultes / 12 € enfants"
+      },
+      "de": {
+        "titular": "Amagüestu mit Cidre und Esfoyaza in Amandi",
+        "entradilla": "El Llagar de la Ferrería öffnet am Samstag seine Fässer, um Kastanien, Cidre und althergebrachte Traditionen zu feiern.",
+        "cuerpo": [
+          "Sidra Cortina veranstaltet diesen Samstag, den 24. Oktober, sein Gran Amagüestu im Llagar de la Ferrería (traditionelle Cidre-Kelterei) in Amandi (Villaviciosa). Der Nachmittag beginnt um 18:30 Uhr mit einer Führung durch den Llagar mitten in der Mayado-Kampagne (Presssaison), und die Besucher können einen Culín (einen kleinen Schluck) naturbelassenen Cidres direkt vom Fass kosten.",
+          "Um 19:30 Uhr verwandelt sich der Kastanienfasskeller in die Kulisse des Amagüestu (traditionelles Kastanienfest): geröstete Kastanien, süßer Cidre, asturische Produkte und weiterer Fasscidre. Les Pandereteres de la Providencia sorgen für die Musik; das Programm umfasst außerdem eine Esfoyaza (gemeinschaftliches Maiskolben-Enthülsen) und traditionelle Spiele. Das Fest dauert bis 22:00 Uhr.",
+          "Der Eintritt kostet 24 Euro für Erwachsene und 12 Euro für Kinder. Reservierungen werden über Sidraturismo Asturias abgewickelt."
+        ],
+        "apunte": "Ein Culín vom Fass und geröstete Kastanien: nicht schlecht für einen Samstagabend im Oktober.",
+        "enVeinte": [
+          "Sidra Cortina feiert am 24. Oktober sein Gran Amagüestu im Llagar de la Ferrería in Amandi, Beginn um 18:30 Uhr.",
+          "Das Programm umfasst eine Besichtigung des Llagars, geröstete Kastanien, Fasscidre, Musik von Les Pandereteres de la Providencia, eine Esfoyaza und traditionelle Spiele.",
+          "Karten kosten 24 Euro für Erwachsene und 12 Euro für Kinder; Reservierungen erfolgen über Sidraturismo Asturias."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "euros",
+          "glosa": "Das ist der Eintrittspreis für Erwachsene beim Gran Amagüestu. Kinder zahlen die Hälfte, also 12 Euro. Im Preis inbegriffen sind die Besichtigung des Llagars, die Verkostung und das gesamte Nachmittagsprogramm."
+        },
+        "palabra": {
+          "termino": "esfoyaza",
+          "como": "es-fo-YA-za",
+          "definicion": "Traditionelle gemeinschaftliche Arbeit, bei der sich Nachbarn zusammenfinden, um Maiskolben zu enthülsen, indem sie die Folla — also die umhüllenden Blätter — entfernen. Es war eine Arbeitsgemeinschaft, aber auch ein Anlass für Gespräche und Feiern; heute wird sie als kultureller Brauch bei Festen wie diesem Amagüestu wieder aufgegriffen."
+        },
+        "porQue": "Wer in Villaviciosa oder den benachbarten Gemeinden lebt, hat einen traditionsreichen Nachmittag in einer aktiven Kelterei direkt vor der Haustür — ohne weite Anfahrt und zu einem Pauschalpreis, der alles einschließt.",
+        "lugar": "Llagar de la Ferrería, Amandi (Villaviciosa)",
+        "precio": "24 € Erwachsene / 12 € Kinder"
+      }
+    },
+    "revisar": [
+      "el llagar de la ferreria en amandi villaviciosa",
+      "un culin de sidra natural espichada directamente del",
+      "culin de sidra natural espichada directamente del tonel",
+      "de sidra natural espichada directamente del tonel a",
+      "las 19 30 la bodega de toneles de",
+      "19 30 la bodega de toneles de castano"
+    ]
+  },
+  {
+    "id": "villaviciosa-reivindica-la-manzana-reparto-de-fruta-entre-escolares",
+    "url": "/villaviciosa/villaviciosa-reivindica-la-manzana-reparto-de-fruta-entre-escolares/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa reparte manzanas entre sus escolares",
+    "entradilla": "El Apple Day pone la manzana en el centro del aula con la mascota 'Manzanina' como gancho para los más pequeños.",
+    "cuerpo": [
+      "El concejo de Villaviciosa celebró una jornada del Apple Day con reparto de fruta entre alumnos de los colegios locales, reivindicando así la manzana como seña propia del territorio.",
+      "La mascota 'Manzanina' fue la figura central del día, acercando a los escolares la cultura y la tradición que rodea a este fruto."
+    ],
+    "apunte": "La mejor forma de enseñar de dónde viene la sidra es empezar por el principio: la manzana.",
+    "enVeinte": [
+      "Villaviciosa organizó una jornada del Apple Day con reparto de manzanas entre escolares.",
+      "La mascota 'Manzanina' protagonizó los actos para acercar la cultura de la manzana a los niños.",
+      "El evento reivindica la manzana como parte central de la identidad del concejo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Apple Day",
+      "como": "Se dice tal cual, en inglés, aunque el asunto es bien de aquí.",
+      "definicion": "Jornada de celebración de la manzana que se organiza en distintos lugares del mundo. En Villaviciosa se ha adoptado como excusa para poner en valor la manzana asturiana y la cultura sidrera que lleva aparejada."
+    },
+    "porQue": "En un concejo cuya identidad está ligada a la manzana y la sidra, que los escolares aprendan desde pequeños a valorar ese vínculo es apostar por que la tradición no se pierda.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Apple Day",
+      "manzana",
+      "escolares"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/21/manzana-villaviciosa-RnxjsheBea5vRTbouKFrKmO-1200x840@El%20Comercio.jpeg",
+    "fecha": "2026-10-21T14:41:58.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-reivindica-manzana-reparto-fruta-escolares-20261021164157-nt.html",
+      "titularOriginal": "Villaviciosa reivindica la manzana: reparto de fruta entre escolares"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa hands out apples to its schoolchildren",
+        "entradilla": "Apple Day puts the apple at the centre of the classroom, with the mascot 'Manzanina' as the draw for the youngest pupils.",
+        "cuerpo": [
+          "The municipality of Villaviciosa held an Apple Day event with fruit handed out to pupils at local schools, championing the apple as a defining symbol of the area.",
+          "The mascot 'Manzanina' was the centrepiece of the day, bringing schoolchildren closer to the culture and tradition surrounding this fruit."
+        ],
+        "apunte": "The best way to teach where cider comes from is to start at the beginning: the apple.",
+        "enVeinte": [
+          "Villaviciosa organised an Apple Day event with apples handed out to schoolchildren.",
+          "The mascot 'Manzanina' took centre stage at the activities to bring apple culture closer to children.",
+          "The event champions the apple as a central part of the identity of the municipality."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Apple Day",
+          "como": "Said exactly as it is, in English, even though the whole affair is very much from here.",
+          "definicion": "A celebration of the apple held in various places around the world. In Villaviciosa it has been adopted as an occasion to highlight the Asturian apple and the cider culture that goes with it."
+        },
+        "porQue": "In a municipality whose identity is bound up with the apple and cider, teaching schoolchildren from an early age to value that bond is a way of ensuring the tradition is not lost.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa distribue des pommes à ses écoliers",
+        "entradilla": "L'Apple Day place la pomme au cœur de la classe, avec la mascotte 'Manzanina' comme accroche pour les plus petits.",
+        "cuerpo": [
+          "La commune de Villaviciosa a organisé une journée de l'Apple Day avec distribution de fruits aux élèves des écoles locales, revendiquant ainsi la pomme comme signe distinctif du territoire.",
+          "La mascotte 'Manzanina' a été la figure centrale de la journée, rapprochant les écoliers de la culture et de la tradition qui entourent ce fruit."
+        ],
+        "apunte": "La meilleure façon d'enseigner d'où vient le cidre, c'est de commencer par le commencement : la pomme.",
+        "enVeinte": [
+          "Villaviciosa a organisé une journée de l'Apple Day avec distribution de pommes aux écoliers.",
+          "La mascotte 'Manzanina' a été la vedette des animations pour faire découvrir la culture de la pomme aux enfants.",
+          "L'événement revendique la pomme comme élément central de l'identité de la commune."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Apple Day",
+          "como": "Se dit exactement ainsi, en anglais, même si l'affaire est bien d'ici.",
+          "definicion": "Journée de célébration de la pomme organisée dans différents endroits du monde. À Villaviciosa, elle a été adoptée comme prétexte pour mettre en valeur la pomme asturienne et la culture du cidre qui l'accompagne."
+        },
+        "porQue": "Dans une commune dont l'identité est liée à la pomme et au cidre, apprendre aux écoliers dès leur plus jeune âge à valoriser ce lien, c'est parier pour que la tradition ne se perde pas.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa verteilt Äpfel an seine Schulkinder",
+        "entradilla": "Der Apple Day stellt den Apfel in den Mittelpunkt des Unterrichts – mit dem Maskottchen 'Manzanina' als Anziehungspunkt für die Jüngsten.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa veranstaltete einen Apple-Day-Tag mit Obstverteilung an Schülerinnen und Schüler der örtlichen Schulen und bekannte sich damit zum Apfel als eigenem Symbol des Gebiets.",
+          "Das Maskottchen 'Manzanina' war die zentrale Figur des Tages und brachte den Schulkindern die Kultur und die Tradition rund um diese Frucht näher."
+        ],
+        "apunte": "Der beste Weg, um zu erklären, woher der Cidre kommt, ist, am Anfang zu beginnen: beim Apfel.",
+        "enVeinte": [
+          "Villaviciosa organisierte einen Apple-Day-Tag mit Apfelverteilung an Schulkinder.",
+          "Das Maskottchen 'Manzanina' stand bei den Veranstaltungen im Mittelpunkt, um die Apfelkultur den Kindern näherzubringen.",
+          "Das Event bekennt sich zum Apfel als zentralem Teil der Identität der Gemeinde."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Apple Day",
+          "como": "Wird genauso ausgesprochen, auf Englisch, obwohl das Ganze sehr von hier ist.",
+          "definicion": "Ein Fest zur Feier des Apfels, das an verschiedenen Orten der Welt veranstaltet wird. In Villaviciosa wurde es als Anlass übernommen, um den asturischen Apfel und die damit verbundene Cidre-Kultur in den Vordergrund zu stellen."
+        },
+        "porQue": "In einer Gemeinde, deren Identität mit dem Apfel und dem Cidre verbunden ist, darauf zu setzen, dass Schulkinder von klein auf lernen, diese Verbindung zu schätzen, bedeutet, dafür einzutreten, dass die Tradition nicht verloren geht.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "proceso-selectivo-de-ingeniero-a-tecnico-encargado-a-de-obras",
+    "url": "/villaviciosa/proceso-selectivo-de-ingeniero-a-tecnico-encargado-a-de-obras/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa busca ingeniero técnico de obras",
+    "entradilla": "El proceso selectivo ya tiene lista provisional de admitidos y excluidos publicada.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa avanza en la selección de un ingeniero o ingeniera técnica para hacerse cargo de las obras municipales. La convocatoria salió en el BOE y las bases se publicaron en el BOPA.",
+      "El proceso ya ha dado su primer paso administrativo: la lista provisional con quienes han pasado el corte y quienes han quedado fuera está disponible para su consulta."
+    ],
+    "apunte": "La plaza lleva esperando mucho tiempo; quien entró en la lista provisional puede respirar, quien no, tiene margen para reclamar.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca una plaza de ingeniero técnico encargado de obras municipales.",
+      "La convocatoria está publicada en el BOE y las bases en el BOPA.",
+      "Ya está disponible la lista provisional de admitidos y excluidos al proceso selectivo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "BOPA",
+      "como": "be-o-pe-a",
+      "definicion": "El Boletín Oficial del Principado de Asturias. Es donde la administración regional publica normas, convocatorias y anuncios oficiales. Si algo aparece ahí, tiene validez legal."
+    },
+    "porQue": "Cubrir esta plaza significa que el concejo tendrá un técnico propio para supervisar y dirigir las obras municipales, algo que afecta directamente al ritmo y la calidad de los trabajos en el pueblo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "obras municipales",
+      "selección"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-21T10:32:14.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19804495",
+      "titularOriginal": "Proceso selectivo de Ingeniero/a Técnico Encargado/a de Obras",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks a technical engineer for public works",
+        "entradilla": "The selection process has already published a provisional list of admitted and excluded candidates.",
+        "cuerpo": [
+          "Villaviciosa council is moving forward with the recruitment of a technical engineer to take charge of municipal works. The call was published in the BOE and the rules in the BOPA.",
+          "The process has taken its first administrative step: the provisional list of those who made the cut and those who did not is now available for review."
+        ],
+        "apunte": "The post has been waiting a long time to be filled. Those on the provisional list can breathe easy; those who are not still have time to appeal.",
+        "enVeinte": [
+          "Villaviciosa council is recruiting a technical engineer to oversee municipal works.",
+          "The call has been published in the BOE and the rules in the BOPA.",
+          "The provisional list of admitted and excluded candidates is now available."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "BOPA",
+          "como": "be-o-pe-a",
+          "definicion": "The Official Gazette of the Principality of Asturias. This is where the regional administration publishes regulations, job calls and official notices. If something appears there, it has legal force."
+        },
+        "porQue": "Filling this post means the municipality will have its own technical officer to supervise and manage municipal works — something that directly affects the pace and quality of projects across the area.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un ingénieur technique pour les travaux municipaux",
+        "entradilla": "Le processus de sélection a déjà publié la liste provisoire des candidats admis et exclus.",
+        "cuerpo": [
+          "La mairie de Villaviciosa avance dans le recrutement d'un ingénieur ou d'une ingénieure technique chargé des travaux municipaux. L'appel a été publié au BOE et le règlement au BOPA.",
+          "Le processus a franchi sa première étape administrative : la liste provisoire des candidats retenus et de ceux qui ont été écartés est désormais disponible pour consultation."
+        ],
+        "apunte": "Le poste attend depuis longtemps d'être pourvu. Ceux qui figurent sur la liste provisoire peuvent souffler ; ceux qui n'y sont pas ont encore la possibilité de faire un recours.",
+        "enVeinte": [
+          "La mairie de Villaviciosa ouvre un poste d'ingénieur technique responsable des travaux municipaux.",
+          "L'appel est publié au BOE et le règlement au BOPA.",
+          "La liste provisoire des candidats admis et exclus est désormais disponible."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "BOPA",
+          "como": "be-o-pe-a",
+          "definicion": "Le Journal officiel de la Principauté des Asturies. C'est là que l'administration régionale publie les règlements, les appels à candidatures et les avis officiels. Ce qui y paraît a valeur légale."
+        },
+        "porQue": "Pourvoir ce poste signifie que la commune disposera d'un technicien propre pour superviser et diriger les travaux municipaux, ce qui influe directement sur le rythme et la qualité des chantiers dans le territoire.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht einen Bauingenieur für kommunale Bauvorhaben",
+        "entradilla": "Im Auswahlverfahren liegt bereits eine vorläufige Liste der zugelassenen und abgelehnten Bewerber vor.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa schreitet bei der Auswahl eines Bauingenieurs bzw. einer Bauingenieurin voran, der oder die für die kommunalen Bauvorhaben zuständig sein soll. Die Ausschreibung erschien im BOE, die Durchführungsbestimmungen im BOPA.",
+          "Das Verfahren hat seinen ersten Verwaltungsschritt vollzogen: Die vorläufige Liste mit den zugelassenen und den ausgeschlossenen Bewerbern steht nun zur Einsicht zur Verfügung."
+        ],
+        "apunte": "Die Stelle wartet schon lange darauf, besetzt zu werden. Wer auf der vorläufigen Liste steht, kann aufatmen; wer nicht darauf steht, hat noch die Möglichkeit, Einspruch einzulegen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt eine Stelle als Bauingenieur aus, der für kommunale Bauvorhaben zuständig ist.",
+          "Die Ausschreibung ist im BOE veröffentlicht, die Bestimmungen im BOPA.",
+          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber liegt jetzt vor."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "BOPA",
+          "como": "be-o-pe-a",
+          "definicion": "Das Amtsblatt des Fürstentums Asturien. Hier veröffentlicht die Regionalverwaltung Vorschriften, Stellenausschreibungen und amtliche Bekanntmachungen. Was dort erscheint, hat Rechtsgültigkeit."
+        },
+        "porQue": "Mit der Besetzung dieser Stelle erhält die Gemeinde einen eigenen Fachmann, der kommunale Bauvorhaben überwacht und leitet — was sich unmittelbar auf das Tempo und die Qualität der Arbeiten vor Ort auswirkt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-duo-palestino-sabil-trae-a-asturias-su-musica-y-su-testimonio-para-",
+    "url": "/pilona/el-duo-palestino-sabil-trae-a-asturias-su-musica-y-su-testimonio-para-/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Sabîl toca en Piloña por los niños de Gaza",
+    "entradilla": "El dúo palestino actúa este fin de semana en Infiesto y Valles de San Román sin cobrar un euro: toda la recaudación va a ayuda humanitaria.",
+    "cuerpo": [
+      "Ahmad Al Khatib, al oud, y Youssef Hbeisch, a la percusión, llegan a Piloña los días 23 y 24 de octubre para participar en el Festivalín, el festival de músicas del mundo del concejo. Antes del concierto en Valles de San Román, ofrecerán una charla en Infiesto dentro de unas jornadas solidarias y culturales sobre Gaza.",
+      "Ni los músicos ni los organizadores cobrarán nada. Todo lo que entre en taquilla irá íntegramente a Human Appeal, ONG que trabaja sobre el terreno en Gaza con ayuda alimentaria, agua y atención sanitaria para los niños.",
+      "Sabîl, que en árabe significa camino o sendero, lleva juntos a los dos músicos desde 1998. Su propuesta mezcla música clásica árabe y mística sufí con improvisación y experimentación rítmica. Ambos compaginan las giras internacionales con la enseñanza en conservatorios."
+    ],
+    "apunte": "Música que viaja miles de kilómetros para que coma un niño.",
+    "enVeinte": [
+      "El dúo palestino Sabîl actúa en Piloña los días 23 y 24 de octubre dentro del Festivalín.",
+      "Ni músicos ni organizadores cobran: todo el dinero recaudado va a la ONG Human Appeal para ayuda humanitaria en Gaza.",
+      "El programa incluye una charla sobre Gaza en Infiesto y un concierto en Valles de San Román."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Festivalín",
+      "como": "Festivalín, tal cual",
+      "definicion": "Es el festival de músicas del mundo del concejo de Piloña. El diminutivo es cosa de aquí: le quita pompa y le pone cercanía, que es exactamente lo que busca el evento."
+    },
+    "porQue": "Quien viva en Piloña tiene este fin de semana la oportunidad de escuchar música palestina en directo y contribuir a la ayuda humanitaria en Gaza sin salir del concejo.",
+    "etiquetas": [
+      "Festivalín",
+      "música del mundo",
+      "solidaridad",
+      "Gaza"
+    ],
+    "fechaEvento": "2026-10-23",
+    "tipoEvento": "concierto",
+    "lugar": "Infiesto y Valles de San Román (Piloña)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://static.eldiario.es/clip/00401fa4-c61b-42d4-a18f-fd5347cffc6f_16-9-discover-aspect-ratio_default_0_x966y109.jpg",
+    "fecha": "2026-10-21T09:53:34.000Z",
+    "fuente": {
+      "nombre": "elDiario.es Asturias",
+      "url": "https://www.eldiario.es/asturias/duo-palestino-sabil-trae-asturias-musica-testimonio-ayudar-ninos-gaza_1_13549339.html",
+      "titularOriginal": "El dúo palestino Sabîl trae a Asturias su música y su testimonio para ayudar a los niños de Gaza"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Sabîl plays in Piloña for the children of Gaza",
+        "entradilla": "The Palestinian duo performs this weekend in Infiesto and Valles de San Román without taking a single euro: all proceeds go to humanitarian aid.",
+        "cuerpo": [
+          "Ahmad Al Khatib on oud and Youssef Hbeisch on percussion arrive in Piloña on 23 and 24 October to take part in the Festivalín, the municipality's world music festival. Before the concert in Valles de San Román, they will give a talk in Infiesto as part of a series of solidarity and cultural events about Gaza.",
+          "Neither the musicians nor the organisers will receive any payment. Every euro taken at the door will go in full to Human Appeal, an NGO working on the ground in Gaza with food aid, water and healthcare for children.",
+          "Sabîl, which in Arabic means road or path, has brought the two musicians together since 1998. Their work blends classical Arab and Sufi mystical music with improvisation and rhythmic experimentation. Both combine international touring with teaching at conservatoires."
+        ],
+        "apunte": "Music that travels thousands of kilometres so a child can eat.",
+        "enVeinte": [
+          "The Palestinian duo Sabîl performs in Piloña on 23 and 24 October as part of the Festivalín.",
+          "Neither musicians nor organisers are paid: all money raised goes to the NGO Human Appeal for humanitarian aid in Gaza.",
+          "The programme includes a talk about Gaza in Infiesto and a concert in Valles de San Román."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Festivalín",
+          "como": "Festivalín, as written",
+          "definicion": "This is the world music festival of the municipality of Piloña. The diminutive suffix is a local touch: it strips away any grandeur and adds warmth, which is exactly what the event is after."
+        },
+        "porQue": "Anyone living in Piloña has the chance this weekend to hear Palestinian music live and contribute to humanitarian aid in Gaza without leaving the municipality.",
+        "lugar": "Infiesto y Valles de San Román (Piloña)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Sabîl joue à Piloña pour les enfants de Gaza",
+        "entradilla": "Le duo palestinien se produit ce week-end à Infiesto et Valles de San Román sans toucher un seul euro : toutes les recettes sont destinées à l'aide humanitaire.",
+        "cuerpo": [
+          "Ahmad Al Khatib au oud et Youssef Hbeisch aux percussions arrivent à Piloña les 23 et 24 octobre pour participer au Festivalín, le festival de musiques du monde de la commune. Avant le concert à Valles de San Román, ils donneront une conférence à Infiesto dans le cadre de journées de solidarité et de culture consacrées à Gaza.",
+          "Ni les musiciens ni les organisateurs ne percevront de rémunération. Tout ce qui sera encaissé en billetterie ira intégralement à Human Appeal, ONG qui œuvre sur le terrain à Gaza avec une aide alimentaire, de l'eau et des soins médicaux pour les enfants.",
+          "Sabîl, qui signifie en arabe chemin ou sentier, unit les deux musiciens depuis 1998. Leur proposition mêle musique classique arabe et mystique soufie avec improvisation et expérimentation rythmique. Tous deux combinent les tournées internationales avec l'enseignement dans des conservatoires."
+        ],
+        "apunte": "De la musique qui parcourt des milliers de kilomètres pour qu'un enfant puisse manger.",
+        "enVeinte": [
+          "Le duo palestinien Sabîl se produit à Piloña les 23 et 24 octobre dans le cadre du Festivalín.",
+          "Ni les musiciens ni les organisateurs ne sont rémunérés : tout l'argent récolté va à l'ONG Human Appeal pour l'aide humanitaire à Gaza.",
+          "Le programme comprend une conférence sur Gaza à Infiesto et un concert à Valles de San Román."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Festivalín",
+          "como": "Festivalín, tel quel",
+          "definicion": "C'est le festival de musiques du monde de la commune de Piloña. Le diminutif est une affaire d'ici : il ôte tout faste et apporte de la chaleur, ce qui est précisément l'esprit de l'événement."
+        },
+        "porQue": "Les habitants de Piloña ont ce week-end l'occasion d'écouter de la musique palestinienne en direct et de contribuer à l'aide humanitaire à Gaza sans quitter la commune.",
+        "lugar": "Infiesto y Valles de San Román (Piloña)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Sabîl spielt in Piloña für die Kinder von Gaza",
+        "entradilla": "Das palästinensische Duo tritt dieses Wochenende in Infiesto und Valles de San Román auf, ohne einen einzigen Euro zu nehmen: Der gesamte Erlös geht an die humanitäre Hilfe.",
+        "cuerpo": [
+          "Ahmad Al Khatib an der Oud und Youssef Hbeisch am Schlagwerk kommen am 23. und 24. Oktober nach Piloña, um am Festivalín teilzunehmen, dem Festival für Weltmusik der Gemeinde. Vor dem Konzert in Valles de San Román werden sie in Infiesto im Rahmen einer Reihe von Solidaritäts- und Kulturveranstaltungen über Gaza einen Vortrag halten.",
+          "Weder die Musiker noch die Organisatoren erhalten irgendeine Vergütung. Alles, was an der Abendkasse eingenommen wird, geht vollständig an Human Appeal, eine NGO, die vor Ort in Gaza Nahrungsmittelhilfe, Wasser und medizinische Versorgung für Kinder leistet.",
+          "Sabîl, was auf Arabisch Weg oder Pfad bedeutet, verbindet die beiden Musiker seit 1998. Ihr Ansatz verbindet klassische arabische Musik und sufistische Mystik mit Improvisation und rhythmischer Experimentierfreude. Beide verbinden internationale Tourneen mit dem Unterricht an Konservatorien."
+        ],
+        "apunte": "Musik, die tausende Kilometer zurücklegt, damit ein Kind essen kann.",
+        "enVeinte": [
+          "Das palästinensische Duo Sabîl tritt am 23. und 24. Oktober in Piloña im Rahmen des Festivalín auf.",
+          "Weder Musiker noch Organisatoren werden bezahlt: Das gesamte eingenommene Geld geht an die NGO Human Appeal für humanitäre Hilfe in Gaza.",
+          "Das Programm umfasst einen Vortrag über Gaza in Infiesto und ein Konzert in Valles de San Román."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Festivalín",
+          "como": "Festivalín, so wie es geschrieben steht",
+          "definicion": "Das ist das Weltmusikfestival der Gemeinde Piloña. Die Verkleinerungsform ist eine hiesige Eigenheit: Sie nimmt dem Ganzen den Pomp und gibt ihm Wärme – genau das, was die Veranstaltung anstrebt."
+        },
+        "porQue": "Wer in Piloña lebt, hat dieses Wochenende die Gelegenheit, palästinensische Musik live zu erleben und zur humanitären Hilfe in Gaza beizutragen, ohne die Gemeinde verlassen zu müssen.",
+        "lugar": "Infiesto y Valles de San Román (Piloña)",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "ahmad al khatib al oud y youssef hbeisch",
+      "festivalin el festival de musicas del mundo del",
+      "el festival de musicas del mundo del concejo",
+      "dentro de unas jornadas solidarias y culturales sobre",
+      "de unas jornadas solidarias y culturales sobre gaza"
+    ]
+  },
+  {
     "id": "villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones",
     "url": "/villaviciosa/villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones/",
     "concejo": "Villaviciosa",
