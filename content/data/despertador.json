@@ -1,19 +1,19 @@
 {
-  "fecha": "2026-10-21T05:18:27.086Z",
+  "fecha": "2026-10-21T10:21:00.841Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "Asturias veda el salmón y cancela el campanu en 2027 para que la especie se recupere.",
-      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "El puente de Ribadesella cierra al tráfico el 26 de octubre hasta marzo.",
+      "frase": "El puente de Ribadesella cierra a los coches el 26 de octubre hasta marzo.",
       "enlace": "/pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/"
     },
     {
+      "concejo": "Piloña",
+      "frase": "Asturias propone vedar el salmón y cancelar el campanu en 2027 para salvar la especie.",
+      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Los Premios Princesa de Asturias arrancan esta semana con una visita al Serida de Villaviciosa.",
+      "frase": "Los Princesa de Asturias arrancan con una visita al Serida de Villaviciosa.",
       "enlace": "/villaviciosa/el-escritor-julian-barnes-y-los-cientificos-mayer-klenerman-y-balasubr/"
     }
   ]
