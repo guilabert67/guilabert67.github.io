@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-20T18:45:20.437Z",
+  "fecha": "2026-10-21T05:18:27.086Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "Patricia Martínez gana el Pachín de Melás: 6.000 euros y obra en escena.",
-      "enlace": "/pilona/patricia-martinez-cueto-gana-la-cuarta-edicion-del-premio-pachin-de-me/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa busca sitio para aparcar camiones; cuatro ubicaciones en estudio.",
-      "enlace": "/villaviciosa/villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones/"
+      "frase": "Asturias veda el salmón y cancela el campanu en 2027 para que la especie se recupere.",
+      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
     },
     {
       "concejo": "Piloña",
-      "frase": "Ca Llechi, el queso de Pintueles, llega premiado a la mesa asturiana.",
-      "enlace": "/pilona/ca-llechi-el-sabor-de-quedarse-y-apostar-por-pilona/"
+      "frase": "El puente de Ribadesella cierra al tráfico el 26 de octubre hasta marzo.",
+      "enlace": "/pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Los Premios Princesa de Asturias arrancan esta semana con una visita al Serida de Villaviciosa.",
+      "enlace": "/villaviciosa/el-escritor-julian-barnes-y-los-cientificos-mayer-klenerman-y-balasubr/"
     }
   ]
 }
