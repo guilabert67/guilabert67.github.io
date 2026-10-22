@@ -1,5 +1,243 @@
 [
   {
+    "id": "la-historia-visual-de-villaviciosa-crece-en-contenido",
+    "url": "/villaviciosa/la-historia-visual-de-villaviciosa-crece-en-contenido/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El fondo Míner de Villaviciosa, ya catalogado y accesible",
+    "entradilla": "La Fundación Cardín ha terminado de digitalizar y ordenar las fotografías del archivo Míner, que documentan la vida cotidiana de la villa durante la segunda mitad del siglo XX.",
+    "cuerpo": [
+      "El trabajo de digitalización y catalogación del fondo fotográfico de Míner ha concluido. Lo ha llevado a cabo la Fundación Cardín, y el resultado es que ese testimonio visual de Villaviciosa resulta ahora mucho más fácil de consultar.",
+      "Las imágenes retratan el día a día de la villa a lo largo de la segunda mitad del siglo pasado: un registro de lo que la gente hacía, cómo vestía y cómo era el pueblo antes de que cambiara tanto."
+    ],
+    "apunte": "Un pueblo que cuida su memoria visual tiene algo que contar a sus nietos.",
+    "enVeinte": [
+      "La Fundación Cardín ha completado la digitalización y catalogación del archivo fotográfico de Míner.",
+      "El fondo recoge la vida cotidiana de Villaviciosa durante la segunda mitad del siglo XX.",
+      "El trabajo mejora el acceso a ese patrimonio visual para quien quiera consultarlo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "fondo",
+      "como": "fondo (igual que en castellano, sin trampa)",
+      "definicion": "En archivística, un fondo es el conjunto de documentos —aquí fotografías— producidos o reunidos por una misma persona o institución a lo largo del tiempo. El fondo Míner es, en la práctica, toda la colección fotográfica que lleva ese nombre."
+    },
+    "porQue": "Quien quiera buscar una foto antigua de Villaviciosa, una calle que ya no existe o una cara conocida de hace cincuenta años lo tendrá más fácil ahora que el archivo está ordenado y digitalizado.",
+    "etiquetas": [
+      "patrimonio",
+      "fotografía",
+      "Fundación Cardín",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/22/motocross-villaviciosa-RuyVdjHMMB1Cf8KrneF3wSP-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-22T09:45:04.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/historia-visual-villaviciosa-crece-contenido-20261022114503-nt.html",
+      "titularOriginal": "La 'historia visual' de Villaviciosa crece en contenido"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Míner archive in Villaviciosa, now catalogued and accessible",
+        "entradilla": "The Fundación Cardín has finished digitising and organising the photographs in the Míner archive, which document everyday life in the town during the second half of the twentieth century.",
+        "cuerpo": [
+          "The digitisation and cataloguing of the Míner photographic archive is complete. The work was carried out by the Fundación Cardín, and the result is that this visual record of Villaviciosa is now far easier to consult.",
+          "The images capture day-to-day life in the town across the second half of the last century: a record of what people did, how they dressed, and what the place looked like before it changed so much."
+        ],
+        "apunte": "A town that looks after its visual memory has something to tell its grandchildren.",
+        "enVeinte": [
+          "The Fundación Cardín has completed the digitisation and cataloguing of the Míner photographic archive.",
+          "The archive covers everyday life in Villaviciosa during the second half of the twentieth century.",
+          "The work makes this visual heritage much easier to access for anyone who wants to consult it."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "fondo",
+          "como": "fondo (pronounced exactly as in Spanish, no surprises)",
+          "definicion": "In archival practice, a fondo is the complete body of documents — in this case photographs — produced or assembled by a single person or institution over time. The fondo Míner is, in effect, the entire photographic collection that bears that name."
+        },
+        "porQue": "Anyone looking for an old photograph of Villaviciosa, a street that no longer exists, or a familiar face from fifty years ago will find it easier now that the archive is organised and digitised.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le fonds Míner de Villaviciosa, catalogué et désormais accessible",
+        "entradilla": "La Fundación Cardín a terminé de numériser et de classer les photographies des archives Míner, qui documentent la vie quotidienne de la ville pendant la seconde moitié du XXe siècle.",
+        "cuerpo": [
+          "La numérisation et le catalogage du fonds photographique Míner sont achevés. Ces travaux ont été réalisés par la Fundación Cardín, et le résultat est que ce témoignage visuel de Villaviciosa est désormais bien plus facile à consulter.",
+          "Les images retracent le quotidien de la ville tout au long de la seconde moitié du siècle dernier : un témoignage de ce que les gens faisaient, comment ils s'habillaient et à quoi ressemblait l'endroit avant qu'il change autant."
+        ],
+        "apunte": "Une ville qui prend soin de sa mémoire visuelle a quelque chose à raconter à ses petits-enfants.",
+        "enVeinte": [
+          "La Fundación Cardín a achevé la numérisation et le catalogage des archives photographiques Míner.",
+          "Le fonds couvre la vie quotidienne de Villaviciosa pendant la seconde moitié du XXe siècle.",
+          "Ces travaux facilitent l'accès à ce patrimoine visuel pour quiconque souhaite le consulter."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "fondo",
+          "como": "fondo (se prononce exactement comme en espagnol, sans surprise)",
+          "definicion": "En archivistique, un fondo désigne l'ensemble des documents — ici des photographies — produits ou rassemblés par une même personne ou institution au fil du temps. Le fondo Míner correspond, en pratique, à toute la collection photographique qui porte ce nom."
+        },
+        "porQue": "Quiconque cherche une vieille photographie de Villaviciosa, une rue qui n'existe plus ou un visage familier d'il y a cinquante ans s'y retrouvera plus facilement maintenant que les archives sont classées et numérisées.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Fonds Míner aus Villaviciosa – katalogisiert und zugänglich",
+        "entradilla": "Die Fundación Cardín hat die Digitalisierung und Ordnung der Fotografien aus dem Archiv Míner abgeschlossen. Die Aufnahmen dokumentieren das Alltagsleben der Stadt in der zweiten Hälfte des 20. Jahrhunderts.",
+        "cuerpo": [
+          "Die Digitalisierung und Katalogisierung des fotografischen Fonds Míner ist abgeschlossen. Durchgeführt hat die Arbeit die Fundación Cardín, und das Ergebnis ist, dass dieses visuelle Zeugnis von Villaviciosa nun deutlich leichter einzusehen ist.",
+          "Die Bilder zeigen den Alltag der Stadt in der zweiten Hälfte des vergangenen Jahrhunderts: ein Dokument davon, was die Menschen taten, wie sie sich kleideten und wie der Ort aussah, bevor er sich so sehr veränderte."
+        ],
+        "apunte": "Eine Stadt, die ihr visuelles Gedächtnis pflegt, hat ihren Enkeln etwas zu erzählen.",
+        "enVeinte": [
+          "Die Fundación Cardín hat die Digitalisierung und Katalogisierung des fotografischen Archivs Míner abgeschlossen.",
+          "Der Fonds dokumentiert das Alltagsleben in Villaviciosa in der zweiten Hälfte des 20. Jahrhunderts.",
+          "Die Arbeit erleichtert den Zugang zu diesem visuellen Erbe für alle, die es einsehen möchten."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "fondo",
+          "como": "fondo (wird genau wie im Spanischen ausgesprochen, keine Überraschungen)",
+          "definicion": "Im Archivwesen bezeichnet ein fondo die Gesamtheit der Dokumente – hier Fotografien –, die von einer einzelnen Person oder Institution im Laufe der Zeit produziert oder zusammengetragen wurden. Der fondo Míner ist in der Praxis die gesamte Fotosammlung, die diesen Namen trägt."
+        },
+        "porQue": "Wer ein altes Foto von Villaviciosa sucht, eine Straße, die es nicht mehr gibt, oder ein bekanntes Gesicht von vor fünfzig Jahren, wird jetzt leichter fündig – denn das Archiv ist geordnet und digitalisiert.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-consultorio-medico-de-el-picu-de-ribadesella-abrira-el-lunes-con-se",
+    "url": "/pilona/el-consultorio-medico-de-el-picu-de-ribadesella-abrira-el-lunes-con-se/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Ribadesella tendrá consultorio en El Picu desde el lunes",
+    "entradilla": "El cierre del puente sobre el Sella deja sin acceso directo al centro de salud a los vecinos de la orilla oeste, y el Sespa responde con un dispositivo provisional.",
+    "cuerpo": [
+      "El Servicio de Salud del Principado abre el lunes 26 de octubre un consultorio temporal en El Picu, en la carretera de Ribadesella a Canero, número 20. Atiende de lunes a viernes, de 8:00 a 15:00, con médico, enfermero y personal de administración.",
+      "El dispositivo incluye un vehículo para visitas a domicilio, pensado para quienes no puedan acercarse al consultorio. Y una ambulancia de apoyo estará disponible todos los días, las 24 horas, mientras duren las obras del puente de la N-632.",
+      "La medida responde al corte de ese puente sobre el río Sella, que es el paso habitual entre la orilla oeste y el centro de salud de la villa. Con el consultorio en El Picu, los vecinos afectados evitan ese rodeo mientras las obras no terminen."
+    ],
+    "apunte": "El puente corta el paso al médico; el Sespa monta consulta al otro lado.",
+    "enVeinte": [
+      "El Sespa habilita un consultorio provisional en El Picu de Ribadesella a partir del lunes 26 de octubre, de 8:00 a 15:00, de lunes a viernes.",
+      "El dispositivo cuenta con médico, enfermero, administrativo, vehículo de atención domiciliaria y una ambulancia operativa las 24 horas.",
+      "La medida cubre a los vecinos de la orilla oeste que se quedan sin acceso al centro de salud por el cierre del puente de la N-632 sobre el Sella."
+    ],
+    "cifra": {
+      "numero": "24",
+      "unidad": "horas",
+      "glosa": "La ambulancia de apoyo estará disponible todos los días sin interrupción durante el cierre del puente. No es el consultorio, que solo abre en horario de mañana: es el servicio de emergencias que cubre las horas en que la consulta está cerrada."
+    },
+    "palabra": null,
+    "porQue": "Quien viva en la orilla oeste de Ribadesella no tendrá que dar la vuelta por otro acceso para ir al médico: desde el lunes tiene consulta en su barrio, a cinco minutos a pie.",
+    "etiquetas": [
+      "sanidad",
+      "Ribadesella",
+      "obras",
+      "Sespa"
+    ],
+    "fechaEvento": "2026-10-26",
+    "tipoEvento": "",
+    "lugar": "Carretera de Ribadesella a Canero, 20 (El Picu, Ribadesella)",
+    "hora": "08:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/CONSULTORIO-MEDICO-el-Picu-3.jpeg",
+    "fecha": "2026-10-22T08:05:58.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/22/10/2026/el-consultorio-medico-de-el-picu-de-ribadesella-abrira-el-lunes-con-servicio-de-ambulancia-las-24-horas-del-dia/",
+      "titularOriginal": "El consultorio médico de El Picu de Ribadesella abrirá el lunes con servicio de ambulancia las 24 horas del día"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella will have a health clinic at El Picu from Monday",
+        "entradilla": "The closure of the bridge over the Sella leaves residents on the west bank without direct access to the health centre, and the Sespa responds with a temporary service.",
+        "cuerpo": [
+          "The Principality Health Service is opening a temporary clinic at El Picu, on the Ribadesella to Canero road, number 20, on Monday 26 October. It will be open Monday to Friday, from 8:00 to 15:00, with a doctor, a nurse and administrative staff.",
+          "The service includes a vehicle for home visits, aimed at those who cannot come to the clinic in person. A support ambulance will also be available every day, 24 hours a day, for as long as the works on the N-632 bridge last.",
+          "The measure responds to the closure of that bridge over the river Sella, which is the usual crossing between the west bank and the town's health centre. With the clinic at El Picu, affected residents can avoid that detour until the works are finished."
+        ],
+        "apunte": "The bridge blocks the way to the doctor; the Sespa sets up a clinic on the other side.",
+        "enVeinte": [
+          "The Sespa is opening a temporary clinic at El Picu in Ribadesella from Monday 26 October, open 8:00 to 15:00, Monday to Friday.",
+          "The service has a doctor, a nurse, administrative staff, a home-visit vehicle and an ambulance on call 24 hours a day.",
+          "The measure covers residents on the west bank who have lost access to the health centre due to the closure of the N-632 bridge over the Sella."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "hours",
+          "glosa": "The support ambulance will be available every day without interruption for the duration of the bridge closure. This is not the clinic, which only opens in the morning: it is the emergency service that covers the hours when the clinic is closed."
+        },
+        "palabra": null,
+        "porQue": "If you live on the west bank of Ribadesella, you will not have to take a long detour to see a doctor: from Monday there is a clinic in your neighbourhood, five minutes on foot.",
+        "lugar": "Carretera de Ribadesella a Canero, 20 (El Picu, Ribadesella)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Ribadesella disposera d'un cabinet médical à El Picu dès lundi",
+        "entradilla": "La fermeture du pont sur la Sella prive les habitants de la rive ouest d'un accès direct au centre de santé, et le Sespa répond avec un dispositif provisoire.",
+        "cuerpo": [
+          "Le Service de Santé de la Principauté ouvre lundi 26 octobre un cabinet médical temporaire à El Picu, route de Ribadesella à Canero, numéro 20. Il accueille les patients du lundi au vendredi, de 8 h 00 à 15 h 00, avec un médecin, un infirmier et du personnel administratif.",
+          "Le dispositif comprend un véhicule pour les visites à domicile, destiné aux personnes qui ne peuvent pas se déplacer jusqu'au cabinet. Une ambulance de soutien sera également disponible tous les jours, 24 heures sur 24, pendant toute la durée des travaux sur le pont de la N-632.",
+          "Cette mesure fait suite à la fermeture de ce pont sur la rivière Sella, qui constitue le passage habituel entre la rive ouest et le centre de santé du bourg. Grâce au cabinet d'El Picu, les habitants concernés évitent ce détour jusqu'à la fin des travaux."
+        ],
+        "apunte": "Le pont coupe l'accès au médecin ; le Sespa installe un cabinet de l'autre côté.",
+        "enVeinte": [
+          "Le Sespa ouvre un cabinet médical provisoire à El Picu de Ribadesella à partir du lundi 26 octobre, de 8 h 00 à 15 h 00, du lundi au vendredi.",
+          "Le dispositif comprend un médecin, un infirmier, un agent administratif, un véhicule pour les visites à domicile et une ambulance disponible 24 heures sur 24.",
+          "La mesure couvre les habitants de la rive ouest qui n'ont plus accès au centre de santé en raison de la fermeture du pont de la N-632 sur la Sella."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "heures",
+          "glosa": "L'ambulance de soutien sera disponible tous les jours sans interruption pendant la fermeture du pont. Il ne s'agit pas du cabinet, qui n'est ouvert que le matin : c'est le service d'urgences qui assure la couverture aux heures où le cabinet est fermé."
+        },
+        "palabra": null,
+        "porQue": "Si vous habitez sur la rive ouest de Ribadesella, vous n'aurez pas à faire un grand détour pour aller chez le médecin : dès lundi, il y a un cabinet dans votre quartier, à cinq minutes à pied.",
+        "lugar": "Carretera de Ribadesella a Canero, 20 (El Picu, Ribadesella)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ribadesella bekommt ab Montag eine Arztpraxis in El Picu",
+        "entradilla": "Die Sperrung der Brücke über die Sella lässt die Bewohner des Westufers ohne direkten Zugang zum Gesundheitszentrum, und der Sespa reagiert mit einem provisorischen Versorgungsangebot.",
+        "cuerpo": [
+          "Der Gesundheitsdienst des Fürstentums eröffnet am Montag, den 26. Oktober, eine temporäre Arztpraxis in El Picu, an der Straße von Ribadesella nach Canero, Nummer 20. Die Praxis ist montags bis freitags von 8:00 bis 15:00 Uhr geöffnet und mit einem Arzt, einer Pflegefachkraft und Verwaltungspersonal besetzt.",
+          "Das Angebot umfasst ein Fahrzeug für Hausbesuche, das für Personen gedacht ist, die die Praxis nicht aufsuchen können. Zudem steht während der gesamten Dauer der Bauarbeiten an der Brücke der N-632 rund um die Uhr ein Unterstützungsrettungswagen bereit.",
+          "Die Maßnahme ist eine Reaktion auf die Sperrung dieser Brücke über den Fluss Sella, die den üblichen Übergang zwischen dem Westufer und dem Gesundheitszentrum des Ortes darstellt. Mit der Praxis in El Picu vermeiden die betroffenen Bewohner diesen Umweg, bis die Bauarbeiten abgeschlossen sind."
+        ],
+        "apunte": "Die Brücke versperrt den Weg zum Arzt; der Sespa richtet auf der anderen Seite eine Praxis ein.",
+        "enVeinte": [
+          "Der Sespa eröffnet ab Montag, dem 26. Oktober, eine provisorische Arztpraxis in El Picu in Ribadesella, geöffnet von 8:00 bis 15:00 Uhr, montags bis freitags.",
+          "Das Angebot umfasst einen Arzt, eine Pflegefachkraft, Verwaltungspersonal, ein Fahrzeug für Hausbesuche und einen Rettungswagen, der rund um die Uhr im Einsatz ist.",
+          "Die Maßnahme richtet sich an die Bewohner des Westufers, die aufgrund der Sperrung der N-632-Brücke über die Sella keinen Zugang mehr zum Gesundheitszentrum haben."
+        ],
+        "cifra": {
+          "numero": "24",
+          "unidad": "Stunden",
+          "glosa": "Der Unterstützungsrettungswagen steht für die gesamte Dauer der Brückensperrung täglich ohne Unterbrechung zur Verfügung. Es handelt sich nicht um die Praxis, die nur morgens geöffnet ist: Es ist der Notfalldienst, der die Stunden abdeckt, in denen die Praxis geschlossen ist."
+        },
+        "palabra": null,
+        "porQue": "Wer am Westufer von Ribadesella wohnt, muss keinen langen Umweg zum Arzt auf sich nehmen: Ab Montag gibt es eine Praxis im eigenen Viertel, fünf Minuten zu Fuß.",
+        "lugar": "Carretera de Ribadesella a Canero, 20 (El Picu, Ribadesella)",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-e",
     "url": "/cabrales/el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-e/",
     "concejo": "Cabrales",

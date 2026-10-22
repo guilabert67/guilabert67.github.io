@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-22T06:04:41.610Z",
+  "fecha": "2026-10-22T11:45:54.774Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "El salmón se veda en Asturias y el campanu de 2027 queda cancelado.",
-      "enlace": "/pilona/el-gobierno-de-asturias-vedara-el-salmon-y-suspendera-la-subasta-del-c/"
+      "frase": "Desde el lunes, consultorio en El Picu para los vecinos sin puente.",
+      "enlace": "/pilona/el-consultorio-medico-de-el-picu-de-ribadesella-abrira-el-lunes-con-se/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "El Principado aprueba la subestación de Ortiguero sin evaluación ambiental ordinaria.",
-      "enlace": "/cabrales/el-principado-autoriza-la-segunda-subestacion-electrica-de-ortiguero-e/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "El dúo palestino Sabîl toca en Piloña este fin de semana por Gaza.",
-      "enlace": "/pilona/el-duo-palestino-sabil-trae-a-asturias-su-musica-y-su-testimonio-para-/"
+      "concejo": "Villaviciosa",
+      "frase": "El archivo Míner de Villaviciosa ya está digitalizado y abierto al público.",
+      "enlace": "/villaviciosa/la-historia-visual-de-villaviciosa-crece-en-contenido/"
     }
   ]
 }
