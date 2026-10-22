@@ -491,6 +491,11 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-10-21T19:37:12.450Z",
       "titulo": "Actividades Centro Social de Personas Mayores de Cabrales"
+    },
+    "elbuscolu.com/noticias-ribadesella/el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-alcalde-denuncia-falta-de-coordinacion-11276721.html": {
+      "motivo": "mismo hecho que /pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/",
+      "fecha": "2026-10-22T06:04:39.237Z",
+      "titulo": "El puente de Ribadesella cierra desde el domingo"
     }
   },
   "juicios": {
@@ -589,6 +594,10 @@
     "elfielato.es/articulo/pilona/infiestu-feria-emprendedoras-expositoras/20261019110904104748.html|el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex": {
       "r": "mismo",
       "fecha": "2026-10-19T15:02:00.608Z"
+    },
+    "elbuscolu.com/noticias-ribadesella/el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-alcalde-denuncia-falta-de-coordinacion-11276721.html|el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch": {
+      "r": "mismo",
+      "fecha": "2026-10-22T06:04:39.237Z"
     }
   }
 }
