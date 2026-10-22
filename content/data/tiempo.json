@@ -1,15 +1,15 @@
 {
-  "actualizado": "2026-10-22T11:45:55.862Z",
+  "actualizado": "2026-10-22T16:07:56.609Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
-      "max": 17,
+      "max": 16,
       "min": 6,
       "estado": "Orbayu",
       "lluvia": 63
     },
     "nava": {
-      "max": 16,
+      "max": 15,
       "min": 5,
       "estado": "Orbayu",
       "lluvia": 63
@@ -27,7 +27,7 @@
       "lluvia": 38
     },
     "villaviciosa": {
-      "max": 18,
+      "max": 17,
       "min": 7,
       "estado": "Orbayu",
       "lluvia": 60

@@ -1,5 +1,339 @@
 [
   {
+    "id": "noticia-solicitud-de-aparcamiento-para-camiones",
+    "url": "/villaviciosa/noticia-solicitud-de-aparcamiento-para-camiones/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Plazo abierto para aparcar camiones en Villaviciosa",
+    "entradilla": "Los transportistas del concejo tienen hasta el 30 de octubre para pedir plaza en las zonas habilitadas por el Ayuntamiento.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa abre el plazo para que los profesionales del transporte soliciten un espacio de aparcamiento para camiones articulados en las áreas que el propio consistorio ha destinado a ese uso.",
+      "Las solicitudes se pueden presentar hasta el viernes 30 de octubre, bien por la sede electrónica del Ayuntamiento o bien de forma presencial en el registro municipal."
+    ],
+    "apunte": "Si tienes un camión y buscas dónde dejarlo sin dramas, esta semana es la tuya.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa permite a los transportistas del concejo solicitar plaza de aparcamiento para camiones articulados en zonas habilitadas.",
+      "El plazo para presentar la solicitud termina el viernes 30 de octubre.",
+      "Se puede tramitar tanto por sede electrónica como en persona en el registro municipal."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Los camioneros de Villaviciosa que necesiten un lugar fijo y autorizado donde dejar el vehículo tienen una ventana breve para pedirlo: si no se apuntan antes del viernes, tendrán que esperar a la siguiente convocatoria.",
+    "etiquetas": [
+      "transporte",
+      "aparcamiento",
+      "Villaviciosa",
+      "trámites"
+    ],
+    "fechaEvento": "2025-10-30",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-22T15:26:28.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20125027",
+      "titularOriginal": "noticia: Solicitud de aparcamiento para camiones",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Deadline open to park trucks in Villaviciosa",
+        "entradilla": "Hauliers in the municipality have until 30 October to apply for a space in the areas set up by the council.",
+        "cuerpo": [
+          "Villaviciosa council is opening the application period for transport professionals to request a parking space for articulated lorries in the areas the council itself has designated for that purpose.",
+          "Applications can be submitted until Friday 30 October, either through the council's online portal or in person at the municipal registry."
+        ],
+        "apunte": "If you have a lorry and need somewhere to leave it without the hassle, this is your week.",
+        "enVeinte": [
+          "Villaviciosa council is allowing hauliers in the municipality to apply for a parking space for articulated lorries in designated areas.",
+          "The deadline to submit an application is Friday 30 October.",
+          "Applications can be processed online or in person at the municipal registry."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Hauliers in Villaviciosa who need a fixed, authorised place to leave their vehicle have a short window to apply: if they do not sign up before Friday, they will have to wait for the next call.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Délai ouvert pour stationner des camions à Villaviciosa",
+        "entradilla": "Les transporteurs de la commune ont jusqu'au 30 octobre pour demander une place dans les zones aménagées par la mairie.",
+        "cuerpo": [
+          "La mairie de Villaviciosa ouvre la période de candidature pour que les professionnels du transport puissent demander un emplacement de stationnement pour poids lourds articulés dans les zones que la mairie elle-même a réservées à cet usage.",
+          "Les demandes peuvent être déposées jusqu'au vendredi 30 octobre, soit via le portail en ligne de la mairie, soit en personne au registre municipal."
+        ],
+        "apunte": "Si vous avez un camion et cherchez où le laisser sans tracas, c'est votre semaine.",
+        "enVeinte": [
+          "La mairie de Villaviciosa permet aux transporteurs de la commune de demander une place de stationnement pour poids lourds articulés dans des zones aménagées.",
+          "Le délai pour déposer une demande expire le vendredi 30 octobre.",
+          "La démarche peut se faire en ligne ou en personne au registre municipal."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Les camionneurs de Villaviciosa qui ont besoin d'un endroit fixe et autorisé pour laisser leur véhicule disposent d'une courte fenêtre pour en faire la demande : s'ils ne s'inscrivent pas avant vendredi, ils devront attendre le prochain appel.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Bewerbungsfrist für LKW-Parkplätze in Villaviciosa eröffnet",
+        "entradilla": "Transportunternehmer aus der Gemeinde haben bis zum 30. Oktober Zeit, einen Platz in den vom Rathaus ausgewiesenen Bereichen zu beantragen.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa eröffnet die Antragsfrist für Transportfachleute, die einen Stellplatz für Sattelzüge in den dafür vorgesehenen Bereichen beantragen möchten.",
+          "Anträge können bis Freitag, den 30. Oktober, eingereicht werden – entweder über das Online-Portal des Rathauses oder persönlich beim Stadtregister."
+        ],
+        "apunte": "Wer einen LKW hat und einen unkomplizierten Stellplatz sucht, für den ist diese Woche die richtige.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa ermöglicht es Transportunternehmern aus der Gemeinde, einen Stellplatz für Sattelzüge in ausgewiesenen Bereichen zu beantragen.",
+          "Die Frist zur Einreichung des Antrags endet am Freitag, den 30. Oktober.",
+          "Der Antrag kann online oder persönlich beim Stadtregister gestellt werden."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "LKW-Fahrer aus Villaviciosa, die einen festen und genehmigten Abstellplatz für ihr Fahrzeug benötigen, haben nur ein kurzes Zeitfenster für ihren Antrag: Wer sich nicht bis Freitag anmeldet, muss auf die nächste Ausschreibung warten.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "cortes-nocturnos-y-de-trafico-en-la-a-8-en-villaviciosa-por-las-obras-",
+    "url": "/villaviciosa/cortes-nocturnos-y-de-trafico-en-la-a-8-en-villaviciosa-por-las-obras-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "La A-8 corta por obras tres noches en octubre",
+    "entradilla": "El tráfico en dirección Santander tendrá que dar un rodeo por la N-632 y la A-64 los días 23, 29 y 30 de octubre.",
+    "cuerpo": [
+      "Las obras de rehabilitación del firme en la A-8 a su paso por Villaviciosa obligan a cortar la circulación en sentido Santander durante tres noches de octubre: el día 23 y los días 29 y 30.",
+      "Quien vaya hacia el este tendrá que salir de la autovía y circular por la N-632 y la A-64 hasta volver a incorporarse. Son vías que conoce bien quien vive por aquí, pero conviene salir con margen."
+    ],
+    "apunte": "Tres noches de desvío: mejor saberlo antes de ponerse en ruta.",
+    "enVeinte": [
+      "Las obras de rehabilitación del firme en la A-8 provocarán cortes nocturnos en sentido Santander los días 23, 29 y 30 de octubre.",
+      "Durante esos cortes, el tráfico se desviará por la N-632 y la A-64.",
+      "Quien tenga que circular hacia el este esas noches debe contar con tiempo extra."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Cualquier vecino de Villaviciosa que use la A-8 para ir hacia Cantabria esas noches tendrá que cambiar de ruta; conviene planificarlo con antelación.",
+    "etiquetas": [
+      "A-8",
+      "obras",
+      "tráfico",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "2026-10-23",
+    "tipoEvento": "",
+    "lugar": "A-8, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/22/villaviciosa-autovia-RJfNtf19TcamzLXllJh0VrI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-22T12:10:55.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/cortes-nocturnos-trafico-villaviciosa-obras-rehabilitacion-firme-20261022141055-nt.html",
+      "titularOriginal": "Cortes nocturnos y de tráfico en la A-8 en Villaviciosa por las obras de rehabilitación del firme"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The A-8 closes for roadworks three nights in October",
+        "entradilla": "Traffic heading towards Santander will have to take a detour via the N-632 and the A-64 on 23, 29 and 30 October.",
+        "cuerpo": [
+          "Resurfacing works on the A-8 as it passes through the Villaviciosa municipality require the road to be closed in the direction of Santander for three nights in October: the 23rd and the 29th and 30th.",
+          "Those heading east will have to leave the motorway and travel via the N-632 and the A-64 before rejoining it. These are roads that locals know well, but it is worth leaving extra time."
+        ],
+        "apunte": "Three nights of diversions: better to know before you set off.",
+        "enVeinte": [
+          "Resurfacing works on the A-8 will cause overnight closures in the direction of Santander on 23, 29 and 30 October.",
+          "During those closures, traffic will be diverted via the N-632 and the A-64.",
+          "Anyone travelling east on those nights should allow extra time."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Any resident of Villaviciosa who uses the A-8 to travel towards Cantabria on those nights will need to change their route; it is worth planning ahead.",
+        "lugar": "A-8, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'A-8 fermée pour travaux trois nuits en octobre",
+        "entradilla": "La circulation en direction de Santander devra emprunter un itinéraire bis par la N-632 et l'A-64 les 23, 29 et 30 octobre.",
+        "cuerpo": [
+          "Les travaux de réfection de la chaussée sur l'A-8 au niveau de la commune de Villaviciosa imposent la fermeture de la route en direction de Santander pendant trois nuits en octobre : le 23 et les 29 et 30.",
+          "Les conducteurs se dirigeant vers l'est devront quitter l'autoroute et circuler par la N-632 et l'A-64 avant de rejoindre l'A-8. Ce sont des routes bien connues des habitants de la région, mais mieux vaut prévoir de la marge."
+        ],
+        "apunte": "Trois nuits de déviation : autant le savoir avant de prendre la route.",
+        "enVeinte": [
+          "Les travaux de réfection de la chaussée sur l'A-8 entraîneront des fermetures nocturnes en direction de Santander les 23, 29 et 30 octobre.",
+          "Pendant ces fermetures, la circulation sera déviée par la N-632 et l'A-64.",
+          "Les conducteurs devant se rendre vers l'est ces nuits-là doivent prévoir un temps de trajet supplémentaire."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Tout habitant de Villaviciosa qui emprunte l'A-8 pour se rendre en Cantabrie ces nuits-là devra modifier son itinéraire ; il est conseillé d'anticiper.",
+        "lugar": "A-8, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die A-8 ist im Oktober drei Nächte wegen Bauarbeiten gesperrt",
+        "entradilla": "Der Verkehr in Richtung Santander muss am 23., 29. und 30. Oktober einen Umweg über die N-632 und die A-64 nehmen.",
+        "cuerpo": [
+          "Die Fahrbahnrehabilitierungsarbeiten auf der A-8 im Bereich der Gemeinde Villaviciosa machen eine Sperrung in Richtung Santander während drei Oktobnernächte erforderlich: am 23. sowie am 29. und 30.",
+          "Wer in Richtung Osten fährt, muss die Autobahn verlassen und über die N-632 und die A-64 fahren, bevor er wieder auffahren kann. Diese Straßen sind den Anwohnern gut bekannt, aber es empfiehlt sich, mehr Zeit einzuplanen."
+        ],
+        "apunte": "Drei Nächte Umleitung: besser wissen, bevor man losfährt.",
+        "enVeinte": [
+          "Die Fahrbahnrehabilitierungsarbeiten auf der A-8 werden am 23., 29. und 30. Oktober nächtliche Sperrungen in Richtung Santander verursachen.",
+          "Während dieser Sperrungen wird der Verkehr über die N-632 und die A-64 umgeleitet.",
+          "Wer in diesen Nächten in Richtung Osten fahren muss, sollte zusätzliche Zeit einplanen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Jeder Bewohner von Villaviciosa, der in diesen Nächten die A-8 in Richtung Kantabrien nutzt, muss seine Route ändern; eine vorherige Planung ist ratsam.",
+        "lugar": "A-8, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "por la n 632 y la a 64",
+      "la n 632 y la a 64 los",
+      "n 632 y la a 64 los dias",
+      "632 y la a 64 los dias 23",
+      "y la a 64 los dias 23 29",
+      "la a 64 los dias 23 29 y",
+      "a 64 los dias 23 29 y 30",
+      "64 los dias 23 29 y 30 de",
+      "los dias 23 29 y 30 de octubre"
+    ]
+  },
+  {
+    "id": "el-ciclista-maliayo-diego-llosa-subcampeon-de-la-copa-de-espana-de-gra",
+    "url": "/villaviciosa/el-ciclista-maliayo-diego-llosa-subcampeon-de-la-copa-de-espana-de-gra/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Diego Llosa, subcampeón de España en gravel",
+    "entradilla": "El ciclista de Villaviciosa logra uno de los mejores resultados de su carrera en la Copa de España de gravel.",
+    "cuerpo": [
+      "Diego Llosa, ciclista maliayo, ha quedado subcampeón en la Copa de España de la modalidad de gravel, una de las disciplinas de ciclismo de mayor crecimiento en los últimos años.",
+      "El resultado sitúa a Llosa entre los mejores especialistas del país en esta categoría y supone el hito más destacado de su trayectoria deportiva hasta la fecha."
+    ],
+    "apunte": "Maliayo en el podio nacional. No está nada mal.",
+    "enVeinte": [
+      "Diego Llosa, ciclista de Villaviciosa, ha quedado subcampeón de la Copa de España de gravel.",
+      "Es uno de los mejores resultados que ha conseguido a lo largo de su carrera deportiva.",
+      "El logro lo coloca entre los mejores ciclistas del país en esta modalidad."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliayo",
+      "como": "ma-LIA-yu",
+      "definicion": "Gentilicio popular de quien es natural de Villaviciosa, el concejo de la costa asturiana conocido también por ese nombre. Lo usan los de casa; en el resto de Asturias se entiende sin problema."
+    },
+    "porQue": "Un vecino de Villaviciosa sube al podio nacional, lo que pone el nombre del concejo en el mapa del ciclismo español.",
+    "etiquetas": [
+      "ciclismo",
+      "gravel",
+      "Villaviciosa",
+      "Diego Llosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/22/2026102211542581276.jpg",
+    "fecha": "2026-10-22T09:55:45.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/deportes/diego-llosa-subcampeon-copa-espana-gravel/20261022115545104824.html",
+      "titularOriginal": "El ciclista maliayo Diego Llosa, subcampeón de la Copa de España de gravel"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Diego Llosa, runner-up at the Spanish gravel championship",
+        "entradilla": "The cyclist from Villaviciosa achieves one of the best results of his career at the Copa de España de gravel.",
+        "cuerpo": [
+          "Diego Llosa, a maliayo (native of Villaviciosa) cyclist, has finished runner-up at the Copa de España de gravel, one of the fastest-growing disciplines in cycling in recent years.",
+          "The result places Llosa among the country's top specialists in this category and marks the most outstanding milestone of his sporting career to date."
+        ],
+        "apunte": "Maliayo on the national podium. Not bad at all.",
+        "enVeinte": [
+          "Diego Llosa, a cyclist from Villaviciosa, has finished runner-up at the Copa de España de gravel.",
+          "It is one of the best results he has achieved throughout his sporting career.",
+          "The achievement places him among the top cyclists in the country in this discipline."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "The popular demonym for someone from Villaviciosa, the coastal municipality in Asturias also known by that name. Used by locals; understood without difficulty across the rest of Asturias."
+        },
+        "porQue": "A resident of Villaviciosa reaches the national podium, putting the municipality on the map of Spanish cycling.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Diego Llosa, vice-champion d'Espagne de gravel",
+        "entradilla": "Le cycliste de Villaviciosa signe l'un des meilleurs résultats de sa carrière à la Copa de España de gravel.",
+        "cuerpo": [
+          "Diego Llosa, cycliste maliayo (natif de Villaviciosa), a terminé vice-champion à la Copa de España de gravel, l'une des disciplines du cyclisme connaissant la plus forte croissance ces dernières années.",
+          "Ce résultat place Llosa parmi les meilleurs spécialistes du pays dans cette catégorie et constitue l'étape la plus marquante de sa carrière sportive à ce jour."
+        ],
+        "apunte": "Maliayo sur le podium national. Pas mal du tout.",
+        "enVeinte": [
+          "Diego Llosa, cycliste de Villaviciosa, a terminé vice-champion de la Copa de España de gravel.",
+          "C'est l'un des meilleurs résultats qu'il ait obtenus tout au long de sa carrière sportive.",
+          "Ce succès le place parmi les meilleurs cyclistes du pays dans cette discipline."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "Le gentilé populaire désignant quelqu'un originaire de Villaviciosa, la commune côtière des Asturies connue également sous ce nom. Employé par les locaux ; compris sans difficulté dans le reste des Asturies."
+        },
+        "porQue": "Un habitant de Villaviciosa monte sur le podium national, mettant ainsi la commune sur la carte du cyclisme espagnol.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Diego Llosa, Vizemeister Spaniens im Gravel-Radsport",
+        "entradilla": "Der Radfahrer aus Villaviciosa erzielt eines der besten Ergebnisse seiner Karriere bei der Copa de España de gravel.",
+        "cuerpo": [
+          "Diego Llosa, ein maliayo (Einheimischer aus Villaviciosa), hat bei der Copa de España de gravel den zweiten Platz belegt — einer der Radsportdisziplinen mit dem stärksten Wachstum der letzten Jahre.",
+          "Das Ergebnis zählt Llosa zu den besten Spezialisten des Landes in dieser Kategorie und stellt den herausragendsten Meilenstein seiner sportlichen Laufbahn dar."
+        ],
+        "apunte": "Maliayo auf dem nationalen Podium. Gar nicht schlecht.",
+        "enVeinte": [
+          "Diego Llosa, Radfahrer aus Villaviciosa, hat bei der Copa de España de gravel den zweiten Platz belegt.",
+          "Es ist eines der besten Ergebnisse, die er in seiner sportlichen Karriere erzielt hat.",
+          "Der Erfolg zählt ihn zu den besten Radfahrern des Landes in dieser Disziplin."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yu",
+          "definicion": "Der volkstümliche Herkunftsname für jemanden aus Villaviciosa, der Küstengemeinde in Asturien, die auch unter diesem Namen bekannt ist. Von den Einheimischen verwendet; im übrigen Asturien ohne Weiteres verstanden."
+        },
+        "porQue": "Ein Einwohner von Villaviciosa erreicht das nationale Podium und bringt damit die Gemeinde auf die Landkarte des spanischen Radsports.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "uno de los mejores resultados de su carrera"
+    ]
+  },
+  {
     "id": "la-historia-visual-de-villaviciosa-crece-en-contenido",
     "url": "/villaviciosa/la-historia-visual-de-villaviciosa-crece-en-contenido/",
     "concejo": "Villaviciosa",

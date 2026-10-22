@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-22T11:45:54.774Z",
+  "fecha": "2026-10-22T16:07:55.582Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "Desde el lunes, consultorio en El Picu para los vecinos sin puente.",
-      "enlace": "/pilona/el-consultorio-medico-de-el-picu-de-ribadesella-abrira-el-lunes-con-se/"
+      "concejo": "Villaviciosa",
+      "frase": "La A-8 corta tres noches en octubre: los días 23, 29 y 30, rodeo por la N-632.",
+      "enlace": "/villaviciosa/cortes-nocturnos-y-de-trafico-en-la-a-8-en-villaviciosa-por-las-obras-/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El archivo Míner de Villaviciosa ya está digitalizado y abierto al público.",
-      "enlace": "/villaviciosa/la-historia-visual-de-villaviciosa-crece-en-contenido/"
+      "frase": "Transportistas de Villaviciosa: hasta el 30 de octubre para pedir plaza de aparcamiento.",
+      "enlace": "/villaviciosa/noticia-solicitud-de-aparcamiento-para-camiones/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Diego Llosa, subcampeón de España en gravel: un gran resultado para el ciclismo del concejo.",
+      "enlace": "/villaviciosa/el-ciclista-maliayo-diego-llosa-subcampeon-de-la-copa-de-espana-de-gra/"
     }
   ]
 }
