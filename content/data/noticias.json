@@ -1,5 +1,207 @@
 [
   {
+    "id": "villaviciosa-creara-un-padron-de-camiones-para-definir-sus-zonas-de-ap",
+    "url": "/villaviciosa/villaviciosa-creara-un-padron-de-camiones-para-definir-sus-zonas-de-ap/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa registrará los camiones que aparcan en el casco",
+    "entradilla": "Los transportistas locales tienen hasta el 30 de octubre para pedir sitio.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa quiere ordenar el estacionamiento de camiones en el centro del pueblo y, para eso, necesita saber primero cuántos hay y quién los usa.",
+      "La fórmula elegida es un registro propio: los transportistas locales presentan su solicitud antes del 30 de octubre y, con esos datos, el Ayuntamiento decide dónde habilitar las zonas."
+    ],
+    "apunte": "Primero el padrón, luego el aparcamiento: el Ayuntamiento no improvisa zonas sin saber cuántos camiones van a usarlas.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa quiere crear zonas de aparcamiento para camiones en el casco urbano.",
+      "Para definirlas, abrirá primero un registro de transportistas locales interesados.",
+      "El plazo para presentar peticiones cierra el 30 de octubre."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si tienes un camión y trabajas en Villaviciosa, el 30 de octubre es tu fecha: pasarla sin apuntarte puede dejarte fuera del reparto de zonas.",
+    "etiquetas": [
+      "Villaviciosa",
+      "tráfico",
+      "transporte",
+      "casco urbano"
+    ],
+    "fechaEvento": "2026-10-30",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/22/villaviciosa-trafico-Resa3qugtL3gmXL4a4rhK7M-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-22T19:05:32.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-creara-padron-camiones-definir-zonas-aparcamiento-20261022210531-nt.html",
+      "titularOriginal": "Villaviciosa creará un 'padrón' de camiones para definir sus zonas de aparcamiento"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa to register lorries parking in the town centre",
+        "entradilla": "Local hauliers have until 30 October to apply for a space.",
+        "cuerpo": [
+          "Villaviciosa council wants to bring order to lorry parking in the town centre, and to do that it first needs to know how many there are and who uses them.",
+          "The chosen approach is a dedicated register: local hauliers submit their application before 30 October and, using that data, the council decides where to designate the zones."
+        ],
+        "apunte": "First the register, then the parking: the council is not improvising zones without knowing how many lorries will use them.",
+        "enVeinte": [
+          "Villaviciosa council wants to create lorry parking zones in the town centre.",
+          "To define them, it will first open a register of interested local hauliers.",
+          "The deadline for submitting applications is 30 October."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you own a lorry and work in Villaviciosa, 30 October is your date: missing it could leave you out of the allocation of zones.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa va recenser les camions qui stationnent dans le centre-ville",
+        "entradilla": "Les transporteurs locaux ont jusqu'au 30 octobre pour faire leur demande.",
+        "cuerpo": [
+          "La mairie de Villaviciosa souhaite organiser le stationnement des camions dans le centre du bourg et, pour cela, elle doit d'abord savoir combien il y en a et qui les utilise.",
+          "La formule retenue est un registre propre : les transporteurs locaux déposent leur demande avant le 30 octobre et, sur la base de ces données, la mairie décide où aménager les zones."
+        ],
+        "apunte": "D'abord le recensement, ensuite le stationnement : la mairie n'improvise pas de zones sans savoir combien de camions vont les utiliser.",
+        "enVeinte": [
+          "La mairie de Villaviciosa souhaite créer des zones de stationnement pour camions dans le centre-ville.",
+          "Pour les définir, elle ouvrira d'abord un registre des transporteurs locaux intéressés.",
+          "Le délai pour déposer une demande se clôture le 30 octobre."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous avez un camion et que vous travaillez à Villaviciosa, le 30 octobre est votre date butoir : la manquer pourrait vous exclure du partage des zones.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa erfasst Lkw, die in der Innenstadt parken",
+        "entradilla": "Lokale Transportunternehmen haben bis zum 30. Oktober Zeit, einen Platz zu beantragen.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa möchte das Parken von Lkw im Ortskern regeln und muss dafür zunächst wissen, wie viele es gibt und wer sie nutzt.",
+          "Der gewählte Weg ist ein eigenes Register: Lokale Transportunternehmen reichen ihren Antrag vor dem 30. Oktober ein, und anhand dieser Daten entscheidet das Rathaus, wo die Zonen ausgewiesen werden."
+        ],
+        "apunte": "Erst das Register, dann die Parkplätze: Das Rathaus legt keine Zonen fest, ohne zu wissen, wie viele Lkw sie nutzen werden.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa möchte Lkw-Parkzonen im Ortskern einrichten.",
+          "Um diese festzulegen, wird es zunächst ein Register interessierter lokaler Transportunternehmen anlegen.",
+          "Die Frist zur Einreichung von Anträgen endet am 30. Oktober."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer einen Lkw besitzt und in Villaviciosa arbeitet, sollte den 30. Oktober im Blick behalten: Wer die Frist verpasst, riskiert, bei der Zuteilung der Zonen leer auszugehen.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-para-solicitar-aparc",
+    "url": "/villaviciosa/villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-para-solicitar-aparc/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca aparcamiento para camiones hasta el 30 de octubre",
+    "entradilla": "El Ayuntamiento abre un plazo para que los transportistas del concejo soliciten plaza de estacionamiento para articulados.",
+    "cuerpo": [
+      "Los profesionales del transporte vinculados a Villaviciosa tienen hasta el 30 de octubre para pedir sitio donde dejar sus camiones articulados. El Ayuntamiento recoge esas solicitudes para dimensionar el problema y encontrar una solución.",
+      "El consistorio estudia habilitar zonas de estacionamiento, ya sean públicas o privadas, porque ahora mismo no hay espacios suficientes para estos vehículos."
+    ],
+    "apunte": "El camión no cabe en la rotonda ni en el plazo.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa recibe solicitudes de aparcamiento para camiones articulados hasta el 30 de octubre.",
+      "Se estudia habilitar zonas públicas o privadas para cubrir la falta de espacios para los transportistas del concejo.",
+      "Los profesionales del sector tienen hasta esa fecha para hacer llegar su necesidad al consistorio."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si trabajas en el transporte y aparcar el camión es un problema diario, este plazo es la ocasión de decírselo al Ayuntamiento antes de que tome una decisión.",
+    "etiquetas": [
+      "transporte",
+      "Villaviciosa",
+      "aparcamiento",
+      "camiones"
+    ],
+    "fechaEvento": "2026-10-30",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-d776b908.jpg",
+    "fecha": "2026-10-22T16:14:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-para-solicitar-aparcamiento-de-camiones-articulados-11276730.html",
+      "titularOriginal": "Villaviciosa abre hasta el 30 de octubre el plazo para solicitar aparcamiento de camiones articulados"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks parking for lorries until 30 October",
+        "entradilla": "The council opens a period for transport workers in the municipality to apply for articulated lorry parking spaces.",
+        "cuerpo": [
+          "Transport professionals linked to Villaviciosa have until 30 October to apply for a place to park their articulated lorries. The council is collecting these applications in order to assess the scale of the problem and find a solution.",
+          "The council is studying the possibility of designating parking areas, whether public or private, as there are currently not enough spaces for these vehicles."
+        ],
+        "apunte": "The lorry doesn't fit in the roundabout — or in the deadline.",
+        "enVeinte": [
+          "Villaviciosa council is accepting applications for articulated lorry parking until 30 October.",
+          "The authority is considering opening public or private areas to address the lack of spaces for transport workers in the municipality.",
+          "Professionals in the sector have until that date to make their needs known to the council."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you work in transport and parking your lorry is a daily problem, this deadline is your chance to tell the council before it makes a decision.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche des places de stationnement pour camions jusqu'au 30 octobre",
+        "entradilla": "La mairie ouvre une période pendant laquelle les transporteurs de la commune peuvent demander une place de stationnement pour véhicules articulés.",
+        "cuerpo": [
+          "Les professionnels du transport liés à Villaviciosa ont jusqu'au 30 octobre pour demander un emplacement où garer leurs camions articulés. La mairie recueille ces demandes afin d'évaluer l'ampleur du problème et de trouver une solution.",
+          "La municipalité étudie la possibilité d'aménager des zones de stationnement, publiques ou privées, car il n'existe actuellement pas assez d'espaces pour ces véhicules."
+        ],
+        "apunte": "Le camion ne rentre ni dans le rond-point ni dans le délai.",
+        "enVeinte": [
+          "La mairie de Villaviciosa accepte les demandes de stationnement pour camions articulés jusqu'au 30 octobre.",
+          "Des zones publiques ou privées sont à l'étude pour pallier le manque d'espaces destinés aux transporteurs de la commune.",
+          "Les professionnels du secteur ont jusqu'à cette date pour faire connaître leurs besoins à la municipalité."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous travaillez dans le transport et que garer votre camion est un problème quotidien, ce délai est l'occasion de le signaler à la mairie avant qu'elle ne prenne une décision.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht Lkw-Parkplätze bis zum 30. Oktober",
+        "entradilla": "Das Rathaus eröffnet eine Frist, in der Transportunternehmer der Gemeinde Stellplätze für Sattelzüge beantragen können.",
+        "cuerpo": [
+          "Transportfachleute mit Bezug zu Villaviciosa haben bis zum 30. Oktober Zeit, einen Stellplatz für ihre Sattelzüge zu beantragen. Das Rathaus sammelt diese Anträge, um das Ausmaß des Problems einzuschätzen und eine Lösung zu finden.",
+          "Die Gemeindeverwaltung prüft, ob öffentliche oder private Parkflächen ausgewiesen werden können, da es derzeit nicht genügend Platz für diese Fahrzeuge gibt."
+        ],
+        "apunte": "Der Lkw passt weder in den Kreisverkehr noch in die Frist.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa nimmt bis zum 30. Oktober Anträge auf Lkw-Stellplätze für Sattelzüge entgegen.",
+          "Es wird geprüft, ob öffentliche oder private Flächen eingerichtet werden können, um den Mangel an Parkraum für Transportunternehmer der Gemeinde zu beheben.",
+          "Fachleute der Branche haben bis zu diesem Datum die Möglichkeit, ihren Bedarf beim Rathaus anzumelden."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn Sie im Transportgewerbe arbeiten und das tägliche Parken Ihres Lkw ein Problem darstellt, ist diese Frist Ihre Gelegenheit, das Rathaus darauf hinzuweisen, bevor es eine Entscheidung trifft.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "noticia-solicitud-de-aparcamiento-para-camiones",
     "url": "/villaviciosa/noticia-solicitud-de-aparcamiento-para-camiones/",
     "concejo": "Villaviciosa",
@@ -38704,139 +38906,6 @@
         "palabra": null,
         "porQue": "Wer regelmäßig die N-634 auf Höhe von Quintana befährt, hat gute Chancen, auf diesen Blitzer zu treffen: Er ist derzeit das Gerät mit den meisten Strafen in der Region.",
         "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "expertos-abordan-los-desafios-del-cultivo-del-arandano-en-el-festival-",
-    "url": "/villaviciosa/expertos-abordan-los-desafios-del-cultivo-del-arandano-en-el-festival-/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "El festival del arándano abre este sábado en Villaviciosa",
-    "entradilla": "Más de treinta expositores de Asturias y otras comunidades se dan cita en el certamen.",
-    "cuerpo": [
-      "El festival del arándano de Villaviciosa levanta el telón este sábado con una representación amplia: más de treinta expositores llegan desde distintos puntos de la región y de fuera de ella.",
-      "El programa incluye a expertos que pondrán sobre la mesa los retos actuales del cultivo de este fruto, uno de los que más terreno ha ganado en el campo asturiano en los últimos años."
-    ],
-    "apunte": "Treinta expositores para un fruto que cada vez ocupa más prau asturiano.",
-    "enVeinte": [
-      "Este sábado arranca en Villaviciosa el festival del arándano.",
-      "Participan más de treinta expositores de Asturias y otras comunidades autónomas.",
-      "Expertos abordarán los desafíos actuales del cultivo de este fruto."
-    ],
-    "cifra": {
-      "numero": "+30",
-      "unidad": "expositores",
-      "glosa": "Más de treinta stands se instalan en el certamen, procedentes tanto de Asturias como de otras comunidades. Es una muestra de que el arándano ha dejado de ser un cultivo marginal para convertirse en un sector con peso real."
-    },
-    "palabra": {
-      "termino": "prau",
-      "como": "prau (igual que suena, sin diptongar)",
-      "definicion": "Prado en asturiano. Parcela de hierba, normalmente cercada, destinada al pasto o a la siega. En los concejos de la comarca es la unidad básica del paisaje agrario."
-    },
-    "porQue": "El festival reúne a productores y técnicos que pueden abrir puertas a quien ya cultiva arándano en el concejo o esté pensando en reconvertir terreno hacia ese camino.",
-    "etiquetas": [
-      "arándano",
-      "Villaviciosa",
-      "festival",
-      "agricultura"
-    ],
-    "fechaEvento": "2026-07-26",
-    "tipoEvento": "feria",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/24/arandano%20(2)-RzHSRxOx8V0xR8hA4cQ7qgL-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-24T16:21:48.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/expertos-abordan-desafios-cultivo-arandano-festival-villaviciosa-20260724182147-nt.html",
-      "titularOriginal": "Expertos abordan los desafíos del cultivo del arándano en el festival de Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The blueberry festival opens this Saturday in Villaviciosa",
-        "entradilla": "More than thirty exhibitors from Asturias and other regions are gathering at the event.",
-        "cuerpo": [
-          "The Villaviciosa blueberry festival raises its curtain this Saturday with a broad line-up: more than thirty exhibitors are coming from different parts of the region and beyond.",
-          "The programme includes experts who will put on the table the current challenges facing the cultivation of this fruit, one of those that has gained the most ground in the Asturian countryside in recent years."
-        ],
-        "apunte": "Thirty exhibitors for a fruit that is taking up ever more prau (Asturian meadowland).",
-        "enVeinte": [
-          "This Saturday, the blueberry festival kicks off in Villaviciosa.",
-          "More than thirty exhibitors from Asturias and other autonomous communities are taking part.",
-          "Experts will address the current challenges facing the cultivation of this fruit."
-        ],
-        "cifra": {
-          "numero": "+30",
-          "unidad": "exhibitors",
-          "glosa": "More than thirty stands are being set up at the event, coming from both Asturias and other communities. It is a sign that the blueberry has moved on from being a marginal crop to becoming a sector with real weight."
-        },
-        "palabra": {
-          "termino": "prau",
-          "como": "prau (as it sounds, no diphthong)",
-          "definicion": "Meadow in Asturian. A plot of grass, normally fenced, used for grazing or haymaking. In the municipalities of the county it is the basic unit of the farming landscape."
-        },
-        "porQue": "The festival brings together producers and technicians who can open doors for anyone already growing blueberries in the municipality or thinking about converting land in that direction.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le festival de la myrtille ouvre ses portes ce samedi à Villaviciosa",
-        "entradilla": "Plus de trente exposants venus des Asturies et d'autres régions se retrouvent au salon.",
-        "cuerpo": [
-          "Le festival de la myrtille de Villaviciosa lève le rideau ce samedi avec une représentation large : plus de trente exposants arrivent de différents points de la région et d'ailleurs.",
-          "Le programme comprend des experts qui mettront sur la table les défis actuels de la culture de ce fruit, l'un de ceux qui a le plus progressé dans les campagnes asturiennes ces dernières années."
-        ],
-        "apunte": "Trente exposants pour un fruit qui occupe de plus en plus de prau (prairie asturienne).",
-        "enVeinte": [
-          "Ce samedi, le festival de la myrtille démarre à Villaviciosa.",
-          "Plus de trente exposants des Asturies et d'autres communautés autonomes y participent.",
-          "Des experts aborderont les défis actuels de la culture de ce fruit."
-        ],
-        "cifra": {
-          "numero": "+30",
-          "unidad": "exposants",
-          "glosa": "Plus de trente stands s'installent au salon, venus aussi bien des Asturies que d'autres communautés. C'est la preuve que la myrtille a cessé d'être une culture marginale pour devenir un secteur à part entière."
-        },
-        "palabra": {
-          "termino": "prau",
-          "como": "prau (se prononce comme il s'écrit, sans diphtongue)",
-          "definicion": "Prairie en asturien. Parcelle d'herbe, généralement clôturée, destinée au pâturage ou à la fauche. Dans les communes de la zone, c'est l'unité de base du paysage agraire."
-        },
-        "porQue": "Le festival réunit producteurs et techniciens qui peuvent ouvrir des portes à ceux qui cultivent déjà la myrtille dans la commune ou qui envisagent de reconvertir leurs terres dans cette direction.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Das Heidelbeerfestival öffnet diesen Samstag in Villaviciosa",
-        "entradilla": "Mehr als dreißig Aussteller aus Asturien und anderen Regionen treffen sich auf der Veranstaltung.",
-        "cuerpo": [
-          "Das Heidelbeerfestival von Villaviciosa hebt diesen Samstag den Vorhang mit einer breiten Beteiligung: Mehr als dreißig Aussteller kommen aus verschiedenen Teilen der Region und darüber hinaus.",
-          "Das Programm umfasst Experten, die die aktuellen Herausforderungen beim Anbau dieser Frucht auf den Tisch bringen werden – eine der Früchte, die in den letzten Jahren auf den asturischen Feldern am stärksten an Boden gewonnen hat."
-        ],
-        "apunte": "Dreißig Aussteller für eine Frucht, die immer mehr prau (asturisches Wiesenland) einnimmt.",
-        "enVeinte": [
-          "Diesen Samstag startet in Villaviciosa das Heidelbeerfestival.",
-          "Mehr als dreißig Aussteller aus Asturien und anderen autonomen Gemeinschaften nehmen teil.",
-          "Experten werden die aktuellen Herausforderungen beim Anbau dieser Frucht erörtern."
-        ],
-        "cifra": {
-          "numero": "+30",
-          "unidad": "Aussteller",
-          "glosa": "Mehr als dreißig Stände werden auf der Veranstaltung aufgebaut, sowohl aus Asturien als auch aus anderen Gemeinschaften. Das zeigt, dass die Heidelbeere aufgehört hat, eine Randkultur zu sein, und zu einem Sektor mit echtem Gewicht geworden ist."
-        },
-        "palabra": {
-          "termino": "prau",
-          "como": "prau (wird ausgesprochen, wie es geschrieben steht, ohne Diphthong)",
-          "definicion": "Wiese auf Asturisch. Ein Grundstück mit Gras, in der Regel eingezäunt, das zur Beweidung oder Mahd genutzt wird. In den Gemeinden der Gegend ist es die grundlegende Einheit der Agrarlandschaft."
-        },
-        "porQue": "Das Festival bringt Erzeuger und Fachleute zusammen, die Türen öffnen können – für alle, die in der Gemeinde bereits Heidelbeeren anbauen oder daran denken, Land in diese Richtung umzustellen.",
-        "lugar": "Villaviciosa",
         "precio": ""
       }
     }
