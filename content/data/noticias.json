@@ -1,5 +1,581 @@
 [
   {
+    "id": "la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m",
+    "url": "/villaviciosa/la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Rodiles acoge el final del proyecto BluePoint",
+    "entradilla": "Setenta escolares pusieron punto final al proyecto europeo de concienciación sobre la basura marina con una jornada en la playa de Rodiles.",
+    "cuerpo": [
+      "La playa de Rodiles fue el escenario elegido para cerrar BluePoint, un proyecto europeo centrado en el problema de los residuos en el mar. La actividad reunió a setenta escolares que participaron en la jornada de sensibilización.",
+      "El objetivo era acercar a los más jóvenes a una realidad que afecta directamente a la costa de Villaviciosa: lo que llega al mar no desaparece, y Rodiles lo sabe bien."
+    ],
+    "apunte": "Setenta chavales aprendiendo que el mar no es un cubo de basura: no está mal como lección final.",
+    "enVeinte": [
+      "La playa de Rodiles acogió el cierre del proyecto europeo BluePoint, dedicado a concienciar sobre la basura marina.",
+      "Setenta escolares participaron en la jornada final de sensibilización.",
+      "El proyecto busca que los jóvenes tomen conciencia del impacto de los residuos en el mar."
+    ],
+    "cifra": {
+      "numero": "70",
+      "unidad": "escolares",
+      "glosa": "Setenta estudiantes tomaron parte en la jornada de cierre de BluePoint en Rodiles. Es el número de jóvenes a los que el proyecto europeo llegó directamente en esta última actividad."
+    },
+    "palabra": null,
+    "porQue": "Rodiles es una de las playas más valoradas del concejo y del oriente asturiano; que un proyecto europeo la elija para hablar de basura marina pone el foco en un problema que afecta a todo el litoral de Villaviciosa.",
+    "etiquetas": [
+      "Rodiles",
+      "BluePoint",
+      "medio ambiente",
+      "escolares"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Playa de Rodiles, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/23/villaviciosa-rodiles-RX4fQurrZbJPM8rA1AS90vI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-23T15:48:20.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/playa-rodiles-parada-final-proyecto-europeo-cuidar-20261023174820-nt.html",
+      "titularOriginal": "La playa de Rodiles, parada final del proyecto europeo para cuidar la mar BluePoint"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Rodiles hosts the closing event of the BluePoint project",
+        "entradilla": "Seventy schoolchildren brought the European marine litter awareness project to a close with a day at Rodiles beach.",
+        "cuerpo": [
+          "Rodiles beach was the setting chosen to wrap up BluePoint, a European project focused on the problem of waste at sea. The event brought together seventy schoolchildren who took part in the awareness day.",
+          "The aim was to bring younger generations closer to a reality that directly affects the Villaviciosa coastline: what reaches the sea does not disappear, and Rodiles knows that all too well."
+        ],
+        "apunte": "Seventy kids learning that the sea is not a rubbish bin: not a bad final lesson.",
+        "enVeinte": [
+          "Rodiles beach hosted the closing event of BluePoint, a European project dedicated to raising awareness about marine litter.",
+          "Seventy schoolchildren took part in the final awareness day.",
+          "The project aims to make young people aware of the impact of waste at sea."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "schoolchildren",
+          "glosa": "Seventy students took part in the BluePoint closing event at Rodiles. That is the number of young people the European project reached directly in this final activity."
+        },
+        "palabra": null,
+        "porQue": "Rodiles is one of the most highly regarded beaches in the municipality and in eastern Asturias; a European project choosing it to address marine litter shines a light on a problem that affects the entire Villaviciosa coastline.",
+        "lugar": "Playa de Rodiles, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Rodiles accueille la clôture du projet BluePoint",
+        "entradilla": "Soixante-dix écoliers ont mis un point final au projet européen de sensibilisation aux déchets marins lors d'une journée sur la plage de Rodiles.",
+        "cuerpo": [
+          "La plage de Rodiles a été choisie pour clore BluePoint, un projet européen consacré au problème des déchets en mer. La journée a rassemblé soixante-dix écoliers qui ont participé à cette action de sensibilisation.",
+          "L'objectif était de rapprocher les plus jeunes d'une réalité qui touche directement le littoral de Villaviciosa : ce qui arrive à la mer ne disparaît pas, et Rodiles le sait bien."
+        ],
+        "apunte": "Soixante-dix enfants qui apprennent que la mer n'est pas une poubelle : pas mal comme leçon finale.",
+        "enVeinte": [
+          "La plage de Rodiles a accueilli la clôture de BluePoint, un projet européen dédié à la sensibilisation aux déchets marins.",
+          "Soixante-dix écoliers ont participé à la journée finale de sensibilisation.",
+          "Le projet vise à faire prendre conscience aux jeunes de l'impact des déchets en mer."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "écoliers",
+          "glosa": "Soixante-dix élèves ont participé à la journée de clôture de BluePoint à Rodiles. C'est le nombre de jeunes que le projet européen a touchés directement lors de cette dernière activité."
+        },
+        "palabra": null,
+        "porQue": "Rodiles est l'une des plages les plus appréciées de la commune et de l'est des Asturies ; qu'un projet européen la choisisse pour parler de déchets marins met en lumière un problème qui concerne l'ensemble du littoral de Villaviciosa.",
+        "lugar": "Playa de Rodiles, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Rodiles ist Schauplatz des Abschlusses des Projekts BluePoint",
+        "entradilla": "Siebzig Schulkinder setzten dem europäischen Sensibilisierungsprojekt zum Thema Meeresmüll mit einem Tag am Strand von Rodiles einen Schlusspunkt.",
+        "cuerpo": [
+          "Der Strand von Rodiles war der gewählte Schauplatz für den Abschluss von BluePoint, einem europäischen Projekt zum Problem von Abfällen im Meer. Die Veranstaltung brachte siebzig Schulkinder zusammen, die an dem Sensibilisierungstag teilnahmen.",
+          "Ziel war es, die Jüngsten an eine Realität heranzuführen, die die Küste von Villaviciosa unmittelbar betrifft: Was ins Meer gelangt, verschwindet nicht — und Rodiles weiß das nur zu gut."
+        ],
+        "apunte": "Siebzig Kinder lernen, dass das Meer kein Mülleimer ist: keine schlechte Abschlusslektion.",
+        "enVeinte": [
+          "Der Strand von Rodiles war Gastgeber des Abschlusses von BluePoint, einem europäischen Projekt zur Sensibilisierung für Meeresmüll.",
+          "Siebzig Schulkinder nahmen am abschließenden Sensibilisierungstag teil.",
+          "Das Projekt soll junge Menschen für die Auswirkungen von Abfällen im Meer sensibilisieren."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "Schulkinder",
+          "glosa": "Siebzig Schülerinnen und Schüler nahmen an der Abschlussveranstaltung von BluePoint in Rodiles teil. Das ist die Zahl der Jugendlichen, die das europäische Projekt bei dieser letzten Aktivität direkt erreicht hat."
+        },
+        "palabra": null,
+        "porQue": "Rodiles ist einer der angesehensten Strände der Gemeinde und des östlichen Asturiens; dass ein europäisches Projekt ihn wählt, um über Meeresmüll zu sprechen, lenkt den Blick auf ein Problem, das die gesamte Küste von Villaviciosa betrifft.",
+        "lugar": "Playa de Rodiles, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "alejandro-vega-anuncia-un-impulso-a-la-reforma-y-mejora-administrativa",
+    "url": "/villaviciosa/alejandro-vega-anuncia-un-impulso-a-la-reforma-y-mejora-administrativa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Vega promete modernizar el Ayuntamiento de Villaviciosa",
+    "entradilla": "El alcalde aprovechó la toma de posesión del nuevo secretario municipal para anunciar cambios en la gestión.",
+    "cuerpo": [
+      "Alejandro Vega presentó su intención de reformar y mejorar el funcionamiento administrativo del Ayuntamiento de Villaviciosa durante el acto en que el nuevo secretario municipal tomó posesión del cargo.",
+      "El anuncio no llegó con detalles concretos: ni plazos, ni medidas específicas, ni cifras. Por ahora es una declaración de intenciones."
+    ],
+    "apunte": "Buenas palabras en un acto solemne. El tiempo dirá si hay obras.",
+    "enVeinte": [
+      "El alcalde de Villaviciosa, Alejandro Vega, anunció un impulso a la reforma administrativa del ayuntamiento.",
+      "Lo hizo durante la toma de posesión del nuevo secretario municipal.",
+      "No trascendieron medidas concretas ni plazos."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si la reforma se concreta, los vecinos podrían notar mejoras en la agilidad de los trámites municipales cotidianos.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Ayuntamiento",
+      "Alejandro Vega",
+      "administración"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/23/2026102317360547344.jpg",
+    "fecha": "2026-10-23T15:40:14.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/alejandro-vega-anuncia-reforma-mejora-administrativa-villaviciosa/20261023174014104881.html",
+      "titularOriginal": "Alejandro Vega anuncia un impulso a la reforma y mejora administrativa del Ayuntamiento de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Vega promises to modernise Villaviciosa council",
+        "entradilla": "The mayor used the swearing-in of the new municipal secretary to announce changes in management.",
+        "cuerpo": [
+          "Alejandro Vega set out his intention to reform and improve the administrative workings of Villaviciosa council during the ceremony in which the new municipal secretary took up the post.",
+          "The announcement came without concrete details: no deadlines, no specific measures, no figures. For now it is a statement of intent."
+        ],
+        "apunte": "Fine words at a solemn occasion. Time will tell whether there is action to follow.",
+        "enVeinte": [
+          "The mayor of Villaviciosa, Alejandro Vega, announced a push to reform the council's administration.",
+          "He did so during the swearing-in of the new municipal secretary.",
+          "No concrete measures or deadlines were made public."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If the reform takes shape, residents could notice improvements in the speed of everyday council procedures.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Vega promet de moderniser la mairie de Villaviciosa",
+        "entradilla": "Le maire a profité de l'installation du nouveau secrétaire municipal pour annoncer des changements dans la gestion.",
+        "cuerpo": [
+          "Alejandro Vega a présenté son intention de réformer et d'améliorer le fonctionnement administratif de la mairie de Villaviciosa lors de la cérémonie d'installation du nouveau secrétaire municipal.",
+          "L'annonce n'a pas été accompagnée de détails concrets : ni délais, ni mesures précises, ni chiffres. Pour l'heure, il s'agit d'une déclaration d'intentions."
+        ],
+        "apunte": "De belles paroles lors d'un acte solennel. Le temps dira s'il y a des actes.",
+        "enVeinte": [
+          "Le maire de Villaviciosa, Alejandro Vega, a annoncé une impulsion en faveur de la réforme administrative de la mairie.",
+          "Il l'a fait lors de l'installation du nouveau secrétaire municipal.",
+          "Aucune mesure concrète ni aucun délai n'ont filtré."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si la réforme se concrétise, les habitants pourraient constater une amélioration dans la rapidité des démarches municipales du quotidien.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Vega verspricht Modernisierung des Rathauses von Villaviciosa",
+        "entradilla": "Der Bürgermeister nutzte die Amtseinführung des neuen Gemeindeschreibers, um Änderungen in der Verwaltung anzukündigen.",
+        "cuerpo": [
+          "Alejandro Vega stellte während der Zeremonie, in der der neue Gemeindeschreiber sein Amt antrat, seine Absicht vor, die Verwaltungsabläufe des Rathauses von Villaviciosa zu reformieren und zu verbessern.",
+          "Die Ankündigung enthielt keine konkreten Details: weder Fristen noch spezifische Maßnahmen noch Zahlen. Vorerst handelt es sich um eine Absichtserklärung."
+        ],
+        "apunte": "Schöne Worte bei einem feierlichen Anlass. Die Zeit wird zeigen, ob Taten folgen.",
+        "enVeinte": [
+          "Der Bürgermeister von Villaviciosa, Alejandro Vega, kündigte einen Vorstoß zur Verwaltungsreform des Rathauses an.",
+          "Er tat dies während der Amtseinführung des neuen Gemeindeschreibers.",
+          "Konkrete Maßnahmen oder Fristen wurden nicht bekannt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Sollte die Reform Gestalt annehmen, könnten die Einwohner Verbesserungen bei der Abwicklung alltäglicher Gemeindeangelegenheiten spüren.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la toma de posesion del nuevo secretario municipal"
+    ]
+  },
+  {
+    "id": "villaviciosa-cubre-el-puesto-de-secretario-general-clave-para-acabar-c",
+    "url": "/villaviciosa/villaviciosa-cubre-el-puesto-de-secretario-general-clave-para-acabar-c/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa cubre el puesto de secretario general",
+    "entradilla": "El alcalde apuesta por esta incorporación para acabar con los retrasos en la tramitación de licencias.",
+    "cuerpo": [
+      "Anxelo Estévez Torres ha tomado posesión del cargo de secretario general del Ayuntamiento de Villaviciosa, un puesto que el alcalde considera decisivo para desatascar una administración local que acumula demoras que él mismo ha calificado de injustificables.",
+      "La incorporación llega con el objetivo declarado de darle un nuevo ritmo al consistorio, especialmente en todo lo que tiene que ver con la concesión de licencias, donde los vecinos llevan tiempo esperando respuestas que no llegan."
+    ],
+    "apunte": "Cuando una plaza lleva tiempo vacía, su ausencia se nota en el buzón de cada vecino que espera un papel.",
+    "enVeinte": [
+      "Anxelo Estévez Torres ya es el nuevo secretario general del Ayuntamiento de Villaviciosa.",
+      "El alcalde espera que este fichaje agilice la tramitación de licencias, que venía sufriendo retrasos.",
+      "El propio regidor había calificado esas demoras de injustificables."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si la apuesta del alcalde funciona, quienes lleven meses esperando una licencia para reformar casa o abrir un negocio podrían empezar a ver movimiento en su expediente.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Ayuntamiento",
+      "licencias",
+      "administración"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/23/secretario-villaviciosa-R3goHm4WhDEo7YLR12gPHZO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-23T15:35:58.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-cubre-puesto-secretario-general-clave-acabar-20261023171418-nt.html",
+      "titularOriginal": "Villaviciosa cubre el puesto de secretario general, clave para acabar con los retrasos «injustificables» en las licencias"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa fills the post of secretary general",
+        "entradilla": "The mayor is counting on this appointment to put an end to delays in the processing of licences.",
+        "cuerpo": [
+          "Anxelo Estévez Torres has taken up the post of secretary general of the Villaviciosa council, a position the mayor considers decisive for unblocking a local administration that has built up delays he himself has described as unjustifiable.",
+          "The appointment comes with the stated aim of giving the council a new pace, particularly in everything related to the granting of licences, where residents have long been waiting for answers that never come."
+        ],
+        "apunte": "When a post has been vacant for a long time, its absence is felt in the letterbox of every resident waiting for a document.",
+        "enVeinte": [
+          "Anxelo Estévez Torres is now the new secretary general of the Villaviciosa council.",
+          "The mayor hopes this hire will speed up the processing of licences, which had been suffering delays.",
+          "The mayor himself had described those delays as unjustifiable."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If the mayor's bet pays off, those who have been waiting months for a licence to renovate their home or open a business could start to see movement in their file.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa pourvoit le poste de secrétaire général",
+        "entradilla": "Le maire mise sur cette nomination pour mettre fin aux retards dans le traitement des permis.",
+        "cuerpo": [
+          "Anxelo Estévez Torres a pris ses fonctions de secrétaire général de la mairie de Villaviciosa, un poste que le maire considère décisif pour débloquer une administration locale qui accumule des retards qu'il a lui-même qualifiés d'injustifiables.",
+          "Cette nomination a pour objectif déclaré de donner un nouveau rythme à la mairie, notamment en ce qui concerne la délivrance des permis, où les habitants attendent depuis longtemps des réponses qui ne viennent pas."
+        ],
+        "apunte": "Quand un poste reste vacant longtemps, son absence se fait sentir dans la boîte aux lettres de chaque habitant qui attend un document.",
+        "enVeinte": [
+          "Anxelo Estévez Torres est désormais le nouveau secrétaire général de la mairie de Villaviciosa.",
+          "Le maire espère que cette recrue accélérera le traitement des permis, qui accusait des retards.",
+          "Le maire lui-même avait qualifié ces retards d'injustifiables."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si le pari du maire fonctionne, ceux qui attendent depuis des mois un permis pour rénover leur logement ou ouvrir un commerce pourraient commencer à voir leur dossier avancer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa besetzt die Stelle des Generalsekretärs",
+        "entradilla": "Der Bürgermeister setzt auf diese Ernennung, um die Verzögerungen bei der Bearbeitung von Genehmigungen zu beenden.",
+        "cuerpo": [
+          "Anxelo Estévez Torres hat das Amt des Generalsekretärs des Rathauses von Villaviciosa angetreten, eine Stelle, die der Bürgermeister für entscheidend hält, um eine Kommunalverwaltung zu entblockieren, die Verzögerungen angehäuft hat, die er selbst als nicht zu rechtfertigen bezeichnet hat.",
+          "Die Ernennung verfolgt das erklärte Ziel, dem Rathaus ein neues Tempo zu verleihen, insbesondere bei allem, was mit der Erteilung von Genehmigungen zusammenhängt, wo die Einwohner seit Langem auf Antworten warten, die nicht eintreffen."
+        ],
+        "apunte": "Wenn eine Stelle lange unbesetzt bleibt, macht sich ihre Abwesenheit im Briefkasten jedes Einwohners bemerkbar, der auf ein Dokument wartet.",
+        "enVeinte": [
+          "Anxelo Estévez Torres ist nun der neue Generalsekretär des Rathauses von Villaviciosa.",
+          "Der Bürgermeister hofft, dass diese Neubesetzung die Bearbeitung von Genehmigungen beschleunigt, die unter Verzögerungen gelitten hatte.",
+          "Der Bürgermeister selbst hatte diese Verzögerungen als nicht zu rechtfertigen bezeichnet."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wenn die Strategie des Bürgermeisters aufgeht, könnten diejenigen, die seit Monaten auf eine Genehmigung für einen Hausumbau oder eine Geschäftseröffnung warten, endlich Bewegung in ihrem Vorgang sehen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-ayuntamiento-de-nava-acomete-obras-para-mejorar-el-firme-en-varias-",
+    "url": "/nava/el-ayuntamiento-de-nava-acomete-obras-para-mejorar-el-firme-en-varias-/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "Nava repara caminos antes del invierno",
+    "entradilla": "Cinco operarios llevan un mes remendando pistas en varios puntos del concejo, con actuaciones recientes junto al polideportivo y en Buyeres.",
+    "cuerpo": [
+      "El Ayuntamiento de Nava ha puesto en marcha trabajos de rebacheo en distintas pistas del municipio. Este mes se han extendido por varias zonas, y este viernes los operarios estuvieron en el acceso al polideportivo municipal y en la localidad de Buyeres.",
+      "La idea es dejar las vías en buen estado antes de que llegue el frío, que suele castigar con dureza el firme. El equipo que ejecuta los trabajos es de cinco personas.",
+      "Estos arreglos se suman al plan anual de caminos del concejo, que ya ha actuado en cerca de seis pistas a lo largo del año."
+    ],
+    "apunte": "Mejor tapar baches en octubre que en enero con los pies empapados.",
+    "enVeinte": [
+      "El Ayuntamiento de Nava lleva un mes arreglando el firme de varias pistas del concejo.",
+      "Este viernes los trabajos llegaron al acceso al polideportivo municipal y a la localidad de Buyeres.",
+      "Los rebacheos se complementan con el plan anual de caminos, que ya ha intervenido en una media docena de pistas."
+    ],
+    "cifra": {
+      "numero": "5",
+      "unidad": "operarios",
+      "glosa": "Son las personas que ejecutan estos trabajos de rebacheo en las pistas de Nava. Un equipo pequeño para un concejo con muchos kilómetros de caminos rurales que mantener."
+    },
+    "palabra": {
+      "termino": "rebacheo",
+      "como": "re-ba-che-o",
+      "definicion": "Reparación puntual de los baches y deterioros del firme de una carretera o pista. No es una obra integral, sino un remiendo técnico para devolver la superficie al estado correcto."
+    },
+    "porQue": "Quien use las pistas rurales de Nava —para ir al polideportivo, al campo o a Buyeres— notará el asfalto en mejor estado antes de que las heladas y la lluvia del invierno lo pongan todo peor.",
+    "etiquetas": [
+      "obras",
+      "caminos",
+      "Nava",
+      "infraestructuras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261023130240_RTPA8758259.webp",
+    "fecha": "2026-10-23T13:09:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-23/El-ayuntamiento-de-Nava-acomete-obras-para-mejorar-el-firme-en-varias-pistas-del-concejo_111792754015.html",
+      "titularOriginal": "El Ayuntamiento de Nava acomete obras para mejorar el firme en varias pistas del concejo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava repairs roads before winter",
+        "entradilla": "Five workers have spent a month patching tracks at several points across the municipality, with recent work near the sports centre and in Buyeres.",
+        "cuerpo": [
+          "Nava council has launched pothole-repair work on various tracks across the municipality. This month the work has spread to several areas, and on Friday the workers were at the access road to the municipal sports centre and in the village of Buyeres.",
+          "The aim is to leave the roads in good condition before the cold arrives, which tends to damage road surfaces badly. The team carrying out the work consists of five people.",
+          "These repairs are added to the municipality's annual road plan, which has already worked on around six tracks throughout the year."
+        ],
+        "apunte": "Better to fill potholes in October than in January with soaking wet feet.",
+        "enVeinte": [
+          "Nava council has spent a month repairing the surface of various tracks in the municipality.",
+          "On Friday the work reached the access road to the municipal sports centre and the village of Buyeres.",
+          "The pothole repairs complement the annual road plan, which has already worked on around half a dozen tracks."
+        ],
+        "cifra": {
+          "numero": "5",
+          "unidad": "workers",
+          "glosa": "These are the people carrying out the pothole-repair work on Nava's tracks. A small team for a municipality with many kilometres of rural roads to maintain."
+        },
+        "palabra": {
+          "termino": "rebacheo",
+          "como": "re-ba-che-o",
+          "definicion": "Targeted repair of potholes and surface damage on a road or track. It is not a full resurfacing job, but a technical patch to restore the surface to proper condition."
+        },
+        "porQue": "Anyone who uses the rural tracks of Nava — to get to the sports centre, the countryside or Buyeres — will notice the tarmac in better shape before frost and winter rain make everything worse.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava remet en état ses chemins avant l'hiver",
+        "entradilla": "Cinq ouvriers passent un mois à boucher les nids-de-poule sur plusieurs pistes de la commune, avec des interventions récentes près du complexe sportif et à Buyeres.",
+        "cuerpo": [
+          "La mairie de Nava a lancé des travaux de rebouchage sur différentes pistes de la commune. Ce mois-ci, les travaux se sont étendus à plusieurs zones, et vendredi les ouvriers étaient sur la voie d'accès au complexe sportif municipal et dans le village de Buyeres.",
+          "L'objectif est de laisser les voies en bon état avant l'arrivée du froid, qui abîme généralement sévèrement les revêtements. L'équipe qui réalise les travaux compte cinq personnes.",
+          "Ces réparations s'ajoutent au plan annuel de voirie de la commune, qui est déjà intervenu sur une dizaine de pistes au cours de l'année."
+        ],
+        "apunte": "Mieux vaut boucher les nids-de-poule en octobre qu'en janvier les pieds trempés.",
+        "enVeinte": [
+          "La mairie de Nava passe un mois à réparer le revêtement de plusieurs pistes de la commune.",
+          "Vendredi, les travaux ont atteint l'accès au complexe sportif municipal et le village de Buyeres.",
+          "Ces réparations complètent le plan annuel de voirie, qui est déjà intervenu sur une demi-douzaine de pistes."
+        ],
+        "cifra": {
+          "numero": "5",
+          "unidad": "ouvriers",
+          "glosa": "Ce sont les personnes qui réalisent ces travaux de rebouchage sur les pistes de Nava. Une petite équipe pour une commune qui compte de nombreux kilomètres de chemins ruraux à entretenir."
+        },
+        "palabra": {
+          "termino": "rebacheo",
+          "como": "re-ba-che-o",
+          "definicion": "Réparation ciblée des nids-de-poule et des dégradations du revêtement d'une route ou d'une piste. Il ne s'agit pas d'un chantier complet, mais d'un ragréage technique pour remettre la surface en état correct."
+        },
+        "porQue": "Quiconque emprunte les pistes rurales de Nava — pour se rendre au complexe sportif, à la campagne ou à Buyeres — trouvera l'asphalte en meilleur état avant que le gel et les pluies hivernales n'aggravent la situation.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava repariert Wege vor dem Winter",
+        "entradilla": "Fünf Arbeiter flicken seit einem Monat Schlaglöcher auf verschiedenen Pisten in der Gemeinde, zuletzt am Sportzentrum und in Buyeres.",
+        "cuerpo": [
+          "Das Rathaus von Nava hat Ausbesserungsarbeiten auf verschiedenen Pisten der Gemeinde gestartet. In diesem Monat haben sich die Arbeiten auf mehrere Gebiete ausgedehnt, und am Freitag waren die Arbeiter am Zugang zum städtischen Sportzentrum und im Ort Buyeres im Einsatz.",
+          "Ziel ist es, die Wege in gutem Zustand zu hinterlassen, bevor die Kälte einsetzt, die den Belag erfahrungsgemäß hart trifft. Das Ausführungsteam besteht aus fünf Personen.",
+          "Diese Reparaturen ergänzen den jährlichen Wegeplan der Gemeinde, der im Laufe des Jahres bereits auf rund sechs Pisten tätig war."
+        ],
+        "apunte": "Schlaglöcher im Oktober zu flicken ist besser als im Januar mit nassen Füßen.",
+        "enVeinte": [
+          "Das Rathaus von Nava repariert seit einem Monat den Belag verschiedener Pisten in der Gemeinde.",
+          "Am Freitag erreichten die Arbeiten den Zugang zum städtischen Sportzentrum und den Ort Buyeres.",
+          "Die Ausbesserungen ergänzen den jährlichen Wegeplan, der bereits auf einem halben Dutzend Pisten tätig war."
+        ],
+        "cifra": {
+          "numero": "5",
+          "unidad": "Arbeiter",
+          "glosa": "Das sind die Personen, die diese Ausbesserungsarbeiten auf den Pisten von Nava durchführen. Ein kleines Team für eine Gemeinde mit vielen Kilometern ländlicher Wege, die gepflegt werden müssen."
+        },
+        "palabra": {
+          "termino": "rebacheo",
+          "como": "re-ba-che-o",
+          "definicion": "Gezielte Reparatur von Schlaglöchern und Oberflächenschäden auf einer Straße oder Piste. Es handelt sich nicht um eine vollständige Erneuerung, sondern um eine technische Ausbesserung, um den Belag wieder in den richtigen Zustand zu versetzen."
+        },
+        "porQue": "Wer die ländlichen Pisten von Nava benutzt — zum Sportzentrum, aufs Feld oder nach Buyeres — wird den Asphalt in besserem Zustand vorfinden, bevor Frost und Winterregen alles noch schlimmer machen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "hevia-le-pone-musica-a-la-fiesta-de-santa-ana-con-un-videoclip-rodado-",
+    "url": "/villaviciosa/hevia-le-pone-musica-a-la-fiesta-de-santa-ana-con-un-videoclip-rodado-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Hevia estrena videoclip para la fiesta de Santa Ana",
+    "entradilla": "El gaitero de Maliayo grabó 'Danza de Santa Ana' en Llanes junto a la Cofradía que acaba de ganar el premio Pueblo Ejemplar 2026.",
+    "cuerpo": [
+      "El gaitero maliayo Hevia publica un nuevo videoclip titulado 'Danza de Santa Ana', rodado en Llanes con la Cofradía de Pescadores llanisca, que acaba de ser reconocida como Pueblo Ejemplar 2026.",
+      "El tema llega como adelanto de su próximo trabajo y coincide con el momento en que la cofradía recibe ese galardón."
+    ],
+    "apunte": "La gaita de Maliayo llega a Llanes justo a tiempo para el brindis.",
+    "enVeinte": [
+      "El gaitero Hevia ha publicado 'Danza de Santa Ana', un videoclip rodado en Llanes junto a la Cofradía de Pescadores.",
+      "El tema es un adelanto de su nuevo trabajo discográfico y se estrena cerca de la fecha en que la cofradía recibe el premio Pueblo Ejemplar 2026.",
+      "La pieza conecta la fiesta de Santa Ana de Villaviciosa con el reconocimiento a los pescadores llaniscos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliayo",
+      "como": "ma-LIA-yo",
+      "definicion": "Gentilicio con el que se conoce a los naturales de Villaviciosa. Viene de Maliayo, el nombre histórico asturiano del concejo."
+    },
+    "porQue": "Un artista de casa lleva la música de la fiesta mayor de Villaviciosa hasta Llanes y le da visibilidad regional justo cuando sus vecinos pesqueros reciben uno de los premios más importantes de Asturias.",
+    "etiquetas": [
+      "Hevia",
+      "Santa Ana",
+      "Llanes",
+      "Pueblo Ejemplar"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Llanes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/23/2026102312084089520.jpg",
+    "fecha": "2026-10-23T13:00:00.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/cultura/hevia-fiesta-santa-ana-videoclip-llanes/20261023121410104874.html",
+      "titularOriginal": "Hevia le pone música a la fiesta de Santa Ana con un videoclip rodado en Llanes junto a la Cofradía, Pueblo Ejemplar 2026"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Hevia releases a new music video for the Santa Ana festival",
+        "entradilla": "The piper from Maliayo recorded 'Danza de Santa Ana' in Llanes alongside the Cofradía that has just won the Pueblo Ejemplar 2026 award.",
+        "cuerpo": [
+          "Maliayo piper Hevia has released a new music video titled 'Danza de Santa Ana', filmed in Llanes with the Cofradía de Pescadores llanisca, which has just been named Pueblo Ejemplar 2026.",
+          "The track arrives as a preview of his upcoming album and coincides with the moment the cofradía receives that award."
+        ],
+        "apunte": "The gaita (bagpipe) from Maliayo reaches Llanes just in time for the toast.",
+        "enVeinte": [
+          "Piper Hevia has released 'Danza de Santa Ana', a music video filmed in Llanes alongside the Cofradía de Pescadores.",
+          "The track is a preview of his new album and is released close to the date on which the cofradía receives the Pueblo Ejemplar 2026 award.",
+          "The piece connects the Santa Ana festival of Villaviciosa with the recognition given to the fishermen of Llanes."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo",
+          "definicion": "The demonym used for people from Villaviciosa. It comes from Maliayo, the historical Asturian name for the municipality."
+        },
+        "porQue": "A local artist brings the music of Villaviciosa's main festival to Llanes, giving it regional visibility just as his fishing neighbours receive one of the most important awards in Asturias.",
+        "lugar": "Llanes",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Hevia sort un nouveau clip pour la fête de Santa Ana",
+        "entradilla": "Le cornemuseur de Maliayo a tourné 'Danza de Santa Ana' à Llanes aux côtés de la Cofradía qui vient de remporter le prix Pueblo Ejemplar 2026.",
+        "cuerpo": [
+          "Le cornemuseur maliayo Hevia publie un nouveau clip intitulé 'Danza de Santa Ana', tourné à Llanes avec la Cofradía de Pescadores llanisca, qui vient d'être désignée Pueblo Ejemplar 2026.",
+          "Le titre arrive en avant-première de son prochain album et coïncide avec le moment où la cofradía reçoit cette distinction."
+        ],
+        "apunte": "La gaita (cornemuse asturienne) de Maliayo arrive à Llanes juste à temps pour le toast.",
+        "enVeinte": [
+          "Le cornemuseur Hevia a publié 'Danza de Santa Ana', un clip tourné à Llanes aux côtés de la Cofradía de Pescadores.",
+          "Le titre est un avant-goût de son nouvel album et sort peu avant la date à laquelle la cofradía reçoit le prix Pueblo Ejemplar 2026.",
+          "La pièce relie la fête de Santa Ana de Villaviciosa à la reconnaissance accordée aux pêcheurs de Llanes."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo",
+          "definicion": "Le gentilé désignant les habitants de Villaviciosa. Il vient de Maliayo, le nom historique asturien de la commune."
+        },
+        "porQue": "Un artiste du cru porte la musique de la fête principale de Villaviciosa jusqu'à Llanes et lui offre un rayonnement régional au moment même où ses voisins pêcheurs reçoivent l'un des prix les plus importants des Asturies.",
+        "lugar": "Llanes",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Hevia veröffentlicht neues Musikvideo zum Santa-Ana-Fest",
+        "entradilla": "Der Dudelsackspieler aus Maliayo drehte 'Danza de Santa Ana' in Llanes gemeinsam mit der Cofradía, die soeben den Preis Pueblo Ejemplar 2026 gewonnen hat.",
+        "cuerpo": [
+          "Der maliayo Dudelsackspieler Hevia veröffentlicht ein neues Musikvideo mit dem Titel 'Danza de Santa Ana', gedreht in Llanes mit der Cofradía de Pescadores llanisca, die soeben als Pueblo Ejemplar 2026 ausgezeichnet wurde.",
+          "Der Titel erscheint als Vorgeschmack auf sein kommendes Album und fällt mit dem Moment zusammen, in dem die Cofradía diese Auszeichnung erhält."
+        ],
+        "apunte": "Die Gaita (asturischer Dudelsack) aus Maliayo erreicht Llanes gerade rechtzeitig für den Trinkspruch.",
+        "enVeinte": [
+          "Dudelsackspieler Hevia hat 'Danza de Santa Ana' veröffentlicht, ein Musikvideo, das in Llanes gemeinsam mit der Cofradía de Pescadores gedreht wurde.",
+          "Der Titel ist ein Vorgeschmack auf sein neues Album und erscheint kurz vor dem Datum, an dem die Cofradía den Preis Pueblo Ejemplar 2026 erhält.",
+          "Das Stück verbindet das Santa-Ana-Fest von Villaviciosa mit der Anerkennung, die den Fischern aus Llanes zuteilwird."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo",
+          "definicion": "Das Demonym für die Einwohner von Villaviciosa. Es leitet sich von Maliayo ab, dem historischen asturischen Namen der Gemeinde."
+        },
+        "porQue": "Ein einheimischer Künstler trägt die Musik des Hauptfestes von Villaviciosa bis nach Llanes und verleiht ihr regionale Sichtbarkeit, genau in dem Moment, in dem seine Fischer-Nachbarn eine der bedeutendsten Auszeichnungen Asturiens erhalten.",
+        "lugar": "Llanes",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem",
     "url": "/villaviciosa/bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem/",
     "concejo": "Villaviciosa",
@@ -8856,282 +9432,6 @@
         "palabra": null,
         "porQue": "Ab Mittwoch haben die Bewohner der Gemeinde Piloña eine wissenschafts- und geschichtsgeschichtliche Ausstellung vor Ort – ohne in größere Städte fahren zu müssen.",
         "lugar": "El Prial, Infiesto",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "noticia-apple-day",
-    "url": "/villaviciosa/noticia-apple-day/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "agenda",
-    "titular": "Villaviciosa celebra la manzana hasta el 23",
-    "entradilla": "Diez días de actividades unen sidra, literatura y tradición en la capital manzanera de España.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha puesto en marcha un programa de actos para conmemorar el Día Internacional de la Manzana. Las propuestas, organizadas junto a varias entidades, arrancan el 13 de octubre y llegan hasta el día 23.",
-      "La primera cita fue el martes 13 en la Casa de los Hevia, donde se reunió el jurado del I Certamen Literario Internacional 'Sidra de Autor', convocado por la Fundación Automáticos Tineo. La participación desbordó las previsiones: llegaron 520 relatos, 110 de ellos desde fuera de España.",
-      "El domingo 19 de octubre toca la Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, que cierra además el Calendariu Sidreru del municipio en su novena edición. El programa incluye también reparto de manzanas en colegios, exposiciones y rutas de sidraturismo."
-    ],
-    "apunte": "520 relatos sobre sidra llegados de medio mundo: la manzana tiene más fans de los que uno imagina.",
-    "enVeinte": [
-      "Villaviciosa celebra el Día Internacional de la Manzana con un programa de actos del 13 al 23 de octubre.",
-      "El certamen literario 'Sidra de Autor' recibió 520 relatos en su primera edición, 110 procedentes de fuera de España.",
-      "El domingo 19 se falla la Seleición de la Meyor Sidre Casero d'Asturies, cierre del Calendariu Sidreru del concejo."
-    ],
-    "cifra": {
-      "numero": "520",
-      "unidad": "relatos",
-      "glosa": "Es el número de textos que llegaron al I Certamen Literario Internacional 'Sidra de Autor' en su primera convocatoria. Que más de una quinta parte vengan del extranjero dice mucho del tirón que tiene la cultura sidrera asturiana más allá de los Pirineos."
-    },
-    "palabra": {
-      "termino": "sidraturismo",
-      "como": "si-dra-tu-ris-mo",
-      "definicion": "Turismo centrado en conocer de cerca el mundo de la sidra: visitas a llagares, recorridos por manzanales y catas. En concejos como Villaviciosa es una forma de poner en valor el paisaje y el oficio de toda la vida."
-    },
-    "porQue": "Si vives en Villaviciosa o sus alrededores, estos diez días traen actos gratuitos en el pueblo y una Seleición de sidra casera que premia la tradición de los de casa.",
-    "etiquetas": [
-      "Villaviciosa",
-      "manzana",
-      "sidra",
-      "Apple Day"
-    ],
-    "fechaEvento": "2026-10-13",
-    "tipoEvento": "gastro",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-13T14:39:37.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20059516",
-      "titularOriginal": "noticia: apple day",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa celebrates the apple until the 23rd",
-        "entradilla": "Ten days of events bring together cider, literature and tradition in Spain's apple capital.",
-        "cuerpo": [
-          "The council of Villaviciosa has launched a programme of events to mark the International Apple Day. The activities, organised together with several organisations, run from 13 October through to the 23rd.",
-          "The first event took place on Tuesday the 13th at the Casa de los Hevia, where the jury of the I Certamen Literario Internacional 'Sidra de Autor', organised by the Fundación Automáticos Tineo, held its meeting. Participation exceeded all expectations: 520 stories were submitted, 110 of them from outside Spain.",
-          "On Sunday 19 October it is the turn of the Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, which also closes the Calendariu Sidreru of the municipality in its ninth edition. The programme also includes apple distribution in schools, exhibitions and sidraturismo (cider-tourism) routes."
-        ],
-        "apunte": "520 stories about cider arrived from around the world: the apple has more fans than you might think.",
-        "enVeinte": [
-          "Villaviciosa is marking International Apple Day with a programme of events from 13 to 23 October.",
-          "The literary competition 'Sidra de Autor' received 520 stories in its first edition, 110 of them from outside Spain.",
-          "On Sunday the 19th the Seleición de la Meyor Sidre Casero d'Asturies is decided, closing the Calendariu Sidreru of the municipality."
-        ],
-        "cifra": {
-          "numero": "520",
-          "unidad": "stories",
-          "glosa": "That is the number of texts submitted to the I Certamen Literario Internacional 'Sidra de Autor' in its first edition. The fact that more than a fifth came from abroad says a great deal about the pull of Asturian cider culture beyond the Pyrenees."
-        },
-        "palabra": null,
-        "porQue": "If you live in Villaviciosa or the surrounding area, these ten days bring free events in town and a Seleición of homemade cider that honours local tradition.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa fête la pomme jusqu'au 23",
-        "entradilla": "Dix jours d'activités réunissent cidre, littérature et tradition dans la capitale espagnole de la pomme.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a lancé un programme de manifestations pour célébrer la Journée internationale de la Pomme. Les propositions, organisées en collaboration avec plusieurs entités, débutent le 13 octobre et se poursuivent jusqu'au 23.",
-          "Le premier rendez-vous a eu lieu le mardi 13 à la Casa de los Hevia, où s'est réuni le jury du I Certamen Literario Internacional «Sidra de Autor», organisé par la Fundación Automáticos Tineo. La participation a largement dépassé les prévisions : 520 nouvelles ont été reçues, dont 110 en provenance de l'étranger.",
-          "Le dimanche 19 octobre se tient la Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada, qui clôture également le Calendariu Sidreru de la commune dans sa neuvième édition. Le programme comprend aussi une distribution de pommes dans les écoles, des expositions et des itinéraires de sidraturismo (tourisme cidricole)."
-        ],
-        "apunte": "520 nouvelles sur le cidre venues des quatre coins du monde : la pomme a plus de fans qu'on ne le croit.",
-        "enVeinte": [
-          "Villaviciosa célèbre la Journée internationale de la Pomme avec un programme de manifestations du 13 au 23 octobre.",
-          "Le concours littéraire «Sidra de Autor» a reçu 520 nouvelles dès sa première édition, dont 110 en provenance de l'étranger.",
-          "Le dimanche 19, le jury rend son verdict pour la Seleición de la Meyor Sidre Casero d'Asturies, qui clôt le Calendariu Sidreru de la commune."
-        ],
-        "cifra": {
-          "numero": "520",
-          "unidad": "nouvelles",
-          "glosa": "C'est le nombre de textes reçus par le I Certamen Literario Internacional «Sidra de Autor» lors de sa première édition. Que plus d'un cinquième viennent de l'étranger en dit long sur le rayonnement de la culture cidricole asturienne au-delà des Pyrénées."
-        },
-        "palabra": null,
-        "porQue": "Si vous habitez à Villaviciosa ou aux alentours, ces dix jours proposent des manifestations gratuites dans la ville et une Seleición de cidre artisanal qui récompense la tradition locale.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa feiert den Apfel bis zum 23.",
-        "entradilla": "Zehn Tage lang verbinden Veranstaltungen Cidre, Literatur und Tradition in der Apfelhauptstadt Spaniens.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat ein Veranstaltungsprogramm zum Internationalen Tag des Apfels auf den Weg gebracht. Die Angebote, gemeinsam mit verschiedenen Einrichtungen organisiert, beginnen am 13. Oktober und reichen bis zum 23.",
-          "Der erste Termin fand am Dienstag, dem 13., im Casa de los Hevia statt, wo die Jury des I Certamen Literario Internacional «Sidra de Autor» zusammenkam – ausgeschrieben von der Fundación Automáticos Tineo. Die Beteiligung übertraf alle Erwartungen: 520 Erzählungen wurden eingereicht, davon 110 aus dem Ausland.",
-          "Am Sonntag, dem 19. Oktober, steht die Seleición de la Meyor Sidre Casero d'Asturies – Premios Mundo Collada auf dem Programm, die zugleich den Calendariu Sidreru der Gemeinde in seiner neunten Ausgabe abschließt. Das Programm umfasst außerdem eine Apfelverteilung in Schulen, Ausstellungen und Routen des sidraturismo (Cidre-Tourismus)."
-        ],
-        "apunte": "520 Erzählungen über Cidre aus aller Welt: Der Apfel hat mehr Fans, als man vermuten würde.",
-        "enVeinte": [
-          "Villaviciosa begeht den Internationalen Tag des Apfels mit einem Veranstaltungsprogramm vom 13. bis 23. Oktober.",
-          "Der Literaturwettbewerb «Sidra de Autor» erhielt in seiner ersten Ausgabe 520 Einreichungen, davon 110 aus dem Ausland.",
-          "Am Sonntag, dem 19., wird die Seleición de la Meyor Sidre Casero d'Asturies entschieden, mit der der Calendariu Sidreru der Gemeinde endet."
-        ],
-        "cifra": {
-          "numero": "520",
-          "unidad": "Erzählungen",
-          "glosa": "So viele Texte gingen beim I Certamen Literario Internacional «Sidra de Autor» in seiner ersten Ausschreibung ein. Dass mehr als ein Fünftel aus dem Ausland stammt, sagt viel über die Anziehungskraft der asturischen Cidre-Kultur jenseits der Pyrenäen."
-        },
-        "palabra": null,
-        "porQue": "Wer in Villaviciosa oder der näheren Umgebung wohnt, erwartet in diesen zehn Tagen kostenlose Veranstaltungen im Ort und eine Seleición von hausgemachtem Cidre, die die einheimische Tradition würdigt.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "jurado del i certamen literario internacional sidra de",
-      "del i certamen literario internacional sidra de autor",
-      "i certamen literario internacional sidra de autor convocado",
-      "certamen literario internacional sidra de autor convocado por",
-      "literario internacional sidra de autor convocado por la",
-      "internacional sidra de autor convocado por la fundacion",
-      "sidra de autor convocado por la fundacion automaticos",
-      "de autor convocado por la fundacion automaticos tineo",
-      "la seleicion de la meyor sidre casero d",
-      "seleicion de la meyor sidre casero d asturies",
-      "de la meyor sidre casero d asturies premios",
-      "la meyor sidre casero d asturies premios mundo",
-      "meyor sidre casero d asturies premios mundo collada",
-      "sidre casero d asturies premios mundo collada que"
-    ]
-  },
-  {
-    "id": "noticia-rom",
-    "url": "/villaviciosa/noticia-rom/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa abre el plazo para eliminar su reglamento municipal",
-    "entradilla": "Cualquier vecino puede presentar alegaciones durante los próximos treinta días hábiles antes de que el cambio sea definitivo.",
-    "cuerpo": [
-      "El pleno del Ayuntamiento de Villaviciosa aprobó el pasado 1 de octubre derogar el Reglamento Orgánico Municipal, el texto que regula el funcionamiento interno del propio consistorio.",
-      "Desde esa fecha corre un plazo de treinta días hábiles en el que cualquiera puede presentar alegaciones. Solo después de ese trámite el acuerdo podrá ser definitivo."
-    ],
-    "apunte": "Treinta días hábiles para opinar sobre la norma que nadie había leído, pero que regula a quienes sí mandan.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa quiere eliminar su Reglamento Orgánico Municipal.",
-      "El pleno lo aprobó inicialmente el 1 de octubre y ahora hay treinta días hábiles para presentar alegaciones.",
-      "Si no hay objeciones que lo impidan, la derogación quedará aprobada de forma definitiva."
-    ],
-    "cifra": {
-      "numero": "30",
-      "unidad": "días hábiles",
-      "glosa": "Es el tiempo que la ley reserva para que vecinos y entidades puedan oponerse o matizar una decisión municipal antes de que sea firme. Los días hábiles no cuentan fines de semana ni festivos, así que el plazo real supera el mes natural."
-    },
-    "palabra": {
-      "termino": "Reglamento Orgánico Municipal",
-      "como": "ROM, como se lo llama en los papeles del ayuntamiento",
-      "definicion": "Es la norma que cada ayuntamiento se da a sí mismo para regular cómo funcionan sus plenos, sus comisiones y los derechos de los concejales. Cada municipio puede tenerlo o no; Villaviciosa ha decidido prescindir del suyo."
-    },
-    "porQue": "Eliminar el ROM cambia las reglas del juego interno del consistorio: afecta a cómo se debaten y votan los asuntos que luego le llegan al vecino.",
-    "etiquetas": [
-      "Villaviciosa",
-      "ayuntamiento",
-      "reglamento",
-      "alegaciones"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-13T14:31:16.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20056857",
-      "titularOriginal": "noticia: ROM",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa opens the period to repeal its municipal bylaw",
-        "entradilla": "Any resident can submit objections during the next thirty working days before the change becomes final.",
-        "cuerpo": [
-          "The full council of Villaviciosa council voted on 1 October to repeal the Reglamento Orgánico Municipal, the text that governs the internal workings of the council itself.",
-          "From that date, a thirty-working-day period runs during which anyone may submit objections. Only after that process can the decision become final."
-        ],
-        "apunte": "Thirty working days to have a say on the rule nobody had read, but which governs those who do call the shots.",
-        "enVeinte": [
-          "Villaviciosa council wants to repeal its Reglamento Orgánico Municipal.",
-          "The full council gave initial approval on 1 October and there are now thirty working days to submit objections.",
-          "If no objections prevent it, the repeal will be definitively approved."
-        ],
-        "cifra": {
-          "numero": "30",
-          "unidad": "working days",
-          "glosa": "This is the time the law sets aside for residents and organisations to challenge or qualify a council decision before it becomes binding. Working days exclude weekends and public holidays, so the actual period extends beyond one calendar month."
-        },
-        "palabra": {
-          "termino": "Reglamento Orgánico Municipal",
-          "como": "ROM, as it is referred to in council documents",
-          "definicion": "The internal bylaw that each council draws up for itself to regulate how its full meetings and committees work, and what rights its councillors have. Each municipality may or may not have one; Villaviciosa has decided to do without its own."
-        },
-        "porQue": "Repealing the ROM changes the internal rules of the council: it affects how matters are debated and voted on before they reach the resident.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ouvre le délai pour abroger son règlement municipal",
-        "entradilla": "Tout habitant peut déposer des observations pendant les trente prochains jours ouvrables avant que le changement ne soit définitif.",
-        "cuerpo": [
-          "Le conseil municipal de la mairie de Villaviciosa a approuvé le 1er octobre l'abrogation du Reglamento Orgánico Municipal, le texte qui régit le fonctionnement interne de la mairie elle-même.",
-          "À compter de cette date, un délai de trente jours ouvrables court pendant lequel toute personne peut déposer des observations. Ce n'est qu'à l'issue de cette procédure que la décision pourra être définitive."
-        ],
-        "apunte": "Trente jours ouvrables pour donner son avis sur le règlement que personne n'avait lu, mais qui encadre ceux qui décident.",
-        "enVeinte": [
-          "La mairie de Villaviciosa souhaite abroger son Reglamento Orgánico Municipal.",
-          "Le conseil municipal l'a approuvé à titre initial le 1er octobre et il reste trente jours ouvrables pour déposer des observations.",
-          "En l'absence d'objections bloquantes, l'abrogation sera définitivement adoptée."
-        ],
-        "cifra": {
-          "numero": "30",
-          "unidad": "jours ouvrables",
-          "glosa": "C'est le délai que la loi réserve aux habitants et aux associations pour s'opposer à une décision municipale ou en nuancer la portée avant qu'elle ne soit exécutoire. Les jours ouvrables excluant les week-ends et les jours fériés, le délai réel dépasse un mois calendaire."
-        },
-        "palabra": {
-          "termino": "Reglamento Orgánico Municipal",
-          "como": "ROM, comme on l'appelle dans les documents de la mairie",
-          "definicion": "La norme interne que chaque mairie se donne pour régler le fonctionnement de ses séances plénières, de ses commissions et les droits de ses élus. Chaque commune peut en avoir un ou non ; Villaviciosa a décidé de supprimer le sien."
-        },
-        "porQue": "Abroger le ROM change les règles du jeu interne de la mairie : cela influe sur la façon dont les affaires sont débattues et votées avant d'affecter le quotidien des habitants.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa eröffnet die Frist zur Abschaffung seiner Gemeindeordnung",
-        "entradilla": "Jeder Einwohner kann innerhalb der nächsten dreißig Werktage Einwände einreichen, bevor die Änderung endgültig wird.",
-        "cuerpo": [
-          "Die Vollversammlung des Rathauses von Villaviciosa beschloss am 1. Oktober die Aufhebung des Reglamento Orgánico Municipal, des Textes, der die interne Funktionsweise des Rathauses selbst regelt.",
-          "Ab diesem Datum läuft eine Frist von dreißig Werktagen, innerhalb derer jedermann Einwände einreichen kann. Erst nach diesem Verfahren kann der Beschluss endgültig werden."
-        ],
-        "apunte": "Dreißig Werktage, um zu einer Vorschrift Stellung zu nehmen, die niemand gelesen hatte, die aber regelt, wie jene handeln, die das Sagen haben.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa möchte sein Reglamento Orgánico Municipal abschaffen.",
-          "Die Vollversammlung stimmte am 1. Oktober zunächst dafür, und nun bleiben dreißig Werktage, um Einwände einzureichen.",
-          "Sollte nichts dagegensprechen, wird die Aufhebung endgültig beschlossen."
-        ],
-        "cifra": {
-          "numero": "30",
-          "unidad": "Werktage",
-          "glosa": "Dies ist die gesetzlich vorgesehene Frist, innerhalb derer Einwohner und Organisationen einem Gemeinderatsbeschluss widersprechen oder ihn einschränken können, bevor er verbindlich wird. Da Wochenenden und Feiertage nicht zählen, übersteigt die tatsächliche Frist einen Kalendermonat."
-        },
-        "palabra": {
-          "termino": "Reglamento Orgánico Municipal",
-          "como": "ROM, wie es in den Dokumenten des Rathauses genannt wird",
-          "definicion": "Die interne Vorschrift, die sich jede Gemeinde selbst gibt, um die Abläufe ihrer Vollversammlungen und Ausschüsse sowie die Rechte der Ratsmitglieder zu regeln. Jede Gemeinde kann eine solche Vorschrift haben oder darauf verzichten; Villaviciosa hat entschieden, auf seine zu verzichten."
-        },
-        "porQue": "Die Abschaffung des ROM verändert die internen Spielregeln des Rathauses: Sie beeinflusst, wie Angelegenheiten debattiert und abgestimmt werden, bevor sie den Einwohner betreffen.",
-        "lugar": "",
         "precio": ""
       }
     }

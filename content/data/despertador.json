@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-23T12:08:55.388Z",
+  "fecha": "2026-10-23T17:21:21.784Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa busca cocinero para su residencia: hay bolsa de empleo abierta.",
-      "enlace": "/villaviciosa/bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem/"
+      "frase": "Villaviciosa cubre su secretaría general para agilizar las licencias atascadas.",
+      "enlace": "/villaviciosa/villaviciosa-cubre-el-puesto-de-secretario-general-clave-para-acabar-c/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El Ayuntamiento de Villaviciosa ya publica quién puede optar a jefe de Urbanismo.",
-      "enlace": "/villaviciosa/procedimiento-selectivo-de-jefe-a-administrativo-a-de-urbanismo/"
+      "frase": "Setenta escolares cerraron en Rodiles un proyecto europeo contra la basura marina.",
+      "enlace": "/villaviciosa/la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Cinco operarios llevan un mes remendando caminos en Nava antes del invierno.",
+      "enlace": "/nava/el-ayuntamiento-de-nava-acomete-obras-para-mejorar-el-firme-en-varias-/"
     }
   ]
 }
