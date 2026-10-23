@@ -1,5 +1,225 @@
 [
   {
+    "id": "bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem",
+    "url": "/villaviciosa/bolsa-de-empleo-a-efectos-de-contratacion-de-personal-con-caracter-tem/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa busca cocinero para su residencia",
+    "entradilla": "El Ayuntamiento abre una bolsa de empleo temporal para cubrir esa plaza cuando haga falta.",
+    "cuerpo": [
+      "La residencia municipal de Villaviciosa necesita cocineros. El Ayuntamiento ha publicado las bases para crear una bolsa de trabajo temporal en esa categoría, de modo que cuando surja una vacante puntual haya candidatos ya valorados a los que llamar.",
+      "Las bases se han rectificado tras su publicación inicial en el BOPA, así que quien ya las haya leído conviene que consulte la versión corregida antes de preparar la documentación."
+    ],
+    "apunte": "Si sabes hacer un caldo que levante a un muerto, este puede ser tu momento.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca una bolsa de empleo temporal para cocineros en la residencia municipal.",
+      "Las bases se publicaron en el BOPA y han sido rectificadas, por lo que hay que consultar la versión definitiva.",
+      "La bolsa servirá para cubrir necesidades puntuales de personal en la cocina del centro."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien trabaje en hostelería o tenga formación de cocina y busque empleo en el concejo tiene aquí una vía para entrar en la plantilla municipal, aunque sea de forma temporal.",
+    "etiquetas": [
+      "empleo",
+      "residencia municipal",
+      "Villaviciosa",
+      "bolsa de trabajo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-23T09:15:00.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19984750",
+      "titularOriginal": "Bolsa de empleo a efectos de contratación de personal con carácter temporal en la categoría de cocinero/a en la residencia municipal",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa is looking for a cook for its care home",
+        "entradilla": "The council is opening a temporary employment register to fill that post when needed.",
+        "cuerpo": [
+          "The municipal care home in Villaviciosa needs cooks. The council has published the rules for setting up a temporary job register in that category, so that when a short-term vacancy arises there are already assessed candidates to call on.",
+          "The rules were amended after their initial publication in the BOPA, so anyone who has already read them should check the corrected version before preparing their documents."
+        ],
+        "apunte": "If you can make a broth that would raise the dead, this could be your moment.",
+        "enVeinte": [
+          "The Villaviciosa council is setting up a temporary employment register for cooks at the municipal care home.",
+          "The rules were published in the BOPA and have since been amended, so the final version must be consulted.",
+          "The register will be used to cover short-term staffing needs in the centre's kitchen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Anyone working in hospitality or with catering training who is looking for work in the municipality has here a way into the council payroll, even if only on a temporary basis.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un cuisinier pour sa maison de retraite",
+        "entradilla": "La mairie ouvre une liste d'emploi temporaire pour pourvoir ce poste en cas de besoin.",
+        "cuerpo": [
+          "La maison de retraite municipale de Villaviciosa a besoin de cuisiniers. La mairie a publié le règlement pour constituer une liste d'emploi temporaire dans cette catégorie, afin que lorsqu'un poste se libère ponctuellement, des candidats déjà évalués soient disponibles.",
+          "Le règlement a été rectifié après sa publication initiale au BOPA ; toute personne l'ayant déjà consulté doit donc vérifier la version corrigée avant de préparer son dossier."
+        ],
+        "apunte": "Si vous savez préparer un bouillon à ressusciter les morts, votre heure est peut-être venue.",
+        "enVeinte": [
+          "La mairie de Villaviciosa constitue une liste d'emploi temporaire pour des cuisiniers à la maison de retraite municipale.",
+          "Le règlement a été publié au BOPA puis rectifié : il faut donc consulter la version définitive.",
+          "La liste servira à couvrir les besoins ponctuels en personnel dans la cuisine de l'établissement."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Toute personne travaillant dans la restauration ou ayant une formation en cuisine et cherchant un emploi dans la commune dispose ici d'une voie d'entrée dans les effectifs municipaux, même à titre temporaire.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht einen Koch für sein Pflegeheim",
+        "entradilla": "Das Rathaus legt eine temporäre Bewerberliste an, um die Stelle bei Bedarf besetzen zu können.",
+        "cuerpo": [
+          "Das städtische Pflegeheim in Villaviciosa sucht Köche. Das Rathaus hat die Ausschreibungsunterlagen für eine temporäre Bewerberliste in dieser Kategorie veröffentlicht, damit bei kurzfristigen Vakanzen bereits geprüfte Kandidaten zur Verfügung stehen.",
+          "Die Unterlagen wurden nach ihrer erstmaligen Veröffentlichung im BOPA berichtigt; wer sie bereits gelesen hat, sollte daher die korrigierte Fassung prüfen, bevor er seine Bewerbungsunterlagen zusammenstellt."
+        ],
+        "apunte": "Wenn Sie eine Brühe kochen können, die Tote aufweckt, ist jetzt vielleicht Ihr Moment gekommen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa legt eine temporäre Bewerberliste für Köche im städtischen Pflegeheim an.",
+          "Die Unterlagen wurden im BOPA veröffentlicht und anschließend berichtigt; die endgültige Fassung ist maßgeblich.",
+          "Die Liste dient dazu, kurzfristigen Personalbedarf in der Küche des Hauses zu decken."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer im Gastgewerbe tätig ist oder eine Kochausbildung hat und in der Gemeinde Arbeit sucht, findet hier einen Weg in den städtischen Personalstamm — wenn auch zunächst nur vorübergehend.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "procedimiento-selectivo-de-jefe-a-administrativo-a-de-urbanismo",
+    "url": "/villaviciosa/procedimiento-selectivo-de-jefe-a-administrativo-a-de-urbanismo/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca jefe de Urbanismo por méritos",
+    "entradilla": "El Ayuntamiento ya ha publicado la lista provisional de admitidos y excluidos para cubrir el puesto.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa abre la selección de un jefe o jefa administrativo de Urbanismo mediante concurso de méritos, dentro de la Oferta de Empleo Público de 2026.",
+      "Quienes aspiren al puesto pueden consultar si figuran en la lista provisional de admitidos y excluidos, que ya está publicada. Si hay algún error o exclusión indebida, este es el momento de reclamarlo."
+    ],
+    "apunte": "Si tu nombre no está o está mal, ahora es cuando toca decirlo.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca un concurso de méritos para cubrir la jefatura administrativa de Urbanismo.",
+      "La plaza sale de la Oferta de Empleo Público de 2026 y la selección se hace valorando el historial profesional de los candidatos.",
+      "Ya está disponible la lista provisional de admitidos y excluidos para que los interesados comprueben su situación."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concurso de méritos",
+      "como": "concurso de méritos",
+      "definicion": "Sistema de selección en el que no hay oposición con examen: se valoran los méritos acumulados por cada candidato, como experiencia o formación. Es habitual en plazas de promoción interna dentro de la administración pública."
+    },
+    "porQue": "Quien ocupe este puesto gestionará los expedientes de obras y licencias del concejo, así que el ritmo de la oficina de Urbanismo depende en buena medida de quién lo cubra.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "Urbanismo",
+      "concurso de méritos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-23T09:11:19.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850211",
+      "titularOriginal": "Procedimiento selectivo de Jefe/a Administrativo/a de Urbanismo",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks a planning chief on merit",
+        "entradilla": "The council has already published the provisional list of accepted and excluded candidates for the post.",
+        "cuerpo": [
+          "The council of Villaviciosa is opening the selection process for an administrative head of Planning through a merit-based competition, within the 2026 Public Employment Offer.",
+          "Those applying for the post can check whether they appear on the provisional list of accepted and excluded candidates, which has already been published. If there is any error or undue exclusion, now is the time to challenge it."
+        ],
+        "apunte": "If your name is missing or wrong, now is the time to say so.",
+        "enVeinte": [
+          "The council of Villaviciosa is holding a merit-based competition to fill the administrative head of Planning post.",
+          "The position comes from the 2026 Public Employment Offer and selection is made by assessing each candidate's professional record.",
+          "The provisional list of accepted and excluded candidates is already available for those interested to check their status."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "A selection system in which there is no competitive examination: candidates are assessed on their accumulated merits, such as experience or qualifications. It is common for internal promotion posts within the public administration. Pronounced roughly: con-COOR-so de MEH-ree-tos."
+        },
+        "porQue": "Whoever fills this post will manage planning applications and building licences for the municipality, so the pace of the Planning office depends largely on who takes the job.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche un chef de l'urbanisme sur dossier",
+        "entradilla": "La mairie a déjà publié la liste provisoire des candidats admis et exclus pour ce poste.",
+        "cuerpo": [
+          "La mairie de Villaviciosa ouvre la procédure de sélection d'un ou d'une responsable administratif de l'Urbanisme par concours sur titres, dans le cadre de l'Offre d'emploi public 2026.",
+          "Les candidats peuvent vérifier s'ils figurent sur la liste provisoire des admis et des exclus, déjà publiée. En cas d'erreur ou d'exclusion injustifiée, c'est maintenant qu'il faut le signaler."
+        ],
+        "apunte": "Si votre nom est absent ou erroné, c'est le moment de le faire savoir.",
+        "enVeinte": [
+          "La mairie de Villaviciosa ouvre un concours sur titres pour pourvoir le poste de responsable administratif de l'Urbanisme.",
+          "Le poste est issu de l'Offre d'emploi public 2026 et la sélection se fait en évaluant le parcours professionnel des candidats.",
+          "La liste provisoire des admis et des exclus est déjà disponible pour que les intéressés vérifient leur situation."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "Système de sélection dans lequel il n'y a pas d'épreuve écrite : on évalue les mérites accumulés par chaque candidat, tels que l'expérience ou la formation. C'est une procédure courante pour les postes de promotion interne au sein de l'administration publique. Prononciation approximative : con-COUR-so de MEH-ri-tos."
+        },
+        "porQue": "Le titulaire de ce poste gérera les dossiers de travaux et les permis de construire de la commune, si bien que le rythme du service Urbanisme dépend en grande partie de la personne recrutée.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht einen Stadtplanungschef nach Leistungskriterien",
+        "entradilla": "Das Rathaus hat bereits die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber für die Stelle veröffentlicht.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa eröffnet das Auswahlverfahren für eine administrative Leitung der Stadtplanung im Rahmen eines Leistungswettbewerbs, innerhalb des Öffentlichen Stellenangebots 2026.",
+          "Bewerberinnen und Bewerber können prüfen, ob sie auf der bereits veröffentlichten vorläufigen Liste der Zugelassenen und Ausgeschlossenen erscheinen. Sollte ein Fehler oder eine ungerechtfertigte Ausschließung vorliegen, ist jetzt der Zeitpunkt, dagegen vorzugehen."
+        ],
+        "apunte": "Fehlt Ihr Name oder ist er falsch angegeben, sollten Sie das jetzt melden.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt einen Leistungswettbewerb aus, um die administrative Leitung der Stadtplanung zu besetzen.",
+          "Die Stelle stammt aus dem Öffentlichen Stellenangebot 2026, und die Auswahl erfolgt durch Bewertung des beruflichen Werdegangs der Kandidaten.",
+          "Die vorläufige Liste der Zugelassenen und Ausgeschlossenen ist bereits verfügbar, damit Interessierte ihre Situation überprüfen können."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "Ein Auswahlverfahren, bei dem keine schriftliche Prüfung abgelegt wird: Bewertet werden die angesammelten Leistungen jedes Kandidaten, etwa Berufserfahrung oder Ausbildung. Es ist in der öffentlichen Verwaltung bei internen Beförderungsstellen üblich. Aussprache ungefähr: kon-KOUR-so de MEH-ri-tos."
+        },
+        "porQue": "Die Person, die diese Stelle besetzt, wird die Bauanträge und Baugenehmigungen der Gemeinde bearbeiten, sodass das Arbeitstempo des Stadtplanungsamts weitgehend davon abhängt, wer die Stelle übernimmt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-creara-un-padron-de-camiones-para-definir-sus-zonas-de-ap",
     "url": "/villaviciosa/villaviciosa-creara-un-padron-de-camiones-para-definir-sus-zonas-de-ap/",
     "concejo": "Villaviciosa",
@@ -38789,123 +39009,6 @@
         },
         "porQue": "Eine Erinnerung an alle, die in der Gemeinde Feste organisieren: Pyrotechnik bei Hitze erfordert Vorsicht und Abstimmung mit den Notfalldiensten.",
         "lugar": "Quintes",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "el-radar-de-quintana-ya-es-el-que-mas-multa-de-asturias-mas-de-19-000-",
-    "url": "/nava/el-radar-de-quintana-ya-es-el-que-mas-multa-de-asturias-mas-de-19-000-/",
-    "concejo": "Nava",
-    "concejoSlug": "nava",
-    "seccion": "actualidad",
-    "titular": "El radar de Quintana lidera las multas en Asturias",
-    "entradilla": "En su primer año completo funcionando, el dispositivo de Nava superó a todos los demás de la región.",
-    "cuerpo": [
-      "El radar instalado en Quintana, en el concejo de Nava, se convirtió en el que más sanciones impuso en toda Asturias durante su primer año completo de actividad: más de 19.000 multas.",
-      "El anterior líder de ese dudoso ranking era el radar de El Caleyo, al que el de Quintana dejó atrás en ese periodo."
-    ],
-    "apunte": "Más de 19.000 razones para no pisar el acelerador por Quintana.",
-    "enVeinte": [
-      "El radar de Quintana, en Nava, es ya el que más multas pone de toda Asturias.",
-      "En su primer año completo de funcionamiento superó las 19.000 sanciones.",
-      "Hasta ahora ese puesto lo ocupaba el radar de El Caleyo."
-    ],
-    "cifra": {
-      "numero": "19.000",
-      "unidad": "sanciones en un año",
-      "glosa": "El radar de Quintana impuso más de 19.000 multas en su primer año completo. Es la cifra más alta de cualquier radar fijo de Asturias, por encima del hasta ahora más activo, el de El Caleyo."
-    },
-    "palabra": null,
-    "porQue": "Quien pase habitualmente por la N-634 a la altura de Quintana tiene muchas posibilidades de toparse con ese radar: es, a día de hoy, el más sancionador de la región.",
-    "etiquetas": [
-      "tráfico",
-      "radar",
-      "Nava",
-      "multas"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/07/30/2026073018392655531.jpg",
-    "fecha": "2026-07-25T09:12:57.000Z",
-    "fuente": {
-      "nombre": "El Fielato · Comarca de la Sidra",
-      "url": "https://www.elfielato.es/articulo/comarca-de-la-sidra/radar-n-634-nava-es-que-mas-multa-asturias/20260725101257100222.html",
-      "titularOriginal": "El radar de Quintana ya es el que más multa de Asturias: más de 19.000 sanciones en un año"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The Quintana radar leads fines in Asturias",
-        "entradilla": "In its first full year of operation, the device in the Nava municipality outpaced every other in the region.",
-        "cuerpo": [
-          "The radar installed in Quintana, in the municipality of Nava, became the one that issued the most penalties across the whole of Asturias during its first full year of activity: more than 19,000 fines.",
-          "The previous leader of that dubious ranking was the El Caleyo radar, which the Quintana device left behind during that period."
-        ],
-        "apunte": "More than 19,000 reasons not to put your foot down through Quintana.",
-        "enVeinte": [
-          "The Quintana radar, in Nava, is now the one that issues the most fines in the whole of Asturias.",
-          "In its first full year of operation it exceeded 19,000 penalties.",
-          "Until now that position was held by the El Caleyo radar."
-        ],
-        "cifra": {
-          "numero": "19,000",
-          "unidad": "penalties in one year",
-          "glosa": "The Quintana radar issued more than 19,000 fines in its first full year. That is the highest figure of any fixed radar in Asturias, surpassing the previously most active one, El Caleyo."
-        },
-        "palabra": null,
-        "porQue": "Anyone who regularly travels the N-634 at the point of Quintana has a very good chance of encountering that radar: it is, as of today, the most prolific penalty-issuing device in the region.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le radar de Quintana est en tête des amendes en Asturias",
-        "entradilla": "Au cours de sa première année complète de fonctionnement, le dispositif de la commune de Nava a devancé tous les autres de la région.",
-        "cuerpo": [
-          "Le radar installé à Quintana, dans la commune de Nava, est devenu celui qui a infligé le plus de sanctions dans toute l'Asturias durant sa première année complète d'activité : plus de 19 000 amendes.",
-          "Le précédent leader de ce douteux classement était le radar d'El Caleyo, que celui de Quintana a dépassé sur cette période."
-        ],
-        "apunte": "Plus de 19 000 raisons de ne pas appuyer sur l'accélérateur à Quintana.",
-        "enVeinte": [
-          "Le radar de Quintana, à Nava, est désormais celui qui dresse le plus d'amendes dans toute l'Asturias.",
-          "Au cours de sa première année complète de fonctionnement, il a dépassé les 19 000 sanctions.",
-          "Jusqu'à présent, cette place était occupée par le radar d'El Caleyo."
-        ],
-        "cifra": {
-          "numero": "19 000",
-          "unidad": "sanctions en un an",
-          "glosa": "Le radar de Quintana a infligé plus de 19 000 amendes au cours de sa première année complète. C'est le chiffre le plus élevé de tous les radars fixes d'Asturias, devant le plus actif jusqu'alors, celui d'El Caleyo."
-        },
-        "palabra": null,
-        "porQue": "Quiconque emprunte régulièrement la N-634 au niveau de Quintana a de grandes chances de tomber sur ce radar : c'est, à ce jour, le plus sanctionnateur de la région.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Der Blitzer in Quintana führt die Bußgeldstatistik in Asturias an",
-        "entradilla": "In seinem ersten vollständigen Betriebsjahr übertraf das Gerät in der Gemeinde Nava alle anderen in der Region.",
-        "cuerpo": [
-          "Der in Quintana, in der Gemeinde Nava, aufgestellte Blitzer verhängte in seinem ersten vollständigen Betriebsjahr die meisten Bußgelder in ganz Asturias: mehr als 19.000 Strafen.",
-          "Der bisherige Spitzenreiter dieser zweifelhaften Rangliste war der Blitzer von El Caleyo, den der von Quintana in diesem Zeitraum hinter sich ließ."
-        ],
-        "apunte": "Mehr als 19.000 Gründe, in Quintana nicht aufs Gaspedal zu treten.",
-        "enVeinte": [
-          "Der Blitzer in Quintana, in Nava, ist inzwischen derjenige mit den meisten Bußgeldern in ganz Asturias.",
-          "In seinem ersten vollständigen Betriebsjahr überschritt er 19.000 Strafen.",
-          "Bis jetzt hatte der Blitzer von El Caleyo diesen Platz inne."
-        ],
-        "cifra": {
-          "numero": "19.000",
-          "unidad": "Strafen in einem Jahr",
-          "glosa": "Der Blitzer in Quintana verhängte in seinem ersten vollständigen Betriebsjahr mehr als 19.000 Bußgelder. Das ist die höchste Zahl aller stationären Blitzer in Asturias, noch vor dem bislang aktivsten, dem von El Caleyo."
-        },
-        "palabra": null,
-        "porQue": "Wer regelmäßig die N-634 auf Höhe von Quintana befährt, hat gute Chancen, auf diesen Blitzer zu treffen: Er ist derzeit das Gerät mit den meisten Strafen in der Region.",
-        "lugar": "",
         "precio": ""
       }
     }

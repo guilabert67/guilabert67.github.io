@@ -496,6 +496,11 @@
       "motivo": "mismo hecho que /pilona/el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch/",
       "fecha": "2026-10-22T06:04:39.237Z",
       "titulo": "El puente de Ribadesella cierra desde el domingo"
+    },
+    "elfielato.es/articulo/villaviciosa/8-villaviciosa-cierra-tres-veces-entre-hoy-30-octubre-obras-firme/20261023114743104869.html": {
+      "motivo": "duplicado de /villaviciosa/cortes-nocturnos-y-de-trafico-en-la-a-8-en-villaviciosa-por-las-obras-/",
+      "fecha": "2026-10-23T12:07:49.720Z",
+      "titulo": "La A-8 en Villaviciosa se cierra tres veces entre hoy y el 30 de octubre por las obras del firme"
     }
   },
   "juicios": {
@@ -598,6 +603,14 @@
     "elbuscolu.com/noticias-ribadesella/el-puente-de-ribadesella-cerrara-al-trafico-hasta-marzo-de-2027-y-el-alcalde-denuncia-falta-de-coordinacion-11276721.html|el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch": {
       "r": "mismo",
       "fecha": "2026-10-22T06:04:39.237Z"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-para-solicitar-aparcamiento-de-camiones-articulados-11276730.html|villaviciosa-busca-espacio-para-que-puedan-aparcar-los-camiones": {
+      "r": "distinto",
+      "fecha": "2026-10-23T12:07:49.712Z"
+    },
+    "villaviciosa.es/detalle-rss?articleid=19850211|procedimiento-selectivo-de-arquitecto-a-jefe-a": {
+      "r": "distinto",
+      "fecha": "2026-10-23T12:07:50.707Z"
     }
   }
 }
