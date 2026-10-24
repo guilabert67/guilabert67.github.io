@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-24T07:14:50.139Z",
+  "fecha": "2026-10-24T12:06:19.999Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa ya tiene secretario general: Anxelo Estévez Torres tomó posesión del cargo.",
-      "enlace": "/villaviciosa/villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-d/"
+      "frase": "La A-8 corta tres noches en octubre: desvío por la N-632 los días 23, 29 y 30.",
+      "enlace": "/villaviciosa/cortes-nocturnos-y-de-trafico-en-la-a-8-en-villaviciosa-por-las-obras-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Transportistas de Villaviciosa: hasta el 30 de octubre para pedir plaza de aparcamiento.",
+      "enlace": "/villaviciosa/villaviciosa-abre-hasta-el-30-de-octubre-el-plazo-para-solicitar-aparc/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava lleva un mes arreglando caminos rurales antes de que llegue el mal tiempo.",
+      "enlace": "/nava/el-ayuntamiento-de-nava-acomete-obras-para-mejorar-el-firme-en-varias-/"
     }
   ]
 }
