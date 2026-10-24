@@ -1,5 +1,138 @@
 [
   {
+    "id": "villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-d",
+    "url": "/villaviciosa/villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-d/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa tiene nuevo secretario general municipal",
+    "entradilla": "Anxelo Estévez Torres tomó posesión del cargo con más de dos décadas de carrera en la Administración local.",
+    "cuerpo": [
+      "Anxelo Estévez Torres es desde ahora el secretario general del Ayuntamiento de Villaviciosa. El alcalde Alejandro Vega presidió el acto de toma de posesión.",
+      "Estévez Torres llega al puesto con más de 23 años de experiencia en administraciones locales, un bagaje que el consistorio considera garantía para el cargo."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Anxelo Estévez Torres ha tomado posesión como secretario general del Ayuntamiento de Villaviciosa.",
+      "El nuevo secretario acumula más de 23 años de experiencia en la Administración local.",
+      "El alcalde Alejandro Vega presidió el acto de posesión."
+    ],
+    "cifra": {
+      "numero": "23",
+      "unidad": "años en la Administración local",
+      "glosa": "Estévez Torres llega al puesto con más de dos décadas de experiencia en gestión municipal. El secretario general es el funcionario que da fe de los acuerdos del pleno y asesora jurídicamente al ayuntamiento."
+    },
+    "palabra": {
+      "termino": "secretario general",
+      "como": "secretario xeneral, en asturiano",
+      "definicion": "Es el funcionario de carrera que garantiza la legalidad de los actos del ayuntamiento, levanta acta de los plenos y asesora a alcalde y concejales en materias jurídicas y administrativas. Sin su firma, muchos acuerdos municipales no tienen validez."
+    },
+    "porQue": "El secretario general es quien da fe de todo lo que aprueba el pleno y quien asesora al ayuntamiento en cuestiones legales: saber quién ocupa ese puesto importa a cualquier vecino que tenga un trámite por delante.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Ayuntamiento",
+      "secretario general",
+      "Anxelo Estévez Torres"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-b0b1bcb3.jpg",
+    "fecha": "2026-10-24T01:02:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-del-ayuntamiento-11276742.html",
+      "titularOriginal": "Villaviciosa nombra a Anxelo Estévez Torres nuevo secretario general del Ayuntamiento"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa has a new municipal secretary-general",
+        "entradilla": "Anxelo Estévez Torres was sworn into office with more than two decades of career in local government.",
+        "cuerpo": [
+          "Anxelo Estévez Torres is now the secretary-general of the Villaviciosa council. Mayor Alejandro Vega presided over the swearing-in ceremony.",
+          "Estévez Torres takes up the post with more than 23 years of experience in local government, a background the council considers a guarantee for the role."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Anxelo Estévez Torres has been sworn in as secretary-general of the Villaviciosa council.",
+          "The new secretary brings more than 23 years of experience in local government.",
+          "Mayor Alejandro Vega presided over the swearing-in ceremony."
+        ],
+        "cifra": {
+          "numero": "23",
+          "unidad": "years in local government",
+          "glosa": "Estévez Torres takes up the post with more than two decades of experience in municipal management. The secretary-general is the official who certifies the decisions of the full council and provides legal advice to the council."
+        },
+        "palabra": {
+          "termino": "secretario general",
+          "como": "secretario xeneral, in Asturian",
+          "definicion": "The career civil servant who ensures the legality of the council's acts, takes the minutes of full council meetings, and advises the mayor and councillors on legal and administrative matters. Without their signature, many municipal decisions have no legal validity."
+        },
+        "porQue": "The secretary-general certifies everything the full council approves and advises the council on legal matters: knowing who holds that post matters to any resident who has a procedure ahead of them.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa a un nouveau secrétaire général municipal",
+        "entradilla": "Anxelo Estévez Torres a pris ses fonctions avec plus de deux décennies de carrière dans l'administration locale.",
+        "cuerpo": [
+          "Anxelo Estévez Torres est désormais le secrétaire général de la mairie de Villaviciosa. Le maire Alejandro Vega a présidé la cérémonie d'entrée en fonction.",
+          "Estévez Torres arrive au poste avec plus de 23 ans d'expérience dans les administrations locales, un bagage que la mairie considère comme une garantie pour la fonction."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Anxelo Estévez Torres a pris ses fonctions de secrétaire général de la mairie de Villaviciosa.",
+          "Le nouveau secrétaire cumule plus de 23 ans d'expérience dans l'administration locale.",
+          "Le maire Alejandro Vega a présidé la cérémonie d'entrée en fonction."
+        ],
+        "cifra": {
+          "numero": "23",
+          "unidad": "ans dans l'administration locale",
+          "glosa": "Estévez Torres arrive au poste avec plus de deux décennies d'expérience en gestion municipale. Le secrétaire général est le fonctionnaire qui certifie les décisions du conseil municipal et conseille juridiquement la mairie."
+        },
+        "palabra": {
+          "termino": "secretario general",
+          "como": "secretario xeneral, en asturien",
+          "definicion": "Le fonctionnaire de carrière qui garantit la légalité des actes de la mairie, rédige les procès-verbaux des séances plénières et conseille le maire et les conseillers municipaux en matière juridique et administrative. Sans sa signature, de nombreuses décisions municipales n'ont aucune validité."
+        },
+        "porQue": "Le secrétaire général certifie tout ce qu'approuve le conseil municipal et conseille la mairie sur les questions juridiques : savoir qui occupe ce poste importe à tout habitant qui a une démarche à effectuer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa hat einen neuen Gemeinde-Generalsekretär",
+        "entradilla": "Anxelo Estévez Torres trat sein Amt mit mehr als zwei Jahrzehnten Laufbahn in der Kommunalverwaltung an.",
+        "cuerpo": [
+          "Anxelo Estévez Torres ist nun Generalsekretär des Rathauses von Villaviciosa. Bürgermeister Alejandro Vega leitete die Amtseinführung.",
+          "Estévez Torres übernimmt den Posten mit mehr als 23 Jahren Erfahrung in Kommunalverwaltungen, ein Hintergrund, den das Rathaus als Garantie für die Stelle betrachtet."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Anxelo Estévez Torres wurde als Generalsekretär des Rathauses von Villaviciosa in sein Amt eingeführt.",
+          "Der neue Sekretär verfügt über mehr als 23 Jahre Erfahrung in der Kommunalverwaltung.",
+          "Bürgermeister Alejandro Vega leitete die Amtseinführung."
+        ],
+        "cifra": {
+          "numero": "23",
+          "unidad": "Jahre in der Kommunalverwaltung",
+          "glosa": "Estévez Torres übernimmt den Posten mit mehr als zwei Jahrzehnten Erfahrung in der kommunalen Verwaltung. Der Generalsekretär ist der Beamte, der die Beschlüsse des Stadtrats beurkundet und das Rathaus rechtlich berät."
+        },
+        "palabra": {
+          "termino": "secretario general",
+          "como": "secretario xeneral, auf Asturisch",
+          "definicion": "Der Berufsbeamte, der die Rechtmäßigkeit der Handlungen des Rathauses sicherstellt, die Protokolle der Ratssitzungen aufnimmt und Bürgermeister sowie Stadträte in rechtlichen und verwaltungstechnischen Fragen berät. Ohne seine Unterschrift haben viele Gemeinderatsbeschlüsse keine Gültigkeit."
+        },
+        "porQue": "Der Generalsekretär beurkundet alles, was der Stadtrat beschließt, und berät das Rathaus in Rechtsfragen: Wer diesen Posten innehat, ist für jeden Einwohner wichtig, der ein Behördenverfahren vor sich hat.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m",
     "url": "/villaviciosa/la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m/",
     "concejo": "Villaviciosa",
@@ -39149,166 +39282,6 @@
         "palabra": null,
         "porQue": "Was in Santa Eulalia de Oscos geschieht, gibt die Richtung für eine Kultur vor, die in der gesamten Region wächst und beginnt, ein echtes wirtschaftliches Gewicht in der asturischen Landwirtschaft zu entfalten.",
         "lugar": "Santa Eulalia de Oscos",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "el-alcalde-de-villaviciosa-reivindica-el-festival-del-arandano-nos-tac",
-    "url": "/villaviciosa/el-alcalde-de-villaviciosa-reivindica-el-festival-del-arandano-nos-tac/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa defiende su Festival del Arándano",
-    "entradilla": "El alcalde Alejandro Vega reivindica un certamen que empezó entre dudas y hoy funciona como palanca del mundo rural.",
-    "cuerpo": [
-      "Alejandro Vega, alcalde de Villaviciosa, ha salido a defender el Festival del Arándano recordando que muchos lo vieron nacer con escepticismo. «Nos tacharon de locos», ha dicho, aunque ahora lo califica de extraordinario.",
-      "Para Vega, el certamen vale sobre todo como argumento: demuestra que el rural asturiano tiene capacidad de generar algo propio y salir adelante con ello."
-    ],
-    "apunte": "De locos a extraordinario: no es mal recorrido para un festival de arándanos.",
-    "enVeinte": [
-      "El alcalde de Villaviciosa, Alejandro Vega, reivindica el Festival del Arándano frente a quienes lo recibieron con burla.",
-      "Vega lo presenta como prueba de que el mundo rural puede generar iniciativas propias y sostenerse con ellas.",
-      "El certamen ha pasado de ser cuestionado a convertirse, en palabras del propio alcalde, en algo extraordinario."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Un festival que arrancó sin crédito y aguanta es exactamente el tipo de noticia que necesita un concejo que sabe lo que cuesta mantener vida en el rural.",
-    "etiquetas": [
-      "Festival del Arándano",
-      "Villaviciosa",
-      "mundo rural",
-      "Alejandro Vega"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/25/2026_07_25%20VP%20certamenes%20villaviciosa%202-Rt0m1GF46ur2R21XQNQtGAN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-25T18:07:19.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/alcalde-villaviciosa-reivindica-festival-arandano-tacharon-locos-20260725200719-nt.html",
-      "titularOriginal": "El alcalde de Villaviciosa reivindica el Festival del Arándano: «Nos tacharon de locos, pero ahora es extraordinario»"
-    },
-    "reescrito": true,
-    "trad": {}
-  },
-  {
-    "id": "susto-en-quintes-por-un-incendio-declarado-mientras-se-celebran-las-fi",
-    "url": "/villaviciosa/susto-en-quintes-por-un-incendio-declarado-mientras-se-celebran-las-fi/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Un incendio interrumpe las fiestas de Quintes",
-    "entradilla": "Dos helicópteros sofocaron el fuego, cuyo origen podría estar en un volador de las celebraciones.",
-    "cuerpo": [
-      "Un incendio declarado durante los festejos de Quintes provocó ayer alarma en la localidad de Villaviciosa. El fuego se dio por controlado con la intervención de dos helicópteros.",
-      "Las primeras hipótesis apuntan a que un volador de las fiestas pudo haber originado las llamas."
-    ],
-    "apunte": "La pirotecnia da la fiesta, y a veces también el susto.",
-    "enVeinte": [
-      "Un incendio se declaró en Quintes mientras se celebraban las fiestas del lugar.",
-      "Dos helicópteros participaron en las labores de extinción hasta darlo por sofocado.",
-      "Un volador de las celebraciones se maneja como posible causa del fuego."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "volador",
-      "como": "volador",
-      "definicion": "Cohete de feria que sube rápido y estalla en el aire. En las fiestas asturianas es parte fija del programa, pero si cae en seco puede prender con facilidad."
-    },
-    "porQue": "Recuerda a quienes preparan fiestas en el concejo que la pirotecnia en época de calor exige precaución y coordinación con los servicios de emergencia.",
-    "etiquetas": [
-      "incendio",
-      "Quintes",
-      "Villaviciosa",
-      "fiestas"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "fiesta",
-    "lugar": "Quintes",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/25/quintes5-Rs0Twp1SNYIzdRspS5CIb0M-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-25T18:04:08.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/susto-quintes-incendio-declarado-celebran-fiestas-20260725174434-nt.html",
-      "titularOriginal": "Susto en Quintes por un incendio declarado mientras se celebran las fiestas"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "A fire interrupts the Quintes festivities",
-        "entradilla": "Two helicopters put out the blaze, which may have been started by a rocket fired during the celebrations.",
-        "cuerpo": [
-          "A fire that broke out during the Quintes festivities caused alarm yesterday in the Villaviciosa municipality. The fire was declared under control after two helicopters intervened.",
-          "Initial reports suggest that a volador (a fairground rocket) fired during the festivities may have started the blaze."
-        ],
-        "apunte": "Pyrotechnics bring the party — and sometimes the fright.",
-        "enVeinte": [
-          "A fire broke out in Quintes while the local festivities were taking place.",
-          "Two helicopters took part in the firefighting effort until the blaze was extinguished.",
-          "A volador fired during the celebrations is being handled as a possible cause of the fire."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "volador",
-          "como": "volador",
-          "definicion": "A fairground rocket that shoots up fast and bursts in the air. In Asturian festivities it is a fixture of the programme, but if it lands on dry ground it can easily start a fire."
-        },
-        "porQue": "A reminder to those organising festivities in the municipality that pyrotechnics in hot weather require caution and coordination with the emergency services.",
-        "lugar": "Quintes",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Un incendie interrompt les fêtes de Quintes",
-        "entradilla": "Deux hélicoptères ont maîtrisé le feu, dont l'origine pourrait être un volador tiré pendant les festivités.",
-        "cuerpo": [
-          "Un incendie déclaré pendant les festivités de Quintes a semé l'alarme hier dans la commune de Villaviciosa. Le feu a été déclaré maîtrisé grâce à l'intervention de deux hélicoptères.",
-          "Les premières hypothèses indiquent qu'un volador (une fusée de fête foraine) tiré pendant les festivités aurait pu être à l'origine des flammes."
-        ],
-        "apunte": "La pyrotechnie fait la fête — et parfois aussi la peur.",
-        "enVeinte": [
-          "Un incendie s'est déclaré à Quintes pendant le déroulement des fêtes locales.",
-          "Deux hélicoptères ont participé aux opérations d'extinction jusqu'à ce que le feu soit éteint.",
-          "Un volador tiré pendant les festivités est évoqué comme cause possible de l'incendie."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "volador",
-          "como": "volador",
-          "definicion": "Une fusée de fête foraine qui monte rapidement et éclate dans les airs. Dans les fêtes asturiennes, elle fait partie intégrante du programme, mais si elle retombe sur un terrain sec, elle peut facilement provoquer un incendie."
-        },
-        "porQue": "Un rappel à ceux qui organisent des fêtes dans la commune que la pyrotechnie en période de chaleur exige prudence et coordination avec les services d'urgence.",
-        "lugar": "Quintes",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Ein Brand unterbricht die Feste von Quintes",
-        "entradilla": "Zwei Hubschrauber löschten das Feuer, dessen Ursache möglicherweise ein während der Feierlichkeiten gezündeter Feuerwerkskörper war.",
-        "cuerpo": [
-          "Ein während der Festlichkeiten von Quintes ausgebrochener Brand löste gestern in der Gemeinde Villaviciosa Alarm aus. Das Feuer galt nach dem Einsatz zweier Hubschrauber als unter Kontrolle.",
-          "Ersten Erkenntnissen zufolge könnte ein volador (ein Feuerwerksrakete, die bei Volksfesten gezündet wird) die Flammen ausgelöst haben."
-        ],
-        "apunte": "Pyrotechnik macht das Fest — und manchmal auch den Schrecken.",
-        "enVeinte": [
-          "In Quintes brach ein Brand aus, während die örtlichen Festlichkeiten stattfanden.",
-          "Zwei Hubschrauber waren an den Löscharbeiten beteiligt, bis das Feuer erstickt war.",
-          "Ein während der Feierlichkeiten gezündeter volador gilt als mögliche Brandursache."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "volador",
-          "como": "volador",
-          "definicion": "Eine Feuerwerksrakete, die schnell aufsteigt und in der Luft explodiert. Bei asturischen Volksfesten gehört sie zum festen Programm, doch wenn sie auf trockenem Boden landet, kann sie leicht einen Brand entfachen."
-        },
-        "porQue": "Eine Erinnerung an alle, die in der Gemeinde Feste organisieren: Pyrotechnik bei Hitze erfordert Vorsicht und Abstimmung mit den Notfalldiensten.",
-        "lugar": "Quintes",
         "precio": ""
       }
     }
