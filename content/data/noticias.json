@@ -1,5 +1,151 @@
 [
   {
+    "id": "la-sidra-de-octubre-el-sisga-protagoniza-el-numero-270",
+    "url": "/nava/la-sidra-de-octubre-el-sisga-protagoniza-el-numero-270/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "La revista La Sidra dedica 98 páginas al SISGA",
+    "entradilla": "El número 270 repasa el salón internacional celebrado en Xixón en septiembre y abre el debate sobre el futuro de las sidrerías.",
+    "cuerpo": [
+      "La edición de octubre de la revista La Sidra ya circula, con el SISGA'26 como hilo conductor. La portada, fotografiada por Llucía Fernández, recoge a los premiados del Salón Internacional de les Sidres de Gala, que reunió 346 productos de 124 lagares de 35 países durante cuatro días en Xixón.",
+      "La revista sigue el recorrido de las delegaciones: la inauguración y las visitas al Museo de la Sidra de Nava, la jornada de cata abierta, la asamblea de Cider Cities y la espicha de hermandad en Piñera. También recoge la incorporación de Madeira y A Estrada a esa red de territorios sidreros.",
+      "Más allá del SISGA, el número plantea el debate sobre un estatuto fiscal que proteja las sidrerías asturianas y recoge el regreso de los Sidrocoles a las aulas, una iniciativa de la Fundación Asturies XXI para acercar la cultura de la manzana y la pumarada a los escolares."
+    ],
+    "apunte": "Noventa y ocho páginas de sidra: para quien se quedó con ganas de SISGA.",
+    "enVeinte": [
+      "La revista La Sidra publica su número 270 con casi cien páginas centradas en el SISGA'26, el salón internacional celebrado en Xixón en septiembre.",
+      "El número incluye cobertura del salón —346 productos de 35 países—, la espicha de hermandad en Piñera y la asamblea de Cider Cities, donde se sumaron Madeira y A Estrada.",
+      "También abre el debate sobre un estatuto fiscal para las sidrerías y recoge el retorno de los Sidrocoles a las aulas asturianas."
+    ],
+    "cifra": {
+      "numero": "346",
+      "unidad": "productos de 35 países",
+      "glosa": "El SISGA'26 reunió 346 sidras y derivados llegados de 124 lagares repartidos por 35 países. Es la decimosexta edición de un salón que convierte Xixón en capital mundial de la sidra cada otoño, y en el que el Museo de la Sidra de Nava tiene un papel central."
+    },
+    "palabra": {
+      "termino": "espicha",
+      "como": "espicha (igual que se escribe)",
+      "definicion": "La espicha es la púa de madera con la que se abre un tonel de sidra, pero también el nombre de la celebración que se monta alrededor de ese momento: amigos, comida y sidra directa del barril. Aquí no se celebra el fin de año; se celebra con una espicha."
+    },
+    "porQue": "El Museo de la Sidra de Nava aparece como punto de paso obligado del SISGA, lo que sitúa al concejo en el centro de un circuito internacional que cada año gana más países participantes.",
+    "etiquetas": [
+      "sidra",
+      "SISGA",
+      "Nava",
+      "cultura asturiana"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-24T14:43:44.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/la-sidra-270-octubre-2026/",
+      "titularOriginal": "LA SIDRA de octubre: el SISGA protagoniza el número 270"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Sidra magazine devotes 98 pages to SISGA",
+        "entradilla": "Issue 270 reviews the international show held in Xixón in September and opens the debate on the future of cider houses.",
+        "cuerpo": [
+          "The October issue of La Sidra magazine is now in circulation, with SISGA'26 as its central thread. The cover, photographed by Llucía Fernández, features the winners of the Salón Internacional de les Sidres de Gala, which brought together 346 products from 124 lagares (cider mills) across 35 countries over four days in Xixón.",
+          "The magazine follows the delegations' journey: the opening ceremony and visits to the Museo de la Sidra de Nava, the open tasting session, the Cider Cities assembly, and the espicha (a cider-house feast) of fellowship in Piñera. It also covers the joining of Madeira and A Estrada to that network of cider-producing territories.",
+          "Beyond SISGA, the issue raises the debate on a fiscal statute to protect Asturian cider houses, and reports on the return of the Sidrocoles to classrooms — an initiative by the Fundación Asturies XXI to bring the culture of the apple and the orchard closer to schoolchildren."
+        ],
+        "apunte": "Ninety-eight pages of cider: for those who couldn't get enough of SISGA.",
+        "enVeinte": [
+          "La Sidra magazine publishes its issue 270 with nearly a hundred pages focused on SISGA'26, the international show held in Xixón in September.",
+          "The issue includes coverage of the show — 346 products from 35 countries —, the espicha of fellowship in Piñera, and the Cider Cities assembly, where Madeira and A Estrada joined.",
+          "It also opens the debate on a fiscal statute for cider houses and reports on the return of the Sidrocoles to Asturian classrooms."
+        ],
+        "cifra": {
+          "numero": "346",
+          "unidad": "products from 35 countries",
+          "glosa": "SISGA'26 brought together 346 ciders and related products from 124 lagares spread across 35 countries. It is the sixteenth edition of a show that turns Xixón into the world capital of cider every autumn, with the Museo de la Sidra de Nava playing a central role."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (as written)",
+          "definicion": "An espicha is the wooden peg used to tap a barrel of cider, but also the name of the celebration that gathers around that moment: friends, food, and cider straight from the barrel. Here, you don't celebrate the new year; you celebrate with an espicha."
+        },
+        "porQue": "The Museo de la Sidra de Nava features as a compulsory stop on the SISGA circuit, placing the municipality at the heart of an international network that gains more participating countries every year.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La revue La Sidra consacre 98 pages au SISGA",
+        "entradilla": "Le numéro 270 revient sur le salon international tenu à Xixón en septembre et ouvre le débat sur l'avenir des cidreries.",
+        "cuerpo": [
+          "L'édition d'octobre de la revue La Sidra est désormais disponible, avec le SISGA'26 comme fil conducteur. La couverture, photographiée par Llucía Fernández, présente les lauréats du Salón Internacional de les Sidres de Gala, qui a réuni 346 produits issus de 124 lagares (pressoirs à cidre) de 35 pays pendant quatre jours à Xixón.",
+          "La revue suit le parcours des délégations : l'inauguration et les visites au Museo de la Sidra de Nava, la journée de dégustation ouverte, l'assemblée de Cider Cities et l'espicha (fête autour d'un tonneau de cidre) de fraternité à Piñera. Elle rapporte également l'adhésion de Madeira et de A Estrada à ce réseau de territoires cidricoles.",
+          "Au-delà du SISGA, le numéro lance le débat sur un statut fiscal destiné à protéger les cidreries asturiennes et rend compte du retour des Sidrocoles dans les classes — une initiative de la Fundación Asturies XXI pour rapprocher la culture de la pomme et du verger des élèves."
+        ],
+        "apunte": "Quatre-vingt-dix-huit pages de cidre : pour ceux qui n'ont pas eu assez du SISGA.",
+        "enVeinte": [
+          "La revue La Sidra publie son numéro 270 avec près d'une centaine de pages consacrées au SISGA'26, le salon international tenu à Xixón en septembre.",
+          "Le numéro couvre le salon — 346 produits de 35 pays —, l'espicha de fraternité à Piñera et l'assemblée de Cider Cities, où Madeira et A Estrada ont rejoint le réseau.",
+          "Il ouvre également le débat sur un statut fiscal pour les cidreries et rapporte le retour des Sidrocoles dans les classes asturiennes."
+        ],
+        "cifra": {
+          "numero": "346",
+          "unidad": "produits de 35 pays",
+          "glosa": "Le SISGA'26 a réuni 346 cidres et produits dérivés issus de 124 lagares répartis dans 35 pays. C'est la seizième édition d'un salon qui fait de Xixón la capitale mondiale du cidre chaque automne, avec le Museo de la Sidra de Nava dans un rôle central."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (comme il s'écrit)",
+          "definicion": "L'espicha est la cheville en bois avec laquelle on ouvre un tonneau de cidre, mais aussi le nom de la fête qui se tient autour de ce moment : amis, nourriture et cidre directement au fût. Ici, on ne fête pas la fin de l'année ; on fête avec une espicha."
+        },
+        "porQue": "Le Museo de la Sidra de Nava apparaît comme une étape incontournable du SISGA, plaçant la commune au cœur d'un circuit international qui accueille chaque année davantage de pays participants.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Zeitschrift La Sidra widmet dem SISGA 98 Seiten",
+        "entradilla": "Die Ausgabe 270 blickt auf den im September in Xixón abgehaltenen internationalen Salon zurück und eröffnet die Debatte über die Zukunft der Cidre-Wirtshäuser.",
+        "cuerpo": [
+          "Die Oktoberausgabe der Zeitschrift La Sidra ist nun im Umlauf, mit dem SISGA'26 als rotem Faden. Das Titelbild, fotografiert von Llucía Fernández, zeigt die Preisträger des Salón Internacional de les Sidres de Gala, der 346 Produkte aus 124 lagares (Cidre-Kellereien) aus 35 Ländern über vier Tage in Xixón versammelte.",
+          "Die Zeitschrift folgt dem Weg der Delegationen: der Eröffnung und den Besuchen im Museo de la Sidra de Nava, dem öffentlichen Verkostungstag, der Versammlung von Cider Cities und der espicha (einem Fest rund um ein Cidre-Fass) der Freundschaft in Piñera. Ebenfalls festgehalten wird die Aufnahme von Madeira und A Estrada in dieses Netzwerk von Cidre-Regionen.",
+          "Über den SISGA hinaus greift die Ausgabe die Debatte über ein Steuerstatut zum Schutz asturischer Cidre-Wirtshäuser auf und berichtet über die Rückkehr der Sidrocoles in die Klassenzimmer — eine Initiative der Fundación Asturies XXI, um die Kultur des Apfels und der Obstwiese an Schulkinder heranzutragen."
+        ],
+        "apunte": "Achtundneunzig Seiten Cidre: für alle, die vom SISGA nicht genug bekommen konnten.",
+        "enVeinte": [
+          "Die Zeitschrift La Sidra veröffentlicht ihre Ausgabe 270 mit knapp hundert Seiten rund um den SISGA'26, den im September in Xixón abgehaltenen internationalen Salon.",
+          "Die Ausgabe umfasst die Berichterstattung über den Salon — 346 Produkte aus 35 Ländern —, die espicha der Freundschaft in Piñera und die Cider-Cities-Versammlung, bei der Madeira und A Estrada dem Netzwerk beitraten.",
+          "Außerdem eröffnet sie die Debatte über ein Steuerstatut für Cidre-Wirtshäuser und berichtet über die Rückkehr der Sidrocoles in asturische Klassenzimmer."
+        ],
+        "cifra": {
+          "numero": "346",
+          "unidad": "Produkte aus 35 Ländern",
+          "glosa": "Der SISGA'26 versammelte 346 Cidre-Sorten und verwandte Produkte aus 124 lagares in 35 Ländern. Es ist die sechzehnte Ausgabe eines Salons, der Xixón jeden Herbst zur Cidre-Welthauptstadt macht — mit dem Museo de la Sidra de Nava in einer zentralen Rolle."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (wie geschrieben)",
+          "definicion": "Die espicha ist der Holzpflock, mit dem ein Cidre-Fass geöffnet wird, aber auch der Name des Festes, das sich um diesen Moment herum entfaltet: Freunde, Essen und Cidre direkt vom Fass. Hier feiert man nicht das Jahresende; man feiert mit einer espicha."
+        },
+        "porQue": "Das Museo de la Sidra de Nava erscheint als unverzichtbare Station des SISGA und stellt die Gemeinde in den Mittelpunkt eines internationalen Netzwerks, das jedes Jahr mehr teilnehmende Länder gewinnt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "del salon internacional de les sidres de gala",
+      "346 productos de 124 lagares de 35 paises",
+      "la jornada de cata abierta la asamblea de",
+      "jornada de cata abierta la asamblea de cider",
+      "de cata abierta la asamblea de cider cities",
+      "la incorporacion de madeira y a estrada a",
+      "el regreso de los sidrocoles a las aulas"
+    ]
+  },
+  {
     "id": "villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-d",
     "url": "/villaviciosa/villaviciosa-nombra-a-anxelo-estevez-torres-nuevo-secretario-general-d/",
     "concejo": "Villaviciosa",
@@ -39184,106 +39330,5 @@
       "del verano para mayores en la plaza del",
       "verano para mayores en la plaza del guevu"
     ]
-  },
-  {
-    "id": "mucho-mas-que-arandanos-en-villaviciosa",
-    "url": "/villaviciosa/mucho-mas-que-arandanos-en-villaviciosa/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "El arándano asturiano tiene futuro",
-    "entradilla": "Un festival dedicado a esta baya premia a las mejores plantaciones de la región y los galardones se quedan en casa.",
-    "cuerpo": [
-      "El cultivo del arándano en Asturias tiene nombre propio: Santa Eulalia de Oscos. Allí se producen, según el material publicado por El Comercio, los mejores ejemplares de la región, y el festival dedicado a esta fruta así lo ha vuelto a reconocer con sus premios.",
-      "Los galardones a las plantaciones más destacadas recayeron en productores del propio municipio, un resultado que deja claro que el sector va en serio."
-    ],
-    "apunte": "Lo del arándano asturiano ya no es una anécdota de fin de semana.",
-    "enVeinte": [
-      "Un festival del arándano premia las mejores plantaciones de Asturias.",
-      "Los premios recaen en productores de Santa Eulalia de Oscos, donde se cultivan los mejores ejemplares de la región.",
-      "El sector se muestra optimista: 'Hay futuro', dicen quienes trabajan la tierra."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Lo que pasa en Santa Eulalia de Oscos marca el rumbo de un cultivo que crece en toda la región y que empieza a tener peso económico real en el campo asturiano.",
-    "etiquetas": [
-      "arándanos",
-      "Villaviciosa",
-      "festival",
-      "agricultura"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "Santa Eulalia de Oscos",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/26/arandano1-R6DBm0UOSrVwud1O1YLSQiJ-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-26T16:18:28.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/arandanos-villaviciosa-20260726181101-nt.html",
-      "titularOriginal": "Mucho más que arándanos en Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Asturian blueberries have a future",
-        "entradilla": "A festival dedicated to this berry rewards the best plantations in the region — and the prizes stay close to home.",
-        "cuerpo": [
-          "Blueberry growing in Asturias has a name of its own: Santa Eulalia de Oscos. According to material published by El Comercio, the finest specimens in the region come from there, and the festival dedicated to this fruit has once again recognised that with its awards.",
-          "The prizes for the most outstanding plantations went to producers from the municipality itself — a result that makes clear the sector means business."
-        ],
-        "apunte": "Asturian blueberries are no longer just a weekend curiosity.",
-        "enVeinte": [
-          "A blueberry festival rewards the best plantations in Asturias.",
-          "The prizes go to producers from Santa Eulalia de Oscos, where the finest specimens in the region are grown.",
-          "The sector is optimistic: \"There is a future,\" say those who work the land."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "What happens in Santa Eulalia de Oscos sets the direction for a crop that is growing across the region and is beginning to carry real economic weight in the Asturian countryside.",
-        "lugar": "Santa Eulalia de Oscos",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La myrtille asturienne a de l'avenir",
-        "entradilla": "Un festival consacré à ce fruit récompense les meilleures plantations de la région — et les prix restent au pays.",
-        "cuerpo": [
-          "La culture de la myrtille en Asturies a un nom bien précis : Santa Eulalia de Oscos. C'est là que se trouvent, selon les informations publiées par El Comercio, les meilleurs spécimens de la région, et le festival dédié à ce fruit vient une fois de plus de le reconnaître à travers ses prix.",
-          "Les récompenses attribuées aux plantations les plus remarquables sont allées à des producteurs de la commune elle-même — un résultat qui montre clairement que le secteur est pris au sérieux."
-        ],
-        "apunte": "La myrtille asturienne n'est plus une simple curiosité de week-end.",
-        "enVeinte": [
-          "Un festival de la myrtille récompense les meilleures plantations d'Asturies.",
-          "Les prix reviennent à des producteurs de Santa Eulalia de Oscos, où sont cultivés les meilleurs spécimens de la région.",
-          "Le secteur se montre optimiste : « L'avenir est là », disent ceux qui travaillent la terre."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Ce qui se passe à Santa Eulalia de Oscos trace la voie d'une culture qui progresse dans toute la région et commence à peser réellement sur l'économie agricole asturienne.",
-        "lugar": "Santa Eulalia de Oscos",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die asturische Heidelbeere hat Zukunft",
-        "entradilla": "Ein diesem Beerenobst gewidmetes Festival zeichnet die besten Plantagen der Region aus — und die Preise bleiben vor Ort.",
-        "cuerpo": [
-          "Der Heidelbeeranbau in Asturien hat einen ganz konkreten Namen: Santa Eulalia de Oscos. Dort entstehen laut dem von El Comercio veröffentlichten Material die besten Exemplare der Region, und das der Frucht gewidmete Festival hat dies mit seinen Auszeichnungen erneut bestätigt.",
-          "Die Preise für die herausragendsten Plantagen gingen an Erzeuger aus der Gemeinde selbst — ein Ergebnis, das deutlich zeigt, dass der Sektor es ernst meint."
-        ],
-        "apunte": "Die asturische Heidelbeere ist längst keine Wochenendanekdote mehr.",
-        "enVeinte": [
-          "Ein Heidelbeerfestival zeichnet die besten Plantagen Asturiens aus.",
-          "Die Preise gehen an Erzeuger aus Santa Eulalia de Oscos, wo die besten Exemplare der Region angebaut werden.",
-          "Der Sektor gibt sich optimistisch: «Es gibt eine Zukunft», sagen die Menschen, die das Land bewirtschaften."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Was in Santa Eulalia de Oscos geschieht, gibt die Richtung für eine Kultur vor, die in der gesamten Region wächst und beginnt, ein echtes wirtschaftliches Gewicht in der asturischen Landwirtschaft zu entfalten.",
-        "lugar": "Santa Eulalia de Oscos",
-        "precio": ""
-      }
-    }
   }
 ]
