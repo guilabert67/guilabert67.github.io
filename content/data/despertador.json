@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-10-24T18:46:47.779Z",
+  "fecha": "2026-10-25T06:52:22.057Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "La revista La Sidra dedica 98 páginas al SISGA y debate el futuro de las sidrerías.",
-      "enlace": "/nava/la-sidra-de-octubre-el-sisga-protagoniza-el-numero-270/"
+      "concejo": "Piloña",
+      "frase": "Plata mundial para el piragüismo asturiano en el maratón de Argentina.",
+      "enlace": "/pilona/la-gijonesa-miriam-vega-se-proclama-subcampeona-del-mundo-de-maraton-e/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa mide su huella turística y busca compensarla con Ecotur.",
+      "enlace": "/villaviciosa/turismo-regenerativo-en-villaviciosa-los-viajeros-pueden-calcular-su-h/"
     }
   ]
 }
