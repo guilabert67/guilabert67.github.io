@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-10-25T06:52:22.057Z",
+  "fecha": "2026-10-25T12:14:27.083Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "Plata mundial para el piragüismo asturiano en el maratón de Argentina.",
+      "frase": "Plata mundial para el piragüismo asturiano en Argentina.",
       "enlace": "/pilona/la-gijonesa-miriam-vega-se-proclama-subcampeona-del-mundo-de-maraton-e/"
     },
     {
+      "concejo": "Nava",
+      "frase": "Nava lleva un mes reparando caminos antes de que llegue el frío.",
+      "enlace": "/nava/el-ayuntamiento-de-nava-acomete-obras-para-mejorar-el-firme-en-varias-/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa mide su huella turística y busca compensarla con Ecotur.",
-      "enlace": "/villaviciosa/turismo-regenerativo-en-villaviciosa-los-viajeros-pueden-calcular-su-h/"
+      "frase": "Setenta escolares cerraron en Rodiles un proyecto europeo contra la basura marina.",
+      "enlace": "/villaviciosa/la-playa-de-rodiles-parada-final-del-proyecto-europeo-para-cuidar-la-m/"
     }
   ]
 }
