@@ -1,5 +1,106 @@
 [
   {
+    "id": "la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona",
+    "url": "/villaviciosa/la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "El parque del Pelambre gana aparcamiento en su reforma",
+    "entradilla": "El Ayuntamiento ya trabaja en el proyecto y ha retirado de urgencia los juegos infantiles en peor estado.",
+    "cuerpo": [
+      "El parque del Pelambre de Villaviciosa va a transformarse: el proyecto que prepara el Ayuntamiento contempla ampliar las zonas de aparcamiento dentro de la actuación.",
+      "Mientras se redacta ese proyecto, el consistorio ya ha actuado: ha quitado los elementos del área infantil que estaban más deteriorados, sin esperar a que arranque la obra en firme."
+    ],
+    "apunte": "Primero fuera lo que estaba roto; lo bonito, después.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa prepara la reforma del parque del Pelambre e incluye nuevas plazas de aparcamiento.",
+      "Ya ha retirado los juegos infantiles más deteriorados mientras se termina de redactar el proyecto.",
+      "La obra completa arrancará cuando el proyecto esté listo."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien aparca o pasea por el Pelambre notará pronto cambios: menos juegos viejos ya, y más plazas de aparcamiento cuando llegue la obra.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Pelambre",
+      "obras",
+      "aparcamiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/25/pelambre-villaviciosa-R5ixqMyh7jO8wJYVeVIr6xJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-25T14:04:55.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/reforma-parque-pelambre-villaviciosa-incluira-ganar-zonas-20261025150455-nt.html",
+      "titularOriginal": "La reforma del parque del Pelambre en Villaviciosa incluirá ganar zonas para aparcamiento"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Pelambre park to gain parking spaces in its renovation",
+        "entradilla": "The council is already working on the project and has urgently removed the children's play equipment in the worst condition.",
+        "cuerpo": [
+          "Villaviciosa's Pelambre park is set for a transformation: the project being drawn up by the council includes expanding the parking areas as part of the works.",
+          "While the project is still being drafted, the council has already acted: it has removed the most deteriorated elements from the children's play area, without waiting for the main works to begin."
+        ],
+        "apunte": "First out with the broken; the nice bits can wait.",
+        "enVeinte": [
+          "Villaviciosa council is preparing the renovation of Pelambre park and is including new parking spaces.",
+          "It has already removed the most deteriorated children's play equipment while the project is being finalised.",
+          "The full works will begin once the project is ready."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Anyone who parks or strolls through the Pelambre will soon notice changes: fewer old play structures already, and more parking spaces once the works begin.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le parc du Pelambre va gagner des places de stationnement lors de sa rénovation",
+        "entradilla": "La mairie travaille déjà sur le projet et a retiré en urgence les jeux pour enfants en plus mauvais état.",
+        "cuerpo": [
+          "Le parc du Pelambre de Villaviciosa va se transformer : le projet que prépare la mairie prévoit d'agrandir les zones de stationnement dans le cadre des travaux.",
+          "Pendant la rédaction du projet, la mairie a déjà agi : elle a retiré les éléments de l'aire de jeux les plus dégradés, sans attendre le début des travaux."
+        ],
+        "apunte": "D'abord, on enlève ce qui est cassé ; le beau, c'est pour après.",
+        "enVeinte": [
+          "La mairie de Villaviciosa prépare la rénovation du parc du Pelambre et prévoit de nouvelles places de stationnement.",
+          "Elle a déjà retiré les jeux pour enfants les plus dégradés pendant la finalisation du projet.",
+          "Les travaux complets débuteront une fois le projet prêt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ceux qui garent leur voiture ou se promènent au Pelambre remarqueront bientôt des changements : moins de vieux jeux dès à présent, et davantage de places de stationnement à l'arrivée des travaux.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Park Pelambre erhält bei seiner Renovierung neue Parkplätze",
+        "entradilla": "Das Rathaus arbeitet bereits an dem Projekt und hat die am stärksten abgenutzten Spielgeräte für Kinder eilig entfernt.",
+        "cuerpo": [
+          "Der Park Pelambre in Villaviciosa wird umgestaltet: Das Projekt, das das Rathaus vorbereitet, sieht im Rahmen der Maßnahme eine Erweiterung der Parkflächen vor.",
+          "Während das Projekt noch ausgearbeitet wird, hat das Rathaus bereits gehandelt: Es hat die am stärksten beschädigten Elemente des Spielbereichs entfernt, ohne auf den Beginn der eigentlichen Bauarbeiten zu warten."
+        ],
+        "apunte": "Erst weg, was kaputt ist – das Schöne kommt danach.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa bereitet die Renovierung des Parks Pelambre vor und plant neue Parkplätze ein.",
+          "Die am stärksten abgenutzten Kinderspielgeräte wurden bereits entfernt, während das Projekt fertiggestellt wird.",
+          "Die vollständigen Bauarbeiten beginnen, sobald das Projekt fertig ist."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer am Pelambre parkt oder spazieren geht, wird bald Veränderungen bemerken: schon jetzt weniger alte Spielgeräte und mehr Parkplätze, sobald die Bauarbeiten beginnen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-gijonesa-miriam-vega-se-proclama-subcampeona-del-mundo-de-maraton-e",
     "url": "/pilona/la-gijonesa-miriam-vega-se-proclama-subcampeona-del-mundo-de-maraton-e/",
     "concejo": "Piloña",
@@ -8031,108 +8132,6 @@
         },
         "palabra": null,
         "porQue": "Wer in Villaviciosa lebt oder arbeitet und seit Langem auf Parkplatzsuche kämpft, wird den Unterschied bemerken, sobald die Änderungen in Kraft treten.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "noticia",
-    "url": "/villaviciosa/noticia/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa aprueba el reglamento de su sala de estudios",
-    "entradilla": "El uso del espacio municipal ya tiene normas claras y oficiales.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha aprobado definitivamente el reglamento que regula cómo se usa la sala de estudios municipal. La aprobación se publicó el 15 de octubre de 2026.",
-      "Con este reglamento, el acceso y el funcionamiento del espacio quedan fijados por escrito, lo que da seguridad tanto a quienes lo gestionan como a quienes lo utilizan."
-    ],
-    "apunte": "Ahora ya nadie podrá decir que no sabía las normas.",
-    "enVeinte": [
-      "Villaviciosa tiene desde el 15 de octubre de 2026 un reglamento aprobado definitivamente para la sala de estudios municipal.",
-      "El texto fija las condiciones de uso del espacio y da respaldo oficial a su gestión.",
-      "Quien quiera usar la sala deberá atenerse a las normas recogidas en ese reglamento."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Si estudias o tienes hijos que estudian en Villaviciosa, las reglas del espacio público donde se puede ir a preparar exámenes ya están fijadas y son de obligado cumplimiento.",
-    "etiquetas": [
-      "Villaviciosa",
-      "sala de estudios",
-      "reglamento",
-      "ayuntamiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-15T14:37:32.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20079305",
-      "titularOriginal": "noticia:",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa approves the regulation for its municipal study room",
-        "entradilla": "The use of the municipal space now has clear, official rules.",
-        "cuerpo": [
-          "The council of Villaviciosa has definitively approved the regulation governing how the municipal study room is used. The approval was published on 15 October 2026.",
-          "With this regulation, access to and operation of the space are set down in writing, giving certainty both to those who manage it and to those who use it."
-        ],
-        "apunte": "From now on, nobody will be able to claim they did not know the rules.",
-        "enVeinte": [
-          "Villaviciosa has had a definitively approved regulation for its municipal study room since 15 October 2026.",
-          "The text sets out the conditions for using the space and gives official backing to its management.",
-          "Anyone wishing to use the room must abide by the rules laid down in that regulation."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "If you study or have children who study in Villaviciosa, the rules for the public space where you can go to prepare for exams are now fixed and legally binding.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa approuve le règlement de sa salle d'étude municipale",
-        "entradilla": "L'utilisation de l'espace municipal dispose désormais de règles claires et officielles.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a approuvé définitivement le règlement qui régit l'utilisation de la salle d'étude municipale. L'approbation a été publiée le 15 octobre 2026.",
-          "Grâce à ce règlement, les conditions d'accès et de fonctionnement de l'espace sont fixées par écrit, ce qui apporte une sécurité tant aux gestionnaires qu'aux utilisateurs."
-        ],
-        "apunte": "Désormais, personne ne pourra prétendre qu'il ignorait les règles.",
-        "enVeinte": [
-          "Villaviciosa dispose depuis le 15 octobre 2026 d'un règlement définitivement approuvé pour sa salle d'étude municipale.",
-          "Le texte fixe les conditions d'utilisation de l'espace et donne un cadre officiel à sa gestion.",
-          "Toute personne souhaitant utiliser la salle devra se conformer aux règles contenues dans ce règlement."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Si vous étudiez ou si vous avez des enfants qui étudient à Villaviciosa, les règles de l'espace public où l'on peut aller préparer ses examens sont désormais établies et d'application obligatoire.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa verabschiedet die Satzung für seinen städtischen Lernraum",
-        "entradilla": "Die Nutzung des städtischen Raums hat nun klare und offizielle Regeln.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat die Satzung zur Nutzung des städtischen Lernraums endgültig verabschiedet. Die Genehmigung wurde am 15. Oktober 2026 veröffentlicht.",
-          "Mit dieser Satzung sind Zugang und Betrieb des Raums schriftlich festgelegt, was sowohl den Verwaltenden als auch den Nutzenden Rechtssicherheit gibt."
-        ],
-        "apunte": "Von nun an kann niemand mehr sagen, er habe die Regeln nicht gekannt.",
-        "enVeinte": [
-          "Villaviciosa verfügt seit dem 15. Oktober 2026 über eine endgültig verabschiedete Satzung für seinen städtischen Lernraum.",
-          "Der Text legt die Nutzungsbedingungen des Raums fest und gibt seiner Verwaltung einen offiziellen Rahmen.",
-          "Wer den Raum nutzen möchte, muss sich an die in dieser Satzung enthaltenen Regeln halten."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Wenn Sie in Villaviciosa studieren oder Kinder haben, die dort studieren, sind die Regeln für den öffentlichen Raum, in dem man sich auf Prüfungen vorbereiten kann, nun festgelegt und verbindlich.",
         "lugar": "",
         "precio": ""
       }
@@ -39262,260 +39261,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "villaviciosa-convoca-ayudas-para-que-los-vecinos-puedan-hacer-sextafer",
-    "url": "/villaviciosa/villaviciosa-convoca-ayudas-para-que-los-vecinos-puedan-hacer-sextafer/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa pone 40.000 euros para las sextaferias",
-    "entradilla": "El concejo reconoce en metálico el trabajo vecinal que mantiene vivos los pueblos.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa abre una convocatoria de ayudas dotada con 40.000 euros para respaldar a quienes organizan sextaferias en el concejo.",
-      "El programa quiere reconocer el esfuerzo de los vecinos que, de manera colectiva, cuidan caminos, fuentes y espacios comunes rurales como se ha hecho aquí desde siempre."
-    ],
-    "apunte": "Cuarenta mil euros para lo que los güelos hacían sin que nadie se los pidiera.",
-    "enVeinte": [
-      "Villaviciosa convoca ayudas por valor de 40.000 euros para financiar sextaferias en el concejo.",
-      "El programa busca apoyar el trabajo colectivo que mantiene la vida en los pueblos rurales.",
-      "Los vecinos interesados pueden acudir al Ayuntamiento para informarse sobre la convocatoria."
-    ],
-    "cifra": {
-      "numero": "40.000",
-      "unidad": "euros",
-      "glosa": "Es la bolsa total que el Ayuntamiento de Villaviciosa destina a este programa de ayudas. El dinero se repartirá entre los vecinos o colectivos que organicen sextaferias en el concejo."
-    },
-    "palabra": {
-      "termino": "sextaferia",
-      "como": "sex-ta-fe-ria, igual que suena",
-      "definicion": "Trabajo comunal no remunerado en el que los vecinos de un pueblo se juntan para arreglar caminos, limpiar regueros o atender espacios de uso común. Es una tradición arraigada en el rural asturiano que viene de antiguo."
-    },
-    "porQue": "Si participas en una sextaferia en Villaviciosa, ahora puedes recibir una ayuda municipal por ello; el Ayuntamiento paga parte de ese esfuerzo colectivo que hasta ahora salía del bolsillo y la buena voluntad de los vecinos.",
-    "etiquetas": [
-      "Villaviciosa",
-      "ayudas",
-      "sextaferias",
-      "pueblos"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/27/SestaferiaSamartinMar%201-RJPy0jWMkQkwfkJj8W6FceI-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-27T17:56:40.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-convoca-ayudas-vecinos-puedan-sextaferias-20260727192921-nt.html",
-      "titularOriginal": "Villaviciosa convoca ayudas para que los vecinos puedan hacer sextaferias"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa puts up 40,000 euros for sextaferias",
-        "entradilla": "The municipality recognises in cash the community work that keeps villages alive.",
-        "cuerpo": [
-          "The council of Villaviciosa has opened a grants scheme worth 40,000 euros to support those who organise sextaferias (communal work days) in the municipality.",
-          "The programme aims to recognise the effort of residents who, collectively, look after paths, fountains and shared rural spaces as people have always done here."
-        ],
-        "apunte": "Forty thousand euros for what the old folk did without anyone having to ask.",
-        "enVeinte": [
-          "Villaviciosa is offering grants totalling 40,000 euros to fund sextaferias in the municipality.",
-          "The programme aims to support the collective work that keeps rural villages going.",
-          "Interested residents can visit the council to find out more about the scheme."
-        ],
-        "cifra": {
-          "numero": "40,000",
-          "unidad": "euros",
-          "glosa": "This is the total pot that the council of Villaviciosa has set aside for this grants programme. The money will be distributed among residents or groups who organise sextaferias in the municipality."
-        },
-        "palabra": {
-          "termino": "sextaferia",
-          "como": "sex-ta-fe-ria, pronounced as it looks",
-          "definicion": "Unpaid communal work in which the residents of a village come together to repair paths, clear irrigation channels or tend shared spaces. It is a deep-rooted tradition in rural Asturias with ancient origins."
-        },
-        "porQue": "If you take part in a sextaferia in Villaviciosa, you can now receive a municipal grant for doing so; the council is paying for part of that collective effort that until now came out of residents' own pockets and goodwill.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa alloue 40 000 euros aux sextaferias",
-        "entradilla": "La commune reconnaît en espèces le travail des habitants qui maintiennent les villages en vie.",
-        "cuerpo": [
-          "La mairie de Villaviciosa lance un appel à aides doté de 40 000 euros pour soutenir ceux qui organisent des sextaferias (corvées communales) dans la commune.",
-          "Le programme entend saluer l'effort des habitants qui, de façon collective, entretiennent chemins, fontaines et espaces communs ruraux comme on l'a toujours fait ici."
-        ],
-        "apunte": "Quarante mille euros pour ce que les anciens faisaient sans que personne le leur demande.",
-        "enVeinte": [
-          "Villaviciosa lance un appel à aides d'une valeur de 40 000 euros pour financer des sextaferias dans la commune.",
-          "Le programme vise à soutenir le travail collectif qui maintient la vie dans les villages ruraux.",
-          "Les habitants intéressés peuvent se rendre à la mairie pour s'informer sur l'appel."
-        ],
-        "cifra": {
-          "numero": "40 000",
-          "unidad": "euros",
-          "glosa": "C'est l'enveloppe totale que la mairie de Villaviciosa consacre à ce programme d'aides. L'argent sera réparti entre les habitants ou les collectifs qui organisent des sextaferias dans la commune."
-        },
-        "palabra": {
-          "termino": "sextaferia",
-          "como": "sex-ta-fe-ria, se prononce comme ça s'écrit",
-          "definicion": "Travail communal non rémunéré au cours duquel les habitants d'un village se réunissent pour réparer des chemins, curer des fossés ou entretenir des espaces d'usage commun. C'est une tradition profondément ancrée dans le monde rural asturien, héritée du passé lointain."
-        },
-        "porQue": "Si vous participez à une sextaferia à Villaviciosa, vous pouvez désormais recevoir une aide municipale pour cela ; la mairie prend en charge une partie de cet effort collectif qui jusqu'à présent reposait sur la bonne volonté et les ressources propres des habitants.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa stellt 40.000 Euro für Sextaferias bereit",
-        "entradilla": "Die Gemeinde honoriert mit Geld die Nachbarschaftsarbeit, die die Dörfer am Leben erhält.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa schreibt ein Förderprogramm mit 40.000 Euro aus, um diejenigen zu unterstützen, die in der Gemeinde Sextaferias (gemeinschaftliche Arbeitseinsätze) organisieren.",
-          "Das Programm soll die Anstrengungen der Bewohner anerkennen, die gemeinsam Wege, Brunnen und gemeinsam genutzte ländliche Flächen pflegen – so wie es hier seit jeher getan wird."
-        ],
-        "apunte": "Vierzigtausend Euro für das, was die Alten taten, ohne dass jemand sie darum bitten musste.",
-        "enVeinte": [
-          "Villaviciosa schreibt Fördergelder in Höhe von 40.000 Euro zur Finanzierung von Sextaferias in der Gemeinde aus.",
-          "Das Programm soll die gemeinschaftliche Arbeit unterstützen, die das Leben in den ländlichen Dörfern aufrechterhält.",
-          "Interessierte Bewohner können sich beim Rathaus über die Ausschreibung informieren."
-        ],
-        "cifra": {
-          "numero": "40.000",
-          "unidad": "Euro",
-          "glosa": "Dies ist der Gesamtbetrag, den das Rathaus von Villaviciosa für dieses Förderprogramm bereitstellt. Das Geld wird unter den Bewohnern oder Gruppen aufgeteilt, die in der Gemeinde Sextaferias organisieren."
-        },
-        "palabra": {
-          "termino": "sextaferia",
-          "como": "sex-ta-fe-ria, wird ausgesprochen wie geschrieben",
-          "definicion": "Unbezahlte Gemeinschaftsarbeit, bei der sich die Bewohner eines Dorfes zusammenfinden, um Wege auszubessern, Wasserläufe zu säubern oder gemeinsam genutzte Flächen zu pflegen. Es handelt sich um eine tief verwurzelte Tradition im ländlichen Asturien mit alten Ursprüngen."
-        },
-        "porQue": "Wer in Villaviciosa an einer Sextaferia teilnimmt, kann dafür jetzt eine Förderung der Gemeinde erhalten; das Rathaus bezuschusst einen Teil jenes gemeinschaftlichen Einsatzes, der bislang aus eigener Tasche und gutem Willen der Bewohner bestritten wurde.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "villaviciosa-celebra-este-miercoles-la-segunda-fiesta-del-verano-para-",
-    "url": "/villaviciosa/villaviciosa-celebra-este-miercoles-la-segunda-fiesta-del-verano-para-/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa vuelve a festejar a sus mayores este miércoles",
-    "entradilla": "La plaza del Güevu acoge la segunda Fiesta del Verano para Mayores con Mina Longo como artista invitada.",
-    "cuerpo": [
-      "Villaviciosa organiza este miércoles la segunda edición de su Fiesta del Verano para Mayores en la plaza del Güevu.",
-      "La cantante Mina Longo es la encargada de animar la tarde con su actuación."
-    ],
-    "apunte": "Segunda vez que el Güevu se llena de güelos este verano, y no parece que nadie se queje.",
-    "enVeinte": [
-      "Villaviciosa celebra este miércoles la segunda Fiesta del Verano para Mayores en la plaza del Güevu.",
-      "La cantante Mina Longo actuará en el evento.",
-      "Es la segunda edición de esta fiesta estival dedicada al público mayor."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Güevu",
-      "como": "GÜE-vu",
-      "definicion": "Así llaman en Villaviciosa a la plaza que debe su nombre popular a su forma ovalada, como un huevo. El topónimo asturiano ha sobrevivido al castellano oficial y cualquier villaviciosino te lleva allí sin dudar."
-    },
-    "porQue": "Si tienes familia mayor en Villaviciosa, este miércoles en la plaza del Güevu hay plan: música en directo y ambiente festivo pensado para ellos.",
-    "etiquetas": [
-      "Villaviciosa",
-      "mayores",
-      "fiesta del verano",
-      "Mina Longo"
-    ],
-    "fechaEvento": "2026-07-29",
-    "tipoEvento": "fiesta",
-    "lugar": "plaza del Güevu, Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/27/huevu-RHCf3Mu5TljcYdDt57camrL-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-27T17:29:02.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-celebra-miercoles-segunda-fiesta-verano-mayores-20260727192902-nt.html",
-      "titularOriginal": "Villaviciosa celebra este miércoles la segunda Fiesta del Verano para Mayores en la plaza del Güevu"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa celebrates its older residents again this Wednesday",
-        "entradilla": "Plaza del Güevu hosts the second Summer Festival for Older People, with Mina Longo as guest artist.",
-        "cuerpo": [
-          "Villaviciosa is holding this Wednesday the second edition of its Summer Festival for Older People at plaza del Güevu.",
-          "Singer Mina Longo is in charge of bringing the afternoon to life with her performance."
-        ],
-        "apunte": "The second time the Güevu fills up with grandparents this summer, and nobody seems to be complaining.",
-        "enVeinte": [
-          "Villaviciosa hosts this Wednesday the second Summer Festival for Older People at plaza del Güevu.",
-          "Singer Mina Longo will perform at the event.",
-          "This is the second edition of this summer festival dedicated to older audiences."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Güevu",
-          "como": "GÜE-vu",
-          "definicion": "This is what people in Villaviciosa call the square that owes its popular name to its oval shape, like an egg. The Asturian toponym has outlived the official Castilian and any local will take you straight there without hesitation."
-        },
-        "porQue": "If you have older family in Villaviciosa, this Wednesday at plaza del Güevu there is a plan: live music and a festive atmosphere designed with them in mind.",
-        "lugar": "plaza del Güevu, Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa fête à nouveau ses aînés ce mercredi",
-        "entradilla": "La plaza del Güevu accueille la deuxième Fiesta del Verano para Mayores avec Mina Longo comme artiste invitée.",
-        "cuerpo": [
-          "Villaviciosa organise ce mercredi la deuxième édition de sa Fiesta del Verano para Mayores sur la plaza del Güevu.",
-          "La chanteuse Mina Longo est chargée d'animer l'après-midi avec sa prestation."
-        ],
-        "apunte": "Deuxième fois cet été que le Güevu se remplit de grands-parents, et personne ne semble s'en plaindre.",
-        "enVeinte": [
-          "Villaviciosa célèbre ce mercredi la deuxième Fiesta del Verano para Mayores sur la plaza del Güevu.",
-          "La chanteuse Mina Longo se produira lors de l'événement.",
-          "C'est la deuxième édition de cette fête estivale dédiée au public senior."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Güevu",
-          "como": "GÜE-vu",
-          "definicion": "C'est ainsi que les habitants de Villaviciosa désignent la place qui doit son nom populaire à sa forme ovale, comme un œuf. Le toponyme asturien a survécu au castillan officiel et n'importe quel habitant de Villaviciosa vous y conduit sans hésiter."
-        },
-        "porQue": "Si vous avez de la famille âgée à Villaviciosa, ce mercredi sur la plaza del Güevu il y a un programme : musique en direct et ambiance festive pensée pour eux.",
-        "lugar": "plaza del Güevu, Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa feiert seine älteren Bewohner wieder — diesen Mittwoch",
-        "entradilla": "Die Plaza del Güevu ist Schauplatz der zweiten Fiesta del Verano para Mayores mit Mina Longo als Gastkünstlerin.",
-        "cuerpo": [
-          "Villaviciosa veranstaltet diesen Mittwoch die zweite Ausgabe seiner Fiesta del Verano para Mayores auf der Plaza del Güevu.",
-          "Die Sängerin Mina Longo sorgt mit ihrem Auftritt für Stimmung am Nachmittag."
-        ],
-        "apunte": "Zum zweiten Mal in diesem Sommer füllt sich der Güevu mit Großeltern — und niemand scheint sich zu beschweren.",
-        "enVeinte": [
-          "Villaviciosa begeht diesen Mittwoch die zweite Fiesta del Verano para Mayores auf der Plaza del Güevu.",
-          "Die Sängerin Mina Longo tritt bei der Veranstaltung auf.",
-          "Es ist die zweite Ausgabe dieses sommerlichen Festes für älteres Publikum."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Güevu",
-          "como": "GÜE-vu",
-          "definicion": "So nennen die Einwohner von Villaviciosa den Platz, dessen volkstümlicher Name von seiner ovalen Form herrührt — wie ein Ei. Das asturische Toponym hat das offizielle Kastilische überdauert, und jeder aus Villaviciosa findet ihn auf Anhieb."
-        },
-        "porQue": "Wer ältere Familienmitglieder in Villaviciosa hat: Diesen Mittwoch auf der Plaza del Güevu ist etwas geboten — Live-Musik und Feststimmung, ganz auf sie zugeschnitten.",
-        "lugar": "plaza del Güevu, Villaviciosa",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "fiesta del verano para mayores en la plaza",
-      "del verano para mayores en la plaza del",
-      "verano para mayores en la plaza del guevu"
-    ]
   }
 ]
