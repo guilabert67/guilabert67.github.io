@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-26T05:02:25.322Z",
+  "fecha": "2026-10-26T11:01:27.817Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "PSOE y PP usaron el certamen del Gamonéu de Benia como escenario electoral.",
-      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
-    },
-    {
-      "concejo": "Cabrales",
-      "frase": "El queso y los ganaderos de Cabrales, moneda de cambio en la campaña preelectoral.",
-      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
-    },
-    {
-      "concejo": "Cabrales",
-      "frase": "Los políticos llegaron a Benia de Onís con mensajes muy distintos sobre el Gamonéu.",
-      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
+      "concejo": "Nava",
+      "frase": "Nava compite con Llanes: vota ya para llevar a Asturias al concurso de Ferrero Rocher.",
+      "enlace": "/nava/llanes-competira-con-nava-por-representar-a-asturias-en-la-campana-nav/"
     }
   ]
 }
