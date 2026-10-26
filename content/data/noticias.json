@@ -1,5 +1,784 @@
 [
   {
+    "id": "villaviciosa-ultima-el-proyecto-para-convertir-el-pelambre-en-una-zona",
+    "url": "/villaviciosa/villaviciosa-ultima-el-proyecto-para-convertir-el-pelambre-en-una-zona/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "El Pelambre de Villaviciosa se hace multiactividad",
+    "entradilla": "El ayuntamiento descarta reflotar el estanque y ya ha empezado a retirar los juegos más estropeados.",
+    "cuerpo": [
+      "Villaviciosa prepara un proyecto para dar nueva vida al Pelambre. El espacio pasará a ser una zona de multiactividad y contará con área de aparcamiento.",
+      "El consistorio ha cerrado la puerta a volver a llenar el estanque. Como primer paso, ha quitado ya los juegos infantiles que estaban en peor estado."
+    ],
+    "apunte": "El estanque se queda seco; a ver qué entra en su lugar.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ultima un proyecto para convertir el Pelambre en zona multiactividad con aparcamiento.",
+      "Descarta por completo volver a poner agua en el estanque del parque.",
+      "Ya ha retirado los juegos infantiles más deteriorados como primer movimiento."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El Pelambre es uno de los espacios de ocio más céntricos de Villaviciosa, y su nueva forma determinará cómo lo usa el vecindario los próximos años.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Pelambre",
+      "urbanismo",
+      "parque infantil"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2023/04/18/2023041812252215414.jpg",
+    "fecha": "2026-10-26T15:33:23.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/parque-pelambre-villaviciosa-reforma-integral/20261026163323104992.html",
+      "titularOriginal": "Villaviciosa ultima el proyecto para convertir el Pelambre en una zona multiactividad, con parte del espacio para aparcar"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Pelambre in Villaviciosa becomes a multi-activity space",
+        "entradilla": "The council has ruled out refilling the pond and has already begun removing the most damaged play equipment.",
+        "cuerpo": [
+          "Villaviciosa is preparing a project to give El Pelambre a new lease of life. The space will become a multi-activity zone and will include a car park.",
+          "The council has closed the door on refilling the pond. As a first step, it has already removed the children's play equipment that was in the worst condition."
+        ],
+        "apunte": "The pond stays dry — now we wait to see what takes its place.",
+        "enVeinte": [
+          "The Villaviciosa council is finalising a project to turn El Pelambre into a multi-activity zone with parking.",
+          "It has ruled out putting water back in the park's pond entirely.",
+          "It has already removed the most deteriorated children's play equipment as a first move."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Pelambre is one of the most central leisure spaces in Villaviciosa, and its new shape will determine how local residents use it for years to come.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Pelambre à Villaviciosa devient un espace multiactivités",
+        "entradilla": "La mairie écarte l'idée de remplir à nouveau le bassin et a déjà commencé à retirer les jeux les plus endommagés.",
+        "cuerpo": [
+          "Villaviciosa prépare un projet pour redonner vie à El Pelambre. L'espace deviendra une zone multiactivités et disposera d'un parking.",
+          "La mairie a définitivement renoncé à remplir le bassin. Dans un premier temps, elle a déjà retiré les jeux pour enfants qui étaient en plus mauvais état."
+        ],
+        "apunte": "Le bassin reste à sec ; reste à voir ce qui prendra sa place.",
+        "enVeinte": [
+          "La mairie de Villaviciosa finalise un projet pour transformer El Pelambre en zone multiactivités avec parking.",
+          "Elle écarte complètement l'idée de remettre de l'eau dans le bassin du parc.",
+          "Elle a déjà retiré les jeux pour enfants les plus détériorés comme premier geste."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Pelambre est l'un des espaces de loisirs les plus centraux de Villaviciosa, et sa nouvelle configuration déterminera la façon dont les habitants l'utiliseront dans les années à venir.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Pelambre in Villaviciosa wird zur Multifunktionszone",
+        "entradilla": "Das Rathaus schließt eine erneute Befüllung des Teiches aus und hat bereits begonnen, die am stärksten beschädigten Spielgeräte zu entfernen.",
+        "cuerpo": [
+          "Villaviciosa bereitet ein Projekt vor, um El Pelambre neues Leben einzuhauchen. Der Bereich soll zu einer Multifunktionszone werden und einen Parkplatz erhalten.",
+          "Das Rathaus hat die Tür für eine erneute Befüllung des Teiches endgültig geschlossen. Als ersten Schritt hat es bereits die Kinderspielgeräte entfernt, die sich in dem schlechtesten Zustand befanden."
+        ],
+        "apunte": "Der Teich bleibt trocken — jetzt bleibt abzuwarten, was an seine Stelle tritt.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schließt ein Projekt ab, um El Pelambre in eine Multifunktionszone mit Parkplatz umzuwandeln.",
+          "Eine erneute Befüllung des Teiches im Park wird vollständig ausgeschlossen.",
+          "Als ersten Schritt wurden bereits die am stärksten beschädigten Kinderspielgeräte entfernt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Pelambre ist einer der zentralsten Freizeitbereiche in Villaviciosa, und seine neue Gestalt wird bestimmen, wie die Anwohner ihn in den kommenden Jahren nutzen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-plan-de-pavimentacion-de-gijon-se-financia-con-cargo-al-presupuesto",
+    "url": "/cabrales/el-plan-de-pavimentacion-de-gijon-se-financia-con-cargo-al-presupuesto/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "avisos",
+    "titular": "Gijón asfalta 162.000 metros antes de fin de año",
+    "entradilla": "El Ayuntamiento destina 3,7 millones a 156 puntos del concejo, tanto en la ciudad como en caminos rurales.",
+    "cuerpo": [
+      "El plan de pavimentación de Gijón moverá 3,7 millones de euros para mejorar calles y caminos en 156 localizaciones distintas, con una superficie total de 162.000 metros cuadrados. Las obras tienen que arrancar antes de que acabe 2026.",
+      "En la trama urbana, los trabajos llegarán a las calles Cabrales, Uría, Ramón y Cajal y Dionisio Cifuentes. La Avenida de la Constitución y la Avenida José Manuel Palacio ya tienen contrato adjudicado, así que serán las primeras en verse intervenidas.",
+      "En el rural, la prioridad pasa por los caminos de acceso a viviendas. Algunas actuaciones ya están ejecutadas: el plan lleva un tiempo en marcha, aunque la mayor parte del gasto está todavía por desplegar."
+    ],
+    "apunte": "162.000 metros cuadrados de asfalto nuevo: si no te toca la calle, igual te toca el camino.",
+    "enVeinte": [
+      "Gijón va a asfaltar 156 puntos del concejo con un presupuesto de 3,7 millones de euros.",
+      "Las obras urbanas afectarán a varias calles céntricas; en el rural, se priorizan los accesos a viviendas.",
+      "Los trabajos deben comenzar antes de que termine 2026 y algunas actuaciones ya están adjudicadas."
+    ],
+    "cifra": {
+      "numero": "162.000",
+      "unidad": "metros cuadrados",
+      "glosa": "Es la superficie total que abarcará el plan de pavimentación de Gijón. Para hacerse una idea: son unas 23 canchas de fútbol reglamentarias. Se repartirán entre 156 localizaciones distintas."
+    },
+    "palabra": null,
+    "porQue": "Si vives en Gijón o accedes al concejo por caminos rurales, es probable que alguna de las 156 actuaciones previstas esté cerca de tu puerta o de tu finca.",
+    "etiquetas": [
+      "Gijón",
+      "obras",
+      "pavimentación",
+      "infraestructuras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261026143035_RTPA8771724.webp",
+    "fecha": "2026-10-26T14:45:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-26/El-plan-de-pavimentacion-se-financia-con-cargo-al-presupuesto-municipal-y-el-contrato-de-conservacion_111793023953.html",
+      "titularOriginal": "El plan de pavimentación de Gijón se financia con cargo al presupuesto municipal y el contrato de conservación"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Gijón resurfaces 162,000 square metres before the year is out",
+        "entradilla": "The council is allocating 3.7 million euros to 156 points across the municipality, covering both the city and rural tracks.",
+        "cuerpo": [
+          "Gijón's paving plan will channel 3.7 million euros into improving streets and tracks at 156 different locations, covering a total surface area of 162,000 square metres. Work must begin before the end of 2026.",
+          "In the urban grid, works will reach Cabrales, Uría, Ramón y Cajal and Dionisio Cifuentes streets. Avenida de la Constitución and Avenida José Manuel Palacio already have contracts awarded, so they will be the first to be tackled.",
+          "In rural areas, the priority is access tracks to homes. Some interventions have already been carried out: the plan has been under way for some time, although most of the spending is still to be deployed."
+        ],
+        "apunte": "162,000 square metres of new asphalt: if your street isn't on the list, your track might be.",
+        "enVeinte": [
+          "Gijón is set to resurface 156 points across the municipality with a budget of 3.7 million euros.",
+          "Urban works will affect several central streets; in rural areas, the focus is on access routes to homes.",
+          "Works must begin before the end of 2026 and some contracts have already been awarded."
+        ],
+        "cifra": {
+          "numero": "162,000",
+          "unidad": "square metres",
+          "glosa": "This is the total surface area covered by Gijón's paving plan. To put it in perspective: that is roughly 23 regulation football pitches. It will be spread across 156 different locations."
+        },
+        "palabra": null,
+        "porQue": "If you live in Gijón or access the municipality via rural tracks, there is a good chance that one of the 156 planned interventions is close to your door or your plot of land.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Gijón va asphalter 162 000 mètres carrés avant la fin de l'année",
+        "entradilla": "La mairie consacre 3,7 millions d'euros à 156 points de la commune, aussi bien en ville que sur les chemins ruraux.",
+        "cuerpo": [
+          "Le plan de pavage de Gijón mobilisera 3,7 millions d'euros pour améliorer rues et chemins en 156 endroits différents, pour une superficie totale de 162 000 mètres carrés. Les travaux doivent démarrer avant la fin 2026.",
+          "Dans la trame urbaine, les travaux toucheront les rues Cabrales, Uría, Ramón y Cajal et Dionisio Cifuentes. L'Avenida de la Constitución et l'Avenida José Manuel Palacio ont déjà un marché attribué ; elles seront donc les premières à être rénovées.",
+          "En zone rurale, la priorité va aux chemins d'accès aux habitations. Certaines interventions sont déjà réalisées : le plan est en cours depuis un moment, même si la majeure partie des dépenses reste encore à engager."
+        ],
+        "apunte": "162 000 mètres carrés de nouvel asphalte : si ce n'est pas votre rue, c'est peut-être votre chemin.",
+        "enVeinte": [
+          "Gijón va asphalter 156 points de la commune avec un budget de 3,7 millions d'euros.",
+          "Les travaux urbains concerneront plusieurs rues du centre ; en zone rurale, la priorité va aux voies d'accès aux habitations.",
+          "Les travaux doivent commencer avant la fin 2026 et certains marchés sont déjà attribués."
+        ],
+        "cifra": {
+          "numero": "162 000",
+          "unidad": "mètres carrés",
+          "glosa": "C'est la superficie totale que couvrira le plan de pavage de Gijón. Pour se faire une idée : cela représente environ 23 terrains de football réglementaires. Elle sera répartie entre 156 endroits différents."
+        },
+        "palabra": null,
+        "porQue": "Si vous vivez à Gijón ou accédez à la commune par des chemins ruraux, il y a de bonnes chances que l'une des 156 interventions prévues soit proche de votre porte ou de votre terrain.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Gijón asphaltiert 162.000 Quadratmeter noch vor Jahresende",
+        "entradilla": "Das Rathaus stellt 3,7 Millionen Euro für 156 Punkte in der Gemeinde bereit – sowohl in der Stadt als auch auf Landwegen.",
+        "cuerpo": [
+          "Der Belagsplan von Gijón setzt 3,7 Millionen Euro ein, um Straßen und Wege an 156 verschiedenen Standorten zu verbessern, bei einer Gesamtfläche von 162.000 Quadratmetern. Die Arbeiten müssen vor Ende 2026 beginnen.",
+          "Im städtischen Bereich werden die Arbeiten die Straßen Cabrales, Uría, Ramón y Cajal und Dionisio Cifuentes erfassen. Für die Avenida de la Constitución und die Avenida José Manuel Palacio sind bereits Aufträge vergeben worden, sodass diese als Erste angegangen werden.",
+          "Im ländlichen Bereich haben Zuwegungen zu Wohnhäusern Vorrang. Einige Maßnahmen sind bereits abgeschlossen: Der Plan läuft schon eine Weile, doch der Großteil der Ausgaben steht noch aus."
+        ],
+        "apunte": "162.000 Quadratmeter neuer Asphalt: Wenn Ihre Straße nicht dabei ist, vielleicht Ihr Weg.",
+        "enVeinte": [
+          "Gijón wird 156 Punkte in der Gemeinde mit einem Budget von 3,7 Millionen Euro asphaltieren.",
+          "Die städtischen Arbeiten betreffen mehrere zentrale Straßen; im ländlichen Bereich haben Zuwegungen zu Wohnhäusern Vorrang.",
+          "Die Arbeiten müssen vor Ende 2026 beginnen, und einige Aufträge sind bereits vergeben."
+        ],
+        "cifra": {
+          "numero": "162.000",
+          "unidad": "Quadratmeter",
+          "glosa": "Das ist die Gesamtfläche, die der Belagsplan von Gijón umfassen wird. Zum Vergleich: Das entspricht etwa 23 regulären Fußballfeldern. Sie verteilt sich auf 156 verschiedene Standorte."
+        },
+        "palabra": null,
+        "porQue": "Wenn Sie in Gijón wohnen oder die Gemeinde über Landwege erreichen, ist die Wahrscheinlichkeit groß, dass eine der 156 geplanten Maßnahmen in der Nähe Ihrer Tür oder Ihres Grundstücks liegt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "las calles cabrales uria ramon y cajal y",
+      "calles cabrales uria ramon y cajal y dionisio",
+      "cabrales uria ramon y cajal y dionisio cifuentes",
+      "la avenida de la constitucion y la avenida",
+      "avenida de la constitucion y la avenida jose",
+      "de la constitucion y la avenida jose manuel",
+      "la constitucion y la avenida jose manuel palacio"
+    ]
+  },
+  {
+    "id": "el-cierre-del-puente-de-ribadesella-deja-sin-paso-peatonal-a-vecinos-y",
+    "url": "/pilona/el-cierre-del-puente-de-ribadesella-deja-sin-paso-peatonal-a-vecinos-y/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "El puente de Ribadesella cierra sin avisar a nadie",
+    "entradilla": "Vecinos y turistas se encontraron de golpe con el paso cortado y una lanzadera que acababa de marcharse.",
+    "cuerpo": [
+      "El puente sobre el Sella en Ribadesella amaneció el 26 de octubre cerrado al tráfico peatonal sin que nadie hubiera avisado con antelación. Los afectados se vieron remitidos a unas lanzaderas gratuitas, pero el autobús acababa de salir y la espera superaba la media hora, según relató Armando Basilio, vecino de Ribadesella.",
+      "Las consecuencias fueron inmediatas: vecinas que no pudieron llegar al polideportivo a tiempo para su clase, otras que habían dejado la fabada al fuego en casa y no les dejaban seguir a pie, según contaron Julia Suárez y Cristina Cue. Una pareja de turistas chilenos, Sofía Campos y James Pirley, esperaba coger un vuelo a las tres de la tarde con un bebé.",
+      "La queja común no era la obra en sí, sino la ausencia de información previa. Los afectados piden que los avisos lleguen antes de que empiece el corte y que las lanzaderas funcionen sin esperas tan largas desde el primer momento."
+    ],
+    "apunte": "La fabada en el fuego y el vuelo a las tres: un puente que cierra sin avisar no entiende de horarios ajenos.",
+    "enVeinte": [
+      "El puente de Ribadesella cerró al paso peatonal el 26 de octubre sin previo aviso.",
+      "Las lanzaderas gratuitas son la alternativa prevista, pero la primera mañana dejó esperas de más de media hora.",
+      "Vecinos y turistas piden información con antelación y un servicio de autobús más ágil durante las obras."
+    ],
+    "cifra": {
+      "numero": "+30",
+      "unidad": "minutos de espera",
+      "glosa": "Lo que tardaba la siguiente lanzadera en llegar aquella primera mañana. Tiempo suficiente para perder una clase, que se pase una fabada o perder un vuelo."
+    },
+    "palabra": null,
+    "porQue": "Quien cruce habitualmente el Sella a pie —o tenga pensado hacerlo— necesita saber que la lanzadera es ahora la única opción y que conviene consultar el horario antes de salir de casa.",
+    "etiquetas": [
+      "Ribadesella",
+      "obras",
+      "corte de tráfico",
+      "lanzaderas"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Puente sobre el Sella, Ribadesella",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261026141414_RTPA8771604.webp",
+    "fecha": "2026-10-26T13:34:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-26/El-cierre-del-puente-de-Ribadesella-deja-sin-paso-peatonal-a-vecinos-y-visitantes_111793020559.html",
+      "titularOriginal": "El cierre del puente de Ribadesella deja sin paso peatonal a vecinos y visitantes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella bridge closes with no warning",
+        "entradilla": "Residents and tourists suddenly found the crossing shut and a shuttle that had just left.",
+        "cuerpo": [
+          "The bridge over the Sella in Ribadesella was closed to pedestrian traffic on 26 October with no prior notice. Those affected were directed to free shuttle buses, but the bus had just departed and the wait was over half an hour, according to Armando Basilio, a Ribadesella resident.",
+          "The consequences were immediate: women who could not reach the sports centre in time for their class, others who had left fabada on the stove at home and were not allowed to continue on foot, as Julia Suárez and Cristina Cue recounted. A Chilean tourist couple, Sofía Campos and James Pirley, were hoping to catch a flight at three in the afternoon with a baby.",
+          "The shared complaint was not the works themselves, but the lack of prior information. Those affected are asking that notices be issued before the closure begins and that the shuttles run without such long waits from the very first moment."
+        ],
+        "apunte": "The fabada on the stove and the three o'clock flight: a bridge that closes without warning has no regard for other people's schedules.",
+        "enVeinte": [
+          "Ribadesella bridge closed to pedestrians on 26 October without prior notice.",
+          "Free shuttles are the planned alternative, but on the first morning waits exceeded half an hour.",
+          "Residents and tourists are asking for advance information and a more agile bus service during the works."
+        ],
+        "cifra": {
+          "numero": "+30",
+          "unidad": "minutes' wait",
+          "glosa": "How long the next shuttle took to arrive that first morning. Long enough to miss a class, let a fabada burn, or lose a flight."
+        },
+        "palabra": null,
+        "porQue": "Anyone who regularly crosses the Sella on foot — or plans to — needs to know that the shuttle is now the only option and that checking the timetable before leaving home is advisable.",
+        "lugar": "Bridge over the Sella, Ribadesella",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le pont de Ribadesella ferme sans prévenir personne",
+        "entradilla": "Habitants et touristes se sont retrouvés d'un coup face à un passage coupé et une navette qui venait de partir.",
+        "cuerpo": [
+          "Le pont sur le Sella à Ribadesella s'est retrouvé fermé à la circulation piétonne le 26 octobre, sans qu'aucun avis préalable n'ait été donné. Les personnes concernées ont été renvoyées vers des navettes gratuites, mais le bus venait de partir et l'attente dépassait la demi-heure, selon le témoignage d'Armando Basilio, habitant de Ribadesella.",
+          "Les conséquences ont été immédiates : des habitantes n'ont pas pu arriver à temps au centre sportif pour leur cours, d'autres avaient laissé la fabada sur le feu chez elles et ne pouvaient pas continuer à pied, comme l'ont raconté Julia Suárez et Cristina Cue. Un couple de touristes chiliens, Sofía Campos et James Pirley, espéraient prendre un vol à quinze heures avec un bébé.",
+          "La plainte commune ne portait pas sur les travaux eux-mêmes, mais sur l'absence d'information préalable. Les personnes concernées demandent que les avis soient diffusés avant le début de la fermeture et que les navettes fonctionnent sans attentes aussi longues dès le premier instant."
+        ],
+        "apunte": "La fabada sur le feu et le vol de quinze heures : un pont qui ferme sans prévenir ne tient aucun compte des horaires des autres.",
+        "enVeinte": [
+          "Le pont de Ribadesella a fermé aux piétons le 26 octobre sans préavis.",
+          "Les navettes gratuites sont l'alternative prévue, mais la première matinée a généré des attentes de plus d'une demi-heure.",
+          "Habitants et touristes demandent une information anticipée et un service de bus plus réactif pendant les travaux."
+        ],
+        "cifra": {
+          "numero": "+30",
+          "unidad": "minutes d'attente",
+          "glosa": "Le temps qu'a mis la navette suivante à arriver ce premier matin. Assez pour rater un cours, laisser brûler une fabada ou manquer un vol."
+        },
+        "palabra": null,
+        "porQue": "Quiconque traverse habituellement le Sella à pied — ou envisage de le faire — doit savoir que la navette est désormais la seule option et qu'il est conseillé de consulter les horaires avant de partir de chez soi.",
+        "lugar": "Pont sur le Sella, Ribadesella",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Brücke in Ribadesella gesperrt – ohne jede Vorwarnung",
+        "entradilla": "Anwohner und Touristen standen plötzlich vor einer gesperrten Überquerung und einem Shuttlebus, der gerade abgefahren war.",
+        "cuerpo": [
+          "Die Brücke über den Sella in Ribadesella war am 26. Oktober für Fußgänger gesperrt, ohne dass irgendjemand vorher informiert worden wäre. Die Betroffenen wurden auf kostenlose Shuttlebusse verwiesen, doch der Bus war gerade abgefahren und die Wartezeit betrug laut Armando Basilio, einem Anwohner aus Ribadesella, mehr als eine halbe Stunde.",
+          "Die Folgen ließen nicht auf sich warten: Frauen, die ihren Kurs im Sportzentrum nicht mehr rechtzeitig erreichen konnten, andere, die zuhause die Fabada auf dem Herd stehen gelassen hatten und nicht zu Fuß weitergehen durften – so berichteten Julia Suárez und Cristina Cue. Ein chilenisches Touristenpaar, Sofía Campos und James Pirley, wollte um fünfzehn Uhr einen Flug mit einem Baby erreichen.",
+          "Die gemeinsame Kritik richtete sich nicht gegen die Bauarbeiten selbst, sondern gegen das Fehlen vorheriger Information. Die Betroffenen fordern, dass Hinweise vor Beginn der Sperrung ausgegeben werden und dass die Shuttlebusse von Anfang an ohne so lange Wartezeiten fahren."
+        ],
+        "apunte": "Die Fabada auf dem Herd und der Flug um fünfzehn Uhr: Eine Brücke, die ohne Vorwarnung sperrt, nimmt keine Rücksicht auf fremde Zeitpläne.",
+        "enVeinte": [
+          "Die Brücke in Ribadesella wurde am 26. Oktober ohne Vorankündigung für Fußgänger gesperrt.",
+          "Kostenlose Shuttlebusse sind die vorgesehene Alternative, doch am ersten Morgen betrugen die Wartezeiten mehr als eine halbe Stunde.",
+          "Anwohner und Touristen fordern rechtzeitige Information und einen flinkeren Busservice während der Bauarbeiten."
+        ],
+        "cifra": {
+          "numero": "+30",
+          "unidad": "Minuten Wartezeit",
+          "glosa": "So lange dauerte es an diesem ersten Morgen, bis der nächste Shuttlebus kam. Zeit genug, um einen Kurs zu verpassen, eine Fabada anbrennen zu lassen oder einen Flug zu versäumen."
+        },
+        "palabra": null,
+        "porQue": "Wer den Sella regelmäßig zu Fuß überquert – oder dies plant –, muss wissen, dass der Shuttlebus derzeit die einzige Möglichkeit ist und dass es sich lohnt, den Fahrplan zu prüfen, bevor man das Haus verlässt.",
+        "lugar": "Brücke über den Sella, Ribadesella",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "pero el autobus acababa de salir y la",
+      "el autobus acababa de salir y la espera",
+      "coger un vuelo a las tres de la",
+      "un vuelo a las tres de la tarde"
+    ]
+  },
+  {
+    "id": "el-principado-destaca-el-impacto-del-proyecto-europeo-bluepoint-en-la-",
+    "url": "/villaviciosa/el-principado-destaca-el-impacto-del-proyecto-europeo-bluepoint-en-la-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "'BluePoint' lleva a 70 escolares a Rodiles",
+    "entradilla": "El Principado cierra en Villaviciosa su participación en este programa europeo contra la contaminación marina.",
+    "cuerpo": [
+      "La playa de Rodiles acogió la jornada de cierre del proyecto europeo 'BluePoint' en Asturias, con más de setenta escolares como protagonistas de una actividad educativa centrada en los residuos del mar.",
+      "El Principado encabezó la clausura de un programa que, según destaca el propio Gobierno regional, ha dejado huella en la forma de gestionar la basura que llega a las costas asturianas."
+    ],
+    "apunte": "Setenta críos en la playa aprendiendo lo que algunos adultos aún no han pillado.",
+    "enVeinte": [
+      "El proyecto europeo 'BluePoint' cerró sus actividades en Asturias con una jornada en la playa de Rodiles.",
+      "Participaron más de setenta escolares en una actividad educativa sobre residuos marinos.",
+      "El Principado subraya el impacto del programa en la gestión de la basura que llega al litoral."
+    ],
+    "cifra": {
+      "numero": "70",
+      "unidad": "escolares",
+      "glosa": "Más de setenta niños y niñas pasaron el día en Rodiles aprendiendo sobre la contaminación marina. Es la cifra que el Principado destaca para cerrar la actividad de 'BluePoint' en Asturias."
+    },
+    "palabra": null,
+    "porQue": "Rodiles es una de las playas más frecuentadas del concejo; que un programa europeo haya trabajado allí la gestión de residuos marinos afecta directamente a su estado de conservación.",
+    "etiquetas": [
+      "Rodiles",
+      "BluePoint",
+      "medio ambiente",
+      "escolares"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-principado-destaca-el-impacto-del-proyecto-europeo-26393.jpg",
+    "fecha": "2026-10-26T12:36:28.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/el-principado-destaca-el-impacto-del-proyecto-europeo-bluepoint-en-la-gestion-de-residuos-marinos-11276821.html",
+      "titularOriginal": "El Principado destaca el impacto del proyecto europeo 'BluePoint' en la gestión de residuos marinos"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
+    "id": "llamedo-destaca-en-onis-el-papel-de-las-familias-ganaderas-y-queseras-",
+    "url": "/cabrales/llamedo-destaca-en-onis-el-papel-de-las-familias-ganaderas-y-queseras-/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Llamedo arropa a las familias del gamonéu en Onís",
+    "entradilla": "La vicepresidenta del Principado acudió al XLVI Certamen del Queso Gamonéu para reconocer a quienes sostienen esta tradición quesera.",
+    "cuerpo": [
+      "Gimena Llamedo, vicepresidenta del Gobierno de Asturias, estuvo presente en el XLVI Certamen del Queso Gamonéu celebrado en Onís y aprovechó para poner en valor el trabajo de las familias ganaderas y queseras que mantienen viva esta denominación.",
+      "El gamonéu es uno de los quesos con más raigambre del oriente asturiano, y su certamen reúne cada año a productores de los concejos de Onís y Cabrales, los dos territorios amparados por la denominación de origen."
+    ],
+    "apunte": "XLVI ediciones lleva el certamen, y el queso sigue siendo el que manda.",
+    "enVeinte": [
+      "La vicepresidenta Gimena Llamedo participó en el XLVI Certamen del Queso Gamonéu celebrado en Onís.",
+      "Llamedo destacó el papel de las familias ganaderas y queseras en mantener viva esta tradición.",
+      "El gamonéu cuenta con denominación de origen que ampara a productores de Onís y Cabrales."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "gamonéu",
+      "como": "ga-mo-néu, con el acento en la última sílaba, como se dice por aquí",
+      "definicion": "Queso asturiano de pasta azul elaborado en los concejos de Onís y Cabrales, protegido por denominación de origen propia. Se afina en majadas de montaña y tiene dos variedades: del puerto, curado en cabañas de altura, y del palo, madurado en casa."
+    },
+    "porQue": "Para los ganaderos y queseros de Cabrales, que comparten denominación con Onís, que la vicepresidenta del Principado acuda al certamen es un respaldo público a un oficio que da trabajo y fija población en la montaña.",
+    "etiquetas": [
+      "gamonéu",
+      "queso",
+      "Onís",
+      "Cabrales"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Onís",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/llamedo-destaca-en-onis-el-papel-de-las-familias-ganad-27041.jpg",
+    "fecha": "2026-10-26T12:19:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/llamedo-destaca-en-onis-el-papel-de-las-familias-ganaderas-y-queseras-en-la-tradicion-del-gamoneu-11276810.html",
+      "titularOriginal": "Llamedo destaca en Onís el papel de las familias ganaderas y queseras en la tradición del gamonéu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Llamedo supports gamonéu families in Onís",
+        "entradilla": "The Vice-President of the Principality attended the XLVI Certamen del Queso Gamonéu to recognise those who keep this cheese-making tradition alive.",
+        "cuerpo": [
+          "Gimena Llamedo, Vice-President of the Government of Asturias, was present at the XLVI Certamen del Queso Gamonéu held in Onís, and took the opportunity to highlight the work of the farming and cheese-making families who keep this designation alive.",
+          "Gamonéu is one of the most deep-rooted cheeses of eastern Asturias, and its competition brings together producers from the municipalities of Onís and Cabrales every year — the two territories covered by the designation of origin."
+        ],
+        "apunte": "XLVI editions in, and the cheese is still the one calling the shots.",
+        "enVeinte": [
+          "Vice-President Gimena Llamedo took part in the XLVI Certamen del Queso Gamonéu held in Onís.",
+          "Llamedo highlighted the role of farming and cheese-making families in keeping this tradition alive.",
+          "Gamonéu holds a designation of origin covering producers from Onís and Cabrales."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-néu, with the stress on the last syllable, as they say around here",
+          "definicion": "An Asturian blue-veined cheese made in the municipalities of Onís and Cabrales, protected by its own designation of origin. It is aged in mountain huts and comes in two varieties: del puerto, cured in high-altitude cabins, and del palo, matured at home."
+        },
+        "porQue": "For the farmers and cheese-makers of Cabrales, who share the designation with Onís, having the Vice-President of the Principality attend the competition is a public show of support for a trade that provides jobs and keeps people living in the mountains.",
+        "lugar": "Onís",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Llamedo apporte son soutien aux familles du gamonéu à Onís",
+        "entradilla": "La vice-présidente de la Principauté s'est rendue au XLVI Certamen del Queso Gamonéu pour rendre hommage à ceux qui perpétuent cette tradition fromagère.",
+        "cuerpo": [
+          "Gimena Llamedo, vice-présidente du gouvernement des Asturies, était présente au XLVI Certamen del Queso Gamonéu organisé à Onís, et en a profité pour mettre en valeur le travail des familles d'éleveurs et de fromagers qui maintiennent vivante cette appellation.",
+          "Le gamonéu est l'un des fromages les plus enracinés dans l'est des Asturies, et son concours réunit chaque année des producteurs des communes d'Onís et de Cabrales, les deux territoires couverts par l'appellation d'origine."
+        ],
+        "apunte": "XLVI éditions au compteur, et le fromage reste le grand patron.",
+        "enVeinte": [
+          "La vice-présidente Gimena Llamedo a participé au XLVI Certamen del Queso Gamonéu organisé à Onís.",
+          "Llamedo a souligné le rôle des familles d'éleveurs et de fromagers dans la préservation de cette tradition.",
+          "Le gamonéu bénéficie d'une appellation d'origine qui protège les producteurs d'Onís et de Cabrales."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-néu, avec l'accent sur la dernière syllabe, comme on dit par ici",
+          "definicion": "Fromage asturien à pâte persillée fabriqué dans les communes d'Onís et de Cabrales, protégé par sa propre appellation d'origine. Il est affiné dans des cabanes de montagne et se décline en deux variétés : del puerto, affiné dans des cabanes d'altitude, et del palo, affiné à domicile."
+        },
+        "porQue": "Pour les éleveurs et fromagers de Cabrales, qui partagent l'appellation avec Onís, la venue de la vice-présidente de la Principauté au concours représente un soutien public à un métier qui crée des emplois et maintient une population dans la montagne.",
+        "lugar": "Onís",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Llamedo stärkt den Gamonéu-Familien in Onís den Rücken",
+        "entradilla": "Die Vizepräsidentin des Fürstentums nahm am XLVI Certamen del Queso Gamonéu teil, um jene zu würdigen, die diese Käsetradition am Leben erhalten.",
+        "cuerpo": [
+          "Gimena Llamedo, Vizepräsidentin der Regierung Asturiens, war beim XLVI Certamen del Queso Gamonéu in Onís dabei und nutzte die Gelegenheit, die Arbeit der Bauern- und Käsereifamilien hervorzuheben, die diese Herkunftsbezeichnung lebendig halten.",
+          "Der Gamonéu gehört zu den verwurzeltsten Käsesorten Ostasturiens; sein Wettbewerb bringt jedes Jahr Erzeuger aus den Gemeinden Onís und Cabrales zusammen — den beiden Gebieten, die von der Ursprungsbezeichnung erfasst werden."
+        ],
+        "apunte": "XLVI Ausgaben, und der Käse hat immer noch das letzte Wort.",
+        "enVeinte": [
+          "Vizepräsidentin Gimena Llamedo nahm am XLVI Certamen del Queso Gamonéu in Onís teil.",
+          "Llamedo betonte die Rolle der Bauern- und Käsereifamilien bei der Bewahrung dieser Tradition.",
+          "Der Gamonéu verfügt über eine Ursprungsbezeichnung, die Erzeuger aus Onís und Cabrales schützt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "gamonéu",
+          "como": "ga-mo-néu, mit der Betonung auf der letzten Silbe, so wie man es hier sagt",
+          "definicion": "Asturischer Blauschimmelkäse aus den Gemeinden Onís und Cabrales, geschützt durch eine eigene Ursprungsbezeichnung. Er reift in Berghütten und wird in zwei Varianten hergestellt: del puerto, gereift in Hochgebirgshütten, und del palo, im Haus gereift."
+        },
+        "porQue": "Für die Bauern und Käser in Cabrales, die die Herkunftsbezeichnung mit Onís teilen, ist die Teilnahme der Vizepräsidentin des Fürstentums am Wettbewerb ein öffentliches Bekenntnis zu einem Handwerk, das Arbeitsplätze schafft und Menschen in den Bergen hält.",
+        "lugar": "Onís",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-amaguestu-de-infiesto-entre-los-mas-buscados-de-espana-para-acudir-",
+    "url": "/pilona/el-amaguestu-de-infiesto-entre-los-mas-buscados-de-espana-para-acudir-/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "El amagüestu de Infiesto, cuarto en España",
+    "entradilla": "El portal de alquiler vacacional Holidu sitúa la fiesta piloñesa entre las más buscadas del otoño en todo el país.",
+    "cuerpo": [
+      "El amagüestu de Infiesto se ha colado en el top cinco de las fiestas otoñales más buscadas de España según una clasificación elaborada por Holidu, plataforma especializada en alquiler vacacional.",
+      "El concejo de Piloña ocupa el cuarto puesto de esa lista nacional, lo que sitúa a Infiesto al mismo nivel de visibilidad que celebraciones de mucho mayor recorrido mediático en otras comunidades."
+    ],
+    "apunte": "Las castañas de Infiesto ya salen en los buscadores antes que en los puestos.",
+    "enVeinte": [
+      "El portal Holidu ha elaborado un ranking de las fiestas otoñales más buscadas en España y el amagüestu de Infiesto aparece en cuarta posición.",
+      "Es la única cita asturiana que figura entre los primeros puestos de esa clasificación nacional.",
+      "El dato refleja el tirón turístico que tiene la celebración más allá de Asturias."
+    ],
+    "cifra": {
+      "numero": "4.º",
+      "unidad": "puesto en España",
+      "glosa": "Holidu ha ordenado las fiestas otoñales más buscadas en todo el país y el amagüestu de Infiesto ocupa el cuarto lugar. Es el único de Asturias que aparece tan arriba en la lista."
+    },
+    "palabra": {
+      "termino": "amagüestu",
+      "como": "a-ma-GÜES-tu",
+      "definicion": "Fiesta tradicional asturiana centrada en asar y comer castañas, que se celebra en otoño coincidiendo con la recogida del fruto. Es una de las celebraciones más arraigadas del calendario popular del Principado."
+    },
+    "porQue": "Que Infiesto aparezca en el mapa de búsquedas turísticas a nivel nacional puede traducirse en más visitantes —y más gasto— durante los días del amagüestu.",
+    "etiquetas": [
+      "amagüestu",
+      "Infiesto",
+      "Piloña",
+      "turismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/26/amaguestu--758x531.jpg",
+    "fecha": "2026-10-26T11:20:50.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/amaguestu-infiesto-buscados-google-otono-20261026121253-nt.html",
+      "titularOriginal": "El amagüestu de Infiesto, entre los más buscados de España para acudir este otoño"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Infiesto's amagüestu (chestnut festival), fourth in Spain",
+        "entradilla": "The holiday rental portal Holidu places this Piloña festival among the most searched autumn celebrations in the whole country.",
+        "cuerpo": [
+          "The amagüestu of Infiesto has broken into the top five most searched autumn festivals in Spain, according to a ranking compiled by Holidu, a platform specialising in holiday rentals.",
+          "The municipality of Piloña takes fourth place on that national list, putting Infiesto on the same level of visibility as celebrations with far greater media reach in other regions."
+        ],
+        "apunte": "Infiesto's chestnuts are already turning up in search engines before they turn up on market stalls.",
+        "enVeinte": [
+          "The portal Holidu has compiled a ranking of the most searched autumn festivals in Spain, and the amagüestu of Infiesto appears in fourth position.",
+          "It is the only Asturian event to feature among the top places in that national ranking.",
+          "The figure reflects the tourist pull the celebration has beyond Asturias."
+        ],
+        "cifra": {
+          "numero": "4th",
+          "unidad": "place in Spain",
+          "glosa": "Holidu has ranked the most searched autumn festivals across the country, and the amagüestu of Infiesto takes fourth place. It is the only one from Asturias to appear so high on the list."
+        },
+        "palabra": {
+          "termino": "amagüestu",
+          "como": "a-ma-GÜES-tu",
+          "definicion": "A traditional Asturian festival centred on roasting and eating chestnuts, held in autumn to coincide with the harvest of the fruit. It is one of the most deep-rooted celebrations in the popular calendar of the Principality."
+        },
+        "porQue": "Infiesto appearing on the map of national tourist searches could translate into more visitors—and more spending—during the days of the amagüestu.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'amagüestu d'Infiesto, quatrième en Espagne",
+        "entradilla": "Le portail de location de vacances Holidu place la fête de Piloña parmi les plus recherchées de l'automne dans tout le pays.",
+        "cuerpo": [
+          "L'amagüestu (fête traditionnelle de la châtaigne) d'Infiesto s'est glissé dans le top cinq des fêtes automnales les plus recherchées d'Espagne, selon un classement établi par Holidu, plateforme spécialisée dans la location de vacances.",
+          "La commune de Piloña occupe la quatrième place de cette liste nationale, ce qui place Infiesto au même niveau de visibilité que des célébrations disposant d'une bien plus grande notoriété médiatique dans d'autres communautés."
+        ],
+        "apunte": "Les châtaignes d'Infiesto apparaissent déjà dans les moteurs de recherche avant d'apparaître sur les étals.",
+        "enVeinte": [
+          "Le portail Holidu a établi un classement des fêtes automnales les plus recherchées en Espagne, et l'amagüestu d'Infiesto figure en quatrième position.",
+          "C'est le seul rendez-vous asturien à figurer parmi les premières places de ce classement national.",
+          "Ce chiffre reflète l'attrait touristique que la célébration exerce bien au-delà des Asturies."
+        ],
+        "cifra": {
+          "numero": "4e",
+          "unidad": "place en Espagne",
+          "glosa": "Holidu a classé les fêtes automnales les plus recherchées dans tout le pays, et l'amagüestu d'Infiesto occupe la quatrième place. C'est le seul des Asturies à figurer aussi haut dans la liste."
+        },
+        "palabra": {
+          "termino": "amagüestu",
+          "como": "a-ma-GÜES-tu",
+          "definicion": "Fête traditionnelle asturienne centrée sur la cuisson et la dégustation de châtaignes, célébrée en automne pour coïncider avec la récolte du fruit. C'est l'une des célébrations les plus ancrées dans le calendrier populaire de la Principauté."
+        },
+        "porQue": "Qu'Infiesto apparaisse sur la carte des recherches touristiques à l'échelle nationale pourrait se traduire par davantage de visiteurs — et davantage de dépenses — pendant les jours de l'amagüestu.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Amagüestu von Infiesto auf Platz vier in Spanien",
+        "entradilla": "Das Ferienvermietungsportal Holidu stuft das Fest aus Piloña als eines der meistgesuchten Herbstfeste im ganzen Land ein.",
+        "cuerpo": [
+          "Der amagüestu (traditionelles Kastanienfest) von Infiesto hat es in die Top fünf der meistgesuchten Herbstfeste Spaniens geschafft — so lautet das Ergebnis eines Rankings, das Holidu, eine auf Ferienvermietung spezialisierte Plattform, erstellt hat.",
+          "Die Gemeinde Piloña belegt den vierten Platz dieser nationalen Liste und stellt Infiesto damit auf dieselbe Sichtbarkeitsstufe wie Feste mit weit größerer Medienreichweite in anderen Regionen."
+        ],
+        "apunte": "Die Kastanien aus Infiesto tauchen in den Suchmaschinen auf, bevor sie auf den Marktständen liegen.",
+        "enVeinte": [
+          "Das Portal Holidu hat ein Ranking der meistgesuchten Herbstfeste in Spanien erstellt, und der amagüestu von Infiesto erscheint darin auf dem vierten Platz.",
+          "Es ist der einzige asturische Termin, der unter den ersten Plätzen dieser nationalen Liste auftaucht.",
+          "Die Zahl spiegelt die touristische Anziehungskraft wider, die das Fest weit über Asturien hinaus entfaltet."
+        ],
+        "cifra": {
+          "numero": "4.",
+          "unidad": "Platz in Spanien",
+          "glosa": "Holidu hat die meistgesuchten Herbstfeste im ganzen Land geordnet, und der amagüestu von Infiesto belegt den vierten Platz. Er ist der einzige aus Asturien, der so weit oben in der Liste erscheint."
+        },
+        "palabra": {
+          "termino": "amagüestu",
+          "como": "a-ma-GÜES-tu",
+          "definicion": "Traditionelles asturisches Fest rund ums Rösten und Essen von Kastanien, das im Herbst zusammen mit der Ernte der Frucht gefeiert wird. Es ist eines der verwurzeltsten Feste im Volkskalender des Fürstentums."
+        },
+        "porQue": "Dass Infiesto auf der Karte der touristischen Suchanfragen auf nationaler Ebene auftaucht, könnte sich in mehr Besuchern — und mehr Ausgaben — während der Tage des amagüestu niederschlagen.",
+        "lugar": "Infiesto",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "las-claves-de-las-nuevas-50-viviendas-sociales-en-villaviciosa-tendran",
+    "url": "/villaviciosa/las-claves-de-las-nuevas-50-viviendas-sociales-en-villaviciosa-tendran/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa tendrá 50 viviendas sociales nuevas",
+    "entradilla": "El suelo ya tiene nombre: una parcela en la avenida del Carbayu, valorada en casi 97.000 euros.",
+    "cuerpo": [
+      "El concejo de Villaviciosa suma 50 pisos de protección pública. La actuación se desarrollará en una parcela de 1.468 metros cuadrados ubicada en la avenida del Carbayu, con un valor tasado de 96.544,77 euros.",
+      "El plazo máximo para tener las viviendas terminadas es de cinco años, según recoge la información publicada."
+    ],
+    "apunte": "Cincuenta llaves que todavía no tienen cerradura, pero ya tienen terreno.",
+    "enVeinte": [
+      "Villaviciosa proyecta 50 viviendas sociales en una parcela de la avenida del Carbayu.",
+      "El solar mide 1.468 metros cuadrados y está valorado en 96.544,77 euros.",
+      "Las viviendas deberán estar listas en un plazo máximo de cinco años."
+    ],
+    "cifra": {
+      "numero": "1.468",
+      "unidad": "metros cuadrados",
+      "glosa": "Es el tamaño del solar de la avenida del Carbayu donde se levantarán los 50 pisos. Para hacerse una idea, equivale aproximadamente a tres campos de pádel juntos."
+    },
+    "palabra": null,
+    "porQue": "Más oferta de vivienda pública puede aliviar la presión del mercado local para quienes buscan alquilar o comprar a precios asequibles en la capital del concejo.",
+    "etiquetas": [
+      "vivienda social",
+      "Villaviciosa",
+      "urbanismo",
+      "avenida del Carbayu"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "avenida del Carbayu, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/26/vivienda-villaviciosa-reunion-Rh8vnmZ5njzXwrPEeVexeEJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-26T11:05:14.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/claves-nuevas-viviendas-sociales-villaviciosa-20261026120456-nt.html",
+      "titularOriginal": "Las claves de las nuevas 50 viviendas sociales en Villaviciosa: tendrán que estar listas en un máximo de cinco años"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa to get 50 new social housing units",
+        "entradilla": "The site already has a name: a plot on Avenida del Carbayu, valued at just under 97,000 euros.",
+        "cuerpo": [
+          "The municipality of Villaviciosa is adding 50 publicly protected flats. The project will be built on a 1,468-square-metre plot on Avenida del Carbayu, with an assessed value of 96,544.77 euros.",
+          "According to published information, the maximum deadline for completing the homes is five years."
+        ],
+        "apunte": "Fifty keys that still have no lock, but already have land.",
+        "enVeinte": [
+          "Villaviciosa plans 50 social housing units on a plot on Avenida del Carbayu.",
+          "The site covers 1,468 square metres and is valued at 96,544.77 euros.",
+          "The homes must be completed within a maximum of five years."
+        ],
+        "cifra": {
+          "numero": "1,468",
+          "unidad": "square metres",
+          "glosa": "That is the size of the Avenida del Carbayu plot where the 50 flats will be built. To put it in perspective, it is roughly equivalent to three padel courts placed side by side."
+        },
+        "palabra": null,
+        "porQue": "A larger supply of public housing could ease pressure on the local market for those looking to rent or buy at affordable prices in the municipality's main town.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa va se doter de 50 nouveaux logements sociaux",
+        "entradilla": "Le terrain a déjà un nom : une parcelle sur l'avenida del Carbayu, estimée à près de 97 000 euros.",
+        "cuerpo": [
+          "La commune de Villaviciosa gagne 50 appartements à protection publique. Le projet sera développé sur une parcelle de 1 468 mètres carrés située sur l'avenida del Carbayu, dont la valeur estimée est de 96 544,77 euros.",
+          "Selon les informations publiées, le délai maximal pour achever les logements est de cinq ans."
+        ],
+        "apunte": "Cinquante clés qui n'ont pas encore de serrure, mais qui ont déjà un terrain.",
+        "enVeinte": [
+          "Villaviciosa projette 50 logements sociaux sur une parcelle de l'avenida del Carbayu.",
+          "Le terrain mesure 1 468 mètres carrés et est estimé à 96 544,77 euros.",
+          "Les logements devront être livrés dans un délai maximal de cinq ans."
+        ],
+        "cifra": {
+          "numero": "1 468",
+          "unidad": "mètres carrés",
+          "glosa": "C'est la superficie de la parcelle de l'avenida del Carbayu où seront construits les 50 appartements. Pour se faire une idée, cela correspond à peu près à trois courts de padel côte à côte."
+        },
+        "palabra": null,
+        "porQue": "Une offre plus importante de logements publics pourrait alléger la pression sur le marché local pour ceux qui cherchent à louer ou à acheter à des prix abordables dans le chef-lieu de la commune.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa bekommt 50 neue Sozialwohnungen",
+        "entradilla": "Das Grundstück hat bereits einen Namen: eine Parzelle an der Avenida del Carbayu, bewertet mit knapp 97.000 Euro.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa erhält 50 öffentlich geförderte Wohnungen. Das Projekt wird auf einer 1.468 Quadratmeter großen Parzelle an der Avenida del Carbayu realisiert, deren Schätzwert 96.544,77 Euro beträgt.",
+          "Gemäß den veröffentlichten Informationen beträgt die maximale Frist für die Fertigstellung der Wohnungen fünf Jahre."
+        ],
+        "apunte": "Fünfzig Schlüssel, die noch kein Schloss haben, aber bereits ein Grundstück.",
+        "enVeinte": [
+          "Villaviciosa plant 50 Sozialwohnungen auf einer Parzelle an der Avenida del Carbayu.",
+          "Das Grundstück misst 1.468 Quadratmeter und ist mit 96.544,77 Euro bewertet.",
+          "Die Wohnungen müssen innerhalb von maximal fünf Jahren fertiggestellt sein."
+        ],
+        "cifra": {
+          "numero": "1.468",
+          "unidad": "Quadratmeter",
+          "glosa": "Das ist die Größe des Grundstücks an der Avenida del Carbayu, auf dem die 50 Wohnungen entstehen sollen. Zur Orientierung: Das entspricht ungefähr drei nebeneinandergelegten Padel-Plätzen."
+        },
+        "palabra": null,
+        "porQue": "Ein größeres Angebot an öffentlichem Wohnraum könnte den Druck auf dem lokalen Markt für alle verringern, die im Hauptort der Gemeinde zu erschwinglichen Preisen mieten oder kaufen möchten.",
+        "lugar": "Avenida del Carbayu, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la actuacion se desarrollara en una parcela de",
+      "actuacion se desarrollara en una parcela de 1",
+      "se desarrollara en una parcela de 1 468",
+      "desarrollara en una parcela de 1 468 metros",
+      "en una parcela de 1 468 metros cuadrados"
+    ]
+  },
+  {
     "id": "llanes-competira-con-nava-por-representar-a-asturias-en-la-campana-nav",
     "url": "/nava/llanes-competira-con-nava-por-representar-a-asturias-en-la-campana-nav/",
     "concejo": "Nava",
@@ -7017,108 +7796,6 @@
     },
     "reescrito": true,
     "trad": {}
-  },
-  {
-    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
-    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa busca arquitecto/a jefe en concurso",
-    "entradilla": "El Ayuntamiento abre el proceso para cubrir una plaza técnica de peso dentro de la casa.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha puesto en marcha un concurso de méritos para seleccionar a quien ocupará el puesto de arquitecto o arquitecta jefe. La plaza sale de la Oferta de Empleo Público de 2026.",
-      "Ya está publicada la lista provisional de candidatos admitidos y excluidos, lo que indica que el proceso está en marcha y que quienes se presentaron pueden comprobar su situación."
-    ],
-    "apunte": "La plaza lleva tiempo esperando dueño: es de la oferta de empleo de 2026.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa selecciona a su próximo arquitecto o arquitecta jefe mediante concurso de méritos.",
-      "La convocatoria forma parte de la Oferta de Empleo Público de 2026.",
-      "Ya está disponible la lista provisional de admitidos y excluidos al proceso."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "El arquitecto o arquitecta jefe del Ayuntamiento supervisa licencias, obras y planeamiento urbano: que esa plaza esté cubierta afecta directamente a los trámites de cualquier vecino que quiera construir o reformar.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "arquitectura",
-      "ayuntamiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-16T11:52:54.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
-      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa seeks chief architect in open competition",
-        "entradilla": "The council has launched the process to fill a key technical post within the house.",
-        "cuerpo": [
-          "Villaviciosa council has launched a merit-based competition to select its next chief architect. The post comes from the 2026 Public Employment Offer.",
-          "The provisional list of admitted and excluded candidates has already been published, which means the process is under way and applicants can check their status."
-        ],
-        "apunte": "The post has been waiting to be filled for some time: it dates from the 2026 employment offer.",
-        "enVeinte": [
-          "Villaviciosa council is selecting its next chief architect through a merit-based competition.",
-          "The call forms part of the 2026 Public Employment Offer.",
-          "The provisional list of admitted and excluded applicants is already available."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "The chief architect at the council oversees licences, building works and urban planning: having that post filled directly affects the paperwork for any resident who wants to build or renovate.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa cherche un·e architecte en chef par concours",
-        "entradilla": "La mairie lance le processus pour pourvoir un poste technique clé en son sein.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a lancé un concours sur titres et travaux pour sélectionner son prochain architecte ou sa prochaine architecte en chef. Le poste est issu de l'Offre d'emploi public de 2026.",
-          "La liste provisoire des candidats admis et exclus est déjà publiée, ce qui indique que le processus est en cours et que les personnes ayant postulé peuvent vérifier leur situation."
-        ],
-        "apunte": "Le poste attend preneur depuis un moment : il fait partie de l'offre d'emploi de 2026.",
-        "enVeinte": [
-          "La mairie de Villaviciosa sélectionne son prochain architecte ou sa prochaine architecte en chef par concours sur titres et travaux.",
-          "L'appel fait partie de l'Offre d'emploi public de 2026.",
-          "La liste provisoire des admis et des exclus à la procédure est déjà disponible."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "L'architecte en chef de la mairie supervise les permis, les travaux et l'urbanisme : que ce poste soit pourvu affecte directement les démarches de tout habitant souhaitant construire ou rénover.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht Chefarchitekt·in im Auswahlverfahren",
-        "entradilla": "Das Rathaus hat das Verfahren zur Besetzung einer wichtigen technischen Stelle eingeleitet.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat ein Leistungswettbewerb-Verfahren zur Auswahl des nächsten Chefarchitekten oder der nächsten Chefarchitektin eingeleitet. Die Stelle stammt aus dem Öffentlichen Stellenangebot 2026.",
-          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber·innen ist bereits veröffentlicht, was zeigt, dass das Verfahren läuft und Interessierte ihren Status prüfen können."
-        ],
-        "apunte": "Die Stelle wartet seit Längerem auf eine Besetzung: Sie entstammt dem Stellenangebot von 2026.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa wählt seinen nächsten Chefarchitekten oder seine nächste Chefarchitektin im Leistungswettbewerb aus.",
-          "Die Ausschreibung ist Teil des Öffentlichen Stellenangebots 2026.",
-          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber·innen ist bereits verfügbar."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Der Chefarchitekt bzw. die Chefarchitektin des Rathauses überwacht Baugenehmigungen, Bauvorhaben und Stadtplanung: Ob diese Stelle besetzt ist, wirkt sich unmittelbar auf die Verfahren jeder Person aus, die bauen oder renovieren möchte.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   },
   {
     "id": "el-funicular-de-bulnes-cumple-25-anos-con-un-acumulado-de-1-663-000-pa",

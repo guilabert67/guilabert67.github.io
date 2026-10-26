@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-26T11:01:27.817Z",
+  "fecha": "2026-10-26T17:22:51.379Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "Nava compite con Llanes: vota ya para llevar a Asturias al concurso de Ferrero Rocher.",
-      "enlace": "/nava/llanes-competira-con-nava-por-representar-a-asturias-en-la-campana-nav/"
+      "concejo": "Villaviciosa",
+      "frase": "50 viviendas sociales nuevas en Villaviciosa, en la avenida del Carbayu.",
+      "enlace": "/villaviciosa/las-claves-de-las-nuevas-50-viviendas-sociales-en-villaviciosa-tendran/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "El puente de Ribadesella cerró de golpe: sin aviso y sin lanzadera esperando.",
+      "enlace": "/pilona/el-cierre-del-puente-de-ribadesella-deja-sin-paso-peatonal-a-vecinos-y/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Pelambre cambia: adiós al estanque, ya retiran los juegos en peor estado.",
+      "enlace": "/villaviciosa/villaviciosa-ultima-el-proyecto-para-convertir-el-pelambre-en-una-zona/"
     }
   ]
 }
