@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-25T19:16:19.729Z",
+  "fecha": "2026-10-26T05:02:25.322Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "El parque del Pelambre se reforma: habrá más aparcamiento y llegan juegos nuevos.",
-      "enlace": "/villaviciosa/la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona/"
+      "concejo": "Cabrales",
+      "frase": "PSOE y PP usaron el certamen del Gamonéu de Benia como escenario electoral.",
+      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "El queso y los ganaderos de Cabrales, moneda de cambio en la campaña preelectoral.",
+      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "Los políticos llegaron a Benia de Onís con mensajes muy distintos sobre el Gamonéu.",
+      "enlace": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/"
     }
   ]
 }

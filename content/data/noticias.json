@@ -1,5 +1,60 @@
 [
   {
+    "id": "el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto",
+    "url": "/cabrales/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelecto/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El Gamonéu, campo de batalla preelectoral",
+    "entradilla": "El certamen de Benia de Onís reunió ayer a políticos del PSOE y el PP con mensajes muy distintos sobre el futuro del queso y los ganaderos.",
+    "cuerpo": [
+      "El 46 Certamen del Queso Gamonéu, celebrado el domingo en Benia de Onís, fue el escenario donde la vicepresidenta del Principado, Gimena Llamedo, y el diputado del PP Luis Venta midieron posiciones de cara a las elecciones generales del 29 de noviembre.",
+      "Llamedo destacó el peso económico y cultural del Gamonéu en los Picos de Europa y reivindicó el trabajo de las familias ganaderas y queseras que sostienen la elaboración tradicional. Venta, en cambio, denunció que en el puerto solo quedan tres productores activos y apuntó a la burocracia del Principado y del Parque Nacional como responsables del declive. También advirtió del daño que el lobo está causando sobre ovejas y cabras en la comarca.",
+      "La Denominación de Origen Protegida cerró 2025 con una producción próxima a los 175.000 kilos y más de dos millones de litros de leche aportados. Cuenta con 23 ganaderías y 21 queserías inscritas, y un censo de 1.703 cabezas de ganado entre vacas, ovejas y cabras."
+    ],
+    "apunte": "Un queso que siempre fue denominación de origen acaba siendo también denominación de campaña.",
+    "enVeinte": [
+      "El 46 Certamen del Gamonéu en Benia de Onís se convirtió en un mitin cruzado entre la vicepresidenta Llamedo y el diputado popular Venta.",
+      "El PP denuncia que solo tres productores elaboran Gamonéu del puertu y señala a la burocracia; el PSOE reivindica el valor económico y cultural del queso.",
+      "La DOP cerró 2025 con cerca de 175.000 kilos producidos, 23 ganaderías y 21 queserías inscritas."
+    ],
+    "cifra": {
+      "numero": "3",
+      "unidad": "productores activos de Gamonéu del puertu",
+      "glosa": "Según el PP, solo tres elaboradores mantienen hoy en activo la variedad de puertu, la que se hace en las majadas de altura durante el verano. Es la cara más frágil de una denominación que en total mueve 175.000 kilos al año."
+    },
+    "palabra": {
+      "termino": "puertu",
+      "como": "puertu (igual que en asturiano, sin perder la -u final)",
+      "definicion": "En el Gamonéu se distingue el queso 'del valle', elaborado en las queserías del pueblo, del 'del puertu', que se hace en las majadas de montaña durante los meses de verano. Este segundo es el más escaso y el más valorado."
+    },
+    "porQue": "Si siguen cayendo productores en el puertu, una parte del Gamonéu más singular y más ligada al paisaje de los Picos puede desaparecer; eso afecta directamente a la economía de Cabrales y al atractivo de toda la comarca.",
+    "etiquetas": [
+      "Gamonéu",
+      "Cabrales",
+      "elecciones",
+      "ganadería"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "Benia de Onís",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/CERTAMEN-GAMONEU-Politicos-.jpg",
+    "fecha": "2026-10-25T19:44:11.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/25/10/2026/el-certamen-del-gamoneu-escaparate-politico-en-pleno-periodo-preelectoral/",
+      "titularOriginal": "El Certamen del Gamonéu escaparate político en pleno período preelectoral"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "mas de dos millones de litros de leche"
+    ]
+  },
+  {
     "id": "la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona",
     "url": "/villaviciosa/la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona/",
     "concejo": "Villaviciosa",
