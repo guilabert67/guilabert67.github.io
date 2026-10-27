@@ -1,5 +1,475 @@
 [
   {
+    "id": "bimenes-presenta-este-viernes-la-sidre-na-emigracion-asturiana",
+    "url": "/villaviciosa/bimenes-presenta-este-viernes-la-sidre-na-emigracion-asturiana/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La sidra emigrante llega a Santuyano el viernes",
+    "entradilla": "Una exposición de veinte paneles sigue el rastro de la sidra asturiana al otro lado del Atlántico.",
+    "cuerpo": [
+      "La Casa de Cultura de Santuyano acoge el viernes 30 de octubre, a las 19:00, la presentación de 'La sidre na emigración asturiana', una muestra organizada por la Fundación Asturies XXI y comisariada por Llucía Fernández Marqués.",
+      "Los veinte paneles de gran formato reúnen fotografías, carteles y etiquetas que documentan cómo la sidra viajó con los emigrantes: desde el retrato de dos asturianos en Cuba en 1885 hasta el embarque de sidra El Gaitero en la ría de Villaviciosa hacia 1920. La exposición explica también cómo la demanda desde América impulsó la sidra espumosa y la modernización de los lagares.",
+      "El proyecto incluye además un libro de 48 páginas. La Fundación Asturies XXI sigue recibiendo documentación familiar, empresarial y asociativa para completar el archivo."
+    ],
+    "apunte": "Las botellas llegaron antes que los pasaportes.",
+    "enVeinte": [
+      "El viernes 30 de octubre, a las 19:00, se presenta en Santuyano una exposición sobre la sidra asturiana en la emigración.",
+      "La muestra, de veinte paneles, recorre con fotografías y carteles cómo la sidra cruzó el Atlántico junto a quienes emigraron.",
+      "El proyecto de la Fundación Asturies XXI incluye un libro de 48 páginas y sigue abierto a nuevas aportaciones documentales."
+    ],
+    "cifra": {
+      "numero": "20",
+      "unidad": "paneles de gran formato",
+      "glosa": "La exposición se articula en veinte paneles que combinan fotografías históricas, carteles publicitarios y etiquetas comerciales. Juntos trazan el recorrido de la sidra y de las personas que la llevaron a América."
+    },
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (ll asturiana, como en 'lluvia' bien marcada)",
+      "definicion": "Lugar donde se elabora la sidra: se prensan las manzanas, fermenta el mosto y reposa el líquido en pipas de madera. La exposición señala que la demanda emigrante desde América aceleró la modernización de muchos de estos espacios en Asturias."
+    },
+    "porQue": "Para el vecino de Bimenes es una ocasión de ver su historia reflejada en imágenes que llevan más de un siglo sin mostrarse juntas, y de reconocer en ellas el hilo que une el prau, el llagar y el café de La Habana.",
+    "etiquetas": [
+      "sidra",
+      "emigración asturiana",
+      "Bimenes",
+      "Fundación Asturies XXI"
+    ],
+    "fechaEvento": "2026-10-30",
+    "tipoEvento": "expo",
+    "lugar": "Casa de Cultura de Santuyano",
+    "hora": "19:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-10-27T11:33:38.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/la-sidra-emigracion-bimenes-30-octubre-2026/",
+      "titularOriginal": "Bimenes presenta este viernes «La sidre na emigración asturiana»"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "organizada por la fundacion asturies xxi y comisariada",
+      "por la fundacion asturies xxi y comisariada por",
+      "la fundacion asturies xxi y comisariada por llucia",
+      "fundacion asturies xxi y comisariada por llucia fernandez",
+      "asturies xxi y comisariada por llucia fernandez marques",
+      "el embarque de sidra el gaitero en la",
+      "embarque de sidra el gaitero en la ria",
+      "de sidra el gaitero en la ria de",
+      "sidra el gaitero en la ria de villaviciosa",
+      "el gaitero en la ria de villaviciosa hacia",
+      "gaitero en la ria de villaviciosa hacia 1920",
+      "la sidra espumosa y la modernizacion de los",
+      "sidra espumosa y la modernizacion de los lagares",
+      "espumosa y la modernizacion de los lagares el"
+    ]
+  },
+  {
+    "id": "el-viernes-se-falla-la-avellana-de-oro-2026-en-infiesto",
+    "url": "/pilona/el-viernes-se-falla-la-avellana-de-oro-2026-en-infiesto/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Este viernes se conoce la Avellana de Oro 2026",
+    "entradilla": "El premio más veterano de Infiesto obliga al ganador a ceder el dinero a una entidad asturiana sin ánimo de lucro.",
+    "cuerpo": [
+      "El fallo de la Avellana de Oro 2026 se hace público este viernes en Infiesto.",
+      "Quien se lleve el galardón no puede quedarse con la dotación económica: está obligado a entregarla íntegra a una organización sin ánimo de lucro que trabaje en Asturias."
+    ],
+    "apunte": "Un premio que, en cuanto te lo dan, ya lo tienes que regalar.",
+    "enVeinte": [
+      "Este viernes se anuncia quién gana la Avellana de Oro 2026 en Infiesto.",
+      "El premiado está obligado a donar la cuantía económica a una entidad sin ánimo de lucro de Asturias.",
+      "No se conocen más detalles del fallo ni de la dotación."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "La Avellana de Oro es el reconocimiento de referencia en Piloña, así que el viernes toca estar pendientes de quién lo recibe esta vez.",
+    "etiquetas": [
+      "Avellana de Oro",
+      "Infiesto",
+      "Piloña",
+      "premios"
+    ],
+    "fechaEvento": "2026-10-31",
+    "tipoEvento": "",
+    "lugar": "Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/27/2026102709585265766.jpg",
+    "fecha": "2026-10-27T11:30:29.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/viernes-falla-avellana-oro-2026-infiesto/20261027100147105043.html",
+      "titularOriginal": "El viernes se falla la Avellana de Oro 2026 en Infiesto"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "This Friday the Avellana de Oro 2026 winner is announced",
+        "entradilla": "Infiesto's longest-running prize requires the winner to hand the money over to a non-profit organisation in Asturias.",
+        "cuerpo": [
+          "The Avellana de Oro 2026 jury's decision will be made public this Friday in Infiesto.",
+          "Whoever wins the award cannot keep the prize money: they are required to hand it over in full to a non-profit organisation working in Asturias."
+        ],
+        "apunte": "A prize that, the moment you receive it, you have to give away.",
+        "enVeinte": [
+          "This Friday it will be announced who wins the Avellana de Oro 2026 in Infiesto.",
+          "The winner is required to donate the full prize money to a non-profit organisation in Asturias.",
+          "No further details about the jury's decision or the prize amount are known."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The Avellana de Oro is the benchmark award in the Piloña municipality, so Friday is the day to watch and see who receives it this time.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Ce vendredi, on connaîtra le lauréat de l'Avellana de Oro 2026",
+        "entradilla": "Le prix le plus ancien d'Infiesto oblige le lauréat à reverser l'intégralité de la dotation à une association asturienne à but non lucratif.",
+        "cuerpo": [
+          "Le verdict de l'Avellana de Oro 2026 sera rendu public ce vendredi à Infiesto.",
+          "Le lauréat ne peut pas conserver la dotation financière : il est tenu de la remettre intégralement à une organisation à but non lucratif exerçant en Asturias."
+        ],
+        "apunte": "Un prix que, dès l'instant où on vous le remet, vous devez déjà donner.",
+        "enVeinte": [
+          "Ce vendredi sera annoncé le nom du lauréat de l'Avellana de Oro 2026 à Infiesto.",
+          "Le lauréat est tenu de reverser la dotation financière à une association à but non lucratif d'Asturias.",
+          "Aucun autre détail sur le verdict ni sur la dotation n'est connu pour l'instant."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "L'Avellana de Oro est la récompense de référence dans la commune de Piloña ; vendredi, il faudra donc suivre de près qui la recevra cette fois.",
+        "lugar": "Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Diesen Freitag wird die Avellana de Oro 2026 bekanntgegeben",
+        "entradilla": "Der traditionsreichste Preis von Infiesto verpflichtet den Gewinner, das Preisgeld vollständig an eine gemeinnützige Organisation in Asturien abzugeben.",
+        "cuerpo": [
+          "Die Entscheidung der Jury der Avellana de Oro 2026 wird diesen Freitag in Infiesto öffentlich bekanntgegeben.",
+          "Wer die Auszeichnung erhält, darf das Preisgeld nicht behalten: Er ist verpflichtet, es vollständig an eine gemeinnützige Organisation weiterzugeben, die in Asturien tätig ist."
+        ],
+        "apunte": "Ein Preis, den man in dem Moment, in dem man ihn bekommt, schon wieder verschenken muss.",
+        "enVeinte": [
+          "Diesen Freitag wird bekanntgegeben, wer die Avellana de Oro 2026 in Infiesto gewinnt.",
+          "Der Preisträger ist verpflichtet, das Preisgeld an eine gemeinnützige Organisation in Asturien zu spenden.",
+          "Weitere Einzelheiten zur Jury-Entscheidung oder zur Höhe des Preisgeldes sind nicht bekannt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Avellana de Oro ist die wichtigste Auszeichnung in der Gemeinde Piloña – am Freitag lohnt es sich also, genau hinzuschauen, wer sie diesmal erhält.",
+        "lugar": "Infiesto",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "mas-de-200-especies-diferentes-de-setas-recogidas-en-una-manana",
+    "url": "/pilona/mas-de-200-especies-diferentes-de-setas-recogidas-en-una-manana/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Más de 200 especies de setas, en una mañana",
+    "entradilla": "Entre lo recogido apareció un Boletus Reticulatus de kilo y medio.",
+    "cuerpo": [
+      "Una salida micológica en el concejo de Piloña deparó una cosecha notable: más de doscientas especies distintas reunidas en una sola jornada matinal.",
+      "El ejemplar más llamativo fue un Boletus Reticulatus que llegó al kilo y medio, una pieza poco habitual por su tamaño."
+    ],
+    "apunte": "Kilo y medio de boletus: hay güelos que llevan décadas al monte y no han visto uno así.",
+    "enVeinte": [
+      "Una salida micológica en Piloña reunió más de doscientas especies de setas en una sola mañana.",
+      "El hallazgo más destacado fue un Boletus Reticulatus de kilo y medio.",
+      "La noticia refleja la riqueza del monte piloñés en temporada de setas."
+    ],
+    "cifra": {
+      "numero": "1,5",
+      "unidad": "kilos",
+      "glosa": "Así pesó el Boletus Reticulatus más grande de la jornada. Para hacerse una idea: un boleto de tamaño corriente ronda los cien o doscientos gramos, así que este triplicaba con creces lo habitual."
+    },
+    "palabra": {
+      "termino": "Boletus Reticulatus",
+      "como": "boletus re-ti-cu-LA-tus; por aquí se le llama simplemente 'boletu' o 'boleto de verano'",
+      "definicion": "Seta de sombrero marrón y pie grueso con un reticulado blanco bien visible. Es prima hermana del famoso Boletus Edulis, muy apreciada en la cocina asturiana y habitual en los robledales y castañares del oriente."
+    },
+    "porQue": "El monte de Piloña sigue siendo de los mejores de Asturias para la recogida de setas en otoño, y una jornada así recuerda que vale la pena salir con el cesto antes de que lleguen los primeros hielos.",
+    "etiquetas": [
+      "setas",
+      "micología",
+      "Piloña",
+      "naturaleza"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/27/2026102711400284425.jpg",
+    "fecha": "2026-10-27T10:42:32.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/pilona/200-especies-setas-infiesto/20261027114232105052.html",
+      "titularOriginal": "Más de 200 especies diferentes de setas recogidas en una mañana"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
+    "id": "la-ria-de-villaviciosa-renueva-sus-observatorios-de-aves-en-el-cierron",
+    "url": "/villaviciosa/la-ria-de-villaviciosa-renueva-sus-observatorios-de-aves-en-el-cierron/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "La ría de Villaviciosa estrena observatorios renovados",
+    "entradilla": "El Cierrón y el Picu tienen ya nuevas bandas antideslizantes y paneles informativos sobre las aves del estuario.",
+    "cuerpo": [
+      "La Consejería ha puesto a punto los dos observatorios de aves de la ría de Villaviciosa, en El Cierrón y el Picu, con mejoras de seguridad y señalización actualizada.",
+      "Entre las novedades están las bandas antideslizantes, que facilitan el acceso con cualquier calzado y en días húmedos, y los nuevos paneles con información sobre las especies que habitan el estuario."
+    ],
+    "apunte": "Ahora los mirlos de agua ya tienen su ficha técnica en condiciones.",
+    "enVeinte": [
+      "La Consejería ha renovado los observatorios de aves de la ría de Villaviciosa en El Cierrón y el Picu.",
+      "Las mejoras incluyen bandas antideslizantes para mayor seguridad y paneles informativos actualizados.",
+      "Los paneles muestran qué especies pueblan el estuario, útil tanto para visitantes como para vecinos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "estuario",
+      "como": "estuario",
+      "definicion": "Tramo final de un río donde sus aguas se mezclan con las del mar. La ría de Villaviciosa es un estuario protegido, refugio de numerosas aves acuáticas durante todo el año."
+    },
+    "porQue": "Quien se acerque a observar aves a la ría encontrará los miradores más seguros y con información más completa sobre lo que vuela por allí.",
+    "etiquetas": [
+      "ría de Villaviciosa",
+      "aves",
+      "El Cierrón",
+      "naturaleza"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/27/villaviciosa-pasarela-cierron-RADFgyuc7MS8eV9n1KR34rM-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-27T10:22:09.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ria-villaviciosa-renueva-observatorios-aves-cierron-picu-20261027112208-nt.html",
+      "titularOriginal": "La ría de Villaviciosa renueva sus observatorios de aves en El Cierrón y el Picu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa estuary gets upgraded bird hides",
+        "entradilla": "El Cierrón and el Picu now have new anti-slip strips and information panels on the estuary's birds.",
+        "cuerpo": [
+          "The regional department has refurbished the two bird hides at the Villaviciosa estuary, at El Cierrón and el Picu, with safety improvements and updated signage.",
+          "The new features include anti-slip strips, which make access easier in any footwear and on wet days, and new panels with information about the species that inhabit the estuary."
+        ],
+        "apunte": "The dippers finally have a proper fact sheet of their own.",
+        "enVeinte": [
+          "The regional department has renovated the bird hides at the Villaviciosa estuary at El Cierrón and el Picu.",
+          "The improvements include anti-slip strips for greater safety and updated information panels.",
+          "The panels show which species populate the estuary — useful for visitors and locals alike."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario",
+          "definicion": "The final stretch of a river where its waters mix with the sea. The Villaviciosa estuary is a protected estuary, a year-round refuge for numerous water birds."
+        },
+        "porQue": "Anyone who heads to the estuary for birdwatching will find safer hides with more complete information about what is flying around out there.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'estuaire de Villaviciosa inaugure des observatoires rénovés",
+        "entradilla": "El Cierrón et el Picu disposent désormais de nouveaux revêtements antidérapants et de panneaux d'information sur les oiseaux de l'estuaire.",
+        "cuerpo": [
+          "La Consejería a remis en état les deux observatoires à oiseaux de l'estuaire de Villaviciosa, à El Cierrón et el Picu, avec des améliorations de sécurité et une signalétique actualisée.",
+          "Parmi les nouveautés figurent les revêtements antidérapants, qui facilitent l'accès quelle que soit la chaussure et par temps humide, ainsi que de nouveaux panneaux présentant les espèces qui peuplent l'estuaire."
+        ],
+        "apunte": "Les cincles plongeurs ont enfin leur fiche technique digne de ce nom.",
+        "enVeinte": [
+          "La Consejería a rénové les observatoires à oiseaux de l'estuaire de Villaviciosa à El Cierrón et el Picu.",
+          "Les améliorations comprennent des revêtements antidérapants pour plus de sécurité et des panneaux d'information mis à jour.",
+          "Les panneaux indiquent quelles espèces peuplent l'estuaire, utile aussi bien pour les visiteurs que pour les habitants."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario",
+          "definicion": "Tronçon final d'un fleuve ou d'une rivière où ses eaux se mêlent à celles de la mer. L'estuaire de Villaviciosa est un estuaire protégé, refuge pour de nombreux oiseaux aquatiques tout au long de l'année."
+        },
+        "porQue": "Quiconque se rend à l'estuaire pour observer les oiseaux trouvera des miradors plus sûrs et mieux documentés sur ce qui vole dans les parages.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Ría von Villaviciosa bekommt renovierte Vogelbeobachtungsstände",
+        "entradilla": "El Cierrón und el Picu haben jetzt neue rutschfeste Streifen und Informationstafeln zu den Vögeln des Ästuars.",
+        "cuerpo": [
+          "Die Consejería hat die beiden Vogelbeobachtungsstände an der Ría von Villaviciosa, bei El Cierrón und el Picu, mit Sicherheitsverbesserungen und aktualisierter Beschilderung instand gesetzt.",
+          "Zu den Neuerungen gehören rutschfeste Streifen, die den Zugang mit beliebigem Schuhwerk und an nassen Tagen erleichtern, sowie neue Tafeln mit Informationen zu den Arten, die das Ästuar bewohnen."
+        ],
+        "apunte": "Die Wasseramsel hat endlich eine ordentliche Steckbriefkarte bekommen.",
+        "enVeinte": [
+          "Die Consejería hat die Vogelbeobachtungsstände an der Ría von Villaviciosa bei El Cierrón und el Picu erneuert.",
+          "Die Verbesserungen umfassen rutschfeste Streifen für mehr Sicherheit sowie aktualisierte Informationstafeln.",
+          "Die Tafeln zeigen, welche Arten das Ästuar bevölkern — nützlich für Besucher wie für Anwohner gleichermaßen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "estuario",
+          "como": "estuario",
+          "definicion": "Der letzte Abschnitt eines Flusses, in dem sich sein Wasser mit dem Meer vermischt. Die Ría von Villaviciosa ist ein geschütztes Ästuar und ganzjähriger Zufluchtsort für zahlreiche Wasservögel."
+        },
+        "porQue": "Wer zum Vogelbeobachten an die Ría kommt, findet sicherere Stände mit umfassenderen Informationen darüber, was dort in der Luft zu sehen ist.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-gobierno-de-asturias-invierte-en-la-mejora-de-accesos-y-equipamient",
+    "url": "/villaviciosa/el-gobierno-de-asturias-invierte-en-la-mejora-de-accesos-y-equipamient/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "El Principado destina 44.612 € a la ría de Villaviciosa",
+    "entradilla": "El dinero irá a mejorar accesos y equipamientos en uno de los humedales más valiosos del litoral asturiano.",
+    "cuerpo": [
+      "El Gobierno regional ha reservado 44.612 euros para intervenir en la ría de Villaviciosa, un espacio natural protegido que cada año atrae visitantes y sirve de refugio a numerosas especies.",
+      "La inversión apunta a adaptar las infraestructuras del entorno a las condiciones actuales del humedal, con mejoras de acceso y mayor seguridad para quien se acerque a recorrerlo."
+    ],
+    "apunte": "Cuarenta y cuatro mil euros para que la ría siga siendo la ría.",
+    "enVeinte": [
+      "El Principado de Asturias destina 44.612 euros a mejorar accesos y equipamientos en la ría de Villaviciosa.",
+      "La actuación busca preservar el humedal y aumentar la seguridad en el espacio natural.",
+      "Las infraestructuras se adaptarán a las nuevas condiciones del entorno litoral."
+    ],
+    "cifra": {
+      "numero": "44.612",
+      "unidad": "euros",
+      "glosa": "Es la cantidad que el Gobierno asturiano ha decidido volcar en la ría de Villaviciosa. No es una obra faraónica, pero en espacios naturales protegidos este tipo de partidas suelen marcar la diferencia entre un camino que se cae a pedazos y uno por el que la gente puede andar sin riesgo."
+    },
+    "palabra": {
+      "termino": "humedal",
+      "como": "humedal, igual que en castellano",
+      "definicion": "Zona donde el suelo está saturado de agua de forma permanente o temporal, como ocurre en la ría de Villaviciosa. Son ecosistemas de gran valor porque filtran el agua, frenan inundaciones y albergan una biodiversidad difícil de encontrar en otro sitio."
+    },
+    "porQue": "Quien pasea por la ría o la usa para el marisqueo notará en los próximos meses accesos más seguros y unas infraestructuras mejor adaptadas al terreno.",
+    "etiquetas": [
+      "ría de Villaviciosa",
+      "medio ambiente",
+      "Principado",
+      "humedal"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-gobierno-de-asturias-invierte-en-la-mejora-de-acces-28040.jpg",
+    "fecha": "2026-10-27T09:46:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/el-gobierno-de-asturias-invierte-en-la-mejora-de-accesos-y-equipamientos-en-la-ria-de-villaviciosa-11276866.html",
+      "titularOriginal": "El Gobierno de Asturias invierte en la mejora de accesos y equipamientos en la ría de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Principado allocates €44,612 to the Villaviciosa estuary",
+        "entradilla": "The money will go towards improving access and facilities at one of the most valuable wetlands on the Asturian coast.",
+        "cuerpo": [
+          "The regional government has set aside 44,612 euros to carry out works on the Villaviciosa estuary, a protected natural space that attracts visitors every year and serves as a refuge for numerous species.",
+          "The investment aims to adapt the infrastructure around the wetland to its current conditions, with improved access and greater safety for those who come to explore it."
+        ],
+        "apunte": "Forty-four thousand euros so the estuary can keep being the estuary.",
+        "enVeinte": [
+          "The Principado de Asturias is allocating 44,612 euros to improve access and facilities at the Villaviciosa estuary.",
+          "The works aim to preserve the wetland and increase safety in the natural space.",
+          "The infrastructure will be adapted to the new conditions of the coastal environment."
+        ],
+        "cifra": {
+          "numero": "44.612",
+          "unidad": "euros",
+          "glosa": "This is the amount the Asturian government has decided to put into the Villaviciosa estuary. It is not a grand project, but in protected natural spaces this kind of allocation often makes the difference between a path that is falling apart and one people can walk safely."
+        },
+        "palabra": {
+          "termino": "humedal",
+          "como": "humedal, pronounced as in Spanish",
+          "definicion": "An area where the soil is saturated with water permanently or temporarily, as is the case at the Villaviciosa estuary. These are ecosystems of great value because they filter water, slow flooding and support a level of biodiversity that is hard to find elsewhere."
+        },
+        "porQue": "Anyone who walks along the estuary or uses it for shellfish gathering will notice safer access and better-adapted infrastructure in the coming months.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Principauté consacre 44 612 € à la ría de Villaviciosa",
+        "entradilla": "L'argent servira à améliorer les accès et les équipements de l'une des zones humides les plus précieuses du littoral asturien.",
+        "cuerpo": [
+          "Le gouvernement régional a réservé 44 612 euros pour intervenir sur la ría de Villaviciosa, un espace naturel protégé qui attire chaque année des visiteurs et sert de refuge à de nombreuses espèces.",
+          "L'investissement vise à adapter les infrastructures du site aux conditions actuelles de la zone humide, avec de meilleurs accès et une sécurité renforcée pour les promeneurs."
+        ],
+        "apunte": "Quarante-quatre mille euros pour que la ría reste la ría.",
+        "enVeinte": [
+          "La Principauté des Asturies consacre 44 612 euros à l'amélioration des accès et des équipements de la ría de Villaviciosa.",
+          "L'opération vise à préserver la zone humide et à renforcer la sécurité dans l'espace naturel.",
+          "Les infrastructures seront adaptées aux nouvelles conditions du milieu littoral."
+        ],
+        "cifra": {
+          "numero": "44.612",
+          "unidad": "euros",
+          "glosa": "C'est la somme que le gouvernement asturien a décidé d'investir dans la ría de Villaviciosa. Ce n'est pas un chantier pharaonique, mais dans les espaces naturels protégés ce type de dotation fait souvent la différence entre un sentier en ruine et un chemin que les gens peuvent emprunter sans risque."
+        },
+        "palabra": {
+          "termino": "humedal",
+          "como": "humedal, se prononce comme en espagnol",
+          "definicion": "Zone où le sol est saturé d'eau de façon permanente ou temporaire, comme c'est le cas à la ría de Villaviciosa. Ce sont des écosystèmes de grande valeur car ils filtrent l'eau, freinent les inondations et abritent une biodiversité difficile à trouver ailleurs."
+        },
+        "porQue": "Ceux qui se promènent sur la ría ou l'utilisent pour la pêche à pied remarqueront dans les prochains mois des accès plus sûrs et des infrastructures mieux adaptées au terrain.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Principado stellt 44.612 € für die Ría de Villaviciosa bereit",
+        "entradilla": "Das Geld soll Zugänge und Einrichtungen in einem der wertvollsten Feuchtgebiete an der asturischen Küste verbessern.",
+        "cuerpo": [
+          "Die Regionalregierung hat 44.612 Euro für Maßnahmen an der Ría de Villaviciosa zurückgestellt, einem Naturschutzgebiet, das jedes Jahr Besucher anzieht und zahlreichen Arten als Rückzugsort dient.",
+          "Die Investition zielt darauf ab, die Infrastruktur rund um das Feuchtgebiet an die aktuellen Bedingungen anzupassen — mit besseren Zugängen und mehr Sicherheit für alle, die das Gebiet erkunden möchten."
+        ],
+        "apunte": "Vierundvierzigtausend Euro, damit die Ría die Ría bleibt.",
+        "enVeinte": [
+          "Das Principado de Asturias stellt 44.612 Euro bereit, um Zugänge und Einrichtungen an der Ría de Villaviciosa zu verbessern.",
+          "Die Maßnahme soll das Feuchtgebiet erhalten und die Sicherheit im Naturschutzgebiet erhöhen.",
+          "Die Infrastruktur wird an die neuen Bedingungen der Küstenumgebung angepasst."
+        ],
+        "cifra": {
+          "numero": "44.612",
+          "unidad": "euros",
+          "glosa": "Das ist der Betrag, den die asturische Regierung in die Ría de Villaviciosa investieren will. Kein Großprojekt — aber in Naturschutzgebieten entscheidet genau diese Art von Mittelzuweisung oft darüber, ob ein Weg unbegehbar verfällt oder ob die Menschen ihn gefahrlos nutzen können."
+        },
+        "palabra": {
+          "termino": "humedal",
+          "como": "humedal, wird wie im Spanischen ausgesprochen",
+          "definicion": "Gebiet, in dem der Boden dauerhaft oder zeitweise mit Wasser gesättigt ist, wie es an der Ría de Villaviciosa der Fall ist. Diese Ökosysteme sind äußerst wertvoll: Sie filtern Wasser, bremsen Überschwemmungen und beherbergen eine Artenvielfalt, die anderswo kaum zu finden ist."
+        },
+        "porQue": "Wer an der Ría spazieren geht oder sie zum Muschelsammeln nutzt, wird in den kommenden Monaten sicherere Zugänge und eine besser an das Gelände angepasste Infrastruktur vorfinden.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "llanes-y-nava-competiran-por-la-iluminacion-navidena-de-ferrero-rocher",
     "url": "/nava/llanes-y-nava-competiran-por-la-iluminacion-navidena-de-ferrero-rocher/",
     "concejo": "Nava",
@@ -99,6 +569,57 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "el-pleno-de-parres-rechaza-un-dictamen-sobre-el-camino-de-soto-de-dego",
+    "url": "/pilona/el-pleno-de-parres-rechaza-un-dictamen-sobre-el-camino-de-soto-de-dego/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "actualidad",
+    "titular": "Ciudadanos denuncia que el acceso al Sella sigue cerrado",
+    "entradilla": "El grupo municipal acusa al Ayuntamiento de Parres de ignorar durante más de cinco meses un acuerdo que él mismo aprobó por unanimidad.",
+    "cuerpo": [
+      "Ciudadanos lleva cinco meses esperando que el Ayuntamiento de Parres cumpla lo que prometió en pleno: dejar libre el camino que baja al río Sella por Soto de Dego. Según el grupo municipal, ese acuerdo sigue sin ejecutarse.",
+      "La denuncia la hace el propio Grupo Municipal Ciudadanos, que recuerda que el pleno respaldó la medida por unanimidad. Que sea un acuerdo unánime e incumplido es lo que más pesa en la acusación."
+    ],
+    "apunte": "Aprobado por todos, cumplido por nadie.",
+    "enVeinte": [
+      "Ciudadanos denuncia que el Ayuntamiento de Parres lleva más de cinco meses sin ejecutar un acuerdo plenario sobre el camino de Soto de Dego.",
+      "El acuerdo, aprobado por unanimidad, garantizaba el libre tránsito hacia el río Sella desde esa vía.",
+      "El grupo municipal exige que se cumpla lo que el propio pleno aprobó."
+    ],
+    "cifra": {
+      "numero": "5",
+      "unidad": "meses",
+      "glosa": "Tanto tiempo llevaría sin ejecutarse el acuerdo plenario, según Ciudadanos. Es el plazo que el grupo municipal pone sobre la mesa para medir el incumplimiento."
+    },
+    "palabra": {
+      "termino": "Soto de Dego",
+      "como": "Soto de Dego, sin cambios",
+      "definicion": "Topónimo del concejo de Parres que da nombre al camino en disputa. 'Soto' en Asturias suele referirse a un paraje arbolado junto a un curso de agua, aquí el río Sella."
+    },
+    "porQue": "Quien quiera bajar al Sella por ese camino sigue sin poder hacerlo con garantías, y el pleno que debía resolverlo lleva cinco meses sin mover ficha.",
+    "etiquetas": [
+      "Parres",
+      "Soto de Dego",
+      "río Sella",
+      "Ciudadanos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-pleno-de-parres-rechaza-un-dictamen-sobre-el-camino-27930.jpg",
+    "fecha": "2026-10-26T23:18:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-parres-arriondas/el-pleno-de-parres-rechaza-un-dictamen-sobre-el-camino-de-soto-de-dego-por-unanimidad-11276859.html",
+      "titularOriginal": "El Pleno de Parres rechaza un dictamen sobre el camino de Soto de Dego por unanimidad"
+    },
+    "reescrito": true,
+    "trad": {}
   },
   {
     "id": "villaviciosa-ultima-el-proyecto-para-convertir-el-pelambre-en-una-zona",
