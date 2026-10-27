@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-27T12:32:37.768Z",
+  "fecha": "2026-10-27T18:15:32.918Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El acceso al Sella sigue cerrado cinco meses después de que Parres lo prometiera abrir.",
-      "enlace": "/pilona/el-pleno-de-parres-rechaza-un-dictamen-sobre-el-camino-de-soto-de-dego/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Este viernes llega a Santuyano una exposición sobre la sidra asturiana en América.",
-      "enlace": "/villaviciosa/bimenes-presenta-este-viernes-la-sidre-na-emigracion-asturiana/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Hoy se desvela quién gana la Avellana de Oro 2026, el premio más veterano de Infiesto.",
-      "enlace": "/pilona/el-viernes-se-falla-la-avellana-de-oro-2026-en-infiesto/"
+      "concejo": "Nava",
+      "frase": "La carretera Pozucorderu-Grátila-Campanal, en Nava, ya está terminada.",
+      "enlace": "/nava/finalizan-las-obras-de-mejora-del-vial-entre-pozucorderu-gratila-y-cam/"
     }
   ]
 }
