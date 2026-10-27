@@ -516,6 +516,11 @@
       "motivo": "duplicado de /nava/llanes-competira-con-nava-por-representar-a-asturias-en-la-campana-nav/",
       "fecha": "2026-10-26T17:18:44.057Z",
       "titulo": "¡El mar contra la sidra! Llanes y Nava se enfrentan por el sueño de convertirse en el pueblo más brillante de España esta Navidad"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-prepara-la-reforma-integral-del-parque-del-pelambre-11276860.html": {
+      "motivo": "mismo hecho que /villaviciosa/la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona/",
+      "fecha": "2026-10-27T06:13:06.623Z",
+      "titulo": "Villaviciosa prepara la reforma integral del parque del Pelambre"
     }
   },
   "juicios": {
@@ -626,6 +631,14 @@
     "villaviciosa.es/detalle-rss?articleid=19850211|procedimiento-selectivo-de-arquitecto-a-jefe-a": {
       "r": "distinto",
       "fecha": "2026-10-23T12:07:50.707Z"
+    },
+    "rtpa.es/noticias-asturias/2026-10-26/el-cierre-del-puente-de-ribadesella-deja-sin-paso-peatonal-a-vecinos-y-visitantes_111793020559.html|el-puente-que-une-las-dos-orillas-de-ribadesella-dice-adios-a-los-coch": {
+      "r": "distinto",
+      "fecha": "2026-10-27T06:13:05.575Z"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-prepara-la-reforma-integral-del-parque-del-pelambre-11276860.html|la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona": {
+      "r": "mismo",
+      "fecha": "2026-10-27T06:13:06.622Z"
     }
   }
 }

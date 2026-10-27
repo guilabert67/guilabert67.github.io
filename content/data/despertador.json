@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-26T17:22:51.379Z",
+  "fecha": "2026-10-27T06:13:35.789Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "50 viviendas sociales nuevas en Villaviciosa, en la avenida del Carbayu.",
-      "enlace": "/villaviciosa/las-claves-de-las-nuevas-50-viviendas-sociales-en-villaviciosa-tendran/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "El puente de Ribadesella cerró de golpe: sin aviso y sin lanzadera esperando.",
-      "enlace": "/pilona/el-cierre-del-puente-de-ribadesella-deja-sin-paso-peatonal-a-vecinos-y/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "El Pelambre cambia: adiós al estanque, ya retiran los juegos en peor estado.",
-      "enlace": "/villaviciosa/villaviciosa-ultima-el-proyecto-para-convertir-el-pelambre-en-una-zona/"
+      "concejo": "Nava",
+      "frase": "Nava y Llanes pelean por las luces navideñas de Ferrero Rocher.",
+      "enlace": "/nava/llanes-y-nava-competiran-por-la-iluminacion-navidena-de-ferrero-rocher/"
     }
   ]
 }
