@@ -1,5 +1,161 @@
 [
   {
+    "id": "el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primer",
+    "url": "/pilona/el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primer/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Ribadesella estrena su RallySprint el 8 de noviembre",
+    "entradilla": "Sesenta y cinco pilotos ya apuntados y el plazo para inscribirse cierra este miércoles a las ocho de la tarde.",
+    "cuerpo": [
+      "El Ribadesella Automóvil Club organiza el 1º RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru', una prueba puntuable para el Campeonato de Asturias que se disputará los días 7 y 8 de noviembre. El plazo de inscripción cierra el miércoles 28 de octubre a las ocho de la tarde.",
+      "El viernes habrá verificaciones en la Plaza Reina María Cristina —o en la pista de La Atalaya si llueve— y la ceremonia de salida en la calle Gran Vía. La carrera en sí es el sábado: tres pases sobre un único tramo con salida en el Polígono Industrial de La Güertona, que recorrerá La Piconera, L'Alisal, Cueves del Agua, Tezangos, Sardalla, San Miguel de Ucio y La Granda hasta llegar a meta en Sotu. Los desplazamientos entre orillas del Sella serán por la Autovía del Cantábrico, ya que el puente permanecerá cerrado.",
+      "El jueves 5 de noviembre, antes de la competición, el RAC llevará coches de rallye al IES Avelina Cerra, al Colegio Público Manuel Fernández Juncos y al Colegio Ntra Sra del Rosario para acercar el deporte del motor a los chavales del municipio."
+    ],
+    "apunte": "Un piloto portugués en el cartel y meta en Sotu: la primera edición ya tiene sabor a clásico.",
+    "enVeinte": [
+      "El 7 y 8 de noviembre llega a Ribadesella el primer RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru', puntuable para el Campeonato de Asturias.",
+      "El único tramo sale del Polígono de La Güertona y pasa por varios pueblos antes de acabar en Sotu; se correrá tres veces en el día.",
+      "El plazo de inscripción cierra este miércoles a las 20:00 h, con 65 pilotos ya apuntados de varios puntos de España y Portugal."
+    ],
+    "cifra": {
+      "numero": "65",
+      "unidad": "pilotos inscritos",
+      "glosa": "Es el número de equipos apuntados antes de que cierre el plazo. Los organizadores esperan superar los 70, cifra que consideran ideal para arrancar una prueba nueva."
+    },
+    "palabra": {
+      "termino": "L'Alisal",
+      "como": "l-a-li-sal, con el artículo asturiano L' delante",
+      "definicion": "Topónimo asturiano de la zona de Ribadesella por el que discurrirá el tramo del rallysprint. El artículo 'L'' es la forma contracta del asturiano 'el' ante vocal, habitual en los nombres de lugar de la región."
+    },
+    "porQue": "Las carreteras del tramo entre La Güertona y Sotu estarán cortadas al tráfico durante la competición del sábado 8, así que quien tenga que moverse por esa zona ese día deberá buscar ruta alternativa con tiempo.",
+    "etiquetas": [
+      "rallysprint",
+      "Ribadesella",
+      "motor",
+      "Campeonato de Asturias"
+    ],
+    "fechaEvento": "2026-11-07",
+    "tipoEvento": "feria",
+    "lugar": "Plaza Reina María Cristina / calle Gran Vía / Polígono Industrial de La Güertona, Ribadesella",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/RALLYSPRINT-Ribaadesella-Presentacion.png.jpeg",
+    "fecha": "2026-10-27T19:31:05.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/27/10/2026/el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primera-edicion/",
+      "titularOriginal": "El RallySprint Villa de Ribadesella presenta el recorrido de su primera edición"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella launches its RallySprint on 8 November",
+        "entradilla": "Sixty-five drivers already signed up and the registration deadline closes this Wednesday at eight in the evening.",
+        "cuerpo": [
+          "The Ribadesella Automóvil Club is organising the 1º RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru', a round counting towards the Campeonato de Asturias, which will take place on 7 and 8 November. The registration deadline closes on Wednesday 28 October at eight in the evening.",
+          "On Friday there will be scrutineering at the Plaza Reina María Cristina — or at the La Atalaya track if it rains — and the start ceremony on calle Gran Vía. The race itself is on Saturday: three runs over a single stage starting at the Polígono Industrial de La Güertona, passing through La Piconera, L'Alisal, Cueves del Agua, Tezangos, Sardalla, San Miguel de Ucio and La Granda before finishing at Sotu. Transfers between the banks of the Sella will be via the Autovía del Cantábrico, as the bridge will remain closed.",
+          "On Thursday 5 November, before the competition, the RAC will bring rally cars to IES Avelina Cerra, to Colegio Público Manuel Fernández Juncos and to Colegio Ntra Sra del Rosario to introduce motorsport to the children of the municipality."
+        ],
+        "apunte": "A Portuguese driver on the entry list and the finish line at Sotu: the first edition already has the feel of a classic.",
+        "enVeinte": [
+          "On 7 and 8 November, the first RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru' comes to Ribadesella, counting towards the Campeonato de Asturias.",
+          "The single stage starts at the Polígono de La Güertona and passes through several villages before finishing at Sotu; it will be run three times on the day.",
+          "The registration deadline closes this Wednesday at 20:00, with 65 drivers already signed up from various parts of Spain and Portugal."
+        ],
+        "cifra": {
+          "numero": "65",
+          "unidad": "registered drivers",
+          "glosa": "This is the number of teams entered before the deadline closes. The organisers expect to exceed 70, a figure they consider ideal for launching a new event."
+        },
+        "palabra": {
+          "termino": "L'Alisal",
+          "como": "l-a-li-sal, with the Asturian article L' in front",
+          "definicion": "An Asturian place name in the Ribadesella area through which the rallysprint stage will pass. The article 'L'' is the contracted form of the Asturian word 'el' (the) before a vowel, commonly found in place names across the region."
+        },
+        "porQue": "The roads along the stage between La Güertona and Sotu will be closed to traffic during Saturday 8's competition, so anyone needing to travel through that area on the day should plan an alternative route in advance.",
+        "lugar": "Plaza Reina María Cristina / calle Gran Vía / Polígono Industrial de La Güertona, Ribadesella",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Ribadesella lance son RallySprint le 8 novembre",
+        "entradilla": "Soixante-cinq pilotes déjà inscrits et le délai d'inscription ferme ce mercredi à vingt heures.",
+        "cuerpo": [
+          "Le Ribadesella Automóvil Club organise le 1º RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru', une épreuve comptant pour le Campeonato de Asturias, qui se déroulera les 7 et 8 novembre. Le délai d'inscription ferme le mercredi 28 octobre à vingt heures.",
+          "Le vendredi, les vérifications auront lieu sur la Plaza Reina María Cristina — ou sur la piste de La Atalaya en cas de pluie — et la cérémonie de départ se tiendra calle Gran Vía. La course proprement dite est le samedi : trois passages sur une seule spéciale avec départ au Polígono Industrial de La Güertona, qui traversera La Piconera, L'Alisal, Cueves del Agua, Tezangos, Sardalla, San Miguel de Ucio et La Granda pour arriver à l'arrivée à Sotu. Les liaisons entre les deux rives du Sella se feront par l'Autovía del Cantábrico, le pont restant fermé.",
+          "Le jeudi 5 novembre, avant la compétition, le RAC amènera des voitures de rallye à l'IES Avelina Cerra, au Colegio Público Manuel Fernández Juncos et au Colegio Ntra Sra del Rosario pour faire découvrir le sport automobile aux élèves de la commune."
+        ],
+        "apunte": "Un pilote portugais au départ et l'arrivée à Sotu : la première édition a déjà des allures de classique.",
+        "enVeinte": [
+          "Les 7 et 8 novembre, le premier RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru' fait son entrée à Ribadesella, comptant pour le Campeonato de Asturias.",
+          "L'unique spéciale part du Polígono de La Güertona et traverse plusieurs villages avant de s'achever à Sotu ; elle sera disputée trois fois dans la journée.",
+          "Le délai d'inscription ferme ce mercredi à 20 h, avec déjà 65 pilotes inscrits venant de plusieurs régions d'Espagne et du Portugal."
+        ],
+        "cifra": {
+          "numero": "65",
+          "unidad": "pilotes inscrits",
+          "glosa": "C'est le nombre d'équipes engagées avant la fermeture des inscriptions. Les organisateurs espèrent dépasser les 70, chiffre qu'ils considèrent idéal pour lancer une nouvelle épreuve."
+        },
+        "palabra": {
+          "termino": "L'Alisal",
+          "como": "l-a-li-sal, avec l'article asturien L' devant",
+          "definicion": "Toponyme asturien de la zone de Ribadesella que traversera la spéciale du rallysprint. L'article 'L'' est la forme contractée de l'asturien 'el' (le) devant une voyelle, courante dans les noms de lieux de la région."
+        },
+        "porQue": "Les routes de la spéciale entre La Güertona et Sotu seront fermées à la circulation pendant la compétition du samedi 8 ; toute personne devant se déplacer dans cette zone ce jour-là devra prévoir un itinéraire alternatif à l'avance.",
+        "lugar": "Plaza Reina María Cristina / calle Gran Vía / Polígono Industrial de La Güertona, Ribadesella",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ribadesella startet seinen RallySprint am 8. November",
+        "entradilla": "Fünfundsechzig Fahrer bereits angemeldet, und die Anmeldefrist schließt diesen Mittwoch um zwanzig Uhr.",
+        "cuerpo": [
+          "Der Ribadesella Automóvil Club veranstaltet den 1º RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru', eine Wertungsprüfung für den Campeonato de Asturias, die am 7. und 8. November ausgetragen wird. Die Anmeldefrist endet am Mittwoch, dem 28. Oktober, um zwanzig Uhr.",
+          "Am Freitag finden die technischen Abnahmen auf der Plaza Reina María Cristina statt — oder auf dem Gelände von La Atalaya bei Regen — und die Startzeremonie auf der calle Gran Vía. Das Rennen selbst findet am Samstag statt: drei Durchgänge über eine einzige Wertungsprüfung mit Start am Polígono Industrial de La Güertona, die durch La Piconera, L'Alisal, Cueves del Agua, Tezangos, Sardalla, San Miguel de Ucio und La Granda führt, bis ins Ziel in Sotu. Die Überführungen zwischen den Sella-Ufern erfolgen über die Autovía del Cantábrico, da die Brücke gesperrt bleibt.",
+          "Am Donnerstag, dem 5. November, vor dem Wettkampf, bringt der RAC Rallyeautos zum IES Avelina Cerra, zum Colegio Público Manuel Fernández Juncos und zum Colegio Ntra Sra del Rosario, um den Schülerinnen und Schülern der Gemeinde den Motorsport näherzubringen."
+        ],
+        "apunte": "Ein portugiesischer Fahrer auf der Starterliste und das Ziel in Sotu: Die erste Auflage hat bereits das Flair eines Klassikers.",
+        "enVeinte": [
+          "Am 7. und 8. November kommt der erste RallySprint Villa de Ribadesella–Memorial David Mateos 'Puru' nach Ribadesella — eine Wertung für den Campeonato de Asturias.",
+          "Die einzige Wertungsprüfung startet am Polígono de La Güertona und führt durch mehrere Orte, bevor sie in Sotu endet; sie wird am selben Tag dreimal gefahren.",
+          "Die Anmeldefrist schließt diesen Mittwoch um 20:00 Uhr, mit bereits 65 Fahrern aus verschiedenen Teilen Spaniens und Portugals."
+        ],
+        "cifra": {
+          "numero": "65",
+          "unidad": "gemeldete Fahrer",
+          "glosa": "Das ist die Anzahl der Teams, die vor Ablauf der Anmeldefrist eingeschrieben sind. Die Veranstalter rechnen damit, die Marke von 70 zu übertreffen, eine Zahl, die sie für den Start einer neuen Veranstaltung als ideal betrachten."
+        },
+        "palabra": {
+          "termino": "L'Alisal",
+          "como": "l-a-li-sal, mit dem asturischen Artikel L' davor",
+          "definicion": "Asturischer Ortsname im Gebiet von Ribadesella, durch den die Wertungsprüfung des Rallysprints führt. Der Artikel 'L'' ist die zusammengezogene Form des asturischen 'el' (der/die/das) vor einem Vokal und kommt häufig in Ortsnamen der Region vor."
+        },
+        "porQue": "Die Straßen der Wertungsprüfung zwischen La Güertona und Sotu sind während des Rennens am Samstag, dem 8., für den Verkehr gesperrt. Wer an diesem Tag durch dieses Gebiet fahren muss, sollte rechtzeitig eine alternative Route einplanen.",
+        "lugar": "Plaza Reina María Cristina / calle Gran Vía / Polígono Industrial de La Güertona, Ribadesella",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el 1 rallysprint villa de ribadesella memorial david",
+      "1 rallysprint villa de ribadesella memorial david mateos",
+      "rallysprint villa de ribadesella memorial david mateos puru",
+      "una prueba puntuable para el campeonato de asturias",
+      "y la ceremonia de salida en la calle",
+      "la ceremonia de salida en la calle gran",
+      "ceremonia de salida en la calle gran via",
+      "al ies avelina cerra al colegio publico manuel",
+      "ies avelina cerra al colegio publico manuel fernandez",
+      "avelina cerra al colegio publico manuel fernandez juncos",
+      "cerra al colegio publico manuel fernandez juncos y",
+      "al colegio publico manuel fernandez juncos y al",
+      "colegio publico manuel fernandez juncos y al colegio",
+      "publico manuel fernandez juncos y al colegio ntra",
+      "manuel fernandez juncos y al colegio ntra sra",
+      "fernandez juncos y al colegio ntra sra del",
+      "juncos y al colegio ntra sra del rosario"
+    ]
+  },
+  {
     "id": "bimenes-presenta-este-viernes-la-sidre-na-emigracion-asturiana",
     "url": "/villaviciosa/bimenes-presenta-este-viernes-la-sidre-na-emigracion-asturiana/",
     "concejo": "Villaviciosa",
