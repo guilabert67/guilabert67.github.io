@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-28T14:31:35.836Z",
+  "actualizado": "2026-10-28T19:52:28.141Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
       "max": 18,
       "min": 9,
       "estado": "Nuboso",
-      "lluvia": 0
+      "lluvia": 3
     },
     "nava": {
       "max": 17,
@@ -24,13 +24,13 @@
       "max": 16,
       "min": 8,
       "estado": "Nuboso",
-      "lluvia": 3
+      "lluvia": 5
     },
     "villaviciosa": {
       "max": 18,
       "min": 9,
       "estado": "Nuboso",
-      "lluvia": 3
+      "lluvia": 15
     }
   }
 }

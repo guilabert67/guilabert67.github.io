@@ -805,5 +805,17 @@
     "fuente": "wikimedia",
     "pie": "Ayuntamiento de Infiesto",
     "consulta": "casa consistorial asturias Piloña"
+  },
+  "el-misterio-de-los-13-que-ocurrio-con-la-familia-neandertal-de-asturia": {
+    "archivo": "el-misterio-de-los-13-que-ocurrio-con-la-familia-neandertal-de-asturia.jpg",
+    "autor": "Carmenmoran",
+    "licencia": "CC BY 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Berb%C3%ADo_(Pilo%C3%B1a,_Asturias).jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Berbío (Piloña, Asturias)",
+    "consulta": "iglesia asturias Piloña"
   }
 }
