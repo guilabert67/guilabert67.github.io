@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-28T07:35:07.720Z",
+  "fecha": "2026-10-28T14:31:34.411Z",
   "puntos": [
     {
+      "concejo": "Villaviciosa",
+      "frase": "Un incendio en una peluquería desalojó un edificio de madrugada en Villaviciosa.",
+      "enlace": "/villaviciosa/susto-de-madrugada-en-villaviciosa-al-declararse-un-incendio-en-una-pe/"
+    },
+    {
       "concejo": "Piloña",
-      "frase": "El RallySprint de Ribadesella arranca el 8 de noviembre; inscripciones cierran este miércoles a las ocho.",
-      "enlace": "/pilona/el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primer/"
+      "frase": "El centro de FP de Infiesto expone máquinas renacentistas hechas a mano según Da Vinci.",
+      "enlace": "/pilona/el-ingenio-de-leonardo-da-vinci-cobra-vida-en-el-prial/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa da otro paso para cubrir su plaza de arquitecto municipal.",
+      "enlace": "/villaviciosa/proceso-selectivo-de-arquitecto-a-no-jefe/"
     }
   ]
 }
