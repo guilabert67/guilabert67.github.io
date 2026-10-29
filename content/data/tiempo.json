@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T16:34:04.006Z",
+  "actualizado": "2026-10-29T21:24:51.008Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -30,7 +30,7 @@
       "max": 19,
       "min": 8,
       "estado": "Nuboso",
-      "lluvia": 0
+      "lluvia": 3
     }
   }
 }

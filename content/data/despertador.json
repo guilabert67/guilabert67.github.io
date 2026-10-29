@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-29T16:34:03.352Z",
+  "fecha": "2026-10-29T21:24:50.212Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Dos fugados tras un asalto a casas en Arroes; la Guardia Civil los sigue buscando.",
+      "frase": "Dos ladrones siguen huidos al monte tras un asalto a casas en Arroes.",
       "enlace": "/villaviciosa/nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-/"
     },
     {
-      "concejo": "Nava",
-      "frase": "El alcalde de Nava carga contra Puente por culpar al trabajador antes de investigar el accidente.",
-      "enlace": "/nava/malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al/"
+      "concejo": "Villaviciosa",
+      "frase": "Un incendio en una peluquería obliga a desalojar un edificio de Villaviciosa de madrugada.",
+      "enlace": "/villaviciosa/susto-de-madrugada-en-villaviciosa-al-declararse-un-incendio-en-una-pe/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "Los sportinguistas de Cabrales ya tienen peña propia en Casa Corro, Carreña.",
-      "enlace": "/cabrales/los-sportinguistas-cabraliegos-ya-tienen-pena/"
+      "concejo": "Nava",
+      "frase": "El alcalde de Nava carga contra el ministro por culpar al maquinista antes de investigar.",
+      "enlace": "/nava/malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al/"
     }
   ]
 }
