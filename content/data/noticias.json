@@ -1,5 +1,343 @@
 [
   {
+    "id": "malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al",
+    "url": "/nava/malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "actualidad",
+    "titular": "Los ferroviarios asturianos rechazan que Puente señale al trabajador",
+    "entradilla": "El alcalde de Nava y delegado sindical de UGT en Adif critica que el ministro apuntara al error humano antes de que acabe la investigación del accidente de Urda.",
+    "cuerpo": [
+      "En la estación de El Berrón, trabajadores de Renfe y Adif se detuvieron a mediodía para guardar cinco minutos de silencio por las víctimas del accidente de Urda. El sector lleva días entre el duelo y el malestar.",
+      "Juan Cañal, alcalde de Nava y delegado sindical de UGT en el comité de empresa de Adif, reprochó al ministro de Transportes, Óscar Puente, que señalara el fallo humano como causa del siniestro cuando la investigación todavía no ha concluido."
+    ],
+    "apunte": "Cañal lleva dos gorras a la vez —alcalde y sindicalista— y las dos le aprietan igual esta semana.",
+    "enVeinte": [
+      "Trabajadores de Renfe y Adif en Asturias guardaron cinco minutos de silencio en El Berrón por las víctimas del accidente de Urda.",
+      "El alcalde de Nava y delegado de UGT en Adif, Juan Cañal, criticó que el ministro Óscar Puente apuntara al error humano antes de que termine la investigación.",
+      "El sector ferroviario asturiano comparte el dolor por lo ocurrido pero no comparte las declaraciones del ministro de Transportes."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Juan Cañal es el alcalde de Nava: que salga a hablar en nombre de los trabajadores de Adif convierte esta disputa nacional en algo con cara conocida para el concejo.",
+    "etiquetas": [
+      "ferroviarios",
+      "Adif",
+      "accidente de Urda",
+      "Nava"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/10//20261029140026_RTPA8785308.webp",
+    "fecha": "2026-10-29T13:42:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-10-29/Malestar-entre-los-ferroviarios-por-el-señalamiento-de-Oscar-Puente-al-trabajador-del-control-de-Atocha_111793281352.html",
+      "titularOriginal": "Malestar entre los ferroviarios por el señalamiento de Óscar Puente al trabajador del control de Atocha"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Asturian railway workers reject Puente's finger-pointing at the worker",
+        "entradilla": "The mayor of Nava and UGT union delegate at Adif criticises the minister for suggesting human error before the investigation into the Urda accident is complete.",
+        "cuerpo": [
+          "At El Berrón station, Renfe and Adif workers stopped at midday to observe five minutes of silence for the victims of the Urda accident. The sector has spent days caught between grief and unease.",
+          "Juan Cañal, mayor of Nava and UGT union delegate on the Adif works committee, rebuked Transport Minister Óscar Puente for pointing to human error as the cause of the accident when the investigation has not yet concluded."
+        ],
+        "apunte": "Cañal is wearing two hats at once — mayor and union delegate — and both are pressing equally hard on him this week.",
+        "enVeinte": [
+          "Renfe and Adif workers in Asturias observed five minutes of silence at El Berrón for the victims of the Urda accident.",
+          "The mayor of Nava and UGT delegate at Adif, Juan Cañal, criticised Minister Óscar Puente for pointing to human error before the investigation is finished.",
+          "Asturian railway workers share the grief over what happened but do not share the Transport Minister's remarks."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Juan Cañal is the mayor of Nava: his stepping forward to speak on behalf of Adif workers turns this national dispute into something with a familiar face for the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les cheminots asturiens refusent que Puente désigne le travailleur comme responsable",
+        "entradilla": "Le maire de Nava et délégué syndical de UGT à Adif critique le ministre, qui a évoqué l'erreur humaine avant que l'enquête sur l'accident de Urda ne soit terminée.",
+        "cuerpo": [
+          "À la gare d'El Berrón, des agents de Renfe et d'Adif se sont arrêtés à midi pour observer cinq minutes de silence en hommage aux victimes de l'accident de Urda. Le secteur vit depuis plusieurs jours entre le deuil et le malaise.",
+          "Juan Cañal, maire de Nava et délégué syndical de UGT au comité d'entreprise d'Adif, a reproché au ministre des Transports, Óscar Puente, d'avoir désigné la défaillance humaine comme cause du sinistre alors que l'enquête n'est pas encore close."
+        ],
+        "apunte": "Cañal porte deux casquettes à la fois — maire et syndicaliste — et les deux lui serrent également cette semaine.",
+        "enVeinte": [
+          "Des agents de Renfe et d'Adif en Asturies ont observé cinq minutes de silence à El Berrón pour les victimes de l'accident de Urda.",
+          "Le maire de Nava et délégué de UGT à Adif, Juan Cañal, a critiqué le ministre Óscar Puente pour avoir évoqué l'erreur humaine avant la fin de l'enquête.",
+          "Les cheminots asturiens partagent la douleur face à ce qui s'est passé, mais pas les déclarations du ministre des Transports."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Juan Cañal est le maire de Nava : le fait qu'il prenne la parole au nom des agents d'Adif transforme ce litige national en quelque chose qui a un visage connu pour la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Asturische Eisenbahner lehnen es ab, dass Puente dem Arbeiter die Schuld gibt",
+        "entradilla": "Der Bürgermeister von Nava und UGT-Gewerkschaftsvertreter bei Adif kritisiert den Minister, weil dieser menschliches Versagen als Ursache des Unfalls von Urda andeutete, bevor die Untersuchung abgeschlossen ist.",
+        "cuerpo": [
+          "Am Bahnhof El Berrón hielten Mitarbeiter von Renfe und Adif mittags eine fünfminütige Schweigeminute für die Opfer des Unfalls von Urda ab. Die Branche befindet sich seit Tagen zwischen Trauer und Unmut.",
+          "Juan Cañal, Bürgermeister von Nava und UGT-Gewerkschaftsvertreter im Betriebsrat von Adif, warf Verkehrsminister Óscar Puente vor, menschliches Versagen als Unfallursache benannt zu haben, obwohl die Untersuchung noch nicht abgeschlossen ist."
+        ],
+        "apunte": "Cañal trägt diese Woche zwei Hüte gleichzeitig — Bürgermeister und Gewerkschafter — und beide drücken ihn gleich stark.",
+        "enVeinte": [
+          "Mitarbeiter von Renfe und Adif in Asturien hielten am Bahnhof El Berrón eine fünfminütige Schweigeminute für die Opfer des Unfalls von Urda ab.",
+          "Der Bürgermeister von Nava und UGT-Delegierter bei Adif, Juan Cañal, kritisierte Minister Óscar Puente dafür, dass er menschliches Versagen andeutete, bevor die Untersuchung abgeschlossen ist.",
+          "Die asturischen Eisenbahner teilen den Schmerz über das Geschehene, teilen aber nicht die Aussagen des Verkehrsministers."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Juan Cañal ist der Bürgermeister von Nava: Dass er im Namen der Adif-Beschäftigten das Wort ergreift, macht aus diesem nationalen Streit etwas, das für die Gemeinde ein bekanntes Gesicht hat.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "de el berron trabajadores de renfe y adif"
+    ]
+  },
+  {
+    "id": "nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-",
+    "url": "/villaviciosa/nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Dos detenidos en Arroes, dos fugados al monte",
+    "entradilla": "La Guardia Civil persiguió a cuatro sospechosos de asaltar casas; dos escaparon y el dispositivo de búsqueda sigue activo.",
+    "cuerpo": [
+      "Agentes de la Guardia Civil arrestaron a dos hombres en Arroes, en Villaviciosa, tras una persecución relacionada con robos en viviendas. Otros dos sospechosos lograron huir campo a través.",
+      "Un operativo sigue desplegado para localizarlos. Vecinos de la zona han reconocido públicamente que viven con miedo mientras los dos fugados sigan sin aparecer."
+    ],
+    "apunte": "Dos menos, dos todavía por el monte: la tranquilidad tendrá que esperar.",
+    "enVeinte": [
+      "La Guardia Civil detuvo a dos hombres en Arroes vinculados a robos en casas.",
+      "Otros dos sospechosos escaparon hacia el monte durante la persecución.",
+      "Hay un dispositivo activo para localizarlos y los vecinos reconocen que tienen miedo."
+    ],
+    "cifra": {
+      "numero": "4",
+      "unidad": "sospechosos",
+      "glosa": "Cuatro personas fueron perseguidas por la Guardia Civil en Arroes. La mitad acabó detenida; la otra mitad sigue en paradero desconocido."
+    },
+    "palabra": null,
+    "porQue": "Mientras dos de los sospechosos sigan huidos, la amenaza de nuevos asaltos a viviendas en la zona no desaparece, y el dispositivo de búsqueda puede afectar al tráfico y la vida cotidiana en Arroes.",
+    "etiquetas": [
+      "seguridad",
+      "Arroes",
+      "Guardia Civil",
+      "robos en viviendas"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Arroes (Villaviciosa)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/29/coche-ladrones-arroes-U201306632432ahD-RleB6bHTHJAmGcqRyso8IBL-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-29T12:30:24.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/nuevo-golpe-bandas-asaltantes-viviendas-detenidos-arroes-20261029113214-nt.html",
+      "titularOriginal": "Nuevo golpe a las bandas de asaltantes de viviendas con dos detenidos en Arroes: «Tenemos miedo sabiendo que hay dos fugados»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Two arrested in Arroes, two fled into the hills",
+        "entradilla": "The Guardia Civil pursued four suspects linked to house burglaries; two escaped and the search operation is still active.",
+        "cuerpo": [
+          "Guardia Civil officers arrested two men in Arroes, in the Villaviciosa municipality, following a pursuit connected to residential burglaries. Two other suspects managed to flee across open country.",
+          "A search operation remains deployed to locate them. Residents of the area have publicly acknowledged that they are living in fear while the two fugitives remain at large."
+        ],
+        "apunte": "Two down, two still out in the hills: peace of mind will have to wait.",
+        "enVeinte": [
+          "The Guardia Civil arrested two men in Arroes linked to house burglaries.",
+          "Two other suspects escaped into the hills during the pursuit.",
+          "A search operation is active to locate them and residents admit they are frightened."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "suspects",
+          "glosa": "Four people were pursued by the Guardia Civil in Arroes. Half ended up under arrest; the other half remain whereabouts unknown."
+        },
+        "palabra": null,
+        "porQue": "While two of the suspects remain at large, the threat of further residential burglaries in the area does not disappear, and the search operation may affect traffic and daily life in Arroes.",
+        "lugar": "Arroes (Villaviciosa)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Deux arrestations à Arroes, deux fugitifs en fuite vers la montagne",
+        "entradilla": "La Guardia Civil a poursuivi quatre suspects liés à des cambriolages ; deux ont pris la fuite et le dispositif de recherche est toujours en cours.",
+        "cuerpo": [
+          "Des agents de la Guardia Civil ont arrêté deux hommes à Arroes, dans la commune de Villaviciosa, à l'issue d'une poursuite liée à des cambriolages de maisons. Deux autres suspects ont réussi à fuir à travers champs.",
+          "Un dispositif est toujours déployé pour les localiser. Des habitants du secteur ont reconnu publiquement qu'ils vivent dans la peur tant que les deux fugitifs n'ont pas été retrouvés."
+        ],
+        "apunte": "Deux de moins, deux encore dans la nature : il faudra attendre pour retrouver la tranquillité.",
+        "enVeinte": [
+          "La Guardia Civil a arrêté deux hommes à Arroes liés à des cambriolages.",
+          "Deux autres suspects ont fui vers la montagne pendant la poursuite.",
+          "Un dispositif est actif pour les localiser et les habitants reconnaissent avoir peur."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "suspects",
+          "glosa": "Quatre personnes ont été poursuivies par la Guardia Civil à Arroes. La moitié a été arrêtée ; l'autre moitié reste introuvable."
+        },
+        "palabra": null,
+        "porQue": "Tant que deux des suspects restent en fuite, la menace de nouveaux cambriolages dans le secteur ne disparaît pas, et le dispositif de recherche peut perturber la circulation et la vie quotidienne à Arroes.",
+        "lugar": "Arroes (Villaviciosa)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zwei Festnahmen in Arroes, zwei Flüchtige im Gebirge",
+        "entradilla": "Die Guardia Civil verfolgte vier Verdächtige im Zusammenhang mit Einbrüchen in Wohnhäuser; zwei entkamen, die Suchaktion läuft weiter.",
+        "cuerpo": [
+          "Beamte der Guardia Civil nahmen zwei Männer in Arroes, in der Gemeinde Villaviciosa, nach einer Verfolgungsjagd fest, die im Zusammenhang mit Wohnungseinbrüchen stand. Zwei weitere Verdächtige konnten querfeldein fliehen.",
+          "Ein Sucheinsatz ist weiterhin im Gange, um sie aufzuspüren. Anwohner der Gegend haben öffentlich eingeräumt, dass sie in Angst leben, solange die beiden Flüchtigen nicht gefasst sind."
+        ],
+        "apunte": "Zwei weniger, zwei noch im Gebirge: die Ruhe lässt noch auf sich warten.",
+        "enVeinte": [
+          "Die Guardia Civil nahm zwei Männer in Arroes fest, die mit Wohnungseinbrüchen in Verbindung stehen.",
+          "Zwei weitere Verdächtige flohen während der Verfolgung ins Gebirge.",
+          "Ein Sucheinsatz läuft, um sie zu finden, und die Anwohner geben zu, dass sie Angst haben."
+        ],
+        "cifra": {
+          "numero": "4",
+          "unidad": "Verdächtige",
+          "glosa": "Vier Personen wurden von der Guardia Civil in Arroes verfolgt. Die Hälfte wurde festgenommen; die andere Hälfte ist weiterhin unbekannten Aufenthalts."
+        },
+        "palabra": null,
+        "porQue": "Solange zwei der Verdächtigen auf der Flucht sind, verschwindet die Gefahr weiterer Wohnungseinbrüche in der Gegend nicht, und der Sucheinsatz kann den Verkehr und den Alltag in Arroes beeinträchtigen.",
+        "lugar": "Arroes (Villaviciosa)",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "los-sportinguistas-cabraliegos-ya-tienen-pena",
+    "url": "/cabrales/los-sportinguistas-cabraliegos-ya-tienen-pena/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "Cabrales ya tiene su peña del Sporting",
+    "entradilla": "Los aficionados rojiblancos del concejo se unen en Casa Corro, en Carreña.",
+    "cuerpo": [
+      "Los sportinguistas de Cabrales tienen desde ahora un sitio de referencia: su propia peña, con sede en Casa Corro, en la capital del concejo.",
+      "Que un concejo tan pequeño como Cabrales cuente con peña propia habla bien de la afición: ya hay un punto de encuentro oficial para ver los partidos y organizarse."
+    ],
+    "apunte": "El queso más famoso de Asturias ya tiene también su rincón rojiblanco.",
+    "enVeinte": [
+      "Los aficionados al Sporting de Gijón de Cabrales han fundado su propia peña.",
+      "La sede se establece en Casa Corro, en Carreña, capital del concejo.",
+      "Es el primer punto de encuentro oficial para los sportinguistas del municipio."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "peña",
+      "como": "peña (igual que en castellano, sin trampa)",
+      "definicion": "Asociación informal de aficionados que se reúnen para seguir a su equipo, ver los partidos juntos y organizar desplazamientos. En Asturias hay peñas del Sporting hasta en los concejos más recónditos."
+    },
+    "porQue": "Los sportinguistas de Cabrales ya tienen un lugar propio donde verse, organizarse y vivir los partidos en compañía.",
+    "etiquetas": [
+      "Sporting de Gijón",
+      "Cabrales",
+      "peñas",
+      "fútbol"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Casa Corro, Carreña",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/29/2026102911104777544.jpg",
+    "fecha": "2026-10-29T10:13:17.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/deportes/sportinguistas-cabraliegos-tienen-pena/20261029111317105082.html",
+      "titularOriginal": "Los sportinguistas cabraliegos ya tienen peña"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Cabrales now has its own Sporting supporters' club",
+        "entradilla": "Red-and-white fans from the municipality come together at Casa Corro, in Carreña.",
+        "cuerpo": [
+          "Sporting supporters in Cabrales now have a place to call their own: their very own peña (supporters' club), based at Casa Corro, in the municipality's capital.",
+          "That a municipality as small as Cabrales has its own peña says a lot about local passion for the game: there is now an official meeting point to watch matches and get organised."
+        ],
+        "apunte": "Asturias's most famous cheese now has its red-and-white corner too.",
+        "enVeinte": [
+          "Sporting de Gijón fans in Cabrales have founded their own peña.",
+          "The club is based at Casa Corro, in Carreña, the municipal capital.",
+          "It is the first official meeting point for Sporting supporters in the municipality."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "peña",
+          "como": "peña (same as in Spanish, no trick to it)",
+          "definicion": "An informal supporters' association whose members gather to follow their team, watch matches together and organise away trips. In Asturias there are Sporting peñas even in the most out-of-the-way municipalities."
+        },
+        "porQue": "Sporting supporters in Cabrales now have a place of their own where they can meet, get organised and enjoy matches together.",
+        "lugar": "Casa Corro, Carreña",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Cabrales a désormais sa peña du Sporting",
+        "entradilla": "Les supporters rouge et blanc de la commune se retrouvent à Casa Corro, à Carreña.",
+        "cuerpo": [
+          "Les supporters du Sporting à Cabrales ont maintenant leur propre point de ralliement : leur peña (association de supporters), dont le siège est établi à Casa Corro, dans le chef-lieu de la commune.",
+          "Qu'une commune aussi petite que Cabrales ait sa propre peña en dit long sur la passion locale : il existe désormais un lieu de rendez-vous officiel pour regarder les matchs et s'organiser."
+        ],
+        "apunte": "Le fromage le plus célèbre des Asturies a lui aussi son petit coin rouge et blanc.",
+        "enVeinte": [
+          "Les supporters du Sporting de Gijón de Cabrales ont fondé leur propre peña.",
+          "Le siège est établi à Casa Corro, à Carreña, chef-lieu de la commune.",
+          "C'est le premier point de rendez-vous officiel pour les supporters du Sporting dans la commune."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "peña",
+          "como": "peña (identique à l'espagnol, sans piège)",
+          "definicion": "Association informelle de supporters qui se réunissent pour suivre leur équipe, regarder les matchs ensemble et organiser des déplacements. Aux Asturies, il existe des peñas du Sporting jusque dans les communes les plus reculées."
+        },
+        "porQue": "Les supporters du Sporting à Cabrales ont désormais un endroit bien à eux pour se retrouver, s'organiser et vivre les matchs ensemble.",
+        "lugar": "Casa Corro, Carreña",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Cabrales hat jetzt seinen eigenen Sporting-Fanclub",
+        "entradilla": "Die rot-weißen Anhänger der Gemeinde treffen sich im Casa Corro in Carreña.",
+        "cuerpo": [
+          "Die Sporting-Fans in Cabrales haben ab sofort einen festen Anlaufpunkt: ihre eigene peña (Fanvereinigung), mit Sitz im Casa Corro, im Hauptort der Gemeinde.",
+          "Dass eine so kleine Gemeinde wie Cabrales eine eigene peña hat, zeugt von echter Leidenschaft: Es gibt nun einen offiziellen Treffpunkt, um Spiele zu verfolgen und sich zu organisieren."
+        ],
+        "apunte": "Asturiens berühmtester Käse hat jetzt auch seine rot-weiße Ecke.",
+        "enVeinte": [
+          "Sporting-de-Gijón-Fans aus Cabrales haben ihre eigene peña gegründet.",
+          "Der Sitz befindet sich im Casa Corro in Carreña, dem Hauptort der Gemeinde.",
+          "Es ist der erste offizielle Treffpunkt für Sporting-Anhänger in der Gemeinde."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "peña",
+          "como": "peña (wie im Spanischen, keine Besonderheit bei der Aussprache)",
+          "definicion": "Eine informelle Fanvereinigung, deren Mitglieder zusammenkommen, um ihre Mannschaft zu verfolgen, Spiele gemeinsam zu schauen und Auswärtsfahrten zu organisieren. In Asturien gibt es Sporting-peñas selbst in den entlegensten Gemeinden."
+        },
+        "porQue": "Die Sporting-Fans in Cabrales haben jetzt einen eigenen Ort, an dem sie sich treffen, organisieren und Spiele gemeinsam erleben können.",
+        "lugar": "Casa Corro, Carreña",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-misterio-de-los-13-que-ocurrio-con-la-familia-neandertal-de-asturia",
     "url": "/pilona/el-misterio-de-los-13-que-ocurrio-con-la-familia-neandertal-de-asturia/",
     "concejo": "Piloña",
@@ -40596,127 +40934,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "heridas-graves-dos-mujeres-de-19-y-53-anos-en-un-desprendimiento-en-la",
-    "url": "/cabrales/heridas-graves-dos-mujeres-de-19-y-53-anos-en-un-desprendimiento-en-la/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "actualidad",
-    "titular": "Dos heridas graves por piedras en el Cares",
-    "entradilla": "Las dos mujeres, de 19 y 53 años, estaban a seis kilómetros de Caín cuando un desprendimiento las alcanzó.",
-    "cuerpo": [
-      "Un desprendimiento de piedras hirió de gravedad a dos mujeres que caminaban por la Ruta del Cares, a seis kilómetros de Caín. Tienen 19 y 53 años y fueron trasladadas al HUCA.",
-      "La ruta permanece cortada por precaución mientras se evalúa la zona afectada."
-    ],
-    "apunte": "El Cares sigue siendo uno de los senderos más espectaculares de Asturias, y también uno de los que no perdonan un descuido de la montaña.",
-    "enVeinte": [
-      "Dos mujeres resultaron heridas graves tras la caída de piedras en la Ruta del Cares, a seis kilómetros de Caín.",
-      "Las afectadas, de 19 y 53 años, fueron evacuadas al HUCA.",
-      "La ruta está cortada por precaución desde que ocurrió el suceso."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Cares",
-      "como": "Cares, llano, sin acento",
-      "definicion": "El Cares es el río que da nombre a la ruta más concurrida del Parque Nacional de los Picos de Europa. El sendero discurre encajonado entre paredes de roca durante unos doce kilómetros entre Poncebos, en Cabrales, y Caín, en León."
-    },
-    "porQue": "Si tienes pensado bajar al Cares esta temporada, conviene que sepas que el tramo está cortado y que la montaña puede soltar piedras sin avisar: conviene consultar el estado de la ruta antes de salir.",
-    "etiquetas": [
-      "Ruta del Cares",
-      "Cabrales",
-      "accidente",
-      "desprendimiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/07/31/rescate-ruta-cares-U201306632432nFI-U301096455022sFB-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-07-31T11:48:23.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/desprendimiento-ruta-cares-heridos-20260731121950-nt.html",
-      "titularOriginal": "Heridas graves dos mujeres, de 19 y 53 años, en un desprendimiento en la Ruta del Cares"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Two women seriously injured by falling rocks on the Cares",
-        "entradilla": "The two women, aged 19 and 53, were six kilometres from Caín when a rockfall struck them.",
-        "cuerpo": [
-          "A rockfall seriously injured two women walking along the Ruta del Cares, six kilometres from Caín. They are 19 and 53 years old and were taken to the HUCA.",
-          "The route remains closed as a precaution while the affected area is assessed."
-        ],
-        "apunte": "The Cares remains one of the most spectacular trails in Asturias, and also one that leaves no room for a moment's carelessness in the mountains.",
-        "enVeinte": [
-          "Two women were seriously injured after a rockfall on the Ruta del Cares, six kilometres from Caín.",
-          "The two women, aged 19 and 53, were evacuated to the HUCA.",
-          "The route has been closed as a precaution since the incident occurred."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Cares",
-          "como": "Cares, flat stress, no accent",
-          "definicion": "The Cares is the river that gives its name to the most popular trail in the Parque Nacional de los Picos de Europa. The path runs enclosed between rock walls for about twelve kilometres between Poncebos, in Cabrales, and Caín, in León."
-        },
-        "porQue": "If you are planning to walk the Cares this season, you should know that the section is closed and that the mountain can shed rocks without warning: it is worth checking the route conditions before you set out.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Deux femmes grièvement blessées par des pierres sur le Cares",
-        "entradilla": "Les deux femmes, âgées de 19 et 53 ans, se trouvaient à six kilomètres de Caín lorsqu'un éboulement les a atteintes.",
-        "cuerpo": [
-          "Un éboulement a grièvement blessé deux femmes qui marchaient sur la Ruta del Cares, à six kilomètres de Caín. Elles ont 19 et 53 ans et ont été transportées au HUCA.",
-          "Le sentier reste fermé par précaution pendant l'évaluation de la zone touchée."
-        ],
-        "apunte": "Le Cares reste l'un des sentiers les plus spectaculaires des Asturies, et aussi l'un de ceux qui ne pardonnent pas la moindre inattention en montagne.",
-        "enVeinte": [
-          "Deux femmes ont été grièvement blessées après la chute de pierres sur la Ruta del Cares, à six kilomètres de Caín.",
-          "Les deux blessées, âgées de 19 et 53 ans, ont été évacuées vers le HUCA.",
-          "Le sentier est fermé par précaution depuis que l'incident s'est produit."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Cares",
-          "como": "Cares, accent tonique plat, sans accent écrit",
-          "definicion": "Le Cares est la rivière qui donne son nom au sentier le plus fréquenté du Parque Nacional de los Picos de Europa. Le chemin se déroule encaissé entre des parois rocheuses sur une douzaine de kilomètres entre Poncebos, dans la commune de Cabrales, et Caín, en León."
-        },
-        "porQue": "Si vous envisagez de descendre au Cares cette saison, sachez que le tronçon est fermé et que la montagne peut lâcher des pierres sans prévenir : il est conseillé de vérifier l'état du sentier avant de partir.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Zwei Frauen bei Steinschlag auf dem Cares schwer verletzt",
-        "entradilla": "Die beiden Frauen, 19 und 53 Jahre alt, befanden sich sechs Kilometer von Caín entfernt, als ein Steinschlag sie traf.",
-        "cuerpo": [
-          "Ein Steinschlag verletzte zwei Frauen schwer, die auf der Ruta del Cares, sechs Kilometer von Caín entfernt, wanderten. Sie sind 19 und 53 Jahre alt und wurden ins HUCA gebracht.",
-          "Der Weg bleibt aus Sicherheitsgründen gesperrt, während das betroffene Gebiet begutachtet wird."
-        ],
-        "apunte": "Der Cares ist nach wie vor einer der eindrucksvollsten Wanderwege Asturiens – und einer jener Wege, die einen Moment der Unachtsamkeit am Berg nicht verzeihen.",
-        "enVeinte": [
-          "Zwei Frauen wurden nach einem Steinschlag auf der Ruta del Cares, sechs Kilometer von Caín entfernt, schwer verletzt.",
-          "Die beiden Betroffenen, 19 und 53 Jahre alt, wurden ins HUCA evakuiert.",
-          "Der Weg ist seit dem Vorfall aus Sicherheitsgründen gesperrt."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Cares",
-          "como": "Cares, gleichmäßige Betonung, kein Akzent",
-          "definicion": "Der Cares ist der Fluss, der dem beliebtesten Wanderweg des Parque Nacional de los Picos de Europa seinen Namen gibt. Der Pfad verläuft auf etwa zwölf Kilometern zwischen Felswänden eingezwängt, von Poncebos in der Gemeinde Cabrales bis nach Caín in León."
-        },
-        "porQue": "Wer in dieser Saison den Cares erwandern möchte, sollte wissen, dass der Abschnitt gesperrt ist und dass der Berg ohne Vorwarnung Steine lösen kann: Es empfiehlt sich, vor dem Aufbruch den aktuellen Zustand des Weges zu prüfen.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "fueron trasladadas al huca la ruta permanece cortada",
-      "trasladadas al huca la ruta permanece cortada por",
-      "al huca la ruta permanece cortada por precaucion"
-    ]
   }
 ]

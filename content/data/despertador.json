@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-29T09:51:01.922Z",
+  "fecha": "2026-10-29T16:34:03.352Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Un incendio en una peluquería obliga a desalojar un edificio de Villaviciosa de madrugada.",
-      "enlace": "/villaviciosa/susto-de-madrugada-en-villaviciosa-al-declararse-un-incendio-en-una-pe/"
+      "frase": "Dos fugados tras un asalto a casas en Arroes; la Guardia Civil los sigue buscando.",
+      "enlace": "/villaviciosa/nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-/"
     },
     {
       "concejo": "Nava",
-      "frase": "Terminan las obras del vial Pozucorderu-Grátila-Campanal tras más de dos kilómetros y medio renovados en Nava.",
-      "enlace": "/nava/finalizan-las-obras-de-mejora-del-vial-entre-pozucorderu-gratila-y-cam/"
+      "frase": "El alcalde de Nava carga contra Puente por culpar al trabajador antes de investigar el accidente.",
+      "enlace": "/nava/malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al/"
     },
     {
-      "concejo": "Piloña",
-      "frase": "El RallySprint de Ribadesella cierra inscripciones este miércoles a las ocho de la tarde.",
-      "enlace": "/pilona/el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primer/"
+      "concejo": "Cabrales",
+      "frase": "Los sportinguistas de Cabrales ya tienen peña propia en Casa Corro, Carreña.",
+      "enlace": "/cabrales/los-sportinguistas-cabraliegos-ya-tienen-pena/"
     }
   ]
 }
