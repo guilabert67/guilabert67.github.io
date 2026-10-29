@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-28T19:52:26.830Z",
+  "fecha": "2026-10-29T09:51:01.922Z",
   "puntos": [
     {
+      "concejo": "Villaviciosa",
+      "frase": "Un incendio en una peluquería obliga a desalojar un edificio de Villaviciosa de madrugada.",
+      "enlace": "/villaviciosa/susto-de-madrugada-en-villaviciosa-al-declararse-un-incendio-en-una-pe/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Terminan las obras del vial Pozucorderu-Grátila-Campanal tras más de dos kilómetros y medio renovados en Nava.",
+      "enlace": "/nava/finalizan-las-obras-de-mejora-del-vial-entre-pozucorderu-gratila-y-cam/"
+    },
+    {
       "concejo": "Piloña",
-      "frase": "El Sidrón albergó un grupo familiar de trece neandertales, único en el mundo.",
-      "enlace": "/pilona/el-misterio-de-los-13-que-ocurrio-con-la-familia-neandertal-de-asturia/"
+      "frase": "El RallySprint de Ribadesella cierra inscripciones este miércoles a las ocho de la tarde.",
+      "enlace": "/pilona/el-rallysprint-villa-de-ribadesella-presenta-el-recorrido-de-su-primer/"
     }
   ]
 }
