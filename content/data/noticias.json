@@ -1,5 +1,363 @@
 [
   {
+    "id": "antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica",
+    "url": "/pilona/antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "El Magüestu de La Benéfica llega a Antrialgu",
+    "entradilla": "El domingo 1 de noviembre, la localidad piloñesa acoge castañas, música y baile para dar la bienvenida al otoño.",
+    "cuerpo": [
+      "La Benéfica organiza este año su Magüestu en Antrialgu, parroquia de Piloña, el domingo 1 de noviembre. La fiesta reúne gastronomía, música, baile y actividades culturales de raíz asturiana.",
+      "La celebración cambia de sede respecto a ediciones anteriores y recala así en este rincón del concejo para recuperar las tradiciones del otoño."
+    ],
+    "apunte": "Las castañas no entienden de sedes fijas: este año les toca a los de Antrialgu.",
+    "enVeinte": [
+      "La Benéfica celebra su Magüestu en Antrialgu el domingo 1 de noviembre.",
+      "La fiesta incluye gastronomía, música, baile y actividades culturales asturianas.",
+      "Este año la celebración cambia de ubicación y se traslada a esta localidad de Piloña."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Magüestu",
+      "como": "ma-GÜÉS-tu",
+      "definicion": "Fiesta popular asturiana que se celebra en otoño, generalmente en torno al 1 de noviembre, y en la que el plato principal son las castañas asadas. Es el equivalente asturiano de las castañadas de otras regiones."
+    },
+    "porQue": "Quien viva cerca de Antrialgu tiene a la vuelta de casa una de las fiestas de otoño más arraigadas del concejo, con planes para toda la familia el día de Todos los Santos.",
+    "etiquetas": [
+      "magüestu",
+      "Antrialgu",
+      "Piloña",
+      "tradición"
+    ],
+    "fechaEvento": "2026-11-01",
+    "tipoEvento": "fiesta",
+    "lugar": "Antrialgu (Piloña)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/antrialgu-se-viste-de-otono-con-el-maguestu-de-la-11276938.jpg",
+    "fecha": "2026-10-30T16:16:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/fiestas-tradiciones/antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica-11276938.html",
+      "titularOriginal": "Antrialgu se viste de otoño con el Magüestu de La Benéfica"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Benéfica's Magüestu comes to Antrialgu",
+        "entradilla": "On Sunday 1 November, this village in Piloña hosts chestnuts, music and dancing to welcome autumn.",
+        "cuerpo": [
+          "La Benéfica is holding its Magüestu (traditional autumn chestnut festival) this year in Antrialgu, a parish in Piloña, on Sunday 1 November. The celebration brings together gastronomy, music, dancing and cultural activities rooted in Asturian tradition.",
+          "The event moves to a new venue compared to previous editions, settling in this corner of the municipality to revive the traditions of autumn."
+        ],
+        "apunte": "Chestnuts don't care about fixed venues: this year it's Antrialgu's turn.",
+        "enVeinte": [
+          "La Benéfica celebrates its Magüestu in Antrialgu on Sunday 1 November.",
+          "The festival includes gastronomy, music, dancing and Asturian cultural activities.",
+          "This year the celebration moves to a new location in Piloña."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Magüestu",
+          "como": "ma-GÜÉS-tu",
+          "definicion": "A traditional Asturian autumn festival, usually held around 1 November, centred on roasted chestnuts. It is the Asturian equivalent of the chestnut festivals celebrated in other regions of Spain."
+        },
+        "porQue": "Anyone living near Antrialgu has one of the most deep-rooted autumn festivals in the municipality right on their doorstep — with something for the whole family on All Saints' Day.",
+        "lugar": "Antrialgu (Piloña)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Magüestu de La Benéfica arrive à Antrialgu",
+        "entradilla": "Le dimanche 1er novembre, ce village de Piloña accueille châtaignes, musique et danse pour fêter l'automne.",
+        "cuerpo": [
+          "La Benéfica organise cette année son Magüestu (fête automnale traditionnelle de la châtaigne) à Antrialgu, paroisse de Piloña, le dimanche 1er novembre. La fête réunit gastronomie, musique, danse et activités culturelles d'inspiration asturienne.",
+          "La célébration change de lieu par rapport aux éditions précédentes et s'installe ainsi dans ce coin de la commune pour raviver les traditions de l'automne."
+        ],
+        "apunte": "Les châtaignes ne s'embarrassent pas de lieux fixes : cette année, c'est au tour d'Antrialgu.",
+        "enVeinte": [
+          "La Benéfica célèbre son Magüestu à Antrialgu le dimanche 1er novembre.",
+          "La fête comprend gastronomie, musique, danse et activités culturelles asturiennes.",
+          "Cette année, la célébration change de lieu et se déplace dans cette localité de Piloña."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Magüestu",
+          "como": "ma-GÜÉS-tu",
+          "definicion": "Fête populaire asturienne célébrée en automne, généralement autour du 1er novembre, dont le plat vedette est la châtaigne grillée. C'est l'équivalent asturien des fêtes de la châtaigne d'autres régions d'Espagne."
+        },
+        "porQue": "Ceux qui vivent près d'Antrialgu ont à deux pas de chez eux l'une des fêtes d'automne les plus enracinées de la commune, avec un programme pour toute la famille le jour de la Toussaint.",
+        "lugar": "Antrialgu (Piloña)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Magüestu von La Benéfica kommt nach Antrialgu",
+        "entradilla": "Am Sonntag, dem 1. November, empfängt dieser Ort in Piloña Kastanien, Musik und Tanz, um den Herbst willkommen zu heißen.",
+        "cuerpo": [
+          "La Benéfica richtet sein Magüestu (traditionelles asturisches Herbst-Kastanienfest) in diesem Jahr am Sonntag, dem 1. November, in Antrialgu aus, einer Pfarrgemeinde in Piloña. Das Fest vereint Gastronomie, Musik, Tanz und kulturelle Aktivitäten asturischer Tradition.",
+          "Die Veranstaltung wechselt gegenüber früheren Ausgaben den Austragungsort und kehrt so in diesen Winkel der Gemeinde zurück, um die Herbsttraditionen aufleben zu lassen."
+        ],
+        "apunte": "Kastanien kennen keinen festen Ort: Dieses Jahr sind die Leute aus Antrialgu dran.",
+        "enVeinte": [
+          "La Benéfica feiert sein Magüestu am Sonntag, dem 1. November, in Antrialgu.",
+          "Das Fest umfasst Gastronomie, Musik, Tanz und asturische Kulturaktivitäten.",
+          "In diesem Jahr zieht die Feier an einen neuen Ort in Piloña um."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Magüestu",
+          "como": "ma-GÜÉS-tu",
+          "definicion": "Ein volkstümliches asturisches Herbstfest, das gewöhnlich um den 1. November herum gefeiert wird und bei dem gebratene Kastanien im Mittelpunkt stehen. Es ist das asturische Äquivalent der Kastanienfeste anderer spanischer Regionen."
+        },
+        "porQue": "Wer in der Nähe von Antrialgu wohnt, hat eines der verwurzeltsten Herbstfeste der Gemeinde direkt vor der Haustür — mit einem Programm für die ganze Familie am Allerheiligentag.",
+        "lugar": "Antrialgu (Piloña)",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa",
+    "url": "/cabrales/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El Cares vuelve a estar abierto entero",
+    "entradilla": "Una pasarela metálica de nueve metros instalada en helicóptero ha devuelto el paso al desfiladero desde este viernes.",
+    "cuerpo": [
+      "La Ruta del Cares lleva abierta al completo desde el viernes 30 de octubre, después de que un derrumbe junto al Puente de Los Rebecos cortara el paso el 14 de octubre. El punto dañado está en el término leonés de Posada de Valdeón, aunque el efecto lo notaba cualquiera que quisiera recorrer el desfiladero entero.",
+      "La solución fue colocar una pasarela metálica de nueve metros que salva el tramo hundido y descansa sobre la roca. Como el terreno no deja llegar maquinaria por tierra, los materiales y el equipo tuvieron que subirse en helicóptero.",
+      "La Junta de Castilla y León y la Consejería de Medio Ambiente del Principado de Asturias se han repartido la gestión de la emergencia. La ruta, que roza los dos millones de visitantes al año, es el recorrido de uso público más frecuentado del Parque Nacional de los Picos de Europa."
+    ],
+    "apunte": "Dieciséis días cerrada, nueve metros de acero y un helicóptero: no todas las reparaciones son tan cinematográficas.",
+    "enVeinte": [
+      "La Ruta del Cares está abierta al completo desde el viernes 30 de octubre, tras un cierre de dieciséis días por un derrumbe cerca del Puente de Los Rebecos.",
+      "Los trabajos consistieron en instalar una pasarela metálica de nueve metros; el acceso era tan difícil que los materiales tuvieron que llegar en helicóptero.",
+      "El Cares es la ruta de uso público más visitada del Parque Nacional de los Picos de Europa, con casi dos millones de personas al año."
+    ],
+    "cifra": {
+      "numero": "2.000.000",
+      "unidad": "visitantes al año",
+      "glosa": "El Parque Nacional de los Picos de Europa recibe cerca de dos millones de visitas anuales, y la Ruta del Cares es su principal atractivo. Eso convierte cualquier cierre del desfiladero en una incidencia que se nota de inmediato en los concejos de la zona."
+    },
+    "palabra": {
+      "termino": "desfiladero",
+      "como": "tal cual, aunque por aquí muchos dicen simplemente «el Cares»",
+      "definicion": "Garganta estrecha y profunda excavada por un río entre paredes de roca casi verticales. En este caso es el río Cares el que ha tallado durante siglos el tajo que hoy recorren los senderistas entre Caín y Poncebos."
+    },
+    "porQue": "Cabrales vive en buena parte del turismo que entra por el Cares; que la ruta vuelva a estar abierta entera justo antes del puente de Todos los Santos es una buena noticia para los negocios del concejo.",
+    "etiquetas": [
+      "Cares",
+      "Picos de Europa",
+      "Cabrales",
+      "senderismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/10/ruta_del_cares_01.jpg",
+    "fecha": "2026-10-30T15:48:54.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://coperibadesella.com/30/10/2026/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pasarela-danada/",
+      "titularOriginal": "La Ruta del Cares abierta en su totalidad tras la reparación de una pasarela dañada"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Cares gorge is fully open again",
+        "entradilla": "A nine-metre metal footbridge installed by helicopter has restored access to the gorge as of this Friday.",
+        "cuerpo": [
+          "La Ruta del Cares has been fully open since Friday 30 October, after a rockfall near the Puente de Los Rebecos blocked the path on 14 October. The damaged section lies within the Leonese municipality of Posada de Valdeón, although anyone wishing to walk the entire gorge felt the impact.",
+          "The solution was to place a nine-metre metal footbridge over the collapsed stretch, resting on the rock. As the terrain makes it impossible to bring machinery in by land, the materials and equipment had to be lifted in by helicopter.",
+          "The Junta de Castilla y León and the Consejería de Medio Ambiente of the Principado de Asturias shared responsibility for managing the emergency. The route, which draws close to two million visitors a year, is the most heavily used public trail in the Parque Nacional de los Picos de Europa."
+        ],
+        "apunte": "Sixteen days closed, nine metres of steel, and a helicopter: not every repair job is this cinematic.",
+        "enVeinte": [
+          "La Ruta del Cares has been fully open since Friday 30 October, after a sixteen-day closure caused by a rockfall near the Puente de Los Rebecos.",
+          "The works involved installing a nine-metre metal footbridge; access was so difficult that the materials had to be brought in by helicopter.",
+          "The Cares is the most visited public trail in the Parque Nacional de los Picos de Europa, with nearly two million people a year."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "visitors a year",
+          "glosa": "The Parque Nacional de los Picos de Europa receives close to two million visits a year, and La Ruta del Cares is its main draw. That means any closure of the gorge is an incident felt immediately across the municipalities of the area."
+        },
+        "palabra": {
+          "termino": "desfiladero",
+          "como": "as written, though locally most people simply say «el Cares»",
+          "definicion": "A narrow, deep gorge carved by a river between near-vertical rock walls. Here it is the river Cares that has cut, over centuries, the ravine that walkers now follow between Caín and Poncebos."
+        },
+        "porQue": "Cabrales depends heavily on the tourism that comes in through the Cares; having the route fully open again just before the All Saints' long weekend is good news for businesses across the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Cares est à nouveau entièrement ouvert",
+        "entradilla": "Une passerelle métallique de neuf mètres installée par hélicoptère a rétabli le passage dans les gorges dès ce vendredi.",
+        "cuerpo": [
+          "La Ruta del Cares est ouverte dans son intégralité depuis le vendredi 30 octobre, après qu'un éboulement survenu près du Puente de Los Rebecos a coupé le passage le 14 octobre. Le tronçon endommagé se trouve sur le territoire léonais de la commune de Posada de Valdeón, mais quiconque souhaitait parcourir les gorges en entier en subissait les conséquences.",
+          "La solution a consisté à poser une passerelle métallique de neuf mètres qui enjambe le tronçon effondré et prend appui sur la roche. Le terrain ne permettant pas d'acheminer des engins par voie terrestre, les matériaux et l'équipe ont dû être transportés par hélicoptère.",
+          "La Junta de Castilla y León et la Consejería de Medio Ambiente du Principado de Asturias se sont partagé la gestion de cette urgence. L'itinéraire, qui frôle les deux millions de visiteurs par an, est le sentier de randonnée le plus fréquenté du Parque Nacional de los Picos de Europa."
+        ],
+        "apunte": "Seize jours fermé, neuf mètres d'acier et un hélicoptère : toutes les réparations ne sont pas aussi cinématographiques.",
+        "enVeinte": [
+          "La Ruta del Cares est ouverte dans son intégralité depuis le vendredi 30 octobre, après seize jours de fermeture dus à un éboulement près du Puente de Los Rebecos.",
+          "Les travaux ont consisté à installer une passerelle métallique de neuf mètres ; l'accès était si difficile que les matériaux ont dû être acheminés par hélicoptère.",
+          "Le Cares est l'itinéraire de randonnée le plus visité du Parque Nacional de los Picos de Europa, avec près de deux millions de personnes par an."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "visiteurs par an",
+          "glosa": "Le Parque Nacional de los Picos de Europa accueille près de deux millions de visites par an, et la Ruta del Cares en est l'attrait principal. Toute fermeture des gorges se fait donc immédiatement sentir dans les communes de la zone."
+        },
+        "palabra": {
+          "termino": "desfiladero",
+          "como": "tel quel, même si ici beaucoup disent simplement «el Cares»",
+          "definicion": "Gorge étroite et profonde creusée par une rivière entre des parois rocheuses quasi verticales. C'est ici le río Cares qui a taillé, au fil des siècles, le canyon que les randonneurs parcourent aujourd'hui entre Caín et Poncebos."
+        },
+        "porQue": "Cabrales vit en grande partie du tourisme qui transite par le Cares ; que l'itinéraire soit à nouveau entièrement ouvert juste avant le pont de la Toussaint est une bonne nouvelle pour les commerces de la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Der Cares ist wieder vollständig geöffnet",
+        "entradilla": "Ein neun Meter langer Metallsteg, der per Hubschrauber eingebaut wurde, hat den Durchgang durch die Schlucht seit diesem Freitag wiederhergestellt.",
+        "cuerpo": [
+          "La Ruta del Cares ist seit Freitag, dem 30. Oktober, wieder vollständig begehbar, nachdem ein Felsrutsch nahe der Puente de Los Rebecos den Weg am 14. Oktober gesperrt hatte. Die beschädigte Stelle liegt im leonesischen Gebiet der Gemeinde Posada de Valdeón, doch die Auswirkungen spürte jeder, der die gesamte Schlucht durchwandern wollte.",
+          "Die Lösung bestand darin, einen neun Meter langen Metallsteg über den eingestürzten Abschnitt zu legen, der auf dem Fels aufliegt. Da das Gelände keinen Maschineneinsatz auf dem Landweg erlaubt, mussten Materialien und Ausrüstung per Hubschrauber herangeschafft werden.",
+          "Die Junta de Castilla y León und die Consejería de Medio Ambiente des Principado de Asturias haben das Krisenmanagement gemeinsam übernommen. Die Route, die an die zwei Millionen Besucher pro Jahr anzieht, ist der meistgenutzte öffentliche Wanderweg im Parque Nacional de los Picos de Europa."
+        ],
+        "apunte": "Sechzehn Tage gesperrt, neun Meter Stahl und ein Hubschrauber: Nicht jede Reparatur ist so filmreif.",
+        "enVeinte": [
+          "La Ruta del Cares ist seit Freitag, dem 30. Oktober, wieder vollständig geöffnet, nach einer sechzehntägigen Sperrung infolge eines Felsrutsches nahe der Puente de Los Rebecos.",
+          "Die Arbeiten bestanden darin, einen neun Meter langen Metallsteg zu installieren; der Zugang war so schwierig, dass die Materialien per Hubschrauber angeliefert werden mussten.",
+          "Der Cares ist der meistbesuchte öffentliche Wanderweg im Parque Nacional de los Picos de Europa, mit knapp zwei Millionen Besuchern pro Jahr."
+        ],
+        "cifra": {
+          "numero": "2.000.000",
+          "unidad": "Besucher pro Jahr",
+          "glosa": "Der Parque Nacional de los Picos de Europa empfängt nahezu zwei Millionen Besucher im Jahr, und la Ruta del Cares ist sein wichtigstes Aushängeschild. Jede Sperrung der Schlucht macht sich daher sofort in den umliegenden Gemeinden bemerkbar."
+        },
+        "palabra": {
+          "termino": "desfiladero",
+          "como": "wie geschrieben, obwohl hier viele einfach «el Cares» sagen",
+          "definicion": "Eine enge, tiefe Schlucht, die ein Fluss zwischen nahezu senkrechten Felswänden gegraben hat. Hier ist es der río Cares, der im Laufe der Jahrhunderte die Klamm herausgearbeitet hat, die Wanderer heute zwischen Caín und Poncebos durchqueren."
+        },
+        "porQue": "Cabrales lebt zu einem guten Teil vom Tourismus, der über den Cares hereinkommt; dass die Route kurz vor dem Allerheiligen-Wochenende wieder vollständig offen ist, sind gute Nachrichten für die Betriebe der Gemeinde.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "del parque nacional de los picos de europa"
+    ]
+  },
+  {
+    "id": "libertad-con-cargos-para-los-dos-detenidos-en-arroes-por-robos-en-vivi",
+    "url": "/villaviciosa/libertad-con-cargos-para-los-dos-detenidos-en-arroes-por-robos-en-vivi/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Libres con cargos los detenidos en Arroes",
+    "entradilla": "La Guardia Civil sigue buscando a otros dos fugados tras la persecución.",
+    "cuerpo": [
+      "Los dos hombres arrestados en Arroes por robos en viviendas quedaron en libertad con cargos después de pasar a disposición judicial.",
+      "La operación no está cerrada: dos cómplices que lograron escapar durante la persecución siguen sin localizar."
+    ],
+    "apunte": "Libres, pero con la Guardia Civil todavía mirando.",
+    "enVeinte": [
+      "Dos detenidos en Arroes por robos en viviendas quedaron libres con cargos tras pasar por el juzgado.",
+      "Otros dos cómplices consiguieron escapar durante la persecución y siguen siendo buscados.",
+      "La investigación continúa abierta mientras la Guardia Civil rastrea el paradero de los fugados."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si vives en Arroes o alrededores, conviene saber que el operativo aún no ha concluido: dos de los implicados siguen sueltos.",
+    "etiquetas": [
+      "Arroes",
+      "robos",
+      "Guardia Civil",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/30/arroes-detenidos-coche-RSpTtDBOhwOWXmXWC3S3m6J-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-30T14:53:52.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/libertad-detenidos-arroes-robos-vivienda-20261030155034-nt.html",
+      "titularOriginal": "Libertad con cargos para los dos detenidos en Arroes por robos en viviendas"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Arroes suspects released on charges",
+        "entradilla": "The Guardia Civil is still searching for two others who fled during the pursuit.",
+        "cuerpo": [
+          "The two men arrested in Arroes on suspicion of house burglaries were released on charges after appearing before a judge.",
+          "The operation is not over: two accomplices who managed to escape during the pursuit have still not been located."
+        ],
+        "apunte": "Free, but with the Guardia Civil still watching.",
+        "enVeinte": [
+          "Two people arrested in Arroes for house burglaries were released on charges after appearing in court.",
+          "Two further accomplices managed to escape during the pursuit and are still being sought.",
+          "The investigation remains open as the Guardia Civil traces the whereabouts of those who fled."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you live in Arroes or the surrounding area, it is worth knowing that the operation is not yet over: two of those involved are still at large.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les suspects d'Arroes libres sous charges",
+        "entradilla": "La Guardia Civil continue de rechercher deux autres individus qui ont pris la fuite lors de la poursuite.",
+        "cuerpo": [
+          "Les deux hommes arrêtés à Arroes pour des cambriolages ont été remis en liberté sous charges après avoir comparu devant un juge.",
+          "L'opération n'est pas terminée : deux complices qui ont réussi à s'échapper durant la poursuite n'ont toujours pas été localisés."
+        ],
+        "apunte": "Libres, mais avec la Guardia Civil toujours à l'affût.",
+        "enVeinte": [
+          "Deux personnes arrêtées à Arroes pour des cambriolages ont été remises en liberté sous charges après avoir comparu devant le tribunal.",
+          "Deux complices ont réussi à s'enfuir durant la poursuite et sont toujours recherchés.",
+          "L'enquête reste ouverte pendant que la Guardia Civil traque la localisation des fugitifs."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous vivez à Arroes ou dans les environs, sachez que l'opération n'est pas encore terminée : deux des suspects sont toujours en fuite.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Festgenommene aus Arroes auf freiem Fuß, aber angeklagt",
+        "entradilla": "Die Guardia Civil sucht weiter nach zwei Flüchtigen, die sich bei der Verfolgung absetzten.",
+        "cuerpo": [
+          "Die beiden in Arroes wegen Einbrüchen in Wohnhäuser festgenommenen Männer wurden nach einer richterlichen Anhörung auf freiem Fuß belassen, allerdings unter Auflagen.",
+          "Die Operation ist nicht abgeschlossen: Zwei Mittäter, denen während der Verfolgung die Flucht gelang, sind noch immer nicht gefunden."
+        ],
+        "apunte": "Frei, aber die Guardia Civil behält sie im Blick.",
+        "enVeinte": [
+          "Zwei in Arroes wegen Einbrüchen festgenommene Personen wurden nach dem Gerichtstermin auf freiem Fuß belassen, jedoch angeklagt.",
+          "Zwei weitere Mittäter entkamen bei der Verfolgung und werden noch immer gesucht.",
+          "Die Ermittlungen laufen weiter, während die Guardia Civil nach dem Aufenthaltsort der Geflüchteten fahndet."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer in Arroes oder der Umgebung lebt, sollte wissen, dass der Einsatz noch nicht abgeschlossen ist: Zwei der Beteiligten sind noch auf freiem Fuß.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "los-dos-ladrones-detenidos-en-arroes-pasan-a-disposicion-judicial",
     "url": "/villaviciosa/los-dos-ladrones-detenidos-en-arroes-pasan-a-disposicion-judicial/",
     "concejo": "Villaviciosa",
@@ -40823,235 +41181,5 @@
       "en la n 632 a la altura de",
       "la n 632 a la altura de villaviciosa"
     ]
-  },
-  {
-    "id": "complicado-rescate-de-dos-montaneros-que-se-lesionaron-en-cabrales",
-    "url": "/cabrales/complicado-rescate-de-dos-montaneros-que-se-lesionaron-en-cabrales/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "actualidad",
-    "titular": "Dos montañeros heridos evacuados en Cabrales",
-    "entradilla": "Los rescates se complicaron por la dureza del terreno en las rutas del Jou de los Cabrones y la Terenosa.",
-    "cuerpo": [
-      "Un hombre de 50 años sufrió un esguince y tuvo que ser atendido en el refugio del Jou de los Cabrones. Al mismo tiempo, una mujer de 52 cayó mientras bajaba por el camino de la Terenosa hacia Urriellu.",
-      "Los dos fueron trasladados al Hospital de Arriondas tras los rescates."
-    ],
-    "apunte": "La montaña no perdona, y el agosto tampoco.",
-    "enVeinte": [
-      "Un hombre de 50 años se lesionó en el Jou de los Cabrones y una mujer de 52 cayó en el camino de la Terenosa a Urriellu.",
-      "Ambos fueron rescatados y trasladados al Hospital de Arriondas.",
-      "Los dos incidentes se produjeron en rutas de alta montaña del concejo de Cabrales."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Urriellu",
-      "como": "u-RRIE-llu, con elle asturiana",
-      "definicion": "Nombre asturiano del Naranjo de Bulnes, el pico más emblemático de los Picos de Europa. Tiene 2.519 metros y es uno de los grandes reclamos del alpinismo en la cornisa cantábrica."
-    },
-    "porQue": "Las rutas de alta montaña de Cabrales concentran cada verano un buen número de rescates; conviene saber que el terreno exige preparación y calzado adecuado antes de salir.",
-    "etiquetas": [
-      "rescate",
-      "montaña",
-      "Cabrales",
-      "Picos de Europa"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/01/rescate-cabrales-U201306632432C7G-U301114286842iR-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-01T17:12:42.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/rescates-montana-cabrales-lesion-20260801162615-nt.html",
-      "titularOriginal": "Complicado rescate de dos montañeros que se lesionaron en Cabrales"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Two hikers injured and evacuated in Cabrales",
-        "entradilla": "The rescues were complicated by the harshness of the terrain on the routes of Jou de los Cabrones and la Terenosa.",
-        "cuerpo": [
-          "A 50-year-old man suffered a sprain and had to be treated at the Jou de los Cabrones refuge. At the same time, a 52-year-old woman fell while descending the path from la Terenosa towards Urriellu.",
-          "Both were transferred to the Hospital de Arriondas after the rescues."
-        ],
-        "apunte": "The mountain shows no mercy — and neither does August.",
-        "enVeinte": [
-          "A 50-year-old man was injured at Jou de los Cabrones and a 52-year-old woman fell on the path from la Terenosa to Urriellu.",
-          "Both were rescued and transferred to the Hospital de Arriondas.",
-          "The two incidents occurred on high-mountain routes in the municipality of Cabrales."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Urriellu",
-          "como": "u-RRIE-llu, with the Asturian ll sound",
-          "definicion": "The Asturian name for Naranjo de Bulnes, the most iconic peak in the Picos de Europa. It stands at 2,519 metres and is one of the great draws for alpinists along the Cantabrian coast."
-        },
-        "porQue": "The high-mountain routes of Cabrales see a significant number of rescues every summer; it is worth knowing that the terrain demands proper preparation and appropriate footwear before setting out.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Deux randonneurs blessés et évacués à Cabrales",
-        "entradilla": "Les sauvetages ont été compliqués par la rudesse du terrain sur les itinéraires du Jou de los Cabrones et de la Terenosa.",
-        "cuerpo": [
-          "Un homme de 50 ans a subi une entorse et a dû être pris en charge au refuge du Jou de los Cabrones. Au même moment, une femme de 52 ans a chuté en descendant le sentier de la Terenosa en direction d'Urriellu.",
-          "Tous deux ont été transférés à l'Hospital de Arriondas à l'issue des sauvetages."
-        ],
-        "apunte": "La montagne ne pardonne pas, et le mois d'août non plus.",
-        "enVeinte": [
-          "Un homme de 50 ans s'est blessé au Jou de los Cabrones et une femme de 52 ans a chuté sur le sentier de la Terenosa vers Urriellu.",
-          "Tous deux ont été secourus et transférés à l'Hospital de Arriondas.",
-          "Les deux incidents se sont produits sur des itinéraires de haute montagne dans la commune de Cabrales."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Urriellu",
-          "como": "u-RRIE-llu, avec le ll asturien",
-          "definicion": "Nom asturien du Naranjo de Bulnes, le sommet le plus emblématique des Picos de Europa. Il culmine à 2 519 mètres et constitue l'un des grands attraits de l'alpinisme sur la corniche cantabrique."
-        },
-        "porQue": "Les itinéraires de haute montagne de Cabrales concentrent chaque été un nombre important de sauvetages ; il convient de savoir que le terrain exige une bonne préparation et un chaussage adapté avant de partir.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Zwei verletzte Bergsteiger in Cabrales gerettet und evakuiert",
-        "entradilla": "Die Rettungseinsätze wurden durch das schwierige Gelände auf den Routen des Jou de los Cabrones und der Terenosa erschwert.",
-        "cuerpo": [
-          "Ein 50-jähriger Mann erlitt eine Verstauchung und musste in der Schutzhütte des Jou de los Cabrones versorgt werden. Zur gleichen Zeit stürzte eine 52-jährige Frau beim Abstieg auf dem Weg von der Terenosa in Richtung Urriellu.",
-          "Beide wurden nach den Rettungseinsätzen in das Hospital de Arriondas gebracht."
-        ],
-        "apunte": "Die Berge kennen keine Gnade — und der August auch nicht.",
-        "enVeinte": [
-          "Ein 50-jähriger Mann verletzte sich am Jou de los Cabrones und eine 52-jährige Frau stürzte auf dem Weg von der Terenosa nach Urriellu.",
-          "Beide wurden gerettet und in das Hospital de Arriondas gebracht.",
-          "Beide Vorfälle ereigneten sich auf Hochgebirgsrouten in der Gemeinde Cabrales."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Urriellu",
-          "como": "u-RRIE-llu, mit dem asturischen ll-Laut",
-          "definicion": "Asturischer Name des Naranjo de Bulnes, des bekanntesten Gipfels der Picos de Europa. Er ist 2.519 Meter hoch und gilt als eines der bedeutendsten Ziele des Alpinismus an der kantabrischen Küste."
-        },
-        "porQue": "Die Hochgebirgsrouten von Cabrales verzeichnen jeden Sommer eine beträchtliche Anzahl von Rettungseinsätzen; es lohnt sich zu wissen, dass das Gelände eine gute Vorbereitung und geeignetes Schuhwerk erfordert, bevor man aufbricht.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "villaviciosa-aprende-a-luchar-contra-el-fuego-la-mejor-defensa-es-anti",
-    "url": "/villaviciosa/villaviciosa-aprende-a-luchar-contra-el-fuego-la-mejor-defensa-es-anti/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Lugás aprende a apagar fuegos antes de que lleguen",
-    "entradilla": "Vecinos de la parroquia villaviciosina se entrenan con batefuegos, mochilas de agua y mangueras para no quedarse sin saber qué hacer si el monte arde.",
-    "cuerpo": [
-      "Los vecinos de Lugás, en Villaviciosa, han practicado el manejo de las herramientas básicas contra incendios forestales: el batefuegos, la mochila de agua y la manguera.",
-      "La idea es sencilla: que la gente sepa actuar antes de que lleguen los servicios de extinción, porque los primeros minutos son los que marcan la diferencia."
-    ],
-    "apunte": "El mejor bombero es el que no tiene que llamar a los bomberos.",
-    "enVeinte": [
-      "Vecinos de Lugás (Villaviciosa) se han formado en el uso de herramientas básicas de extinción de incendios.",
-      "La iniciativa busca que la gente pueda actuar desde el primer momento, antes de que lleguen los equipos profesionales.",
-      "Batefuegos, mochilas de agua y mangueras son los útiles que han aprendido a manejar."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "batefuegos",
-      "como": "ba-te-fue-gos, igual que suena",
-      "definicion": "Herramienta de extinción formada por una pala de goma o cuero sujeta a un palo largo. Se usa golpeando las llamas bajas para sofocarlas, y es habitual en las cuadrillas de defensa forestal de los concejos asturianos."
-    },
-    "porQue": "Saber manejar estas herramientas puede frenar un fuego en sus primeros minutos, que son los más decisivos para que no se extienda al monte o a las casas cercanas.",
-    "etiquetas": [
-      "incendios",
-      "Lugás",
-      "Villaviciosa",
-      "formación"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "Lugás",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/01/bomberos-ReZeKheGVdslS7UZVZReoUN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-01T16:56:11.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-aprende-luchar-fuego-mejor-defensa-anticiparse-20260801185610-nt.html",
-      "titularOriginal": "Villaviciosa aprende a luchar contra el fuego: «La mejor defensa es anticiparse»"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Lugás learns to fight fires before they arrive",
-        "entradilla": "Residents of this Villaviciosa parish are training with batefuegos, water backpacks and hoses so they know what to do if the hillside burns.",
-        "cuerpo": [
-          "The residents of Lugás, in the municipality of Villaviciosa, have practised using the basic tools for fighting forest fires: the batefuegos, the water backpack and the hose.",
-          "The idea is simple: people should know how to act before the fire services arrive, because the first few minutes are the ones that make the difference."
-        ],
-        "apunte": "The best firefighter is the one who never has to call the fire brigade.",
-        "enVeinte": [
-          "Residents of Lugás (municipality of Villaviciosa) have trained in the use of basic firefighting tools.",
-          "The initiative aims to ensure that people can act from the very first moment, before professional teams arrive.",
-          "Batefuegos, water backpacks and hoses are the tools they have learned to handle."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "batefuegos",
-          "como": "ba-te-fue-gos, pronounced as it reads",
-          "definicion": "A firefighting tool consisting of a rubber or leather flap attached to a long pole. It is used by beating low flames to smother them, and is common among the forest defence crews of Asturian municipalities."
-        },
-        "porQue": "Knowing how to use these tools can stop a fire in its first few minutes, which are the most decisive for preventing it from spreading to the hillside or to nearby houses.",
-        "lugar": "Lugás",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Lugás apprend à éteindre les incendies avant qu'ils n'arrivent",
-        "entradilla": "Des habitants de cette paroisse de Villaviciosa s'entraînent avec des batefuegos, des sacs à eau et des tuyaux pour ne pas se retrouver démunis si la montagne prend feu.",
-        "cuerpo": [
-          "Les habitants de Lugás, dans la commune de Villaviciosa, ont appris à manier les outils de base pour lutter contre les incendies de forêt : le batefuegos, le sac à eau et le tuyau.",
-          "L'idée est simple : que les gens sachent comment agir avant l'arrivée des services d'extinction, car les premières minutes sont celles qui font la différence."
-        ],
-        "apunte": "Le meilleur pompier est celui qui n'a jamais à appeler les pompiers.",
-        "enVeinte": [
-          "Des habitants de Lugás (commune de Villaviciosa) se sont formés à l'utilisation des outils de base pour combattre les incendies.",
-          "L'initiative vise à permettre aux gens d'agir dès le premier instant, avant l'arrivée des équipes professionnelles.",
-          "Batefuegos, sacs à eau et tuyaux sont les outils qu'ils ont appris à manier."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "batefuegos",
-          "como": "ba-te-fue-gos, se prononce comme il s'écrit",
-          "definicion": "Outil d'extinction composé d'une palette en caoutchouc ou en cuir fixée à un long manche. Il s'utilise en frappant les flammes basses pour les étouffer, et est courant dans les équipes de défense forestière des communes asturiennes."
-        },
-        "porQue": "Savoir manier ces outils peut stopper un incendie durant ses premières minutes, qui sont les plus décisives pour éviter qu'il ne se propage à la montagne ou aux maisons voisines.",
-        "lugar": "Lugás",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Lugás lernt Feuer löschen, bevor sie kommen",
-        "entradilla": "Bewohner dieser Pfarrgemeinde in Villaviciosa üben mit Batefuegos, Wasserrucksäcken und Schläuchen, damit sie wissen, was zu tun ist, wenn der Hang brennt.",
-        "cuerpo": [
-          "Die Bewohner von Lugás, in der Gemeinde Villaviciosa, haben den Umgang mit den grundlegenden Werkzeugen zur Waldbrandbekämpfung geübt: den Batefuegos, den Wasserrucksack und den Schlauch.",
-          "Die Idee ist einfach: Die Menschen sollen wissen, wie sie handeln müssen, bevor die Löschdienste eintreffen, denn die ersten Minuten sind entscheidend."
-        ],
-        "apunte": "Der beste Feuerwehrmann ist der, der nie die Feuerwehr rufen muss.",
-        "enVeinte": [
-          "Bewohner von Lugás (Gemeinde Villaviciosa) haben sich im Umgang mit grundlegenden Löschgeräten ausgebildet.",
-          "Die Initiative soll sicherstellen, dass die Menschen vom ersten Moment an handeln können, bevor professionelle Teams eintreffen.",
-          "Batefuegos, Wasserrucksäcke und Schläuche sind die Geräte, mit denen sie umgehen gelernt haben."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Der sachkundige Umgang mit diesen Geräten kann ein Feuer in den ersten Minuten aufhalten, die entscheidend dafür sind, ob es sich auf den Hang oder auf nahegelegene Häuser ausbreitet.",
-        "lugar": "Lugás",
-        "precio": ""
-      }
-    }
   }
 ]
