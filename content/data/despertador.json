@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-10-29T21:24:50.212Z",
+  "fecha": "2026-10-30T07:25:43.388Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Dos ladrones siguen huidos al monte tras un asalto a casas en Arroes.",
-      "enlace": "/villaviciosa/nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Un incendio en una peluquería obliga a desalojar un edificio de Villaviciosa de madrugada.",
-      "enlace": "/villaviciosa/susto-de-madrugada-en-villaviciosa-al-declararse-un-incendio-en-una-pe/"
-    },
-    {
       "concejo": "Nava",
-      "frase": "El alcalde de Nava carga contra el ministro por culpar al maquinista antes de investigar.",
-      "enlace": "/nava/malestar-entre-los-ferroviarios-por-el-senalamiento-de-oscar-puente-al/"
+      "frase": "El TSJA tumba el recurso contra la mina de Peñamayor: Nava se reúne el viernes.",
+      "enlace": "/nava/convocan-una-reunion-en-nava-para-explicar-la-sentencia-sobre-penamayo/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Halloween toma Villaviciosa el jueves: rutas, música y comercios en la calle.",
+      "enlace": "/villaviciosa/villaviciosa-celebra-halloween-con-actividades-y-concursos-el-30-de-oc/"
     }
   ]
 }
