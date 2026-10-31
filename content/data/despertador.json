@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-10-30T19:42:29.626Z",
+  "fecha": "2026-10-31T08:51:03.002Z",
   "puntos": [
     {
       "concejo": "Cabrales",
-      "frase": "El desfiladero del Cares vuelve a estar transitable tras instalar una pasarela en helicóptero.",
+      "frase": "El desfiladero del Cares vuelve a estar abierto de punta a punta.",
       "enlace": "/cabrales/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Los detenidos en Arroes salen en libertad con cargos; dos fugados siguen sin aparecer.",
+      "frase": "Dos detenidos en Arroes, libres con cargos; otros dos siguen huidos.",
       "enlace": "/villaviciosa/libertad-con-cargos-para-los-dos-detenidos-en-arroes-por-robos-en-vivi/"
     },
     {
-      "concejo": "Piloña",
-      "frase": "Antrialgu celebra el Magüestu el domingo con castañas, música y baile.",
-      "enlace": "/pilona/antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica/"
+      "concejo": "Nava",
+      "frase": "Nava se reúne este viernes para entender qué cambia tras perder en el TSJA por Peñamayor.",
+      "enlace": "/nava/convocan-una-reunion-en-nava-para-explicar-la-sentencia-sobre-penamayo/"
     }
   ]
 }
