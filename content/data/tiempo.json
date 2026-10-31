@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-31T14:56:18.547Z",
+  "actualizado": "2026-10-31T19:15:25.610Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
       "max": 17,
-      "min": 8,
+      "min": 9,
       "estado": "Nuboso",
       "lluvia": 0
     },
@@ -16,7 +16,7 @@
     },
     "cabranes": {
       "max": 16,
-      "min": 8,
+      "min": 9,
       "estado": "Nuboso",
       "lluvia": 0
     },

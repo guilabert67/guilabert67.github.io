@@ -1,5 +1,106 @@
 [
   {
+    "id": "la-piscina-municipal-avanza-hacia-su-reapertura-en-villaviciosa",
+    "url": "/villaviciosa/la-piscina-municipal-avanza-hacia-su-reapertura-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "La piscina de Villaviciosa se acerca a reabrir",
+    "entradilla": "El edificio ya tiene forma y el Ayuntamiento prepara el concurso para contratar quien lo gestione.",
+    "cuerpo": [
+      "Las obras de la piscina municipal de Villaviciosa han completado la construcción del nuevo edificio. El siguiente paso es sacar a concurso su gestión.",
+      "Una vez adjudicado ese contrato, la instalación podrá volver a prestar servicio a los vecinos del concejo."
+    ],
+    "apunte": "El agua fría puede esperar; la burocracia, también.",
+    "enVeinte": [
+      "La piscina municipal de Villaviciosa tiene ya el edificio construido.",
+      "El Ayuntamiento está ultimando los trámites para licitar la gestión de la instalación.",
+      "Cuando se adjudique el contrato, la piscina podrá reabrir al público."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien vive en Villaviciosa lleva tiempo sin piscina municipal; la apertura, aunque aún sin fecha, está más cerca que nunca.",
+    "etiquetas": [
+      "piscina",
+      "Villaviciosa",
+      "obras",
+      "instalaciones deportivas"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/10/31/Imagen%20villaviciosa-piscina-RcMhXrJO58pDvzr7wYoq8sO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-10-31T17:55:06.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/piscina-municipal-villaviciosa-reapertura-20261031180021-nt.html",
+      "titularOriginal": "La piscina municipal avanza hacia su reapertura en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa's swimming pool edges closer to reopening",
+        "entradilla": "The building now has its final shape and the council is preparing the tender to hire a manager.",
+        "cuerpo": [
+          "Construction work on Villaviciosa's municipal swimming pool has completed the new building. The next step is to put its management out to tender.",
+          "Once that contract is awarded, the facility will be able to resume service for residents of the municipality."
+        ],
+        "apunte": "Cold water can wait; so can the paperwork.",
+        "enVeinte": [
+          "Villaviciosa's municipal swimming pool now has its building finished.",
+          "The council is finalising the steps to tender the management of the facility.",
+          "When the contract is awarded, the pool will be able to reopen to the public."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "People living in Villaviciosa have been without a municipal swimming pool for some time; the opening, though still undated, is closer than ever.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La piscine de Villaviciosa se rapproche de la réouverture",
+        "entradilla": "Le bâtiment a désormais sa forme définitive et la mairie prépare l'appel d'offres pour en confier la gestion.",
+        "cuerpo": [
+          "Les travaux de la piscine municipale de Villaviciosa ont achevé la construction du nouveau bâtiment. La prochaine étape consiste à lancer un appel d'offres pour sa gestion.",
+          "Une fois ce contrat attribué, l'équipement pourra de nouveau être mis au service des habitants de la commune."
+        ],
+        "apunte": "L'eau froide peut attendre ; la bureaucratie aussi.",
+        "enVeinte": [
+          "La piscine municipale de Villaviciosa dispose désormais de son bâtiment achevé.",
+          "La mairie finalise les démarches pour lancer l'appel d'offres relatif à la gestion de l'équipement.",
+          "Lorsque le contrat sera attribué, la piscine pourra rouvrir au public."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Les habitants de Villaviciosa sont privés de piscine municipale depuis un certain temps ; l'ouverture, bien que toujours sans date, n'a jamais été aussi proche.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Schwimmbad von Villaviciosa rückt der Wiedereröffnung näher",
+        "entradilla": "Das Gebäude hat nun seine endgültige Form, und das Rathaus bereitet die Ausschreibung für die Betriebsvergabe vor.",
+        "cuerpo": [
+          "Die Bauarbeiten am städtischen Schwimmbad von Villaviciosa haben den Neubau fertiggestellt. Als nächstes soll der Betrieb ausgeschrieben werden.",
+          "Sobald dieser Vertrag vergeben ist, kann die Einrichtung den Bewohnern der Gemeinde wieder zur Verfügung stehen."
+        ],
+        "apunte": "Kaltes Wasser kann warten; die Bürokratie auch.",
+        "enVeinte": [
+          "Das städtische Schwimmbad von Villaviciosa hat nun sein fertiges Gebäude.",
+          "Das Rathaus schließt die Schritte ab, um den Betrieb der Einrichtung auszuschreiben.",
+          "Sobald der Vertrag vergeben ist, kann das Schwimmbad wieder für die Öffentlichkeit öffnen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Bewohner von Villaviciosa sind seit einiger Zeit ohne städtisches Schwimmbad; die Eröffnung, obwohl noch ohne festes Datum, ist näher denn je.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "premio-literario-para-una-profesora-del-ies-de-infiesto",
     "url": "/pilona/premio-literario-para-una-profesora-del-ies-de-infiesto/",
     "concejo": "Piloña",
@@ -40813,126 +40914,6 @@
     },
     "revisar": [
       "del 5 al 9 de agosto la localidad"
-    ]
-  },
-  {
-    "id": "el-legado-de-jose-pando-y-valle-revive-cien-anos-despues-en-villavicio",
-    "url": "/villaviciosa/el-legado-de-jose-pando-y-valle-revive-cien-anos-despues-en-villavicio/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa recuerda al médico Pando y Valle",
-    "entradilla": "Un homenaje floral en la plaza Santa Clara reunió a familiares, amigos y autoridades para honrar su memoria un siglo después.",
-    "cuerpo": [
-      "La figura del médico maliayo José Pando y Valle volvió a estar en el centro de Villaviciosa gracias a una ofrenda floral celebrada en la plaza Santa Clara, donde se dieron cita representantes institucionales junto a familiares y personas cercanas a su legado.",
-      "El acto sirvió para repasar la trayectoria de este personaje vinculado a la villa, cuya huella permanece viva cien años después."
-    ],
-    "apunte": "Cien años dan para mucho olvido, pero también para rescatar a quien lo merece.",
-    "enVeinte": [
-      "Villaviciosa rindió homenaje al médico José Pando y Valle con una ofrenda floral en la plaza Santa Clara.",
-      "Al acto acudieron autoridades, familiares y amigos para recordar su trayectoria profesional y personal.",
-      "El homenaje llega aproximadamente un siglo después de su época, rescatando una figura ligada a la villa."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "maliayo",
-      "como": "ma-LIA-yu",
-      "definicion": "Gentilicio popular de quien es natural de Villaviciosa, que también recibe el nombre asturiano de Maliayo. Es el nombre que le dan por aquí a la villa y a sus vecinos, igual que un gijonés es de Xixón."
-    },
-    "porQue": "Recuperar figuras locales como Pando y Valle ayuda a Villaviciosa a conocer mejor su propia historia y a mantener viva la memoria de quienes contribuyeron a la vida del concejo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "patrimonio",
-      "homenaje",
-      "historia local"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "plaza Santa Clara, Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/02/ofrenda-RYL7RjLoYZXuI13udc8E3zJ-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-02T16:43:18.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/legado-jose-pando-valle-revive-cien-anos-20260802184317-nt.html",
-      "titularOriginal": "El legado de José Pando y Valle revive cien años después en Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa remembers the physician Pando y Valle",
-        "entradilla": "A floral tribute in the plaza Santa Clara brought together family, friends and officials to honour his memory a century on.",
-        "cuerpo": [
-          "The figure of the maliayo (native of Villaviciosa) physician José Pando y Valle returned to the heart of Villaviciosa through a floral offering held in the plaza Santa Clara, where institutional representatives gathered alongside family members and those close to his legacy.",
-          "The event served to revisit the career of this figure linked to the town, whose mark remains alive one hundred years on."
-        ],
-        "apunte": "A hundred years is plenty of time to forget, but also to rescue those who deserve to be remembered.",
-        "enVeinte": [
-          "Villaviciosa paid tribute to the physician José Pando y Valle with a floral offering in the plaza Santa Clara.",
-          "Officials, family and friends attended to recall his professional and personal life.",
-          "The tribute comes approximately a century after his time, bringing back to light a figure closely tied to the town."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliayo",
-          "como": "ma-LIA-yu",
-          "definicion": "The popular demonym for someone born in Villaviciosa, which also goes by the Asturian name Maliayo. It is the name used locally for both the town and its people, in the same way that someone from Gijón is from Xixón."
-        },
-        "porQue": "Recovering local figures such as Pando y Valle helps Villaviciosa better understand its own history and keeps alive the memory of those who contributed to life in the municipality.",
-        "lugar": "plaza Santa Clara, Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa rend hommage au médecin Pando y Valle",
-        "entradilla": "Une offrande florale sur la plaza Santa Clara a réuni famille, amis et autorités pour honorer sa mémoire, un siècle après.",
-        "cuerpo": [
-          "La figure du médecin maliayo (originaire de Villaviciosa) José Pando y Valle est revenue au cœur de Villaviciosa à l'occasion d'une offrande florale sur la plaza Santa Clara, où des représentants institutionnels se sont retrouvés aux côtés de membres de sa famille et de personnes proches de son héritage.",
-          "La cérémonie a permis de retracer le parcours de ce personnage lié à la ville, dont la trace demeure vivante cent ans après."
-        ],
-        "apunte": "Cent ans, c'est beaucoup d'oubli, mais aussi assez pour remettre en lumière ceux qui le méritent.",
-        "enVeinte": [
-          "Villaviciosa a rendu hommage au médecin José Pando y Valle avec une offrande florale sur la plaza Santa Clara.",
-          "Des autorités, des membres de sa famille et des amis ont assisté à la cérémonie pour évoquer sa vie professionnelle et personnelle.",
-          "L'hommage intervient environ un siècle après son époque, redonnant vie à une figure étroitement liée à la ville."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliayo",
-          "como": "ma-LIA-yu",
-          "definicion": "Gentilé populaire désignant celui ou celle qui est originaire de Villaviciosa, laquelle porte aussi le nom asturien de Maliayo. C'est le nom donné ici à la ville et à ses habitants, de la même façon qu'un habitant de Gijón est dit de Xixón."
-        },
-        "porQue": "Retrouver des figures locales comme Pando y Valle aide Villaviciosa à mieux connaître sa propre histoire et à maintenir vivante la mémoire de ceux qui ont contribué à la vie de la commune.",
-        "lugar": "plaza Santa Clara, Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa erinnert an den Arzt Pando y Valle",
-        "entradilla": "Eine Blumenehrung auf der plaza Santa Clara brachte Familie, Freunde und Vertreter der Behörden zusammen, um sein Andenken ein Jahrhundert später zu würdigen.",
-        "cuerpo": [
-          "Die Gestalt des maliayo (gebürtig aus Villaviciosa) Arztes José Pando y Valle kehrte durch eine Blumenehrung auf der plaza Santa Clara ins Herz von Villaviciosa zurück, wo institutionelle Vertreter gemeinsam mit Familienangehörigen und Personen, die seinem Erbe nahestehen, zusammenkamen.",
-          "Die Veranstaltung bot Anlass, den Werdegang dieser mit der Stadt verbundenen Persönlichkeit nachzuzeichnen, deren Spuren hundert Jahre später noch lebendig sind."
-        ],
-        "apunte": "Hundert Jahre sind genug, um zu vergessen — aber auch genug, um jene zurückzuholen, die es verdienen.",
-        "enVeinte": [
-          "Villaviciosa ehrte den Arzt José Pando y Valle mit einer Blumenehrung auf der plaza Santa Clara.",
-          "Behördenvertreter, Familienangehörige und Freunde kamen zusammen, um an sein berufliches und persönliches Wirken zu erinnern.",
-          "Die Ehrung findet etwa ein Jahrhundert nach seiner Zeit statt und holt eine eng mit der Stadt verbundene Persönlichkeit zurück ins Licht."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliayo",
-          "como": "ma-LIA-yu",
-          "definicion": "Der volkstümliche Herkunftsname für jemanden, der aus Villaviciosa stammt, das auf Asturisch auch Maliayo heißt. So nennt man hier die Stadt und ihre Bewohner — ähnlich wie jemand aus Gijón als aus Xixón stammend bezeichnet wird."
-        },
-        "porQue": "Die Erinnerung an lokale Persönlichkeiten wie Pando y Valle hilft Villaviciosa, die eigene Geschichte besser zu verstehen und das Andenken derer lebendig zu halten, die zum Leben in der Gemeinde beigetragen haben.",
-        "lugar": "plaza Santa Clara, Villaviciosa",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "floral en la plaza santa clara reunio a"
     ]
   }
 ]
