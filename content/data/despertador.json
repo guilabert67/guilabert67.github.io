@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-10-31T08:51:03.002Z",
+  "fecha": "2026-10-31T14:56:17.358Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "El desfiladero del Cares vuelve a estar abierto de punta a punta.",
-      "enlace": "/cabrales/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Dos detenidos en Arroes, libres con cargos; otros dos siguen huidos.",
-      "enlace": "/villaviciosa/libertad-con-cargos-para-los-dos-detenidos-en-arroes-por-robos-en-vivi/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "Nava se reúne este viernes para entender qué cambia tras perder en el TSJA por Peñamayor.",
-      "enlace": "/nava/convocan-una-reunion-en-nava-para-explicar-la-sentencia-sobre-penamayo/"
+      "concejo": "Piloña",
+      "frase": "Una profesora del IES de Infiesto gana un premio literario.",
+      "enlace": "/pilona/premio-literario-para-una-profesora-del-ies-de-infiesto/"
     }
   ]
 }

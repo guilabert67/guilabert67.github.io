@@ -1,5 +1,114 @@
 [
   {
+    "id": "premio-literario-para-una-profesora-del-ies-de-infiesto",
+    "url": "/pilona/premio-literario-para-una-profesora-del-ies-de-infiesto/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Una profesora del IES de Infiesto gana un premio literario",
+    "entradilla": "La docente compagina las clases de Lengua y Literatura con una trayectoria que ahora recibe reconocimiento.",
+    "cuerpo": [
+      "Una profesora del IES de Infiesto ha ganado un premio literario. Da clases de Lengua y Literatura en el instituto de la capital piloñesa y es licenciada en Periodismo.",
+      "El material disponible no detalla el nombre del galardón ni la obra premiada, por lo que La Prida ampliará la información en cuanto la tenga."
+    ],
+    "apunte": "Periodista que enseña literatura: no está mal el currículum.",
+    "enVeinte": [
+      "Una profesora de Lengua y Literatura del IES de Infiesto ha recibido un premio literario.",
+      "La docente es licenciada en Periodismo y trabaja en el instituto de la capital de Piloña.",
+      "La Prida no tiene aún el nombre del premio ni la obra galardonada."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El reconocimiento pone en el mapa a una docente del único instituto público del concejo de Piloña.",
+    "etiquetas": [
+      "Infiesto",
+      "IES Infiesto",
+      "premio literario",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/10/31/2026103114004890462.jpg",
+    "fecha": "2026-10-31T13:02:36.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/articulo/pilona/premio-pachin-melas-profesora-ies-infiesto/20261031140236105143.html",
+      "titularOriginal": "Premio literario para una profesora del IES de Infiesto"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A teacher at IES de Infiesto wins a literary prize",
+        "entradilla": "The teacher combines Language and Literature classes with a writing career that has now earned recognition.",
+        "cuerpo": [
+          "A teacher at IES de Infiesto has won a literary prize. She teaches Language and Literature at the secondary school in the main town of the Piloña municipality and holds a degree in Journalism.",
+          "The available material does not detail the name of the award or the winning work, so La Prida will publish further information as soon as it has it."
+        ],
+        "apunte": "A journalist who teaches literature: not a bad CV.",
+        "enVeinte": [
+          "A Language and Literature teacher at IES de Infiesto has received a literary prize.",
+          "The teacher holds a degree in Journalism and works at the secondary school in the main town of Piloña.",
+          "La Prida does not yet have the name of the prize or the winning work."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The recognition puts a teacher from the only state secondary school in the Piloña municipality on the map.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Une enseignante de l'IES de Infiesto remporte un prix littéraire",
+        "entradilla": "La professeure concilie ses cours de Langue et Littérature avec une carrière d'écriture qui vient d'être récompensée.",
+        "cuerpo": [
+          "Une enseignante de l'IES de Infiesto a remporté un prix littéraire. Elle enseigne la Langue et la Littérature au lycée de la capitale de la commune de Piloña et est titulaire d'une licence en Journalisme.",
+          "Les informations disponibles ne précisent ni le nom du prix ni l'œuvre récompensée ; La Prida publiera les détails dès qu'elle les aura."
+        ],
+        "apunte": "Une journaliste qui enseigne la littérature : le CV n'est pas mal du tout.",
+        "enVeinte": [
+          "Une enseignante de Langue et Littérature de l'IES de Infiesto a reçu un prix littéraire.",
+          "La professeure est titulaire d'une licence en Journalisme et travaille au lycée de la capitale de Piloña.",
+          "La Prida ne dispose pas encore du nom du prix ni de l'œuvre primée."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Cette récompense met en lumière une enseignante du seul lycée public de la commune de Piloña.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Eine Lehrerin des IES de Infiesto gewinnt einen Literaturpreis",
+        "entradilla": "Die Lehrerin verbindet ihren Unterricht in Sprache und Literatur mit einer schriftstellerischen Laufbahn, die nun Anerkennung gefunden hat.",
+        "cuerpo": [
+          "Eine Lehrerin des IES de Infiesto hat einen Literaturpreis gewonnen. Sie unterrichtet Sprache und Literatur an der Schule im Hauptort der Gemeinde Piloña und hat einen Abschluss in Journalismus.",
+          "Das verfügbare Material nennt weder den Namen des Preises noch das ausgezeichnete Werk; La Prida wird die Informationen nachliefern, sobald sie vorliegen."
+        ],
+        "apunte": "Eine Journalistin, die Literatur unterrichtet: kein schlechter Lebenslauf.",
+        "enVeinte": [
+          "Eine Sprach- und Literaturlehrerin des IES de Infiesto hat einen Literaturpreis erhalten.",
+          "Die Lehrerin hat einen Abschluss in Journalismus und arbeitet an der Schule im Hauptort von Piloña.",
+          "La Prida kennt weder den Namen des Preises noch das ausgezeichnete Werk."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Auszeichnung rückt eine Lehrerin der einzigen öffentlichen Schule der Gemeinde Piloña ins Rampenlicht.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "da clases de lengua y literatura en el",
+      "clases de lengua y literatura en el instituto",
+      "de lengua y literatura en el instituto de",
+      "lengua y literatura en el instituto de la",
+      "y literatura en el instituto de la capital",
+      "literatura en el instituto de la capital pilonesa"
+    ]
+  },
+  {
     "id": "antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica",
     "url": "/pilona/antrialgu-se-viste-de-otono-con-el-maguestu-de-la-benefica/",
     "concejo": "Piloña",
@@ -6016,124 +6125,6 @@
         },
         "porQue": "In einer Gemeinde, deren Identität mit dem Apfel und dem Cidre verbunden ist, darauf zu setzen, dass Schulkinder von klein auf lernen, diese Verbindung zu schätzen, bedeutet, dafür einzutreten, dass die Tradition nicht verloren geht.",
         "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "proceso-selectivo-de-ingeniero-a-tecnico-encargado-a-de-obras",
-    "url": "/villaviciosa/proceso-selectivo-de-ingeniero-a-tecnico-encargado-a-de-obras/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "Villaviciosa busca ingeniero técnico de obras",
-    "entradilla": "El proceso selectivo ya tiene lista provisional de admitidos y excluidos publicada.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa avanza en la selección de un ingeniero o ingeniera técnica para hacerse cargo de las obras municipales. La convocatoria salió en el BOE y las bases se publicaron en el BOPA.",
-      "El proceso ya ha dado su primer paso administrativo: la lista provisional con quienes han pasado el corte y quienes han quedado fuera está disponible para su consulta."
-    ],
-    "apunte": "La plaza lleva esperando mucho tiempo; quien entró en la lista provisional puede respirar, quien no, tiene margen para reclamar.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa convoca una plaza de ingeniero técnico encargado de obras municipales.",
-      "La convocatoria está publicada en el BOE y las bases en el BOPA.",
-      "Ya está disponible la lista provisional de admitidos y excluidos al proceso selectivo."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "BOPA",
-      "como": "be-o-pe-a",
-      "definicion": "El Boletín Oficial del Principado de Asturias. Es donde la administración regional publica normas, convocatorias y anuncios oficiales. Si algo aparece ahí, tiene validez legal."
-    },
-    "porQue": "Cubrir esta plaza significa que el concejo tendrá un técnico propio para supervisar y dirigir las obras municipales, algo que afecta directamente al ritmo y la calidad de los trabajos en el pueblo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "obras municipales",
-      "selección"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-21T10:32:14.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19804495",
-      "titularOriginal": "Proceso selectivo de Ingeniero/a Técnico Encargado/a de Obras",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa seeks a technical engineer for public works",
-        "entradilla": "The selection process has already published a provisional list of admitted and excluded candidates.",
-        "cuerpo": [
-          "Villaviciosa council is moving forward with the recruitment of a technical engineer to take charge of municipal works. The call was published in the BOE and the rules in the BOPA.",
-          "The process has taken its first administrative step: the provisional list of those who made the cut and those who did not is now available for review."
-        ],
-        "apunte": "The post has been waiting a long time to be filled. Those on the provisional list can breathe easy; those who are not still have time to appeal.",
-        "enVeinte": [
-          "Villaviciosa council is recruiting a technical engineer to oversee municipal works.",
-          "The call has been published in the BOE and the rules in the BOPA.",
-          "The provisional list of admitted and excluded candidates is now available."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "BOPA",
-          "como": "be-o-pe-a",
-          "definicion": "The Official Gazette of the Principality of Asturias. This is where the regional administration publishes regulations, job calls and official notices. If something appears there, it has legal force."
-        },
-        "porQue": "Filling this post means the municipality will have its own technical officer to supervise and manage municipal works — something that directly affects the pace and quality of projects across the area.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa recherche un ingénieur technique pour les travaux municipaux",
-        "entradilla": "Le processus de sélection a déjà publié la liste provisoire des candidats admis et exclus.",
-        "cuerpo": [
-          "La mairie de Villaviciosa avance dans le recrutement d'un ingénieur ou d'une ingénieure technique chargé des travaux municipaux. L'appel a été publié au BOE et le règlement au BOPA.",
-          "Le processus a franchi sa première étape administrative : la liste provisoire des candidats retenus et de ceux qui ont été écartés est désormais disponible pour consultation."
-        ],
-        "apunte": "Le poste attend depuis longtemps d'être pourvu. Ceux qui figurent sur la liste provisoire peuvent souffler ; ceux qui n'y sont pas ont encore la possibilité de faire un recours.",
-        "enVeinte": [
-          "La mairie de Villaviciosa ouvre un poste d'ingénieur technique responsable des travaux municipaux.",
-          "L'appel est publié au BOE et le règlement au BOPA.",
-          "La liste provisoire des candidats admis et exclus est désormais disponible."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "BOPA",
-          "como": "be-o-pe-a",
-          "definicion": "Le Journal officiel de la Principauté des Asturies. C'est là que l'administration régionale publie les règlements, les appels à candidatures et les avis officiels. Ce qui y paraît a valeur légale."
-        },
-        "porQue": "Pourvoir ce poste signifie que la commune disposera d'un technicien propre pour superviser et diriger les travaux municipaux, ce qui influe directement sur le rythme et la qualité des chantiers dans le territoire.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht einen Bauingenieur für kommunale Bauvorhaben",
-        "entradilla": "Im Auswahlverfahren liegt bereits eine vorläufige Liste der zugelassenen und abgelehnten Bewerber vor.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa schreitet bei der Auswahl eines Bauingenieurs bzw. einer Bauingenieurin voran, der oder die für die kommunalen Bauvorhaben zuständig sein soll. Die Ausschreibung erschien im BOE, die Durchführungsbestimmungen im BOPA.",
-          "Das Verfahren hat seinen ersten Verwaltungsschritt vollzogen: Die vorläufige Liste mit den zugelassenen und den ausgeschlossenen Bewerbern steht nun zur Einsicht zur Verfügung."
-        ],
-        "apunte": "Die Stelle wartet schon lange darauf, besetzt zu werden. Wer auf der vorläufigen Liste steht, kann aufatmen; wer nicht darauf steht, hat noch die Möglichkeit, Einspruch einzulegen.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa schreibt eine Stelle als Bauingenieur aus, der für kommunale Bauvorhaben zuständig ist.",
-          "Die Ausschreibung ist im BOE veröffentlicht, die Bestimmungen im BOPA.",
-          "Die vorläufige Liste der zugelassenen und ausgeschlossenen Bewerber liegt jetzt vor."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "BOPA",
-          "como": "be-o-pe-a",
-          "definicion": "Das Amtsblatt des Fürstentums Asturien. Hier veröffentlicht die Regionalverwaltung Vorschriften, Stellenausschreibungen und amtliche Bekanntmachungen. Was dort erscheint, hat Rechtsgültigkeit."
-        },
-        "porQue": "Mit der Besetzung dieser Stelle erhält die Gemeinde einen eigenen Fachmann, der kommunale Bauvorhaben überwacht und leitet — was sich unmittelbar auf das Tempo und die Qualität der Arbeiten vor Ort auswirkt.",
-        "lugar": "",
         "precio": ""
       }
     }
@@ -40943,122 +40934,5 @@
     "revisar": [
       "floral en la plaza santa clara reunio a"
     ]
-  },
-  {
-    "id": "la-ruta-del-cares-reabre-tras-el-accidente-del-pasado-viernes-no-exist",
-    "url": "/cabrales/la-ruta-del-cares-reabre-tras-el-accidente-del-pasado-viernes-no-exist/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "actualidad",
-    "titular": "La Ruta del Cares vuelve a abrir sus puertas",
-    "entradilla": "Las autoridades confirmaron que no hay peligro inmediato tras el desprendimiento que hirió a dos mujeres el viernes.",
-    "cuerpo": [
-      "La senda del Cares, en Cabrales, volvió a recibir senderistas después de que un desprendimiento de rocas obligara a cerrarla el pasado viernes. El accidente dejó heridas a dos mujeres.",
-      "Quienes han revisado el recorrido concluyen que no existe ningún elemento con riesgo inminente de caída, condición que ha permitido levantar el cierre."
-    ],
-    "apunte": "La ruta más famosa de los Picos aguanta el golpe y vuelve a la carga.",
-    "enVeinte": [
-      "La Ruta del Cares ha reabierto después de cerrarse el viernes por un desprendimiento de rocas.",
-      "Dos mujeres resultaron heridas en el accidente que provocó el cierre de la senda.",
-      "La revisión del recorrido no ha detectado elementos con riesgo inminente de caída."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "senda",
-      "como": "senda",
-      "definicion": "Camino estrecho de montaña, generalmente sin asfaltar. La del Cares recorre el desfiladero entre Cabrales y León y es una de las más transitadas de los Picos de Europa."
-    },
-    "porQue": "Quien tenga planeado caminar el Cares este fin de semana puede hacerlo sin restricciones, aunque conviene seguir las indicaciones de las autoridades ante posibles zonas sensibles.",
-    "etiquetas": [
-      "Cares",
-      "Cabrales",
-      "Picos de Europa",
-      "desprendimiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/02/ruta-cares-RWXa9lpjbJ1d5lcwpFgrQzH-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-02T11:42:13.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/ruta-cares-reabre-tras-desprendimiento-heridos-20260802134145-nt.html",
-      "titularOriginal": "La Ruta del Cares reabre tras el accidente del pasado viernes: «No existen elementos con riesgo inminente de caída»"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "La Ruta del Cares reopens",
-        "entradilla": "Authorities confirmed there is no immediate danger following the rockfall that injured two women on Friday.",
-        "cuerpo": [
-          "The Cares trail, in Cabrales, welcomed hikers again after a rockfall forced its closure last Friday. The accident left two women injured.",
-          "Those who inspected the route concluded that there are no elements at imminent risk of falling, a condition that allowed the closure to be lifted."
-        ],
-        "apunte": "The most famous route in the Picos takes the hit and bounces back.",
-        "enVeinte": [
-          "La Ruta del Cares has reopened after being closed on Friday due to a rockfall.",
-          "Two women were injured in the accident that caused the trail's closure.",
-          "The inspection of the route found no elements at imminent risk of falling."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "senda",
-          "como": "senda",
-          "definicion": "A narrow mountain path, generally unpaved. The Cares senda runs through the gorge between Cabrales and León and is one of the most walked trails in the Picos de Europa."
-        },
-        "porQue": "Anyone planning to walk the Cares this weekend can do so without restrictions, though it is advisable to follow the authorities' guidance regarding any potentially sensitive areas.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Ruta del Cares rouvre ses portes",
-        "entradilla": "Les autorités ont confirmé qu'il n'y a aucun danger immédiat après l'éboulement qui a blessé deux femmes vendredi.",
-        "cuerpo": [
-          "La senda del Cares, à Cabrales, a de nouveau accueilli des randonneurs après qu'un éboulement de rochers a contraint à sa fermeture vendredi dernier. L'accident a blessé deux femmes.",
-          "Les personnes qui ont inspecté le parcours ont conclu qu'aucun élément ne présentait de risque imminent de chute, condition qui a permis de lever la fermeture."
-        ],
-        "apunte": "L'itinéraire le plus célèbre des Picos encaisse le coup et repart de plus belle.",
-        "enVeinte": [
-          "La Ruta del Cares a rouvert après avoir été fermée vendredi en raison d'un éboulement de rochers.",
-          "Deux femmes ont été blessées dans l'accident qui a provoqué la fermeture de la senda.",
-          "L'inspection du parcours n'a détecté aucun élément présentant un risque imminent de chute."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "senda",
-          "como": "senda",
-          "definicion": "Chemin étroit de montagne, généralement non asphalté. Celle du Cares parcourt les gorges entre Cabrales et León et est l'une des plus fréquentées des Picos de Europa."
-        },
-        "porQue": "Ceux qui ont prévu de parcourir le Cares ce week-end peuvent le faire sans restriction, même s'il convient de suivre les indications des autorités concernant d'éventuelles zones sensibles.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "La Ruta del Cares wieder geöffnet",
-        "entradilla": "Die Behörden bestätigten, dass nach dem Felssturz, der am Freitag zwei Frauen verletzte, keine unmittelbare Gefahr besteht.",
-        "cuerpo": [
-          "Die Senda del Cares in Cabrales empfing wieder Wanderer, nachdem ein Felssturz vergangenen Freitag zur Sperrung geführt hatte. Bei dem Unfall wurden zwei Frauen verletzt.",
-          "Die Personen, die die Strecke überprüft haben, kamen zu dem Schluss, dass kein Element mit unmittelbarem Sturzrisiko vorhanden ist — eine Bedingung, die die Aufhebung der Sperrung ermöglichte."
-        ],
-        "apunte": "Die bekannteste Route der Picos steckt den Schlag weg und ist zurück.",
-        "enVeinte": [
-          "La Ruta del Cares wurde nach der Sperrung am Freitag infolge eines Felssturzes wieder geöffnet.",
-          "Zwei Frauen wurden bei dem Unfall verletzt, der zur Sperrung der Senda führte.",
-          "Die Überprüfung der Strecke ergab keine Elemente mit unmittelbarem Sturzrisiko."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "senda",
-          "como": "senda",
-          "definicion": "Ein schmaler Bergpfad, in der Regel nicht asphaltiert. Die Senda des Cares verläuft durch die Schlucht zwischen Cabrales und León und ist einer der meistbegangenen Wege der Picos de Europa."
-        },
-        "porQue": "Wer an diesem Wochenende den Cares wandern möchte, kann dies ohne Einschränkungen tun, sollte jedoch den Hinweisen der Behörden zu möglicherweise sensiblen Bereichen folgen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   }
 ]
