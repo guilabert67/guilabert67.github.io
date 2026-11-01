@@ -1,5 +1,52 @@
 [
   {
+    "id": "gavito-pregona-la-castana-y-estrena-xana-del-sella-en-arriondas",
+    "url": "/pilona/gavito-pregona-la-castana-y-estrena-xana-del-sella-en-arriondas/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Gavito pregona la Fiesta de la Castaña en Arriondas",
+    "entradilla": "El pregonero estrena además su canción 'Xana del Sella' en la celebración.",
+    "cuerpo": [
+      "Arriondas acogió la Fiesta de la Castaña con Gavito como pregonero y con una novedad: el propio protagonista estrenó en directo su tema 'Xana del Sella'.",
+      "El pregón arrancó desde un lugar muy personal. «Esta fiesta es familia, es casa», dijo Gavito ante el público congregado."
+    ],
+    "apunte": "Un estreno musical para abrir la temporada de la castaña: no está mal.",
+    "enVeinte": [
+      "Gavito fue el pregonero de la Fiesta de la Castaña celebrada en Arriondas.",
+      "Durante el acto estrenó su canción 'Xana del Sella'.",
+      "El pregonero definió la fiesta como algo de familia y de casa."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Xana",
+      "como": "cha-na",
+      "definicion": "Ser mítico de la tradición asturiana: una figura femenina ligada a ríos y fuentes. El Sella es el río que pasa por Arriondas, así que el título de la canción une los dos mundos."
+    },
+    "porQue": "La Fiesta de la Castaña es una de las citas señaladas del otoño en el oriente asturiano, y el pregón marca el arranque oficial de los actos.",
+    "etiquetas": [
+      "castaña",
+      "Arriondas",
+      "Gavito",
+      "tradición"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Arriondas",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/01/2026110110334072195.jpg",
+    "fecha": "2026-11-01T09:35:37.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/parres/gavito-pregona-castana-estrena-xana-sella-arriondas/20261101103537105147.html",
+      "titularOriginal": "Gavito pregona la castaña y estrena \"Xana del Sella\" en Arriondas"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
     "id": "la-piscina-municipal-avanza-hacia-su-reapertura-en-villaviciosa",
     "url": "/villaviciosa/la-piscina-municipal-avanza-hacia-su-reapertura-en-villaviciosa/",
     "concejo": "Villaviciosa",
