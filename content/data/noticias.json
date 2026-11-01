@@ -1,5 +1,122 @@
 [
   {
+    "id": "cortes-en-la-carretera-de-villaviciosa-a-puente-aguera-por-las-obras-d",
+    "url": "/villaviciosa/cortes-en-la-carretera-de-villaviciosa-a-puente-aguera-por-las-obras-d/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Cortes en la AS-330 por obras de asfaltado",
+    "entradilla": "El Principado interviene la carretera entre Villaviciosa y Puente Agüera desde este martes con una inversión de 2,66 millones de euros.",
+    "cuerpo": [
+      "La AS-330, que une Villaviciosa con Puente Agüera, tendrá restricciones al tráfico a partir del martes mientras duren los trabajos de asfaltado.",
+      "El Principado es quien promueve la obra, con un presupuesto de 2,66 millones de euros para mejorar el firme de ese tramo."
+    ],
+    "apunte": "Si tienes costumbre de bajar por esa carretera, mejor recalcular desde el martes.",
+    "enVeinte": [
+      "La carretera AS-330, de Villaviciosa a Puente Agüera, tendrá cortes de tráfico a partir del martes.",
+      "Los trabajos consisten en asfaltar ese tramo y los promueve el Principado de Asturias.",
+      "El coste total del proyecto es de 2,66 millones de euros."
+    ],
+    "cifra": {
+      "numero": "2,66 millones",
+      "unidad": "euros",
+      "glosa": "Es lo que cuesta mejorar el firme de la AS-330. Lo paga el Principado de Asturias, no el concejo."
+    },
+    "palabra": null,
+    "porQue": "Quien use la AS-330 para ir o volver de Villaviciosa encontrará restricciones al paso mientras duren las obras, así que conviene buscar alternativas o salir con más tiempo.",
+    "etiquetas": [
+      "carreteras",
+      "obras",
+      "Villaviciosa",
+      "Principado"
+    ],
+    "fechaEvento": "2026-11-04",
+    "tipoEvento": "",
+    "lugar": "AS-330, entre Villaviciosa y Puente Agüera",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/01/villa-RJg2IeQ73kjS6NjA3FKaWZM-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-01T17:08:53.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/cortes-carretera-villaviciosa-puente-aguera-obras-mejora-20261101180852-nt.html",
+      "titularOriginal": "Cortes en la carretera de Villaviciosa a Puente Agüera por las obras de mejora"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Road closures on the AS-330 for resurfacing works",
+        "entradilla": "The Principado intervenes on the road between Villaviciosa and Puente Agüera from this Tuesday with an investment of 2.66 million euros.",
+        "cuerpo": [
+          "The AS-330, which links Villaviciosa and Puente Agüera, will have traffic restrictions from Tuesday for the duration of the resurfacing works.",
+          "The Principado is promoting the project, with a budget of 2.66 million euros to improve the surface of that stretch."
+        ],
+        "apunte": "If you regularly use that road, best to reroute from Tuesday.",
+        "enVeinte": [
+          "The AS-330, from Villaviciosa to Puente Agüera, will have traffic closures from Tuesday.",
+          "The works involve resurfacing that stretch and are promoted by the Principado de Asturias.",
+          "The total cost of the project is 2.66 million euros."
+        ],
+        "cifra": {
+          "numero": "2.66 million",
+          "unidad": "euros",
+          "glosa": "This is the cost of improving the surface of the AS-330. It is funded by the Principado de Asturias, not the municipality."
+        },
+        "palabra": null,
+        "porQue": "Anyone who uses the AS-330 to travel to or from Villaviciosa will encounter restrictions while the works are under way, so it is worth finding alternatives or allowing extra time.",
+        "lugar": "AS-330, between Villaviciosa and Puente Agüera",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Coupures de circulation sur la AS-330 pour des travaux d'asphaltage",
+        "entradilla": "Le Principado intervient sur la route entre Villaviciosa et Puente Agüera à partir de ce mardi avec un investissement de 2,66 millions d'euros.",
+        "cuerpo": [
+          "La AS-330, qui relie Villaviciosa à Puente Agüera, sera soumise à des restrictions de circulation à partir de mardi, pendant toute la durée des travaux d'asphaltage.",
+          "Le Principado est le maître d'ouvrage, avec un budget de 2,66 millions d'euros pour améliorer la chaussée de ce tronçon."
+        ],
+        "apunte": "Si vous avez l'habitude d'emprunter cette route, mieux vaut recalculer votre itinéraire à partir de mardi.",
+        "enVeinte": [
+          "La route AS-330, de Villaviciosa à Puente Agüera, sera coupée à la circulation à partir de mardi.",
+          "Les travaux consistent à asphalter ce tronçon et sont menés par le Principado de Asturias.",
+          "Le coût total du projet est de 2,66 millions d'euros."
+        ],
+        "cifra": {
+          "numero": "2,66 millions",
+          "unidad": "euros",
+          "glosa": "C'est le coût de l'amélioration de la chaussée de la AS-330. La dépense est prise en charge par le Principado de Asturias, et non par la commune."
+        },
+        "palabra": null,
+        "porQue": "Quiconque emprunte la AS-330 pour aller à Villaviciosa ou en revenir rencontrera des restrictions pendant la durée des travaux : mieux vaut chercher des itinéraires alternatifs ou prévoir plus de temps.",
+        "lugar": "AS-330, entre Villaviciosa et Puente Agüera",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Sperrungen auf der AS-330 wegen Asphaltierungsarbeiten",
+        "entradilla": "Das Principado greift ab diesem Dienstag in die Straße zwischen Villaviciosa und Puente Agüera ein – mit einer Investition von 2,66 Millionen Euro.",
+        "cuerpo": [
+          "Die AS-330, die Villaviciosa mit Puente Agüera verbindet, wird ab Dienstag für die Dauer der Asphaltierungsarbeiten für den Verkehr eingeschränkt.",
+          "Das Principado ist Auftraggeber des Projekts mit einem Budget von 2,66 Millionen Euro zur Verbesserung des Straßenbelags auf diesem Abschnitt."
+        ],
+        "apunte": "Wer diese Straße regelmäßig nutzt, sollte ab Dienstag besser eine alternative Route planen.",
+        "enVeinte": [
+          "Die AS-330 von Villaviciosa nach Puente Agüera wird ab Dienstag für den Verkehr gesperrt.",
+          "Die Arbeiten bestehen in der Asphaltierung dieses Abschnitts und werden vom Principado de Asturias durchgeführt.",
+          "Die Gesamtkosten des Projekts belaufen sich auf 2,66 Millionen Euro."
+        ],
+        "cifra": {
+          "numero": "2,66 Millionen",
+          "unidad": "Euro",
+          "glosa": "So viel kostet die Verbesserung des Straßenbelags der AS-330. Die Kosten trägt das Principado de Asturias, nicht die Gemeinde."
+        },
+        "palabra": null,
+        "porQue": "Wer die AS-330 nutzt, um nach Villaviciosa zu fahren oder von dort zurückzukehren, wird während der Bauarbeiten auf Einschränkungen stoßen – es lohnt sich daher, Alternativen zu suchen oder mehr Zeit einzuplanen.",
+        "lugar": "AS-330, zwischen Villaviciosa und Puente Agüera",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "gavito-pregona-la-castana-y-estrena-xana-del-sella-en-arriondas",
     "url": "/pilona/gavito-pregona-la-castana-y-estrena-xana-del-sella-en-arriondas/",
     "concejo": "Piloña",
@@ -5317,108 +5434,6 @@
         "cifra": null,
         "palabra": null,
         "porQue": "Wenn Sie im Transportgewerbe arbeiten und das tägliche Parken Ihres Lkw ein Problem darstellt, ist diese Frist Ihre Gelegenheit, das Rathaus darauf hinzuweisen, bevor es eine Entscheidung trifft.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "noticia-solicitud-de-aparcamiento-para-camiones",
-    "url": "/villaviciosa/noticia-solicitud-de-aparcamiento-para-camiones/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Plazo abierto para aparcar camiones en Villaviciosa",
-    "entradilla": "Los transportistas del concejo tienen hasta el 30 de octubre para pedir plaza en las zonas habilitadas por el Ayuntamiento.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa abre el plazo para que los profesionales del transporte soliciten un espacio de aparcamiento para camiones articulados en las áreas que el propio consistorio ha destinado a ese uso.",
-      "Las solicitudes se pueden presentar hasta el viernes 30 de octubre, bien por la sede electrónica del Ayuntamiento o bien de forma presencial en el registro municipal."
-    ],
-    "apunte": "Si tienes un camión y buscas dónde dejarlo sin dramas, esta semana es la tuya.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa permite a los transportistas del concejo solicitar plaza de aparcamiento para camiones articulados en zonas habilitadas.",
-      "El plazo para presentar la solicitud termina el viernes 30 de octubre.",
-      "Se puede tramitar tanto por sede electrónica como en persona en el registro municipal."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Los camioneros de Villaviciosa que necesiten un lugar fijo y autorizado donde dejar el vehículo tienen una ventana breve para pedirlo: si no se apuntan antes del viernes, tendrán que esperar a la siguiente convocatoria.",
-    "etiquetas": [
-      "transporte",
-      "aparcamiento",
-      "Villaviciosa",
-      "trámites"
-    ],
-    "fechaEvento": "2025-10-30",
-    "tipoEvento": "",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-22T15:26:28.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20125027",
-      "titularOriginal": "noticia: Solicitud de aparcamiento para camiones",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Deadline open to park trucks in Villaviciosa",
-        "entradilla": "Hauliers in the municipality have until 30 October to apply for a space in the areas set up by the council.",
-        "cuerpo": [
-          "Villaviciosa council is opening the application period for transport professionals to request a parking space for articulated lorries in the areas the council itself has designated for that purpose.",
-          "Applications can be submitted until Friday 30 October, either through the council's online portal or in person at the municipal registry."
-        ],
-        "apunte": "If you have a lorry and need somewhere to leave it without the hassle, this is your week.",
-        "enVeinte": [
-          "Villaviciosa council is allowing hauliers in the municipality to apply for a parking space for articulated lorries in designated areas.",
-          "The deadline to submit an application is Friday 30 October.",
-          "Applications can be processed online or in person at the municipal registry."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Hauliers in Villaviciosa who need a fixed, authorised place to leave their vehicle have a short window to apply: if they do not sign up before Friday, they will have to wait for the next call.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Délai ouvert pour stationner des camions à Villaviciosa",
-        "entradilla": "Les transporteurs de la commune ont jusqu'au 30 octobre pour demander une place dans les zones aménagées par la mairie.",
-        "cuerpo": [
-          "La mairie de Villaviciosa ouvre la période de candidature pour que les professionnels du transport puissent demander un emplacement de stationnement pour poids lourds articulés dans les zones que la mairie elle-même a réservées à cet usage.",
-          "Les demandes peuvent être déposées jusqu'au vendredi 30 octobre, soit via le portail en ligne de la mairie, soit en personne au registre municipal."
-        ],
-        "apunte": "Si vous avez un camion et cherchez où le laisser sans tracas, c'est votre semaine.",
-        "enVeinte": [
-          "La mairie de Villaviciosa permet aux transporteurs de la commune de demander une place de stationnement pour poids lourds articulés dans des zones aménagées.",
-          "Le délai pour déposer une demande expire le vendredi 30 octobre.",
-          "La démarche peut se faire en ligne ou en personne au registre municipal."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Les camionneurs de Villaviciosa qui ont besoin d'un endroit fixe et autorisé pour laisser leur véhicule disposent d'une courte fenêtre pour en faire la demande : s'ils ne s'inscrivent pas avant vendredi, ils devront attendre le prochain appel.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Bewerbungsfrist für LKW-Parkplätze in Villaviciosa eröffnet",
-        "entradilla": "Transportunternehmer aus der Gemeinde haben bis zum 30. Oktober Zeit, einen Platz in den vom Rathaus ausgewiesenen Bereichen zu beantragen.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa eröffnet die Antragsfrist für Transportfachleute, die einen Stellplatz für Sattelzüge in den dafür vorgesehenen Bereichen beantragen möchten.",
-          "Anträge können bis Freitag, den 30. Oktober, eingereicht werden – entweder über das Online-Portal des Rathauses oder persönlich beim Stadtregister."
-        ],
-        "apunte": "Wer einen LKW hat und einen unkomplizierten Stellplatz sucht, für den ist diese Woche die richtige.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa ermöglicht es Transportunternehmern aus der Gemeinde, einen Stellplatz für Sattelzüge in ausgewiesenen Bereichen zu beantragen.",
-          "Die Frist zur Einreichung des Antrags endet am Freitag, den 30. Oktober.",
-          "Der Antrag kann online oder persönlich beim Stadtregister gestellt werden."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "LKW-Fahrer aus Villaviciosa, die einen festen und genehmigten Abstellplatz für ihr Fahrzeug benötigen, haben nur ein kurzes Zeitfenster für ihren Antrag: Wer sich nicht bis Freitag anmeldet, muss auf die nächste Ausschreibung warten.",
         "lugar": "Villaviciosa",
         "precio": ""
       }
@@ -40705,123 +40720,6 @@
         "cifra": null,
         "palabra": null,
         "porQue": "Wer in den Bergen der Gemeinde wandern geht, sollte wissen: Eine rechtzeitige Meldung kann einen Hubschrauber herbeirufen — ohne sie weiß niemand, wo er suchen soll.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "talento-local-la-formula-de-villaviciosa-conciencia-para-transformar-e",
-    "url": "/villaviciosa/talento-local-la-formula-de-villaviciosa-conciencia-para-transformar-e/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa ConCiencia cumple cinco años este miércoles",
-    "entradilla": "El proyecto de talento local celebra su aniversario con dos charlas y una fiesta para quienes han participado en él.",
-    "cuerpo": [
-      "Villaviciosa ConCiencia llega a su quinto año de vida y lo celebra este miércoles con un doble acto: dos charlas y una fiesta de cierre para colaboradores y participantes del proyecto a lo largo de esta etapa.",
-      "La iniciativa nació con el objetivo de aprovechar el talento del propio municipio como motor de transformación local, y el aniversario sirve de punto de encuentro para quienes la han hecho posible."
-    ],
-    "apunte": "Cinco años dando la razón a quienes ya sabían que el talento no había que buscarlo fuera.",
-    "enVeinte": [
-      "Villaviciosa ConCiencia celebra este miércoles su quinto aniversario con dos charlas y una fiesta.",
-      "El acto está dirigido a todas las personas que han colaborado con el proyecto desde su inicio.",
-      "La iniciativa apuesta por el talento local como herramienta para transformar el municipio."
-    ],
-    "cifra": {
-      "numero": "5",
-      "unidad": "años",
-      "glosa": "Villaviciosa ConCiencia lleva cinco años en marcha. Es el tiempo que el proyecto lleva trabajando con talento del propio concejo para impulsar cambios en el municipio."
-    },
-    "palabra": null,
-    "porQue": "Si has participado alguna vez en ConCiencia, este miércoles hay un acto pensado para ti; y si no la conocías, el aniversario es una buena excusa para acercarte.",
-    "etiquetas": [
-      "Villaviciosa",
-      "ConCiencia",
-      "talento local",
-      "aniversario"
-    ],
-    "fechaEvento": "2026-08-06",
-    "tipoEvento": "taller",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/03/villaviciosa-ciencia-RLR1zVRuvGoS888gON5BtPN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-03T15:21:07.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/talento-local-formula-villaviciosa-conciencia-transformar-municipio-20260803172107-nt.html",
-      "titularOriginal": "Talento local: la fórmula de Villaviciosa ConCiencia para transformar el municipio"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa ConCiencia turns five this Wednesday",
-        "entradilla": "The local talent project marks its anniversary with two talks and a celebration for everyone who has taken part.",
-        "cuerpo": [
-          "Villaviciosa ConCiencia reaches its fifth year and marks the occasion this Wednesday with a two-part event: two talks and a closing celebration for the collaborators and participants who have been part of the project throughout this period.",
-          "The initiative was born with the aim of harnessing the municipality's own talent as a driver of local change, and the anniversary serves as a meeting point for those who have made it possible."
-        ],
-        "apunte": "Five years proving right those who always knew talent did not need to be sought elsewhere.",
-        "enVeinte": [
-          "Villaviciosa ConCiencia celebrates its fifth anniversary this Wednesday with two talks and a party.",
-          "The event is aimed at everyone who has collaborated with the project since its launch.",
-          "The initiative bets on local talent as a tool to transform the municipality."
-        ],
-        "cifra": {
-          "numero": "5",
-          "unidad": "years",
-          "glosa": "Villaviciosa ConCiencia has been running for five years. That is how long the project has been working with talent from within the municipality itself to drive change in the area."
-        },
-        "palabra": null,
-        "porQue": "If you have ever taken part in ConCiencia, this Wednesday there is an event made for you; and if you did not know it before, the anniversary is a good reason to come along.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ConCiencia fête ses cinq ans ce mercredi",
-        "entradilla": "Le projet de talents locaux célèbre son anniversaire avec deux conférences et une fête pour toutes les personnes qui y ont participé.",
-        "cuerpo": [
-          "Villaviciosa ConCiencia atteint sa cinquième année d'existence et la célèbre ce mercredi par un double événement : deux conférences et une fête de clôture pour les collaborateurs et participants du projet tout au long de cette période.",
-          "L'initiative est née avec l'objectif de mettre à profit les talents de la commune elle-même comme moteur de transformation locale, et l'anniversaire sert de point de rencontre pour ceux qui l'ont rendue possible."
-        ],
-        "apunte": "Cinq ans à donner raison à ceux qui savaient déjà que le talent n'était pas à chercher ailleurs.",
-        "enVeinte": [
-          "Villaviciosa ConCiencia célèbre ce mercredi son cinquième anniversaire avec deux conférences et une fête.",
-          "L'événement s'adresse à toutes les personnes qui ont collaboré avec le projet depuis ses débuts.",
-          "L'initiative mise sur les talents locaux comme outil de transformation de la commune."
-        ],
-        "cifra": {
-          "numero": "5",
-          "unidad": "ans",
-          "glosa": "Villaviciosa ConCiencia existe depuis cinq ans. C'est le temps que le projet consacre à travailler avec les talents de la commune elle-même pour impulser des changements sur le territoire."
-        },
-        "palabra": null,
-        "porQue": "Si vous avez déjà participé à ConCiencia, il y a ce mercredi un événement pensé pour vous ; et si vous ne la connaissiez pas encore, l'anniversaire est une bonne occasion de venir découvrir le projet.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa ConCiencia wird diesen Mittwoch fünf Jahre alt",
-        "entradilla": "Das Projekt für lokale Talente feiert sein Jubiläum mit zwei Vorträgen und einem Fest für alle, die daran mitgewirkt haben.",
-        "cuerpo": [
-          "Villaviciosa ConCiencia erreicht sein fünftes Jahr und feiert das diesen Mittwoch mit einem zweiteiligen Programm: zwei Vorträgen und einem Abschlussfest für die Mitarbeitenden und Teilnehmenden, die das Projekt in dieser Zeit begleitet haben.",
-          "Die Initiative wurde mit dem Ziel gegründet, das Talent der Gemeinde selbst als Motor des lokalen Wandels zu nutzen. Das Jubiläum ist ein Treffpunkt für alle, die es möglich gemacht haben."
-        ],
-        "apunte": "Fünf Jahre lang haben sie denen recht gegeben, die schon immer wussten, dass man Talent nicht anderswo suchen muss.",
-        "enVeinte": [
-          "Villaviciosa ConCiencia feiert diesen Mittwoch sein fünfjähriges Bestehen mit zwei Vorträgen und einem Fest.",
-          "Die Veranstaltung richtet sich an alle, die seit Beginn mit dem Projekt zusammengearbeitet haben.",
-          "Die Initiative setzt auf lokales Talent als Werkzeug zur Veränderung der Gemeinde."
-        ],
-        "cifra": {
-          "numero": "5",
-          "unidad": "Jahre",
-          "glosa": "Villaviciosa ConCiencia ist seit fünf Jahren aktiv. So lange arbeitet das Projekt bereits mit Talenten aus der Gemeinde selbst, um Veränderungen vor Ort anzustoßen."
-        },
-        "palabra": null,
-        "porQue": "Wer schon einmal bei ConCiencia mitgemacht hat, für den gibt es diesen Mittwoch eine Veranstaltung; und wer das Projekt noch nicht kannte, hat mit dem Jubiläum einen guten Anlass, vorbeizuschauen.",
         "lugar": "",
         "precio": ""
       }
