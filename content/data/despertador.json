@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-10-31T19:15:24.383Z",
+  "fecha": "2026-11-01T08:06:18.974Z",
   "puntos": [
     {
+      "concejo": "Cabrales",
+      "frase": "El desfiladero del Cares vuelve a estar abierto entero desde este viernes.",
+      "enlace": "/cabrales/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava explica este viernes qué significa la sentencia que da luz verde a la mina de Peñamayor.",
+      "enlace": "/nava/convocan-una-reunion-en-nava-para-explicar-la-sentencia-sobre-penamayo/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "La piscina de Villaviciosa avanza: el edificio está listo y se busca gestor.",
-      "enlace": "/villaviciosa/la-piscina-municipal-avanza-hacia-su-reapertura-en-villaviciosa/"
+      "frase": "Dos detenidos tras un asalto en Arroes; otros dos siguen huidos por el monte.",
+      "enlace": "/villaviciosa/nuevo-golpe-a-las-bandas-de-asaltantes-de-viviendas-con-dos-detenidos-/"
     }
   ]
 }
