@@ -1,10 +1,15 @@
 {
-  "fecha": "2026-11-01T19:38:08.129Z",
+  "fecha": "2026-11-02T09:59:42.535Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "La AS-330 entre Villaviciosa y Puente Agüera corta el tráfico desde este martes por obras.",
-      "enlace": "/villaviciosa/cortes-en-la-carretera-de-villaviciosa-a-puente-aguera-por-las-obras-d/"
+      "frase": "La AS-330 a Puente Agüera cortará el tráfico desde hoy por obras de asfaltado.",
+      "enlace": "/villaviciosa/cortes-de-trafico-en-la-as-330-desde-manana-miravalles-afronta-el-asfa/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Moisés Fernández, de Fíos, gana la sidra casera de Parres tras desempate en Les Arriondes.",
+      "enlace": "/pilona/moises-fernandez-lleva-a-fios-el-triunfo-en-el-v-concurso-de-sidra-cas/"
     }
   ]
 }
