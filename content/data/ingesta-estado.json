@@ -561,6 +561,16 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-11-01T15:05:38.115Z",
       "titulo": "Recetas de una abuela asturiana: Los tagliatelle con setes, sidra, Cabrales y cecina"
+    },
+    "elbuscolu.com/noticias-villaviciosa/la-carretera-de-miravalles-sufrira-cortes-de-trafico-desde-el-3-de-noviembre-11276955.html": {
+      "motivo": "duplicado de /villaviciosa/cortes-de-trafico-en-la-as-330-desde-manana-miravalles-afronta-el-asfa/",
+      "fecha": "2026-11-02T20:18:34.322Z",
+      "titulo": "La carretera de Miravalles sufrirá cortes de tráfico desde el 3 de noviembre"
+    },
+    "elbuscolu.com/picos-de-europa/la-ruta-del-cares-reabre-por-completo-tras-reparar-una-pasarela-danada-11276956.html": {
+      "motivo": "mismo hecho que /cabrales/la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa/",
+      "fecha": "2026-11-02T20:18:35.507Z",
+      "titulo": "La Ruta del Cares reabre por completo tras reparar una pasarela dañada"
     }
   },
   "juicios": {
@@ -679,6 +689,10 @@
     "elbuscolu.com/noticias-villaviciosa/villaviciosa-prepara-la-reforma-integral-del-parque-del-pelambre-11276860.html|la-reforma-del-parque-del-pelambre-en-villaviciosa-incluira-ganar-zona": {
       "r": "mismo",
       "fecha": "2026-10-27T06:13:06.622Z"
+    },
+    "elbuscolu.com/picos-de-europa/la-ruta-del-cares-reabre-por-completo-tras-reparar-una-pasarela-danada-11276956.html|la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa": {
+      "r": "mismo",
+      "fecha": "2026-11-02T20:18:35.506Z"
     }
   }
 }
