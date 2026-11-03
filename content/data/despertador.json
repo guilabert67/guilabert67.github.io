@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-03T10:03:06.365Z",
+  "fecha": "2026-11-03T17:50:09.097Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa cerró 2025 con dos millones de superávit y el alcalde publicará las cuentas.",
-      "enlace": "/villaviciosa/villaviciosa-cerro-2025-con-10-millones-en-caja-y-2-de-superavit-y-veg/"
-    },
-    {
       "concejo": "Piloña",
-      "frase": "Delfina Llera gana en Colunga y dos piloñesas suben al podio en Ribeseya.",
-      "enlace": "/pilona/mujeres-que-ponen-nombre-a-la-sidra-casera/"
+      "frase": "Cruzar el Sella en tractor por la A-8 resulta inviable: cien minutos de espera.",
+      "enlace": "/pilona/los-tractores-cuestionan-la-alternativa-de-circular-por-la-a-8-tras-el/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Las arcas de Villaviciosa terminaron 2025 con más de diez millones en caja.",
-      "enlace": "/villaviciosa/villaviciosa-presenta-unas-cuentas-saneadas-con-mas-de-10-millones-de-/"
+      "frase": "Villaviciosa oferta ocho empleos de hasta un año; también hay plazas formativas.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava estrena concurso navideño: ya puedes apuntarte para decorar tu escaparate.",
+      "enlace": "/nava/concurso-de-iluminacion-y-decoracion-navidena/"
     }
   ]
 }

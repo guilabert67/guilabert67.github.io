@@ -1,5 +1,556 @@
 [
   {
+    "id": "el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co",
+    "url": "/villaviciosa/el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa abre ocho empleos de hasta un año",
+    "entradilla": "El Plan Local de Empleo busca perfiles técnicos y de oficios, y se añaden dos plazas formativas para quienes quieran ganar experiencia.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha convocado ocho puestos de trabajo destinados a personas en situación de desempleo, con contratos de hasta doce meses.",
+      "Los perfiles que se necesitan son un técnico en turismo, otro de biblioteca, un pintor, un electricista y dos peones. A eso se suman dos plazas de Contratos Formativos."
+    ],
+    "apunte": "Si andas buscando trabajo en el concejo, este es el momento de mirar el tablón.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca ocho puestos de trabajo para desempleados, con contratos de hasta un año.",
+      "Los perfiles son técnico en turismo, técnico de biblioteca, pintor, electricista y dos peones, más dos plazas de Contratos Formativos.",
+      "La convocatoria sale del Plan Local de Empleo municipal."
+    ],
+    "cifra": {
+      "numero": "8",
+      "unidad": "puestos de trabajo",
+      "glosa": "El Ayuntamiento convoca ocho plazas en total: seis del Plan Local de Empleo y dos de Contratos Formativos. Los contratos pueden llegar hasta un año de duración."
+    },
+    "palabra": null,
+    "porQue": "Si estás en paro en Villaviciosa, hay ocho plazas públicas a las que puedes optar ahora mismo, con sueldos y contratos de hasta un año.",
+    "etiquetas": [
+      "empleo",
+      "Villaviciosa",
+      "Plan Local de Empleo",
+      "contratos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/03/plan-empleo-villaviciosa-Rh4TAaFzPusxMdRIq5rWVdN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-03T16:04:53.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ayuntamiento-villaviciosa-convoca-ocho-puestos-trabajo-contratos-20261103170452-nt.html",
+      "titularOriginal": "El Ayuntamiento de Villaviciosa convoca ocho puestos de trabajo con contratos de hasta un año para desempleados"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens eight jobs of up to one year",
+        "entradilla": "The Plan Local de Empleo is looking for technical and trade profiles, and two training positions are added for those who want to gain experience.",
+        "cuerpo": [
+          "The council of Villaviciosa has announced eight job positions aimed at unemployed people, with contracts of up to twelve months.",
+          "The profiles needed are a tourism technician, a library technician, a painter, an electrician and two labourers. On top of that, there are two Contratos Formativos positions."
+        ],
+        "apunte": "If you are looking for work in the municipality, now is the time to check the notice board.",
+        "enVeinte": [
+          "The council of Villaviciosa is advertising eight job positions for unemployed people, with contracts of up to one year.",
+          "The profiles are tourism technician, library technician, painter, electrician and two labourers, plus two Contratos Formativos positions.",
+          "The call comes from the municipal Plan Local de Empleo."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "job positions",
+          "glosa": "The council is advertising eight positions in total: six from the Plan Local de Empleo and two Contratos Formativos. Contracts can run for up to one year."
+        },
+        "palabra": null,
+        "porQue": "If you are unemployed in Villaviciosa, there are eight public positions you can apply for right now, with salaries and contracts of up to one year.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre huit postes d'emploi pouvant aller jusqu'à un an",
+        "entradilla": "Le Plan Local de Empleo recherche des profils techniques et des métiers, et deux postes en formation sont ajoutés pour ceux qui souhaitent acquérir de l'expérience.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a lancé un appel pour huit postes de travail destinés aux personnes en situation de chômage, avec des contrats pouvant aller jusqu'à douze mois.",
+          "Les profils recherchés sont un technicien en tourisme, un technicien de bibliothèque, un peintre, un électricien et deux manœuvres. À cela s'ajoutent deux postes de Contratos Formativos."
+        ],
+        "apunte": "Si vous cherchez du travail dans la commune, c'est le moment de consulter le tableau d'affichage.",
+        "enVeinte": [
+          "La mairie de Villaviciosa lance un appel pour huit postes de travail destinés aux chômeurs, avec des contrats pouvant aller jusqu'à un an.",
+          "Les profils sont technicien en tourisme, technicien de bibliothèque, peintre, électricien et deux manœuvres, ainsi que deux postes de Contratos Formativos.",
+          "L'appel est issu du Plan Local de Empleo municipal."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "postes de travail",
+          "glosa": "La mairie lance un appel pour huit postes au total : six issus du Plan Local de Empleo et deux de Contratos Formativos. Les contrats peuvent durer jusqu'à un an."
+        },
+        "palabra": null,
+        "porQue": "Si vous êtes au chômage à Villaviciosa, huit postes publics sont ouverts dès maintenant, avec des salaires et des contrats pouvant aller jusqu'à un an.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schreibt acht Stellen mit bis zu einem Jahr Laufzeit aus",
+        "entradilla": "Der Plan Local de Empleo sucht Fach- und Handwerksprofile, dazu kommen zwei Ausbildungsplätze für alle, die Berufserfahrung sammeln möchten.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat acht Arbeitsstellen für arbeitslose Personen ausgeschrieben, mit Verträgen von bis zu zwölf Monaten.",
+          "Gesucht werden ein Tourismusfachmann, ein Bibliotheksfachmann, ein Maler, ein Elektriker und zwei Hilfsarbeiter. Hinzu kommen zwei Stellen im Rahmen der Contratos Formativos."
+        ],
+        "apunte": "Wer in der Gemeinde Arbeit sucht, sollte jetzt einen Blick auf das schwarze Brett werfen.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt acht Arbeitsstellen für Arbeitslose aus, mit Verträgen von bis zu einem Jahr.",
+          "Die gesuchten Profile sind Tourismusfachmann, Bibliotheksfachmann, Maler, Elektriker und zwei Hilfsarbeiter, dazu zwei Stellen der Contratos Formativos.",
+          "Die Ausschreibung stammt aus dem kommunalen Plan Local de Empleo."
+        ],
+        "cifra": {
+          "numero": "8",
+          "unidad": "Arbeitsstellen",
+          "glosa": "Das Rathaus schreibt insgesamt acht Stellen aus: sechs aus dem Plan Local de Empleo und zwei Contratos Formativos. Die Verträge können bis zu einem Jahr laufen."
+        },
+        "palabra": null,
+        "porQue": "Wer in Villaviciosa arbeitslos ist, kann sich jetzt sofort auf acht öffentliche Stellen bewerben – mit Gehalt und Verträgen von bis zu einem Jahr.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "un tecnico en turismo otro de biblioteca un",
+      "tecnico en turismo otro de biblioteca un pintor",
+      "en turismo otro de biblioteca un pintor un",
+      "turismo otro de biblioteca un pintor un electricista",
+      "otro de biblioteca un pintor un electricista y",
+      "de biblioteca un pintor un electricista y dos",
+      "biblioteca un pintor un electricista y dos peones"
+    ]
+  },
+  {
+    "id": "los-tractores-cuestionan-la-alternativa-de-circular-por-la-a-8-tras-el",
+    "url": "/pilona/los-tractores-cuestionan-la-alternativa-de-circular-por-la-a-8-tras-el/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Los tractores en la A-8: cien minutos y dudas",
+    "entradilla": "El primer día de la autorización excepcional deja claro que circular por la autovía no es una solución real para los agricultores y otros profesionales que necesitan cruzar el Sella.",
+    "cuerpo": [
+      "Tres tractores estrenaron ayer la autorización de Tráfico para usar la A-8 mientras duren las obras del puente de Ribadesella. El trayecto por la autovía les llevó cerca de cien minutos, y los horarios fijados —salida a las 9:00 y regreso a las 13:00— no les dan margen para completar una jornada de trabajo normal.",
+      "Agricultores, jardineros, forestales y empresas de desatascos señalan además el coste del rodeo: 17 kilómetros extra que, según afirman, se traducen en más de 20 euros de combustible por viaje. A eso añaden que sus seguros no cubrirían los daños en caso de accidente en la autovía. Algunos optaron por dejar los tractores en la zona de la playa hasta el jueves.",
+      "El Ayuntamiento de Ribadesella propone una alternativa distinta: habilitar un paso para vehículos agrícolas a la altura de El Alisal, cruzando el Sella directamente, siempre que no haya pleamar ni crecida del río. Los profesionales afectados piden que se estudie con rapidez."
+    ],
+    "apunte": "Cien minutos para cruzar el río. Hay ríos más fáciles de saltar.",
+    "enVeinte": [
+      "El cierre del puente de Ribadesella obliga a los tractores a usar la A-8, pero el primer día deja claro que la medida es poco práctica: el trayecto lleva casi dos horas y los horarios no se ajustan a la jornada laboral.",
+      "Los profesionales afectados —agricultores, jardineros, forestales y empresas de desatascos— denuncian además un sobrecoste de más de 20 euros por viaje y dudan de que sus seguros los cubran en caso de accidente en la autovía.",
+      "El Ayuntamiento de Ribadesella plantea habilitar un paso para vehículos agrícolas directamente sobre el Sella, a la altura de El Alisal, como solución más operativa mientras duren las obras."
+    ],
+    "cifra": {
+      "numero": "17",
+      "unidad": "kilómetros extra por viaje",
+      "glosa": "Es el rodeo que impone usar la A-8 en lugar del puente cerrado. Los profesionales calculan que ese desvío supone más de 20 euros en combustible cada vez que necesitan cruzar el Sella con un vehículo agrícola."
+    },
+    "palabra": {
+      "termino": "pleamar",
+      "como": "pleamar, igual que en castellano, pero aquí manda mucho",
+      "definicion": "Es el momento en que la marea alcanza su punto más alto. En la desembocadura del Sella condiciona cuándo se puede cruzar el río: el paso propuesto por El Alisal solo sería viable fuera de la pleamar y sin crecida."
+    },
+    "porQue": "Quien trabaja en el campo o en oficios que requieren maquinaria agrícola a ambos lados del Sella lleva semanas con la actividad trastocada, y la solución provisional no parece resolver el problema a corto plazo.",
+    "etiquetas": [
+      "puente de Ribadesella",
+      "tractores",
+      "A-8",
+      "Sella"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/11//20261103134737_RTPA8803114.webp",
+    "fecha": "2026-11-03T13:13:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-11-03/Los-tractores-cuestionan-la-alternativa-de-circular-por-la-A-8-tras-el-cierre-del-puente-de-Ribadesella_111793709150.html",
+      "titularOriginal": "Los tractores cuestionan la alternativa de circular por la A-8 tras el cierre del puente de Ribadesella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Tractors on the A-8: a hundred minutes and doubts",
+        "entradilla": "The first day of the exceptional permit makes it clear that using the motorway is no real solution for farmers and other professionals who need to cross the Sella.",
+        "cuerpo": [
+          "Three tractors yesterday made first use of the Traffic Authority permit to drive on the A-8 for the duration of the Ribadesella bridge works. The motorway journey took them close to a hundred minutes, and the set timetable — departure at 9:00 and return at 13:00 — leaves no room to complete a normal working day.",
+          "Farmers, gardeners, forestry workers and drainage companies also point to the cost of the detour: 17 extra kilometres that, they say, translate into more than 20 euros in fuel per trip. They add that their insurance policies would not cover damage in the event of an accident on the motorway. Some chose to leave their tractors near the beach area until Thursday.",
+          "The Ribadesella council proposes a different alternative: opening a crossing for agricultural vehicles near El Alisal, directly over the Sella, as long as there is no high tide or river flooding. The affected professionals are asking for the idea to be studied quickly."
+        ],
+        "apunte": "A hundred minutes to cross a river. Some rivers are easier to jump.",
+        "enVeinte": [
+          "The closure of the Ribadesella bridge is forcing tractors onto the A-8, but the first day makes clear the measure is barely practical: the journey takes almost two hours and the timetable does not fit the working day.",
+          "The affected professionals — farmers, gardeners, forestry workers and drainage companies — also report an extra cost of more than 20 euros per trip and doubt their insurance would cover them in the event of an accident on the motorway.",
+          "The Ribadesella council proposes opening a crossing for agricultural vehicles directly over the Sella, near El Alisal, as a more workable solution for the duration of the works."
+        ],
+        "cifra": {
+          "numero": "17",
+          "unidad": "extra kilometres per trip",
+          "glosa": "This is the detour imposed by using the A-8 instead of the closed bridge. Professionals estimate that the diversion adds more than 20 euros in fuel every time they need to cross the Sella with an agricultural vehicle."
+        },
+        "palabra": {
+          "termino": "pleamar",
+          "como": "pleamar, same as in Spanish, but it carries a lot of weight around here",
+          "definicion": "The moment when the tide reaches its highest point. At the mouth of the Sella it determines when the river can be crossed: the crossing proposed near El Alisal would only be viable outside pleamar and when there is no flooding."
+        },
+        "porQue": "People who work in the fields or in trades that require agricultural machinery on both sides of the Sella have had their work disrupted for weeks, and the temporary solution does not appear to resolve the problem in the short term.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les tracteurs sur l'A-8 : cent minutes et des doutes",
+        "entradilla": "Le premier jour de l'autorisation exceptionnelle montre clairement que l'utilisation de l'autoroute n'est pas une vraie solution pour les agriculteurs et autres professionnels qui ont besoin de traverser le Sella.",
+        "cuerpo": [
+          "Trois tracteurs ont inauguré hier l'autorisation de la Direction générale du trafic pour emprunter l'A-8 pendant la durée des travaux du pont de Ribadesella. Le trajet par l'autoroute leur a pris près de cent minutes, et les horaires imposés — départ à 9 h 00 et retour à 13 h 00 — ne leur laissent pas la marge nécessaire pour accomplir une journée de travail normale.",
+          "Agriculteurs, jardiniers, forestiers et entreprises de débouchage signalent également le coût du détour : 17 kilomètres supplémentaires qui, selon eux, représentent plus de 20 euros de carburant par trajet. Ils ajoutent que leurs assurances ne couvriraient pas les dommages en cas d'accident sur l'autoroute. Certains ont choisi de laisser leurs tracteurs près de la zone de la plage jusqu'à jeudi.",
+          "La mairie de Ribadesella propose une autre solution : aménager un passage pour véhicules agricoles à la hauteur d'El Alisal, en franchissant directement le Sella, à condition qu'il n'y ait ni marée haute ni crue. Les professionnels concernés demandent que la proposition soit étudiée rapidement."
+        ],
+        "apunte": "Cent minutes pour traverser un fleuve. Il y a des rivières plus faciles à enjamber.",
+        "enVeinte": [
+          "La fermeture du pont de Ribadesella contraint les tracteurs à utiliser l'A-8, mais le premier jour montre clairement que la mesure est peu pratique : le trajet prend près de deux heures et les horaires ne correspondent pas à la journée de travail.",
+          "Les professionnels concernés — agriculteurs, jardiniers, forestiers et entreprises de débouchage — dénoncent également un surcoût de plus de 20 euros par trajet et doutent que leurs assurances les couvrent en cas d'accident sur l'autoroute.",
+          "La mairie de Ribadesella propose d'aménager un passage pour véhicules agricoles directement sur le Sella, à la hauteur d'El Alisal, comme solution plus opérationnelle pendant la durée des travaux."
+        ],
+        "cifra": {
+          "numero": "17",
+          "unidad": "kilomètres supplémentaires par trajet",
+          "glosa": "C'est le détour qu'impose l'utilisation de l'A-8 à la place du pont fermé. Les professionnels estiment que ce détour représente plus de 20 euros de carburant à chaque fois qu'ils doivent traverser le Sella avec un véhicule agricole."
+        },
+        "palabra": {
+          "termino": "pleamar",
+          "como": "pleamar, identique à l'espagnol, mais qui commande beaucoup par ici",
+          "definicion": "Le moment où la marée atteint son point le plus haut. À l'embouchure du Sella, cela conditionne les moments où l'on peut traverser le fleuve : le passage proposé à El Alisal ne serait praticable qu'en dehors de la pleamar et sans crue."
+        },
+        "porQue": "Les personnes qui travaillent aux champs ou dans des métiers nécessitant des engins agricoles des deux côtés du Sella voient leur activité perturbée depuis des semaines, et la solution provisoire ne semble pas résoudre le problème à court terme.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Traktoren auf der A-8: hundert Minuten und offene Fragen",
+        "entradilla": "Der erste Tag der Ausnahmegenehmigung macht deutlich, dass die Nutzung der Autobahn für Landwirte und andere Berufstätige, die den Sella überqueren müssen, keine wirkliche Lösung ist.",
+        "cuerpo": [
+          "Drei Traktoren haben gestern als Erste die Genehmigung der Verkehrsbehörde genutzt, die A-8 für die Dauer der Bauarbeiten an der Brücke von Ribadesella zu befahren. Die Fahrt über die Autobahn dauerte fast hundert Minuten, und die festgelegten Fahrzeiten — Abfahrt um 9:00 Uhr und Rückfahrt um 13:00 Uhr — lassen keinen Spielraum, um einen normalen Arbeitstag zu beenden.",
+          "Landwirte, Gärtner, Forstarbeiter und Rohrreinigungsunternehmen beklagen zudem die Kosten des Umwegs: 17 zusätzliche Kilometer, die nach ihren Angaben mehr als 20 Euro Kraftstoffkosten pro Fahrt bedeuten. Hinzu kommt, dass ihre Versicherungen Schäden bei einem Unfall auf der Autobahn nicht abdecken würden. Einige entschieden sich, ihre Traktoren bis Donnerstag im Strandbereich stehen zu lassen.",
+          "Das Rathaus von Ribadesella schlägt eine andere Lösung vor: die Einrichtung eines Übergangs für landwirtschaftliche Fahrzeuge auf Höhe von El Alisal, direkt über den Sella, sofern weder Hochwasser noch Flut herrscht. Die betroffenen Berufstätigen fordern eine rasche Prüfung des Vorschlags."
+        ],
+        "apunte": "Hundert Minuten, um einen Fluss zu überqueren. Mancher Fluss lässt sich leichter überspringen.",
+        "enVeinte": [
+          "Die Sperrung der Brücke von Ribadesella zwingt Traktoren zur Nutzung der A-8, doch der erste Tag zeigt deutlich, dass die Maßnahme kaum praktikabel ist: Die Fahrt dauert fast zwei Stunden, und die Fahrzeiten passen nicht zum Arbeitstag.",
+          "Die betroffenen Berufstätigen — Landwirte, Gärtner, Forstarbeiter und Rohrreinigungsunternehmen — beklagen zudem Mehrkosten von über 20 Euro pro Fahrt und zweifeln daran, dass ihre Versicherung sie bei einem Unfall auf der Autobahn absichert.",
+          "Das Rathaus von Ribadesella schlägt vor, auf Höhe von El Alisal einen Übergang für landwirtschaftliche Fahrzeuge direkt über den Sella einzurichten — als handlichere Lösung für die Dauer der Bauarbeiten."
+        ],
+        "cifra": {
+          "numero": "17",
+          "unidad": "zusätzliche Kilometer pro Fahrt",
+          "glosa": "Das ist der Umweg, den die Nutzung der A-8 anstelle der gesperrten Brücke erzwingt. Die Berufstätigen schätzen, dass dieser Umweg jedes Mal mehr als 20 Euro an Kraftstoffkosten verursacht, wenn sie mit einem landwirtschaftlichen Fahrzeug den Sella überqueren müssen."
+        },
+        "palabra": {
+          "termino": "pleamar",
+          "como": "pleamar, wie im Spanischen, aber hier hat das Wort großes Gewicht",
+          "definicion": "Der Moment, in dem die Flut ihren höchsten Stand erreicht. An der Mündung des Sella bestimmt dies, wann der Fluss überquert werden kann: Der bei El Alisal vorgeschlagene Übergang wäre nur außerhalb der pleamar und ohne Hochwasser nutzbar."
+        },
+        "porQue": "Wer auf dem Land oder in Berufen arbeitet, die landwirtschaftliche Maschinen auf beiden Seiten des Sella erfordern, hat seit Wochen mit gestörten Abläufen zu kämpfen — und die vorläufige Lösung scheint das Problem kurzfristig nicht zu beheben.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la a 8 mientras duren las obras del",
+      "a 8 mientras duren las obras del puente",
+      "8 mientras duren las obras del puente de",
+      "mientras duren las obras del puente de ribadesella",
+      "que sus seguros no cubririan los danos en",
+      "sus seguros no cubririan los danos en caso",
+      "seguros no cubririan los danos en caso de",
+      "no cubririan los danos en caso de accidente",
+      "dejar los tractores en la zona de la",
+      "los tractores en la zona de la playa",
+      "tractores en la zona de la playa hasta",
+      "en la zona de la playa hasta el",
+      "la zona de la playa hasta el jueves"
+    ]
+  },
+  {
+    "id": "concurso-de-iluminacion-y-decoracion-navidena",
+    "url": "/nava/concurso-de-iluminacion-y-decoracion-navidena/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "Nava estrena concurso de decoración navideña",
+    "entradilla": "El concejo pone en marcha su primera edición y abre ya el plazo para apuntarse.",
+    "cuerpo": [
+      "El Ayuntamiento de Nava ha aprobado las bases de un nuevo concurso de iluminación y decoración navideña, el primero que se celebra en el concejo. Quien quiera participar tiene diez días para presentar su solicitud desde que el anuncio aparezca publicado en el Boletín Oficial del Principado de Asturias.",
+      "El plazo arranca al día siguiente de esa publicación en el BOPA, así que conviene estar atentos para no quedarse fuera de la primera edición."
+    ],
+    "apunte": "Primera edición: el concejo estrena su concurso navideño antes de que llegue el frío de verdad.",
+    "enVeinte": [
+      "Nava convoca por primera vez un concurso de iluminación y decoración navideña.",
+      "El plazo para presentar solicitudes es de diez días a partir de la publicación en el BOPA.",
+      "Las bases ya están aprobadas y disponibles a través del anuncio oficial."
+    ],
+    "cifra": {
+      "numero": "10",
+      "unidad": "días",
+      "glosa": "Es el tiempo que tiene cualquier vecino o vecina de Nava para apuntarse al concurso desde que el anuncio salga en el BOPA. Ni uno más."
+    },
+    "palabra": {
+      "termino": "BOPA",
+      "como": "se dice letra por letra: B-O-P-A",
+      "definicion": "El Boletín Oficial del Principado de Asturias es el diario oficial donde la administración publica normas, convocatorias y anuncios con validez legal. Si algo aparece ahí, los plazos empiezan a contar desde ese día."
+    },
+    "porQue": "Si tienes pensado engalanar tu casa o negocio estas navidades, Nava premia el esfuerzo: vale la pena revisar las bases y no dejar pasar los diez días de plazo.",
+    "etiquetas": [
+      "Nava",
+      "Navidad",
+      "concurso",
+      "decoración"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-03T12:36:37.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Nava",
+      "url": "https://www.ayto-nava.es:443/web/ayto-nava/detalle-rss?p_p_id=56_INSTANCE_GToqljrIlzTL&p_p_lifecycle=0&refererPlid=271641&_56_INSTANCE_GToqljrIlzTL_groupId=118304&_56_INSTANCE_GToqljrIlzTL_articleId=20191955",
+      "titularOriginal": "Concurso de iluminación y decoración navideña",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava launches its first Christmas decoration contest",
+        "entradilla": "The municipality is running its first edition and applications are already open.",
+        "cuerpo": [
+          "The council of Nava has approved the rules for a new Christmas lighting and decoration contest — the first ever held in the municipality. Anyone wishing to take part has ten days to submit an application from the day the announcement is published in the Boletín Oficial del Principado de Asturias.",
+          "The deadline starts the day after that publication in the BOPA, so it is worth keeping an eye out to avoid missing the first edition."
+        ],
+        "apunte": "First edition: the municipality launches its Christmas contest before the real cold sets in.",
+        "enVeinte": [
+          "Nava is holding a Christmas lighting and decoration contest for the first time.",
+          "The deadline to submit applications is ten days from publication in the BOPA.",
+          "The rules are already approved and available through the official announcement."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "days",
+          "glosa": "That is how long any resident of Nava has to enter the contest from the day the announcement appears in the BOPA. Not one day more."
+        },
+        "palabra": {
+          "termino": "BOPA",
+          "como": "spelled out letter by letter: B-O-P-A",
+          "definicion": "The Boletín Oficial del Principado de Asturias is the official gazette where the regional administration publishes rules, calls for applications and announcements with legal force. Once something appears there, deadlines start running from that day."
+        },
+        "porQue": "If you are planning to decorate your home or business this Christmas, Nava rewards the effort: it is worth checking the rules and not letting the ten-day window slip by.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava lance son premier concours de décoration de Noël",
+        "entradilla": "La commune organise sa première édition et les inscriptions sont déjà ouvertes.",
+        "cuerpo": [
+          "La mairie de Nava a approuvé le règlement d'un nouveau concours d'illuminations et de décoration de Noël — le premier jamais organisé dans la commune. Quiconque souhaite participer dispose de dix jours pour déposer sa candidature à compter de la publication de l'annonce au Boletín Oficial del Principado de Asturias.",
+          "Le délai court à partir du lendemain de cette publication au BOPA : mieux vaut donc rester attentif pour ne pas manquer la première édition."
+        ],
+        "apunte": "Première édition : la commune lance son concours de Noël avant l'arrivée du grand froid.",
+        "enVeinte": [
+          "Nava organise pour la première fois un concours d'illuminations et de décoration de Noël.",
+          "Le délai pour déposer une candidature est de dix jours à partir de la publication au BOPA.",
+          "Le règlement est déjà approuvé et disponible via l'annonce officielle."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "jours",
+          "glosa": "C'est le temps dont dispose tout habitant de Nava pour s'inscrire au concours à partir du jour où l'annonce paraît au BOPA. Pas un de plus."
+        },
+        "palabra": {
+          "termino": "BOPA",
+          "como": "se prononce lettre par lettre : B-O-P-A",
+          "definicion": "Le Boletín Oficial del Principado de Asturias est le journal officiel où l'administration régionale publie règlements, appels à candidatures et annonces ayant valeur légale. Dès qu'un texte y paraît, les délais commencent à courir ce même jour."
+        },
+        "porQue": "Si vous envisagez de décorer votre maison ou votre commerce pour Noël, Nava récompense l'effort : cela vaut la peine de consulter le règlement et de ne pas laisser passer le délai de dix jours.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava startet seinen ersten Weihnachtsschmuck-Wettbewerb",
+        "entradilla": "Die Gemeinde richtet ihre erste Ausgabe aus und nimmt bereits Anmeldungen entgegen.",
+        "cuerpo": [
+          "Das Rathaus von Nava hat die Regeln für einen neuen Wettbewerb für Weihnachtsbeleuchtung und -dekoration genehmigt — den ersten, der je in der Gemeinde stattfindet. Wer teilnehmen möchte, hat zehn Tage Zeit, einen Antrag einzureichen, gerechnet ab dem Tag, an dem die Bekanntmachung im Boletín Oficial del Principado de Asturias veröffentlicht wird.",
+          "Die Frist beginnt am Tag nach dieser Veröffentlichung im BOPA — es lohnt sich also, aufmerksam zu bleiben, um die erste Ausgabe nicht zu verpassen."
+        ],
+        "apunte": "Erste Ausgabe: Die Gemeinde startet ihren Weihnachtswettbewerb, bevor der richtige Winter einsetzt.",
+        "enVeinte": [
+          "Nava veranstaltet zum ersten Mal einen Wettbewerb für Weihnachtsbeleuchtung und -dekoration.",
+          "Die Frist zur Einreichung von Anträgen beträgt zehn Tage ab der Veröffentlichung im BOPA.",
+          "Die Regeln sind bereits genehmigt und über die offizielle Bekanntmachung einsehbar."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "Tage",
+          "glosa": "So viel Zeit haben alle Einwohnerinnen und Einwohner von Nava, um sich für den Wettbewerb anzumelden, gerechnet ab dem Tag, an dem die Bekanntmachung im BOPA erscheint. Keinen einzigen mehr."
+        },
+        "palabra": {
+          "termino": "BOPA",
+          "como": "wird buchstabiert: B-O-P-A",
+          "definicion": "Das Boletín Oficial del Principado de Asturias ist das Amtsblatt, in dem die Regionalverwaltung Vorschriften, Ausschreibungen und Bekanntmachungen mit Rechtswirkung veröffentlicht. Sobald etwas dort erscheint, beginnen die Fristen ab diesem Tag zu laufen."
+        },
+        "porQue": "Wer vorhat, sein Zuhause oder Geschäft zu Weihnachten zu schmücken: Nava belohnt den Aufwand. Es lohnt sich, die Regeln zu lesen und die zehntägige Frist nicht verstreichen zu lassen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en el boletin oficial del principado de asturias"
+    ]
+  },
+  {
+    "id": "40-anos-al-ritmo-de-la-gaita-san-justo-rinde-homenaje-a-la-banda-de-ga",
+    "url": "/villaviciosa/40-anos-al-ritmo-de-la-gaita-san-justo-rinde-homenaje-a-la-banda-de-ga/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La Banda de Gaites cumple 40 años con homenaje",
+    "entradilla": "El magüestu de San Justo le entregará la Castaña de Azabache el 28 de noviembre.",
+    "cuerpo": [
+      "La Asociación de Vecinos de San Justo reconocerá cuatro décadas de música a la Banda de Gaites Villaviciosa-El Gaiteru con el galardón Castaña de Azabache en su tradicional magüestu.",
+      "La entrega está prevista para el 28 de noviembre."
+    ],
+    "apunte": "Cuarenta años tocando y el reconocimiento llega en forma de castaña, como tiene que ser.",
+    "enVeinte": [
+      "La Banda de Gaites Villaviciosa-El Gaiteru cumple 40 años y los vecinos de San Justo la premian en su magüestu.",
+      "El galardón que recibirá es la Castaña de Azabache, que entrega la Asociación de Vecinos.",
+      "El acto está fijado para el 28 de noviembre."
+    ],
+    "cifra": {
+      "numero": "40",
+      "unidad": "años",
+      "glosa": "Los que lleva en activo la Banda de Gaites Villaviciosa-El Gaiteru. Cuatro décadas manteniendo viva la gaita en el concejo de Villaviciosa."
+    },
+    "palabra": {
+      "termino": "magüestu",
+      "como": "ma-GÜES-tu",
+      "definicion": "Fiesta popular asturiana celebrada en otoño en torno a las castañas asadas. Es una de las reuniones de temporada más arraigadas en los concejos del interior y la costa de Asturias."
+    },
+    "porQue": "La banda lleva 40 años siendo parte del paisaje sonoro de Villaviciosa; el reconocimiento en el magüestu de San Justo es una ocasión para verla actuar y celebrarlo con ella.",
+    "etiquetas": [
+      "Villaviciosa",
+      "gaita",
+      "magüestu",
+      "cultura"
+    ],
+    "fechaEvento": "2026-11-28",
+    "tipoEvento": "fiesta",
+    "lugar": "San Justo",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/03/villaviciosa-gaitas-R5lzgOAi5Pd4zmwWeJ2ZPeN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-03T11:44:13.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/san-justo-homenaje-banda-gaitas-20261103104859-nt.html",
+      "titularOriginal": "40 años al ritmo de la gaita: San Justo rinde homenaje a la Banda de Gaites Villaviciosa-El Gaiteru en su magüestu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Banda de Gaites marks 40 years with a tribute",
+        "entradilla": "The magüestu (roasted chestnut festival) of San Justo will award it the Castaña de Azabache on 28 November.",
+        "cuerpo": [
+          "The Residents' Association of San Justo will honour four decades of music by the Banda de Gaites Villaviciosa-El Gaiteru with the Castaña de Azabache award at its traditional magüestu.",
+          "The ceremony is scheduled for 28 November."
+        ],
+        "apunte": "Forty years playing, and recognition arrives in the shape of a chestnut — as it should.",
+        "enVeinte": [
+          "The Banda de Gaites Villaviciosa-El Gaiteru turns 40, and the residents of San Justo honour it at their magüestu.",
+          "The award it will receive is the Castaña de Azabache, presented by the Residents' Association.",
+          "The event is set for 28 November."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "years",
+          "glosa": "The number of years the Banda de Gaites Villaviciosa-El Gaiteru has been active. Four decades keeping the gaita alive in the municipality of Villaviciosa."
+        },
+        "palabra": {
+          "termino": "magüestu",
+          "como": "ma-GÜES-tu",
+          "definicion": "A traditional Asturian autumn festival centred on roasted chestnuts. It is one of the most deep-rooted seasonal gatherings in the municipalities of inland and coastal Asturias."
+        },
+        "porQue": "The band has spent 40 years as part of the sound of Villaviciosa; the tribute at the magüestu of San Justo is a chance to see it perform and celebrate alongside it.",
+        "lugar": "San Justo",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Banda de Gaites fête ses 40 ans avec un hommage",
+        "entradilla": "Le magüestu (fête automnale des châtaignes grillées) de San Justo lui remettra la Castaña de Azabache le 28 novembre.",
+        "cuerpo": [
+          "L'Association de Voisins de San Justo célébrera quatre décennies de musique de la Banda de Gaites Villaviciosa-El Gaiteru en lui décernant le prix Castaña de Azabache lors de son traditionnel magüestu.",
+          "La remise du prix est prévue pour le 28 novembre."
+        ],
+        "apunte": "Quarante ans à jouer, et la reconnaissance arrive sous forme de châtaigne — comme il se doit.",
+        "enVeinte": [
+          "La Banda de Gaites Villaviciosa-El Gaiteru fête ses 40 ans et les habitants de San Justo la récompensent lors de leur magüestu.",
+          "Le prix qu'elle recevra est la Castaña de Azabache, remis par l'Association de Voisins.",
+          "La cérémonie est fixée au 28 novembre."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "ans",
+          "glosa": "Le nombre d'années d'activité de la Banda de Gaites Villaviciosa-El Gaiteru. Quatre décennies à maintenir vivante la gaita dans la commune de Villaviciosa."
+        },
+        "palabra": {
+          "termino": "magüestu",
+          "como": "ma-GÜES-tu",
+          "definicion": "Fête populaire asturienne célébrée en automne autour des châtaignes grillées. C'est l'un des rassemblements saisonniers les plus enracinés dans les communes de l'intérieur et du littoral des Asturies."
+        },
+        "porQue": "La banda fait partie du paysage sonore de Villaviciosa depuis 40 ans ; l'hommage lors du magüestu de San Justo est l'occasion de la voir jouer et de le fêter avec elle.",
+        "lugar": "San Justo",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Banda de Gaites feiert 40 Jahre mit einer Ehrung",
+        "entradilla": "Das magüestu (Herbstfest der gerösteten Kastanien) von San Justo verleiht ihr am 28. November die Castaña de Azabache.",
+        "cuerpo": [
+          "Der Anwohnerverein von San Justo würdigt vier Jahrzehnte Musik der Banda de Gaites Villaviciosa-El Gaiteru mit dem Preis Castaña de Azabache bei seinem traditionellen magüestu.",
+          "Die Verleihung ist für den 28. November geplant."
+        ],
+        "apunte": "Vierzig Jahre Musik, und die Anerkennung kommt in Form einer Kastanie — so soll es sein.",
+        "enVeinte": [
+          "La Banda de Gaites Villaviciosa-El Gaiteru wird 40 Jahre alt, und die Bewohner von San Justo ehren sie bei ihrem magüestu.",
+          "Der Preis, den sie erhält, ist die Castaña de Azabache, die vom Anwohnerverein verliehen wird.",
+          "Die Veranstaltung findet am 28. November statt."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "Jahre",
+          "glosa": "So viele Jahre ist la Banda de Gaites Villaviciosa-El Gaiteru bereits aktiv. Vier Jahrzehnte, in denen sie die Gaita in der Gemeinde Villaviciosa lebendig hält."
+        },
+        "palabra": {
+          "termino": "magüestu",
+          "como": "ma-GÜES-tu",
+          "definicion": "Asturisches Volksfest, das im Herbst rund um geröstete Kastanien gefeiert wird. Es gehört zu den verwurzeltsten saisonalen Zusammenkünften in den Gemeinden des Hinterlands und der Küste Asturiens."
+        },
+        "porQue": "Die Band ist seit 40 Jahren Teil der Klanglandschaft von Villaviciosa; die Ehrung beim magüestu von San Justo ist eine Gelegenheit, sie spielen zu sehen und gemeinsam zu feiern.",
+        "lugar": "San Justo",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "a la banda de gaites villaviciosa el gaiteru"
+    ]
+  },
+  {
     "id": "villaviciosa-cerro-2025-con-10-millones-en-caja-y-2-de-superavit-y-veg",
     "url": "/villaviciosa/villaviciosa-cerro-2025-con-10-millones-en-caja-y-2-de-superavit-y-veg/",
     "concejo": "Villaviciosa",
