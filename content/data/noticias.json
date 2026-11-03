@@ -1,5 +1,327 @@
 [
   {
+    "id": "villaviciosa-cerro-2025-con-10-millones-en-caja-y-2-de-superavit-y-veg",
+    "url": "/villaviciosa/villaviciosa-cerro-2025-con-10-millones-en-caja-y-2-de-superavit-y-veg/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa cerró 2025 con dos millones de superávit",
+    "entradilla": "El alcalde anuncia que publicará las cuentas completas para rebatir lo que llama falsedades del PP.",
+    "cuerpo": [
+      "El municipio de Villaviciosa terminó el año pasado con diez millones de euros en caja y un superávit de dos millones, según los datos que maneja el equipo de gobierno.",
+      "El alcalde Vega ha decidido colgar las cuentas municipales en abierto después de acusar al PP de difundir información falsa sobre cómo se ha gestionado el dinero público."
+    ],
+    "apunte": "Si publican todo, que publiquen todo: que nadie diga después que no pudo mirar.",
+    "enVeinte": [
+      "Villaviciosa acabó 2025 con diez millones en caja y dos de superávit.",
+      "El alcalde Vega acusa al PP de difundir falsedades sobre la gestión económica municipal.",
+      "Para zanjarlo, el ayuntamiento publicará las cuentas completas."
+    ],
+    "cifra": {
+      "numero": "2 000 000",
+      "unidad": "euros de superávit",
+      "glosa": "El ayuntamiento ingresó dos millones más de lo que gastó durante 2025. Eso significa que el municipio cerró el ejercicio sin déficit y con margen para afrontar el año siguiente sin tirar de deuda."
+    },
+    "palabra": null,
+    "porQue": "Si las cuentas se publican íntegras, cualquier vecino podrá comprobar en qué se gastó su dinero, sin depender de lo que diga uno u otro partido.",
+    "etiquetas": [
+      "Villaviciosa",
+      "cuentas municipales",
+      "superávit",
+      "PP"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/03/2026110310000261652.jpg",
+    "fecha": "2026-11-03T08:58:32.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-diez-millones-caja-21-superavit-vega-pasa-contraataque-pp/20261103095832105177.html",
+      "titularOriginal": "Villaviciosa cerró 2025 con 10 millones en caja y 2 de superávit, y Vega pasa al contraataque contra el PP"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa closed 2025 with a two-million surplus",
+        "entradilla": "The mayor announces he will publish the full accounts to refute what he calls lies spread by the PP.",
+        "cuerpo": [
+          "The municipality of Villaviciosa ended last year with ten million euros in the bank and a surplus of two million, according to the figures held by the governing team.",
+          "Mayor Vega has decided to publish the municipal accounts openly after accusing the PP of spreading false information about how public money has been managed."
+        ],
+        "apunte": "If they publish everything, let them publish everything — no one should be able to say afterwards that they had no chance to look.",
+        "enVeinte": [
+          "Villaviciosa ended 2025 with ten million in the bank and a two-million surplus.",
+          "Mayor Vega accuses the PP of spreading falsehoods about the municipality's financial management.",
+          "To settle the matter, the council will publish the full accounts."
+        ],
+        "cifra": {
+          "numero": "2 000 000",
+          "unidad": "euros surplus",
+          "glosa": "The council brought in two million more than it spent during 2025. That means the municipality closed the financial year without a deficit and with room to face the following year without taking on debt."
+        },
+        "palabra": null,
+        "porQue": "If the accounts are published in full, any resident will be able to check what their money was spent on, without having to rely on what one party or another says.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa a terminé 2025 avec un excédent de deux millions",
+        "entradilla": "Le maire annonce qu'il publiera les comptes complets pour réfuter ce qu'il appelle des mensonges du PP.",
+        "cuerpo": [
+          "La commune de Villaviciosa a terminé l'année dernière avec dix millions d'euros en caisse et un excédent de deux millions, selon les chiffres dont dispose l'équipe gouvernementale.",
+          "Le maire Vega a décidé de mettre les comptes municipaux en libre accès après avoir accusé le PP de diffuser de fausses informations sur la gestion des deniers publics."
+        ],
+        "apunte": "S'ils publient tout, qu'ils publient vraiment tout : que personne ne puisse dire ensuite qu'il n'a pas pu consulter les comptes.",
+        "enVeinte": [
+          "Villaviciosa a terminé 2025 avec dix millions en caisse et deux millions d'excédent.",
+          "Le maire Vega accuse le PP de diffuser des contre-vérités sur la gestion financière de la commune.",
+          "Pour clore le débat, la mairie publiera les comptes complets."
+        ],
+        "cifra": {
+          "numero": "2 000 000",
+          "unidad": "euros d'excédent",
+          "glosa": "La mairie a encaissé deux millions de plus qu'elle n'a dépensé au cours de 2025. Cela signifie que la commune a clôturé l'exercice sans déficit et avec une marge pour aborder l'année suivante sans recourir à l'endettement."
+        },
+        "palabra": null,
+        "porQue": "Si les comptes sont publiés dans leur intégralité, chaque habitant pourra vérifier à quoi son argent a été consacré, sans dépendre de ce que dit l'un ou l'autre parti.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schloss das Jahr 2025 mit einem Überschuss von zwei Millionen ab",
+        "entradilla": "Der Bürgermeister kündigt an, die vollständigen Haushaltszahlen zu veröffentlichen, um das zu widerlegen, was er als Lügen der PP bezeichnet.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa beendete das vergangene Jahr laut den Zahlen des Regierungsteams mit zehn Millionen Euro in der Kasse und einem Überschuss von zwei Millionen.",
+          "Bürgermeister Vega hat entschieden, die Gemeindehaushalte öffentlich zugänglich zu machen, nachdem er der PP vorgeworfen hatte, falsche Informationen über den Umgang mit öffentlichen Geldern zu verbreiten."
+        ],
+        "apunte": "Wenn sie alles veröffentlichen, sollen sie wirklich alles veröffentlichen — niemand soll hinterher sagen können, er habe keine Möglichkeit gehabt, nachzuschauen.",
+        "enVeinte": [
+          "Villaviciosa beendete das Jahr 2025 mit zehn Millionen in der Kasse und einem Überschuss von zwei Millionen.",
+          "Bürgermeister Vega wirft der PP vor, Unwahrheiten über die kommunale Finanzverwaltung zu verbreiten.",
+          "Um die Sache zu klären, wird das Rathaus die vollständigen Haushaltszahlen veröffentlichen."
+        ],
+        "cifra": {
+          "numero": "2 000 000",
+          "unidad": "Euro Haushaltsüberschuss",
+          "glosa": "Das Rathaus nahm 2025 zwei Millionen mehr ein, als es ausgab. Das bedeutet, dass die Gemeinde das Haushaltsjahr ohne Defizit abschloss und mit einem Spielraum, um das folgende Jahr ohne neue Schulden zu bewältigen."
+        },
+        "palabra": null,
+        "porQue": "Wenn die Haushaltsunterlagen vollständig veröffentlicht werden, kann jeder Einwohner selbst nachprüfen, wofür sein Geld ausgegeben wurde — ohne darauf angewiesen zu sein, was die eine oder andere Partei behauptet.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "mujeres-que-ponen-nombre-a-la-sidra-casera",
+    "url": "/pilona/mujeres-que-ponen-nombre-a-la-sidra-casera/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Mujeres del llagar, en lo alto del podio",
+    "entradilla": "Delfina Llera gana en Colunga y dos piloñesas suben al podio en Ribeseya, poniendo cara a un trabajo que rara vez sale a la luz.",
+    "cuerpo": [
+      "Delfina Llera Collado se llevó la novena edición del Concurso de Sidra Casera de Colunga, organizado por la Comisión de Fiestes de Güerres. Las pruebas fueron el 18 y 19 de septiembre en la Plaza del Monumento. El primer premio incluía trofeo, diploma y una barrica de castaño de cien litros. José Baldó y Emilio Llera completaron el podio. Los tres pasan a representar el concejo en los Premios Mundo Collada.",
+      "En Ribeseya, la Folixa la Sidre reunió 52 sidras caseras en su décima edición. Cristina Álvarez, de Coya, quedó segunda en la general por detrás de Marcos Rodríguez, de Salas. En la clasificación del concejo, Haydee Prieto, de Tezangos, alcanzó el segundo puesto tras un desempate con Sebi González, que se presentó como «Pepe Luis» en homenaje a su suegro.",
+      "Estos resultados dan nombre propio a elaboradoras que trabajan en llagares familiares sin apenas presencia fuera de su entorno. Reconocerlas es también recuperar memoria: quién mayaba, qué herramientas usaba, qué papel tenían las mujeres en la cultura sidrera. Una pregunta que vale la pena hacerse."
+    ],
+    "apunte": "52 sidras en liza y dos piloñesas subiendo al podio: no está mal para un trabajo que casi nadie ve.",
+    "enVeinte": [
+      "Delfina Llera Collado ganó el concurso de sidra casera de Colunga y se lleva una barrica de castaño de cien litros.",
+      "Cristina Álvarez, de Coya, y Haydee Prieto, de Tezangos, subieron al podio en la Folixa la Sidre de Ribeseya.",
+      "Los tres primeros de Colunga representarán al concejo en los Premios Mundo Collada, una red de certámenes de toda Asturies."
+    ],
+    "cifra": {
+      "numero": "52",
+      "unidad": "sidras caseras",
+      "glosa": "Las 52 elaboraciones presentadas en Ribeseya dan idea de cuánta actividad hay en los llagares familiares que nunca llegan a la tienda. Es la décima edición del concurso, lo que indica que la cita ya tiene raíces."
+    },
+    "palabra": {
+      "termino": "llagar",
+      "como": "llagar (la ll suena como en Llanes, no como elle castellana)",
+      "definicion": "Lugar donde se elabora la sidra, desde el mayado de la manzana hasta el embotellado. En Asturies puede ser un espacio profesional o el rincón de una casa de aldea donde la familia lleva haciendo sidra desde siempre."
+    },
+    "porQue": "Para quien vive en Piloña, ver nombres propios del concejo en los podios de Colunga y Ribeseya es un recordatorio de que la cultura sidrera no es solo cosa de grandes llagares: vive también en los praus y las casas de al lado.",
+    "etiquetas": [
+      "sidra casera",
+      "llagares",
+      "Piloña",
+      "mujeres"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-03T04:00:26.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/mujeres-sidra-casera-delfina-cristina-haydee/",
+      "titularOriginal": "Mujeres que ponen nombre a la sidra casera"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "la novena edicion del concurso de sidra casera",
+      "novena edicion del concurso de sidra casera de",
+      "edicion del concurso de sidra casera de colunga",
+      "del concurso de sidra casera de colunga organizado",
+      "concurso de sidra casera de colunga organizado por",
+      "de sidra casera de colunga organizado por la",
+      "sidra casera de colunga organizado por la comision",
+      "casera de colunga organizado por la comision de",
+      "de colunga organizado por la comision de fiestes",
+      "colunga organizado por la comision de fiestes de",
+      "organizado por la comision de fiestes de guerres",
+      "por la comision de fiestes de guerres las",
+      "el 18 y 19 de septiembre en la",
+      "18 y 19 de septiembre en la plaza",
+      "y 19 de septiembre en la plaza del",
+      "19 de septiembre en la plaza del monumento",
+      "de septiembre en la plaza del monumento el",
+      "septiembre en la plaza del monumento el primer",
+      "en la plaza del monumento el primer premio",
+      "trofeo diploma y una barrica de castano de",
+      "diploma y una barrica de castano de cien",
+      "y una barrica de castano de cien litros",
+      "una barrica de castano de cien litros jose",
+      "barrica de castano de cien litros jose baldo",
+      "general por detras de marcos rodriguez de salas",
+      "sebi gonzalez que se presento como pepe luis",
+      "gonzalez que se presento como pepe luis en",
+      "que se presento como pepe luis en homenaje",
+      "se presento como pepe luis en homenaje a",
+      "presento como pepe luis en homenaje a su",
+      "como pepe luis en homenaje a su suegro"
+    ]
+  },
+  {
+    "id": "villaviciosa-presenta-unas-cuentas-saneadas-con-mas-de-10-millones-de-",
+    "url": "/villaviciosa/villaviciosa-presenta-unas-cuentas-saneadas-con-mas-de-10-millones-de-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa cierra 2025 con más de 10 millones en caja",
+    "entradilla": "Las cuentas del año pasado arrojan también un superávit de más de dos millones de euros.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha cerrado el ejercicio 2025 con las arcas en positivo: más de diez millones de euros en efectivo y un superávit que supera los dos millones.",
+      "La Cuenta General tendrá que pasar por el trámite de aprobación correspondiente, aunque el material disponible no detalla fechas ni plazos concretos."
+    ],
+    "apunte": "Diez millones en caja y dos de superávit: no es lo habitual en un ayuntamiento asturiano.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa termina 2025 con más de diez millones de euros en efectivo.",
+      "Las cuentas reflejan además un superávit superior a los dos millones de euros.",
+      "La Cuenta General deberá ser aprobada en el trámite oficial correspondiente."
+    ],
+    "cifra": {
+      "numero": "+10 millones",
+      "unidad": "euros en caja",
+      "glosa": "Es el dinero disponible que el Ayuntamiento de Villaviciosa tiene en efectivo al cierre del ejercicio 2025. A eso se le suma un superávit de más de dos millones, lo que indica que el municipio ingresó más de lo que gastó durante el año."
+    },
+    "palabra": null,
+    "porQue": "Unas cuentas saneadas dejan al Ayuntamiento con margen real para invertir o afrontar imprevistos sin endeudarse, algo que acaba notándose en los servicios del día a día.",
+    "etiquetas": [
+      "Villaviciosa",
+      "presupuesto",
+      "cuentas municipales",
+      "superávit"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-presenta-unas-cuentas-saneadas-con-ma-f1194e36.jpg",
+    "fecha": "2026-11-02T21:23:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-presenta-unas-cuentas-saneadas-con-mas-de-10-millones-de-euros-en-sus-cuentas-municipales-11276959.html",
+      "titularOriginal": "Villaviciosa presenta unas cuentas saneadas con más de 10 millones de euros en sus cuentas municipales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa closes 2025 with over 10 million in the bank",
+        "entradilla": "Last year's accounts also show a surplus of more than two million euros.",
+        "cuerpo": [
+          "The council of Villaviciosa has ended the 2025 financial year in the black: more than ten million euros in cash and a surplus exceeding two million.",
+          "The General Accounts will need to go through the corresponding approval process, although the available material gives no specific dates or deadlines."
+        ],
+        "apunte": "Ten million in the bank and two million surplus: that is not the norm for an Asturian council.",
+        "enVeinte": [
+          "The council of Villaviciosa ends 2025 with more than ten million euros in cash.",
+          "The accounts also show a surplus of over two million euros.",
+          "The General Accounts must be approved through the corresponding official process."
+        ],
+        "cifra": {
+          "numero": "+10 million",
+          "unidad": "euros in cash",
+          "glosa": "This is the cash available to the Villaviciosa council at the close of the 2025 financial year. On top of that comes a surplus of more than two million euros, which means the municipality brought in more than it spent during the year."
+        },
+        "palabra": null,
+        "porQue": "Healthy accounts give the council real room to invest or deal with unexpected costs without taking on debt — something that eventually shows up in everyday services.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa clôture 2025 avec plus de 10 millions en caisse",
+        "entradilla": "Les comptes de l'année passée affichent également un excédent de plus de deux millions d'euros.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a clôturé l'exercice 2025 dans le vert : plus de dix millions d'euros en liquidités et un excédent dépassant les deux millions.",
+          "Le Compte général devra suivre la procédure d'approbation correspondante, bien que les documents disponibles ne précisent ni dates ni délais."
+        ],
+        "apunte": "Dix millions en caisse et deux millions d'excédent : ce n'est pas courant pour une mairie asturienne.",
+        "enVeinte": [
+          "La mairie de Villaviciosa termine 2025 avec plus de dix millions d'euros en liquidités.",
+          "Les comptes font également apparaître un excédent supérieur à deux millions d'euros.",
+          "Le Compte général devra être approuvé dans le cadre de la procédure officielle correspondante."
+        ],
+        "cifra": {
+          "numero": "+10 millions",
+          "unidad": "euros en caisse",
+          "glosa": "C'est le montant disponible en liquidités pour la mairie de Villaviciosa à la clôture de l'exercice 2025. À cela s'ajoute un excédent de plus de deux millions d'euros, ce qui indique que la commune a encaissé davantage qu'elle n'a dépensé au cours de l'année."
+        },
+        "palabra": null,
+        "porQue": "Des comptes assainis laissent à la mairie une vraie marge pour investir ou faire face à des imprévus sans s'endetter — ce qui finit par se ressentir dans les services du quotidien.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schließt 2025 mit mehr als 10 Millionen in der Kasse",
+        "entradilla": "Die Jahresrechnung weist zudem einen Überschuss von mehr als zwei Millionen Euro aus.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat das Haushaltsjahr 2025 im Plus abgeschlossen: mehr als zehn Millionen Euro in bar und ein Überschuss von über zwei Millionen.",
+          "Der Gesamtabschluss muss noch das entsprechende Genehmigungsverfahren durchlaufen, wobei das vorliegende Material weder konkrete Termine noch Fristen nennt."
+        ],
+        "apunte": "Zehn Millionen in der Kasse und zwei Millionen Überschuss: Das ist für ein asturisches Rathaus keine Selbstverständlichkeit.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa beendet 2025 mit mehr als zehn Millionen Euro in bar.",
+          "Die Jahresrechnung weist zudem einen Überschuss von über zwei Millionen Euro aus.",
+          "Der Gesamtabschluss muss im Rahmen des offiziellen Verfahrens genehmigt werden."
+        ],
+        "cifra": {
+          "numero": "+10 Millionen",
+          "unidad": "Euro in der Kasse",
+          "glosa": "Das ist der Barbetrag, der dem Rathaus von Villaviciosa beim Abschluss des Haushaltsjahres 2025 zur Verfügung steht. Hinzu kommt ein Überschuss von mehr als zwei Millionen Euro, was zeigt, dass die Gemeinde im Laufe des Jahres mehr eingenommen als ausgegeben hat."
+        },
+        "palabra": null,
+        "porQue": "Solide Finanzen geben dem Rathaus echten Spielraum, um zu investieren oder unvorhergesehene Kosten zu decken, ohne Schulden aufzunehmen — was sich letztlich in den alltäglichen Dienstleistungen bemerkbar macht.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "millones de euros en efectivo y un superavit"
+    ]
+  },
+  {
     "id": "villaviciosa-se-defiende-un-retraso-en-el-envio-de-las-cuentas-a-la-si",
     "url": "/villaviciosa/villaviciosa-se-defiende-un-retraso-en-el-envio-de-las-cuentas-a-la-si/",
     "concejo": "Villaviciosa",
