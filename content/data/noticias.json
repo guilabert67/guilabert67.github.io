@@ -1,5 +1,732 @@
 [
   {
+    "id": "charla-divulgativa-sobre-la-eutanasia-en-villaviciosa-de-la-mano-de-as",
+    "url": "/villaviciosa/charla-divulgativa-sobre-la-eutanasia-en-villaviciosa-de-la-mano-de-as/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa debate sobre eutanasia con Asun Gómez Bueno",
+    "entradilla": "La periodista, que vivió el proceso en primera persona antes de que la ley existiera, protagonizó una charla divulgativa acompañada de la proyección de un documental.",
+    "cuerpo": [
+      "Asun Gómez Bueno participó en una charla sobre eutanasia celebrada en Villaviciosa. La periodista tiene un vínculo personal con el tema: su marido murió antes de que este derecho fuera reconocido en España, hace ahora cinco años.",
+      "Gómez señaló que se ha avanzado desde que se aprobó la ley, pero advirtió que el acceso a esta prestación sigue siendo desigual según la comunidad autónoma. También reclamó que las comisiones que evalúan las solicitudes tomen sus decisiones sin interferencias políticas.",
+      "La periodista subrayó que queda trabajo por hacer en el plano social: hablar de la muerte con normalidad y respetar decisiones difíciles que no siempre resultan fáciles de entender desde fuera. Su deseo es que en cinco años este derecho esté plenamente normalizado."
+    ],
+    "apunte": "Cinco años de ley y aún hay más camino que asfalto por delante.",
+    "enVeinte": [],
+    "cifra": {
+      "numero": "5",
+      "unidad": "años",
+      "glosa": "Hace cinco años España aprobó la ley que regula la eutanasia, convirtiéndose en uno de los pocos países del mundo en reconocerla como derecho. Desde entonces el debate ha pasado del Parlamento a la consulta médica y, ahora, a charlas como esta en Villaviciosa."
+    },
+    "palabra": null,
+    "porQue": "Conocer cómo funciona realmente este derecho, y dónde flaquea, ayuda a cualquier vecino que algún día tenga que acompañar a alguien en una decisión de este peso.",
+    "etiquetas": [
+      "eutanasia",
+      "Villaviciosa",
+      "Asun Gómez Bueno",
+      "derechos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "cine",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/11//20261104171133_RTPA8808577.webp",
+    "fecha": "2026-11-04T17:19:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-11-04/Charla-divulgativa-sobre-la-eutanasia-en-Villaviciosa-de-la-mano-de-Asun-Gomez-Bueno_111793812742.html",
+      "titularOriginal": "Charla divulgativa sobre la eutanasia en Villaviciosa de la mano de Asun Gómez Bueno"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa debates euthanasia with Asun Gómez Bueno",
+        "entradilla": "The journalist, who lived through the process in person before the law existed, led a public talk accompanied by the screening of a documentary.",
+        "cuerpo": [
+          "Asun Gómez Bueno took part in a talk on euthanasia held in Villaviciosa. The journalist has a personal connection to the subject: her husband died before this right was recognised in Spain, now five years ago.",
+          "Gómez noted that progress has been made since the law was passed, but warned that access to this provision remains unequal depending on the autonomous community. She also called for the committees that assess applications to make their decisions free from political interference.",
+          "The journalist stressed that there is still work to be done on the social front: talking about death as a normal subject and respecting difficult decisions that are not always easy to understand from the outside. Her wish is that in five years this right will be fully normalised."
+        ],
+        "apunte": "Five years of law, and there is still more road ahead than tarmac.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "5",
+          "unidad": "years",
+          "glosa": "Five years ago Spain passed the law regulating euthanasia, becoming one of the few countries in the world to recognise it as a right. Since then the debate has moved from Parliament to the doctor's surgery and, now, to talks like this one in Villaviciosa."
+        },
+        "palabra": null,
+        "porQue": "Understanding how this right really works in practice, and where it falls short, helps any resident who one day has to support someone through a decision of this weight.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa débat de l'euthanasie avec Asun Gómez Bueno",
+        "entradilla": "La journaliste, qui a vécu ce processus en première personne avant que la loi n'existe, a animé une conférence grand public accompagnée de la projection d'un documentaire.",
+        "cuerpo": [
+          "Asun Gómez Bueno a participé à une conférence sur l'euthanasie organisée à Villaviciosa. La journaliste entretient un lien personnel avec le sujet : son mari est mort avant que ce droit ne soit reconnu en Espagne, il y a maintenant cinq ans.",
+          "Gómez a souligné que des progrès ont été accomplis depuis l'adoption de la loi, mais elle a averti que l'accès à cette prestation reste inégal selon la communauté autonome. Elle a également demandé que les commissions qui évaluent les demandes prennent leurs décisions sans interférences politiques.",
+          "La journaliste a insisté sur le fait qu'il reste du travail à faire sur le plan social : parler de la mort normalement et respecter des décisions difficiles qui ne sont pas toujours faciles à comprendre de l'extérieur. Son souhait est que dans cinq ans ce droit soit pleinement normalisé."
+        ],
+        "apunte": "Cinq ans de loi, et il reste encore plus de chemin que de bitume devant nous.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "5",
+          "unidad": "ans",
+          "glosa": "Il y a cinq ans, l'Espagne a adopté la loi encadrant l'euthanasie, devenant l'un des rares pays au monde à la reconnaître comme un droit. Depuis lors, le débat est passé du Parlement au cabinet médical et, maintenant, à des conférences comme celle-ci à Villaviciosa."
+        },
+        "palabra": null,
+        "porQue": "Comprendre comment ce droit fonctionne réellement, et là où il fait défaut, aide tout habitant qui devra un jour accompagner quelqu'un dans une décision d'une telle portée.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa diskutiert über Sterbehilfe mit Asun Gómez Bueno",
+        "entradilla": "Die Journalistin, die den Prozess persönlich erlebt hat, bevor es das Gesetz gab, stand im Mittelpunkt eines öffentlichen Gesprächs, das von der Vorführung eines Dokumentarfilms begleitet wurde.",
+        "cuerpo": [
+          "Asun Gómez Bueno nahm an einem Gespräch über Sterbehilfe teil, das in Villaviciosa stattfand. Die Journalistin hat eine persönliche Verbindung zum Thema: Ihr Mann starb, bevor dieses Recht in Spanien anerkannt wurde, vor nun fünf Jahren.",
+          "Gómez stellte fest, dass seit der Verabschiedung des Gesetzes Fortschritte erzielt wurden, warnte jedoch, dass der Zugang zu dieser Leistung je nach autonomer Gemeinschaft nach wie vor ungleich ist. Sie forderte außerdem, dass die Kommissionen, die Anträge prüfen, ihre Entscheidungen ohne politische Einflussnahme treffen.",
+          "Die Journalistin betonte, dass auf gesellschaftlicher Ebene noch Arbeit zu leisten sei: offen über den Tod zu sprechen und schwierige Entscheidungen zu respektieren, die von außen nicht immer leicht zu verstehen sind. Ihr Wunsch ist, dass dieses Recht in fünf Jahren vollständig zur Normalität geworden ist."
+        ],
+        "apunte": "Fünf Jahre Gesetz – und der Weg davor ist noch länger als der bereits gepflasterte.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "5",
+          "unidad": "Jahre",
+          "glosa": "Vor fünf Jahren verabschiedete Spanien das Gesetz zur Regelung der Sterbehilfe und wurde damit zu einem der wenigen Länder der Welt, das sie als Recht anerkennt. Seitdem hat sich die Debatte vom Parlament in die Arztpraxis verlagert und findet nun auch in Gesprächen wie diesem in Villaviciosa statt."
+        },
+        "palabra": null,
+        "porQue": "Zu verstehen, wie dieses Recht in der Praxis wirklich funktioniert – und wo es versagt –, hilft jedem Bewohner, der eines Tages jemanden bei einer Entscheidung von solcher Tragweite begleiten muss.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "las-obras-del-primer-centro-de-dia-de-villaviciosa-ya-tienen-empresa",
+    "url": "/villaviciosa/las-obras-del-primer-centro-de-dia-de-villaviciosa-ya-tienen-empresa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Grupo Conde construirá el centro de día de Villaviciosa",
+    "entradilla": "El alcalde confirma que ya hay empresa elegida para levantar las instalaciones en la residencia del Portal.",
+    "cuerpo": [
+      "Villaviciosa tendrá por fin su primer centro de día. El alcalde ha anunciado que Grupo Conde es la empresa seleccionada para ejecutar las obras, que se ubicarán en la residencia del Portal.",
+      "El concejo no contaba hasta ahora con este tipo de instalación, pensada para atender a personas mayores durante el día sin necesidad de internamiento."
+    ],
+    "apunte": "Primer centro de día para un concejo que llevaba tiempo sin él.",
+    "enVeinte": [
+      "El alcalde de Villaviciosa ha anunciado que Grupo Conde construirá el primer centro de día del concejo.",
+      "Las instalaciones se levantarán en la residencia del Portal.",
+      "Es la primera vez que Villaviciosa dispondrá de este servicio de atención diurna para mayores."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un centro de día permite a las familias cuidar a sus mayores sin internarlos: una opción que hasta ahora no existía en el concejo y que muchos vecinos llevan años reclamando.",
+    "etiquetas": [
+      "Villaviciosa",
+      "centro de día",
+      "obras",
+      "servicios sociales"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "residencia del Portal, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/04/villaviciosa-RV6anjXMYwgoeRqHXJCtXaN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-04T16:42:42.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/obras-primer-centro-dia-villaviciosa-grupo-conde-20261104173826-nt.html",
+      "titularOriginal": "Las obras del primer centro de día de Villaviciosa ya tienen empresa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Grupo Conde will build Villaviciosa's day centre",
+        "entradilla": "The mayor confirms that a company has already been chosen to build the facilities at the Portal care home.",
+        "cuerpo": [
+          "Villaviciosa will finally have its first day centre. The mayor has announced that Grupo Conde is the company selected to carry out the works, which will be located at the Portal care home.",
+          "The municipality had until now lacked this type of facility, designed to care for elderly people during the day without the need for residential admission."
+        ],
+        "apunte": "The first day centre for a municipality that had long gone without one.",
+        "enVeinte": [
+          "The mayor of Villaviciosa has announced that Grupo Conde will build the municipality's first day centre.",
+          "The facilities will be built at the Portal care home.",
+          "It is the first time Villaviciosa will have this daytime care service for older people."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A day centre allows families to care for their elderly relatives without placing them in full-time residential care — an option that until now did not exist in the municipality and that many residents have been calling for over the years.",
+        "lugar": "Portal care home, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Grupo Conde construira le centre de jour de Villaviciosa",
+        "entradilla": "Le maire confirme qu'une entreprise a déjà été choisie pour ériger les installations dans la résidence du Portal.",
+        "cuerpo": [
+          "Villaviciosa aura enfin son premier centre de jour. Le maire a annoncé que Grupo Conde est l'entreprise sélectionnée pour réaliser les travaux, qui seront situés dans la résidence du Portal.",
+          "La commune ne disposait jusqu'à présent d'aucune installation de ce type, destinée à accueillir les personnes âgées en journée sans nécessiter d'hébergement."
+        ],
+        "apunte": "Premier centre de jour pour une commune qui en était privée depuis longtemps.",
+        "enVeinte": [
+          "Le maire de Villaviciosa a annoncé que Grupo Conde construira le premier centre de jour de la commune.",
+          "Les installations seront érigées dans la résidence du Portal.",
+          "C'est la première fois que Villaviciosa disposera de ce service d'accueil de jour pour les personnes âgées."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un centre de jour permet aux familles de prendre soin de leurs aînés sans les placer en établissement : une option qui n'existait pas jusqu'ici dans la commune et que de nombreux habitants réclament depuis des années.",
+        "lugar": "résidence du Portal, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Grupo Conde baut das Tageszentrum von Villaviciosa",
+        "entradilla": "Der Bürgermeister bestätigt, dass bereits ein Unternehmen für den Bau der Einrichtung in der Residenz Portal ausgewählt wurde.",
+        "cuerpo": [
+          "Villaviciosa bekommt endlich sein erstes Tageszentrum. Der Bürgermeister hat bekanntgegeben, dass Grupo Conde das für die Bauarbeiten ausgewählte Unternehmen ist. Die Einrichtung entsteht in der Residenz Portal.",
+          "Der Gemeinde fehlte bislang eine solche Anlage, die älteren Menschen tagsüber Betreuung bietet, ohne dass ein stationärer Aufenthalt erforderlich ist."
+        ],
+        "apunte": "Erstes Tageszentrum für eine Gemeinde, die lange ohne eine solche Einrichtung auskommen musste.",
+        "enVeinte": [
+          "Der Bürgermeister von Villaviciosa hat bekanntgegeben, dass Grupo Conde das erste Tageszentrum der Gemeinde bauen wird.",
+          "Die Einrichtung entsteht in der Residenz Portal.",
+          "Es ist das erste Mal, dass Villaviciosa über diesen Tagesbetreuungsdienst für ältere Menschen verfügen wird."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein Tageszentrum ermöglicht es Familien, ihre älteren Angehörigen zu betreuen, ohne sie in eine stationäre Einrichtung zu geben — eine Möglichkeit, die in der Gemeinde bisher nicht existierte und die viele Einwohner seit Jahren fordern.",
+        "lugar": "Residenz Portal, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "cuenta-general-2025",
+    "url": "/villaviciosa/cuenta-general-2025/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre las cuentas de 2025 al público",
+    "entradilla": "Los vecinos tienen quince días para consultar y, si lo consideran, presentar alegaciones.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto a disposición pública la Cuenta General del ejercicio 2025. El anuncio se publicó el 3 de noviembre en el BOPA, lo que arranca el plazo oficial de quince días para consultarla y, en su caso, presentar alegaciones.",
+      "La cuenta pasó antes por la Comisión de Hacienda, donde obtuvo seis votos a favor del grupo socialista y cinco abstenciones: cuatro del PP y una de la concejal no adscrita. No hubo ningún voto en contra.",
+      "Una vez cerrado el plazo de información pública, el documento irá al Pleno para resolver las alegaciones que lleguen y aprobarlo definitivamente, antes de remitirlo a la Sindicatura de Cuentas del Principado de Asturias."
+    ],
+    "apunte": "Quince días para leer las cuentas, que ya es más de lo que suele hacer casi nadie.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ha hecho públicas sus cuentas de 2025 tras publicar el anuncio en el BOPA el 3 de noviembre.",
+      "Los vecinos disponen de quince días para consultarlas y presentar alegaciones si lo consideran oportuno.",
+      "Después, el Pleno las aprobará definitivamente y las enviará a la Sindicatura de Cuentas del Principado."
+    ],
+    "cifra": {
+      "numero": "15",
+      "unidad": "días",
+      "glosa": "Es el plazo legal que tiene cualquier vecino para revisar la Cuenta General y presentar alegaciones una vez publicado el anuncio en el BOPA. El cómputo arrancó el 3 de noviembre de 2026."
+    },
+    "palabra": {
+      "termino": "Sindicatura de Cuentas",
+      "como": "Sindicatura de Cuentas del Principado de Asturias",
+      "definicion": "Es el órgano fiscalizador externo de la actividad económica y financiera del sector público asturiano, equivalente al Tribunal de Cuentas pero de ámbito autonómico. Recibe y audita las cuentas de todos los ayuntamientos de Asturias una vez aprobadas por sus respectivos plenos."
+    },
+    "porQue": "Cualquier vecino de Villaviciosa puede revisar cómo se han gestionado los fondos municipales en 2025 y, si detecta algo que no cuadra, tiene quince días para decirlo por escrito antes de que el Pleno las apruebe en firme.",
+    "etiquetas": [
+      "Villaviciosa",
+      "cuentas municipales",
+      "Ayuntamiento",
+      "BOPA"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-04T14:52:04.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20199103",
+      "titularOriginal": "CUENTA GENERAL 2025",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens its 2025 accounts to the public",
+        "entradilla": "Residents have fifteen days to review them and, if they see fit, submit objections.",
+        "cuerpo": [
+          "The council of Villaviciosa has made the General Account for the 2025 financial year publicly available. The notice was published on 3 November in the BOPA, which starts the official fifteen-day period to review it and, if applicable, submit objections.",
+          "The account had previously gone through the Finance Committee, where it received six votes in favour from the socialist group and five abstentions: four from the PP and one from the non-attached councillor. There were no votes against.",
+          "Once the public information period closes, the document will go to the Full Council to resolve any objections received and give it final approval, before sending it to the Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Fifteen days to read the accounts — which is already more than almost anyone usually does.",
+        "enVeinte": [
+          "The council of Villaviciosa has made its 2025 accounts public after publishing the notice in the BOPA on 3 November.",
+          "Residents have fifteen days to review them and submit objections if they see fit.",
+          "After that, the Full Council will give them final approval and send them to the Sindicatura de Cuentas del Principado."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "days",
+          "glosa": "This is the legal period any resident has to review the General Account and submit objections once the notice has been published in the BOPA. The count began on 3 November 2026."
+        },
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sindicatura de Cuentas del Principado de Asturias",
+          "definicion": "The external audit body for the economic and financial activity of the Asturian public sector, equivalent to the national Court of Auditors but at regional level. It receives and audits the accounts of all municipalities in Asturias once these have been approved by their respective full councils."
+        },
+        "porQue": "Any resident of Villaviciosa can review how municipal funds were managed in 2025 and, if they spot something that does not add up, they have fifteen days to say so in writing before the Full Council gives the accounts its final approval.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre ses comptes 2025 au public",
+        "entradilla": "Les habitants ont quinze jours pour les consulter et, s'ils le jugent utile, déposer des observations.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a mis à disposition du public le Compte général de l'exercice 2025. L'avis a été publié le 3 novembre au BOPA, ce qui ouvre le délai officiel de quinze jours pour le consulter et, le cas échéant, déposer des observations.",
+          "Le compte est d'abord passé par la Commission des finances, où il a obtenu six voix pour du groupe socialiste et cinq abstentions : quatre du PP et une de la conseillère municipale non inscrite. Il n'y a eu aucun vote contre.",
+          "Une fois le délai d'information publique écoulé, le document sera soumis au Conseil municipal pour régler les observations reçues et l'approuver définitivement, avant de le transmettre à la Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Quinze jours pour lire les comptes — ce qui est déjà plus que ce que fait presque tout le monde.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a rendu publics ses comptes 2025 après avoir publié l'avis au BOPA le 3 novembre.",
+          "Les habitants disposent de quinze jours pour les consulter et déposer des observations s'ils le jugent utile.",
+          "Ensuite, le Conseil municipal les approuvera définitivement et les transmettra à la Sindicatura de Cuentas del Principado."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "jours",
+          "glosa": "C'est le délai légal dont dispose tout habitant pour examiner le Compte général et déposer des observations une fois l'avis publié au BOPA. Le décompte a commencé le 3 novembre 2026."
+        },
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sindicatura de Cuentas del Principado de Asturias",
+          "definicion": "L'organe de contrôle externe de l'activité économique et financière du secteur public asturien, équivalent de la Cour des comptes nationale mais à l'échelle régionale. Il reçoit et audite les comptes de toutes les communes des Asturies une fois ceux-ci approuvés par leurs conseils municipaux respectifs."
+        },
+        "porQue": "Tout habitant de Villaviciosa peut vérifier comment les fonds municipaux ont été gérés en 2025 et, s'il constate une anomalie, il dispose de quinze jours pour le signaler par écrit avant que le Conseil municipal n'approuve les comptes définitivement.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa legt seine Jahresrechnung 2025 offen",
+        "entradilla": "Die Einwohner haben fünfzehn Tage Zeit, die Unterlagen einzusehen und gegebenenfalls Einwände einzureichen.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat die Jahresrechnung (Cuenta General) des Haushaltsjahres 2025 zur öffentlichen Einsichtnahme bereitgestellt. Die Bekanntmachung erschien am 3. November im BOPA; damit beginnt die offizielle Frist von fünfzehn Tagen, innerhalb derer die Rechnung eingesehen und gegebenenfalls Einwände erhoben werden können.",
+          "Zuvor hatte die Rechnung den Finanzausschuss passiert, wo sie sechs Ja-Stimmen der sozialistischen Fraktion und fünf Enthaltungen erhielt: vier von der PP und eine von der fraktionslosen Gemeinderätin. Gegenstimmen gab es keine.",
+          "Nach Ablauf der öffentlichen Auslegungsfrist wird das Dokument dem Gemeinderat vorgelegt, der die eingegangenen Einwände behandelt und die Rechnung endgültig beschließt, bevor sie an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet wird."
+        ],
+        "apunte": "Fünfzehn Tage, um die Jahresrechnung zu lesen — das ist schon mehr, als die meisten je tun.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa hat seine Jahresrechnung 2025 veröffentlicht, nachdem die Bekanntmachung am 3. November im BOPA erschienen war.",
+          "Die Einwohner haben fünfzehn Tage Zeit, die Unterlagen einzusehen und Einwände einzureichen.",
+          "Anschließend wird der Gemeinderat die Rechnung endgültig beschließen und an die Sindicatura de Cuentas del Principado weiterleiten."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "Tage",
+          "glosa": "Das ist die gesetzliche Frist, die jedem Einwohner zur Verfügung steht, um die Jahresrechnung zu prüfen und Einwände einzureichen, sobald die Bekanntmachung im BOPA erschienen ist. Die Frist begann am 3. November 2026."
+        },
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sindicatura de Cuentas del Principado de Asturias",
+          "definicion": "Das externe Prüforgan für die wirtschaftliche und finanzielle Tätigkeit des asturischen öffentlichen Sektors, vergleichbar mit dem nationalen Rechnungshof, jedoch auf regionaler Ebene. Es empfängt und prüft die Jahresrechnungen aller Gemeinden Asturiens, nachdem diese von den jeweiligen Gemeinderäten beschlossen wurden."
+        },
+        "porQue": "Jeder Einwohner von Villaviciosa kann nachvollziehen, wie die Gemeindemittel im Jahr 2025 verwaltet wurden, und hat fünfzehn Tage Zeit, eventuelle Unstimmigkeiten schriftlich zu melden, bevor der Gemeinderat die Rechnung endgültig beschließt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "a la sindicatura de cuentas del principado de",
+      "la sindicatura de cuentas del principado de asturias"
+    ]
+  },
+  {
+    "id": "infiesto-acogera-tres-dias-de-encuentros-y-propuestas-para-repensar-el",
+    "url": "/pilona/infiesto-acogera-tres-dias-de-encuentros-y-propuestas-para-repensar-el/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "Infiesto debate el futuro rural tres días",
+    "entradilla": "El Prial acoge del 20 al 22 de noviembre la cuarta edición de Filosofía y Ruralidades, con debates y experiencias sobre los retos de los pueblos.",
+    "cuerpo": [
+      "Infiesto vuelve a convertirse en punto de encuentro para quienes piensan en serio qué futuro tienen los pueblos. Del 20 al 22 de noviembre, El Prial acoge la cuarta edición de Filosofía y Ruralidades, un espacio de debates, propuestas y experiencias comunitarias centrado en los desafíos del mundo rural.",
+      "El formato mezcla reflexión y práctica: junto a las conversaciones y los debates, el programa incluye actividades ligadas a experiencias reales de vida en el campo."
+    ],
+    "apunte": "Cuatro ediciones ya, y la pregunta sigue siendo la misma: ¿cómo se vive bien en un pueblo?",
+    "enVeinte": [
+      "Del 20 al 22 de noviembre, El Prial de Infiesto acoge la cuarta edición de Filosofía y Ruralidades.",
+      "El encuentro combina debates, propuestas y experiencias comunitarias sobre los retos del mundo rural.",
+      "Es una cita ya consolidada para quienes viven, trabajan o piensan los pueblos desde dentro."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "El Prial",
+      "como": "El Prial (así, con artículo)",
+      "definicion": "Espacio cultural de Infiesto, capital del concejo de Piloña, que acoge habitualmente encuentros, exposiciones y actividades de carácter social y cultural."
+    },
+    "porQue": "Para quien vive en Piloña o en cualquier concejo rural del oriente asturiano, este tipo de encuentros es una oportunidad de oír y contar en voz alta cosas que aquí se viven a diario: despoblación, servicios, comunidad, futuro.",
+    "etiquetas": [
+      "Infiesto",
+      "mundo rural",
+      "filosofía",
+      "Piloña"
+    ],
+    "fechaEvento": "2026-11-20",
+    "tipoEvento": "taller",
+    "lugar": "El Prial, Infiesto",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/infiesto-acogera-tres-dias-de-encuentros-y-propues-e7644107.jpg",
+    "fecha": "2026-11-04T14:18:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-pilona-infiesto/infiesto-acogera-tres-dias-de-encuentros-y-propuestas-para-repensar-el-futuro-del-mundo-rural-11276989.html",
+      "titularOriginal": "Infiesto acogerá tres días de encuentros y propuestas para repensar el futuro del mundo rural"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Infiesto debates the rural future over three days",
+        "entradilla": "El Prial hosts the fourth edition of Filosofía y Ruralidades from 20 to 22 November, with debates and experiences on the challenges facing rural communities.",
+        "cuerpo": [
+          "Infiesto once again becomes a meeting point for those who think seriously about what future villages have. From 20 to 22 November, El Prial hosts the fourth edition of Filosofía y Ruralidades, a space for debates, proposals and community experiences focused on the challenges of the rural world.",
+          "The format blends reflection and practice: alongside conversations and debates, the programme includes activities linked to real-life experiences of living in the countryside."
+        ],
+        "apunte": "Four editions in, and the question remains the same: how do you live well in a village?",
+        "enVeinte": [
+          "From 20 to 22 November, El Prial in Infiesto hosts the fourth edition of Filosofía y Ruralidades.",
+          "The gathering combines debates, proposals and community experiences on the challenges of the rural world.",
+          "It is now an established fixture for those who live, work or think about villages from the inside."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Prial",
+          "como": "El Prial (with the article, always)",
+          "definicion": "A cultural venue in Infiesto, the main town of the municipality of Piloña, which regularly hosts gatherings, exhibitions and activities of a social and cultural nature."
+        },
+        "porQue": "For those living in Piloña or any rural municipality in eastern Asturias, this kind of gathering is a chance to hear and say out loud things that are lived here every day: depopulation, services, community, the future.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Infiesto débat de l'avenir rural pendant trois jours",
+        "entradilla": "El Prial accueille du 20 au 22 novembre la quatrième édition de Filosofía y Ruralidades, avec des débats et des expériences sur les défis des villages.",
+        "cuerpo": [
+          "Infiesto redevient un point de rencontre pour ceux qui réfléchissent sérieusement à l'avenir des villages. Du 20 au 22 novembre, El Prial accueille la quatrième édition de Filosofía y Ruralidades, un espace de débats, de propositions et d'expériences communautaires centré sur les défis du monde rural.",
+          "Le format mêle réflexion et pratique : aux côtés des conversations et des débats, le programme comprend des activités liées à des expériences réelles de vie à la campagne."
+        ],
+        "apunte": "Quatre éditions déjà, et la question reste la même : comment bien vivre dans un village ?",
+        "enVeinte": [
+          "Du 20 au 22 novembre, El Prial à Infiesto accueille la quatrième édition de Filosofía y Ruralidades.",
+          "La rencontre combine débats, propositions et expériences communautaires sur les défis du monde rural.",
+          "C'est désormais un rendez-vous établi pour ceux qui vivent, travaillent ou pensent les villages de l'intérieur."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Prial",
+          "como": "El Prial (avec l'article, toujours)",
+          "definicion": "Un espace culturel à Infiesto, chef-lieu de la commune de Piloña, qui accueille régulièrement des rencontres, des expositions et des activités à caractère social et culturel."
+        },
+        "porQue": "Pour ceux qui vivent à Piloña ou dans n'importe quelle commune rurale de l'est des Asturies, ce type de rencontre est l'occasion d'entendre et de dire à voix haute des choses qui se vivent ici au quotidien : dépopulation, services, communauté, avenir.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Infiesto diskutiert drei Tage lang über die Zukunft des ländlichen Raums",
+        "entradilla": "El Prial ist vom 20. bis 22. November Gastgeber der vierten Ausgabe von Filosofía y Ruralidades, mit Debatten und Erfahrungsberichten zu den Herausforderungen der Dörfer.",
+        "cuerpo": [
+          "Infiesto wird erneut zum Treffpunkt für all jene, die ernsthaft über die Zukunft der Dörfer nachdenken. Vom 20. bis 22. November beherbergt El Prial die vierte Ausgabe von Filosofía y Ruralidades, einen Raum für Debatten, Vorschläge und gemeinschaftliche Erfahrungen rund um die Herausforderungen des ländlichen Raums.",
+          "Das Format verbindet Reflexion und Praxis: Neben Gesprächen und Debatten umfasst das Programm Aktivitäten, die mit realen Erfahrungen des Lebens auf dem Land verknüpft sind."
+        ],
+        "apunte": "Vier Ausgaben, und die Frage bleibt dieselbe: Wie lebt man gut in einem Dorf?",
+        "enVeinte": [
+          "Vom 20. bis 22. November beherbergt El Prial in Infiesto die vierte Ausgabe von Filosofía y Ruralidades.",
+          "Das Treffen verbindet Debatten, Vorschläge und gemeinschaftliche Erfahrungen zu den Herausforderungen des ländlichen Raums.",
+          "Es ist bereits ein etablierter Termin für jene, die Dörfer von innen heraus leben, arbeiten oder denken."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "El Prial",
+          "como": "El Prial (mit Artikel, immer)",
+          "definicion": "Ein Kulturzentrum in Infiesto, dem Hauptort der Gemeinde Piloña, das regelmäßig Treffen, Ausstellungen und Veranstaltungen sozialer und kultureller Art beherbergt."
+        },
+        "porQue": "Für alle, die in Piloña oder einer anderen ländlichen Gemeinde im östlichen Asturien leben, ist ein solches Treffen eine Gelegenheit, Dinge, die hier täglich erlebt werden, laut auszusprechen und zu hören: Entvölkerung, Versorgung, Gemeinschaft, Zukunft.",
+        "lugar": "El Prial, Infiesto",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-cultura-sidrera-encuentra-relevo-generacional-en-la-ciencia-y-las-a",
+    "url": "/cabrales/la-cultura-sidrera-encuentra-relevo-generacional-en-la-ciencia-y-las-a/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "deporte-y-cultura",
+    "titular": "La sidra atrae a jóvenes científicos y artistas",
+    "entradilla": "Las II Jornadas de la Cultura Sidrera confirman que el interés por la sidra crece mucho más allá del llagar.",
+    "cuerpo": [
+      "La sidra tiene relevo generacional, y no solo entre llagareros y productores. Las II Jornadas de la Cultura Sidrera apuntan a una nueva hornada de investigadores que estudian su historia, su peso gastronómico y su lugar junto al Cabrales en el patrimonio de la zona.",
+      "Esos jóvenes científicos han puesto el foco en momentos clave, como la caída de la producción en los años sesenta del siglo pasado, cuando el éxodo rural y la llegada del vino y la cerveza le comieron terreno a la sidra en las mesas asturianas.",
+      "El interés llega también a las artes. En literatura, las jornadas rescatan la figura del cura llagarero de Amandi José Antonio Caunedo y Cuenllas, del siglo XVII. En pintura, junto a referencias clásicas como Evaristo Valle y Nicanor Piñole, se abren camino miradas contemporáneas."
+    ],
+    "apunte": "La sidra lleva siglos en el cuadro y en el poema, pero a veces hay que recordárselo.",
+    "enVeinte": [
+      "Las II Jornadas de la Cultura Sidrera detectan una nueva generación de científicos y artistas interesados en la tradición sidrera asturiana.",
+      "Los investigadores estudian desde la caída de la producción en los años sesenta hasta el papel de la sidra junto al Cabrales en el patrimonio gastronómico.",
+      "La cultura sidrera también inspira a escritores y pintores, con referentes históricos como Caunedo y Cuenllas, Evaristo Valle y Nicanor Piñole, y nuevas voces contemporáneas."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "llagarero",
+      "como": "lla-ga-RE-ro",
+      "definicion": "El que trabaja o regenta un llagar, es decir, el lugar donde se pisa la manzana y se elabora la sidra. En el texto se usa para describir al cura Caunedo y Cuenllas, vinculado al llagar de Amandi en el siglo XVII."
+    },
+    "porQue": "Que investigadores y artistas jóvenes fijen su mirada en la cultura sidrera refuerza el peso de Cabrales y el resto de la comarca como territorio de referencia en ese patrimonio, más allá del queso.",
+    "etiquetas": [
+      "sidra",
+      "cultura sidrera",
+      "Cabrales",
+      "patrimonio"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/06//20260603143236_RTPA8184704.webp",
+    "fecha": "2026-11-04T13:53:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-sociedad/2026-11-04/La-cultura-sidrera-encuentra-relevo-generacional-en-la-ciencia-y-las-artes_111793796119.html",
+      "titularOriginal": "La cultura sidrera encuentra relevo generacional en la ciencia y las artes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Cider draws young scientists and artists",
+        "entradilla": "The II Jornadas de la Cultura Sidrera confirm that interest in cider is growing well beyond the llagar (cider mill).",
+        "cuerpo": [
+          "Cider has a new generation behind it, and not only among cider makers and producers. The II Jornadas de la Cultura Sidrera point to a new wave of researchers studying its history, its gastronomic weight, and its place alongside Cabrales in the area's heritage.",
+          "These young scientists have focused on key moments, such as the drop in production in the 1960s, when rural exodus and the arrival of wine and beer ate into cider's place on Asturian tables.",
+          "Interest is reaching the arts too. In literature, the event revives the figure of the cura llagarero (cider-mill priest) of Amandi, José Antonio Caunedo y Cuenllas, from the seventeenth century. In painting, alongside classic references such as Evaristo Valle and Nicanor Piñole, contemporary perspectives are finding their way through."
+        ],
+        "apunte": "Cider has been in paintings and poems for centuries, but sometimes it needs to be remembered.",
+        "enVeinte": [
+          "The II Jornadas de la Cultura Sidrera identify a new generation of scientists and artists interested in the Asturian cider tradition.",
+          "Researchers are studying everything from the production slump in the 1960s to the role of cider alongside Cabrales in the gastronomic heritage.",
+          "Cider culture also inspires writers and painters, with historical figures such as Caunedo y Cuenllas, Evaristo Valle and Nicanor Piñole, alongside new contemporary voices."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "One who works or runs a llagar — the place where apples are pressed and cider is made. In the text it is used to describe the priest Caunedo y Cuenllas, who was linked to the llagar of Amandi in the seventeenth century."
+        },
+        "porQue": "Young researchers and artists turning their attention to cider culture reinforces the standing of Cabrales and the rest of the county as a reference territory for that heritage, beyond the cheese.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le cidre attire de jeunes scientifiques et artistes",
+        "entradilla": "Les II Jornadas de la Cultura Sidrera confirment que l'intérêt pour le cidre grandit bien au-delà du llagar (pressoir à cidre).",
+        "cuerpo": [
+          "Le cidre a une relève générationnelle, et pas seulement parmi les producteurs et les llagareros. Les II Jornadas de la Cultura Sidrera annoncent une nouvelle vague de chercheurs qui étudient son histoire, sa place dans la gastronomie et son rôle aux côtés du Cabrales dans le patrimoine de la région.",
+          "Ces jeunes scientifiques se sont penchés sur des moments clés, comme la chute de la production dans les années soixante du siècle dernier, quand l'exode rural et l'arrivée du vin et de la bière ont rogné la place du cidre sur les tables asturiennes.",
+          "L'intérêt gagne aussi les arts. En littérature, les journées remettent en lumière la figure du cura llagarero (prêtre du pressoir) d'Amandi, José Antonio Caunedo y Cuenllas, du XVIIe siècle. En peinture, aux côtés de références classiques comme Evaristo Valle et Nicanor Piñole, des regards contemporains se frayent un chemin."
+        ],
+        "apunte": "Le cidre est dans les tableaux et les poèmes depuis des siècles, mais il faut parfois le rappeler.",
+        "enVeinte": [
+          "Les II Jornadas de la Cultura Sidrera révèlent une nouvelle génération de scientifiques et d'artistes intéressés par la tradition cidricole asturienne.",
+          "Les chercheurs étudient aussi bien la chute de la production dans les années soixante que le rôle du cidre aux côtés du Cabrales dans le patrimoine gastronomique.",
+          "La culture cidricole inspire aussi écrivains et peintres, avec des figures historiques comme Caunedo y Cuenllas, Evaristo Valle et Nicanor Piñole, et de nouvelles voix contemporaines."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "Celui qui travaille ou dirige un llagar, c'est-à-dire le lieu où l'on presse les pommes et où l'on élabore le cidre. Dans le texte, le terme désigne le prêtre Caunedo y Cuenllas, lié au llagar d'Amandi au XVIIe siècle."
+        },
+        "porQue": "Le fait que de jeunes chercheurs et artistes portent leur regard sur la culture cidricole renforce le rôle de Cabrales et du reste de la commune comme territoire de référence pour ce patrimoine, au-delà du fromage.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Cidre zieht junge Wissenschaftler und Künstler an",
+        "entradilla": "Die II Jornadas de la Cultura Sidrera bestätigen, dass das Interesse am Cidre weit über den llagar (die Cidre-Kelterei) hinaus wächst.",
+        "cuerpo": [
+          "Der Cidre hat Nachwuchs — und nicht nur unter Kelterern und Produzenten. Die II Jornadas de la Cultura Sidrera deuten auf eine neue Welle von Forschern hin, die seine Geschichte, seine gastronomische Bedeutung und seinen Platz neben dem Cabrales im Kulturerbe der Region untersuchen.",
+          "Diese jungen Wissenschaftler haben sich auf Schlüsselmomente konzentriert, etwa den Produktionseinbruch in den Sechzigerjahren des vergangenen Jahrhunderts, als die Landflucht und die Verbreitung von Wein und Bier dem Cidre auf den asturischen Tischen den Rang abgelaufen haben.",
+          "Das Interesse greift auch auf die Künste über. In der Literatur hebt die Veranstaltung die Gestalt des cura llagarero (Kelterei-Pfarrers) von Amandi, José Antonio Caunedo y Cuenllas, aus dem 17. Jahrhundert hervor. In der Malerei bahnen sich neben klassischen Referenzen wie Evaristo Valle und Nicanor Piñole auch zeitgenössische Perspektiven ihren Weg."
+        ],
+        "apunte": "Der Cidre ist seit Jahrhunderten im Bild und im Gedicht — aber manchmal muss man daran erinnern.",
+        "enVeinte": [
+          "Die II Jornadas de la Cultura Sidrera zeigen eine neue Generation von Wissenschaftlern und Künstlern, die sich für die asturische Cidre-Tradition interessieren.",
+          "Die Forscher untersuchen sowohl den Produktionseinbruch in den Sechzigerjahren als auch die Rolle des Cidres neben dem Cabrales im gastronomischen Erbe.",
+          "Die Cidre-Kultur inspiriert auch Schriftsteller und Maler — mit historischen Figuren wie Caunedo y Cuenllas, Evaristo Valle und Nicanor Piñole sowie neuen zeitgenössischen Stimmen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "llagarero",
+          "como": "lla-ga-RE-ro",
+          "definicion": "Jemand, der in einem llagar arbeitet oder ihn betreibt — dem Ort, wo Äpfel gepresst und Cidre hergestellt werden. Im Text bezeichnet das Wort den Pfarrer Caunedo y Cuenllas, der im 17. Jahrhundert mit dem llagar von Amandi verbunden war."
+        },
+        "porQue": "Dass junge Forscher und Künstler ihren Blick auf die Cidre-Kultur richten, stärkt die Stellung von Cabrales und der übrigen Gemeinde als Referenzgebiet für dieses Erbe — jenseits des Käses.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "cura llagarero de amandi jose antonio caunedo y",
+      "llagarero de amandi jose antonio caunedo y cuenllas"
+    ]
+  },
+  {
+    "id": "las-restricciones-para-cruzar-la-a-8-complican-el-trabajo-diario-de-la",
+    "url": "/pilona/las-restricciones-para-cruzar-la-a-8-complican-el-trabajo-diario-de-la/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Un ganadero de Ribadesella rodea el puente cerrado",
+    "entradilla": "Francisco Aramburu tiene el ganado a dos orillas del Sella y el cierre del puente le obliga a reinventarse cada día.",
+    "cuerpo": [
+      "La ganadería Aramburu trabaja con 180 reses repartidas entre los praos de ambas márgenes del Sella. La cuadra queda al oeste, pero parte del ganado pasta al este, así que cruzar el río es tarea diaria. Desde que el puente de Ribadesella cerró por obras, eso se ha convertido en un problema serio.",
+      "Tráfico autorizó el paso de tractores por la A-8 en horarios concretos, pero Aramburu dice que esos turnos no encajan con el ritmo de una explotación ganadera. Tampoco le convencen las condiciones de seguridad ni los costes que supone usar esa vía. Ha decidido no utilizarla.",
+      "Su solución por ahora: llevar el pienso en el remolque del todoterreno y cruzar cuando haga falta. Si la situación se complica, contempla trasladar el ganado a la cuadra mediante un camión de transporte de animales vivos, aunque prefiere esperar antes de dar ese paso."
+    ],
+    "apunte": "180 vacas y un puente cortado: la ingeniería del día a día en el campo asturiano.",
+    "enVeinte": [
+      "El cierre del puente de Ribadesella obliga a un ganadero a buscar alternativas para atender sus reses en ambas orillas del Sella.",
+      "Francisco Aramburu rechaza usar la A-8 porque los horarios autorizados no se adaptan a su trabajo y le preocupan la seguridad y el coste.",
+      "De momento cruza con el todoterreno cargado de pienso; si la cosa se pone difícil, moverá el ganado en camión."
+    ],
+    "cifra": {
+      "numero": "180",
+      "unidad": "cabezas de ganado",
+      "glosa": "La ganadería Aramburu maneja 180 reses distribuidas entre los dos lados del río Sella. Esa distribución, normal en explotaciones con fincas dispersas, se ha convertido en el centro del problema desde que el puente cortó la comunicación directa entre ambas orillas."
+    },
+    "palabra": {
+      "termino": "praos",
+      "como": "praos (plural de prau, como se dice por aquí)",
+      "definicion": "Término asturiano para designar las fincas de hierba, generalmente cercadas, donde pasta el ganado o se siega para hacer hierba seca. En castellano sería 'prados', pero en Asturias el prau tiene su propio nombre y su propio peso en la vida del campo."
+    },
+    "porQue": "Cualquier ganadero de la zona con fincas a distintos lados de un río o una carretera cortada se enfrenta al mismo dilema: las obras no esperan a que el campo descanse, y los horarios de Tráfico raramente coinciden con los del ganado.",
+    "etiquetas": [
+      "ganadería",
+      "Ribadesella",
+      "obras",
+      "puente"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/11//20261104130048_RTPA8807376.webp",
+    "fecha": "2026-11-04T13:34:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-11-04/Las-restricciones-para-cruzar-la-A-8-complican-el-trabajo-diario-de-las-ganaderias-en-Ribadesella_111793793810.html",
+      "titularOriginal": "Las restricciones para cruzar la A-8 complican el trabajo diario de las ganaderías en Ribadesella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A farmer from Ribadesella goes round the closed bridge",
+        "entradilla": "Francisco Aramburu has cattle on both banks of the Sella and the bridge closure forces him to reinvent his daily routine.",
+        "cuerpo": [
+          "Ganadería Aramburu runs 180 head of cattle spread across the praos (meadows) on both banks of the Sella. The barn sits on the west side, but some of the herd grazes on the east, so crossing the river is a daily task. Since the Ribadesella bridge closed for works, that has become a serious problem.",
+          "Traffic authorities authorised tractors to use the A-8 during specific time slots, but Aramburu says those windows do not fit the rhythm of a livestock operation. He is also unconvinced by the safety conditions and the costs of using that road. He has decided not to use it.",
+          "His solution for now: carry the feed in the four-by-four's trailer and cross when needed. If things get worse, he is considering moving the herd to the barn by livestock lorry, though he would rather wait before taking that step."
+        ],
+        "apunte": "180 cows and a closed bridge: the daily engineering of Asturian farming.",
+        "enVeinte": [
+          "The closure of the Ribadesella bridge is forcing a farmer to find alternatives to tend his cattle on both banks of the Sella.",
+          "Francisco Aramburu refuses to use the A-8 because the authorised time slots do not suit his work, and he is worried about safety and cost.",
+          "For now he crosses with the four-by-four loaded with feed; if things get difficult, he will move the cattle by lorry."
+        ],
+        "cifra": {
+          "numero": "180",
+          "unidad": "head of cattle",
+          "glosa": "Ganadería Aramburu manages 180 head of cattle distributed across both sides of the river Sella. That split, common on farms with scattered plots, has become the heart of the problem since the bridge cut direct communication between the two banks."
+        },
+        "palabra": {
+          "termino": "praos",
+          "como": "praos (plural of prau, as it is said around here)",
+          "definicion": "Asturian term for enclosed grass plots where cattle graze or where grass is cut to make hay. In Spanish the word would be 'prados', but in Asturias the prau has its own name and its own weight in rural life."
+        },
+        "porQue": "Any farmer in the area with land on different sides of a river or a closed road faces the same dilemma: roadworks do not wait for farming to take a break, and Traffic authority timetables rarely match those of the cattle.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un éleveur de Ribadesella contourne le pont fermé",
+        "entradilla": "Francisco Aramburu a du bétail sur les deux rives du Sella et la fermeture du pont l'oblige à se réinventer chaque jour.",
+        "cuerpo": [
+          "La ganadería Aramburu exploite 180 têtes de bétail réparties entre les praos (prairies) des deux rives du Sella. L'étable se trouve à l'ouest, mais une partie du troupeau pâture à l'est, ce qui fait de la traversée du fleuve une tâche quotidienne. Depuis la fermeture du pont de Ribadesella pour travaux, cela est devenu un problème sérieux.",
+          "La Direction des routes a autorisé le passage des tracteurs sur l'A-8 à des horaires précis, mais Aramburu estime que ces créneaux ne correspondent pas au rythme d'une exploitation d'élevage. Les conditions de sécurité et les coûts liés à l'utilisation de cet axe ne le convainquent pas non plus. Il a décidé de ne pas l'emprunter.",
+          "Sa solution pour l'instant : transporter l'aliment dans la remorque du tout-terrain et traverser en cas de besoin. Si la situation se complique, il envisage de déplacer le troupeau à l'étable par camion de transport d'animaux vivants, bien qu'il préfère attendre avant de franchir ce pas."
+        ],
+        "apunte": "180 vaches et un pont coupé : l'ingéniosité du quotidien dans la campagne asturienne.",
+        "enVeinte": [
+          "La fermeture du pont de Ribadesella oblige un éleveur à trouver des alternatives pour s'occuper de son bétail sur les deux rives du Sella.",
+          "Francisco Aramburu refuse d'utiliser l'A-8 car les horaires autorisés ne s'adaptent pas à son travail et il s'inquiète de la sécurité et du coût.",
+          "Pour l'instant il traverse avec le tout-terrain chargé d'aliment ; si les choses se compliquent, il déplacera le troupeau en camion."
+        ],
+        "cifra": {
+          "numero": "180",
+          "unidad": "têtes de bétail",
+          "glosa": "La ganadería Aramburu gère 180 têtes de bétail réparties des deux côtés du fleuve Sella. Cette répartition, courante dans les exploitations aux parcelles dispersées, est devenue le cœur du problème depuis que le pont a coupé la communication directe entre les deux rives."
+        },
+        "palabra": {
+          "termino": "praos",
+          "como": "praos (pluriel de prau, comme on dit ici)",
+          "definicion": "Terme asturien désignant les parcelles enherbées, généralement clôturées, où le bétail pâture ou où l'on fauche pour faire du foin. En espagnol le mot serait 'prados', mais en Asturies le prau a son propre nom et son propre poids dans la vie rurale."
+        },
+        "porQue": "Tout éleveur de la zone avec des terres de part et d'autre d'un fleuve ou d'une route coupée fait face au même dilemme : les travaux n'attendent pas que la ferme se repose, et les horaires de la Direction des routes coïncident rarement avec ceux du bétail.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Landwirt aus Ribadesella umgeht die gesperrte Brücke",
+        "entradilla": "Francisco Aramburu hat Vieh auf beiden Ufern des Sella, und die Brückensperrung zwingt ihn, sich täglich neu zu behelfen.",
+        "cuerpo": [
+          "Die ganadería Aramburu bewirtschaftet 180 Tiere, die auf die praos (Wiesen) beider Ufer des Sella verteilt sind. Der Stall liegt auf der Westseite, doch ein Teil der Herde weidet im Osten, sodass das Überqueren des Flusses zur täglichen Aufgabe gehört. Seit die Brücke von Ribadesella wegen Bauarbeiten gesperrt wurde, ist daraus ein ernstes Problem geworden.",
+          "Die Verkehrsbehörde hat das Befahren der A-8 mit Traktoren zu bestimmten Zeiten genehmigt, doch Aramburu sagt, diese Zeitfenster passen nicht zum Rhythmus eines Viehbetriebs. Auch die Sicherheitsbedingungen und die Kosten, die die Nutzung dieser Straße mit sich bringt, überzeugen ihn nicht. Er hat sich entschieden, sie nicht zu benutzen.",
+          "Seine Lösung fürs Erste: das Futter im Anhänger des Geländewagens transportieren und bei Bedarf überqueren. Sollte sich die Lage verschärfen, erwägt er, das Vieh per Viehtransporter in den Stall zu bringen, obwohl er diesen Schritt lieber noch aufschieben möchte."
+        ],
+        "apunte": "180 Kühe und eine gesperrte Brücke: der alltägliche Einfallsreichtum in der asturischen Landwirtschaft.",
+        "enVeinte": [
+          "Die Sperrung der Brücke von Ribadesella zwingt einen Landwirt, Alternativen zu finden, um sein Vieh auf beiden Ufern des Sella zu versorgen.",
+          "Francisco Aramburu lehnt die Nutzung der A-8 ab, weil die genehmigten Zeiten nicht zu seiner Arbeit passen und er sich um Sicherheit und Kosten sorgt.",
+          "Vorerst überquert er den Fluss mit dem mit Futter beladenen Geländewagen; falls es schwieriger wird, verlegt er das Vieh per Lastwagen."
+        ],
+        "cifra": {
+          "numero": "180",
+          "unidad": "Tiere",
+          "glosa": "Die ganadería Aramburu bewirtschaftet 180 Tiere, die auf beide Seiten des Flusses Sella verteilt sind. Diese Aufteilung, bei Betrieben mit verstreuten Parzellen üblich, ist seit der Brückensperrung zum Kern des Problems geworden, weil die direkte Verbindung zwischen den beiden Ufern unterbrochen ist."
+        },
+        "palabra": {
+          "termino": "praos",
+          "como": "praos (Plural von prau, wie man hier sagt)",
+          "definicion": "Asturischer Begriff für eingezäunte Grünflächen, auf denen das Vieh weidet oder auf denen Gras für Heu gemäht wird. Auf Spanisch würde man 'prados' sagen, doch im Asturischen hat der prau seinen eigenen Namen und sein eigenes Gewicht im ländlichen Leben."
+        },
+        "porQue": "Jeder Landwirt in der Gegend mit Flächen auf verschiedenen Seiten eines Flusses oder einer gesperrten Straße steht vor demselben Dilemma: Bauarbeiten warten nicht darauf, dass der Betrieb Pause macht, und die Zeitpläne der Verkehrsbehörde stimmen selten mit denen des Viehs überein.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan",
     "url": "/villaviciosa/villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan/",
     "concejo": "Villaviciosa",
@@ -41436,224 +42163,6 @@
           "definicion": "Bezeichnung in Villaviciosa für Ländereien, die im Laufe der Jahrhunderte durch Aufschüttung oder Trockenlegung dem Ästuar abgewonnen wurden. Es handelt sich um künstlich entstandenes Gelände, das dem Meer entrissen wurde und Teil der Landschaft und Geschichte des Ästuars ist."
         },
         "porQue": "Die porreos gehören zur alltäglichen Landschaft von Villaviciosa, und ob sie anerkannt oder vernachlässigt werden, hat direkte Auswirkungen darauf, wie das Ästuar künftig verwaltet und geschützt wird.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "el-alcalde-de-villaviciosa-clausura-la-pasarela-de-madera-de-miami-a-r",
-    "url": "/villaviciosa/el-alcalde-de-villaviciosa-clausura-la-pasarela-de-madera-de-miami-a-r/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa cierra la pasarela de madera a Rodiles",
-    "entradilla": "El alcalde ha ordenado clausurarla después de que Costas ignorara el requerimiento municipal para repararla.",
-    "cuerpo": [
-      "La pasarela de madera que une Miami con Rodiles ha quedado cortada al paso. El alcalde de Villaviciosa ha tomado la decisión después de comprobar que la estructura presenta un estado que la hace peligrosa.",
-      "El Ayuntamiento ya había exigido a Demarcación de Costas, organismo del que depende la instalación, que acometiera una reparación urgente. La respuesta fue el silencio, así que el municipio actuó por su cuenta cerrando el acceso."
-    ],
-    "apunte": "Costas no respondió al requerimiento, y ahora la playa más visitada del concejo tiene un acceso menos.",
-    "enVeinte": [
-      "El alcalde de Villaviciosa ha clausurado la pasarela de madera que va de Miami a Rodiles por encontrarse en mal estado.",
-      "El Ayuntamiento había pedido a Demarcación de Costas que la reparara con urgencia, pero no obtuvo respuesta.",
-      "Mientras Costas no actúe, el paso seguirá cerrado."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Miami",
-      "como": "Miami, tal cual, sin trampa",
-      "definicion": "Nombre popular de una zona de la playa de Rodiles, en Villaviciosa. Es el punto de partida de la pasarela clausurada y uno de los accesos más transitados a este arenal en verano."
-    },
-    "porQue": "Quien quiera llegar a Rodiles por la pasarela de madera tendrá que buscar otro camino hasta que Costas repare la estructura o el Ayuntamiento encuentre una solución.",
-    "etiquetas": [
-      "Rodiles",
-      "Villaviciosa",
-      "Costas",
-      "pasarela"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/06/miami-RLkfJE78HE5GoKhXbKj9EYP-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-06T16:55:08.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/alcalde-villaviciosa-clausura-pasarela-madera-miami-rodiles-20260806185507-nt.html",
-      "titularOriginal": "El alcalde de Villaviciosa clausura la pasarela de madera de Miami a Rodiles por su mal estado"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa closes the wooden boardwalk to Rodiles",
-        "entradilla": "The mayor ordered it shut after Costas ignored the council's request to repair it.",
-        "cuerpo": [
-          "The wooden boardwalk linking Miami with Rodiles has been closed to the public. The mayor of Villaviciosa made the decision after finding that the structure is in a dangerous state.",
-          "The council had already demanded that Demarcación de Costas, the body responsible for the installation, carry out urgent repairs. The response was silence, so the municipality acted on its own by closing the access."
-        ],
-        "apunte": "Costas did not reply to the request, and the most visited beach in the municipality now has one fewer access point.",
-        "enVeinte": [
-          "The mayor of Villaviciosa has closed the wooden boardwalk from Miami to Rodiles after finding it in poor condition.",
-          "The council had asked Demarcación de Costas to repair it urgently, but received no response.",
-          "The crossing will remain closed until Costas acts."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Miami",
-          "como": "Miami, just as it sounds — no tricks",
-          "definicion": "The popular name for an area of Rodiles beach, in Villaviciosa. It is the starting point of the closed boardwalk and one of the busiest access points to this stretch of sand in summer."
-        },
-        "porQue": "Anyone wanting to reach Rodiles via the wooden boardwalk will have to find another way until Costas repairs the structure or the council finds a solution.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ferme la passerelle en bois menant à Rodiles",
-        "entradilla": "Le maire a ordonné sa fermeture après que Costas a ignoré la demande de réparation de la mairie.",
-        "cuerpo": [
-          "La passerelle en bois qui relie Miami à Rodiles a été fermée au public. Le maire de Villaviciosa a pris cette décision après avoir constaté que la structure présente un état qui la rend dangereuse.",
-          "La mairie avait déjà exigé de la Demarcación de Costas, organisme dont dépend l'installation, qu'elle procède à une réparation urgente. La réponse fut le silence, si bien que la commune a agi de sa propre initiative en fermant l'accès."
-        ],
-        "apunte": "Costas n'a pas répondu à la demande, et la plage la plus fréquentée de la commune compte désormais un accès de moins.",
-        "enVeinte": [
-          "Le maire de Villaviciosa a fermé la passerelle en bois reliant Miami à Rodiles en raison de son mauvais état.",
-          "La mairie avait demandé à la Demarcación de Costas de la réparer en urgence, sans obtenir de réponse.",
-          "Le passage restera fermé tant que Costas n'interviendra pas."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Miami",
-          "como": "Miami, comme en anglais, sans surprise",
-          "definicion": "Nom populaire d'une zone de la plage de Rodiles, à Villaviciosa. C'est le point de départ de la passerelle fermée et l'un des accès les plus fréquentés à cette plage en été."
-        },
-        "porQue": "Quiconque souhaitait rejoindre Rodiles par la passerelle en bois devra trouver un autre chemin jusqu'à ce que Costas répare la structure ou que la mairie trouve une solution.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sperrt den Holzsteg nach Rodiles",
-        "entradilla": "Der Bürgermeister ordnete die Sperrung an, nachdem Costas die Reparaturanforderung der Gemeinde ignoriert hatte.",
-        "cuerpo": [
-          "Der Holzsteg, der Miami mit Rodiles verbindet, ist für den Durchgang gesperrt. Der Bürgermeister von Villaviciosa traf diese Entscheidung, nachdem er festgestellt hatte, dass sich die Struktur in einem gefährlichen Zustand befindet.",
-          "Das Rathaus hatte die Demarcación de Costas, die für die Anlage zuständige Behörde, bereits aufgefordert, dringende Reparaturen durchzuführen. Die Antwort blieb aus, sodass die Gemeinde eigenständig handelte und den Zugang sperrte."
-        ],
-        "apunte": "Costas reagierte nicht auf die Aufforderung, und der meistbesuchte Strand der Gemeinde hat nun einen Zugang weniger.",
-        "enVeinte": [
-          "Der Bürgermeister von Villaviciosa hat den Holzsteg von Miami nach Rodiles wegen seines schlechten Zustands gesperrt.",
-          "Das Rathaus hatte die Demarcación de Costas dringend um eine Reparatur gebeten, erhielt jedoch keine Antwort.",
-          "Der Übergang bleibt gesperrt, bis Costas tätig wird."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Miami",
-          "como": "Miami, genau wie im Englischen, keine Überraschung",
-          "definicion": "Populärer Name für einen Bereich des Strandes von Rodiles in Villaviciosa. Es ist der Ausgangspunkt des gesperrten Stegs und im Sommer einer der meistgenutzten Zugänge zu diesem Sandstrand."
-        },
-        "porQue": "Wer Rodiles über den Holzsteg erreichen möchte, muss sich einen anderen Weg suchen, bis Costas die Struktur repariert oder das Rathaus eine Lösung findet.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "walter-bouzan-y-bertin-llera-saldran-el-sabado-desde-la-primera-posici",
-    "url": "/pilona/walter-bouzan-y-bertin-llera-saldran-el-sabado-desde-la-primera-posici/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Bouzán y Llera saldrán primeros en el Sella",
-    "entradilla": "La contrarreloj del jueves los colocó en la cabeza de la parrilla para la bajada del sábado.",
-    "cuerpo": [
-      "Walter Bouzán y Bertín Llera saldrán desde la primera posición en el Descenso del Sella de este sábado, después de marcar el mejor tiempo en la contrarreloj de cabezas de serie celebrada el jueves.",
-      "El resultado los sitúa en el puesto de máximo privilegio en la salida, lo que en una prueba tan táctica como el Sella tiene un peso real sobre las opciones de victoria."
-    ],
-    "apunte": "Pulverizaron el cronómetro el jueves; ahora toca el río de verdad.",
-    "enVeinte": [
-      "Walter Bouzán y Bertín Llera ganaron la contrarreloj de cabezas de serie del Descenso del Sella celebrada el jueves.",
-      "Eso les da la primera posición de salida para la bajada del sábado.",
-      "En el Sella, salir primero es una ventaja táctica nada despreciable."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "El Sella es la prueba de piragüismo más seguida del verano asturiano, y que una pareja competitiva salga primera el sábado da motivo para seguir la carrera de cerca.",
-    "etiquetas": [
-      "Sella",
-      "piragüismo",
-      "Bouzán",
-      "Llera"
-    ],
-    "fechaEvento": "2026-08-08",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/06/2026080612244962383.jpg",
-    "fecha": "2026-08-06T10:27:38.000Z",
-    "fuente": {
-      "nombre": "El Fielato · Deportes",
-      "url": "https://www.elfielato.es/articulo/deportes/walter-bouzan-bertin-llera-primeros-sella/20260806122738100882.html",
-      "titularOriginal": "Walter Bouzán y Bertín Llera saldrán el sábado desde la primera posición del Sella"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Bouzán y Llera to start first on the Sella",
-        "entradilla": "Thursday's time trial put them at the head of the grid for Saturday's descent.",
-        "cuerpo": [
-          "Walter Bouzán and Bertín Llera will start from pole position in this Saturday's Descenso del Sella, after posting the best time in Thursday's seeded time trial.",
-          "The result places them in the most privileged spot on the start line, which in a race as tactical as the Sella carries real weight when it comes to winning chances."
-        ],
-        "apunte": "They smashed the clock on Thursday; now comes the real river.",
-        "enVeinte": [
-          "Walter Bouzán and Bertín Llera won Thursday's seeded time trial at the Descenso del Sella.",
-          "That earns them the first starting position for Saturday's descent.",
-          "On the Sella, starting first is a tactical advantage that should not be underestimated."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "The Sella is the most-followed canoe race of the Asturian summer, and a competitive pair starting first on Saturday is reason enough to follow the race closely.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Bouzán y Llera partiront en tête sur le Sella",
-        "entradilla": "Le contre-la-montre de jeudi les a placés en tête de grille pour la descente de samedi.",
-        "cuerpo": [
-          "Walter Bouzán et Bertín Llera partiront en première position lors du Descenso del Sella de ce samedi, après avoir signé le meilleur temps au contre-la-montre des têtes de série disputé jeudi.",
-          "Ce résultat les place à la position la plus avantageuse sur la ligne de départ, ce qui, dans une épreuve aussi tactique que le Sella, pèse véritablement sur les chances de victoire."
-        ],
-        "apunte": "Ils ont pulvérisé le chrono jeudi ; maintenant, c'est la vraie rivière.",
-        "enVeinte": [
-          "Walter Bouzán et Bertín Llera ont remporté le contre-la-montre des têtes de série du Descenso del Sella disputé jeudi.",
-          "Cela leur vaut la première position de départ pour la descente de samedi.",
-          "Sur le Sella, partir premier est un avantage tactique loin d'être négligeable."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Le Sella est l'épreuve de canoë la plus suivie de l'été asturien, et le fait qu'un duo compétitif parte en tête samedi est une bonne raison de suivre la course de près.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Bouzán y Llera starten als Erste auf dem Sella",
-        "entradilla": "Das Zeitfahren vom Donnerstag sicherte ihnen den ersten Startplatz für die Abfahrt am Samstag.",
-        "cuerpo": [
-          "Walter Bouzán und Bertín Llera starten beim diesjährigen Descenso del Sella am Samstag von der Poleposition, nachdem sie beim Zeitfahren der gesetzten Starter am Donnerstag die beste Zeit erzielt haben.",
-          "Das Ergebnis verschafft ihnen den privilegiertesten Platz am Start – und in einem so taktischen Rennen wie dem Sella hat das echtes Gewicht für die Siegchancen."
-        ],
-        "apunte": "Sie haben am Donnerstag die Uhr zerstört; jetzt kommt der echte Fluss.",
-        "enVeinte": [
-          "Walter Bouzán und Bertín Llera gewannen am Donnerstag das Zeitfahren der gesetzten Starter beim Descenso del Sella.",
-          "Das sichert ihnen den ersten Startplatz für die Abfahrt am Samstag.",
-          "Beim Sella ist als Erster zu starten ein taktischer Vorteil, der nicht zu unterschätzen ist."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Der Sella ist das meistverfolgte Kanurennen des asturischen Sommers, und dass ein starkes Duo am Samstag als Erstes startet, ist Grund genug, das Rennen aufmerksam zu verfolgen.",
         "lugar": "",
         "precio": ""
       }

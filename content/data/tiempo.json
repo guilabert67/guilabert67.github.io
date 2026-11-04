@@ -1,15 +1,15 @@
 {
-  "actualizado": "2026-11-04T10:00:25.157Z",
+  "actualizado": "2026-11-04T18:02:17.138Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
-      "max": 13,
+      "max": 14,
       "min": 3,
       "estado": "Nuboso",
       "lluvia": 0
     },
     "nava": {
-      "max": 12,
+      "max": 13,
       "min": 2,
       "estado": "Nuboso",
       "lluvia": 0

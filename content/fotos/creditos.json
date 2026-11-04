@@ -578,18 +578,6 @@
     "pie": "Ría de Villaviciosa (15 de agosto de 2012, Villaviciosa) 04",
     "consulta": "ria villaviciosa asturias Villaviciosa"
   },
-  "el-alcalde-de-villaviciosa-clausura-la-pasarela-de-madera-de-miami-a-r": {
-    "archivo": "el-alcalde-de-villaviciosa-clausura-la-pasarela-de-madera-de-miami-a-r.jpg",
-    "autor": "Discasto",
-    "licencia": "CC BY-SA 4.0",
-    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "atribucion": true,
-    "redimensionada": true,
-    "origen": "https://commons.wikimedia.org/wiki/File:R%C3%ADa_de_Villaviciosa_(15_de_agosto_de_2012,_Villaviciosa)_01.JPG",
-    "fuente": "Wikimedia Commons",
-    "pie": "Ría de Villaviciosa (15 de agosto de 2012, Villaviciosa) 01",
-    "consulta": "ria villaviciosa asturias Villaviciosa"
-  },
   "picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-p": {
     "archivo": "picos-de-europa-restringe-el-paso-en-la-ruta-del-cares-en-dos-tramos-p.jpg",
     "autor": "Petr Meissner",
@@ -829,5 +817,29 @@
     "fuente": "Wikimedia Commons",
     "pie": "Naranjo de Bulnes 2",
     "consulta": "carretera asturias Cabrales"
+  },
+  "la-cultura-sidrera-encuentra-relevo-generacional-en-la-ciencia-y-las-a": {
+    "archivo": "la-cultura-sidrera-encuentra-relevo-generacional-en-la-ciencia-y-las-a.jpg",
+    "autor": "Cruccone",
+    "licencia": "CC BY 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Carre%C3%B1a_de_Cabrales_02.JPG",
+    "fuente": "Wikimedia Commons",
+    "pie": "Carreña de Cabrales 02",
+    "consulta": "iglesia asturias Cabrales"
+  },
+  "el-gobierno-de-asturias-invierte-en-la-mejora-de-accesos-y-equipamient": {
+    "archivo": "el-gobierno-de-asturias-invierte-en-la-mejora-de-accesos-y-equipamient.jpg",
+    "autor": "Discasto",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:R%C3%ADa_de_Villaviciosa_(15_de_agosto_de_2012,_Villaviciosa)_01.JPG",
+    "fuente": "Wikimedia Commons",
+    "pie": "Ría de Villaviciosa (15 de agosto de 2012, Villaviciosa) 01",
+    "consulta": "ria villaviciosa asturias Villaviciosa"
   }
 }

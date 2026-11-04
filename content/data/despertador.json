@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-11-04T10:00:24.804Z",
+  "fecha": "2026-11-04T18:02:16.437Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa crea ocho empleos nuevos con 229.000 euros del municipio.",
-      "enlace": "/villaviciosa/villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan/"
+      "frase": "Grupo Conde construirá el centro de día en la residencia del Portal de Villaviciosa.",
+      "enlace": "/villaviciosa/las-obras-del-primer-centro-de-dia-de-villaviciosa-ya-tienen-empresa/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa abre su presupuesto de 2025: quince días para consultarlo y alegar.",
+      "enlace": "/villaviciosa/cuenta-general-2025/"
     },
     {
       "concejo": "Piloña",
-      "frase": "El puente de Ribadesella toma forma: ya tiene armadura de acero en el estribo oeste.",
-      "enlace": "/pilona/la-armadura-de-acero-avanza-en-el-estribo-oeste-del-puente-de-ribadese/"
+      "frase": "Un ganadero de Ribadesella cruza el Sella a diario por culpa del puente cerrado.",
+      "enlace": "/pilona/las-restricciones-para-cruzar-la-a-8-complican-el-trabajo-diario-de-la/"
     }
   ]
 }
