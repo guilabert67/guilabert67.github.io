@@ -362,15 +362,19 @@ export function chapa(pieza) {
  * llevan foto, ninguna destaca, y además la portada se convierte en un muro de
  * ilustraciones. Quitarla en el tercer nivel ordena la página y la aligera.
  */
+// Ancho y alto de la imagen, si se conocen (los pone build.mjs). Sin ellos el
+// navegador no reserva el hueco y la portada «salta» al cargar cada foto.
+const medidas = (p) => (p.ancho && p.alto ? ` width="${p.ancho}" height="${p.alto}"` : '');
+
 export function tarjeta(p, { foto = true, nivel = 'media' } = {}) {
   const menor = nivel === 'menor';
   return `<a class="pieza${menor ? ' pieza--menor' : ''}" href="${U(p.url)}" style="${vars(p.concejoSlug)}">
-  ${!menor && foto && p.imagen ? `<img class="pieza__foto" src="${esc(p.imagen)}" alt="" loading="lazy">` : ''}
+  ${!menor && foto && p.imagen ? `<img class="pieza__foto" src="${esc(p.imagen)}" alt=""${medidas(p)} loading="lazy">` : ''}
   <span class="pieza__cuerpo">
     ${chapa(p)}
     <span class="pieza__titular">${esc(tr(p, 'titular'))}</span>
     ${!menor && tr(p, 'entradilla') ? `<span class="pieza__entradilla">${esc(tr(p, 'entradilla'))}</span>` : ''}
-    <span class="firma"><time datetime="${esc(p.fecha)}">${haceCuanto(p.fecha)}</time></span>
+    <span class="firma"><time datetime="${esc(p.fecha)}" data-rel>${haceCuanto(p.fecha)}</time></span>
   </span>
 </a>`;
 }
@@ -378,12 +382,12 @@ export function tarjeta(p, { foto = true, nivel = 'media' } = {}) {
 export function destacada(p) {
   return `<a class="destacada" href="${U(p.url)}" style="${vars(p.concejoSlug)}">
   <span class="destacada__marco">
-    ${p.imagen ? `<img class="destacada__foto" src="${esc(p.imagen)}" alt="" fetchpriority="high">` : ''}
+    ${p.imagen ? `<img class="destacada__foto" src="${esc(p.imagen)}" alt=""${medidas(p)} fetchpriority="high">` : ''}
     <span class="destacada__texto">
       ${chapa(p)}
       <span class="destacada__titular">${esc(tr(p, 'titular'))}</span>
       ${tr(p, 'entradilla') ? `<span class="destacada__entradilla">${esc(tr(p, 'entradilla'))}</span>` : ''}
-      <span class="firma" style="margin-top:14px"><time datetime="${esc(p.fecha)}">${haceCuanto(p.fecha)}</time></span>
+      <span class="firma" style="margin-top:14px"><time datetime="${esc(p.fecha)}" data-rel>${haceCuanto(p.fecha)}</time></span>
     </span>
   </span>
 </a>`;
@@ -395,9 +399,9 @@ export function filaLista(p) {
     ${chapa(p)}
     <span class="tira__titular">${esc(tr(p, 'titular'))}</span>
     ${tr(p, 'entradilla') ? `<span class="tira__entradilla">${esc(tr(p, 'entradilla'))}</span>` : ''}
-    <span class="firma"><time datetime="${esc(p.fecha)}">${haceCuanto(p.fecha)}</time></span>
+    <span class="firma"><time datetime="${esc(p.fecha)}" data-rel>${haceCuanto(p.fecha)}</time></span>
   </span>
-  ${p.imagen ? `<img src="${esc(p.imagen)}" alt="" loading="lazy">` : '<span></span>'}
+  ${p.imagen ? `<img src="${esc(p.imagen)}" alt=""${medidas(p)} loading="lazy">` : '<span></span>'}
 </a></li>`;
 }
 
@@ -1002,8 +1006,8 @@ ${enlaces
  * cuenta de piezas de cada concejo.
  */
 function navegadorConcejos(activo, cuentas = {}) {
-  return `<nav class="navconcejos" aria-label="${esc(T('laLinea'))}">
-  <h2 class="navconcejos__titulo">${esc(T('porConcejo'))}</h2>
+  return `<nav class="navconcejos" aria-labelledby="navconcejos-t">
+  <h2 class="navconcejos__titulo" id="navconcejos-t">${esc(T('porConcejo'))}</h2>
   <ul class="navconcejos__lista">
     ${enLinea()
       .map((c) => {
@@ -1123,6 +1127,8 @@ ${verificacion.google ? `<meta name="google-site-verification" content="${esc(ve
   publisher: { '@type': 'NewsMediaOrganization', name: sitio.nombre, url: sitio.url },
 })}</script>
 ${jsonLd ? `<script type="application/ld+json">${jsonEnScript(jsonLd)}</script>` : ''}
+<meta name="theme-color" content="#fdfcf8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0c0a" media="(prefers-color-scheme: dark)">
 <script>
   try {
     var t = localStorage.getItem('prida-tema');
@@ -1168,7 +1174,7 @@ ${
     <div class="cabecera__alto">
       <a class="marca" href="${U('/')}">
         ${LOGO(54)}
-        <span>
+        <div class="marca__textos">
           ${
             // En la portada, el nombre del diario ES el encabezado de la
             // página: no había ningún h1 y eso deja a un lector de pantalla
@@ -1179,7 +1185,7 @@ ${
               : `<span class="marca__nombre">La Prida</span>`
           }
           <span class="marca__lema">${esc(T('lema'))}</span>
-        </span>
+        </div>
       </a>
       <p class="cabecera__data">
         <span class="cabecera__fecha">${esc(fechaLarga(fecha))}</span>
@@ -1267,7 +1273,7 @@ ${
     var oscuro = raiz.dataset.tema
       ? raiz.dataset.tema === 'oscuro'
       : matchMedia('(prefers-color-scheme: dark)').matches;
-    if (boton) boton.textContent = oscuro ? ${JSON.stringify.name ? '' : ''}DIA : NOCHE;
+    if (boton) boton.textContent = oscuro ? DIA : NOCHE;
   }
   if (boton) {
     boton.addEventListener('click', function () {
@@ -1280,6 +1286,28 @@ ${
     });
   }
   pintar();
+
+  // La hora relativa («hace 2 h») se escribe al publicar y, en una web
+  // estática, se quedaba congelada hasta la edición siguiente. Aquí se
+  // recalcula al abrir la página con la hora del lector. Sin JS se ve la de la
+  // publicación, que es lo que había.
+  var REL = ${JSON.stringify({
+    es: ['hace {n} min', 'hace {n} h', 'ayer', 'hace {n} días'],
+    en: ['{n} min ago', '{n} h ago', 'yesterday', '{n} days ago'],
+    fr: ['il y a {n} min', 'il y a {n} h', 'hier', 'il y a {n} jours'],
+    de: ['vor {n} Min.', 'vor {n} Std.', 'gestern', 'vor {n} Tagen'],
+  }[estado.idioma] ?? null)};
+  if (REL) {
+    document.querySelectorAll('time[data-rel][datetime]').forEach(function (t) {
+      var min = Math.round((Date.now() - new Date(t.getAttribute('datetime')).getTime()) / 60000);
+      if (!(min >= 0)) return;
+      var h = Math.round(min / 60), d = Math.round(h / 24), txt;
+      if (min < 60) txt = REL[0].replace('{n}', Math.max(1, min));
+      else if (h < 24) txt = REL[1].replace('{n}', h);
+      else txt = d === 1 ? REL[2] : REL[3].replace('{n}', d);
+      t.textContent = txt;
+    });
+  }
 
   // Filtros de la cartelera. Progresivo: sin JS se ve todo, que es lo correcto.
   var filtros = document.querySelector('.filtros');
@@ -1792,7 +1820,7 @@ export function paginaArticulo(p, relacionadas, tiempo, cuentas = {}) {
       <time datetime="${esc(p.fecha)}">${esc(fechaLarga(p.fecha))}</time><span>·</span>
       <span>${esc(concejo?.capital ?? p.concejo)}</span>
     </p>
-    ${p.imagen ? `<img class="articulo__foto" src="${esc(p.imagen)}" alt="">` : ''}
+    ${p.imagen ? `<img class="articulo__foto" src="${esc(p.imagen)}" alt=""${medidas(p)}>` : ''}
     ${p.imagen ? `<p class="articulo__pie">${pieDeFoto(p)}</p>` : ''}
     ${
       estado.idioma === IDIOMA_BASE

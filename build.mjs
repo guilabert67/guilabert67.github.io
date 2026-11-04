@@ -17,6 +17,31 @@ import {
 import { esCurso } from './src/lib/eventos.mjs';
 import { portadaSvg } from './src/lib/portadas.mjs';
 
+// Ancho y alto de una foto leyendo solo su cabecera (JPEG, PNG o WebP), sin
+// dependencias. Si no se reconoce, no se ponen medidas: mejor nada que mal.
+function medidasImagen(b) {
+  try {
+    if (b[0] === 0x89 && b[1] === 0x50) return { ancho: b.readUInt32BE(16), alto: b.readUInt32BE(20) };
+    if (b.toString('ascii', 0, 4) === 'RIFF' && b.toString('ascii', 8, 12) === 'WEBP') {
+      const t = b.toString('ascii', 12, 16);
+      if (t === 'VP8X') return { ancho: 1 + b.readUIntLE(24, 3), alto: 1 + b.readUIntLE(27, 3) };
+      if (t === 'VP8 ') return { ancho: b.readUInt16LE(26) & 0x3fff, alto: b.readUInt16LE(28) & 0x3fff };
+      if (t === 'VP8L') { const v = b.readUInt32LE(21); return { ancho: 1 + (v & 0x3fff), alto: 1 + ((v >> 14) & 0x3fff) }; }
+    }
+    if (b[0] === 0xff && b[1] === 0xd8) {
+      let i = 2;
+      while (i < b.length) {
+        if (b[i] !== 0xff) { i++; continue; }
+        const m = b[i + 1];
+        if (m >= 0xc0 && m <= 0xcf && m !== 0xc4 && m !== 0xc8 && m !== 0xcc)
+          return { alto: b.readUInt16BE(i + 5), ancho: b.readUInt16BE(i + 7) };
+        i += 2 + b.readUInt16BE(i + 2);
+      }
+    }
+  } catch {}
+  return {};
+}
+
 const RAIZ = import.meta.dirname;
 const DIST = path.join(RAIZ, 'dist');
 const DATOS = path.join(RAIZ, 'content', 'data');
@@ -1139,6 +1164,7 @@ async function main() {
       );
       p.imagen = `/fotos/${cr.archivo}`;
       p.credito = cr;
+      Object.assign(p, medidasImagen(await fs.readFile(path.join(RAIZ, 'content', 'fotos', cr.archivo))));
       continue;
     }
 
@@ -1147,6 +1173,7 @@ async function main() {
     await escribir(`img/${p.id}.svg`, portadaSvg(p.id, color, motivoDe(p)));
     p.imagen = `/img/${p.id}.svg`;
     p.ilustracion = true;
+    p.ancho = 1200; p.alto = 750; // medidas fijas de portadas.mjs (A × B)
   }
   const despertadorDatos = await json('despertador.json', { puntos: [] });
   const tiempo = await json('tiempo.json', null);

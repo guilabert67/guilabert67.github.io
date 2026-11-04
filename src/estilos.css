@@ -75,7 +75,9 @@
     --duro: 5px 5px 0 var(--linea);
   }
 }
+:root[data-tema='claro'] { color-scheme: light; }
 :root[data-tema='oscuro'] {
+  color-scheme: dark;
   --fondo: #0d0c0a;
   --fondo-2: #171512;
   --fondo-3: #22201b;
@@ -1114,3 +1116,12 @@ a { color: inherit; }
 :root[data-tema='oscuro'] .nota-idioma a { color: #8fb0ff; }
 
 
+
+/* --- Revisión con las Web Interface Guidelines (04/11/2026) ------------------- */
+/* Titulares sin una palabra sola en la última línea. */
+.destacada__titular, .pieza__titular, .tira__titular, .articulo__titular,
+.arranque__frase, .titulo-seccion { text-wrap: balance; }
+/* Cifras que se comparan en columna: todas del mismo ancho. */
+.agenda__dia, .navconcejos__cuenta, .cinta__tiempo { font-variant-numeric: tabular-nums; }
+/* Sin el retraso del doble toque en móviles. */
+a, button { touch-action: manipulation; }
