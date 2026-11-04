@@ -1,5 +1,255 @@
 [
   {
+    "id": "villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan",
+    "url": "/villaviciosa/villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa crea ocho empleos con 229.000 euros",
+    "entradilla": "Seis plazas del Plan Local de Empleo y dos contratos formativos para jóvenes salen adelante con fondos municipales.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa destina 229.523 euros a contratar a ocho personas desempleadas: seis a través del Plan Local de Empleo y dos mediante contratos en prácticas dirigidos a jóvenes.",
+      "El material disponible no detalla los perfiles buscados ni los plazos de solicitud, así que conviene estar atento a los anuncios oficiales del consistorio para conocer las condiciones exactas."
+    ],
+    "apunte": "229.000 euros para ocho contratos: no es un pelotazo, pero algo es algo.",
+    "enVeinte": [],
+    "cifra": {
+      "numero": "229.523",
+      "unidad": "euros",
+      "glosa": "Es la cantidad que el Ayuntamiento de Villaviciosa dedica a este plan de empleo. Se reparte entre seis plazas ordinarias y dos contratos formativos para jóvenes."
+    },
+    "palabra": null,
+    "porQue": "Si estás en paro o conoces a alguien que lo esté, el concejo saca en breve ocho puestos de trabajo financiados con dinero municipal: vale la pena seguir los tablones oficiales.",
+    "etiquetas": [
+      "empleo",
+      "Villaviciosa",
+      "plan de empleo",
+      "jóvenes"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2025/03/27/2025032712443355039.jpg",
+    "fecha": "2026-11-04T08:24:03.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-contratara-ocho-personas-plan-empleo/20261104092403105196.html",
+      "titularOriginal": "Villaviciosa contratará a ocho personas desempleadas con un nuevo plan de empleo y contratos en prácticas"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa creates eight jobs with 229,000 euros",
+        "entradilla": "Six places under the Plan Local de Empleo and two training contracts for young people go ahead with municipal funds.",
+        "cuerpo": [
+          "The council of Villaviciosa is committing 229,523 euros to hire eight unemployed people: six through the Plan Local de Empleo and two through trainee contracts aimed at young people.",
+          "The available material does not detail the profiles sought or the application deadlines, so it is worth keeping an eye on the council's official announcements for the exact conditions."
+        ],
+        "apunte": "229,000 euros for eight contracts: it's no windfall, but it's something.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "229,523",
+          "unidad": "euros",
+          "glosa": "This is the amount that the Villaviciosa council is dedicating to this employment plan. It is split between six standard positions and two training contracts for young people."
+        },
+        "palabra": null,
+        "porQue": "If you are out of work, or know someone who is, the Villaviciosa municipality will shortly be advertising eight posts funded with municipal money: it is worth following the official notice boards.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa crée huit emplois avec 229 000 euros",
+        "entradilla": "Six postes du Plan Local de Empleo et deux contrats de formation pour les jeunes voient le jour grâce à des fonds municipaux.",
+        "cuerpo": [
+          "La mairie de Villaviciosa consacre 229 523 euros au recrutement de huit personnes sans emploi : six dans le cadre du Plan Local de Empleo et deux par le biais de contrats en alternance destinés aux jeunes.",
+          "Les éléments disponibles ne précisent pas les profils recherchés ni les délais de candidature ; il convient donc de suivre attentivement les annonces officielles de la mairie pour connaître les conditions exactes."
+        ],
+        "apunte": "229 000 euros pour huit contrats : ce n'est pas le jackpot, mais c'est toujours ça.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "229 523",
+          "unidad": "euros",
+          "glosa": "C'est la somme que la mairie de Villaviciosa consacre à ce plan pour l'emploi. Elle se répartit entre six postes ordinaires et deux contrats de formation pour les jeunes."
+        },
+        "palabra": null,
+        "porQue": "Si vous êtes au chômage ou si vous connaissez quelqu'un qui l'est, la commune de Villaviciosa va prochainement ouvrir huit postes financés par des fonds municipaux : cela vaut la peine de surveiller les tableaux d'affichage officiels.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa schafft acht Stellen mit 229.000 Euro",
+        "entradilla": "Sechs Stellen aus dem Plan Local de Empleo und zwei Ausbildungsverträge für junge Menschen werden mit kommunalen Mitteln finanziert.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa stellt 229.523 Euro bereit, um acht Arbeitslose einzustellen: sechs über den Plan Local de Empleo und zwei über Praktikumsverträge, die sich an junge Menschen richten.",
+          "Die verfügbaren Unterlagen enthalten keine Angaben zu den gesuchten Profilen oder den Bewerbungsfristen. Es empfiehlt sich daher, die offiziellen Bekanntmachungen des Rathauses aufmerksam zu verfolgen, um die genauen Bedingungen zu erfahren."
+        ],
+        "apunte": "229.000 Euro für acht Stellen: kein großer Wurf, aber immerhin etwas.",
+        "enVeinte": [],
+        "cifra": {
+          "numero": "229.523",
+          "unidad": "Euro",
+          "glosa": "Das ist der Betrag, den das Rathaus von Villaviciosa für diesen Beschäftigungsplan aufwendet. Er verteilt sich auf sechs reguläre Stellen und zwei Ausbildungsverträge für junge Menschen."
+        },
+        "palabra": null,
+        "porQue": "Wer arbeitslos ist oder jemanden kennt, der es ist: Die Gemeinde Villaviciosa wird in Kürze acht mit kommunalen Mitteln finanzierte Stellen ausschreiben. Es lohnt sich, die offiziellen Aushänge im Blick zu behalten.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "seis plazas del plan local de empleo y",
+      "plazas del plan local de empleo y dos",
+      "del plan local de empleo y dos contratos",
+      "plan local de empleo y dos contratos formativos",
+      "local de empleo y dos contratos formativos para",
+      "de empleo y dos contratos formativos para jovenes"
+    ]
+  },
+  {
+    "id": "la-armadura-de-acero-avanza-en-el-estribo-oeste-del-puente-de-ribadese",
+    "url": "/pilona/la-armadura-de-acero-avanza-en-el-estribo-oeste-del-puente-de-ribadese/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "El puente de Ribadesella ya gana estructura",
+    "entradilla": "Diez días después del cierre total al tráfico, la obra avanza con la colocación de la armadura de acero en el estribo oeste.",
+    "cuerpo": [
+      "Las obras del puente de Ribadesella llevan diez días sin dejar pasar un solo vehículo, y el trabajo es visible: en el estribo más próximo al Muellín ya se coloca la armadura de acero que servirá de base para el hormigón armado con el que se reforzará esa parte de la estructura.",
+      "El proceso sigue un orden concreto: primero la armadura metálica, luego el encofrado que moldea la forma del nuevo estribo y, por último, el vertido del hormigón. El primer vano en desaparecer ha sido el número 14, el más cercano al puerto deportivo.",
+      "El cierre no tiene fecha de fin definitiva, aunque se sabe que se prolongará al menos hasta marzo de 2027, cuando la intención es haber demolido y reconstruido el tablero entero, tramo a tramo. Este miércoles, a las 11:30, el presidente del PP de Asturias, Álvaro Queipo, visita el puente junto al alcalde Paulo García, en la glorieta entre los paseos Vencedores del Sella y Princesa Letizia."
+    ],
+    "apunte": "Más de cien jornadas por delante y solo llevan diez: paciencia.",
+    "enVeinte": [
+      "El puente de Ribadesella lleva diez días cerrado al tráfico y ya empiezan los trabajos de refuerzo del primer estribo.",
+      "Las obras se prolongarán como mínimo hasta marzo de 2027, cuando se habrá reconstruido el tablero vano a vano.",
+      "Este miércoles a las 11:30 el presidente del PP asturiano visita las obras junto al alcalde de Ribadesella."
+    ],
+    "cifra": {
+      "numero": "+100",
+      "unidad": "jornadas de cierre",
+      "glosa": "El puente de Ribadesella permanecerá cortado al tráfico durante más de cien días a partir de ahora. En total, el cierre se extenderá hasta marzo de 2027, lo que convierte este corte en uno de los más prolongados que ha vivido la villa."
+    },
+    "palabra": {
+      "termino": "Muellín",
+      "como": "mu-YÍN",
+      "definicion": "Nombre con el que se conoce el puerto deportivo de Ribadesella. El diminutivo en asturiano marca cariño o tamaño reducido, y aquí lleva generaciones pegado a ese rincón de la ría."
+    },
+    "porQue": "Quien cruza el puente de Ribadesella a diario para ir a trabajar o de compras tendrá que buscar ruta alternativa durante meses: el corte total dura hasta marzo de 2027.",
+    "etiquetas": [
+      "puente de Ribadesella",
+      "obras",
+      "corte de tráfico",
+      "infraestructuras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/11/PUENTE-RIBADESELLA-03.11.2026-Demolicion-5-scaled.jpg",
+    "fecha": "2026-11-03T21:01:01.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/03/11/2026/la-armadura-de-acero-avanza-en-el-estribo-oeste-del-puente-de-ribadesella/",
+      "titularOriginal": "La armadura de acero avanza en el estribo oeste del puente de Ribadesella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ribadesella bridge is already gaining structure",
+        "entradilla": "Ten days after the full closure to traffic, work is advancing with the placement of the steel reinforcement on the west abutment.",
+        "cuerpo": [
+          "Work on Ribadesella bridge has now kept every vehicle out for ten days, and progress is visible: on the abutment closest to the Muellín, the steel reinforcement that will serve as the base for the reinforced concrete used to strengthen that part of the structure is already being installed.",
+          "The process follows a specific order: first the metal reinforcement, then the formwork that shapes the new abutment, and finally the concrete pour. The first span to be removed has been number 14, the one closest to the marina.",
+          "The closure has no definitive end date, though it is known it will last at least until March 2027, by which point the intention is to have demolished and rebuilt the entire deck, span by span. This Wednesday at 11:30, the president of the PP of Asturias, Álvaro Queipo, will visit the bridge alongside mayor Paulo García, at the roundabout between the Vencedores del Sella and Princesa Letizia promenades."
+        ],
+        "apunte": "More than a hundred days still to go and they are only ten in: patience.",
+        "enVeinte": [
+          "Ribadesella bridge has been closed to traffic for ten days and work to reinforce the first abutment is already under way.",
+          "Works will continue for at least until March 2027, by which point the deck will have been rebuilt span by span.",
+          "This Wednesday at 11:30 the president of the Asturian PP will visit the works alongside the mayor of Ribadesella."
+        ],
+        "cifra": {
+          "numero": "+100",
+          "unidad": "days of closure",
+          "glosa": "Ribadesella bridge will remain closed to traffic for more than a hundred days from now. The closure will run in total until March 2027, making this one of the longest the town has ever experienced."
+        },
+        "palabra": {
+          "termino": "Muellín",
+          "como": "mu-YÍN",
+          "definicion": "The name by which the marina at Ribadesella is known. The diminutive suffix in Asturian conveys affection or small size, and it has been attached to this corner of the estuary for generations."
+        },
+        "porQue": "Anyone who crosses Ribadesella bridge every day to go to work or to the shops will have to find an alternative route for months: the full closure runs until March 2027.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le pont de Ribadesella prend déjà de la consistance",
+        "entradilla": "Dix jours après la fermeture totale à la circulation, les travaux avancent avec la pose de l'armature en acier sur la culée ouest.",
+        "cuerpo": [
+          "Les travaux du pont de Ribadesella ont empêché le passage de tout véhicule pendant dix jours, et l'avancement est visible : sur la culée la plus proche du Muellín, on pose déjà l'armature en acier qui servira de base au béton armé destiné à renforcer cette partie de l'ouvrage.",
+          "Le processus suit un ordre précis : d'abord l'armature métallique, puis le coffrage qui moule la forme de la nouvelle culée et, enfin, le coulage du béton. La première travée à disparaître a été la numéro 14, la plus proche du port de plaisance.",
+          "La fermeture n'a pas de date de fin définitive, bien qu'elle doive se prolonger au moins jusqu'en mars 2027, date à laquelle l'objectif est d'avoir démoli et reconstruit l'ensemble du tablier, travée par travée. Ce mercredi à 11 h 30, le président du PP des Asturies, Álvaro Queipo, visitera le pont aux côtés du maire Paulo García, au rond-point situé entre les promenades Vencedores del Sella et Princesa Letizia."
+        ],
+        "apunte": "Plus de cent jours à venir et dix seulement d'écoulés : patience.",
+        "enVeinte": [
+          "Le pont de Ribadesella est fermé à la circulation depuis dix jours et les travaux de renforcement de la première culée ont déjà commencé.",
+          "Les travaux se prolongeront au moins jusqu'en mars 2027, date à laquelle le tablier aura été reconstruit travée par travée.",
+          "Ce mercredi à 11 h 30, le président du PP des Asturies visitera le chantier aux côtés du maire de Ribadesella."
+        ],
+        "cifra": {
+          "numero": "+100",
+          "unidad": "jours de fermeture",
+          "glosa": "Le pont de Ribadesella restera fermé à la circulation pendant plus de cent jours à partir de maintenant. Au total, la fermeture s'étendra jusqu'en mars 2027, ce qui en fait l'une des plus longues qu'ait connues la ville."
+        },
+        "palabra": {
+          "termino": "Muellín",
+          "como": "mu-YÍN",
+          "definicion": "Nom par lequel on désigne le port de plaisance de Ribadesella. Le suffixe diminutif en asturien exprime l'affection ou une taille réduite, et il est attaché à ce coin de la ria depuis des générations."
+        },
+        "porQue": "Ceux qui traversent le pont de Ribadesella chaque jour pour aller travailler ou faire leurs courses devront trouver un itinéraire alternatif pendant des mois : la fermeture totale court jusqu'en mars 2027.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Brücke von Ribadesella nimmt bereits Gestalt an",
+        "entradilla": "Zehn Tage nach der vollständigen Sperrung für den Verkehr schreiten die Arbeiten voran: Am westlichen Widerlager wird bereits die Stahlarmierung verlegt.",
+        "cuerpo": [
+          "Die Bauarbeiten an der Brücke von Ribadesella haben nun seit zehn Tagen jede Durchfahrt verhindert, und die Fortschritte sind sichtbar: Am Widerlager, das dem Muellín am nächsten liegt, wird bereits die Stahlarmierung eingebaut, die als Grundlage für den Stahlbeton dient, mit dem dieser Teil des Bauwerks verstärkt werden soll.",
+          "Der Ablauf folgt einer bestimmten Reihenfolge: zuerst die Metallarmierung, dann die Schalung, die die Form des neuen Widerlagers vorgibt, und schließlich das Betonieren. Das erste Feld, das abgetragen wurde, war Nummer 14, das dem Sporthafen am nächsten gelegene.",
+          "Die Sperrung hat kein endgültiges Enddatum, doch ist bekannt, dass sie mindestens bis März 2027 andauern wird. Bis dahin soll die gesamte Fahrbahnplatte Feld für Feld abgerissen und neu aufgebaut worden sein. Diesen Mittwoch um 11:30 Uhr besucht der Vorsitzende der PP Asturiens, Álvaro Queipo, die Brücke gemeinsam mit Bürgermeister Paulo García am Kreisverkehr zwischen den Promenaden Vencedores del Sella und Princesa Letizia."
+        ],
+        "apunte": "Noch mehr als hundert Tage vor sich und erst zehn vergangen: Geduld.",
+        "enVeinte": [
+          "Die Brücke von Ribadesella ist seit zehn Tagen für den Verkehr gesperrt, und die Verstärkungsarbeiten am ersten Widerlager haben bereits begonnen.",
+          "Die Arbeiten dauern mindestens bis März 2027, bis dahin wird die Fahrbahnplatte Feld für Feld neu aufgebaut worden sein.",
+          "Diesen Mittwoch um 11:30 Uhr besucht der Vorsitzende der asturischen PP die Baustelle gemeinsam mit dem Bürgermeister von Ribadesella."
+        ],
+        "cifra": {
+          "numero": "+100",
+          "unidad": "Tage der Sperrung",
+          "glosa": "Die Brücke von Ribadesella bleibt ab sofort für mehr als hundert Tage für den Verkehr gesperrt. Die Sperrung erstreckt sich insgesamt bis März 2027 und ist damit eine der längsten, die der Ort je erlebt hat."
+        },
+        "palabra": {
+          "termino": "Muellín",
+          "como": "mu-YÍN",
+          "definicion": "Name des Sporthafens von Ribadesella. Die asturische Verkleinerungsendung drückt Zuneigung oder geringe Größe aus und haftet seit Generationen an diesem Winkel der Ría."
+        },
+        "porQue": "Wer die Brücke von Ribadesella täglich auf dem Weg zur Arbeit oder zum Einkaufen überquert, muss monatelang eine Umleitung suchen: Die Vollsperrung gilt bis März 2027.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "entre los paseos vencedores del sella y princesa",
+      "los paseos vencedores del sella y princesa letizia"
+    ]
+  },
+  {
     "id": "el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co",
     "url": "/villaviciosa/el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co/",
     "concejo": "Villaviciosa",
@@ -41405,295 +41655,6 @@
         "palabra": null,
         "porQue": "Der Sella ist das meistverfolgte Kanurennen des asturischen Sommers, und dass ein starkes Duo am Samstag als Erstes startet, ist Grund genug, das Rennen aufmerksam zu verfolgen.",
         "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "despejada-la-salida-del-sella",
-    "url": "/pilona/despejada-la-salida-del-sella/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "El Sella ya tiene paso libre en la salida",
-    "entradilla": "Retiran el lleráu que cortaba el cauce justo donde arranca el Descenso Internacional.",
-    "cuerpo": [
-      "El cauce del Sella estaba estrangulado por un lleráu en el punto exacto donde comienza el Descenso Internacional. Esa acumulación de ramas y restos ya ha sido eliminada.",
-      "La salida de la prueba queda así despejada de cara a la bajada."
-    ],
-    "apunte": "El río no esperaba, y al final alguien fue a buscarlo.",
-    "enVeinte": [
-      "Han retirado el lleráu que bloqueaba el cauce del Sella en la salida del Descenso Internacional.",
-      "El tramo quedaba estrangulado justo en el punto de arranque de la prueba.",
-      "El paso está ya despejado."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "lleráu",
-      "como": "lle-RÁ-u",
-      "definicion": "En asturiano, un lleráu es un tapón de ramas, troncos y restos arrastrados por la corriente que se acumula en un punto del río y corta o estrecha el paso del agua. Puede formarse de manera natural tras crecidas o tormentas."
-    },
-    "porQue": "Con el lleráu fuera, el cauce queda en condiciones para el Descenso Internacional del Sella, la cita más señalada del verano en la comarca.",
-    "etiquetas": [
-      "Sella",
-      "Descenso Internacional",
-      "Piloña",
-      "río"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/06/2026080610364069287.jpg",
-    "fecha": "2026-08-06T08:38:50.000Z",
-    "fuente": {
-      "nombre": "El Fielato · Deportes",
-      "url": "https://www.elfielato.es/articulo/deportes/despejada-salida-descenso-sella-arriondas/20260806103850100855.html",
-      "titularOriginal": "Despejada la salida del Sella"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The Sella now has a clear passage at the starting point",
-        "entradilla": "The lleráu (a logjam) blocking the riverbed right where the Descenso Internacional begins has been removed.",
-        "cuerpo": [
-          "The Sella's riverbed was choked by a lleráu at the exact point where the Descenso Internacional starts. That accumulation of branches and debris has now been cleared.",
-          "The race's starting stretch is now free ahead of the descent."
-        ],
-        "apunte": "The river wasn't going to wait, and in the end someone went to sort it out.",
-        "enVeinte": [
-          "The lleráu blocking the Sella's riverbed at the start of the Descenso Internacional has been removed.",
-          "The stretch was choked right at the race's starting point.",
-          "The passage is now clear."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "lleráu",
-          "como": "lle-RÁ-u",
-          "definicion": "In Asturian, a lleráu is a plug of branches, logs and debris carried by the current that builds up at a point in the river and blocks or narrows the flow of water. It can form naturally after floods or storms."
-        },
-        "porQue": "With the lleráu gone, the riverbed is in condition for the Descenso Internacional del Sella, the biggest event of the summer in the county.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Sella est à nouveau libre à son point de départ",
-        "entradilla": "Le lleráu (embâcle) qui obstruait le lit du fleuve juste à l'endroit où commence le Descenso Internacional a été retiré.",
-        "cuerpo": [
-          "Le lit de la Sella était étranglé par un lleráu à l'endroit précis où débute le Descenso Internacional. Cette accumulation de branches et de débris a désormais été éliminée.",
-          "La zone de départ de l'épreuve se retrouve ainsi dégagée avant la descente."
-        ],
-        "apunte": "Le fleuve n'attendait pas, et quelqu'un a fini par aller s'en occuper.",
-        "enVeinte": [
-          "Le lleráu qui bloquait le lit de la Sella au départ du Descenso Internacional a été retiré.",
-          "Le tronçon était étranglé juste au point de départ de l'épreuve.",
-          "Le passage est désormais dégagé."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "lleráu",
-          "como": "lle-RÁ-u",
-          "definicion": "En asturien, un lleráu est un bouchon de branches, de troncs et de débris charriés par le courant qui s'accumule en un point du fleuve et bloque ou rétrécit le passage de l'eau. Il peut se former naturellement après des crues ou des tempêtes."
-        },
-        "porQue": "Avec le lleráu retiré, le lit du fleuve est en état pour le Descenso Internacional del Sella, le rendez-vous le plus important de l'été dans la commune.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die Sella ist am Startpunkt wieder frei",
-        "entradilla": "Der lleráu (Verklausung), der das Flussbett genau dort versperrte, wo der Descenso Internacional beginnt, wurde entfernt.",
-        "cuerpo": [
-          "Das Flussbett der Sella war an der genauen Stelle, wo der Descenso Internacional beginnt, durch einen lleráu eingeschnürt. Diese Ansammlung aus Ästen und Treibgut ist inzwischen beseitigt worden.",
-          "Der Startbereich des Rennens ist damit für die Abfahrt freigemacht."
-        ],
-        "apunte": "Der Fluss wartete nicht, und am Ende kümmerte sich jemand darum.",
-        "enVeinte": [
-          "Der lleráu, der das Flussbett der Sella am Start des Descenso Internacional blockierte, wurde entfernt.",
-          "Der Abschnitt war genau am Startpunkt des Rennens eingeschnürt.",
-          "Der Durchfluss ist jetzt frei."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "lleráu",
-          "como": "lle-RÁ-u",
-          "definicion": "Im Asturischen bezeichnet lleráu einen Pfropfen aus Ästen, Baumstämmen und Treibgut, den die Strömung an einer Stelle des Flusses aufschichtet und der den Wasserfluss blockiert oder einengt. Er kann sich nach Hochwasser oder Stürmen auf natürliche Weise bilden."
-        },
-        "porQue": "Ohne den lleráu ist das Flussbett bereit für den Descenso Internacional del Sella, das bedeutendste Ereignis des Sommers in der Gemeinde.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "cuarto-alcuentru-de-folclor-de-l-infiestu",
-    "url": "/pilona/cuarto-alcuentru-de-folclor-de-l-infiestu/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "El Alcuentru de Folclor llega a su cuarta edición",
-    "entradilla": "L'Infiestu acoge los días 11 y 12 de septiembre una nueva entrega del encuentro que lleva el folclore a las calles y los bares del pueblo.",
-    "cuerpo": [
-      "El IV Alcuentru de Folclor de L'Infiestu se celebra el viernes 11 y el sábado 12 de septiembre. La propuesta es la misma de siempre: música tradicional fuera de los escenarios, con rondas por plazas y bares para que la gente la disfrute de cerca.",
-      "El viernes abre el dúo cántabro Casapalma, formado por Irene Atienza y Yoel Molina, con más de quince años en el mundo de la música. Su segundo disco, JOTAS, mezcla ritmos de baile tradicional con electrónica. Tocan en La Benéfica, la sala Casa Palma. Las entradas ya están a la venta: 10 euros en general y 8 euros para las Amigas con Derechos.",
-      "Lo que se recaude va íntegro a cubrir los costes del Alcuentru. El programa del sábado 12 no se ha publicado completo en el material disponible, así que habrá que estar atentos a los canales propios del evento para conocer el resto de la programación."
-    ],
-    "apunte": "Cuatro años bajando el folclore del escenario a la calle, y parece que la fórmula no falla.",
-    "enVeinte": [
-      "El Alcuentru de Folclor de L'Infiestu celebra su cuarta edición los días 11 y 12 de septiembre con música tradicional en plazas y bares.",
-      "El viernes 11 abre el dúo cántabro Casapalma en La Benéfica; las entradas cuestan 10 euros (8 para Amigas con Derechos).",
-      "La programación del sábado 12 aún no está publicada completa; conviene seguir los canales del evento para más detalles."
-    ],
-    "cifra": {
-      "numero": "4",
-      "unidad": "ediciones",
-      "glosa": "El Alcuentru de Folclor nació con la idea de acercar la música tradicional a la calle. Llegar a la cuarta edición confirma que el formato ha cuajado en Infiesto."
-    },
-    "palabra": {
-      "termino": "alcuentru",
-      "como": "al-CUEN-tru",
-      "definicion": "Palabra asturiana para 'encuentro'. En este contexto da nombre a un festival de folclore donde grupos de distintos lugares se juntan para compartir músicas y bailes tradicionales."
-    },
-    "porQue": "Quien vive en Piloña tiene a dos pasos un fin de semana de música en vivo, en la calle y a precio de barra, sin tener que moverse a una capital.",
-    "etiquetas": [
-      "folclore",
-      "Infiesto",
-      "Piloña",
-      "música tradicional"
-    ],
-    "fechaEvento": "2026-09-11",
-    "tipoEvento": "concierto",
-    "lugar": "La Benéfica (viernes 11)",
-    "hora": "",
-    "precio": "10 € general, 8 € Amigas con Derechos",
-    "imagen": "",
-    "imagenFuente": "https://labenefica.org/wp-content/uploads/2025/10/Naysemeya-_-Alcuentru2025-133-1300x650.jpg",
-    "fecha": "2026-08-06T07:30:38.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://labenefica.org/cuarto-alcuentru-de-folclor-de-linfiestu/?utm_source=rss&utm_medium=rss&utm_campaign=cuarto-alcuentru-de-folclor-de-linfiestu",
-      "titularOriginal": "Cuarto Alcuentru de Folclor de L’Infiestu"
-    },
-    "reescrito": true,
-    "trad": {},
-    "revisar": [
-      "las entradas ya estan a la venta 10"
-    ]
-  },
-  {
-    "id": "bonitada-en-san-justo-villaviciosa-para-honrar-a-sus-patronos",
-    "url": "/villaviciosa/bonitada-en-san-justo-villaviciosa-para-honrar-a-sus-patronos/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "San Justo se viste de fiesta en Villaviciosa",
-    "entradilla": "San Justo prepara la bonitada para honrar a sus dos patronos y a la Sacramental.",
-    "cuerpo": [
-      "La localidad de San Justo, en el concejo de Villaviciosa, tiene todo a punto para celebrar sus fiestas patronales en honor a San Justo y San Pastor, junto con la festividad de la Sacramental.",
-      "El material disponible no detalla horarios ni programa concreto, pero la bonitada —la fiesta grande del pueblo— es el eje de los festejos."
-    ],
-    "apunte": "Dos santos de golpe y la Sacramental: San Justo no se queda corto en advocaciones.",
-    "enVeinte": [
-      "San Justo, en Villaviciosa, celebra sus fiestas patronales en honor a San Justo y San Pastor.",
-      "Los festejos incluyen también la festividad de la Sacramental.",
-      "La bonitada es el nombre local con el que se conoce la celebración principal."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "bonitada",
-      "como": "bo-ni-tá-da",
-      "definicion": "En Asturias, nombre que reciben ciertas fiestas locales de carácter popular, normalmente las más señaladas del calendario de un pueblo o parroquia. Viene a ser la fiesta grande, la que se espera todo el año."
-    },
-    "porQue": "Si vives en San Justo o tienes familia allí, es la fiesta del año; si pasas por Villaviciosa esos días, toca desviarte o sumarte.",
-    "etiquetas": [
-      "San Justo",
-      "Villaviciosa",
-      "fiestas patronales",
-      "bonitada"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "fiesta",
-    "lugar": "San Justo, Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/05/bonitada-san-justo-kH8F-RPeVxIoEwSykq76mjz5okEO-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-06T05:22:19.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/bonitada-san-justo-villaviciosa-honrar-patronos-20260805114242-nt.html",
-      "titularOriginal": "Bonitada en San Justo, Villaviciosa, para honrar a sus patronos"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "San Justo dresses up for the festival in Villaviciosa",
-        "entradilla": "San Justo is getting ready for the bonitada (the village's great feast) to honour its two patron saints and the Sacramental.",
-        "cuerpo": [
-          "The village of San Justo, in the municipality of Villaviciosa, is all set to celebrate its patron saint festival in honour of San Justo and San Pastor, together with the feast of the Sacramental.",
-          "The available material does not detail specific times or a full programme, but the bonitada — the village's great feast — is the centrepiece of the celebrations."
-        ],
-        "apunte": "Two saints at once and the Sacramental: San Justo is not short of dedications.",
-        "enVeinte": [
-          "San Justo, in Villaviciosa, celebrates its patron saint festival in honour of San Justo and San Pastor.",
-          "The festivities also include the feast of the Sacramental.",
-          "Bonitada is the local name for the main celebration."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "bonitada",
-          "como": "bo-ni-tá-da",
-          "definicion": "In Asturias, the name given to certain popular local festivals, usually the most important ones in a village or parish calendar. It is, in short, the big feast — the one people look forward to all year."
-        },
-        "porQue": "If you live in San Justo or have family there, this is the event of the year; if you happen to be passing through Villaviciosa on those days, it is worth making a detour — or joining in.",
-        "lugar": "San Justo, Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "San Justo se pare de fête à Villaviciosa",
-        "entradilla": "San Justo se prépare pour la bonitada (la grande fête du village) en l'honneur de ses deux saints patrons et de la Sacramental.",
-        "cuerpo": [
-          "Le village de San Justo, dans la commune de Villaviciosa, est fin prêt pour célébrer ses fêtes patronales en l'honneur de San Justo et San Pastor, ainsi que la festivité de la Sacramental.",
-          "Le matériel disponible ne précise pas les horaires ni le programme détaillé, mais la bonitada — la grande fête du village — est au cœur des réjouissances."
-        ],
-        "apunte": "Deux saints d'un coup et la Sacramental : San Justo ne manque pas de vocables.",
-        "enVeinte": [
-          "San Justo, à Villaviciosa, célèbre ses fêtes patronales en l'honneur de San Justo et San Pastor.",
-          "Les festivités comprennent également la fête de la Sacramental.",
-          "Bonitada est le nom local donné à la célébration principale."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "bonitada",
-          "como": "bo-ni-tá-da",
-          "definicion": "En Asturies, nom donné à certaines fêtes locales de caractère populaire, généralement les plus importantes du calendrier d'un village ou d'une paroisse. C'est, en somme, la grande fête — celle que l'on attend toute l'année."
-        },
-        "porQue": "Si vous habitez à San Justo ou si vous y avez de la famille, c'est l'événement de l'année ; si vous traversez Villaviciosa ces jours-là, cela vaut le détour — ou la participation.",
-        "lugar": "San Justo, Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "San Justo feiert in Villaviciosa",
-        "entradilla": "San Justo bereitet die bonitada (das große Dorffest) vor, um seine zwei Schutzpatrone und die Sacramental zu ehren.",
-        "cuerpo": [
-          "Das Dorf San Justo in der Gemeinde Villaviciosa ist bereit, seine Patronatsfeste zu Ehren von San Justo und San Pastor sowie das Fest der Sacramental zu begehen.",
-          "Das vorliegende Material enthält weder genaue Zeiten noch ein detailliertes Programm, doch die bonitada — das große Dorffest — steht im Mittelpunkt der Feierlichkeiten."
-        ],
-        "apunte": "Zwei Heilige auf einmal und die Sacramental: San Justo ist wahrlich nicht arm an Patrozinien.",
-        "enVeinte": [
-          "San Justo in Villaviciosa begeht seine Patronatsfeste zu Ehren von San Justo und San Pastor.",
-          "Zu den Feierlichkeiten gehört auch das Fest der Sacramental.",
-          "Bonitada ist der ortsübliche Name für die Hauptfeier."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "bonitada",
-          "como": "bo-ni-tá-da",
-          "definicion": "In Asturien die Bezeichnung für bestimmte volkstümliche Ortsfeste, in der Regel die bedeutendsten im Kalender eines Dorfes oder einer Pfarrei. Gemeint ist schlicht das große Fest — dasjenige, auf das man das ganze Jahr wartet."
-        },
-        "porQue": "Wer in San Justo wohnt oder Familie dort hat, erlebt das Ereignis des Jahres; wer an diesen Tagen durch Villaviciosa kommt, sollte einen Umweg einplanen — oder einfach mitmachen.",
-        "lugar": "San Justo, Villaviciosa",
         "precio": ""
       }
     }

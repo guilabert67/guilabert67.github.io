@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-11-03T17:50:09.097Z",
+  "fecha": "2026-11-04T10:00:24.804Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "Cruzar el Sella en tractor por la A-8 resulta inviable: cien minutos de espera.",
-      "enlace": "/pilona/los-tractores-cuestionan-la-alternativa-de-circular-por-la-a-8-tras-el/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa oferta ocho empleos de hasta un año; también hay plazas formativas.",
-      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-convoca-ocho-puestos-de-trabajo-con-co/"
+      "frase": "Villaviciosa crea ocho empleos nuevos con 229.000 euros del municipio.",
+      "enlace": "/villaviciosa/villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan/"
     },
     {
-      "concejo": "Nava",
-      "frase": "Nava estrena concurso navideño: ya puedes apuntarte para decorar tu escaparate.",
-      "enlace": "/nava/concurso-de-iluminacion-y-decoracion-navidena/"
+      "concejo": "Piloña",
+      "frase": "El puente de Ribadesella toma forma: ya tiene armadura de acero en el estribo oeste.",
+      "enlace": "/pilona/la-armadura-de-acero-avanza-en-el-estribo-oeste-del-puente-de-ribadese/"
     }
   ]
 }
