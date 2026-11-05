@@ -1,5 +1,552 @@
 [
   {
+    "id": "la-sidra-de-hielo-dop-estara-a-la-venta-este-verano",
+    "url": "/villaviciosa/la-sidra-de-hielo-dop-estara-a-la-venta-este-verano/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "La Sidra de Hielo DOP llega este verano",
+    "entradilla": "La Denominación de Origen la presenta como un producto de alto valor añadido para el sector sidrero.",
+    "cuerpo": [
+      "La Sidra de Hielo con Denominación de Origen Protegida estará disponible para el consumidor este verano, según ha anunciado la propia DOP.",
+      "Desde la Denominación subrayan que este producto aporta un valor añadido muy elevado al sector, lo que lo convierte en una apuesta estratégica para los productores de la zona."
+    ],
+    "apunte": "La sidra de hielo: para quien le parece poco fresquita la del grifo.",
+    "enVeinte": [
+      "La Sidra de Hielo con Denominación de Origen Protegida saldrá a la venta este verano.",
+      "La DOP la defiende como un producto clave por el alto valor añadido que genera para el sector.",
+      "Es una apuesta de posicionamiento para los elaboradores de sidra de la zona."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "DOP",
+      "como": "D-O-P, por las siglas",
+      "definicion": "Denominación de Origen Protegida: un sello europeo que garantiza que el producto se elabora en una zona concreta y bajo unas normas fijadas. En el caso de la sidra asturiana, ampara tanto la elaboración como la materia prima."
+    },
+    "porQue": "Si la Sidra de Hielo DOP llega este verano a las tiendas, los vecinos del concejo tendrán al alcance un producto elaborado aquí mismo con un reconocimiento europeo que puede abrir mercados nuevos para el sector local.",
+    "etiquetas": [
+      "sidra",
+      "DOP",
+      "Villaviciosa",
+      "sector sidrero"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/05/sidra-hielo-Rqyoljn2xNbOzvwhTIOIfzH-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-05T18:42:14.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/sidra-hielo-dop-venta-verano-20261105180458-nt.html",
+      "titularOriginal": "La Sidra de Hielo DOP estará a la venta este verano"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ice Cider DOP arrives this summer",
+        "entradilla": "The Protected Designation of Origin presents it as a high added-value product for the cider industry.",
+        "cuerpo": [
+          "Ice Cider with Protected Designation of Origin will be available to consumers this summer, as announced by the DOP itself.",
+          "The Designation emphasises that this product brings very high added value to the industry, making it a strategic bet for producers in the area."
+        ],
+        "apunte": "Ice cider: for those who find the draught a little too refreshing as it is.",
+        "enVeinte": [
+          "Ice Cider with Protected Designation of Origin will go on sale this summer.",
+          "The DOP champions it as a key product for the high added value it generates for the industry.",
+          "It is a positioning bet for cider makers in the area."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "D-O-P, each letter said separately",
+          "definicion": "Denominación de Origen Protegida: a European seal guaranteeing that the product is made in a specific area and under fixed regulations. In the case of Asturian cider, it covers both the production process and the raw material."
+        },
+        "porQue": "If Ice Cider DOP reaches the shops this summer, residents of the municipality will have within reach a product made right here, carrying a European recognition that could open new markets for the local industry.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Cidre de Glace DOP arrive cet été",
+        "entradilla": "L'Appellation d'Origine le présente comme un produit à haute valeur ajoutée pour le secteur cidricole.",
+        "cuerpo": [
+          "Le Cidre de Glace avec Appellation d'Origine Protégée sera disponible pour les consommateurs cet été, selon l'annonce faite par la DOP elle-même.",
+          "L'Appellation souligne que ce produit apporte une très haute valeur ajoutée au secteur, ce qui en fait un pari stratégique pour les producteurs de la zone."
+        ],
+        "apunte": "Le cidre de glace : pour ceux qui trouvent celui du robinet un peu trop frais.",
+        "enVeinte": [
+          "Le Cidre de Glace avec Appellation d'Origine Protégée sera mis en vente cet été.",
+          "La DOP le défend comme un produit clé pour la haute valeur ajoutée qu'il génère pour le secteur.",
+          "C'est un pari de positionnement pour les élaborateurs de cidre de la zone."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "D-O-P, lettre par lettre",
+          "definicion": "Denominación de Origen Protegida : un label européen qui garantit que le produit est élaboré dans une zone précise et selon des règles établies. Dans le cas du cidre asturien, il couvre aussi bien le processus d'élaboration que la matière première."
+        },
+        "porQue": "Si le Cidre de Glace DOP arrive dans les magasins cet été, les habitants de la commune auront à portée de main un produit fabriqué ici même, porteur d'une reconnaissance européenne susceptible d'ouvrir de nouveaux marchés pour le secteur local.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Eisapfelwein DOP kommt diesen Sommer",
+        "entradilla": "Die geschützte Ursprungsbezeichnung positioniert ihn als Produkt mit hohem Mehrwert für die Apfelweinbranche.",
+        "cuerpo": [
+          "Eisapfelwein mit geschützter Ursprungsbezeichnung wird laut einer Ankündigung der DOP selbst in diesem Sommer für Verbraucher erhältlich sein.",
+          "Die Bezeichnung betont, dass dieses Produkt der Branche einen sehr hohen Mehrwert bringt und damit eine strategische Wette für die Erzeuger der Region darstellt."
+        ],
+        "apunte": "Eisapfelwein: für alle, denen der vom Fass schon kalt genug ist.",
+        "enVeinte": [
+          "Eisapfelwein mit geschützter Ursprungsbezeichnung kommt diesen Sommer in den Handel.",
+          "Die DOP sieht ihn als Schlüsselprodukt wegen des hohen Mehrwerts, den er für die Branche erzeugt.",
+          "Er ist ein Positionierungsvorhaben für die Apfelweinerzeuger der Region."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "D-O-P, jeden Buchstaben einzeln ausgesprochen",
+          "definicion": "Denominación de Origen Protegida: ein europäisches Siegel, das garantiert, dass das Produkt in einem bestimmten Gebiet und nach festgelegten Vorschriften hergestellt wird. Im Fall des asturischen Apfelweins umfasst es sowohl den Herstellungsprozess als auch die Rohstoffe."
+        },
+        "porQue": "Wenn der Eisapfelwein DOP diesen Sommer in die Läden kommt, haben die Bewohner der Gemeinde ein Produkt in greifbarer Nähe, das hier vor Ort hergestellt wird und eine europäische Anerkennung trägt, die der lokalen Branche neue Märkte erschließen könnte.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "retirada-de-basuraleza-en-rodiles-doce-kilos-de-residuos-y-una-puerta-",
+    "url": "/villaviciosa/retirada-de-basuraleza-en-rodiles-doce-kilos-de-residuos-y-una-puerta-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Recogen 27 kilos de basura en Rodiles",
+    "entradilla": "La campaña Libera limpió la playa de Villaviciosa después del verano y encontró desde colillas hasta una puerta entera.",
+    "cuerpo": [
+      "La playa de Rodiles acumulaba doce kilos de residuos dispersos y una puerta abandonada que pesaba otros quince. La recogida la organizó la campaña Libera, que actúa en espacios naturales muy frecuentados una vez que pasa la temporada alta.",
+      "El objetivo es frenar el daño que deja el paso masivo de visitantes durante los meses de verano, cuando Rodiles se convierte en uno de los puntos más concurridos del oriente asturiano."
+    ],
+    "apunte": "Doce kilos de residuos y una puerta: alguien se fue del verano con mucha ligereza.",
+    "enVeinte": [
+      "La campaña Libera recogió 27 kilos de basura en la playa de Rodiles, entre residuos sueltos y una puerta abandonada.",
+      "La limpieza responde al impacto que deja la afluencia masiva de bañistas durante el verano.",
+      "La acción busca reducir el deterioro ambiental de uno de los espacios naturales más visitados de Villaviciosa."
+    ],
+    "cifra": {
+      "numero": "27",
+      "unidad": "kilos de residuos",
+      "glosa": "Doce kilos correspondían a basura variada y quince a una sola puerta. Es lo que dejó una temporada de verano en Rodiles según la campaña Libera."
+    },
+    "palabra": {
+      "termino": "basuraleza",
+      "como": "ba-su-ra-le-za",
+      "definicion": "Término que combina 'basura' y 'naturaleza' para nombrar los residuos abandonados en espacios naturales. Lo popularizó la campaña Libera y ya se usa en medios y administraciones de toda España."
+    },
+    "porQue": "Rodiles es el espacio natural más visitado del concejo: que alguien lo limpie cada otoño marca la diferencia entre una playa cuidada y una que se degrada año tras año.",
+    "etiquetas": [
+      "Rodiles",
+      "medioambiente",
+      "Villaviciosa",
+      "basuraleza"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/05/limpieza-rodiles%20(5)-RNYBcSfQH1kW08V3KCjJSvI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-05T18:36:56.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/retirada-basuraleza-rodiles-doce-kilos-residuos-puerta-20261105193655-nt.html",
+      "titularOriginal": "Retirada de 'basuraleza' en Rodiles: doce kilos de residuos y una puerta de otros quince"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "27 kilos of rubbish collected at Rodiles",
+        "entradilla": "The Libera campaign cleaned the Villaviciosa beach after summer and found everything from cigarette butts to an entire door.",
+        "cuerpo": [
+          "The beach at Rodiles had accumulated twelve kilos of scattered waste and an abandoned door weighing another fifteen. The collection was organised by the Libera campaign, which operates in heavily visited natural spaces once the high season is over.",
+          "The aim is to limit the damage left by the mass flow of visitors during the summer months, when Rodiles becomes one of the most crowded spots in eastern Asturias."
+        ],
+        "apunte": "Twelve kilos of rubbish and a door: someone left summer behind travelling very light.",
+        "enVeinte": [
+          "The Libera campaign collected 27 kilos of rubbish on the beach at Rodiles, including loose waste and an abandoned door.",
+          "The clean-up responds to the impact left by the mass influx of bathers during the summer.",
+          "The action aims to reduce the environmental deterioration of one of the most visited natural spaces in Villaviciosa."
+        ],
+        "cifra": {
+          "numero": "27",
+          "unidad": "kilos of waste",
+          "glosa": "Twelve kilos came from miscellaneous rubbish and fifteen from a single door. That is what one summer season left behind at Rodiles, according to the Libera campaign."
+        },
+        "palabra": {
+          "termino": "basuraleza",
+          "como": "ba-su-ra-le-za",
+          "definicion": "A term combining 'basura' (rubbish) and 'naturaleza' (nature) to name waste abandoned in natural spaces. It was popularised by the Libera campaign and is now used in media and public bodies across Spain."
+        },
+        "porQue": "Rodiles is the most visited natural space in the municipality: having someone clean it every autumn makes the difference between a beach that is cared for and one that deteriorates year after year.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "27 kilos de déchets ramassés à Rodiles",
+        "entradilla": "La campagne Libera a nettoyé la plage de Villaviciosa après l'été et a trouvé de tout, des mégots de cigarettes à une porte entière.",
+        "cuerpo": [
+          "La plage de Rodiles avait accumulé douze kilos de déchets épars et une porte abandonnée pesant quinze kilos supplémentaires. La collecte a été organisée par la campagne Libera, qui intervient dans les espaces naturels très fréquentés une fois la haute saison terminée.",
+          "L'objectif est de limiter les dégâts causés par l'afflux massif de visiteurs pendant les mois d'été, lorsque Rodiles devient l'un des endroits les plus fréquentés de l'est des Asturies."
+        ],
+        "apunte": "Douze kilos de déchets et une porte : quelqu'un a quitté l'été avec beaucoup de légèreté.",
+        "enVeinte": [
+          "La campagne Libera a ramassé 27 kilos de déchets sur la plage de Rodiles, entre ordures diverses et une porte abandonnée.",
+          "Le nettoyage répond à l'impact laissé par l'afflux massif de baigneurs pendant l'été.",
+          "L'action vise à réduire la dégradation environnementale de l'un des espaces naturels les plus visités de Villaviciosa."
+        ],
+        "cifra": {
+          "numero": "27",
+          "unidad": "kilos de déchets",
+          "glosa": "Douze kilos provenaient de déchets variés et quinze d'une seule porte. C'est ce qu'une saison estivale a laissé à Rodiles selon la campagne Libera."
+        },
+        "palabra": {
+          "termino": "basuraleza",
+          "como": "ba-su-ra-le-za",
+          "definicion": "Terme combinant «basura» (ordures) et «naturaleza» (nature) pour désigner les déchets abandonnés dans les espaces naturels. Il a été popularisé par la campagne Libera et est désormais utilisé dans les médias et les administrations de toute l'Espagne."
+        },
+        "porQue": "Rodiles est l'espace naturel le plus visité de la commune : qu'on le nettoie chaque automne fait la différence entre une plage entretenue et une plage qui se dégrade d'année en année.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "27 Kilo Müll am Strand von Rodiles eingesammelt",
+        "entradilla": "Die Kampagne Libera reinigte den Strand von Villaviciosa nach dem Sommer und fand dabei alles von Zigarettenkippen bis zu einer ganzen Tür.",
+        "cuerpo": [
+          "Am Strand von Rodiles hatten sich zwölf Kilo verstreuter Abfälle und eine zurückgelassene Tür angesammelt, die weitere fünfzehn Kilo wog. Die Sammelaktion wurde von der Kampagne Libera organisiert, die stark besuchte Naturräume nach Ende der Hochsaison aufsucht.",
+          "Ziel ist es, den Schaden zu begrenzen, den der Massenandrang von Besuchern in den Sommermonaten hinterlässt, wenn Rodiles zu einem der meistbesuchten Orte im östlichen Asturien wird."
+        ],
+        "apunte": "Zwölf Kilo Müll und eine Tür: Jemand hat den Sommer mit erstaunlicher Leichtigkeit hinter sich gelassen.",
+        "enVeinte": [
+          "Die Kampagne Libera sammelte 27 Kilo Müll am Strand von Rodiles ein, darunter lose Abfälle und eine verlassene Tür.",
+          "Die Reinigung ist eine Reaktion auf die Schäden, die der massive Zustrom von Badegästen im Sommer hinterlässt.",
+          "Die Aktion soll die Umweltbelastung eines der meistbesuchten Naturräume von Villaviciosa verringern."
+        ],
+        "cifra": {
+          "numero": "27",
+          "unidad": "Kilo Abfall",
+          "glosa": "Zwölf Kilo entfielen auf verschiedene Abfälle, fünfzehn auf eine einzige Tür. So viel hinterließ eine Sommersaison in Rodiles laut der Kampagne Libera."
+        },
+        "palabra": {
+          "termino": "basuraleza",
+          "como": "ba-su-ra-le-za",
+          "definicion": "Ein Begriff, der «basura» (Müll) und «naturaleza» (Natur) verbindet und Abfälle bezeichnet, die in Naturräumen zurückgelassen werden. Er wurde durch die Kampagne Libera bekannt und wird inzwischen in Medien und Behörden in ganz Spanien verwendet."
+        },
+        "porQue": "Rodiles ist der meistbesuchte Naturraum der Gemeinde: Dass dort jeden Herbst jemand aufräumt, macht den Unterschied zwischen einem gepflegten Strand und einem, der von Jahr zu Jahr verfällt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-dop-sidra-d-asturies-presento-la-etiqueta-que-va-a-identificar-la-s",
+    "url": "/villaviciosa/la-dop-sidra-d-asturies-presento-la-etiqueta-que-va-a-identificar-la-s/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "La sidra de hielo asturiana ya tiene etiqueta propia",
+    "entradilla": "El Consejo Regulador de la DOP Sidra d'Asturies presentó el distintivo esta semana en Villaviciosa, con las primeras botellas certificadas previstas para el verano de 2027.",
+    "cuerpo": [
+      "El Consejo Regulador de la DOP Sidra d'Asturies presentó el jueves 5 de noviembre, en su sede del edificio San Xuan de Capistrano de Villaviciosa, la etiqueta que identificará las sidras de hielo con denominación de origen. El acto reunió al presidente del Consejo, Jorge García, al gerente Daniel Ruiz y a la directora del SERIDA, María del Carmen Oliván.",
+      "El distintivo es vertical, mide 24 por 36 milímetros —algo más pequeño que el resto de etiquetas de la DOP— y usa tonos ámbar y cobre que evocan el color de la bebida en la copa. Solo podrán llevarlo las sidras que superen los controles de certificación del Consejo. Los tres responsables destacaron que incorporar esta nueva categoría al pliego de condiciones llevó apenas diez meses, un plazo que consideran récord.",
+      "García, Ruiz y Oliván coincidieron en que la sidra de hielo puede dar más valor a la manzana asturiana, ampliar la oferta de los lagares y abrir puertas en la restauración gastronómica y el comercio especializado. «No compite con el resto de productos de la DOP Sidra d'Asturies, sino que los refuerza», resumió el presidente García. Las primeras botellas certificadas podrían estar en el mercado entre junio y julio de 2027."
+    ],
+    "apunte": "Diez meses del papel al distintivo: a veces la burocracia también va rápida.",
+    "enVeinte": [
+      "La DOP Sidra d'Asturies ya tiene etiqueta para identificar sus sidras de hielo, presentada el 5 de noviembre en Villaviciosa.",
+      "El distintivo es pequeño, vertical y en tonos ámbar, y solo lo llevarán las botellas que pasen los controles de certificación.",
+      "Las primeras sidras de hielo con denominación podrían llegar al mercado en el verano de 2027."
+    ],
+    "cifra": {
+      "numero": "24 × 36",
+      "unidad": "milímetros",
+      "glosa": "Esas son las medidas de la nueva etiqueta de la sidra de hielo, algo más pequeña que el resto de distintivos de la DOP porque se adapta al tamaño de las botellas propias de esta categoría. Un detalle menor que tiene su lógica: cada formato de botella pide su etiqueta."
+    },
+    "palabra": {
+      "termino": "lagar",
+      "como": "llagar (en asturiano)",
+      "definicion": "Lugar donde se prensa la manzana y se elabora la sidra. En Asturias el término es de uso cotidiano y designa tanto el espacio físico como la propia empresa sidrería. Aquí se escribe y se dice llagar, aunque en castellano conviva la forma lagar."
+    },
+    "porQue": "Para los lagares del concejo y del resto de Asturias, tener una etiqueta oficial para la sidra de hielo abre la puerta a vender en mercados y restaurantes donde antes este producto no tenía respaldo de denominación; para quien la bebe, es una garantía de que lo que hay en la botella cumple unos criterios definidos.",
+    "etiquetas": [
+      "sidra de hielo",
+      "DOP Sidra d'Asturies",
+      "Villaviciosa",
+      "SERIDA"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.lasidra.net/wp-content/uploads/2026/11/DSC_1568-300x207.jpg",
+    "fecha": "2026-11-05T17:30:49.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/la-dop-sidra-dasturies-presento-la-etiqueta-que-va-aidentificar-la-sidra-de-hielo-con-denominacion/",
+      "titularOriginal": "La DOP Sidra d’Asturies presentó la etiqueta que va a identificar la sidra de hielo con denominación"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Asturian ice cider now has its own label",
+        "entradilla": "The Regulatory Council of the DOP Sidra d'Asturies unveiled the label this week in Villaviciosa, with the first certified bottles expected by the summer of 2027.",
+        "cuerpo": [
+          "The Regulatory Council of the DOP Sidra d'Asturies presented, on Thursday 5 November, at its headquarters in the San Xuan de Capistrano building in Villaviciosa, the label that will identify ice ciders with designation of origin. The event brought together the Council's president, Jorge García, its manager Daniel Ruiz, and the director of SERIDA, María del Carmen Oliván.",
+          "The label is vertical, measures 24 by 36 millimetres — slightly smaller than the other DOP labels — and uses amber and copper tones that evoke the colour of the drink in the glass. Only ciders that pass the Council's certification checks will be allowed to carry it. The three officials highlighted that incorporating this new category into the specification took just ten months, a timeline they consider a record.",
+          "García, Ruiz and Oliván agreed that ice cider can add more value to Asturian apples, broaden the range offered by lagares (a lagar being a cider mill and producer), and open doors in fine dining and specialist retail. «It does not compete with the other products of the DOP Sidra d'Asturies — it strengthens them,» said president García. The first certified bottles could reach the market between June and July of 2027."
+        ],
+        "apunte": "Ten months from paper to label: sometimes bureaucracy moves fast too.",
+        "enVeinte": [
+          "The DOP Sidra d'Asturies now has a label to identify its ice ciders, unveiled on 5 November in Villaviciosa.",
+          "The label is small, vertical and in amber tones, and only bottles that pass the certification checks will carry it.",
+          "The first ice ciders with a designation of origin could reach the market in the summer of 2027."
+        ],
+        "cifra": {
+          "numero": "24 × 36",
+          "unidad": "millimetres",
+          "glosa": "Those are the dimensions of the new ice cider label, slightly smaller than the other DOP labels because it is sized to fit the bottles used for this category. A minor detail that makes sense: every bottle format calls for its own label."
+        },
+        "palabra": {
+          "termino": "lagar",
+          "como": "llagar (in Asturian)",
+          "definicion": "A place where apples are pressed and cider is made. In Asturias the term is in everyday use and refers both to the physical premises and to the cider-producing business itself. Here it is written and said llagar, although the Castilian Spanish form lagar also exists alongside it."
+        },
+        "porQue": "For the lagares in the municipality and across the rest of Asturias, having an official label for ice cider opens the door to selling in markets and restaurants where this product previously had no designation to back it; for the drinker, it is a guarantee that what is in the bottle meets defined criteria.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le cidre de glace asturien a désormais sa propre étiquette",
+        "entradilla": "Le Conseil régulateur de la DOP Sidra d'Asturies a présenté le distintivo cette semaine à Villaviciosa, avec les premières bouteilles certifiées attendues pour l'été 2027.",
+        "cuerpo": [
+          "Le Conseil régulateur de la DOP Sidra d'Asturies a présenté, le jeudi 5 novembre, au siège de l'organisation dans l'immeuble San Xuan de Capistrano à Villaviciosa, l'étiquette qui identifiera les cidres de glace à appellation d'origine. L'événement a réuni le président du Conseil, Jorge García, le directeur général Daniel Ruiz et la directrice du SERIDA, María del Carmen Oliván.",
+          "L'étiquette est verticale, mesure 24 sur 36 millimètres — légèrement plus petite que les autres étiquettes de la DOP — et utilise des tons ambre et cuivre qui évoquent la couleur de la boisson dans le verre. Seuls les cidres ayant passé les contrôles de certification du Conseil pourront la porter. Les trois responsables ont souligné que l'intégration de cette nouvelle catégorie dans le cahier des charges n'avait pris que dix mois, un délai qu'ils considèrent comme un record.",
+          "García, Ruiz et Oliván s'accordent à dire que le cidre de glace peut apporter plus de valeur à la pomme asturienne, élargir l'offre des lagares (un lagar étant un pressoir et une cidrerie) et ouvrir des portes dans la restauration gastronomique et le commerce spécialisé. «Il ne concurrence pas les autres produits de la DOP Sidra d'Asturies, il les renforce», a résumé le président García. Les premières bouteilles certifiées pourraient être sur le marché entre juin et juillet 2027."
+        ],
+        "apunte": "Dix mois du papier à l'étiquette : parfois la bureaucratie va vite, elle aussi.",
+        "enVeinte": [
+          "La DOP Sidra d'Asturies dispose désormais d'une étiquette pour identifier ses cidres de glace, présentée le 5 novembre à Villaviciosa.",
+          "L'étiquette est petite, verticale et dans des tons ambre ; seules les bouteilles ayant passé les contrôles de certification pourront la porter.",
+          "Les premiers cidres de glace sous appellation pourraient arriver sur le marché à l'été 2027."
+        ],
+        "cifra": {
+          "numero": "24 × 36",
+          "unidad": "millimètres",
+          "glosa": "Ce sont les dimensions de la nouvelle étiquette du cidre de glace, légèrement plus petite que les autres distintivos de la DOP car elle s'adapte à la taille des bouteilles propres à cette catégorie. Un détail mineur qui a sa logique : chaque format de bouteille appelle son étiquette."
+        },
+        "palabra": {
+          "termino": "lagar",
+          "como": "llagar (en asturien)",
+          "definicion": "Lieu où l'on presse la pomme et où l'on élabore le cidre. En Asturie, le terme est d'usage courant et désigne aussi bien l'espace physique que l'entreprise cidrière elle-même. Ici, il s'écrit et se prononce llagar, bien que la forme castillane lagar coexiste également."
+        },
+        "porQue": "Pour les lagares de la commune et du reste des Asturies, disposer d'une étiquette officielle pour le cidre de glace ouvre la porte à des marchés et des restaurants où ce produit n'avait auparavant aucune appellation pour le soutenir ; pour qui le boit, c'est la garantie que ce qui se trouve dans la bouteille répond à des critères définis.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Asturischer Eisapfelwein hat jetzt sein eigenes Etikett",
+        "entradilla": "Der Regulierungsrat der DOP Sidra d'Asturies stellte das Erkennungszeichen diese Woche in Villaviciosa vor; die ersten zertifizierten Flaschen werden für den Sommer 2027 erwartet.",
+        "cuerpo": [
+          "Der Regulierungsrat der DOP Sidra d'Asturies präsentierte am Donnerstag, dem 5. November, in seinem Sitz im Gebäude San Xuan de Capistrano in Villaviciosa das Etikett, das Eisapfelweine mit Ursprungsbezeichnung kennzeichnen wird. Bei dem Ereignis waren der Ratspräsident Jorge García, der Geschäftsführer Daniel Ruiz und die Direktorin des SERIDA, María del Carmen Oliván, anwesend.",
+          "Das Etikett ist hochformatig, misst 24 mal 36 Millimeter — etwas kleiner als die übrigen DOP-Etiketten — und verwendet Bernstein- und Kupfertöne, die die Farbe des Getränks im Glas evozieren. Nur Apfelweine, die die Zertifizierungsprüfungen des Rates bestehen, dürfen es tragen. Die drei Verantwortlichen betonten, dass die Aufnahme dieser neuen Kategorie in das Pflichtenheft lediglich zehn Monate gedauert habe — eine Frist, die sie als Rekord betrachten.",
+          "García, Ruiz und Oliván waren sich einig, dass der Eisapfelwein der asturischen Apfelfrucht mehr Wert verleihen, das Angebot der lagares (ein lagar ist eine Apfelweinpresse und -kelterei) erweitern und Türen in der Spitzengastronomie sowie im Fachhandel öffnen kann. «Er konkurriert nicht mit den anderen Produkten der DOP Sidra d'Asturies, sondern stärkt sie», fasste Präsident García zusammen. Die ersten zertifizierten Flaschen könnten zwischen Juni und Juli 2027 auf den Markt kommen."
+        ],
+        "apunte": "Zehn Monate vom Papier zum Etikett: Manchmal geht auch die Bürokratie schnell.",
+        "enVeinte": [
+          "Die DOP Sidra d'Asturies hat jetzt ein Etikett zur Kennzeichnung ihrer Eisapfelweine, vorgestellt am 5. November in Villaviciosa.",
+          "Das Etikett ist klein, hochformatig und in Bernsteintönen gehalten; nur Flaschen, die die Zertifizierungsprüfungen bestehen, dürfen es tragen.",
+          "Die ersten Eisapfelweine mit Ursprungsbezeichnung könnten im Sommer 2027 auf den Markt kommen."
+        ],
+        "cifra": {
+          "numero": "24 × 36",
+          "unidad": "Millimeter",
+          "glosa": "Das sind die Maße des neuen Eisapfelwein-Etiketts, das etwas kleiner ist als die anderen DOP-Erkennungszeichen, weil es an die Flaschengröße dieser Kategorie angepasst ist. Ein kleines Detail mit seiner Logik: Jedes Flaschenformat braucht sein eigenes Etikett."
+        },
+        "palabra": null,
+        "porQue": "Für die lagares der Gemeinde und des übrigen Asturiens öffnet ein offizielles Etikett für den Eisapfelwein die Tür zu Märkten und Restaurants, in denen dieses Produkt bisher keine Ursprungsbezeichnung als Rückhalt hatte; für die Trinkenden ist es eine Garantie dafür, dass der Inhalt der Flasche festgelegten Kriterien entspricht.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la sidra de hielo asturiana ya tiene etiqueta",
+      "sidra de hielo asturiana ya tiene etiqueta propia",
+      "jueves 5 de noviembre en su sede del",
+      "5 de noviembre en su sede del edificio",
+      "de noviembre en su sede del edificio san",
+      "noviembre en su sede del edificio san xuan",
+      "en su sede del edificio san xuan de",
+      "su sede del edificio san xuan de capistrano",
+      "la directora del serida maria del carmen olivan",
+      "que superen los controles de certificacion del consejo",
+      "garcia ruiz y olivan coincidieron en que la",
+      "mas valor a la manzana asturiana ampliar la",
+      "valor a la manzana asturiana ampliar la oferta",
+      "a la manzana asturiana ampliar la oferta de",
+      "la manzana asturiana ampliar la oferta de los",
+      "manzana asturiana ampliar la oferta de los lagares",
+      "asturiana ampliar la oferta de los lagares y",
+      "ampliar la oferta de los lagares y abrir",
+      "en la restauracion gastronomica y el comercio especializado",
+      "no compite con el resto de productos de",
+      "compite con el resto de productos de la",
+      "con el resto de productos de la dop",
+      "el resto de productos de la dop sidra",
+      "resto de productos de la dop sidra d",
+      "de productos de la dop sidra d asturies",
+      "productos de la dop sidra d asturies sino",
+      "de la dop sidra d asturies sino que",
+      "la dop sidra d asturies sino que los",
+      "dop sidra d asturies sino que los refuerza"
+    ]
+  },
+  {
+    "id": "cabranes-busca-la-mejor-fotografia-del-otono-con-un-premio-de-500-euro",
+    "url": "/cabranes/cabranes-busca-la-mejor-fotografia-del-otono-con-un-premio-de-500-euro/",
+    "concejo": "Cabranes",
+    "concejoSlug": "cabranes",
+    "seccion": "agenda",
+    "titular": "'Lluz de Seronda' premia la mejor foto del otoño",
+    "entradilla": "El maratón fotográfico de Cabranes llega a su duodécima edición con 500 euros en juego.",
+    "cuerpo": [
+      "Los días 21 y 22 de noviembre, Cabranes abre su concejo a fotógrafos de todo nivel para el maratón 'Lluz de Seronda'. Paisajes, tradiciones y patrimonio del concejo serán los protagonistas, y el mejor trabajo se lleva 500 euros.",
+      "No hace falta ser profesional: la convocatoria está abierta tanto a aficionados como a fotógrafos con más oficio."
+    ],
+    "apunte": "Doce ediciones buscando la misma luz que el otoño cambia cada año.",
+    "enVeinte": [
+      "'Lluz de Seronda' celebra su 12.ª edición el 21 y 22 de noviembre en Cabranes.",
+      "El maratón fotográfico invita a retratar los paisajes, tradiciones y patrimonio del concejo.",
+      "El premio para la mejor fotografía es de 500 euros, abierto a profesionales y aficionados."
+    ],
+    "cifra": {
+      "numero": "500",
+      "unidad": "euros",
+      "glosa": "Es el premio que lleva a casa quien convenza al jurado con su fotografía. No es una cantidad simbólica: en doce ediciones, 'Lluz de Seronda' se ha ganado a pulso ser el certamen fotográfico de referencia en el oriente asturiano."
+    },
+    "palabra": {
+      "termino": "seronda",
+      "como": "se-RON-da",
+      "definicion": "Palabra asturiana para el otoño, la estación de la caída de la hoja y la recogida de la manzana. Da nombre al maratón precisamente porque es la época del año en que el concejo luce sus colores más fotogénico."
+    },
+    "porQue": "Quien vive en Cabranes tiene dos días para retratar su propio concejo y optar a 500 euros: pocas veces el paisaje de casa vale tanto literalmente.",
+    "etiquetas": [
+      "Cabranes",
+      "fotografía",
+      "Lluz de Seronda",
+      "otoño"
+    ],
+    "fechaEvento": "2026-11-21",
+    "tipoEvento": "taller",
+    "lugar": "Cabranes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/cabranes-busca-la-mejor-fotografia-del-otono-con-u-11277016-1.jpg",
+    "fecha": "2026-11-05T17:15:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-cabranes/cabranes-busca-la-mejor-fotografia-del-otono-con-un-premio-de-500-euros-en-lluz-de-seronda-11277016.html",
+      "titularOriginal": "Cabranes busca la mejor fotografía del otoño con un premio de 500 euros en ‘Lluz de Seronda’"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "'Lluz de Seronda' awards the best autumn photograph",
+        "entradilla": "Cabranes' photography marathon reaches its twelfth edition with 500 euros at stake.",
+        "cuerpo": [
+          "On 21 and 22 November, Cabranes opens its municipality to photographers of all levels for the 'Lluz de Seronda' marathon. Landscapes, traditions and heritage of the municipality will take centre stage, and the best entry takes home 500 euros.",
+          "No professional background is required: the call is open to amateurs and experienced photographers alike."
+        ],
+        "apunte": "Twelve editions chasing the same light that autumn changes every year.",
+        "enVeinte": [
+          "'Lluz de Seronda' holds its 12th edition on 21 and 22 November in Cabranes.",
+          "The photography marathon invites participants to capture the landscapes, traditions and heritage of the municipality.",
+          "The prize for the best photograph is 500 euros, open to professionals and amateurs."
+        ],
+        "cifra": {
+          "numero": "500",
+          "unidad": "euros",
+          "glosa": "That is what the photographer who convinces the jury takes home. It is no token amount: over twelve editions, 'Lluz de Seronda' has earned its place as the reference photography contest in eastern Asturias."
+        },
+        "palabra": {
+          "termino": "seronda",
+          "como": "se-RON-da",
+          "definicion": "An Asturian word for autumn, the season of falling leaves and the apple harvest. It gives the marathon its name precisely because it is the time of year when the municipality shows its most photogenic colours."
+        },
+        "porQue": "People who live in Cabranes have two days to photograph their own municipality and compete for 500 euros: rarely does the landscape on your doorstep carry such literal value.",
+        "lugar": "Cabranes",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "'Lluz de Seronda' récompense la meilleure photo de l'automne",
+        "entradilla": "Le marathon photographique de Cabranes atteint sa douzième édition avec 500 euros à la clé.",
+        "cuerpo": [
+          "Les 21 et 22 novembre, Cabranes ouvre sa commune aux photographes de tous niveaux pour le marathon 'Lluz de Seronda'. Paysages, traditions et patrimoine de la commune seront à l'honneur, et le meilleur travail remporte 500 euros.",
+          "Nul besoin d'être professionnel : l'appel à participation est ouvert aussi bien aux amateurs qu'aux photographes plus aguerris."
+        ],
+        "apunte": "Douze éditions à la recherche de la même lumière que l'automne renouvelle chaque année.",
+        "enVeinte": [
+          "'Lluz de Seronda' célèbre sa 12e édition les 21 et 22 novembre à Cabranes.",
+          "Le marathon photographique invite à saisir les paysages, les traditions et le patrimoine de la commune.",
+          "Le prix de la meilleure photographie est de 500 euros, ouvert aux professionnels comme aux amateurs."
+        ],
+        "cifra": {
+          "numero": "500",
+          "unidad": "euros",
+          "glosa": "C'est ce que remporte chez lui le photographe qui convainc le jury. Ce n'est pas une somme symbolique : en douze éditions, 'Lluz de Seronda' s'est imposé comme le concours photographique de référence dans l'est des Asturies."
+        },
+        "palabra": {
+          "termino": "seronda",
+          "como": "se-RON-da",
+          "definicion": "Mot asturien désignant l'automne, la saison de la chute des feuilles et de la récolte des pommes. Il donne son nom au marathon précisément parce que c'est la période de l'année où la commune revêt ses couleurs les plus photogéniques."
+        },
+        "porQue": "Les habitants de Cabranes ont deux jours pour photographier leur propre commune et tenter de remporter 500 euros : rarement le paysage du quotidien prend-il une telle valeur au sens propre.",
+        "lugar": "Cabranes",
+        "precio": ""
+      },
+      "de": {
+        "titular": "'Lluz de Seronda' prämiert das beste Herbstfoto",
+        "entradilla": "Der Fotomarathon von Cabranes geht in seine zwölfte Ausgabe – mit 500 Euro Preisgeld.",
+        "cuerpo": [
+          "Am 21. und 22. November öffnet Cabranes seine Gemeinde für Fotografinnen und Fotografen aller Niveaus zum Marathon 'Lluz de Seronda'. Landschaften, Traditionen und das Erbe der Gemeinde stehen im Mittelpunkt; die beste Arbeit gewinnt 500 Euro.",
+          "Professionelle Vorkenntnisse sind nicht nötig: Der Aufruf steht Hobbyfotografen ebenso offen wie erfahrenen Fotografen."
+        ],
+        "apunte": "Zwölf Ausgaben auf der Suche nach demselben Licht, das der Herbst jedes Jahr neu erfindet.",
+        "enVeinte": [
+          "'Lluz de Seronda' feiert seine 12. Ausgabe am 21. und 22. November in Cabranes.",
+          "Der Fotomarathon lädt dazu ein, die Landschaften, Traditionen und das Erbe der Gemeinde einzufangen.",
+          "Der Preis für das beste Foto beträgt 500 Euro und ist offen für Profis und Amateure."
+        ],
+        "cifra": {
+          "numero": "500",
+          "unidad": "euros",
+          "glosa": "So viel nimmt mit nach Hause, wer die Jury mit seinem Foto überzeugt. Es ist kein symbolischer Betrag: In zwölf Ausgaben hat sich 'Lluz de Seronda' als der maßgebliche Fotowettbewerb im östlichen Asturien etabliert."
+        },
+        "palabra": {
+          "termino": "seronda",
+          "como": "se-RON-da",
+          "definicion": "Asturisches Wort für den Herbst, die Jahreszeit des Laubfalls und der Apfelernte. Es gibt dem Marathon seinen Namen, weil die Gemeinde genau in dieser Zeit ihre fotogensten Farben zeigt."
+        },
+        "porQue": "Wer in Cabranes lebt, hat zwei Tage lang die Möglichkeit, die eigene Gemeinde zu fotografieren und 500 Euro zu gewinnen: Selten ist die Landschaft vor der Haustür im wörtlichen Sinne so viel wert.",
+        "lugar": "Cabranes",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislam",
     "url": "/villaviciosa/villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislam/",
     "concejo": "Villaviciosa",
@@ -42189,243 +42736,6 @@
         "palabra": null,
         "porQue": "Mehr Parkraum in Infiesto bedeutet weniger Runden durch das Zentrum und vor allem weniger Stress an Markttagen oder bei lokalen Festen.",
         "lugar": "Plaza de La Benéfica, Infiesto",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "maria-de-hungria-hermana-de-carlos-v-gran-novedad-del-desembarco-de-ta",
-    "url": "/villaviciosa/maria-de-hungria-hermana-de-carlos-v-gran-novedad-del-desembarco-de-ta/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "María de Hungría llega al Desembarco de Tazones",
-    "entradilla": "La Casa de los Hevia acogerá una exposición sobre la hermana de Carlos V, figura clave de la política y el arte del siglo XVI.",
-    "cuerpo": [
-      "El Desembarco de Tazones suma una novedad este año: una muestra dedicada a María de Hungría, hermana del emperador Carlos V, que se podrá ver en la Casa de los Hevia de Villaviciosa.",
-      "La exposición repasa el peso que tuvo esta mujer en la diplomacia, la política y el mundo artístico de su época, presentándola como uno de los personajes más influyentes del quinientos europeo."
-    ],
-    "apunte": "Carlos V lleva siglos acaparando el protagonismo; ya era hora de que su hermana se lo discutiera.",
-    "enVeinte": [
-      "El Desembarco de Tazones incorpora este año una exposición sobre María de Hungría, hermana de Carlos V.",
-      "La muestra se ubicará en la Casa de los Hevia de Villaviciosa y abordará su faceta política, diplomática y artística.",
-      "La organización la presenta como una figura clave del siglo XVI europea."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Desembarco de Tazones",
-      "como": "tal cual, sin cambio",
-      "definicion": "Recreación histórica que rememora el desembarco de Carlos V en el puerto asturiano de Tazones en 1517, cuando llegó a España por primera vez para tomar posesión de la corona. Es una de las fiestas de mayor arraigo en el concejo de Villaviciosa."
-    },
-    "porQue": "El Desembarco de Tazones crece cada año como atractivo cultural, y añadir una exposición de este calibre da más razones para acercarse a Villaviciosa durante las fiestas.",
-    "etiquetas": [
-      "Desembarco de Tazones",
-      "Villaviciosa",
-      "historia",
-      "exposición"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "expo",
-    "lugar": "Casa de los Hevia, Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/07/desembarco-RZ428Z1r3U4i5146H6wrwuM-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-07T18:21:33.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/desembarco-tazones-maria-hungria-hermana-carlos-novedad-20260807202050-nt.html",
-      "titularOriginal": "María de Hungría, hermana de Carlos V, gran novedad del Desembarco de Tazones"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "María de Hungría comes to the Desembarco de Tazones",
-        "entradilla": "The Casa de los Hevia will host an exhibition about the sister of Charles V, a key figure in sixteenth-century politics and art.",
-        "cuerpo": [
-          "The Desembarco de Tazones has a new addition this year: an exhibition dedicated to María de Hungría, sister of Emperor Charles V, which will be on show at the Casa de los Hevia in Villaviciosa.",
-          "The exhibition traces the weight this woman carried in the diplomacy, politics and artistic world of her time, presenting her as one of the most influential figures of sixteenth-century Europe."
-        ],
-        "apunte": "Charles V has been hogging the limelight for centuries; it was about time his sister got to challenge him for it.",
-        "enVeinte": [
-          "The Desembarco de Tazones is adding an exhibition about María de Hungría, sister of Charles V, this year.",
-          "The show will be held at the Casa de los Hevia in Villaviciosa and will explore her political, diplomatic and artistic sides.",
-          "The organisers present her as a key figure of sixteenth-century Europe."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Desembarco de Tazones",
-          "como": "as is, unchanged",
-          "definicion": "A historical re-enactment commemorating the landing of Charles V at the Asturian port of Tazones in 1517, when he arrived in Spain for the first time to take possession of the crown. It is one of the most deeply rooted festivals in the municipality of Villaviciosa."
-        },
-        "porQue": "The Desembarco de Tazones grows every year as a cultural draw, and adding an exhibition of this calibre gives even more reasons to make the trip to Villaviciosa during the festivities.",
-        "lugar": "Casa de los Hevia, Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "María de Hungría débarque au Desembarco de Tazones",
-        "entradilla": "La Casa de los Hevia accueillera une exposition sur la sœur de Charles Quint, figure clé de la politique et de l'art du XVIe siècle.",
-        "cuerpo": [
-          "Le Desembarco de Tazones s'enrichit cette année d'une nouveauté : une exposition consacrée à María de Hungría, sœur de l'empereur Charles Quint, qui pourra être visitée à la Casa de los Hevia de Villaviciosa.",
-          "L'exposition retrace le rôle que cette femme a joué dans la diplomatie, la politique et le monde artistique de son époque, la présentant comme l'un des personnages les plus influents de l'Europe du XVIe siècle."
-        ],
-        "apunte": "Charles Quint monopolise la vedette depuis des siècles ; il était temps que sa sœur vienne la lui disputer.",
-        "enVeinte": [
-          "Le Desembarco de Tazones intègre cette année une exposition sur María de Hungría, sœur de Charles Quint.",
-          "La manifestation se tiendra à la Casa de los Hevia de Villaviciosa et abordera ses facettes politique, diplomatique et artistique.",
-          "L'organisation la présente comme une figure clé de l'Europe du XVIe siècle."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Desembarco de Tazones",
-          "como": "tel quel, sans modification",
-          "definicion": "Reconstitution historique commémorant le débarquement de Charles Quint dans le port asturien de Tazones en 1517, lorsqu'il arriva en Espagne pour la première fois afin de prendre possession de la couronne. C'est l'une des fêtes les plus enracinées dans la commune de Villaviciosa."
-        },
-        "porQue": "Le Desembarco de Tazones gagne chaque année en attractivité culturelle, et l'ajout d'une exposition de cette envergure donne encore plus de raisons de se rendre à Villaviciosa pendant les fêtes.",
-        "lugar": "Casa de los Hevia, Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "María de Hungría kommt zum Desembarco de Tazones",
-        "entradilla": "Die Casa de los Hevia wird eine Ausstellung über die Schwester Karls V. beherbergen, einer Schlüsselfigur der Politik und Kunst des 16. Jahrhunderts.",
-        "cuerpo": [
-          "Der Desembarco de Tazones wartet dieses Jahr mit einer Neuerung auf: einer Ausstellung über María de Hungría, Schwester von Kaiser Karl V., die in der Casa de los Hevia in Villaviciosa zu sehen sein wird.",
-          "Die Ausstellung beleuchtet die Bedeutung, die diese Frau in der Diplomatie, der Politik und der Kunstwelt ihrer Zeit hatte, und stellt sie als eine der einflussreichsten Persönlichkeiten des europäischen 16. Jahrhunderts vor."
-        ],
-        "apunte": "Karl V. hat die Aufmerksamkeit seit Jahrhunderten für sich beansprucht — es war höchste Zeit, dass seine Schwester ihm diesen Platz streitig macht.",
-        "enVeinte": [
-          "Der Desembarco de Tazones nimmt dieses Jahr eine Ausstellung über María de Hungría, Schwester Karls V., in sein Programm auf.",
-          "Die Schau wird in der Casa de los Hevia in Villaviciosa gezeigt und beleuchtet ihre politische, diplomatische und künstlerische Seite.",
-          "Die Veranstalter stellen sie als eine Schlüsselfigur des europäischen 16. Jahrhunderts vor."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Desembarco de Tazones",
-          "como": "unverändert, so wie es ist",
-          "definicion": "Historische Nachstellung zur Erinnerung an die Landung Karls V. im asturischen Hafen von Tazones im Jahr 1517, als er zum ersten Mal nach Spanien kam, um die Krone in Besitz zu nehmen. Es ist eines der am tiefsten verwurzelten Feste der Gemeinde Villaviciosa."
-        },
-        "porQue": "Der Desembarco de Tazones gewinnt jedes Jahr als kultureller Anziehungspunkt an Bedeutung, und eine Ausstellung dieses Kalibers gibt noch mehr Gründe, während der Festtage nach Villaviciosa zu kommen.",
-        "lugar": "Casa de los Hevia, Villaviciosa",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "desembarco de tazones la casa de los hevia"
-    ]
-  },
-  {
-    "id": "villaviciosa-implementa-las-reservas-por-radio-taxi-para-la-mejora-del",
-    "url": "/villaviciosa/villaviciosa-implementa-las-reservas-por-radio-taxi-para-la-mejora-del/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa paga 10.000 € por reservar radiotaxi",
-    "entradilla": "El concejo firma un protocolo con una cooperativa de Gijón para que los vecinos puedan pedir taxi con antelación.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa destina algo más de 10.000 euros a un acuerdo con una cooperativa de taxi de Gijón para poner en marcha un sistema de reservas por radiotaxi.",
-      "La medida busca mejorar el servicio de transporte a demanda en el concejo, donde conseguir un taxi sin avisar antes puede ser complicado."
-    ],
-    "apunte": "Diez mil euros para que el taxi coja el teléfono antes de que lo necesites.",
-    "enVeinte": [
-      "Villaviciosa pone en marcha un sistema de reservas de radiotaxi gracias a un protocolo con una cooperativa de Gijón.",
-      "El Ayuntamiento aporta poco más de 10.000 euros para financiar el acuerdo.",
-      "El objetivo es mejorar el servicio de taxi en el concejo facilitando la reserva previa."
-    ],
-    "cifra": {
-      "numero": "10.000",
-      "unidad": "euros",
-      "glosa": "Es lo que pone el Ayuntamiento de Villaviciosa para arrancar el protocolo con la cooperativa de taxi gijonesa. Una inversión modesta para un servicio que puede marcar la diferencia en un concejo donde el transporte público tiene huecos."
-    },
-    "palabra": null,
-    "porQue": "Si vives en Villaviciosa y necesitas un taxi, pronto podrás reservarlo con tiempo en lugar de esperar a ver si aparece uno.",
-    "etiquetas": [
-      "transporte",
-      "taxi",
-      "Villaviciosa",
-      "ayuntamiento"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/07/taxis-Rlq12KZUr72Kq5tyhLNlvyJ-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-07T17:08:34.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-implementa-reservas-radio-taxi-mejora-servicio-20260807190833-nt.html",
-      "titularOriginal": "Villaviciosa implementa las reservas por radio taxi para la mejora del servicio"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa pays €10,000 to secure a radiotaxi service",
-        "entradilla": "The municipality signs a protocol with a cooperative from Gijón so that residents can book a taxi in advance.",
-        "cuerpo": [
-          "Villaviciosa council is putting just over €10,000 towards an agreement with a taxi cooperative from Gijón to launch a radiotaxi booking system.",
-          "The measure aims to improve on-demand transport in the municipality, where getting a taxi without prior notice can be difficult."
-        ],
-        "apunte": "Ten thousand euros so the taxi picks up the phone before you need it.",
-        "enVeinte": [
-          "Villaviciosa is launching a radiotaxi booking system through a protocol with a cooperative from Gijón.",
-          "The council is contributing just over €10,000 to fund the agreement.",
-          "The goal is to improve the taxi service in the municipality by making advance bookings possible."
-        ],
-        "cifra": {
-          "numero": "10,000",
-          "unidad": "euros",
-          "glosa": "This is what Villaviciosa council is putting in to kick off the protocol with the Gijón taxi cooperative. A modest investment for a service that could make a real difference in a municipality where public transport has gaps."
-        },
-        "palabra": null,
-        "porQue": "If you live in Villaviciosa and need a taxi, you will soon be able to book one ahead of time rather than waiting to see if one shows up.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa débloque 10 000 € pour garantir un service de radiotaxi",
-        "entradilla": "La commune signe un protocole avec une coopérative de Gijón pour que les habitants puissent réserver un taxi à l'avance.",
-        "cuerpo": [
-          "La mairie de Villaviciosa consacre un peu plus de 10 000 euros à un accord avec une coopérative de taxi de Gijón afin de mettre en place un système de réservation par radiotaxi.",
-          "La mesure vise à améliorer le service de transport à la demande dans la commune, où obtenir un taxi sans prévenir à l'avance peut s'avérer compliqué."
-        ],
-        "apunte": "Dix mille euros pour que le taxi décroche avant que vous en ayez besoin.",
-        "enVeinte": [
-          "Villaviciosa lance un système de réservation de radiotaxi grâce à un protocole avec une coopérative de Gijón.",
-          "La mairie apporte un peu plus de 10 000 euros pour financer l'accord.",
-          "L'objectif est d'améliorer le service de taxi dans la commune en facilitant la réservation à l'avance."
-        ],
-        "cifra": {
-          "numero": "10 000",
-          "unidad": "euros",
-          "glosa": "C'est ce que la mairie de Villaviciosa investit pour lancer le protocole avec la coopérative de taxi de Gijón. Un investissement modeste pour un service qui peut changer la vie dans une commune où les transports en commun présentent des lacunes."
-        },
-        "palabra": null,
-        "porQue": "Si vous vivez à Villaviciosa et avez besoin d'un taxi, vous pourrez bientôt en réserver un à l'avance plutôt que d'attendre qu'il en passe un.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa zahlt 10.000 € für einen Radiotaxi-Dienst",
-        "entradilla": "Die Gemeinde unterzeichnet ein Protokoll mit einer Genossenschaft aus Gijón, damit Einwohner ein Taxi im Voraus bestellen können.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa stellt etwas mehr als 10.000 Euro für eine Vereinbarung mit einer Taxigenossenschaft aus Gijón bereit, um ein Radiotaxi-Buchungssystem einzuführen.",
-          "Die Maßnahme soll den bedarfsorientierten Transportservice in der Gemeinde verbessern, wo es schwierig sein kann, ein Taxi ohne vorherige Ankündigung zu bekommen."
-        ],
-        "apunte": "Zehntausend Euro, damit das Taxi schon abhebt, bevor man es braucht.",
-        "enVeinte": [
-          "Villaviciosa führt dank eines Protokolls mit einer Genossenschaft aus Gijón ein Radiotaxi-Buchungssystem ein.",
-          "Das Rathaus stellt etwas mehr als 10.000 Euro zur Finanzierung der Vereinbarung bereit.",
-          "Ziel ist es, den Taxiservice in der Gemeinde durch die Möglichkeit zur Voranmeldung zu verbessern."
-        ],
-        "cifra": {
-          "numero": "10.000",
-          "unidad": "Euro",
-          "glosa": "So viel stellt das Rathaus von Villaviciosa bereit, um das Protokoll mit der Taxigenossenschaft aus Gijón anzustoßen. Eine bescheidene Investition für einen Dienst, der in einer Gemeinde, in der der öffentliche Nahverkehr Lücken aufweist, einen echten Unterschied machen kann."
-        },
-        "palabra": null,
-        "porQue": "Wenn Sie in Villaviciosa leben und ein Taxi brauchen, können Sie es bald im Voraus buchen, anstatt zu warten, ob eines auftaucht.",
-        "lugar": "",
         "precio": ""
       }
     }
