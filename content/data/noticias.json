@@ -1,5 +1,501 @@
 [
   {
+    "id": "villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislam",
+    "url": "/villaviciosa/villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislam/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "Villaviciosa debate sobre soledad en jóvenes y mayores",
+    "entradilla": "Las III Jornadas sobre Soledad y Salud reúnen a expertos y profesionales los días 12 y 13 de noviembre, con una de las dos sesiones en Villaviciosa.",
+    "cuerpo": [
+      "Las jornadas abordan el impacto de la soledad no deseada y el aislamiento social tanto en personas jóvenes como mayores. La cita se reparte entre Oviedo y Villaviciosa a lo largo de dos días.",
+      "Al encuentro están convocados expertos, profesionales del sector y estudiantes. Es la tercera edición de unas jornadas que llevan el asunto de la soledad al centro del debate sobre salud."
+    ],
+    "apunte": "Porque la soledad, a veces, no avisa.",
+    "enVeinte": [
+      "Los días 12 y 13 de noviembre se celebran en Oviedo y Villaviciosa las III Jornadas sobre Soledad y Salud en Jóvenes y Mayores.",
+      "El encuentro reúne a expertos, profesionales y estudiantes para analizar el impacto del aislamiento social.",
+      "Es la tercera edición de estas jornadas, que ponen el foco en la soledad no deseada como problema de salud."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El aislamiento social afecta a vecinos de todas las edades en concejos como Villaviciosa; poner nombre al problema es el primer paso para abordarlo.",
+    "etiquetas": [
+      "soledad",
+      "salud",
+      "jóvenes",
+      "mayores"
+    ],
+    "fechaEvento": "2026-11-12",
+    "tipoEvento": "taller",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-acoge-una-jornada-sobre-la-soledad-no-b5549547.jpg",
+    "fecha": "2026-11-05T10:00:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislamiento-social-11277001.html",
+      "titularOriginal": "Villaviciosa acoge una jornada sobre la soledad no deseada y el aislamiento social"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa debates loneliness among young people and the elderly",
+        "entradilla": "The III Jornadas sobre Soledad y Salud brings together experts and professionals on 12 and 13 November, with one of the two sessions held in Villaviciosa.",
+        "cuerpo": [
+          "The conference addresses the impact of unwanted loneliness and social isolation among both young people and the elderly. The event is split between Oviedo and Villaviciosa over two days.",
+          "Experts, professionals from the sector and students are all invited to attend. This is the third edition of a conference that places loneliness at the centre of the debate on health."
+        ],
+        "apunte": "Because loneliness, sometimes, gives no warning.",
+        "enVeinte": [
+          "On 12 and 13 November, the III Jornadas sobre Soledad y Salud en Jóvenes y Mayores takes place in Oviedo and Villaviciosa.",
+          "The event brings together experts, professionals and students to analyse the impact of social isolation.",
+          "This is the third edition of the conference, which focuses on unwanted loneliness as a health issue."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Social isolation affects residents of all ages in municipalities such as Villaviciosa; naming the problem is the first step towards addressing it.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa débat de la solitude chez les jeunes et les personnes âgées",
+        "entradilla": "Les III Jornadas sobre Soledad y Salud réunissent experts et professionnels les 12 et 13 novembre, avec l'une des deux sessions à Villaviciosa.",
+        "cuerpo": [
+          "Les journées abordent l'impact de la solitude non désirée et de l'isolement social, aussi bien chez les jeunes que chez les personnes âgées. La rencontre se répartit entre Oviedo et Villaviciosa sur deux jours.",
+          "Des experts, des professionnels du secteur et des étudiants sont conviés. C'est la troisième édition de journées qui placent la question de la solitude au cœur du débat sur la santé."
+        ],
+        "apunte": "Parce que la solitude, parfois, ne prévient pas.",
+        "enVeinte": [
+          "Les 12 et 13 novembre se tiennent à Oviedo et à Villaviciosa les III Jornadas sobre Soledad y Salud en Jóvenes y Mayores.",
+          "La rencontre réunit experts, professionnels et étudiants pour analyser l'impact de l'isolement social.",
+          "C'est la troisième édition de ces journées, qui mettent l'accent sur la solitude non désirée comme problème de santé."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "L'isolement social touche des habitants de tous âges dans des communes comme Villaviciosa ; nommer le problème est la première étape pour y remédier.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa diskutiert über Einsamkeit bei Jungen und Älteren",
+        "entradilla": "Die III Jornadas sobre Soledad y Salud bringen am 12. und 13. November Fachleute und Experten zusammen, eine der beiden Sitzungen findet in Villaviciosa statt.",
+        "cuerpo": [
+          "Die Tagung befasst sich mit den Auswirkungen ungewollter Einsamkeit und sozialer Isolation sowohl bei jungen Menschen als auch bei älteren. Die Veranstaltung verteilt sich über zwei Tage auf Oviedo und Villaviciosa.",
+          "Eingeladen sind Experten, Fachleute aus dem Bereich und Studierende. Es ist die dritte Ausgabe einer Tagung, die das Thema Einsamkeit in den Mittelpunkt der Gesundheitsdebatte rückt."
+        ],
+        "apunte": "Denn Einsamkeit kündigt sich manchmal nicht an.",
+        "enVeinte": [
+          "Am 12. und 13. November finden in Oviedo und Villaviciosa die III Jornadas sobre Soledad y Salud en Jóvenes y Mayores statt.",
+          "Die Veranstaltung bringt Experten, Fachleute und Studierende zusammen, um die Auswirkungen sozialer Isolation zu analysieren.",
+          "Es ist die dritte Ausgabe dieser Tagung, die ungewollte Einsamkeit als Gesundheitsproblem in den Fokus rückt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Soziale Isolation betrifft Einwohner jeden Alters in Gemeinden wie Villaviciosa; dem Problem einen Namen zu geben ist der erste Schritt, um es anzugehen.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la soledad no deseada y el aislamiento social"
+    ]
+  },
+  {
+    "id": "villaviciosa-homenajea-a-jose-antonio-lopez-y-anastasia-menendez-como-",
+    "url": "/villaviciosa/villaviciosa-homenajea-a-jose-antonio-lopez-y-anastasia-menendez-como-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa premia a sus abuelos del año",
+    "entradilla": "José Antonio López y Anastasia Menéndez recibieron el homenaje en la jornada anual de convivencia de mayores.",
+    "cuerpo": [
+      "Más de 400 personas mayores se juntaron en el restaurante Amandi para la cita anual que organiza el Ayuntamiento de Villaviciosa. El acto sirvió para reconocer a José Antonio López y a Anastasia Menéndez como abuelo y abuela del año.",
+      "La jornada es uno de los encuentros de referencia para los mayores del concejo, que cada año llenan el local para compartir una tarde de convivencia con el respaldo municipal."
+    ],
+    "apunte": "Cuatrocientas personas en un restaurante y aun así alguien se lleva el premio.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa celebró su jornada anual de convivencia para mayores en el restaurante Amandi.",
+      "Más de 400 personas asistieron al encuentro, que incluyó el nombramiento de abuelo y abuela del año.",
+      "José Antonio López y Anastasia Menéndez fueron los homenajeados de esta edición."
+    ],
+    "cifra": {
+      "numero": "400",
+      "unidad": "mayores",
+      "glosa": "Más de 400 personas se reunieron en Amandi para la jornada. Es una cifra que da idea del arraigo de este encuentro entre los vecinos del concejo."
+    },
+    "palabra": null,
+    "porQue": "Este acto es el reconocimiento público que el concejo da cada año a sus mayores, y quienes tienen familia en esa franja de edad saben que es una cita que se espera con ganas.",
+    "etiquetas": [
+      "mayores",
+      "Villaviciosa",
+      "homenaje",
+      "convivencia"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "restaurante Amandi, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/04/2026110422574487790.jpg",
+    "fecha": "2026-11-05T08:44:00.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/villaviciosa-homenajea-jose-antonio-lopez-anastasia-menendez-como-abuelo-abuela-ano/20261105094400105224.html",
+      "titularOriginal": "Villaviciosa homenajea a José Antonio López y Anastasia Menéndez como abuelo y abuela del año"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa honours its grandparents of the year",
+        "entradilla": "José Antonio López and Anastasia Menéndez were celebrated at the annual senior citizens' gathering.",
+        "cuerpo": [
+          "More than 400 older residents came together at the Amandi restaurant for the annual event organised by the Villaviciosa council. The occasion was used to recognise José Antonio López and Anastasia Menéndez as grandfather and grandmother of the year.",
+          "The gathering is one of the key annual events for the elderly in the municipality, with locals filling the venue every year to share an afternoon together with the backing of the council."
+        ],
+        "apunte": "Four hundred people in one restaurant, and someone still walks away with the prize.",
+        "enVeinte": [
+          "The Villaviciosa council held its annual senior citizens' gathering at the Amandi restaurant.",
+          "More than 400 people attended the event, which included the naming of a grandfather and grandmother of the year.",
+          "José Antonio López and Anastasia Menéndez were this edition's honourees."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "older residents",
+          "glosa": "More than 400 people gathered at Amandi for the event. The figure gives a sense of how deeply rooted this occasion has become among residents of the municipality."
+        },
+        "palabra": null,
+        "porQue": "This event is the public recognition the municipality gives its elderly residents every year, and anyone with family in that age group knows it is a date people genuinely look forward to.",
+        "lugar": "restaurante Amandi, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa récompense ses grands-parents de l'année",
+        "entradilla": "José Antonio López et Anastasia Menéndez ont été honorés lors de la journée annuelle de convivialité pour les seniors.",
+        "cuerpo": [
+          "Plus de 400 personnes âgées se sont réunies au restaurant Amandi pour la rencontre annuelle organisée par la mairie de Villaviciosa. L'événement a permis de distinguer José Antonio López et Anastasia Menéndez comme grand-père et grand-mère de l'année.",
+          "Cette journée est l'un des rendez-vous incontournables pour les seniors de la commune, qui remplissent chaque année la salle pour partager un après-midi de convivialité avec le soutien de la municipalité."
+        ],
+        "apunte": "Quatre cents personnes dans un restaurant, et quelqu'un repart quand même avec le prix.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a organisé sa journée annuelle de convivialité pour seniors au restaurant Amandi.",
+          "Plus de 400 personnes ont assisté à la rencontre, qui comprenait la désignation d'un grand-père et d'une grand-mère de l'année.",
+          "José Antonio López et Anastasia Menéndez étaient les personnes à l'honneur de cette édition."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "seniors",
+          "glosa": "Plus de 400 personnes se sont retrouvées à Amandi pour cette journée. Ce chiffre témoigne de l'ancrage de ce rendez-vous parmi les habitants de la commune."
+        },
+        "palabra": null,
+        "porQue": "Cet événement est la reconnaissance publique que la commune offre chaque année à ses aînés, et ceux qui ont de la famille dans cette tranche d'âge savent que c'est un rendez-vous attendu avec impatience.",
+        "lugar": "restaurante Amandi, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa ehrt seine Großeltern des Jahres",
+        "entradilla": "José Antonio López und Anastasia Menéndez wurden beim jährlichen Seniorentreffen geehrt.",
+        "cuerpo": [
+          "Mehr als 400 ältere Bewohnerinnen und Bewohner kamen im Restaurant Amandi zum jährlichen Treffen zusammen, das das Rathaus von Villaviciosa organisiert. Bei dem Anlass wurden José Antonio López und Anastasia Menéndez als Großvater und Großmutter des Jahres ausgezeichnet.",
+          "Das Treffen ist eine der wichtigsten Veranstaltungen für Senioren in der Gemeinde. Jedes Jahr füllen die Bewohner das Lokal, um gemeinsam einen Nachmittag zu verbringen – mit Unterstützung der Stadt."
+        ],
+        "apunte": "Vierhundert Menschen in einem Restaurant – und trotzdem geht jemand mit dem Preis nach Hause.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa veranstaltete sein jährliches Seniorentreffen im Restaurant Amandi.",
+          "Mehr als 400 Personen nahmen an der Veranstaltung teil, bei der auch ein Großvater und eine Großmutter des Jahres ernannt wurden.",
+          "José Antonio López und Anastasia Menéndez waren die Geehrten dieser Ausgabe."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "Seniorinnen und Senioren",
+          "glosa": "Mehr als 400 Menschen versammelten sich in Amandi für das Treffen. Diese Zahl zeigt, wie fest diese Veranstaltung unter den Bewohnern der Gemeinde verwurzelt ist."
+        },
+        "palabra": null,
+        "porQue": "Diese Veranstaltung ist die öffentliche Anerkennung, die die Gemeinde ihren älteren Bewohnern jedes Jahr zuteilwerden lässt. Wer Angehörige in dieser Altersgruppe hat, weiß, dass es ein Termin ist, auf den man sich freut.",
+        "lugar": "restaurante Amandi, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "anastasia menendez como abuelo y abuela del ano"
+    ]
+  },
+  {
+    "id": "la-espicha-solidaria-frente-al-cancer-vuelve-este-sabado-a-llagar-cort",
+    "url": "/villaviciosa/la-espicha-solidaria-frente-al-cancer-vuelve-este-sabado-a-llagar-cort/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La Espicha Solidaria llena Llagar Cortina este sábado",
+    "entradilla": "Javier Gutiérrez será nombrado Embajador de la Sidra de Asturies Solidaria en la duodécima edición del evento, que destina parte de cada entrada a pacientes de cáncer.",
+    "cuerpo": [
+      "Este sábado 7 de noviembre, a las 19:30, Llagar Cortina acoge la XII Espicha Solidaria frente al Cáncer. La Fundación Sandra Ibarra y el Consejo Regulador de la DOP Sidra de Asturies organizan la velada, que combina tradición sidrera y recaudación de fondos para apoyar a personas afectadas por la enfermedad.",
+      "La entrada cuesta 40 euros, de los que 10 van directamente a la Escuela de Vida, una comunidad digital que ofrece orientación, formación y acompañamiento a pacientes, supervivientes y sus familias. El actor llancuán Javier Gutiérrez, ganador de dos Goya, recibirá durante la noche el nombramiento de embajador de esta edición, tomando el relevo de la doctora María Neira.",
+      "Las entradas se pueden comprar en la sede del Consejo Regulador, en Sidra Cortina o a través de Entradium."
+    ],
+    "apunte": "Este año la sidra se escancia con más razón que nunca: diez euros de cada entrada van directos a quien más lo necesita.",
+    "enVeinte": [
+      "El sábado 7 de noviembre, Llagar Cortina celebra en Villaviciosa la XII Espicha Solidaria frente al Cáncer, a partir de las 19:30.",
+      "La entrada vale 40 euros, de los que 10 son donación directa a la Escuela de Vida de la Fundación Sandra Ibarra.",
+      "El actor Javier Gutiérrez será nombrado Embajador de la Sidra de Asturies Solidaria 2026 durante la velada."
+    ],
+    "cifra": {
+      "numero": "10",
+      "unidad": "euros por entrada",
+      "glosa": "De los 40 euros que cuesta asistir a la espicha, 10 van destinados directamente a la Escuela de Vida. Es la aportación solidaria incluida en el precio de cada entrada, sin trámites aparte."
+    },
+    "palabra": {
+      "termino": "espicha",
+      "como": "espicha (igual en asturiano y en castellano de aquí)",
+      "definicion": "Festejo tradicional asturiano en el que se abre un tonel de sidra y se comparte entre los asistentes. El nombre viene de la espicha de madera con la que se tapa el agujero del barril. Aquí se usa también para referirse al evento en sí, con mesa, comida y sidra corriendo."
+    },
+    "porQue": "Quien viva en Villaviciosa o alrededores tiene cerca un plan de sábado noche que mezcla la cultura de casa con una causa concreta: cada entrada apoya directamente a pacientes y familias que atraviesan un proceso de cáncer.",
+    "etiquetas": [
+      "Villaviciosa",
+      "espicha solidaria",
+      "cáncer",
+      "sidra"
+    ],
+    "fechaEvento": "2026-11-07",
+    "tipoEvento": "gastro",
+    "lugar": "Llagar Cortina, Villaviciosa",
+    "hora": "19:30",
+    "precio": "40 €",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-05T04:00:08.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/espicha-solidaria-cancer-cortina-7-noviembre-2026/",
+      "titularOriginal": "La Espicha Solidaria frente al Cáncer vuelve este sábado a Llagar Cortina"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Espicha Solidaria fills Llagar Cortina this Saturday",
+        "entradilla": "Javier Gutiérrez will be named Ambassador of the Sidra de Asturies Solidaria at the twelfth edition of the event, which donates part of each ticket to cancer patients.",
+        "cuerpo": [
+          "This Saturday, 7 November, at 19:30, Llagar Cortina hosts the XII Espicha Solidaria frente al Cáncer. The Fundación Sandra Ibarra and the Consejo Regulador de la DOP Sidra de Asturies are organising the evening, which combines cider tradition with fundraising to support people affected by the disease.",
+          "Tickets cost 40 euros, of which 10 go directly to the Escuela de Vida, a digital community offering guidance, training and support to patients, survivors and their families. The actor from Llanes, Javier Gutiérrez, a two-time Goya winner, will receive the ambassador title for this edition during the evening, taking over from Dr María Neira.",
+          "Tickets can be purchased at the Consejo Regulador office, at Sidra Cortina, or through Entradium."
+        ],
+        "apunte": "This year there is more reason than ever to pour a cider: ten euros from every ticket go straight to those who need it most.",
+        "enVeinte": [
+          "On Saturday 7 November, Llagar Cortina hosts the XII Espicha Solidaria frente al Cáncer in Villaviciosa, starting at 19:30.",
+          "Tickets cost 40 euros, of which 10 are a direct donation to the Escuela de Vida of the Fundación Sandra Ibarra.",
+          "Actor Javier Gutiérrez will be named Embajador de la Sidra de Asturies Solidaria 2026 during the evening."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "euros per ticket",
+          "glosa": "Of the 40 euros it costs to attend the espicha (a cider-house feast), 10 go directly to the Escuela de Vida. This is the charitable contribution included in the price of each ticket, with no separate process required."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (the same in Asturian and in the local Spanish)",
+          "definicion": "A traditional Asturian celebration in which a barrel of cider is opened and shared among those present. The name comes from the wooden espicha used to plug the hole in the barrel. Here it is also used to refer to the event itself, complete with table, food and free-flowing cider."
+        },
+        "porQue": "Anyone living in Villaviciosa or nearby has a Saturday-night plan that blends local culture with a concrete cause: every ticket directly supports patients and families going through cancer.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": "40 €"
+      },
+      "fr": {
+        "titular": "La Espicha Solidaria remplit Llagar Cortina ce samedi",
+        "entradilla": "Javier Gutiérrez sera nommé Ambassadeur de la Sidra de Asturies Solidaria lors de la douzième édition de l'événement, qui reverse une partie de chaque billet à des patients atteints de cancer.",
+        "cuerpo": [
+          "Ce samedi 7 novembre, à 19 h 30, Llagar Cortina accueille la XII Espicha Solidaria frente al Cáncer. La Fundación Sandra Ibarra et le Consejo Regulador de la DOP Sidra de Asturies organisent la soirée, qui mêle tradition cidrière et collecte de fonds pour soutenir les personnes touchées par la maladie.",
+          "Le billet coûte 40 euros, dont 10 vont directement à l'Escuela de Vida, une communauté numérique qui offre orientation, formation et accompagnement aux patients, aux survivants et à leurs familles. L'acteur originaire de Llanes Javier Gutiérrez, deux fois lauréat du Goya, recevra pendant la soirée le titre d'ambassadeur de cette édition, prenant la suite de la docteure María Neira.",
+          "Les billets peuvent être achetés au siège du Consejo Regulador, chez Sidra Cortina ou via Entradium."
+        ],
+        "apunte": "Cette année, le cidre se verse avec plus de raison que jamais : dix euros de chaque billet vont directement à ceux qui en ont le plus besoin.",
+        "enVeinte": [
+          "Le samedi 7 novembre, Llagar Cortina célèbre à Villaviciosa la XII Espicha Solidaria frente al Cáncer, à partir de 19 h 30.",
+          "Le billet coûte 40 euros, dont 10 constituent un don direct à l'Escuela de Vida de la Fundación Sandra Ibarra.",
+          "L'acteur Javier Gutiérrez sera nommé Embajador de la Sidra de Asturies Solidaria 2026 au cours de la soirée."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "euros par billet",
+          "glosa": "Sur les 40 euros que coûte la participation à l'espicha (une fête traditionnelle autour du tonneau de cidre), 10 vont directement à l'Escuela de Vida. C'est la contribution solidaire incluse dans le prix de chaque billet, sans démarche supplémentaire."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (identique en asturien et en espagnol local)",
+          "definicion": "Fête traditionnelle asturienne au cours de laquelle on ouvre un tonneau de cidre et on le partage entre les participants. Le nom vient de l'espicha en bois qui sert à boucher le trou du tonneau. Le mot désigne aussi l'événement lui-même, avec table, nourriture et cidre à volonté."
+        },
+        "porQue": "Les habitants de Villaviciosa et des alentours ont là une sortie du samedi soir qui mêle culture locale et cause concrète : chaque billet soutient directement des patients et des familles traversant un cancer.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": "40 €"
+      },
+      "de": {
+        "titular": "La Espicha Solidaria füllt Llagar Cortina diesen Samstag",
+        "entradilla": "Javier Gutiérrez wird bei der zwölften Ausgabe der Veranstaltung zum Botschafter der Sidra de Asturies Solidaria ernannt; ein Teil jedes Eintrittspreises kommt Krebspatienten zugute.",
+        "cuerpo": [
+          "An diesem Samstag, dem 7. November, um 19:30 Uhr ist Llagar Cortina Gastgeber der XII Espicha Solidaria frente al Cáncer. Die Fundación Sandra Ibarra und der Consejo Regulador de la DOP Sidra de Asturies organisieren den Abend, der asturische Cidre-Tradition mit einer Spendensammlung für von der Krankheit betroffene Menschen verbindet.",
+          "Der Eintritt kostet 40 Euro, von denen 10 direkt an die Escuela de Vida gehen, eine digitale Gemeinschaft, die Patienten, Überlebenden und ihren Familien Orientierung, Weiterbildung und Begleitung bietet. Der aus Llanes stammende Schauspieler Javier Gutiérrez, zweifacher Goya-Preisträger, wird während des Abends als Botschafter dieser Ausgabe ernannt und tritt damit die Nachfolge von Dr. María Neira an.",
+          "Eintrittskarten sind im Büro des Consejo Regulador, bei Sidra Cortina oder über Entradium erhältlich."
+        ],
+        "apunte": "In diesem Jahr wird der Cidre mit mehr Grund als je zuvor eingeschenkt: Zehn Euro aus jedem Ticket gehen direkt an diejenigen, die es am meisten brauchen.",
+        "enVeinte": [
+          "Am Samstag, dem 7. November, feiert Llagar Cortina in Villaviciosa die XII Espicha Solidaria frente al Cáncer, ab 19:30 Uhr.",
+          "Der Eintritt kostet 40 Euro, von denen 10 als direkte Spende an die Escuela de Vida der Fundación Sandra Ibarra gehen.",
+          "Der Schauspieler Javier Gutiérrez wird während des Abends zum Embajador de la Sidra de Asturies Solidaria 2026 ernannt."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "Euro pro Ticket",
+          "glosa": "Von den 40 Euro, die der Besuch der espicha (ein traditionelles Fest rund um das Cidre-Fass) kostet, gehen 10 direkt an die Escuela de Vida. Es ist der im Ticketpreis enthaltene solidarische Beitrag, ohne zusätzliche Formalitäten."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha (gleich auf Asturisch und im lokalen Spanisch)",
+          "definicion": "Traditionelles asturisches Fest, bei dem ein Fass Cidre geöffnet und unter den Anwesenden geteilt wird. Der Name kommt von dem hölzernen espicha-Zapfen, mit dem das Loch im Fass verschlossen wird. Das Wort bezeichnet hier auch die Veranstaltung selbst, mit Tisch, Essen und reichlich Cidre."
+        },
+        "porQue": "Wer in Villaviciosa oder der Umgebung lebt, hat hier einen Samstagabend-Plan, der lokale Kultur mit einem konkreten Anliegen verbindet: Jedes Ticket unterstützt direkt Patienten und Familien, die einen Krebsprozess durchleben.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": "40 €"
+      }
+    },
+    "revisar": [
+      "este sabado 7 de noviembre a las 19",
+      "sabado 7 de noviembre a las 19 30",
+      "la fundacion sandra ibarra y el consejo regulador",
+      "fundacion sandra ibarra y el consejo regulador de",
+      "sandra ibarra y el consejo regulador de la",
+      "ibarra y el consejo regulador de la dop",
+      "y el consejo regulador de la dop sidra",
+      "el consejo regulador de la dop sidra de",
+      "consejo regulador de la dop sidra de asturies",
+      "regulador de la dop sidra de asturies organizan",
+      "en la sede del consejo regulador en sidra",
+      "la sede del consejo regulador en sidra cortina"
+    ]
+  },
+  {
+    "id": "villaviciosa-homenajea-a-sus-mayores-y-anuncia-el-primer-centro-de-dia",
+    "url": "/villaviciosa/villaviciosa-homenajea-a-sus-mayores-y-anuncia-el-primer-centro-de-dia/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa estrena su primer Centro de Día",
+    "entradilla": "El anuncio llegó en la jornada que reunió a 420 mayores en Amandi y nombró Abuelo y Abuela del Año.",
+    "cuerpo": [
+      "La Jornada de Convivencia de las Personas Mayores se celebró en Amandi con 420 participantes. El acto sirvió también para anunciar la creación del primer Centro de Día del concejo de Villaviciosa.",
+      "José Antonio López Vázquez y Anastasia Menéndez García recibieron los títulos de Abuelo y Abuela del Año, el reconocimiento que el concejo reserva cada año a dos vecinos mayores."
+    ],
+    "apunte": "420 personas en Amandi y un centro de día prometido: no está mal para una mañana de miércoles.",
+    "enVeinte": [
+      "Villaviciosa celebró en Amandi su Jornada de Convivencia de las Personas Mayores con 420 asistentes.",
+      "En el acto se anunció el primer Centro de Día del concejo.",
+      "José Antonio López Vázquez y Anastasia Menéndez García fueron nombrados Abuelo y Abuela del Año."
+    ],
+    "cifra": {
+      "numero": "420",
+      "unidad": "participantes",
+      "glosa": "Esa fue la asistencia a la jornada celebrada en Amandi. Es la reunión anual más multitudinaria que el concejo organiza específicamente para sus mayores."
+    },
+    "palabra": null,
+    "porQue": "Villaviciosa no tenía hasta ahora ningún Centro de Día propio; cuando abra, los vecinos mayores del concejo tendrán atención diurna sin salir del municipio.",
+    "etiquetas": [
+      "mayores",
+      "Villaviciosa",
+      "Centro de Día",
+      "Amandi"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Amandi",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-homenajea-a-sus-mayores-y-anuncia-el-69561cd0.jpg",
+    "fecha": "2026-11-04T23:23:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-homenajea-a-sus-mayores-y-anuncia-el-primer-centro-de-dia-del-concejo-11277000.html",
+      "titularOriginal": "Villaviciosa homenajea a sus mayores y anuncia el primer Centro de Día del concejo"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens its first Day Centre",
+        "entradilla": "The announcement came at the event that brought together 420 older residents in Amandi and named the Grandfather and Grandmother of the Year.",
+        "cuerpo": [
+          "The Jornada de Convivencia de las Personas Mayores was held in Amandi with 420 participants. The event also served to announce the creation of the first Day Centre in the municipality of Villaviciosa.",
+          "José Antonio López Vázquez and Anastasia Menéndez García received the titles of Grandfather and Grandmother of the Year, the recognition the municipality reserves each year for two older residents."
+        ],
+        "apunte": "420 people in Amandi and a day centre promised: not bad for a Wednesday morning.",
+        "enVeinte": [
+          "Villaviciosa held its Jornada de Convivencia de las Personas Mayores in Amandi with 420 attendees.",
+          "The event saw the announcement of the municipality's first Day Centre.",
+          "José Antonio López Vázquez and Anastasia Menéndez García were named Grandfather and Grandmother of the Year."
+        ],
+        "cifra": {
+          "numero": "420",
+          "unidad": "participants",
+          "glosa": "That was the attendance at the event held in Amandi. It is the largest annual gathering the municipality organises specifically for its older residents."
+        },
+        "palabra": null,
+        "porQue": "Villaviciosa had no Day Centre of its own until now; once it opens, older residents of the municipality will have daytime care without leaving the area.",
+        "lugar": "Amandi",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa inaugure son premier Centre de Jour",
+        "entradilla": "L'annonce a été faite lors de la journée qui a réuni 420 personnes âgées à Amandi et a désigné le Grand-Père et la Grand-Mère de l'Année.",
+        "cuerpo": [
+          "La Jornada de Convivencia de las Personas Mayores s'est tenue à Amandi avec 420 participants. La manifestation a également servi à annoncer la création du premier Centre de Jour de la commune de Villaviciosa.",
+          "José Antonio López Vázquez et Anastasia Menéndez García ont reçu les titres de Grand-Père et Grand-Mère de l'Année, la distinction que la commune réserve chaque année à deux habitants âgés."
+        ],
+        "apunte": "420 personnes à Amandi et un centre de jour annoncé : pas mal pour un mercredi matin.",
+        "enVeinte": [
+          "Villaviciosa a tenu sa Jornada de Convivencia de las Personas Mayores à Amandi avec 420 participants.",
+          "La manifestation a été l'occasion d'annoncer le premier Centre de Jour de la commune.",
+          "José Antonio López Vázquez et Anastasia Menéndez García ont été nommés Grand-Père et Grand-Mère de l'Année."
+        ],
+        "cifra": {
+          "numero": "420",
+          "unidad": "participants",
+          "glosa": "C'est le nombre de personnes présentes à la journée organisée à Amandi. Il s'agit du rassemblement annuel le plus fréquenté que la commune organise spécifiquement pour ses habitants âgés."
+        },
+        "palabra": null,
+        "porQue": "Villaviciosa ne disposait jusqu'à présent d'aucun Centre de Jour en propre ; une fois ouvert, les habitants âgés de la commune bénéficieront d'une prise en charge diurne sans quitter la commune.",
+        "lugar": "Amandi",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa eröffnet sein erstes Tagesbetreuungszentrum",
+        "entradilla": "Die Ankündigung fiel bei der Veranstaltung, die 420 ältere Bewohner in Amandi zusammenbrachte und den Großvater und die Großmutter des Jahres ernannte.",
+        "cuerpo": [
+          "Die Jornada de Convivencia de las Personas Mayores fand in Amandi mit 420 Teilnehmern statt. Der Anlass diente auch dazu, die Einrichtung des ersten Tagesbetreuungszentrums der Gemeinde Villaviciosa anzukündigen.",
+          "José Antonio López Vázquez und Anastasia Menéndez García erhielten die Titel Großvater und Großmutter des Jahres – eine Auszeichnung, die die Gemeinde jedes Jahr zwei älteren Einwohnern verleiht."
+        ],
+        "apunte": "420 Menschen in Amandi und ein versprochenes Tagesbetreuungszentrum: nicht schlecht für einen Mittwochmorgen.",
+        "enVeinte": [
+          "Villaviciosa veranstaltete seine Jornada de Convivencia de las Personas Mayores in Amandi mit 420 Teilnehmern.",
+          "Bei der Veranstaltung wurde das erste Tagesbetreuungszentrum der Gemeinde angekündigt.",
+          "José Antonio López Vázquez und Anastasia Menéndez García wurden zu Großvater und Großmutter des Jahres ernannt."
+        ],
+        "cifra": {
+          "numero": "420",
+          "unidad": "Teilnehmer",
+          "glosa": "So viele Menschen nahmen an der Veranstaltung in Amandi teil. Es ist die größte jährliche Zusammenkunft, die die Gemeinde eigens für ihre älteren Bewohner organisiert."
+        },
+        "palabra": null,
+        "porQue": "Villaviciosa hatte bislang kein eigenes Tagesbetreuungszentrum; sobald es öffnet, können ältere Bewohner der Gemeinde tagsüber betreut werden, ohne die Gemeinde verlassen zu müssen.",
+        "lugar": "Amandi",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la jornada de convivencia de las personas mayores",
+      "jose antonio lopez vazquez y anastasia menendez garcia"
+    ]
+  },
+  {
     "id": "charla-divulgativa-sobre-la-eutanasia-en-villaviciosa-de-la-mano-de-as",
     "url": "/villaviciosa/charla-divulgativa-sobre-la-eutanasia-en-villaviciosa-de-la-mano-de-as/",
     "concejo": "Villaviciosa",
@@ -41929,240 +42425,6 @@
         },
         "palabra": null,
         "porQue": "Wenn Sie in Villaviciosa leben und ein Taxi brauchen, können Sie es bald im Voraus buchen, anstatt zu warten, ob eines auftaucht.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "santi-cazorla-estara-hoy-en-arriondas-en-el-izado-de-banderas-del-sell",
-    "url": "/pilona/santi-cazorla-estara-hoy-en-arriondas-en-el-izado-de-banderas-del-sell/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Cazorla arranca el Descenso del Sella en Arriondas",
-    "entradilla": "El exfutbolista participa hoy en el izado de banderas que abre el 88 Descenso del Sella.",
-    "cuerpo": [
-      "Arriondas celebra esta mañana el acto de apertura del 88 Descenso del Sella, con el izado de banderas y una jornada de homenajes y reconocimientos. Santi Cazorla es uno de los protagonistas del día.",
-      "La cita marca el arranque oficial de la fiesta del Sella, la prueba de piragüismo más popular del verano asturiano, que une Arriondas con Ribadesella."
-    ],
-    "apunte": "El Sella ya tiene quien le iza la bandera con clase.",
-    "enVeinte": [
-      "Arriondas abre hoy el 88 Descenso del Sella con un acto de izado de banderas, homenajes y reconocimientos.",
-      "Santi Cazorla participa en la jornada inaugural de la prueba de piragüismo más señalada del verano asturiano.",
-      "La carrera discurre entre Arriondas y Ribadesella y celebra este año su 88 edición."
-    ],
-    "cifra": {
-      "numero": "88",
-      "unidad": "edición",
-      "glosa": "El Descenso del Sella llega este año a su 88 edición. La prueba se disputa desde 1930 y es uno de los eventos de piragüismo con más historia de España."
-    },
-    "palabra": null,
-    "porQue": "El Descenso del Sella es la cita del verano para toda la comarca: Arriondas y Ribadesella se llenan, y los concejos del entorno —Piloña incluido— notan el movimiento de gente durante días.",
-    "etiquetas": [
-      "Descenso del Sella",
-      "Arriondas",
-      "Santi Cazorla",
-      "piragüismo"
-    ],
-    "fechaEvento": "2026-08-07",
-    "tipoEvento": "fiesta",
-    "lugar": "Arriondas",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/07/2026080710412735402.jpg",
-    "fecha": "2026-08-07T08:44:45.000Z",
-    "fuente": {
-      "nombre": "El Fielato · Deportes",
-      "url": "https://www.elfielato.es/articulo/deportes/santi-cazorla-estara-hoy-arriondas-izado-banderas-sella/20260807104445100945.html",
-      "titularOriginal": "Santi Cazorla estará hoy en Arriondas, en el izado de banderas del Sella"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Cazorla kicks off the Descenso del Sella in Arriondas",
-        "entradilla": "The former footballer takes part today in the flag-raising ceremony that opens the 88th Descenso del Sella.",
-        "cuerpo": [
-          "Arriondas hosts this morning the opening ceremony of the 88th Descenso del Sella, with a flag-raising and a day of tributes and recognition. Santi Cazorla is one of the day's main figures.",
-          "The event marks the official start of the Sella festival, the most popular canoe race of the Asturian summer, linking Arriondas with Ribadesella."
-        ],
-        "apunte": "The Sella now has someone to raise its flag with style.",
-        "enVeinte": [
-          "Arriondas opens the 88th Descenso del Sella today with a flag-raising ceremony, tributes and recognition.",
-          "Santi Cazorla takes part in the opening day of the most celebrated canoe race of the Asturian summer.",
-          "The race runs between Arriondas and Ribadesella and celebrates its 88th edition this year."
-        ],
-        "cifra": {
-          "numero": "88",
-          "unidad": "edition",
-          "glosa": "The Descenso del Sella reaches its 88th edition this year. The race has been held since 1930 and is one of the most historic canoe events in Spain."
-        },
-        "palabra": null,
-        "porQue": "The Descenso del Sella is the summer event for the entire area: Arriondas and Ribadesella fill up, and the surrounding municipalities — Piloña included — feel the flow of visitors for days.",
-        "lugar": "Arriondas",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Cazorla lance le Descenso del Sella à Arriondas",
-        "entradilla": "L'ancien footballeur participe aujourd'hui à la montée des drapeaux qui ouvre le 88e Descenso del Sella.",
-        "cuerpo": [
-          "Arriondas accueille ce matin la cérémonie d'ouverture du 88e Descenso del Sella, avec une montée des drapeaux et une journée d'hommages et de distinctions. Santi Cazorla est l'un des personnages principaux de la journée.",
-          "L'événement marque le coup d'envoi officiel de la fête du Sella, la course de canoë la plus populaire de l'été asturien, qui relie Arriondas à Ribadesella."
-        ],
-        "apunte": "Le Sella a enfin quelqu'un pour hisser son drapeau avec élégance.",
-        "enVeinte": [
-          "Arriondas ouvre aujourd'hui le 88e Descenso del Sella avec une cérémonie de montée des drapeaux, des hommages et des distinctions.",
-          "Santi Cazorla participe à la journée inaugurale de la course de canoë la plus emblématique de l'été asturien.",
-          "La course se déroule entre Arriondas et Ribadesella et célèbre cette année sa 88e édition."
-        ],
-        "cifra": {
-          "numero": "88",
-          "unidad": "édition",
-          "glosa": "Le Descenso del Sella atteint cette année sa 88e édition. L'épreuve se dispute depuis 1930 et est l'un des événements de canoë les plus historiques d'Espagne."
-        },
-        "palabra": null,
-        "porQue": "Le Descenso del Sella est le rendez-vous de l'été pour toute la zone : Arriondas et Ribadesella se remplissent, et les communes environnantes — Piloña y compris — ressentent l'affluence pendant plusieurs jours.",
-        "lugar": "Arriondas",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Cazorla eröffnet den Descenso del Sella in Arriondas",
-        "entradilla": "Der ehemalige Fußballspieler nimmt heute an der Fahnenhissung teil, die den 88. Descenso del Sella eröffnet.",
-        "cuerpo": [
-          "Arriondas begeht heute Morgen die Eröffnungsfeier des 88. Descenso del Sella mit einer Fahnenhissung sowie einem Tag voller Ehrungen und Auszeichnungen. Santi Cazorla ist einer der Hauptprotagonisten des Tages.",
-          "Der Anlass markiert den offiziellen Auftakt des Sella-Fests, des beliebtesten Kanurennsports des asturischen Sommers, der Arriondas mit Ribadesella verbindet."
-        ],
-        "apunte": "Der Sella hat jetzt jemanden, der seine Fahne mit Stil hisst.",
-        "enVeinte": [
-          "Arriondas eröffnet heute den 88. Descenso del Sella mit einer Fahnenhissung, Ehrungen und Auszeichnungen.",
-          "Santi Cazorla nimmt am Eröffnungstag des bedeutendsten Kanurennsports des asturischen Sommers teil.",
-          "Das Rennen führt von Arriondas nach Ribadesella und feiert dieses Jahr seine 88. Ausgabe."
-        ],
-        "cifra": {
-          "numero": "88",
-          "unidad": "Ausgabe",
-          "glosa": "Der Descenso del Sella erreicht dieses Jahr seine 88. Ausgabe. Das Rennen wird seit 1930 ausgetragen und ist eines der traditionsreichsten Kanu-Events Spaniens."
-        },
-        "palabra": null,
-        "porQue": "Der Descenso del Sella ist das Sommerereignis für die gesamte Region: Arriondas und Ribadesella füllen sich, und die umliegenden Gemeinden — Piloña eingeschlossen — spüren den Besucherstrom tagelang.",
-        "lugar": "Arriondas",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "la-asociacion-protejamos-nuestra-ria-se-ha-ignorado-el-valor-de-los-po",
-    "url": "/villaviciosa/la-asociacion-protejamos-nuestra-ria-se-ha-ignorado-el-valor-de-los-po/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Protejamos Nuestra Ría reivindica los porreos olvidados",
-    "entradilla": "La asociación dedicó su jornada anual a reclamar más atención para las tierras que se arrancaron al mar hace más de dos siglos.",
-    "cuerpo": [
-      "Protejamos Nuestra Ría puso el foco esta vez en los porreos de Villaviciosa: terrenos ganados a la ría hace más de doscientos años que, según la asociación, no reciben el reconocimiento que merecen.",
-      "La denuncia llegó durante la jornada anual del colectivo, que consideró que ese patrimonio territorial ha sido sistemáticamente ignorado."
-    ],
-    "apunte": "Doscientos años ganándole tierra al mar y seguimos sin mirarla bien.",
-    "enVeinte": [
-      "La asociación Protejamos Nuestra Ría centró su jornada anual en los porreos de Villaviciosa.",
-      "Denunciaron que estas tierras, recuperadas de la ría hace más de dos siglos, han sido ignoradas.",
-      "El colectivo reclama mayor atención y reconocimiento para ese patrimonio territorial."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "porreos",
-      "como": "po-RRE-os",
-      "definicion": "Nombre que reciben en Villaviciosa las tierras ganadas a la ría mediante relleno o desecación a lo largo de los siglos. Son terrenos de origen artificial, arrancados al mar, que forman parte del paisaje y la historia de la ría."
-    },
-    "porQue": "Los porreos forman parte del paisaje cotidiano de Villaviciosa, y su reconocimiento o desamparo afecta directamente a cómo se gestiona y protege la ría en el futuro.",
-    "etiquetas": [
-      "Villaviciosa",
-      "porreos",
-      "Protejamos Nuestra Ría",
-      "patrimonio"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/06/porreo-marquesa-RMsZ2Aa17Fz1P4MOH6344CK-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-06T21:08:33.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/asociacion-protejamos-ria-ignorado-valor-porreos-villaviciosa-20260806230833-nt.html",
-      "titularOriginal": "La asociación Protejamos Nuestra Ría: «Se ha ignorado el valor de los porreos de Villaviciosa»"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Protejamos Nuestra Ría calls for recognition of forgotten porreos",
-        "entradilla": "The association devoted its annual event to demanding greater attention for the lands reclaimed from the sea more than two centuries ago.",
-        "cuerpo": [
-          "Protejamos Nuestra Ría turned its focus this time to the porreos (lands reclaimed from the estuary) of Villaviciosa: terrain won from the ría more than two hundred years ago that, according to the association, does not receive the recognition it deserves.",
-          "The call came during the collective's annual event, which argued that this territorial heritage has been systematically overlooked."
-        ],
-        "apunte": "Two hundred years of winning land from the sea, and we still are not looking at it properly.",
-        "enVeinte": [
-          "The association Protejamos Nuestra Ría centred its annual event on the porreos of Villaviciosa.",
-          "They argued that these lands, reclaimed from the estuary more than two centuries ago, have been ignored.",
-          "The collective is calling for greater attention and recognition for this territorial heritage."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "porreos",
-          "como": "po-RRE-os",
-          "definicion": "The name given in Villaviciosa to lands reclaimed from the estuary by means of infill or drainage over the centuries. They are artificially created terrain, won from the sea, and form part of the landscape and history of the estuary."
-        },
-        "porQue": "The porreos are part of the everyday landscape of Villaviciosa, and whether they are recognised or neglected directly affects how the estuary is managed and protected in the future.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Protejamos Nuestra Ría réclame la reconnaissance des porreos oubliés",
-        "entradilla": "L'association a consacré sa journée annuelle à exiger davantage d'attention pour les terres arrachées à la mer il y a plus de deux siècles.",
-        "cuerpo": [
-          "Protejamos Nuestra Ría a braqué son attention sur les porreos (terres gagnées sur l'estuaire) de Villaviciosa : des terrains conquis sur la ría il y a plus de deux cents ans qui, selon l'association, ne bénéficient pas de la reconnaissance qu'ils méritent.",
-          "Cette dénonciation est intervenue lors de la journée annuelle du collectif, qui a estimé que ce patrimoine territorial a été systématiquement ignoré."
-        ],
-        "apunte": "Deux cents ans à gagner des terres sur la mer, et nous continuons à ne pas les regarder comme il faut.",
-        "enVeinte": [
-          "L'association Protejamos Nuestra Ría a centré sa journée annuelle sur les porreos de Villaviciosa.",
-          "Elle a dénoncé le fait que ces terres, récupérées sur l'estuaire il y a plus de deux siècles, ont été ignorées.",
-          "Le collectif réclame davantage d'attention et de reconnaissance pour ce patrimoine territorial."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "porreos",
-          "como": "po-RRE-os",
-          "definicion": "Nom donné à Villaviciosa aux terres gagnées sur l'estuaire par remblaiement ou assèchement au fil des siècles. Ce sont des terrains d'origine artificielle, arrachés à la mer, qui font partie du paysage et de l'histoire de l'estuaire."
-        },
-        "porQue": "Les porreos font partie du paysage quotidien de Villaviciosa, et leur reconnaissance ou leur abandon influe directement sur la façon dont l'estuaire sera géré et protégé à l'avenir.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Protejamos Nuestra Ría fordert Anerkennung für vergessene porreos",
-        "entradilla": "Der Verein widmete seinen jährlichen Aktionstag der Forderung nach mehr Aufmerksamkeit für Ländereien, die vor über zwei Jahrhunderten dem Meer abgerungen wurden.",
-        "cuerpo": [
-          "Protejamos Nuestra Ría richtete den Blick diesmal auf die porreos (dem Ästuar abgewonnene Ländereien) von Villaviciosa: Gelände, das vor mehr als zweihundert Jahren der Ría entrissen wurde und das laut dem Verein nicht die Anerkennung erhält, die es verdient.",
-          "Die Kritik fiel während des jährlichen Aktionstags des Kollektivs, das der Ansicht ist, dieses territoriale Erbe werde systematisch übergangen."
-        ],
-        "apunte": "Zweihundert Jahre lang hat man dem Meer Land abgerungen – und schaut es sich immer noch nicht richtig an.",
-        "enVeinte": [
-          "Der Verein Protejamos Nuestra Ría stellte die porreos von Villaviciosa in den Mittelpunkt seines jährlichen Aktionstags.",
-          "Er kritisierte, dass diese Ländereien, die vor über zwei Jahrhunderten dem Ästuar abgewonnen wurden, keine Beachtung gefunden haben.",
-          "Das Kollektiv fordert mehr Aufmerksamkeit und Anerkennung für dieses territoriale Erbe."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "porreos",
-          "como": "po-RRE-os",
-          "definicion": "Bezeichnung in Villaviciosa für Ländereien, die im Laufe der Jahrhunderte durch Aufschüttung oder Trockenlegung dem Ästuar abgewonnen wurden. Es handelt sich um künstlich entstandenes Gelände, das dem Meer entrissen wurde und Teil der Landschaft und Geschichte des Ästuars ist."
-        },
-        "porQue": "Die porreos gehören zur alltäglichen Landschaft von Villaviciosa, und ob sie anerkannt oder vernachlässigt werden, hat direkte Auswirkungen darauf, wie das Ästuar künftig verwaltet und geschützt wird.",
         "lugar": "",
         "precio": ""
       }
