@@ -1,15 +1,15 @@
 {
-  "fecha": "2026-11-06T07:03:00.945Z",
+  "fecha": "2026-11-06T15:00:06.206Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Un incendio arrasa una casa de dos plantas en Argüero sin víctimas.",
-      "enlace": "/villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/"
+      "concejo": "Nava",
+      "frase": "El Principado arregla más de 15 km de pistas forestales en Nava y Villaviciosa.",
+      "enlace": "/nava/115-badenes-ondulantes-y-4-606-metros-de-cunetas-el-principado-mejora-/"
     },
     {
-      "concejo": "Villaviciosa",
-      "frase": "Otro fuego destruye por completo una vivienda en Villaviciosa, tampoco hay heridos.",
-      "enlace": "/villaviciosa/un-incendio-calcina-por-completo-una-casa-en-villaviciosa/"
+      "concejo": "Cabrales",
+      "frase": "Cabrales se suma a una alianza para promocionar los quesos asturianos durante dos años.",
+      "enlace": "/cabrales/los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union/"
     }
   ]
 }

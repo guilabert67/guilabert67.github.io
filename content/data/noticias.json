@@ -1,5 +1,372 @@
 [
   {
+    "id": "los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union",
+    "url": "/cabrales/los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Cabrales se alía para promocionar los quesos asturianos",
+    "entradilla": "El Consejo Regulador de la DOP Cabrales se une a otros consejos para dar más visibilidad a los quesos de Asturias durante los próximos dos años.",
+    "cuerpo": [
+      "El Consejo Regulador de la Denominación de Origen Protegida Cabrales participa en un proyecto conjunto con otros consejos reguladores asturianos para mejorar cómo se comunican y se promocionan sus quesos. La iniciativa arranca en 2026 y se extiende hasta 2027.",
+      "El proyecto cuenta con cofinanciación de la Unión Europea."
+    ],
+    "apunte": "Cuatro consejos, un mismo queso que defender.",
+    "enVeinte": [
+      "El Consejo Regulador de la DOP Cabrales se suma a un proyecto conjunto con otros consejos reguladores asturianos.",
+      "El objetivo es mejorar la comunicación y la promoción de los quesos asturianos entre 2026 y 2027.",
+      "La iniciativa está cofinanciada por la Unión Europea."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "DOP",
+      "como": "de-o-pe, o 'Denominación de Origen Protegida'",
+      "definicion": "Es el sello europeo que garantiza que un producto viene de un lugar concreto y se elabora según unas normas propias. En el caso del queso de Cabrales, asegura que es el de aquí de verdad, no una imitación de fuera."
+    },
+    "porQue": "Una campaña de promoción conjunta puede abrir mercados y poner el queso de Cabrales ante más compradores, lo que a la larga beneficia a los queseros del concejo.",
+    "etiquetas": [
+      "Cabrales",
+      "queso",
+      "DOP",
+      "promoción"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/los-cuatro-ases-del-queso-asturiano-proyecto-cofinanci-35408.jpg",
+    "fecha": "2026-11-06T12:45:40.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union-europea-11277039.html",
+      "titularOriginal": "Los Cuatro Ases del Queso Asturiano: Proyecto cofinanciado por la Unión Europea"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Cabrales joins forces to promote Asturian cheeses",
+        "entradilla": "The Regulatory Council of the PDO Cabrales is joining other councils to give greater visibility to Asturian cheeses over the next two years.",
+        "cuerpo": [
+          "The Regulatory Council of the Protected Designation of Origin Cabrales is taking part in a joint project with other Asturian regulatory councils to improve how their cheeses are communicated and promoted. The initiative launches in 2026 and runs through to 2027.",
+          "The project is co-funded by the European Union."
+        ],
+        "apunte": "Four councils, one and the same cheese to defend.",
+        "enVeinte": [
+          "The Regulatory Council of the PDO Cabrales is joining a joint project with other Asturian regulatory councils.",
+          "The aim is to improve the communication and promotion of Asturian cheeses between 2026 and 2027.",
+          "The initiative is co-funded by the European Union."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe, or 'Denominación de Origen Protegida'",
+          "definicion": "This is the European seal that guarantees a product comes from a specific place and is made according to its own set of rules. In the case of Cabrales cheese, it ensures it is the real thing from here — not an imitation from elsewhere."
+        },
+        "porQue": "A joint promotion campaign can open up markets and put Cabrales cheese in front of more buyers, which in the long run benefits the cheesemakers of the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Cabrales s'allie pour promouvoir les fromages asturiens",
+        "entradilla": "Le Conseil Régulateur de l'AOP Cabrales s'unit à d'autres conseils pour donner plus de visibilité aux fromages des Asturies au cours des deux prochaines années.",
+        "cuerpo": [
+          "Le Conseil Régulateur de l'Appellation d'Origine Protégée Cabrales participe à un projet commun avec d'autres conseils régulateurs asturiens afin d'améliorer la communication et la promotion de leurs fromages. L'initiative démarre en 2026 et s'étend jusqu'en 2027.",
+          "Le projet bénéficie d'un cofinancement de l'Union européenne."
+        ],
+        "apunte": "Quatre conseils, un seul fromage à défendre.",
+        "enVeinte": [
+          "Le Conseil Régulateur de l'AOP Cabrales rejoint un projet commun avec d'autres conseils régulateurs asturiens.",
+          "L'objectif est d'améliorer la communication et la promotion des fromages asturiens entre 2026 et 2027.",
+          "L'initiative est cofinancée par l'Union européenne."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe, ou «Denominación de Origen Protegida»",
+          "definicion": "Il s'agit du label européen qui garantit qu'un produit provient d'un lieu précis et est élaboré selon des règles qui lui sont propres. Dans le cas du fromage de Cabrales, il assure que c'est le vrai, celui d'ici — pas une imitation venue d'ailleurs."
+        },
+        "porQue": "Une campagne de promotion commune peut ouvrir des marchés et placer le fromage de Cabrales devant davantage d'acheteurs, ce qui, à terme, profite aux fromagers de la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Cabrales tut sich zusammen, um asturische Käse zu fördern",
+        "entradilla": "Der Regulierungsrat der g.U. Cabrales schließt sich anderen Räten an, um asturischen Käsen in den nächsten zwei Jahren mehr Sichtbarkeit zu verschaffen.",
+        "cuerpo": [
+          "Der Regulierungsrat der geschützten Ursprungsbezeichnung Cabrales beteiligt sich an einem gemeinsamen Projekt mit anderen asturischen Regulierungsräten, um die Kommunikation und die Vermarktung ihrer Käse zu verbessern. Die Initiative startet 2026 und läuft bis 2027.",
+          "Das Projekt wird von der Europäischen Union mitfinanziert."
+        ],
+        "apunte": "Vier Räte, ein einziger Käse, den es zu verteidigen gilt.",
+        "enVeinte": [
+          "Der Regulierungsrat der g.U. Cabrales schließt sich einem gemeinsamen Projekt mit anderen asturischen Regulierungsräten an.",
+          "Ziel ist es, die Kommunikation und die Förderung asturischer Käse zwischen 2026 und 2027 zu verbessern.",
+          "Die Initiative wird von der Europäischen Union mitfinanziert."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe, oder «Denominación de Origen Protegida»",
+          "definicion": "Dies ist das europäische Siegel, das garantiert, dass ein Produkt aus einem bestimmten Ort stammt und nach eigenen Regeln hergestellt wird. Im Fall des Käses aus Cabrales stellt es sicher, dass es sich um das echte, hiesige Produkt handelt — und nicht um eine Imitation von anderswo."
+        },
+        "porQue": "Eine gemeinsame Werbekampagne kann Märkte erschließen und den Käse aus Cabrales mehr Käufern zugänglich machen, was den Käsemachern der Gemeinde langfristig zugutekommt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "115-badenes-ondulantes-y-4-606-metros-de-cunetas-el-principado-mejora-",
+    "url": "/nava/115-badenes-ondulantes-y-4-606-metros-de-cunetas-el-principado-mejora-/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "El Principado arregla pistas forestales en Nava y Villaviciosa",
+    "entradilla": "Las obras, adjudicadas por 176.030 euros, incluyen más de un centenar de badenes y casi cinco kilómetros de cunetas en el cordal de Peón.",
+    "cuerpo": [
+      "El Gobierno asturiano ha adjudicado las obras de mejora de pistas forestales en los concejos de Nava y Villaviciosa. El contrato asciende a 176.030 euros y los trabajos se centran en el cordal de Peón, en territorio maliayo.",
+      "La intervención contempla 115 badenes ondulantes y más de 4.600 metros de cunetas. Además de mejorar el acceso a la zona, estas infraestructuras ayudarán a prevenir y combatir incendios forestales."
+    ],
+    "apunte": "Cuatro mil seiscientos metros de cuneta para que el monte respire un poco mejor.",
+    "enVeinte": [
+      "El Principado adjudica por 176.030 euros la mejora de pistas forestales en Nava y Villaviciosa.",
+      "Las obras incluyen 115 badenes ondulantes y más de 4.600 metros de cunetas en el cordal de Peón.",
+      "Además de mejorar la accesibilidad, la intervención busca reforzar la prevención y extinción de incendios en la zona."
+    ],
+    "cifra": {
+      "numero": "4.606",
+      "unidad": "metros de cunetas",
+      "glosa": "Casi cinco kilómetros de cunetas que se abrirán o repararán a lo largo de las pistas forestales del cordal de Peón. Las cunetas canalizan el agua de lluvia y evitan que la calzada se deteriore o quede cortada tras temporales."
+    },
+    "palabra": {
+      "termino": "cordal",
+      "como": "cor-dal, igual que suena",
+      "definicion": "En Asturias, cordal es una loma o línea de cumbres que separa valles o concejos. El cordal de Peón discurre entre el concejo de Villaviciosa y los terrenos interiores, y es zona de monte y pistas forestales."
+    },
+    "porQue": "Unas pistas en mejor estado facilitan que los medios de extinción lleguen al monte a tiempo cuando hay fuego, algo que a los vecinos de Nava y Villaviciosa les toca de cerca cada verano.",
+    "etiquetas": [
+      "pistas forestales",
+      "Nava",
+      "Villaviciosa",
+      "incendios"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/06/cordal-peon-RUAJoiwSVcXTfkqpxjPd4NO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-06T10:32:29.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/badenes-ondulantes-metros-cunetas-peon-20261106105451-nt.html",
+      "titularOriginal": "115 badenes ondulantes y 4.606 metros de cunetas: el Principado mejora el cordal de Peón, en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Principality repairs forest tracks in Nava and Villaviciosa",
+        "entradilla": "The works, awarded for 176,030 euros, include more than a hundred speed humps and almost five kilometres of drainage ditches on the Peón ridge.",
+        "cuerpo": [
+          "The Asturian Government has awarded the contract for improving forest tracks in the municipalities of Nava and Villaviciosa. The contract amounts to 176,030 euros and the works focus on the cordal de Peón, in Maliayo territory.",
+          "The intervention includes 115 undulating speed humps and more than 4,600 metres of drainage ditches. As well as improving access to the area, these infrastructures will help prevent and combat forest fires."
+        ],
+        "apunte": "Four thousand six hundred metres of drainage ditch so the hillside can breathe a little easier.",
+        "enVeinte": [
+          "The Principality awards a 176,030-euro contract for improving forest tracks in Nava and Villaviciosa.",
+          "The works include 115 undulating speed humps and more than 4,600 metres of drainage ditches on the Peón ridge.",
+          "As well as improving accessibility, the intervention aims to strengthen fire prevention and suppression in the area."
+        ],
+        "cifra": {
+          "numero": "4,606",
+          "unidad": "metres of drainage ditches",
+          "glosa": "Almost five kilometres of drainage ditches to be opened or repaired along the forest tracks of the cordal de Peón. The ditches channel rainwater and prevent the road surface from deteriorating or becoming impassable after storms."
+        },
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal, pronounced as it looks",
+          "definicion": "In Asturias, a cordal is a ridge or line of hilltops that separates valleys or municipalities. The cordal de Peón runs between the municipality of Villaviciosa and the inland areas, and is a zone of open hillside and forest tracks."
+        },
+        "porQue": "Tracks in better condition make it easier for firefighting resources to reach the hillside in time when fire breaks out — something that hits close to home for residents of Nava and Villaviciosa every summer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Principauté répare des pistes forestières à Nava et Villaviciosa",
+        "entradilla": "Les travaux, adjugés pour 176 030 euros, comprennent plus d'une centaine de ralentisseurs et près de cinq kilomètres de fossés de drainage sur le cordal de Peón.",
+        "cuerpo": [
+          "Le Gouvernement asturien a adjugé les travaux d'amélioration des pistes forestières dans les communes de Nava et Villaviciosa. Le contrat s'élève à 176 030 euros et les travaux se concentrent sur le cordal de Peón, en territoire maliayo.",
+          "L'intervention prévoit 115 ralentisseurs ondulants et plus de 4 600 mètres de fossés de drainage. En plus d'améliorer l'accès à la zone, ces infrastructures aideront à prévenir et à combattre les incendies de forêt."
+        ],
+        "apunte": "Quatre mille six cents mètres de fossés pour que la montagne respire un peu mieux.",
+        "enVeinte": [
+          "La Principauté adjuge pour 176 030 euros l'amélioration de pistes forestières à Nava et Villaviciosa.",
+          "Les travaux comprennent 115 ralentisseurs ondulants et plus de 4 600 mètres de fossés de drainage sur le cordal de Peón.",
+          "En plus d'améliorer l'accessibilité, l'intervention vise à renforcer la prévention et la lutte contre les incendies dans la zone."
+        ],
+        "cifra": {
+          "numero": "4 606",
+          "unidad": "mètres de fossés de drainage",
+          "glosa": "Près de cinq kilomètres de fossés qui seront ouverts ou réparés le long des pistes forestières du cordal de Peón. Ces fossés canalisent l'eau de pluie et empêchent la chaussée de se dégrader ou d'être coupée après les tempêtes."
+        },
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal, comme il s'écrit",
+          "definicion": "En Asturies, un cordal est une crête ou une ligne de sommets qui sépare des vallées ou des communes. Le cordal de Peón s'étend entre la commune de Villaviciosa et les terres intérieures ; c'est une zone de montagne et de pistes forestières."
+        },
+        "porQue": "Des pistes en meilleur état permettent aux moyens de lutte contre les incendies d'atteindre la montagne à temps quand le feu se déclare — quelque chose que les habitants de Nava et Villaviciosa ressentent de près chaque été.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Fürstentum saniert Forstwege in Nava und Villaviciosa",
+        "entradilla": "Die Arbeiten, die für 176.030 Euro vergeben wurden, umfassen mehr als hundert Bodenwellen und fast fünf Kilometer Entwässerungsgräben am Cordal de Peón.",
+        "cuerpo": [
+          "Die asturische Regierung hat den Auftrag zur Verbesserung der Forstwege in den Gemeinden Nava und Villaviciosa vergeben. Der Vertrag beläuft sich auf 176.030 Euro; die Arbeiten konzentrieren sich auf den Cordal de Peón im Gebiet von Maliayo.",
+          "Die Maßnahme sieht 115 wellenförmige Bodenwellen und mehr als 4.600 Meter Entwässerungsgräben vor. Neben der Verbesserung der Zufahrt zu diesem Gebiet sollen diese Infrastrukturen dazu beitragen, Waldbrände zu verhüten und zu bekämpfen."
+        ],
+        "apunte": "Viertausend sechshundert Meter Graben, damit der Berg ein wenig besser atmen kann.",
+        "enVeinte": [
+          "Das Fürstentum vergibt für 176.030 Euro die Verbesserung von Forstwegen in Nava und Villaviciosa.",
+          "Die Arbeiten umfassen 115 wellenförmige Bodenwellen und mehr als 4.600 Meter Entwässerungsgräben am Cordal de Peón.",
+          "Neben der Verbesserung der Zugänglichkeit zielt die Maßnahme darauf ab, die Brandvorbeugung und -bekämpfung in der Region zu stärken."
+        ],
+        "cifra": {
+          "numero": "4.606",
+          "unidad": "Meter Entwässerungsgräben",
+          "glosa": "Fast fünf Kilometer Gräben, die entlang der Forstwege des Cordal de Peón angelegt oder ausgebessert werden. Die Gräben leiten Regenwasser ab und verhindern, dass die Fahrbahn nach Unwettern beschädigt wird oder unpassierbar ist."
+        },
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal, wie es geschrieben wird",
+          "definicion": "In Asturien bezeichnet cordal einen Höhenrücken oder eine Kammlinie, die Täler oder Gemeinden voneinander trennt. Der Cordal de Peón verläuft zwischen der Gemeinde Villaviciosa und dem Binnenland und ist ein Gebiet aus Bergland und Forstwegen."
+        },
+        "porQue": "Besser ausgebaute Wege ermöglichen es den Löschkräften, bei einem Brand rechtzeitig ins Bergland zu gelangen — etwas, das die Bewohner von Nava und Villaviciosa jeden Sommer hautnah betrifft.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-gobierno-de-asturias-invierte-176-000-euros-en-la-mejora-de-pistas-",
+    "url": "/nava/el-gobierno-de-asturias-invierte-176-000-euros-en-la-mejora-de-pistas-/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "176.000 euros para pistas forestales en Nava y Villaviciosa",
+    "entradilla": "El Gobierno regional acondiciona más de 15 kilómetros de caminos en ocho meses.",
+    "cuerpo": [
+      "La Administración autonómica destina 176.000 euros a mejorar pistas forestales repartidas entre los concejos de Nava y Villaviciosa. Los trabajos incluyen mejoras en el drenaje y en la seguridad de los accesos.",
+      "El plazo de ejecución es de ocho meses desde el inicio de las obras."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "El Gobierno de Asturias invierte 176.000 euros en pistas forestales de Nava y Villaviciosa.",
+      "Las obras mejorarán el drenaje y la seguridad en más de 15 kilómetros de caminos.",
+      "El plazo de ejecución previsto es de ocho meses."
+    ],
+    "cifra": {
+      "numero": "15",
+      "unidad": "kilómetros de pistas",
+      "glosa": "Es la longitud mínima de caminos forestales que se van a acondicionar entre los dos concejos. Para hacerse una idea, equivale aproximadamente a ir de Nava a Villaviciosa por carretera comarcal."
+    },
+    "palabra": null,
+    "porQue": "Unas pistas forestales bien drenadas facilitan el acceso a fincas y montes, reducen los baches y mejoran la seguridad para quien trabaja o se mueve por el rural en Nava y Villaviciosa.",
+    "etiquetas": [
+      "pistas forestales",
+      "Nava",
+      "Villaviciosa",
+      "obras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-gobierno-de-asturias-invierte-176-000-euros-en-la-m-34733.jpg",
+    "fecha": "2026-11-06T10:07:07.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-asturias/el-gobierno-de-asturias-invierte-176-000-euros-en-la-mejora-de-pistas-forestales-en-nava-y-villaviciosa-11277029.html",
+      "titularOriginal": "El Gobierno de Asturias invierte 176.000 euros en la mejora de pistas forestales en Nava y Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "176,000 euros for forest tracks in Nava and Villaviciosa",
+        "entradilla": "The regional government is upgrading more than 15 kilometres of paths in eight months.",
+        "cuerpo": [
+          "The regional administration is allocating 176,000 euros to improve forest tracks across the municipalities of Nava and Villaviciosa. The works include improvements to drainage and access safety.",
+          "The execution period is eight months from the start of the works."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "The Government of Asturias is investing 176,000 euros in forest tracks in Nava and Villaviciosa.",
+          "The works will improve drainage and safety along more than 15 kilometres of paths.",
+          "The planned execution period is eight months."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "kilometres of tracks",
+          "glosa": "This is the minimum length of forest paths to be upgraded across the two municipalities. To put it in perspective, it is roughly the distance from Nava to Villaviciosa by local road."
+        },
+        "palabra": null,
+        "porQue": "Well-drained forest tracks make it easier to reach farmland and woodland, reduce potholes and improve safety for everyone who works or travels in the rural areas of Nava and Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "176 000 euros pour des pistes forestières à Nava et Villaviciosa",
+        "entradilla": "Le gouvernement régional aménage plus de 15 kilomètres de chemins en huit mois.",
+        "cuerpo": [
+          "L'administration régionale consacre 176 000 euros à l'amélioration de pistes forestières réparties entre les communes de Nava et Villaviciosa. Les travaux comprennent des améliorations du drainage et de la sécurité des accès.",
+          "Le délai d'exécution est de huit mois à compter du début des travaux."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Le gouvernement des Asturies investit 176 000 euros dans des pistes forestières à Nava et Villaviciosa.",
+          "Les travaux amélioreront le drainage et la sécurité sur plus de 15 kilomètres de chemins.",
+          "Le délai d'exécution prévu est de huit mois."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "kilomètres de pistes",
+          "glosa": "C'est la longueur minimale de chemins forestiers qui seront aménagés entre les deux communes. Pour se faire une idée, cela correspond approximativement à la distance entre Nava et Villaviciosa par la route locale."
+        },
+        "palabra": null,
+        "porQue": "Des pistes forestières bien drainées facilitent l'accès aux terres et aux bois, réduisent les nids-de-poule et améliorent la sécurité pour ceux qui travaillent ou se déplacent dans les zones rurales de Nava et Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "176.000 Euro für Forstwege in Nava und Villaviciosa",
+        "entradilla": "Die Regionalregierung saniert in acht Monaten mehr als 15 Kilometer Wege.",
+        "cuerpo": [
+          "Die Regionalverwaltung stellt 176.000 Euro bereit, um Forstwege in den Gemeinden Nava und Villaviciosa zu verbessern. Die Arbeiten umfassen Verbesserungen bei der Entwässerung und der Zugangssicherheit.",
+          "Die Ausführungsfrist beträgt acht Monate ab Baubeginn."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Die Regierung Asturiens investiert 176.000 Euro in Forstwege in Nava und Villaviciosa.",
+          "Die Arbeiten verbessern Entwässerung und Sicherheit auf mehr als 15 Kilometern Wegen.",
+          "Die geplante Ausführungsfrist beträgt acht Monate."
+        ],
+        "cifra": {
+          "numero": "15",
+          "unidad": "Kilometer Forstwege",
+          "glosa": "Das ist die Mindestlänge der Forstwege, die in beiden Gemeinden ausgebaut werden. Zum Vergleich: Das entspricht ungefähr der Strecke von Nava nach Villaviciosa auf der Landstraße."
+        },
+        "palabra": null,
+        "porQue": "Gut entwässerte Forstwege erleichtern den Zugang zu Feldern und Wäldern, reduzieren Schlaglöcher und erhöhen die Sicherheit für alle, die in den ländlichen Gebieten von Nava und Villaviciosa arbeiten oder unterwegs sind.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic",
     "url": "/villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/",
     "concejo": "Villaviciosa",
@@ -42687,139 +43054,6 @@
         "palabra": null,
         "porQue": "Der Cubera ist ein Wahrzeichen der Landschaft der Gemeinde, und diese Wanderung gibt allen einen gemeinsamen Anlass, ihn bei einem seltenen astronomischen Ereignis zu besteigen.",
         "lugar": "Monte Cubera, Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "walter-bouzan-y-bertin-llera-vuelven-a-conquistar-el-sella-tras-un-esp",
-    "url": "/pilona/walter-bouzan-y-bertin-llera-vuelven-a-conquistar-el-sella-tras-un-esp/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Bouzán y Llera repiten victoria en el Sella",
-    "entradilla": "La pareja riosellana cruza la meta en 1:08:26 y defiende el título con un sprint que deja sin palabras a Ribadesella.",
-    "cuerpo": [
-      "Walter Bouzán y Bertín Llera vuelven a ganar el descenso del Sella. La pareja de Ribadesella revalidó el título con un tiempo de 1 hora, 8 minutos y 26 segundos, al cabo de un sprint final que decidió la prueba.",
-      "En la categoría K-1, Alberto Plaza Sagredo se impuso en la línea de llegada."
-    ],
-    "apunte": "Un título, dos veces. La pareja que ya ganó el año pasado demuestra que no fue casualidad.",
-    "enVeinte": [
-      "Walter Bouzán y Bertín Llera ganan de nuevo el descenso del Sella, revalidando el título del año anterior.",
-      "Lo hacen con un tiempo de 1:08:26 y un sprint espectacular en la llegada a Ribadesella.",
-      "En K-1, la victoria es para Alberto Plaza Sagredo."
-    ],
-    "cifra": {
-      "numero": "1:08:26",
-      "unidad": "horas, minutos y segundos",
-      "glosa": "Es el tiempo que tardaron Bouzán y Llera en cubrir el recorrido del Sella de punta a punta. En el descenso, cada segundo en el sprint final puede separar a los primeros de los que quedan fuera del podio."
-    },
-    "palabra": {
-      "termino": "K-1",
-      "como": "ka-uno",
-      "definicion": "Modalidad de piragüismo en la que la embarcación lleva un solo palista. Se distingue del K-2, que va con dos. En el Sella compiten ambas categorías por separado."
-    },
-    "porQue": "El Descenso del Sella es la regata de aguas bravas más popular de Asturias y una de las señas del verano en la región; el resultado de cada edición es conversación obligada en los concejos del oriente.",
-    "etiquetas": [
-      "Descenso del Sella",
-      "piragüismo",
-      "Ribadesella",
-      "Asturias"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "Ribadesella",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/08/2026080817202059430.jpg",
-    "fecha": "2026-08-08T11:12:20.000Z",
-    "fuente": {
-      "nombre": "El Fielato · Deportes",
-      "url": "https://www.elfielato.es/articulo/deportes/walter-bouzan-bertin-llera-campeones-sella-2026/20260808131220100975.html",
-      "titularOriginal": "Walter Bouzán y Bertín Llera vuelven a conquistar el Sella tras un espectacular sprint en Ribadesella"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Bouzán y Llera repeat victory on the Sella",
-        "entradilla": "The Ribadesella pair crosses the finish line in 1:08:26 and defends the title with a sprint that leaves Ribadesella speechless.",
-        "cuerpo": [
-          "Walter Bouzán and Bertín Llera win the Sella descent again. The Ribadesella pair retained the title with a time of 1 hour, 8 minutes and 26 seconds, after a final sprint that decided the race.",
-          "In the K-1 category, Alberto Plaza Sagredo took victory at the finish line."
-        ],
-        "apunte": "One title, twice. The pair who already won last year prove it was no fluke.",
-        "enVeinte": [
-          "Walter Bouzán and Bertín Llera win the Sella descent again, defending their title from the previous year.",
-          "They do it with a time of 1:08:26 and a spectacular sprint into Ribadesella.",
-          "In K-1, victory goes to Alberto Plaza Sagredo."
-        ],
-        "cifra": {
-          "numero": "1:08:26",
-          "unidad": "hours, minutes and seconds",
-          "glosa": "This is the time it took Bouzán and Llera to cover the Sella course from end to end. In the descent, every second in the final sprint can separate the top finishers from those who miss the podium."
-        },
-        "palabra": {
-          "termino": "K-1",
-          "como": "ka-uno",
-          "definicion": "A canoeing discipline in which the boat is paddled by a single paddler. It is distinct from the K-2, which carries two. Both categories compete separately on the Sella."
-        },
-        "porQue": "The Descenso del Sella is the most popular whitewater race in Asturias and one of the landmarks of summer in the region; the result of each edition is essential conversation across the municipalities of the east.",
-        "lugar": "Ribadesella",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Bouzán y Llera répètent leur victoire sur le Sella",
-        "entradilla": "La paire de Ribadesella franchit la ligne d'arrivée en 1:08:26 et défend son titre avec un sprint qui laisse Ribadesella sans voix.",
-        "cuerpo": [
-          "Walter Bouzán et Bertín Llera remportent à nouveau la descente du Sella. La paire de Ribadesella a conservé son titre avec un temps d'1 heure, 8 minutes et 26 secondes, au terme d'un sprint final qui a décidé de l'épreuve.",
-          "Dans la catégorie K-1, Alberto Plaza Sagredo s'est imposé sur la ligne d'arrivée."
-        ],
-        "apunte": "Un titre, deux fois. La paire qui avait déjà gagné l'année dernière prouve que ce n'était pas un hasard.",
-        "enVeinte": [
-          "Walter Bouzán et Bertín Llera remportent de nouveau la descente du Sella, défendant leur titre de l'année précédente.",
-          "Ils le font avec un temps de 1:08:26 et un sprint spectaculaire à l'arrivée à Ribadesella.",
-          "En K-1, la victoire revient à Alberto Plaza Sagredo."
-        ],
-        "cifra": {
-          "numero": "1:08:26",
-          "unidad": "heures, minutes et secondes",
-          "glosa": "C'est le temps qu'il a fallu à Bouzán et Llera pour parcourir le Sella d'un bout à l'autre. Dans la descente, chaque seconde lors du sprint final peut séparer les premiers de ceux qui manquent le podium."
-        },
-        "palabra": {
-          "termino": "K-1",
-          "como": "ka-uno",
-          "definicion": "Discipline de canoë-kayak dans laquelle l'embarcation est menée par un seul pagayeur. Elle se distingue du K-2, qui en compte deux. Les deux catégories s'affrontent séparément sur le Sella."
-        },
-        "porQue": "Le Descenso del Sella est la course en eaux vives la plus populaire des Asturies et l'un des rendez-vous incontournables de l'été dans la région ; le résultat de chaque édition est un sujet de conversation obligé dans les communes de l'est.",
-        "lugar": "Ribadesella",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Bouzán y Llera wiederholen ihren Sieg auf dem Sella",
-        "entradilla": "Das Paar aus Ribadesella überquert die Ziellinie in 1:08:26 und verteidigt den Titel mit einem Sprint, der Ribadesella sprachlos zurücklässt.",
-        "cuerpo": [
-          "Walter Bouzán und Bertín Llera gewinnen die Sella-Abfahrt erneut. Das Paar aus Ribadesella verteidigte den Titel mit einer Zeit von 1 Stunde, 8 Minuten und 26 Sekunden, nach einem abschließenden Sprint, der das Rennen entschied.",
-          "In der Kategorie K-1 setzte sich Alberto Plaza Sagredo an der Ziellinie durch."
-        ],
-        "apunte": "Ein Titel, zwei Mal. Das Paar, das schon im vergangenen Jahr gewann, beweist, dass es kein Zufall war.",
-        "enVeinte": [
-          "Walter Bouzán und Bertín Llera gewinnen die Sella-Abfahrt erneut und verteidigen damit ihren Titel aus dem Vorjahr.",
-          "Sie tun es mit einer Zeit von 1:08:26 und einem spektakulären Sprint ins Ziel in Ribadesella.",
-          "Im K-1 geht der Sieg an Alberto Plaza Sagredo."
-        ],
-        "cifra": {
-          "numero": "1:08:26",
-          "unidad": "Stunden, Minuten und Sekunden",
-          "glosa": "Das ist die Zeit, die Bouzán und Llera benötigten, um den Sella von Anfang bis Ende zu befahren. Bei der Abfahrt kann jede Sekunde im abschließenden Sprint darüber entscheiden, wer auf dem Podium steht und wer nicht."
-        },
-        "palabra": {
-          "termino": "K-1",
-          "como": "ka-uno",
-          "definicion": "Eine Kanusportdisziplin, bei der das Boot von einem einzigen Paddler gesteuert wird. Sie unterscheidet sich vom K-2, der mit zwei Paddlern besetzt ist. Beim Sella treten beide Kategorien getrennt voneinander an."
-        },
-        "porQue": "Der Descenso del Sella ist das beliebteste Wildwasserrennen Asturiens und eines der Wahrzeichen des Sommers in der Region; das Ergebnis jeder Ausgabe ist in den Gemeinden des Ostens ein unvermeidliches Gesprächsthema.",
-        "lugar": "Ribadesella",
         "precio": ""
       }
     }

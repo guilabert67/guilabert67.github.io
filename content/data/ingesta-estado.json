@@ -601,6 +601,21 @@
       "motivo": "duplicado de /villaviciosa/la-espicha-solidaria-frente-al-cancer-vuelve-este-sabado-a-llagar-cort/",
       "fecha": "2026-11-05T19:08:50.476Z",
       "titulo": "Sandra Ibarra: «El gran efecto secundario del cáncer es la incertidumbre»"
+    },
+    "elbuscolu.com/sucesos/un-incendio-consume-una-vivienda-de-dos-alturas-en-arguero-villaviciosa-11277028.html": {
+      "motivo": "duplicado de /villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/",
+      "fecha": "2026-11-06T14:58:21.269Z",
+      "titulo": "Un incendio consume una vivienda de dos alturas en Argüero, Villaviciosa"
+    },
+    "villaviciosa.es/detalle-rss?articleid=20213092": {
+      "motivo": "mismo hecho que /villaviciosa/villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan/",
+      "fecha": "2026-11-06T14:58:22.303Z",
+      "titulo": "Plan de Empleo y Programa de Contratos de Trabajo en Prácticas 2026/2027"
+    },
+    "elfielato.es/articulo/villaviciosa/arde-vivienda-argueru-villaviciosa/20261106093613105252.html": {
+      "motivo": "duplicado de /villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/",
+      "fecha": "2026-11-06T15:00:04.673Z",
+      "titulo": "Arde una vivienda en Argüeru-Villaviciosa"
     }
   },
   "juicios": {
@@ -723,6 +738,10 @@
     "elbuscolu.com/picos-de-europa/la-ruta-del-cares-reabre-por-completo-tras-reparar-una-pasarela-danada-11276956.html|la-ruta-del-cares-abierta-en-su-totalidad-tras-la-reparacion-de-una-pa": {
       "r": "mismo",
       "fecha": "2026-11-02T20:18:35.506Z"
+    },
+    "villaviciosa.es/detalle-rss?articleid=20213092|villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan": {
+      "r": "mismo",
+      "fecha": "2026-11-06T14:58:22.303Z"
     }
   }
 }
