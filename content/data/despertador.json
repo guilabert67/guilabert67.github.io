@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-11-06T15:00:06.206Z",
+  "fecha": "2026-11-06T20:52:18.769Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "El Principado arregla más de 15 km de pistas forestales en Nava y Villaviciosa.",
-      "enlace": "/nava/115-badenes-ondulantes-y-4-606-metros-de-cunetas-el-principado-mejora-/"
+      "concejo": "Villaviciosa",
+      "frase": "Más de 170 familias de Villaviciosa buscan vivienda; el plazo cierra el lunes.",
+      "enlace": "/villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "Cabrales se suma a una alianza para promocionar los quesos asturianos durante dos años.",
-      "enlace": "/cabrales/los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union/"
+      "concejo": "Villaviciosa",
+      "frase": "El primer Plan Municipal de Vivienda de Villaviciosa desborda todas las previsiones.",
+      "enlace": "/villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Quien aún no se ha apuntado tiene hasta el lunes 9 de junio para hacerlo.",
+      "enlace": "/villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/"
     }
   ]
 }
