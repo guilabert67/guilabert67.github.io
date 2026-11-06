@@ -1,5 +1,206 @@
 [
   {
+    "id": "un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic",
+    "url": "/villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Un incendio arrasa una casa en Argüero",
+    "entradilla": "El fuego dejó la vivienda de dos plantas sin nada y sin víctimas que lamentar.",
+    "cuerpo": [
+      "Las llamas destruyeron por completo una casa de dos alturas en Argüero, en el concejo de Villaviciosa. No hubo que lamentar daños personales.",
+      "Los bomberos trabajaron después del incendio en las tareas de enfriamiento y desescombro del inmueble."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Un incendio destruyó por completo una vivienda de dos plantas en Argüero, Villaviciosa.",
+      "No hubo víctimas ni heridos.",
+      "Los bomberos permanecieron en el lugar para enfriar la estructura y retirar escombros."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un incendio que calcina una casa entera recuerda la importancia de los servicios de emergencia y la rapidez con la que el fuego puede actuar en viviendas de la zona rural del concejo.",
+    "etiquetas": [
+      "incendio",
+      "Argüero",
+      "Villaviciosa",
+      "bomberos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Argüero, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/un-incendio-calcina-una-vivienda-de-dos-plantas-en-24e0b4c9.jpg",
+    "fecha": "2026-11-05T22:05:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/sucesos/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villaviciosa-11277020.html",
+      "titularOriginal": "Un incendio calcina una vivienda de dos plantas en Argüero, en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A fire destroys a house in Argüero",
+        "entradilla": "The blaze left the two-storey home with nothing standing and no casualties to report.",
+        "cuerpo": [
+          "Flames completely destroyed a two-storey house in Argüero, in the municipality of Villaviciosa. There were no personal injuries to report.",
+          "Firefighters worked after the fire on cooling and clearing the rubble from the building."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "A fire completely destroyed a two-storey home in Argüero, Villaviciosa.",
+          "There were no casualties or injuries.",
+          "Firefighters remained on site to cool the structure and remove debris."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A fire that burns an entire house down is a reminder of how important emergency services are and how quickly fire can take hold in rural homes across the municipality.",
+        "lugar": "Argüero, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un incendie ravage une maison à Argüero",
+        "entradilla": "Le feu a entièrement détruit la maison de deux étages, sans faire de victimes.",
+        "cuerpo": [
+          "Les flammes ont complètement détruit une maison de deux étages à Argüero, dans la commune de Villaviciosa. On ne déplore aucun dommage corporel.",
+          "Les pompiers sont intervenus après l'incendie pour refroidir les décombres et procéder au déblaiement du bâtiment."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Un incendie a entièrement détruit une maison de deux étages à Argüero, Villaviciosa.",
+          "On ne déplore ni victime ni blessé.",
+          "Les pompiers sont restés sur place pour refroidir la structure et évacuer les décombres."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un incendie qui calcine une maison entière rappelle l'importance des services d'urgence et la rapidité avec laquelle le feu peut se propager dans les habitations rurales de la commune.",
+        "lugar": "Argüero, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Brand vernichtet ein Haus in Argüero",
+        "entradilla": "Das Feuer hinterließ das zweistöckige Wohnhaus als totalen Verlust — Verletzte gab es keine.",
+        "cuerpo": [
+          "Flammen zerstörten ein zweistöckiges Haus in Argüero, in der Gemeinde Villaviciosa, vollständig. Personenschäden waren nicht zu beklagen.",
+          "Die Feuerwehr war nach dem Brand mit dem Abkühlen und dem Beräumen des Gebäudes beschäftigt."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Ein Brand hat ein zweistöckiges Wohnhaus in Argüero, Villaviciosa, vollständig zerstört.",
+          "Es gab weder Todesopfer noch Verletzte.",
+          "Die Feuerwehr blieb vor Ort, um die Struktur abzukühlen und Trümmer zu beseitigen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein Brand, der ein ganzes Haus einäschert, erinnert daran, wie wichtig die Einsatzkräfte sind und wie schnell Feuer in ländlichen Wohnhäusern der Gemeinde um sich greifen kann.",
+        "lugar": "Argüero, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "un-incendio-calcina-por-completo-una-casa-en-villaviciosa",
+    "url": "/villaviciosa/un-incendio-calcina-por-completo-una-casa-en-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Un incendio destruye una casa en Villaviciosa",
+    "entradilla": "Las llamas arrasaron el inmueble por completo, aunque no hubo que lamentar heridos.",
+    "cuerpo": [
+      "Un incendio redujo a cenizas una vivienda en Villaviciosa el jueves por la tarde. La casa quedó destruida en su totalidad.",
+      "No se registraron daños personales."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Un incendio destruyó por completo una casa en Villaviciosa el jueves.",
+      "No hubo víctimas ni heridos que lamentar.",
+      "El inmueble quedó calcinado en su totalidad."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un fuego de esta magnitud recuerda la importancia de los servicios de emergencia en el concejo y la vulnerabilidad de las viviendas ante este tipo de siniestros.",
+    "etiquetas": [
+      "incendio",
+      "Villaviciosa",
+      "emergencias"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/05/incendio1-kVRC-U4020628169980E-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-05T21:20:09.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/incendio-calcina-completo-casa-villaviciosa-20261105222008-nt.html",
+      "titularOriginal": "Un incendio calcina por completo una casa en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A fire destroys a house in Villaviciosa",
+        "entradilla": "The flames gutted the building completely, though there were no injuries to report.",
+        "cuerpo": [
+          "A fire reduced a home in Villaviciosa to ashes on Thursday afternoon. The house was completely destroyed.",
+          "No personal injuries were recorded."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "A fire completely destroyed a house in Villaviciosa on Thursday.",
+          "There were no casualties or injuries to report.",
+          "The building was burned to the ground."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A fire of this scale is a reminder of the importance of emergency services in the municipality and the vulnerability of homes to this type of incident.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un incendie détruit une maison à Villaviciosa",
+        "entradilla": "Les flammes ont entièrement ravagé le bâtiment, sans faire de blessés.",
+        "cuerpo": [
+          "Un incendie a réduit en cendres une habitation à Villaviciosa jeudi après-midi. La maison a été totalement détruite.",
+          "Aucun dommage corporel n'a été signalé."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Un incendie a entièrement détruit une maison à Villaviciosa jeudi.",
+          "Il n'y a eu ni victimes ni blessés à déplorer.",
+          "Le bâtiment a été calciné dans sa totalité."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un incendie de cette ampleur rappelle l'importance des services d'urgence dans la commune et la vulnérabilité des habitations face à ce type de sinistre.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Brand zerstört ein Haus in Villaviciosa",
+        "entradilla": "Die Flammen vernichteten das Gebäude vollständig, verletzt wurde niemand.",
+        "cuerpo": [
+          "Ein Brand legte am Donnerstagnachmittag ein Wohnhaus in Villaviciosa in Schutt und Asche. Das Haus wurde vollständig zerstört.",
+          "Personenschäden wurden nicht gemeldet."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Ein Brand zerstörte am Donnerstag ein Haus in Villaviciosa vollständig.",
+          "Es gab weder Todesopfer noch Verletzte zu beklagen.",
+          "Das Gebäude brannte vollständig aus."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein Brand dieser Größenordnung erinnert an die Bedeutung der Rettungsdienste in der Gemeinde und die Anfälligkeit von Wohnhäusern gegenüber solchen Ereignissen.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-sidra-de-hielo-dop-estara-a-la-venta-este-verano",
     "url": "/villaviciosa/la-sidra-de-hielo-dop-estara-a-la-venta-este-verano/",
     "concejo": "Villaviciosa",
@@ -42619,123 +42820,6 @@
         },
         "porQue": "Der Descenso del Sella ist das beliebteste Wildwasserrennen Asturiens und eines der Wahrzeichen des Sommers in der Region; das Ergebnis jeder Ausgabe ist in den Gemeinden des Ostens ein unvermeidliches Gesprächsthema.",
         "lugar": "Ribadesella",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "infiesto-estrena-un-aparcamiento-de-5-000-metros-cuadrados",
-    "url": "/pilona/infiesto-estrena-un-aparcamiento-de-5-000-metros-cuadrados/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "actualidad",
-    "titular": "Infiesto estrena aparcamiento junto a La Benéfica",
-    "entradilla": "El nuevo espacio suma 5.000 metros cuadrados de superficie y se entra desde la plaza de La Benéfica.",
-    "cuerpo": [
-      "Infiesto tiene aparcamiento nuevo. El recinto, de 5.000 metros cuadrados, está ya disponible y se accede por la plaza de La Benéfica.",
-      "La apertura amplía la oferta de estacionamiento en la capital del concejo, donde encontrar sitio en la zona centro siempre ha sido un quebradero de cabeza, especialmente en días de mercado o de mucha afluencia."
-    ],
-    "apunte": "Cinco mil metros cuadrados para aparcar: ya era hora.",
-    "enVeinte": [
-      "Infiesto estrena un aparcamiento de 5.000 metros cuadrados al que se accede desde la plaza de La Benéfica.",
-      "El nuevo espacio amplía las plazas de estacionamiento disponibles en la capital del concejo de Piloña.",
-      "El aparcamiento está ya operativo."
-    ],
-    "cifra": {
-      "numero": "5.000",
-      "unidad": "metros cuadrados",
-      "glosa": "Es la superficie total del nuevo aparcamiento. Para hacerse una idea, equivale aproximadamente a siete campos de baloncesto."
-    },
-    "palabra": null,
-    "porQue": "Más sitio para aparcar en Infiesto significa menos vueltas dando al centro y, sobre todo, menos apuros los días de mercado o de fiesta.",
-    "etiquetas": [
-      "Infiesto",
-      "aparcamiento",
-      "movilidad",
-      "Piloña"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "plaza de La Benéfica, Infiesto",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/07/2026080717121273599.jpg",
-    "fecha": "2026-08-08T06:21:22.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/infiesto-estrena-aparcamiento/20260807172122100969.html",
-      "titularOriginal": "Infiesto estrena un aparcamiento de 5.000 metros cuadrados"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Infiesto opens a new car park next to La Benéfica",
-        "entradilla": "The new space covers 5,000 square metres and is entered from the plaza de La Benéfica.",
-        "cuerpo": [
-          "Infiesto has a new car park. The site, covering 5,000 square metres, is already open and accessible from the plaza de La Benéfica.",
-          "The opening expands parking provision in the capital of the municipality, where finding a space in the town centre has always been a headache, especially on market days or when footfall is high."
-        ],
-        "apunte": "Five thousand square metres to park in: it was about time.",
-        "enVeinte": [
-          "Infiesto opens a new car park covering 5,000 square metres, accessible from the plaza de La Benéfica.",
-          "The new space adds to the parking available in the capital of the municipality of Piloña.",
-          "The car park is already operational."
-        ],
-        "cifra": {
-          "numero": "5,000",
-          "unidad": "square metres",
-          "glosa": "This is the total area of the new car park. To get a sense of the scale, it is roughly the equivalent of seven basketball courts."
-        },
-        "palabra": null,
-        "porQue": "More parking in Infiesto means fewer laps around the centre and, above all, less stress on market days or during local festivities.",
-        "lugar": "plaza de La Benéfica, Infiesto",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Infiesto inaugure un nouveau parking à côté de La Benéfica",
-        "entradilla": "Le nouvel espace offre 5 000 mètres carrés de surface et s'ouvre sur la plaza de La Benéfica.",
-        "cuerpo": [
-          "Infiesto dispose d'un nouveau parking. L'espace, de 5 000 mètres carrés, est déjà accessible depuis la plaza de La Benéfica.",
-          "Cette ouverture élargit l'offre de stationnement dans le chef-lieu de la commune, où trouver une place en centre-ville a toujours été un casse-tête, surtout les jours de marché ou lors des grands affluences."
-        ],
-        "apunte": "Cinq mille mètres carrés pour se garer : il était temps.",
-        "enVeinte": [
-          "Infiesto inaugure un parking de 5 000 mètres carrés accessible depuis la plaza de La Benéfica.",
-          "Le nouvel espace augmente le nombre de places de stationnement disponibles dans le chef-lieu de la commune de Piloña.",
-          "Le parking est déjà opérationnel."
-        ],
-        "cifra": {
-          "numero": "5 000",
-          "unidad": "mètres carrés",
-          "glosa": "C'est la superficie totale du nouveau parking. Pour se faire une idée, cela correspond à peu près à sept terrains de basketball."
-        },
-        "palabra": null,
-        "porQue": "Plus de places à Infiesto, c'est moins de tours en voiture dans le centre et, surtout, moins de stress les jours de marché ou de fête.",
-        "lugar": "plaza de La Benéfica, Infiesto",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Infiesto eröffnet neuen Parkplatz neben La Benéfica",
-        "entradilla": "Die neue Anlage umfasst 5.000 Quadratmeter und ist von der Plaza de La Benéfica aus zugänglich.",
-        "cuerpo": [
-          "Infiesto hat einen neuen Parkplatz. Das Gelände mit 5.000 Quadratmetern ist bereits geöffnet und über die Plaza de La Benéfica zu erreichen.",
-          "Die Eröffnung erweitert das Parkraumangebot in der Hauptstadt der Gemeinde, wo es im Stadtzentrum schon immer schwer war, einen Platz zu finden – vor allem an Markttagen oder bei großem Andrang."
-        ],
-        "apunte": "Fünftausend Quadratmeter zum Parken: es war höchste Zeit.",
-        "enVeinte": [
-          "Infiesto eröffnet einen neuen Parkplatz mit 5.000 Quadratmetern, der von der Plaza de La Benéfica aus zugänglich ist.",
-          "Die neue Anlage erhöht die Zahl der verfügbaren Stellplätze in der Hauptstadt der Gemeinde Piloña.",
-          "Der Parkplatz ist bereits in Betrieb."
-        ],
-        "cifra": {
-          "numero": "5.000",
-          "unidad": "Quadratmeter",
-          "glosa": "Das ist die Gesamtfläche des neuen Parkplatzes. Zum Vergleich: Das entspricht etwa sieben Basketballfeldern."
-        },
-        "palabra": null,
-        "porQue": "Mehr Parkraum in Infiesto bedeutet weniger Runden durch das Zentrum und vor allem weniger Stress an Markttagen oder bei lokalen Festen.",
-        "lugar": "Plaza de La Benéfica, Infiesto",
         "precio": ""
       }
     }

@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-11-05T19:08:52.807Z",
+  "fecha": "2026-11-06T07:03:00.945Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "27 kilos de basura sacados de Rodiles, incluida una puerta entera.",
-      "enlace": "/villaviciosa/retirada-de-basuraleza-en-rodiles-doce-kilos-de-residuos-y-una-puerta-/"
+      "frase": "Un incendio arrasa una casa de dos plantas en Argüero sin víctimas.",
+      "enlace": "/villaviciosa/un-incendio-calcina-una-vivienda-de-dos-plantas-en-arguero-en-villavic/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "La sidra de hielo asturiana ya tiene etiqueta; las primeras botellas llegan en 2027.",
-      "enlace": "/villaviciosa/la-dop-sidra-d-asturies-presento-la-etiqueta-que-va-a-identificar-la-s/"
-    },
-    {
-      "concejo": "Cabranes",
-      "frase": "'Lluz de Seronda' busca la mejor foto del otoño en Cabranes, con 500 euros en juego.",
-      "enlace": "/cabranes/cabranes-busca-la-mejor-fotografia-del-otono-con-un-premio-de-500-euro/"
+      "frase": "Otro fuego destruye por completo una vivienda en Villaviciosa, tampoco hay heridos.",
+      "enlace": "/villaviciosa/un-incendio-calcina-por-completo-una-casa-en-villaviciosa/"
     }
   ]
 }
