@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-07T13:33:00.827Z",
+  "fecha": "2026-11-07T18:17:40.368Z",
   "puntos": [
     {
       "concejo": "Cabrales",
-      "frase": "El Cares ha matado a diez personas: el paisaje esconde un historial de accidentes graves.",
+      "frase": "El Cares ha matado a diez personas: espectacular no significa seguro.",
       "enlace": "/cabrales/la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Las Planas 2019 gana medalla en Londres y pone a Villaviciosa en el mapa del vino.",
-      "enlace": "/villaviciosa/las-planas-2019-logra-la-medalla-master-en-la-cata-de-otono-de-the-dri/"
+      "frase": "Villaviciosa cierra el lunes el plazo del Plan de Vivienda, con 170 solicitudes ya encima de la mesa.",
+      "enlace": "/villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/"
     },
     {
-      "concejo": "Piloña",
-      "frase": "Piloña guarda neandertales, manantiales y etnografía: patrimonio para más de un fin de semana.",
-      "enlace": "/pilona/pilona-aguas-minerales-asturcones-y-neandertales/"
+      "concejo": "Nava",
+      "frase": "El jueves en Nava, el mejor sumiller de sidra cata marcas de ocho países a las 19h.",
+      "enlace": "/nava/xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga/"
     }
   ]
 }
