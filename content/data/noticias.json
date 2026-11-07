@@ -1,5 +1,153 @@
 [
   {
+    "id": "xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga",
+    "url": "/nava/xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Nava cata sidras de ocho países el jueves",
+    "entradilla": "Xuaquín Menéndez, el sumiller de sidra con más títulos del sector, guiará la sesión en el Bar La Naveta a las 19 horas.",
+    "cuerpo": [
+      "El Bar La Naveta, en Travesía Dominganes 7, acoge el jueves 12 de noviembre una cata de nueve sidras llegadas de ocho lugares del mundo: Países Bajos, Polonia, Canarias, Euskal Herria, Letonia, Japón, Finlandia y Canadá. El precio es de 12 euros y las plazas se asignan por orden de inscripción.",
+      "Al frente estará Xuaquín Menéndez, que acumula los dos únicos títulos de sumillería de sidra que existen, ha ejercido de jurado en la Primer Sidre l'Añu y en encuentros internacionales en Chile, y participó en la organización del 16.º Salón Internacional de las Sidras de Gala (SISGA), del que también diseñó el sistema de puntuación del jurado en las dos últimas ediciones.",
+      "La selección va desde una sidra letona sin alcohol hasta elaboraciones secas, semisecas y dulces, pasando por una canaria con manzana Reineta de Gran Canaria y una japonesa. Letonia manda dos estilos distintos; Finlandia aporta una sidra seca de acidez marcada; Astigarraga envía una propuesta de fermentación lenta. Las plazas son limitadas, así que quien quiera ir, mejor no esperar."
+    ],
+    "apunte": "Nueve sidras de ocho sitios distintos, y la única que no viajó es la del güelu de Nava.",
+    "enVeinte": [
+      "El Bar La Naveta de Nava celebra el jueves 12 de noviembre una cata de nueve sidras internacionales a cargo del sumiller Xuaquín Menéndez.",
+      "Las sidras proceden de ocho lugares: Letonia, Finlandia, Japón, Canarias, Euskal Herria, Polonia, Países Bajos y Canadá, con estilos que van del sin alcohol al dulce.",
+      "La entrada cuesta 12 euros y las plazas son limitadas por orden de inscripción; la sesión empieza a las 19 horas."
+    ],
+    "cifra": {
+      "numero": "9",
+      "unidad": "sidras de 8 procedencias",
+      "glosa": "La cata reúne nueve referencias distintas llegadas de ocho países o regiones productoras, lo que permite comparar en una sola sesión estilos muy diferentes: desde una sidra letona sin alcohol hasta una japonesa, pasando por una canaria con manzana Reineta. No es habitual ver tanta diversidad junta en un solo evento en Asturias."
+    },
+    "palabra": {
+      "termino": "SISGA",
+      "como": "SISGA (siglas, se lee tal cual)",
+      "definicion": "Salón Internacional de las Sidras de Gala, el certamen de referencia en el mundo de la sidra que se celebra en Asturias. Reúne elaboradores y expertos de todo el mundo y es el marco en el que se otorgan algunos de los reconocimientos más valorados del sector."
+    },
+    "porQue": "Una cata así, guiada por el sumiller con más formación acreditada en sidra, es una oportunidad poco común para cualquiera del concejo que quiera entender qué está bebiendo más allá de la botella de siempre.",
+    "etiquetas": [
+      "sidra",
+      "cata",
+      "Nava",
+      "SISGA"
+    ],
+    "fechaEvento": "2026-11-12",
+    "tipoEvento": "gastro",
+    "lugar": "Bar La Naveta, Travesía Dominganes 7, Nava",
+    "hora": "19:00",
+    "precio": "12 €",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-07T04:00:48.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/cata-sidra-nava-xuaquin-menendez-sisga/",
+      "titularOriginal": "Xuaquín Menéndez guiará en Nava una cata de nueve sidras del SISGA"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava hosts a tasting of ciders from eight countries this Thursday",
+        "entradilla": "Xuaquín Menéndez, the cider sommelier with more titles than anyone else in the field, will lead the session at Bar La Naveta at 7 p.m.",
+        "cuerpo": [
+          "Bar La Naveta, at Travesía Dominganes 7, is hosting a tasting of nine ciders from eight places around the world on Thursday, 12 November: the Netherlands, Poland, the Canary Islands, Euskal Herria, Latvia, Japan, Finland and Canada. The price is 12 euros and places are allocated on a first-come, first-served basis.",
+          "Leading the session will be Xuaquín Menéndez, who holds the only two cider sommelier qualifications that exist, has served on the jury at the Primer Sidre l'Añu and at international events in Chile, and took part in organising the 16th Salón Internacional de las Sidras de Gala (SISGA), for which he also designed the jury scoring system in the last two editions.",
+          "The selection ranges from a non-alcoholic Latvian cider to dry, semi-dry and sweet styles, taking in a Canary Islands cider made with Reineta apples from Gran Canaria and a Japanese one. Latvia contributes two different styles; Finland brings a dry cider with a sharp acidity; Astigarraga sends a slow-fermentation offering. Places are limited, so anyone wanting to go had better not wait."
+        ],
+        "apunte": "Nine ciders from eight different places, and the only one that didn't travel is the one from the local grandfather's orchard in Nava.",
+        "enVeinte": [
+          "Bar La Naveta in Nava is hosting a tasting of nine international ciders on Thursday, 12 November, led by sommelier Xuaquín Menéndez.",
+          "The ciders come from eight places: Latvia, Finland, Japan, the Canary Islands, Euskal Herria, Poland, the Netherlands and Canada, with styles ranging from non-alcoholic to sweet.",
+          "Tickets cost 12 euros; places are limited and allocated in order of registration. The session starts at 7 p.m."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "ciders from 8 origins",
+          "glosa": "The tasting brings together nine different references from eight countries or producing regions, making it possible to compare very different styles in a single session: from a non-alcoholic Latvian cider to a Japanese one, by way of a Canary Islands cider made with Reineta apples. It is not common to see such diversity gathered together in a single event in Asturias."
+        },
+        "palabra": {
+          "termino": "SISGA",
+          "como": "SISGA (acronym, read as written)",
+          "definicion": "Salón Internacional de las Sidras de Gala, the benchmark competition in the world of cider, held in Asturias. It brings together producers and experts from around the world and is the setting in which some of the most highly regarded awards in the sector are presented."
+        },
+        "porQue": "A tasting like this, led by the sommelier with the most accredited cider training anywhere, is an uncommon opportunity for anyone in the municipality who wants to understand what they are drinking beyond the same old bottle.",
+        "lugar": "Bar La Naveta, Travesía Dominganes 7, Nava",
+        "precio": "12 €"
+      },
+      "fr": {
+        "titular": "Nava propose jeudi une dégustation de cidres venus de huit pays",
+        "entradilla": "Xuaquín Menéndez, le sommelier en cidre le plus titré du secteur, animera la session au Bar La Naveta à 19 heures.",
+        "cuerpo": [
+          "Le Bar La Naveta, Travesía Dominganes 7, accueille jeudi 12 novembre une dégustation de neuf cidres venus de huit endroits dans le monde : Pays-Bas, Pologne, îles Canaries, Euskal Herria, Lettonie, Japon, Finlande et Canada. Le tarif est de 12 euros et les places sont attribuées par ordre d'inscription.",
+          "C'est Xuaquín Menéndez qui animera la session. Il détient les deux seuls titres de sommellerie en cidre qui existent, a siégé au jury du Primer Sidre l'Añu et lors de rencontres internationales au Chili, et a participé à l'organisation du 16e Salón Internacional de las Sidras de Gala (SISGA), dont il a également conçu le système de notation du jury lors des deux dernières éditions.",
+          "La sélection va d'un cidre letton sans alcool à des élaborations sèches, demi-sèches et douces, en passant par un cidre des Canaries à base de pomme Reineta de Gran Canaria et un cidre japonais. La Lettonie propose deux styles différents ; la Finlande apporte un cidre sec à l'acidité prononcée ; Astigarraga envoie une proposition à fermentation lente. Les places sont limitées : mieux vaut ne pas attendre."
+        ],
+        "apunte": "Neuf cidres venus de huit endroits différents, et le seul qui n'a pas voyagé, c'est celui du grand-père de Nava.",
+        "enVeinte": [
+          "Le Bar La Naveta de Nava organise jeudi 12 novembre une dégustation de neuf cidres internationaux animée par le sommelier Xuaquín Menéndez.",
+          "Les cidres proviennent de huit endroits : Lettonie, Finlande, Japon, îles Canaries, Euskal Herria, Pologne, Pays-Bas et Canada, avec des styles allant du sans alcool au doux.",
+          "L'entrée coûte 12 euros, les places sont limitées et attribuées par ordre d'inscription ; la session commence à 19 heures."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "cidres de 8 origines",
+          "glosa": "La dégustation réunit neuf références différentes venues de huit pays ou régions productrices, ce qui permet de comparer en une seule session des styles très variés : d'un cidre letton sans alcool à un cidre japonais, en passant par un cidre des Canaries à base de pomme Reineta. Il est rare de voir une telle diversité réunie en un seul événement en Asturias."
+        },
+        "palabra": {
+          "termino": "SISGA",
+          "como": "SISGA (sigle, se lit tel quel)",
+          "definicion": "Salón Internacional de las Sidras de Gala, le concours de référence dans le monde du cidre, qui se tient en Asturias. Il réunit producteurs et experts du monde entier et constitue le cadre dans lequel sont décernées certaines des distinctions les plus prisées du secteur."
+        },
+        "porQue": "Une dégustation de ce niveau, animée par le sommelier le mieux formé du monde du cidre, est une occasion rare pour quiconque, dans la commune, souhaite comprendre ce qu'il boit au-delà de la bouteille habituelle.",
+        "lugar": "Bar La Naveta, Travesía Dominganes 7, Nava",
+        "precio": "12 €"
+      },
+      "de": {
+        "titular": "Nava veranstaltet am Donnerstag eine Verkostung von Cidres aus acht Ländern",
+        "entradilla": "Xuaquín Menéndez, der am höchsten ausgezeichnete Cider-Sommelier der Branche, leitet die Sitzung in der Bar La Naveta um 19 Uhr.",
+        "cuerpo": [
+          "Die Bar La Naveta, Travesía Dominganes 7, richtet am Donnerstag, dem 12. November, eine Verkostung von neun Cidres aus acht Teilen der Welt aus: Niederlande, Polen, Kanarische Inseln, Euskal Herria, Lettland, Japan, Finnland und Kanada. Der Preis beträgt 12 Euro, und die Plätze werden in der Reihenfolge der Anmeldung vergeben.",
+          "Die Leitung übernimmt Xuaquín Menéndez, der die einzigen beiden Titel in der Cider-Sommelierausbildung innehat, die es gibt. Er war Juror beim Primer Sidre l'Añu und bei internationalen Treffen in Chile und beteiligte sich an der Organisation des 16. Salón Internacional de las Sidras de Gala (SISGA), für den er in den letzten beiden Ausgaben auch das Punktesystem der Jury entwickelte.",
+          "Die Auswahl reicht von einem alkoholfreien lettischen Cider bis hin zu trockenen, halbtrockenen und süßen Varianten, darunter ein kanarischer Cider aus Reineta-Äpfeln von Gran Canaria und ein japanischer Cider. Lettland steuert zwei verschiedene Stile bei; Finnland bringt einen trockenen Cider mit ausgeprägter Säure; Astigarraga schickt einen langsam fermentierten Cider. Die Plätze sind begrenzt, wer kommen möchte, sollte nicht zu lange warten."
+        ],
+        "apunte": "Neun Cidres aus acht verschiedenen Gegenden – und der einzige, der nicht gereist ist, ist der vom Opa aus Nava.",
+        "enVeinte": [
+          "Die Bar La Naveta in Nava veranstaltet am Donnerstag, dem 12. November, eine Verkostung von neun internationalen Cidres unter der Leitung von Sommelier Xuaquín Menéndez.",
+          "Die Cidres stammen aus acht Orten: Lettland, Finnland, Japan, Kanarische Inseln, Euskal Herria, Polen, Niederlande und Kanada, mit Stilen von alkoholfrei bis süß.",
+          "Der Eintritt kostet 12 Euro; die Plätze sind begrenzt und werden in der Reihenfolge der Anmeldung vergeben. Die Sitzung beginnt um 19 Uhr."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "Cidres aus 8 Herkunftsgebieten",
+          "glosa": "Die Verkostung vereint neun verschiedene Erzeugnisse aus acht Ländern oder Produktionsregionen. So lassen sich in einer einzigen Sitzung sehr unterschiedliche Stile vergleichen: von einem alkoholfreien lettischen Cider bis zu einem japanischen, darunter auch ein kanarischer Cider aus Reineta-Äpfeln. Eine solche Vielfalt bei einer einzigen Veranstaltung in Asturias ist ungewöhnlich."
+        },
+        "palabra": {
+          "termino": "SISGA",
+          "como": "SISGA (Akronym, wird buchstäblich so gelesen)",
+          "definicion": "Salón Internacional de las Sidras de Gala, der Referenzwettbewerb in der Welt des Ciders, der in Asturias stattfindet. Er bringt Hersteller und Experten aus aller Welt zusammen und ist der Rahmen, in dem einige der angesehensten Auszeichnungen der Branche vergeben werden."
+        },
+        "porQue": "Eine Verkostung dieser Art, geleitet vom am besten ausgebildeten Cider-Sommelier überhaupt, ist eine seltene Gelegenheit für alle in der Gemeinde, die verstehen möchten, was sie trinken – jenseits der immer gleichen Flasche.",
+        "lugar": "Bar La Naveta, Travesía Dominganes 7, Nava",
+        "precio": "12 €"
+      }
+    },
+    "revisar": [
+      "el bar la naveta en travesia dominganes 7",
+      "paises bajos polonia canarias euskal herria letonia japon",
+      "bajos polonia canarias euskal herria letonia japon finlandia",
+      "polonia canarias euskal herria letonia japon finlandia y",
+      "canarias euskal herria letonia japon finlandia y canada",
+      "la primer sidre l anu y en encuentros",
+      "primer sidre l anu y en encuentros internacionales",
+      "del 16 salon internacional de las sidras de",
+      "16 salon internacional de las sidras de gala"
+    ]
+  },
+  {
     "id": "villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-",
     "url": "/villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/",
     "concejo": "Villaviciosa",

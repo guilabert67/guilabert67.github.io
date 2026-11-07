@@ -621,6 +621,16 @@
       "motivo": "duplicado de /villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/",
       "fecha": "2026-11-06T20:52:16.341Z",
       "titulo": "El Plan Municipal de Vivienda de Villaviciosa encara su recta final con alta participación vecinal"
+    },
+    "elbuscolu.com/noticias-villaviciosa/villaviciosa-recibe-mas-de-170-solicitudes-para-su-primer-plan-municipal-de-vivienda-11277048.html": {
+      "motivo": "duplicado de /villaviciosa/villaviciosa-supera-las-170-solicitudes-para-su-primer-plan-municipal-/",
+      "fecha": "2026-11-07T06:34:10.482Z",
+      "titulo": "Villaviciosa recibe más de 170 solicitudes para su primer Plan Municipal de Vivienda"
+    },
+    "elbuscolu.com/noticias-nava/nava-convoca-su-primer-concurso-de-iluminacion-y-decoracion-navidena-con-premios-de-hasta-400-euros-11277049.html": {
+      "motivo": "mismo hecho que /nava/concurso-de-iluminacion-y-decoracion-navidena/",
+      "fecha": "2026-11-07T06:34:12.678Z",
+      "titulo": "Nava convoca su primer concurso de iluminación y decoración navideña con premios de hasta 400 euros"
     }
   },
   "juicios": {
@@ -747,6 +757,10 @@
     "villaviciosa.es/detalle-rss?articleid=20213092|villaviciosa-contratara-a-ocho-personas-desempleadas-con-un-nuevo-plan": {
       "r": "mismo",
       "fecha": "2026-11-06T14:58:22.303Z"
+    },
+    "elbuscolu.com/noticias-nava/nava-convoca-su-primer-concurso-de-iluminacion-y-decoracion-navidena-con-premios-de-hasta-400-euros-11277049.html|concurso-de-iluminacion-y-decoracion-navidena": {
+      "r": "mismo",
+      "fecha": "2026-11-07T06:34:12.678Z"
     }
   }
 }
