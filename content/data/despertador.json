@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-07T06:35:17.588Z",
+  "fecha": "2026-11-07T13:33:00.827Z",
   "puntos": [
     {
-      "concejo": "Nava",
-      "frase": "El jueves, Nava cata sidras de ocho países a las 19 h en Bar La Naveta.",
-      "enlace": "/nava/xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga/"
+      "concejo": "Cabrales",
+      "frase": "El Cares ha matado a diez personas: el paisaje esconde un historial de accidentes graves.",
+      "enlace": "/cabrales/la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Las Planas 2019 gana medalla en Londres y pone a Villaviciosa en el mapa del vino.",
+      "enlace": "/villaviciosa/las-planas-2019-logra-la-medalla-master-en-la-cata-de-otono-de-the-dri/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Piloña guarda neandertales, manantiales y etnografía: patrimonio para más de un fin de semana.",
+      "enlace": "/pilona/pilona-aguas-minerales-asturcones-y-neandertales/"
     }
   ]
 }

@@ -1,5 +1,376 @@
 [
   {
+    "id": "la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-",
+    "url": "/cabrales/la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Diez muertos en la Ruta del Cares",
+    "entradilla": "El sendero más famoso de Cabrales acumula una historia de accidentes mortales que el paisaje espectacular tiende a ocultar.",
+    "cuerpo": [
+      "La Ruta del Cares, uno de los recorridos de senderismo más conocidos de Europa, ha cobrado al menos diez vidas a lo largo de su historia. Desprendimientos, precipicios y la propia exposición del terreno convierten un paseo de postal en un camino con riesgos reales.",
+      "El peligro no siempre es visible: el trazado discurre junto a paredes de roca y sobre el río Cares, y la montaña puede moverse sin avisar. Los accidentes mortales registrados así lo confirman."
+    ],
+    "apunte": "La montaña no sabe que eres turista.",
+    "enVeinte": [
+      "La Ruta del Cares, en Cabrales, ha causado al menos diez muertes a lo largo de su historia.",
+      "Los desprendimientos y los precipicios son los principales peligros de un sendero muy concurrido.",
+      "El riesgo es real aunque el paisaje invite a bajar la guardia."
+    ],
+    "cifra": {
+      "numero": "10",
+      "unidad": "muertes",
+      "glosa": "Al menos diez personas han perdido la vida en la Ruta del Cares. Es la cifra mínima documentada; la ruta atrae cada año a miles de senderistas de toda Europa."
+    },
+    "palabra": {
+      "termino": "desprendimiento",
+      "como": "desprendimientu, en la fala de por aquí",
+      "definicion": "Caída de rocas o tierra desde la ladera de la montaña. En el Cares, las paredes verticales hacen que un desprendimiento pueda alcanzar el camino sin apenas aviso previo."
+    },
+    "porQue": "Muchos vecinos de Cabrales guían, acompañan o trabajan cerca de la ruta; conocer su historial de accidentes ayuda a tomar precauciones y a advertir a quienes vienen de fuera.",
+    "etiquetas": [
+      "Cares",
+      "senderismo",
+      "Cabrales",
+      "seguridad"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-07T11:28:00.000Z",
+    "fuente": {
+      "nombre": "AsturiasMundial",
+      "url": "https://www.asturiasmundial.com/noticia/145004/montana-nunca-duerme-peligro-invisible-ruta-cares-menos-diez-accidentes-mortales-una-historia-desprendimientos/",
+      "titularOriginal": "La montaña que nunca duerme: el peligro invisible de la Ruta del Cares, con al menos diez accidentes mortales y una historia de desprendimientos"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Ten deaths on the Ruta del Cares",
+        "entradilla": "Cabrales's most famous trail carries a history of fatal accidents that its spectacular scenery tends to conceal.",
+        "cuerpo": [
+          "The Ruta del Cares, one of the best-known hiking routes in Europe, has claimed at least ten lives throughout its history. Rockfalls, sheer drops and the exposed nature of the terrain turn a picture-postcard walk into a path with real dangers.",
+          "The danger is not always visible: the route runs alongside rock faces and above the river Cares, and the mountain can move without warning. The recorded fatal accidents bear this out."
+        ],
+        "apunte": "The mountain does not know you are a tourist.",
+        "enVeinte": [
+          "The Ruta del Cares, in Cabrales, has caused at least ten deaths throughout its history.",
+          "Rockfalls and sheer drops are the main hazards on a heavily used trail.",
+          "The risk is real, even if the landscape tempts you into dropping your guard."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "deaths",
+          "glosa": "At least ten people have lost their lives on the Ruta del Cares. This is the minimum documented figure; the route draws thousands of hikers from across Europe every year."
+        },
+        "palabra": {
+          "termino": "desprendimiento",
+          "como": "desprendimientu, en la fala de por aquí",
+          "definicion": "A fall of rocks or earth from a mountain slope. On the Cares, the vertical walls mean that a desprendimiento can reach the path with almost no warning."
+        },
+        "porQue": "Many residents of Cabrales guide, accompany or work close to the route; knowing its accident history helps them take precautions and warn those coming from outside.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Dix morts sur la Ruta del Cares",
+        "entradilla": "Le sentier le plus célèbre de Cabrales accumule une histoire d'accidents mortels que son paysage spectaculaire tend à masquer.",
+        "cuerpo": [
+          "La Ruta del Cares, l'un des itinéraires de randonnée les plus connus d'Europe, a coûté la vie à au moins dix personnes au fil de son histoire. Éboulements, précipices et exposition du terrain transforment une promenade de carte postale en un chemin aux risques bien réels.",
+          "Le danger n'est pas toujours visible : le tracé longe des parois rocheuses et surplombe la rivière Cares, et la montagne peut bouger sans prévenir. Les accidents mortels recensés le confirment."
+        ],
+        "apunte": "La montagne ne sait pas que vous êtes touriste.",
+        "enVeinte": [
+          "La Ruta del Cares, à Cabrales, a causé au moins dix morts au fil de son histoire.",
+          "Les éboulements et les précipices constituent les principaux dangers d'un sentier très fréquenté.",
+          "Le risque est réel, même si le paysage invite à baisser la garde."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "morts",
+          "glosa": "Au moins dix personnes ont perdu la vie sur la Ruta del Cares. C'est le chiffre minimum documenté ; le sentier attire chaque année des milliers de randonneurs de toute l'Europe."
+        },
+        "palabra": {
+          "termino": "desprendimiento",
+          "como": "desprendimientu, en la fala de por aquí",
+          "definicion": "Chute de rochers ou de terre depuis le flanc d'une montagne. Sur le Cares, les parois verticales font qu'un desprendimiento peut atteindre le chemin sans presque aucun avertissement préalable."
+        },
+        "porQue": "Nombre d'habitants de Cabrales guident, accompagnent des randonneurs ou travaillent à proximité du sentier ; connaître son historique d'accidents aide à prendre des précautions et à avertir ceux qui viennent de l'extérieur.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zehn Tote auf der Ruta del Cares",
+        "entradilla": "Der bekannteste Wanderweg von Cabrales trägt eine Geschichte tödlicher Unfälle in sich, die seine spektakuläre Landschaft zu verbergen pflegt.",
+        "cuerpo": [
+          "Die Ruta del Cares, einer der bekanntesten Wanderwege Europas, hat im Laufe ihrer Geschichte mindestens zehn Menschen das Leben gekostet. Steinschlag, Steilabfälle und die exponierte Lage des Geländes verwandeln einen malerischen Spaziergang in einen Weg mit echten Gefahren.",
+          "Die Gefahr ist nicht immer sichtbar: Der Weg verläuft entlang senkrechter Felswände und über dem Fluss Cares, und der Berg kann sich ohne Vorwarnung bewegen. Die dokumentierten Todesfälle bestätigen dies."
+        ],
+        "apunte": "Der Berg weiß nicht, dass Sie Tourist sind.",
+        "enVeinte": [
+          "Die Ruta del Cares in Cabrales hat im Laufe ihrer Geschichte mindestens zehn Todesopfer gefordert.",
+          "Steinschlag und Steilabfälle sind die größten Gefahren auf einem stark frequentierten Wanderweg.",
+          "Das Risiko ist real, auch wenn die Landschaft dazu verleitet, die Wachsamkeit zu senken."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "Todesfälle",
+          "glosa": "Mindestens zehn Menschen haben auf der Ruta del Cares ihr Leben verloren. Dies ist die dokumentierte Mindestzahl; der Weg zieht jedes Jahr Tausende von Wanderern aus ganz Europa an."
+        },
+        "palabra": {
+          "termino": "desprendimiento",
+          "como": "desprendimientu, en la fala de por aquí",
+          "definicion": "Das Herabfallen von Felsen oder Erde von einem Berghang. Am Cares sorgen die senkrechten Wände dafür, dass ein desprendimiento den Weg nahezu ohne Vorwarnung erreichen kann."
+        },
+        "porQue": "Viele Bewohner von Cabrales führen Wanderer, begleiten sie oder arbeiten in der Nähe des Weges; die Unfallgeschichte zu kennen hilft dabei, Vorsichtsmaßnahmen zu ergreifen und Menschen von außerhalb zu warnen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "pilona-aguas-minerales-asturcones-y-neandertales",
+    "url": "/pilona/pilona-aguas-minerales-asturcones-y-neandertales/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Piloña: patrimonio, prehistoria y agua mineral",
+    "entradilla": "El concejo guarda desde neandertales hasta manantiales, con un patrimonio etnográfico que da para mucho más que un fin de semana.",
+    "cuerpo": [
+      "Piloña acumula capas de historia que van mucho más atrás de lo que parece: hace 40.000 años, trece personas vivían en este territorio que hoy ocupa el concejo.",
+      "A eso se suman las aguas minerales, los caballos asturcones y un patrimonio etnográfico que, según el reportaje, depara sorpresas en cada esquina."
+    ],
+    "apunte": "Cuarenta mil años de historia y seguimos sin museo comarcal digno.",
+    "enVeinte": [
+      "Piloña tiene un patrimonio etnográfico y natural notable: aguas minerales, caballos asturcones y rastros de vida humana de hace 40.000 años.",
+      "Se calcula que hace cuatro decenas de milenios habitaban el concejo unas trece personas, probablemente neandertales.",
+      "El reportaje apunta que el territorio esconde sorpresas en cada rincón para quien se tome el tiempo de buscarlo."
+    ],
+    "cifra": {
+      "numero": "13",
+      "unidad": "habitantes hace 40.000 años",
+      "glosa": "Eso es todo lo que se estima que poblaba el territorio de lo que hoy es Piloña en tiempos de los neandertales. Una aldea pequeña no llega a esa cifra hoy, y aun así ya había alguien aquí."
+    },
+    "palabra": {
+      "termino": "asturcón",
+      "como": "as-tur-cón",
+      "definicion": "Raza de poni autóctona de Asturias, de pequeño tamaño y gran resistencia, que lleva conviviendo con los asturianos desde la prehistoria. En Piloña todavía se crían y son parte del paisaje de los montes del concejo."
+    },
+    "porQue": "Conocer este patrimonio pone en valor el territorio donde vivimos y puede ser un motor de turismo rural para los concejos del oriente asturiano.",
+    "etiquetas": [
+      "Piloña",
+      "patrimonio",
+      "prehistoria",
+      "asturcones"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/gastronomia/2026/11/06/226081527-k3dG--1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-07T09:18:03.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/gastronomia/pilona-aguas-minerales-asturcones-neandertales-20261107090748-nt.html",
+      "titularOriginal": "Piloña, aguas minerales, asturcones y neandertales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Piloña: heritage, prehistory and mineral water",
+        "entradilla": "The municipality holds everything from Neanderthals to natural springs, with an ethnographic heritage that offers far more than a weekend.",
+        "cuerpo": [
+          "Piloña accumulates layers of history that go much further back than they might seem: 40,000 years ago, thirteen people lived in this territory that today makes up the municipality.",
+          "Add to that the mineral waters, the asturcón horses and an ethnographic heritage that, according to the report, holds surprises around every corner."
+        ],
+        "apunte": "Forty thousand years of history and we still have no decent county museum.",
+        "enVeinte": [
+          "Piloña has a notable ethnographic and natural heritage: mineral waters, asturcón horses and traces of human life from 40,000 years ago.",
+          "It is estimated that some forty millennia ago, around thirteen people inhabited the municipality — probably Neanderthals.",
+          "The report suggests that the area hides surprises in every corner for those who take the time to look."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "inhabitants 40,000 years ago",
+          "glosa": "That is all that is estimated to have populated the territory of what is now Piloña in the time of the Neanderthals. A small village does not reach that number today, and yet there was already someone here."
+        },
+        "palabra": {
+          "termino": "asturcón",
+          "como": "as-tur-cón",
+          "definicion": "A native pony breed from Asturias, small in size and highly resilient, that has lived alongside Asturians since prehistoric times. In Piloña they are still bred and are part of the landscape of the municipality's mountains."
+        },
+        "porQue": "Understanding this heritage adds value to the territory where we live and can be a driver of rural tourism for the municipalities of eastern Asturias.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Piloña : patrimoine, préhistoire et eau minérale",
+        "entradilla": "La commune abrite tout, des Néandertaliens aux sources naturelles, avec un patrimoine ethnographique qui mérite bien plus qu'un week-end.",
+        "cuerpo": [
+          "Piloña accumule des couches d'histoire qui remontent bien plus loin qu'il n'y paraît : il y a 40 000 ans, treize personnes vivaient sur ce territoire qu'occupe aujourd'hui la commune.",
+          "À cela s'ajoutent les eaux minérales, les chevaux asturcones et un patrimoine ethnographique qui, selon le reportage, réserve des surprises à chaque détour."
+        ],
+        "apunte": "Quarante mille ans d'histoire et nous n'avons toujours pas de musée local digne de ce nom.",
+        "enVeinte": [
+          "Piloña possède un patrimoine ethnographique et naturel remarquable : eaux minérales, chevaux asturcones et traces de vie humaine vieilles de 40 000 ans.",
+          "On estime que, il y a quatre décennies de millénaires, une treizaine de personnes habitaient la commune, probablement des Néandertaliens.",
+          "Le reportage indique que le territoire cache des surprises dans chaque recoin pour qui prend le temps de les chercher."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "habitants il y a 40 000 ans",
+          "glosa": "C'est tout ce que l'on estime avoir peuplé le territoire de ce qui est aujourd'hui Piloña à l'époque des Néandertaliens. Un petit village n'atteint pas ce chiffre aujourd'hui, et pourtant il y avait déjà quelqu'un ici."
+        },
+        "palabra": {
+          "termino": "asturcón",
+          "como": "as-tur-cón",
+          "definicion": "Race de poney autochtone des Asturies, de petite taille et très résistante, qui cohabite avec les Asturiens depuis la préhistoire. À Piloña, on les élève encore et ils font partie du paysage des montagnes de la commune."
+        },
+        "porQue": "Connaître ce patrimoine valorise le territoire où nous vivons et peut constituer un moteur de tourisme rural pour les communes de l'est des Asturies.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Piloña: Kulturerbe, Vorgeschichte und Mineralwasser",
+        "entradilla": "Die Gemeinde birgt alles von Neandertalern bis zu natürlichen Quellen — mit einem ethnografischen Erbe, das für weit mehr als ein Wochenende reicht.",
+        "cuerpo": [
+          "Piloña trägt Schichten von Geschichte in sich, die viel weiter zurückreichen als man vermuten würde: Vor 40.000 Jahren lebten dreizehn Menschen in dem Gebiet, das heute die Gemeinde ausmacht.",
+          "Dazu kommen Mineralwässer, Asturcón-Pferde und ein ethnografisches Erbe, das laut dem Bericht an jeder Ecke Überraschungen bereithält."
+        ],
+        "apunte": "Vierzigtausend Jahre Geschichte — und noch immer kein anständiges Regionalmuseum.",
+        "enVeinte": [
+          "Piloña verfügt über ein beachtliches ethnografisches und natürliches Erbe: Mineralwässer, Asturcón-Pferde und Spuren menschlichen Lebens von vor 40.000 Jahren.",
+          "Schätzungen zufolge bewohnten vor vier Jahrzehntausenden etwa dreizehn Menschen die Gemeinde — wahrscheinlich Neandertaler.",
+          "Der Bericht weist darauf hin, dass das Gebiet an jeder Ecke Überraschungen für denjenigen verbirgt, der sich die Zeit nimmt, sie zu suchen."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "Einwohner vor 40.000 Jahren",
+          "glosa": "So viele Menschen sollen das Gebiet des heutigen Piloña zur Zeit der Neandertaler bewohnt haben. Ein kleines Dorf kommt heute kaum auf diese Zahl — und dennoch war hier damals schon jemand."
+        },
+        "palabra": {
+          "termino": "asturcón",
+          "como": "as-tur-cón",
+          "definicion": "Eine in Asturien heimische Pony-Rasse, klein und sehr widerstandsfähig, die seit der Vorgeschichte Seite an Seite mit den Asturiern lebt. In Piloña werden sie noch heute gezüchtet und gehören zum Landschaftsbild der Berge der Gemeinde."
+        },
+        "porQue": "Dieses Kulturerbe kennenzulernen wertet das Gebiet auf, in dem wir leben, und kann ein Motor des Landtourismus für die Gemeinden Ostasturiens sein.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "las-planas-2019-logra-la-medalla-master-en-la-cata-de-otono-de-the-dri",
+    "url": "/villaviciosa/las-planas-2019-logra-la-medalla-master-en-la-cata-de-otono-de-the-dri/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Las Planas 2019 gana medalla Master en Londres",
+    "entradilla": "El vino blanco del Grupo El Gaitero se mide con los mejores en la cata de otoño de The Drinks Business.",
+    "cuerpo": [
+      "Las Planas 2019, un blanco del Grupo El Gaitero con sede en Villaviciosa, se trajo una medalla Master de la cata de otoño que organiza la revista especializada The Drinks Business.",
+      "Es una de las distinciones más altas que otorga esa competición internacional, donde participan vinos de todo el mundo."
+    ],
+    "apunte": "Una sidra no, esta vez; pero la casa sabe lo que se hace con la uva también.",
+    "enVeinte": [
+      "Las Planas 2019, vino blanco del Grupo El Gaitero, ha ganado una medalla Master en la cata de otoño de The Drinks Business.",
+      "The Drinks Business es una publicación especializada de referencia internacional en el sector del vino.",
+      "El galardón sitúa a este vino asturiano entre los reconocidos en un certamen con participantes de todo el mundo."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un producto elaborado en Villaviciosa acaba de conseguir uno de los reconocimientos más exigentes del sector vinícola internacional, lo que pone el nombre del concejo en el mapa de los vinos premiados.",
+    "etiquetas": [
+      "Villaviciosa",
+      "El Gaitero",
+      "vino",
+      "premios"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "gastro",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/06/2026110619090693859.jpg",
+    "fecha": "2026-11-07T07:10:51.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/articulo/villaviciosa/planas-medalla-master-cata-drinks-business/20261106191031105277.html",
+      "titularOriginal": "Las Planas 2019 logra la medalla Master en la cata de otoño de The Drinks Business"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Las Planas 2019 wins Master medal in London",
+        "entradilla": "The white wine from Grupo El Gaitero competes with the best at the autumn tasting of The Drinks Business.",
+        "cuerpo": [
+          "Las Planas 2019, a white wine from Grupo El Gaitero, based in Villaviciosa, took home a Master medal from the autumn tasting organised by the specialist magazine The Drinks Business.",
+          "It is one of the highest distinctions awarded by that international competition, in which wines from around the world take part."
+        ],
+        "apunte": "Not a cider this time — but the house knows what it is doing with grapes too.",
+        "enVeinte": [
+          "Las Planas 2019, a white wine from Grupo El Gaitero, has won a Master medal at the autumn tasting of The Drinks Business.",
+          "The Drinks Business is a leading international specialist publication in the wine sector.",
+          "The award places this Asturian wine among those recognised at a competition with entries from around the world."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A product made in Villaviciosa has just earned one of the most demanding accolades in the international wine sector, putting the municipality on the map of award-winning wines.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Las Planas 2019 décroche une médaille Master à Londres",
+        "entradilla": "Le vin blanc du Grupo El Gaitero s'est mesuré aux meilleurs lors de la dégustation d'automne de The Drinks Business.",
+        "cuerpo": [
+          "Las Planas 2019, un vin blanc du Grupo El Gaitero, dont le siège est à Villaviciosa, a remporté une médaille Master lors de la dégustation d'automne organisée par la revue spécialisée The Drinks Business.",
+          "C'est l'une des distinctions les plus élevées qu'accorde cette compétition internationale, à laquelle participent des vins du monde entier."
+        ],
+        "apunte": "Pas un cidre, cette fois-ci ; mais la maison sait aussi ce qu'elle fait avec le raisin.",
+        "enVeinte": [
+          "Las Planas 2019, vin blanc du Grupo El Gaitero, a remporté une médaille Master lors de la dégustation d'automne de The Drinks Business.",
+          "The Drinks Business est une publication spécialisée de référence internationale dans le secteur du vin.",
+          "Cette récompense place ce vin asturien parmi ceux qui sont reconnus dans un concours réunissant des participants du monde entier."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un produit élaboré à Villaviciosa vient d'obtenir l'une des distinctions les plus exigeantes du secteur vinicole international, plaçant ainsi le nom de la commune sur la carte des vins primés.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Las Planas 2019 gewinnt Master-Medaille in London",
+        "entradilla": "Der Weißwein der Grupo El Gaitero misst sich bei der Herbstverkostung von The Drinks Business mit den Besten.",
+        "cuerpo": [
+          "Las Planas 2019, ein Weißwein der Grupo El Gaitero mit Sitz in Villaviciosa, hat bei der Herbstverkostung der Fachzeitschrift The Drinks Business eine Master-Medaille gewonnen.",
+          "Es ist eine der höchsten Auszeichnungen, die dieser internationale Wettbewerb vergibt, an dem Weine aus aller Welt teilnehmen."
+        ],
+        "apunte": "Diesmal kein Cidre — aber das Haus versteht sich auch mit der Traube.",
+        "enVeinte": [
+          "Las Planas 2019, ein Weißwein der Grupo El Gaitero, hat bei der Herbstverkostung von The Drinks Business eine Master-Medaille gewonnen.",
+          "The Drinks Business ist eine international renommierte Fachpublikation im Weinsektor.",
+          "Die Auszeichnung reiht diesen asturischen Wein unter die prämierten Weine eines Wettbewerbs mit Teilnehmern aus aller Welt ein."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein in Villaviciosa hergestelltes Produkt hat soeben eine der anspruchsvollsten Auszeichnungen des internationalen Weinsektors erhalten und bringt damit den Namen der Gemeinde auf die Landkarte der preisgekrönten Weine.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en la cata de otono de the drinks",
+      "la cata de otono de the drinks business"
+    ]
+  },
+  {
     "id": "xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga",
     "url": "/nava/xuaquin-menendez-guiara-en-nava-una-cata-de-nueve-sidras-del-sisga/",
     "concejo": "Nava",
@@ -5935,108 +6306,6 @@
           "definicion": "Höhle in der Gemeinde Piloña, in der Ende des 20. Jahrhunderts Neandertaler-Knochen entdeckt wurden. Der Name gehört zum ländlichen Gebiet, in dem sich der Eingang befindet, in der Pfarrgemeinde Valdebárcena."
         },
         "porQue": "El Sidrón liegt in Piloña: eine der in der internationalen wissenschaftlichen Literatur meistzitierten Neandertaler-Fundstätten der Welt ist buchstäblich von hier.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "proceso-selectivo-de-arquitecto-a-no-jefe",
-    "url": "/villaviciosa/proceso-selectivo-de-arquitecto-a-no-jefe/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "Villaviciosa convoca el segundo ejercicio de arquitecto",
-    "entradilla": "El proceso para cubrir una plaza técnica en el Ayuntamiento avanza hacia su recta final.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha anunciado la celebración del segundo ejercicio del proceso selectivo para cubrir una plaza de arquitecto o arquitecta, sin jefatura. La oposición lleva varios pasos completados: ya se publicaron las bases, se cerró la lista de admitidos y se superó el primer examen.",
-      "Quienes pasaron el primer ejercicio son los que ahora avanzan a esta segunda prueba. Las respuestas correctas de la primera fase están publicadas, por lo que cada aspirante puede comprobar su situación antes de presentarse."
-    ],
-    "apunte": "Una plaza técnica, dos ejercicios y muchos papeles: el Ayuntamiento también tiene sus oposiciones.",
-    "enVeinte": [
-      "Villaviciosa convoca el segundo ejercicio de su proceso selectivo para cubrir una plaza de arquitecto municipal.",
-      "El proceso ya tiene lista definitiva de admitidos y el primer examen superado con sus respuestas publicadas.",
-      "Solo los aspirantes que aprobaron la primera prueba pueden presentarse ahora al segundo ejercicio."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Cubrir esta plaza refuerza los servicios técnicos del Ayuntamiento, lo que puede agilizar trámites urbanísticos que afectan a vecinos y promotores del concejo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "arquitectura",
-      "oposiciones"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-10-28T12:05:25.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19804517",
-      "titularOriginal": "Proceso selectivo de Arquitecto/a no jefe",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa calls the second exam for its architect post",
-        "entradilla": "The process to fill a technical vacancy at the council is entering its final stretch.",
-        "cuerpo": [
-          "The council of Villaviciosa has announced the date of the second exam in the selection process to fill one architect post, without management responsibilities. The competition has already cleared several stages: the rules were published, the list of admitted candidates was closed, and the first exam has been sat.",
-          "Only those who passed the first exam may now advance to this second test. The correct answers for the first stage have been published, so each candidate can check their position before taking part."
-        ],
-        "apunte": "One technical post, two exams and a great deal of paperwork: the council has its own competitive recruitment too.",
-        "enVeinte": [
-          "Villaviciosa calls the second exam in its selection process to fill a municipal architect post.",
-          "The process already has a definitive list of admitted candidates and the first exam completed, with its answers published.",
-          "Only candidates who passed the first test may now sit the second exam."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Filling this post strengthens the council's technical services, which could speed up planning procedures affecting residents and developers in the municipality.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa convoque le deuxième épreuve pour son poste d'architecte",
-        "entradilla": "Le processus de recrutement pour pourvoir un poste technique à la mairie entre dans sa dernière ligne droite.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a annoncé la tenue de la deuxième épreuve du processus de sélection pour pourvoir un poste d'architecte ou d'architecte, sans responsabilité d'encadrement. Le concours a déjà franchi plusieurs étapes : le règlement a été publié, la liste des candidats admis a été close et la première épreuve a été passée.",
-          "Seuls les candidats ayant réussi la première épreuve peuvent désormais accéder à ce deuxième test. Les réponses correctes de la première phase ont été publiées, ce qui permet à chaque candidat de vérifier sa situation avant de se présenter."
-        ],
-        "apunte": "Un poste technique, deux épreuves et beaucoup de paperasse : la mairie aussi a ses concours.",
-        "enVeinte": [
-          "Villaviciosa convoque la deuxième épreuve de son processus de sélection pour pourvoir un poste d'architecte municipal.",
-          "Le processus dispose déjà d'une liste définitive de candidats admis et d'une première épreuve achevée, avec ses réponses publiées.",
-          "Seuls les candidats ayant réussi la première épreuve peuvent se présenter à la deuxième."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Pourvoir ce poste renforce les services techniques de la mairie, ce qui pourrait accélérer les démarches urbanistiques touchant les habitants et les promoteurs de la commune.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa schreibt die zweite Prüfung für die Architekten-Stelle aus",
-        "entradilla": "Das Auswahlverfahren zur Besetzung einer Fachstelle im Rathaus biegt auf die Zielgerade ein.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat den Termin für die zweite Prüfung des Auswahlverfahrens zur Besetzung einer Architekten-Stelle ohne Leitungsfunktion bekanntgegeben. Der Wettbewerb hat bereits mehrere Schritte hinter sich: Die Ausschreibungsbedingungen wurden veröffentlicht, die Liste der zugelassenen Bewerberinnen und Bewerber wurde geschlossen und die erste Prüfung wurde abgehalten.",
-          "Nur wer die erste Prüfung bestanden hat, darf nun zur zweiten Prüfung antreten. Die richtigen Antworten der ersten Phase sind veröffentlicht, sodass jede Bewerberin und jeder Bewerber die eigene Lage prüfen kann, bevor sie oder er antritt."
-        ],
-        "apunte": "Eine Fachstelle, zwei Prüfungen und jede Menge Papier: Auch das Rathaus hat seine Auswahlverfahren.",
-        "enVeinte": [
-          "Villaviciosa schreibt die zweite Prüfung seines Auswahlverfahrens zur Besetzung einer Stelle als Stadtarchitekt aus.",
-          "Das Verfahren verfügt bereits über eine endgültige Liste zugelassener Bewerberinnen und Bewerber und hat die erste Prüfung mit veröffentlichten Antworten abgeschlossen.",
-          "Nur Bewerberinnen und Bewerber, die die erste Prüfung bestanden haben, dürfen an der zweiten teilnehmen."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Die Besetzung dieser Stelle stärkt die technischen Dienste des Rathauses, was Baugenehmigungsverfahren für Einwohnerinnen und Einwohner sowie Bauträger in der Gemeinde beschleunigen könnte.",
         "lugar": "",
         "precio": ""
       }
