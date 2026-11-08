@@ -1,5 +1,301 @@
 [
   {
+    "id": "la-xii-espicha-solidaria-recauda-3-000-euros-y-reconoce-a-javier-gutie",
+    "url": "/villaviciosa/la-xii-espicha-solidaria-recauda-3-000-euros-y-reconoce-a-javier-gutie/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "La Espicha Solidaria recauda 3.000 euros en Villaviciosa",
+    "entradilla": "El actor Javier Gutiérrez recibió el título de Embajador de la Sidra de Asturies Solidaria 2026 en Llagar Cortina.",
+    "cuerpo": [
+      "La XII Espicha Solidaria contra el Cáncer se celebró el sábado 7 de noviembre en Llagar Cortina, en Villaviciosa. El encuentro, organizado por el Consejo Regulador de la DOP Sidra de Asturies y la Fundación Sandra Ibarra, reunió al sector sidrero con instituciones, colaboradores y público para sumar apoyos a quienes viven con la enfermedad.",
+      "Los 3.000 euros recaudados van a los proyectos de la Fundación Sandra Ibarra y su Escuela de Vida, que trabajan en el acompañamiento y la mejora de la calidad de vida de pacientes y supervivientes.",
+      "El momento más destacado fue la entrega de la placa a Javier Gutiérrez como embajador solidario del año. El actor agradeció el reconocimiento y pidió empatía ante el trabajo diario de la fundación. Se une así a nombres como Víctor Manuel, Carlos Franganillo o el Padre Ángel, que han pasado por esta iniciativa en ediciones anteriores."
+    ],
+    "apunte": "Una espicha donde la sidrina sirvió de excusa para hacer algo de bien.",
+    "enVeinte": [
+      "La XII Espicha Solidaria contra el Cáncer se celebró el 7 de noviembre en Llagar Cortina, en Villaviciosa.",
+      "El evento recaudó 3.000 euros para la Fundación Sandra Ibarra y su Escuela de Vida, que acompaña a pacientes y supervivientes de cáncer.",
+      "El actor Javier Gutiérrez fue nombrado Embajador de la Sidra de Asturies Solidaria 2026 y descubrió una placa en su honor en el llagar."
+    ],
+    "cifra": {
+      "numero": "3.000",
+      "unidad": "euros",
+      "glosa": "Lo recaudado en la espicha va íntegro a la Fundación Sandra Ibarra. Esta entidad dedica esos fondos al acompañamiento y la atención de personas que conviven con el cáncer, a través de su Escuela de Vida."
+    },
+    "palabra": {
+      "termino": "espicha",
+      "como": "espicha, como se dice por aquí; el acento va en la primera sílaba",
+      "definicion": "Celebración alrededor de un tonel de sidra recién abierto. En Asturias es ocasión de encuentro y convite, y en este caso lleva doce ediciones convertida en acto benéfico."
+    },
+    "porQue": "El dinero recaudado en casa, con sidra del país, llega directamente a una fundación que atiende a personas con cáncer; una causa que, tarde o temprano, toca a casi todas las familias del concejo.",
+    "etiquetas": [
+      "espicha solidaria",
+      "Villaviciosa",
+      "Fundación Sandra Ibarra",
+      "Javier Gutiérrez"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Llagar Cortina, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.lasidra.net/wp-content/uploads/2026/11/01-entrega-donacion-3000-euros-2026.jpg",
+    "fecha": "2026-11-08T07:34:24.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/xii-espicha-solidaria-3000-euros-javier-gutierrez-2026-2/",
+      "titularOriginal": "La XII Espicha Solidaria recauda 3.000 euros y reconoce a Javier Gutiérrez"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Espicha Solidaria raises 3,000 euros in Villaviciosa",
+        "entradilla": "Actor Javier Gutiérrez received the title of Embajador de la Sidra de Asturies Solidaria 2026 at Llagar Cortina.",
+        "cuerpo": [
+          "The XII Espicha Solidaria contra el Cáncer was held on Saturday 7 November at Llagar Cortina, in Villaviciosa. The event, organised by the Consejo Regulador de la DOP Sidra de Asturies and the Fundación Sandra Ibarra, brought together the cider sector with institutions, partners and the public to build support for those living with the disease.",
+          "The 3,000 euros raised go to the projects of the Fundación Sandra Ibarra and its Escuela de Vida, which works on accompanying and improving the quality of life of patients and survivors.",
+          "The highlight was the presentation of a plaque to Javier Gutiérrez as solidarity ambassador of the year. The actor expressed his gratitude for the recognition and called for empathy towards the foundation's daily work. He joins names such as Víctor Manuel, Carlos Franganillo and Padre Ángel, who have taken part in this initiative in previous editions."
+        ],
+        "apunte": "An espicha (a cider-tapping celebration) where the cider served as an excuse to do some good.",
+        "enVeinte": [
+          "The XII Espicha Solidaria contra el Cáncer was held on 7 November at Llagar Cortina, in Villaviciosa.",
+          "The event raised 3,000 euros for the Fundación Sandra Ibarra and its Escuela de Vida, which supports cancer patients and survivors.",
+          "Actor Javier Gutiérrez was named Embajador de la Sidra de Asturies Solidaria 2026 and unveiled a plaque in his honour at the llagar (cider mill)."
+        ],
+        "cifra": {
+          "numero": "3,000",
+          "unidad": "euros",
+          "glosa": "Every euro raised at the espicha goes directly to the Fundación Sandra Ibarra. The foundation uses these funds to accompany and care for people living with cancer, through its Escuela de Vida."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha, as it is said around here; the stress falls on the first syllable",
+          "definicion": "A celebration centred on a freshly opened barrel of cider. In Asturias it is an occasion for gathering and hospitality, and in this case it has run for twelve editions as a charitable event."
+        },
+        "porQue": "The money raised locally, over cider from the area, goes directly to a foundation that cares for people with cancer — a cause that, sooner or later, touches almost every family in the municipality.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Espicha Solidaria récolte 3 000 euros à Villaviciosa",
+        "entradilla": "L'acteur Javier Gutiérrez a reçu le titre d'Embajador de la Sidra de Asturies Solidaria 2026 au Llagar Cortina.",
+        "cuerpo": [
+          "La XII Espicha Solidaria contra el Cáncer s'est tenue le samedi 7 novembre au Llagar Cortina, à Villaviciosa. L'événement, organisé par le Consejo Regulador de la DOP Sidra de Asturies et la Fundación Sandra Ibarra, a réuni le secteur du cidre avec des institutions, des partenaires et le public afin de soutenir ceux qui vivent avec la maladie.",
+          "Les 3 000 euros récoltés iront aux projets de la Fundación Sandra Ibarra et de son Escuela de Vida, qui œuvre pour l'accompagnement et l'amélioration de la qualité de vie des patients et des survivants.",
+          "Le moment fort a été la remise d'une plaque à Javier Gutiérrez en tant qu'ambassadeur solidaire de l'année. L'acteur a remercié pour cette reconnaissance et a appelé à l'empathie envers le travail quotidien de la fondation. Il rejoint ainsi des noms tels que Víctor Manuel, Carlos Franganillo ou le Padre Ángel, qui ont participé à cette initiative lors d'éditions précédentes."
+        ],
+        "apunte": "Une espicha (fête autour d'un tonneau de cidre) où le cidre a servi de prétexte pour faire le bien.",
+        "enVeinte": [
+          "La XII Espicha Solidaria contra el Cáncer s'est tenue le 7 novembre au Llagar Cortina, à Villaviciosa.",
+          "L'événement a récolté 3 000 euros pour la Fundación Sandra Ibarra et son Escuela de Vida, qui accompagne les patients atteints de cancer et les survivants.",
+          "L'acteur Javier Gutiérrez a été nommé Embajador de la Sidra de Asturies Solidaria 2026 et a inauguré une plaque en son honneur au llagar (pressoir à cidre)."
+        ],
+        "cifra": {
+          "numero": "3 000",
+          "unidad": "euros",
+          "glosa": "Chaque euro récolté lors de l'espicha va directement à la Fundación Sandra Ibarra. La fondation consacre ces fonds à l'accompagnement et à la prise en charge des personnes vivant avec le cancer, à travers son Escuela de Vida."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha, comme on dit par ici ; l'accent tombe sur la première syllabe",
+          "definicion": "Fête organisée autour d'un tonneau de cidre fraîchement ouvert. En Asturies, c'est une occasion de rassemblement et de convivialité, et dans ce cas elle en est à sa douzième édition en tant qu'événement caritatif."
+        },
+        "porQue": "L'argent récolté ici, autour du cidre local, va directement à une fondation qui prend en charge des personnes atteintes de cancer — une cause qui, tôt ou tard, touche presque toutes les familles de la commune.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Espicha Solidaria sammelt 3.000 Euro in Villaviciosa",
+        "entradilla": "Der Schauspieler Javier Gutiérrez erhielt den Titel Embajador de la Sidra de Asturies Solidaria 2026 im Llagar Cortina.",
+        "cuerpo": [
+          "Die XII Espicha Solidaria contra el Cáncer fand am Samstag, dem 7. November, im Llagar Cortina in Villaviciosa statt. Die Veranstaltung, organisiert vom Consejo Regulador de la DOP Sidra de Asturies und der Fundación Sandra Ibarra, brachte den Cidre-Sektor mit Institutionen, Partnern und dem Publikum zusammen, um Menschen, die mit der Krankheit leben, Unterstützung zukommen zu lassen.",
+          "Die gesammelten 3.000 Euro gehen an die Projekte der Fundación Sandra Ibarra und ihrer Escuela de Vida, die sich für die Begleitung und die Verbesserung der Lebensqualität von Patienten und Überlebenden einsetzt.",
+          "Der Höhepunkt war die Überreichung einer Plakette an Javier Gutiérrez als Solidaritätsbotschafter des Jahres. Der Schauspieler bedankte sich für die Auszeichnung und bat um Verständnis für die tägliche Arbeit der Stiftung. Er reiht sich damit in Namen wie Víctor Manuel, Carlos Franganillo oder Padre Ángel ein, die in früheren Ausgaben an dieser Initiative teilgenommen haben."
+        ],
+        "apunte": "Eine espicha (ein Fest rund um ein frisch geöffnetes Cidrефass), bei der der Cidre als Anlass diente, Gutes zu tun.",
+        "enVeinte": [
+          "Die XII Espicha Solidaria contra el Cáncer fand am 7. November im Llagar Cortina in Villaviciosa statt.",
+          "Die Veranstaltung sammelte 3.000 Euro für die Fundación Sandra Ibarra und ihre Escuela de Vida, die Krebspatienten und Überlebende begleitet.",
+          "Der Schauspieler Javier Gutiérrez wurde zum Embajador de la Sidra de Asturies Solidaria 2026 ernannt und enthüllte eine Plakette zu seinen Ehren im llagar (Cidre-Presshaus)."
+        ],
+        "cifra": {
+          "numero": "3.000",
+          "unidad": "Euro",
+          "glosa": "Jeder bei der espicha gesammelte Euro geht direkt an die Fundación Sandra Ibarra. Die Stiftung verwendet diese Mittel für die Begleitung und Betreuung von Menschen, die mit Krebs leben, im Rahmen ihrer Escuela de Vida."
+        },
+        "palabra": {
+          "termino": "espicha",
+          "como": "espicha, wie man hier sagt; die Betonung liegt auf der ersten Silbe",
+          "definicion": "Ein Fest rund um ein frisch geöffnetes Cidrефass. Im Asturien ist es ein Anlass für Begegnung und Gastfreundschaft, und in diesem Fall findet es bereits zum zwölften Mal als Wohltätigkeitsveranstaltung statt."
+        },
+        "porQue": "Das vor Ort gesammelte Geld — beim Cidre aus der Region — geht direkt an eine Stiftung, die Menschen mit Krebs betreut: ein Anliegen, das früher oder später fast jede Familie in der Gemeinde berührt.",
+        "lugar": "Llagar Cortina, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "embajador de la sidra de asturies solidaria 2026",
+      "el sabado 7 de noviembre en llagar cortina",
+      "sabado 7 de noviembre en llagar cortina en",
+      "7 de noviembre en llagar cortina en villaviciosa",
+      "por el consejo regulador de la dop sidra",
+      "el consejo regulador de la dop sidra de",
+      "consejo regulador de la dop sidra de asturies",
+      "regulador de la dop sidra de asturies y",
+      "de la dop sidra de asturies y la",
+      "la dop sidra de asturies y la fundacion",
+      "dop sidra de asturies y la fundacion sandra",
+      "sidra de asturies y la fundacion sandra ibarra",
+      "de la fundacion sandra ibarra y su escuela",
+      "la fundacion sandra ibarra y su escuela de",
+      "fundacion sandra ibarra y su escuela de vida",
+      "y la mejora de la calidad de vida",
+      "la mejora de la calidad de vida de",
+      "mejora de la calidad de vida de pacientes",
+      "de la calidad de vida de pacientes y",
+      "la calidad de vida de pacientes y supervivientes"
+    ]
+  },
+  {
+    "id": "derrota-del-rodiles-ante-el-guadalcacin",
+    "url": "/villaviciosa/derrota-del-rodiles-ante-el-guadalcacin/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Rodiles cae ante el Guadalcacín por 3-4",
+    "entradilla": "Las maliayas remontaron dos veces pero no alcanzaron el empate en los últimos minutos.",
+    "cuerpo": [
+      "El Gaitero Rodiles perdió en casa frente al Guadalcacín por tres goles a cuatro. Las maliayas pusieron el marcador a su favor gracias a un penalti convertido por Jane Marqués y un tanto de Gabi, pero llegaron al descanso por debajo.",
+      "En la recta final, Angelia recortó distancias y el equipo de Santi Tuero estuvo cerca de igualar, aunque el Guadalcacín supo aguantar hasta el pitido final.",
+      "La derrota deja al Rodiles sin puntos en este partido pese a haber demostrado capacidad de reacción en dos momentos distintos del encuentro."
+    ],
+    "apunte": "Dos remontadas y una derrota: las maliayas lo intentaron hasta el final.",
+    "enVeinte": [
+      "El Gaitero Rodiles perdió 3-4 ante el Guadalcacín en un partido que estuvo peleado hasta el final.",
+      "Jane Marqués, de penalti, y Gabi pusieron el marcador a favor de las maliayas, pero no fue suficiente.",
+      "Un gol de Angelia en los últimos minutos acercó el empate, que finalmente no llegó."
+    ],
+    "cifra": {
+      "numero": "3-4",
+      "unidad": "goles",
+      "glosa": "El Rodiles marcó tres veces pero encajó cuatro. El marcador refleja un partido en el que las maliayas nunca se rindieron pero tampoco lograron igualar."
+    },
+    "palabra": {
+      "termino": "maliayas",
+      "como": "ma-lla-yas",
+      "definicion": "Apodo popular de las jugadoras y equipos de Villaviciosa, igual que se llama 'maliaya' al habitante de ese concejo. El término viene del asturiano y tiene raíces en la historia local."
+    },
+    "porQue": "El Rodiles es el equipo femenino de referencia del concejo: cada resultado importa a quien sigue el fútbol en Villaviciosa.",
+    "etiquetas": [
+      "Rodiles",
+      "fútbol femenino",
+      "Villaviciosa",
+      "Guadalcacín"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/06//20260610161231_RTPA8217113.webp",
+    "fecha": "2026-11-07T21:51:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-deportes/2026-11-07/Derrota-del-Rodiles-ante-el-Guadalcacin_111794088270.html",
+      "titularOriginal": "Derrota del Rodiles ante el Guadalcacín"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Rodiles fall to Guadalcacín 3-4",
+        "entradilla": "The maliayas came back twice but could not level in the final minutes.",
+        "cuerpo": [
+          "El Gaitero Rodiles lost at home to Guadalcacín by three goals to four. The maliayas took the lead thanks to a penalty converted by Jane Marqués and a goal from Gabi, but went into the break behind.",
+          "Late on, Angelia pulled one back and Santi Tuero's side came close to levelling, though Guadalcacín held on until the final whistle.",
+          "The defeat leaves Rodiles with no points from this match despite having shown the ability to fight back at two different moments in the game."
+        ],
+        "apunte": "Two comebacks and a defeat: the maliayas gave it everything until the end.",
+        "enVeinte": [
+          "El Gaitero Rodiles lost 3-4 to Guadalcacín in a match that was contested until the very end.",
+          "Jane Marqués, from the penalty spot, and Gabi put the maliayas ahead, but it was not enough.",
+          "A goal from Angelia in the closing minutes brought the equaliser close, but it never came."
+        ],
+        "cifra": {
+          "numero": "3-4",
+          "unidad": "goals",
+          "glosa": "Rodiles scored three times but conceded four. The scoreline reflects a match in which the maliayas never gave up but could not find the equaliser."
+        },
+        "palabra": {
+          "termino": "maliayas",
+          "como": "ma-lla-yas",
+          "definicion": "Popular nickname for the players and teams of Villaviciosa, just as a 'maliaya' is what a resident of that municipality is called. The word comes from Asturian and has roots in local history."
+        },
+        "porQue": "Rodiles is the reference women's team of the municipality: every result matters to anyone who follows football in Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Rodiles s'incline face à Guadalcacín sur le score de 3-4",
+        "entradilla": "Les maliayas ont remontés deux fois au score mais n'ont pas réussi à égaliser dans les dernières minutes.",
+        "cuerpo": [
+          "El Gaitero Rodiles a perdu à domicile face à Guadalcacín par trois buts à quatre. Les maliayas avaient pris l'avantage grâce à un penalty transformé par Jane Marqués et un but de Gabi, mais elles ont rejoint les vestiaires en position de déficit.",
+          "En fin de match, Angelia a réduit l'écart et l'équipe de Santi Tuero a failli égaliser, mais Guadalcacín a su tenir jusqu'au coup de sifflet final.",
+          "La défaite laisse Rodiles sans points dans cette rencontre, malgré une capacité de réaction démontrée à deux moments différents du match."
+        ],
+        "apunte": "Deux retours au score et une défaite : les maliayas ont tout donné jusqu'au bout.",
+        "enVeinte": [
+          "El Gaitero Rodiles a perdu 3-4 contre Guadalcacín dans un match disputé jusqu'au bout.",
+          "Jane Marqués, sur penalty, et Gabi avaient mis les maliayas devant, mais cela n'a pas suffi.",
+          "Un but d'Angelia dans les dernières minutes a failli amener l'égalisation, qui n'est finalement pas venue."
+        ],
+        "cifra": {
+          "numero": "3-4",
+          "unidad": "buts",
+          "glosa": "Rodiles a marqué trois fois mais en a encaissé quatre. Le score reflète un match dans lequel les maliayas n'ont jamais abandonné sans pour autant parvenir à égaliser."
+        },
+        "palabra": {
+          "termino": "maliayas",
+          "como": "ma-lla-yas",
+          "definicion": "Surnom populaire des joueuses et des équipes de Villaviciosa, tout comme on appelle « maliaya » l'habitant de cette commune. Le terme vient de l'asturien et trouve ses racines dans l'histoire locale."
+        },
+        "porQue": "Rodiles est l'équipe féminine de référence de la commune : chaque résultat compte pour celles et ceux qui suivent le football à Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Rodiles unterliegt Guadalcacín mit 3:4",
+        "entradilla": "Die maliayas kamen zweimal zurück, schafften den Ausgleich in der Schlussphase aber nicht.",
+        "cuerpo": [
+          "El Gaitero Rodiles verlor das Heimspiel gegen Guadalcacín mit drei zu vier Toren. Die maliayas gingen durch einen von Jane Marqués verwandelten Elfmeter und einen Treffer von Gabi in Führung, lagen zur Pause jedoch zurück.",
+          "In der Schlussphase verkürzte Angelia den Rückstand, und die Mannschaft von Santi Tuero war nah am Ausgleich – doch Guadalcacín hielt bis zum Abpfiff stand.",
+          "Die Niederlage lässt Rodiles ohne Punkte aus dieser Partie, obwohl das Team in zwei verschiedenen Phasen des Spiels seine Comeback-Fähigkeit unter Beweis gestellt hatte."
+        ],
+        "apunte": "Zwei Aufholjagden und eine Niederlage: Die maliayas kämpften bis zum Schluss.",
+        "enVeinte": [
+          "El Gaitero Rodiles verlor 3:4 gegen Guadalcacín in einer Partie, die bis zum Ende umkämpft war.",
+          "Jane Marqués per Elfmeter und Gabi brachten die maliayas in Führung – es reichte trotzdem nicht.",
+          "Ein Tor von Angelia in der Schlussphase brachte den Ausgleich in greifbare Nähe, der letztlich ausblieb."
+        ],
+        "cifra": {
+          "numero": "3:4",
+          "unidad": "Tore",
+          "glosa": "Rodiles traf dreimal, kassierte aber vier Tore. Das Ergebnis spiegelt ein Spiel wider, in dem die maliayas nie aufgaben, den Ausgleich jedoch nicht erzielen konnten."
+        },
+        "palabra": {
+          "termino": "maliayas",
+          "como": "ma-lla-yas",
+          "definicion": "Populärer Spitzname für die Spielerinnen und Mannschaften aus Villaviciosa – ebenso wie die Einwohner dieser Gemeinde als «maliayas» bezeichnet werden. Das Wort stammt aus dem Asturischen und hat seine Wurzeln in der lokalen Geschichte."
+        },
+        "porQue": "Rodiles ist das führende Frauenfußballteam der Gemeinde: Jedes Ergebnis zählt für alle, die den Fußball in Villaviciosa verfolgen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-",
     "url": "/cabrales/la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-/",
     "concejo": "Cabrales",
