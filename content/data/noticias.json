@@ -1,5 +1,122 @@
 [
   {
+    "id": "villaviciosa-recupera-mas-de-70-hectareas-municipales-para-destinarlas",
+    "url": "/villaviciosa/villaviciosa-recupera-mas-de-70-hectareas-municipales-para-destinarlas/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa pone 70 hectáreas municipales en producción",
+    "entradilla": "El concejo saca a concurso más tierra agroganadeira que en ningún momento de los últimos veinte años.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha decidido poner a disposición de ganaderos y agricultores más de 70 hectáreas de terreno municipal, la mayor bolsa de suelo público de este tipo que se oferta en dos décadas.",
+      "El equipo de gobierno defiende que el patrimonio municipal tiene que rendir, y que estos terrenos —hasta ahora sin uso productivo— deben volver al campo."
+    ],
+    "apunte": "Veinte años esperando: el monte municipal se pone a trabajar.",
+    "enVeinte": [
+      "Villaviciosa saca a concurso más de 70 hectáreas de terreno municipal para uso agroganadeiro.",
+      "Es la mayor oferta de suelo público de este tipo que lanza el concejo en veinte años.",
+      "El gobierno local quiere que ese patrimonio rinda en lugar de quedarse sin uso."
+    ],
+    "cifra": {
+      "numero": "70",
+      "unidad": "hectáreas",
+      "glosa": "Setenta hectáreas equivalen a unos cien campos de fútbol. Es la superficie de terreno municipal que Villaviciosa pone a disposición del sector agroganadeiro, más de lo que se había ofertado en conjunto en los últimos veinte años."
+    },
+    "palabra": null,
+    "porQue": "Ganaderos y agricultores del concejo tendrán acceso a tierra pública que llevaba años sin producir, lo que puede aliviar la escasez de prados y pastos en la zona.",
+    "etiquetas": [
+      "Villaviciosa",
+      "ganadería",
+      "patrimonio municipal",
+      "agricultura"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/08/monte-cubera-general-RAbdTCgmghSHWi4jKPtUlEO-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-08T16:24:19.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-recupera-hectareas-municipales-destinarlas-usos-agroganaderos-20261108172419-nt.html",
+      "titularOriginal": "Villaviciosa recupera más de 70 hectáreas municipales para destinarlas a usos agroganaderos"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa puts 70 municipal hectares into production",
+        "entradilla": "The municipality is opening more farmland and grazing land to tender than at any point in the last twenty years.",
+        "cuerpo": [
+          "Villaviciosa council has decided to make more than 70 hectares of municipal land available to livestock farmers and crop growers — the largest pool of public land of this kind offered in two decades.",
+          "The governing team argues that municipal assets must yield returns, and that these plots — until now without productive use — should return to agricultural use."
+        ],
+        "apunte": "Twenty years waiting: the municipal common land gets back to work.",
+        "enVeinte": [
+          "Villaviciosa is putting more than 70 hectares of municipal land out to tender for farming and livestock use.",
+          "It is the largest offer of public land of this kind the municipality has launched in twenty years.",
+          "The local government wants those assets to generate returns rather than sit idle."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "hectares",
+          "glosa": "Seventy hectares is roughly the equivalent of a hundred football pitches. It is the area of municipal land that Villaviciosa is making available to the farming and livestock sector — more than had been offered in total over the last twenty years."
+        },
+        "palabra": null,
+        "porQue": "Livestock farmers and crop growers in the municipality will gain access to public land that had been unproductive for years, which could ease the shortage of meadows and grazing pastures in the area.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa met 70 hectares municipaux en production",
+        "entradilla": "La commune lance un appel d'offres portant sur plus de terres agro-pastorales que jamais au cours des vingt dernières années.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a décidé de mettre à la disposition des éleveurs et des agriculteurs plus de 70 hectares de terrain municipal, la plus grande réserve de foncier public de ce type proposée depuis vingt ans.",
+          "L'équipe municipale soutient que le patrimoine de la commune doit être rentabilisé, et que ces terrains — jusqu'alors sans usage productif — doivent retourner à l'agriculture."
+        ],
+        "apunte": "Vingt ans d'attente : les terres communales se remettent au travail.",
+        "enVeinte": [
+          "Villaviciosa lance un appel d'offres portant sur plus de 70 hectares de terrain municipal à usage agricole et pastoral.",
+          "C'est la plus grande offre de foncier public de ce type que la commune ait lancée en vingt ans.",
+          "Le gouvernement local souhaite que ce patrimoine soit valorisé plutôt que laissé à l'abandon."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "hectares",
+          "glosa": "Soixante-dix hectares équivalent à environ cent terrains de football. C'est la superficie de terrain municipal que Villaviciosa met à la disposition du secteur agro-pastoral, soit plus que ce qui avait été proposé au total au cours des vingt dernières années."
+        },
+        "palabra": null,
+        "porQue": "Les éleveurs et les agriculteurs de la commune auront accès à des terres publiques qui ne produisaient plus rien depuis des années, ce qui pourrait atténuer la pénurie de prairies et de pâturages dans la zone.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa bringt 70 Gemeindeflächen in Bewirtschaftung",
+        "entradilla": "Die Gemeinde schreibt mehr land- und viehwirtschaftliche Flächen aus als zu irgendeinem Zeitpunkt der vergangenen zwanzig Jahre.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat beschlossen, Viehzüchtern und Landwirten mehr als 70 Hektar kommunalen Grund zur Verfügung zu stellen — das größte Angebot an öffentlichem Boden dieser Art seit zwei Jahrzehnten.",
+          "Das Regierungsteam vertritt die Auffassung, dass das kommunale Vermögen Erträge erwirtschaften muss und dass diese Flächen — bislang ohne produktive Nutzung — wieder in landwirtschaftliche Nutzung überführt werden sollen."
+        ],
+        "apunte": "Zwanzig Jahre gewartet: Das kommunale Land geht wieder an die Arbeit.",
+        "enVeinte": [
+          "Villaviciosa schreibt mehr als 70 Hektar kommunalen Grund für land- und viehwirtschaftliche Nutzung aus.",
+          "Es ist das größte Angebot an öffentlichem Boden dieser Art, das die Gemeinde seit zwanzig Jahren auf den Markt bringt.",
+          "Die Kommunalverwaltung möchte, dass dieses Vermögen Erträge bringt, statt brach zu liegen."
+        ],
+        "cifra": {
+          "numero": "70",
+          "unidad": "Hektar",
+          "glosa": "Siebzig Hektar entsprechen etwa hundert Fußballfeldern. Das ist die Fläche kommunalen Grund und Bodens, die Villaviciosa dem land- und viehwirtschaftlichen Sektor zur Verfügung stellt — mehr als in den vergangenen zwanzig Jahren insgesamt angeboten wurde."
+        },
+        "palabra": null,
+        "porQue": "Viehzüchter und Landwirte der Gemeinde erhalten Zugang zu öffentlichem Land, das seit Jahren ungenutzt war, was den Mangel an Wiesen und Weiden in der Region lindern könnte.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-xii-espicha-solidaria-recauda-3-000-euros-y-reconoce-a-javier-gutie",
     "url": "/villaviciosa/la-xii-espicha-solidaria-recauda-3-000-euros-y-reconoce-a-javier-gutie/",
     "concejo": "Villaviciosa",
