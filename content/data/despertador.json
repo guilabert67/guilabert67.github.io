@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-08T19:39:39.202Z",
+  "fecha": "2026-11-09T10:29:31.914Z",
   "puntos": [
     {
+      "concejo": "Cabrales",
+      "frase": "Rescatan de noche a un senderista perdido en las laderas del Urriellu.",
+      "enlace": "/cabrales/rescatan-a-un-senderista-en-cabrales-que-se-perdio-cuando-anochecio-mi/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa pone 70 hectáreas municipales en producción: más tierra que en veinte años.",
-      "enlace": "/villaviciosa/villaviciosa-recupera-mas-de-70-hectareas-municipales-para-destinarlas/"
+      "frase": "Villaviciosa ya tiene candidatos y fecha para elegir arquitecto/a jefe.",
+      "enlace": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Ayuntamiento de Villaviciosa busca coordinador de informática por concurso.",
+      "enlace": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/"
     }
   ]
 }

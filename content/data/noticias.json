@@ -1,5 +1,362 @@
 [
   {
+    "id": "rescatan-a-un-senderista-en-cabrales-que-se-perdio-cuando-anochecio-mi",
+    "url": "/cabrales/rescatan-a-un-senderista-en-cabrales-que-se-perdio-cuando-anochecio-mi/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Rescatan a un senderista perdido en Urriellu",
+    "entradilla": "La noche lo pilló a más de mil metros de altitud cuando subía al pico.",
+    "cuerpo": [
+      "Un senderista tuvo que ser rescatado en Cabrales tras perderse al caer la noche mientras ascendía al pico Urriellu. Los Bomberos lo localizaron a unos 1.053 metros de altitud.",
+      "El equipo de rescate lo bajó hasta Arenas de Cabrales, donde quedó a salvo."
+    ],
+    "apunte": "El Urriellu no perdona a quien le pierde el respeto al horario.",
+    "enVeinte": [
+      "Un senderista se perdió en el Urriellu al anochecer durante la subida al pico.",
+      "Los Bomberos lo encontraron a más de mil metros de altitud.",
+      "Lo trasladaron sano y salvo hasta Arenas de Cabrales."
+    ],
+    "cifra": {
+      "numero": "1.053",
+      "unidad": "metros de altitud",
+      "glosa": "A esa altura se encontraba el senderista cuando lo localizaron. Es una cota exigente: el Urriellu supera los 2.500 metros en su cumbre, así que el rescate se produjo en la parte media-baja de la ascensión."
+    },
+    "palabra": null,
+    "porQue": "El Urriellu atrae cada temporada a senderistas de fuera que subestiman la montaña; cuando los rescates se multiplican, son los equipos de emergencia del concejo los que cargan con el trabajo.",
+    "etiquetas": [
+      "rescate",
+      "Cabrales",
+      "Urriellu",
+      "senderismo"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/09/rescate-cabrales-kuI-U40250797466UKF-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-09T09:41:16.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/rescatan-senderista-cabrales-perdio-noche-urriellu-20261109102520-nt.html",
+      "titularOriginal": "Rescatan a un senderista en Cabrales que se perdió cuando anocheció mientras subía al pico Urriellu"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Hiker rescued on Urriellu",
+        "entradilla": "Night caught him above a thousand metres as he was climbing the peak.",
+        "cuerpo": [
+          "A hiker had to be rescued in the Cabrales municipality after getting lost when darkness fell while he was ascending Urriellu peak. The fire brigade located him at around 1,053 metres above sea level.",
+          "The rescue team brought him down to Arenas de Cabrales, where he was safe."
+        ],
+        "apunte": "Urriellu has no patience for those who lose respect for the timetable.",
+        "enVeinte": [
+          "A hiker got lost on Urriellu at nightfall during the ascent.",
+          "The fire brigade found him at over a thousand metres above sea level.",
+          "He was brought safely down to Arenas de Cabrales."
+        ],
+        "cifra": {
+          "numero": "1,053",
+          "unidad": "metres above sea level",
+          "glosa": "That was the altitude at which the hiker was found. It is a demanding elevation: Urriellu exceeds 2,500 metres at its summit, so the rescue took place in the lower-middle section of the climb."
+        },
+        "palabra": null,
+        "porQue": "Urriellu attracts hikers from outside the area every season who underestimate the mountain; when rescues pile up, it is the emergency teams of the municipality who bear the burden.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un randonneur secouru sur l'Urriellu",
+        "entradilla": "La nuit l'a surpris à plus de mille mètres d'altitude alors qu'il montait vers le sommet.",
+        "cuerpo": [
+          "Un randonneur a dû être secouru dans la commune de Cabrales après s'être perdu à la tombée de la nuit pendant son ascension du pic Urriellu. Les pompiers l'ont localisé à environ 1 053 mètres d'altitude.",
+          "L'équipe de secours l'a ramené jusqu'à Arenas de Cabrales, où il se trouvait en sécurité."
+        ],
+        "apunte": "L'Urriellu ne pardonne pas à ceux qui ne respectent pas les horaires.",
+        "enVeinte": [
+          "Un randonneur s'est perdu sur l'Urriellu à la nuit tombante pendant la montée vers le sommet.",
+          "Les pompiers l'ont retrouvé à plus de mille mètres d'altitude.",
+          "Il a été ramené sain et sauf jusqu'à Arenas de Cabrales."
+        ],
+        "cifra": {
+          "numero": "1 053",
+          "unidad": "mètres d'altitude",
+          "glosa": "C'est l'altitude à laquelle le randonneur a été retrouvé. C'est une cote exigeante : l'Urriellu dépasse les 2 500 mètres à son sommet, si bien que le sauvetage a eu lieu dans la partie médiane-basse de l'ascension."
+        },
+        "palabra": null,
+        "porQue": "L'Urriellu attire chaque saison des randonneurs venus d'ailleurs qui sous-estiment la montagne ; quand les sauvetages se multiplient, ce sont les équipes de secours de la commune qui en supportent la charge.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Wanderer am Urriellu gerettet",
+        "entradilla": "Die Nacht überraschte ihn auf über tausend Metern Höhe beim Aufstieg zum Gipfel.",
+        "cuerpo": [
+          "Ein Wanderer musste in der Gemeinde Cabrales gerettet werden, nachdem er sich beim Einbruch der Dunkelheit während des Aufstiegs zum Pico Urriellu verirrt hatte. Die Feuerwehr fand ihn in etwa 1.053 Metern Höhe.",
+          "Das Rettungsteam brachte ihn nach Arenas de Cabrales, wo er in Sicherheit war."
+        ],
+        "apunte": "Der Urriellu verzeiht es nicht, wenn man den Zeitplan nicht ernst nimmt.",
+        "enVeinte": [
+          "Ein Wanderer verirrte sich beim Einbruch der Nacht am Urriellu während des Aufstiegs.",
+          "Die Feuerwehr fand ihn auf über tausend Metern Höhe.",
+          "Er wurde wohlbehalten nach Arenas de Cabrales gebracht."
+        ],
+        "cifra": {
+          "numero": "1.053",
+          "unidad": "Meter über dem Meeresspiegel",
+          "glosa": "In dieser Höhe wurde der Wanderer gefunden. Das ist eine anspruchsvolle Höhenlage: Der Urriellu übersteigt an seinem Gipfel 2.500 Meter, sodass die Rettung im unteren bis mittleren Bereich des Aufstiegs stattfand."
+        },
+        "palabra": null,
+        "porQue": "Der Urriellu zieht jede Saison Wanderer von außerhalb an, die den Berg unterschätzen; wenn die Rettungseinsätze zunehmen, sind es die Einsatzkräfte der Gemeinde, die die Last tragen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien",
+    "url": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa busca coordinador de informática",
+    "entradilla": "El Ayuntamiento abre un concurso de méritos para cubrir una plaza técnica que lleva pendiente desde la oferta de empleo de 2026.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto en marcha el proceso selectivo para contratar a un coordinador o coordinadora de Informática. La plaza se cubre por concurso específico de méritos, lo que significa que se valora el historial profesional de los candidatos, no una oposición al uso.",
+      "La convocatoria está publicada en el BOPA y deriva de la Oferta de Empleo Público del año 2026. Quienes estén interesados deben consultar el anuncio oficial para conocer plazos, requisitos y documentación exigida."
+    ],
+    "apunte": "Si tienes curriculum y sabes de redes, el Ayuntamiento te está esperando.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca un concurso de méritos para cubrir una plaza de coordinador o coordinadora de Informática.",
+      "La plaza forma parte de la Oferta de Empleo Público de 2026 y la selección se basa en los méritos acreditados, no en examen.",
+      "La convocatoria está publicada en el BOPA; hay que acudir al anuncio oficial para conocer plazos y requisitos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concurso de méritos",
+      "como": "concurso de méritos",
+      "definicion": "Sistema de selección para plazas públicas en el que no hay examen: se puntúa lo que el candidato ha hecho antes, experiencia, cursos y titulaciones. Distinto de la oposición clásica, donde se juega todo en el examen del día."
+    },
+    "porQue": "Cubrir esta plaza mejora la gestión interna del Ayuntamiento y, a la larga, los servicios digitales que el vecino ya usa o usará: sede electrónica, trámites en línea, atención municipal.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "informática",
+      "concurso de méritos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-09T09:13:20.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20224914",
+      "titularOriginal": "Procedimiento selectivo de Coordinador/a de Informática del Ayuntamiento de Villaviciosa",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks an IT coordinator",
+        "entradilla": "The council is running a merit-based competition to fill a technical post that has been pending since the 2026 public employment offer.",
+        "cuerpo": [
+          "Villaviciosa council has launched the selection process to hire an IT coordinator. The post is filled through a specific merit-based competition, meaning candidates are assessed on their professional track record, not through a traditional competitive exam.",
+          "The call is published in the BOPA and stems from the 2026 Public Employment Offer. Those interested should consult the official notice for deadlines, requirements and required documentation."
+        ],
+        "apunte": "If you have a CV and know your way around networks, the council is waiting for you.",
+        "enVeinte": [
+          "Villaviciosa council is running a merit-based competition to fill an IT coordinator post.",
+          "The post is part of the 2026 Public Employment Offer and selection is based on proven merits, not an exam.",
+          "The call is published in the BOPA; the official notice must be consulted for deadlines and requirements."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "A selection process for public posts in which there is no exam: candidates are scored on what they have done before — experience, training courses and qualifications. This is different from the classic oposición, where everything rides on the exam on the day."
+        },
+        "porQue": "Filling this post improves the council's internal management and, in the long run, the digital services that residents already use or will use: the electronic office, online procedures, municipal assistance.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un coordinateur informatique",
+        "entradilla": "La mairie ouvre un concours sur titres pour pourvoir un poste technique en attente depuis l'offre d'emploi public de 2026.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a lancé le processus de sélection pour recruter un coordinateur ou une coordinatrice informatique. Le poste est pourvu par un concours spécifique sur titres, ce qui signifie que c'est le parcours professionnel des candidats qui est évalué, et non une épreuve classique.",
+          "L'appel à candidatures est publié au BOPA et découle de l'offre d'emploi public de 2026. Les personnes intéressées doivent consulter l'annonce officielle pour connaître les délais, les conditions requises et les documents à fournir."
+        ],
+        "apunte": "Si vous avez un CV et que vous connaissez les réseaux, la mairie vous attend.",
+        "enVeinte": [
+          "La mairie de Villaviciosa ouvre un concours sur titres pour pourvoir un poste de coordinateur ou coordinatrice informatique.",
+          "Le poste fait partie de l'offre d'emploi public de 2026 et la sélection repose sur les mérites justifiés, sans épreuve écrite.",
+          "L'appel est publié au BOPA ; il faut consulter l'annonce officielle pour connaître les délais et les conditions requises."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "Mode de sélection pour les postes publics sans épreuve écrite : les candidats sont évalués sur ce qu'ils ont accompli auparavant — expérience, formations et diplômes. C'est différent de l'oposición classique, où tout se joue lors de l'examen du jour."
+        },
+        "porQue": "Pourvoir ce poste améliore la gestion interne de la mairie et, à terme, les services numériques que les habitants utilisent déjà ou utiliseront : guichet électronique, démarches en ligne, assistance municipale.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht einen IT-Koordinator",
+        "entradilla": "Das Rathaus schreibt einen Leistungswettbewerb aus, um eine Fachstelle zu besetzen, die seit dem Stellenangebot von 2026 aussteht.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat das Auswahlverfahren zur Einstellung eines IT-Koordinators bzw. einer IT-Koordinatorin eingeleitet. Die Stelle wird über einen spezifischen Leistungswettbewerb besetzt, was bedeutet, dass der berufliche Werdegang der Bewerberinnen und Bewerber bewertet wird und keine klassische Prüfung stattfindet.",
+          "Die Ausschreibung ist im BOPA veröffentlicht und geht auf das öffentliche Stellenangebot von 2026 zurück. Interessierte sollten die offizielle Bekanntmachung einsehen, um Fristen, Voraussetzungen und erforderliche Unterlagen zu erfahren."
+        ],
+        "apunte": "Wer einen Lebenslauf hat und sich mit Netzwerken auskennt: Das Rathaus wartet auf Sie.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt einen Leistungswettbewerb zur Besetzung einer Stelle als IT-Koordinator bzw. IT-Koordinatorin aus.",
+          "Die Stelle ist Teil des öffentlichen Stellenangebots von 2026; die Auswahl basiert auf nachgewiesenen Leistungen, nicht auf einer Prüfung.",
+          "Die Ausschreibung ist im BOPA veröffentlicht; die offizielle Bekanntmachung muss für Fristen und Anforderungen eingesehen werden."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concurso de méritos",
+          "definicion": "Auswahlverfahren für öffentliche Stellen ohne Prüfung: Bewerberinnen und Bewerber werden anhand ihrer bisherigen Leistungen bewertet — Berufserfahrung, Fortbildungen und Qualifikationen. Dies unterscheidet sich von der klassischen oposición, bei der alles von der Prüfung am jeweiligen Tag abhängt."
+        },
+        "porQue": "Die Besetzung dieser Stelle verbessert die interne Verwaltung des Rathauses und langfristig die digitalen Dienste, die die Einwohnerinnen und Einwohner bereits nutzen oder künftig nutzen werden: elektronisches Amt, Online-Verfahren, kommunale Beratung.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "de la oferta de empleo publico del ano",
+      "la oferta de empleo publico del ano 2026"
+    ]
+  },
+  {
+    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
+    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca arquitecto/a jefe con concurso de méritos",
+    "entradilla": "El Ayuntamiento ya tiene la lista definitiva de candidatos y la fecha en que el tribunal valorará los expedientes.",
+    "cuerpo": [
+      "El Consistorio de Villaviciosa ha puesto en marcha el proceso para cubrir la plaza de arquitecto o arquitecta jefe, un puesto que sale de la Oferta de Empleo Público de 2026 y que se adjudicará por concurso de méritos.",
+      "El procedimiento ha avanzado: ya está publicada la lista definitiva de personas admitidas y excluidas, se ha designado el tribunal y se conoce la fecha en que comenzará la valoración de los expedientes."
+    ],
+    "apunte": "La técnica que revisa lo que se construye en el concejo lleva, al parecer, un tiempo sin titular fijo.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca un concurso de méritos para cubrir la plaza de arquitecto o arquitecta jefe.",
+      "La lista definitiva de aspirantes admitidos y excluidos ya está publicada junto con la composición del tribunal.",
+      "El proceso arranca de la Oferta de Empleo Público de 2026 y la valoración de méritos tiene fecha fijada."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concurso de méritos",
+      "como": "concurso de méritos",
+      "definicion": "Sistema de selección en el que no hay examen de oposición: quien más puntuación acumula por su historial profesional, formación y experiencia se queda con la plaza. Es la vía habitual para proveer puestos de promoción interna en las administraciones públicas."
+    },
+    "porQue": "Cubrir esta plaza significa que el concejo tendrá técnico municipal de referencia para licencias de obra, planeamiento y control urbanístico, servicios que afectan a cualquier vecino que quiera construir o reformar.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "Ayuntamiento",
+      "arquitectura"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-09T09:02:56.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
+      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks a chief architect through a merit-based competition",
+        "entradilla": "The council has already published the final list of candidates and the date on which the panel will assess the applications.",
+        "cuerpo": [
+          "The Consistorio de Villaviciosa has launched the process to fill the post of chief architect, a position arising from the 2026 Public Employment Offer that will be awarded through a merit-based competition.",
+          "The procedure has moved forward: the final list of admitted and excluded applicants has been published, the panel has been appointed, and the date on which the assessment of applications will begin is now known."
+        ],
+        "apunte": "The officer who reviews what is built in the municipality has apparently been without a permanent holder for some time.",
+        "enVeinte": [
+          "The council of Villaviciosa is holding a merit-based competition to fill the post of chief architect.",
+          "The final list of admitted and excluded applicants has been published along with the composition of the panel.",
+          "The process stems from the 2026 Public Employment Offer and a date has been set for the merit assessment."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "con-COOR-so de MEH-ree-tos",
+          "definicion": "A selection system in which there is no competitive examination: the applicant who accumulates the highest score based on their professional track record, qualifications and experience wins the post. It is the standard route for filling internal promotion vacancies in public administrations."
+        },
+        "porQue": "Filling this post means the municipality will have a permanent in-house technical officer responsible for building licences, planning and urban development oversight — services that affect any resident who wants to build or renovate.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un(e) architecte en chef par concours sur titres",
+        "entradilla": "La mairie a déjà publié la liste définitive des candidats et la date à laquelle le jury examinera les dossiers.",
+        "cuerpo": [
+          "Le Consistorio de Villaviciosa a lancé la procédure pour pourvoir le poste d'architecte en chef, un emploi issu de l'Offre d'Emploi Public 2026 qui sera attribué par concours sur titres.",
+          "La procédure a avancé : la liste définitive des candidats admis et exclus est publiée, le jury est désigné et la date à laquelle débutera l'examen des dossiers est connue."
+        ],
+        "apunte": "Le technicien chargé de contrôler les constructions dans la commune serait sans titulaire fixe depuis un certain temps.",
+        "enVeinte": [
+          "La mairie de Villaviciosa organise un concours sur titres pour pourvoir le poste d'architecte en chef.",
+          "La liste définitive des candidats admis et exclus est publiée, ainsi que la composition du jury.",
+          "La procédure découle de l'Offre d'Emploi Public 2026 et une date est fixée pour l'évaluation des titres."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "kon-KOUR-so de MEH-ri-tos",
+          "definicion": "Système de sélection sans épreuve de concours : le candidat qui cumule le plus de points grâce à son parcours professionnel, sa formation et son expérience obtient le poste. C'est la voie habituelle pour pourvoir les emplois de promotion interne dans les administrations publiques."
+        },
+        "porQue": "Pourvoir ce poste signifie que la commune disposera d'un technicien municipal de référence pour les permis de construire, l'urbanisme et le contrôle des constructions — des services qui concernent tout habitant souhaitant construire ou rénover.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht eine Chefarchitektin oder einen Chefarchitekten per Leistungswettbewerb",
+        "entradilla": "Das Rathaus hat bereits die endgültige Bewerberliste und das Datum veröffentlicht, an dem die Kommission die Unterlagen bewertet.",
+        "cuerpo": [
+          "Das Consistorio de Villaviciosa hat das Verfahren zur Besetzung der Stelle der Chefarchitektin bzw. des Chefarchitekten eingeleitet — ein Posten aus dem Öffentlichen Stellenangebot 2026, der per Leistungswettbewerb vergeben wird.",
+          "Das Verfahren hat Fortschritte gemacht: Die endgültige Liste der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber ist veröffentlicht, die Kommission ist ernannt und das Datum, an dem die Bewertung der Unterlagen beginnt, steht fest."
+        ],
+        "apunte": "Die Fachkraft, die die Bauvorhaben in der Gemeinde kontrolliert, soll seit einiger Zeit keine feste Stelleninhaberin bzw. keinen festen Stelleninhaber haben.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt einen Leistungswettbewerb zur Besetzung der Stelle der Chefarchitektin bzw. des Chefarchitekten aus.",
+          "Die endgültige Liste der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber sowie die Zusammensetzung der Kommission sind veröffentlicht.",
+          "Das Verfahren geht auf das Öffentliche Stellenangebot 2026 zurück; für die Leistungsbewertung ist ein Termin festgesetzt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "kon-KOUR-so de MEH-ri-tos",
+          "definicion": "Ein Auswahlverfahren ohne schriftliche Prüfung: Wer aufgrund von Berufserfahrung, Ausbildung und Werdegang die meisten Punkte erzielt, erhält die Stelle. Es ist der übliche Weg zur Besetzung von Beförderungsstellen im öffentlichen Dienst."
+        },
+        "porQue": "Die Besetzung dieser Stelle bedeutet, dass die Gemeinde eine feste kommunale Fachkraft für Baugenehmigungen, Stadtplanung und Bauaufsicht haben wird — Leistungen, die jeden Einwohner betreffen, der bauen oder sanieren möchte.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-recupera-mas-de-70-hectareas-municipales-para-destinarlas",
     "url": "/villaviciosa/villaviciosa-recupera-mas-de-70-hectareas-municipales-para-destinarlas/",
     "concejo": "Villaviciosa",
@@ -43439,240 +43796,6 @@
         "cifra": null,
         "palabra": null,
         "porQue": "Wer wissen möchte, wann er wieder im städtischen Schwimmbad schwimmen kann, hat nun einen Anhaltspunkt: Dezember ist der Zeithorizont.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "licitada-en-111-000-euros-la-reforestacion-de-13-hectareas-del-monte-c",
-    "url": "/pilona/licitada-en-111-000-euros-la-reforestacion-de-13-hectareas-del-monte-c/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "avisos",
-    "titular": "Piloña replanta 14.000 pinos en Cuesta de Coya",
-    "entradilla": "El Ayuntamiento saca a concurso la reforestación de 13 hectáreas quemadas en el Monte Cuesta de Coya y Ques por 111.000 euros.",
-    "cuerpo": [
-      "La zona afectada por un incendio forestal volverá a tener arbolado. El concejo de Piloña ha licitado los trabajos de reforestación de 13 hectáreas en el Monte Cuesta de Coya y Ques, con un presupuesto de 111.000 euros.",
-      "La actuación prevé plantar 14.000 pinos en el área dañada por el fuego."
-    ],
-    "apunte": "14.000 pinos para tapar la cicatriz que dejó el fuego.",
-    "enVeinte": [
-      "Piloña licita por 111.000 euros la reforestación de 13 hectáreas en el Monte Cuesta de Coya y Ques.",
-      "La zona fue dañada por un incendio forestal y el proyecto contempla plantar 14.000 pinos.",
-      "El concejo pone en marcha el concurso para adjudicar los trabajos."
-    ],
-    "cifra": {
-      "numero": "14.000",
-      "unidad": "pinos",
-      "glosa": "Son los árboles que se plantarán en las 13 hectáreas quemadas del Monte Cuesta de Coya y Ques. A modo de referencia, 13 hectáreas equivalen a unos 18 campos de fútbol."
-    },
-    "palabra": null,
-    "porQue": "Recuperar masa forestal quemada reduce el riesgo de erosión y devuelve al monte parte de lo que el fuego se llevó.",
-    "etiquetas": [
-      "reforestación",
-      "incendio forestal",
-      "Monte Cuesta de Coya",
-      "Piloña"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/11/2026081111083891028.jpg",
-    "fecha": "2026-08-11T10:00:00.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/licitada-reforestacion-monte-cuesta-coya-ques/20260811120000101578.html",
-      "titularOriginal": "Licitada en 111.000 euros la reforestación de 13 hectáreas del Monte Cuesta de Coya y Ques,"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Piloña replants 14,000 pines at Cuesta de Coya",
-        "entradilla": "The council puts out to tender the reforestation of 13 hectares burned on Monte Cuesta de Coya y Ques for 111,000 euros.",
-        "cuerpo": [
-          "The area affected by a forest fire will have trees again. The municipality of Piloña has put out to tender the reforestation works covering 13 hectares on Monte Cuesta de Coya y Ques, with a budget of 111,000 euros.",
-          "The project plans to plant 14,000 pine trees in the area damaged by the fire."
-        ],
-        "apunte": "14,000 pines to cover the scar left by the fire.",
-        "enVeinte": [
-          "Piloña puts out to tender the reforestation of 13 hectares on Monte Cuesta de Coya y Ques for 111,000 euros.",
-          "The area was damaged by a forest fire and the project plans to plant 14,000 pine trees.",
-          "The municipality launches the tender to award the works."
-        ],
-        "cifra": {
-          "numero": "14,000",
-          "unidad": "pine trees",
-          "glosa": "These are the trees to be planted across the 13 burned hectares of Monte Cuesta de Coya y Ques. For reference, 13 hectares is roughly the size of 18 football pitches."
-        },
-        "palabra": null,
-        "porQue": "Restoring burned woodland reduces the risk of erosion and gives back to the hillside part of what the fire took away.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Piloña replante 14 000 pins à Cuesta de Coya",
-        "entradilla": "La mairie lance un appel d'offres pour le reboisement de 13 hectares brûlés sur le Monte Cuesta de Coya y Ques, pour un montant de 111 000 euros.",
-        "cuerpo": [
-          "La zone touchée par un incendie de forêt va retrouver ses arbres. La commune de Piloña a lancé un appel d'offres pour les travaux de reboisement de 13 hectares sur le Monte Cuesta de Coya y Ques, avec un budget de 111 000 euros.",
-          "Le projet prévoit de planter 14 000 pins dans la zone endommagée par le feu."
-        ],
-        "apunte": "14 000 pins pour effacer la cicatrice laissée par le feu.",
-        "enVeinte": [
-          "Piloña lance un appel d'offres pour le reboisement de 13 hectares sur le Monte Cuesta de Coya y Ques pour 111 000 euros.",
-          "La zone a été endommagée par un incendie de forêt et le projet prévoit de planter 14 000 pins.",
-          "La commune lance la procédure d'appel d'offres pour attribuer les travaux."
-        ],
-        "cifra": {
-          "numero": "14 000",
-          "unidad": "pins",
-          "glosa": "C'est le nombre d'arbres qui seront plantés sur les 13 hectares brûlés du Monte Cuesta de Coya y Ques. Pour donner une idée, 13 hectares correspondent à environ 18 terrains de football."
-        },
-        "palabra": null,
-        "porQue": "Restaurer une forêt brûlée réduit le risque d'érosion et rend à la montagne une partie de ce que le feu lui a pris.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Piloña pflanzt 14.000 Kiefern am Cuesta de Coya neu",
-        "entradilla": "Das Rathaus schreibt die Aufforstung von 13 verbrannten Hektar am Monte Cuesta de Coya y Ques für 111.000 Euro aus.",
-        "cuerpo": [
-          "Das von einem Waldbrand betroffene Gebiet soll wieder Baumbestand erhalten. Die Gemeinde Piloña hat die Aufforstungsarbeiten für 13 Hektar am Monte Cuesta de Coya y Ques mit einem Budget von 111.000 Euro ausgeschrieben.",
-          "Das Vorhaben sieht die Pflanzung von 14.000 Kiefern in dem vom Feuer geschädigten Bereich vor."
-        ],
-        "apunte": "14.000 Kiefern, um die Narbe zu bedecken, die das Feuer hinterlassen hat.",
-        "enVeinte": [
-          "Piloña schreibt die Aufforstung von 13 Hektar am Monte Cuesta de Coya y Ques für 111.000 Euro aus.",
-          "Das Gebiet wurde durch einen Waldbrand beschädigt; das Projekt sieht die Pflanzung von 14.000 Kiefern vor.",
-          "Die Gemeinde startet das Ausschreibungsverfahren zur Vergabe der Arbeiten."
-        ],
-        "cifra": {
-          "numero": "14.000",
-          "unidad": "Kiefern",
-          "glosa": "So viele Bäume werden auf den 13 verbrannten Hektar des Monte Cuesta de Coya y Ques gepflanzt. Zum Vergleich: 13 Hektar entsprechen ungefähr 18 Fußballfeldern."
-        },
-        "palabra": null,
-        "porQue": "Die Wiederherstellung von verbranntem Waldgebiet verringert das Erosionsrisiko und gibt dem Hang einen Teil von dem zurück, was das Feuer genommen hat.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "villaviciosa-se-llena-de-moda-artesania-y-productos-de-kilometro-0",
-    "url": "/villaviciosa/villaviciosa-se-llena-de-moda-artesania-y-productos-de-kilometro-0/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Villaviciosa anima agosto con moda, artesanía y productos locales",
-    "entradilla": "La villa maliaya concentra este mes dos citas para llenar el bolso y el cesto.",
-    "cuerpo": [
-      "Villaviciosa acoge en agosto la Semana del Comercio y una feria dedicada a la artesanía y a los productos agroalimentarios de la zona.",
-      "Los dos eventos se celebran a lo largo de este mes, aunque el material disponible no detalla fechas exactas, horarios ni emplazamientos concretos."
-    ],
-    "apunte": "Kilómetro 0 y probador: rara vez coinciden en el mismo agosto.",
-    "enVeinte": [
-      "Villaviciosa celebra en agosto la Semana del Comercio y una feria de artesanía y productos locales.",
-      "Los dos eventos buscan animar la actividad comercial y artesana de la capital del concejo durante el mes de verano.",
-      "No se conocen aún fechas concretas ni lugares exactos de cada acto."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "maliaya",
-      "como": "ma-LIA-ya",
-      "definicion": "Gentilicio popular de Villaviciosa, la capital del concejo. Viene del nombre asturiano del manzano silvestre y lleva siglos pegado a sus vecinos."
-    },
-    "porQue": "Para quien vive en el concejo, estas citas de agosto son una oportunidad de comprar producto de la tierra y apoyar el comercio de toda la vida sin salir de casa.",
-    "etiquetas": [
-      "Villaviciosa",
-      "comercio",
-      "artesanía",
-      "agroalimentario"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/06/comercio-calle-ReFlZdOxArn96cylMqsdWYK-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-11T08:46:56.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-llena-moda-artesania-productos-kilometro-20260806165325-nt.html",
-      "titularOriginal": "Villaviciosa se llena de moda, artesanía y productos de kilómetro 0"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa livens up August with fashion, crafts and local produce",
-        "entradilla": "The maliaya town packs two events into this month to fill your bag and your basket.",
-        "cuerpo": [
-          "Villaviciosa hosts two events in August: the Semana del Comercio and a fair dedicated to crafts and local agri-food products.",
-          "Both events take place throughout the month, though the available material does not give exact dates, times or specific venues."
-        ],
-        "apunte": "Zero-kilometre food and a fitting room: they rarely share the same August.",
-        "enVeinte": [
-          "Villaviciosa holds the Semana del Comercio and a crafts and local produce fair in August.",
-          "Both events aim to boost trade and craft activity in the municipality's main town during the summer month.",
-          "Exact dates and venues for each event are not yet known."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliaya",
-          "como": "ma-LIA-ya",
-          "definicion": "The popular demonym for people from Villaviciosa, the main town of the municipality. It comes from the Asturian name for the wild apple tree and has been attached to its residents for centuries."
-        },
-        "porQue": "For people living in the municipality, these August events are a chance to buy locally grown produce and support long-established shops without leaving home.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa anime août avec mode, artisanat et produits locaux",
-        "entradilla": "La ville maliaya concentre ce mois-ci deux rendez-vous pour remplir sac et panier.",
-        "cuerpo": [
-          "Villaviciosa accueille en août la Semana del Comercio et une foire consacrée à l'artisanat et aux produits agroalimentaires de la région.",
-          "Les deux événements se déroulent tout au long du mois, mais les informations disponibles ne précisent ni les dates exactes, ni les horaires, ni les lieux."
-        ],
-        "apunte": "Circuit court et cabine d'essayage : ils partagent rarement le même août.",
-        "enVeinte": [
-          "Villaviciosa organise en août la Semana del Comercio et une foire d'artisanat et de produits locaux.",
-          "Les deux événements visent à dynamiser l'activité commerciale et artisanale du chef-lieu de la commune durant le mois d'été.",
-          "Les dates précises et les lieux exacts de chaque manifestation ne sont pas encore connus."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliaya",
-          "como": "ma-LIA-ya",
-          "definicion": "Le gentilé populaire des habitants de Villaviciosa, chef-lieu de la commune. Il vient du nom asturien du pommier sauvage et est accolé à ses habitants depuis des siècles."
-        },
-        "porQue": "Pour les habitants de la commune, ces rendez-vous d'août sont l'occasion d'acheter des produits du terroir et de soutenir le commerce traditionnel sans quitter leur ville.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa belebt den August mit Mode, Handwerk und lokalen Produkten",
-        "entradilla": "Die maliaya-Stadt bietet diesen Monat zwei Termine, um Tasche und Korb zu füllen.",
-        "cuerpo": [
-          "Villaviciosa veranstaltet im August die Semana del Comercio sowie eine Messe für Kunsthandwerk und regionale Lebensmittel.",
-          "Beide Veranstaltungen finden im Laufe des Monats statt, doch das vorliegende Material nennt weder genaue Termine noch Uhrzeiten oder Veranstaltungsorte."
-        ],
-        "apunte": "Null-Kilometer-Produkte und Umkleidekabine: Selten teilen sie sich denselben August.",
-        "enVeinte": [
-          "Villaviciosa richtet im August die Semana del Comercio sowie eine Messe für Kunsthandwerk und lokale Produkte aus.",
-          "Beide Veranstaltungen sollen den Handel und das Handwerk im Hauptort der Gemeinde während des Sommermonats beleben.",
-          "Genaue Termine und Orte der einzelnen Veranstaltungen sind noch nicht bekannt."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "maliaya",
-          "como": "ma-LIA-ya",
-          "definicion": "Der volkstümliche Einwohnername für die Bewohner von Villaviciosa, dem Hauptort der Gemeinde. Er geht auf den asturischen Namen des Wildapfelbaums zurück und haftet seinen Einwohnern seit Jahrhunderten an."
-        },
-        "porQue": "Für die Bewohner der Gemeinde sind diese August-Termine eine Gelegenheit, Produkte aus der Region zu kaufen und den alteingesessenen Handel zu unterstützen, ohne den Ort verlassen zu müssen.",
         "lugar": "Villaviciosa",
         "precio": ""
       }
