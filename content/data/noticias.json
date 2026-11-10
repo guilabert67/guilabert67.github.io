@@ -1,5 +1,122 @@
 [
   {
+    "id": "adjudicadas-las-obras-para-ampliar-el-saneamiento-de-porenu-en-villavi",
+    "url": "/villaviciosa/adjudicadas-las-obras-para-ampliar-el-saneamiento-de-porenu-en-villavi/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Poreñu tendrá mejor saneamiento por 337.000 euros",
+    "entradilla": "Francisco Suárez Contratas se ha llevado el contrato para extender la red en esta parroquia de Villaviciosa.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha adjudicado las obras de ampliación del saneamiento de Poreñu a la empresa Francisco Suárez Contratas, que ejecutará los trabajos por 337.469 euros.",
+      "Con esta inversión, la red de saneamiento del núcleo gana cobertura, algo que lleva tiempo reclamado en una zona donde las carencias de este tipo de infraestructura afectan al día a día de los vecinos."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa adjudica las obras de ampliación del saneamiento de Poreñu.",
+      "La empresa Francisco Suárez Contratas ejecutará los trabajos por 337.469 euros.",
+      "La actuación mejorará la cobertura de la red en esa parroquia."
+    ],
+    "cifra": {
+      "numero": "337.469",
+      "unidad": "euros",
+      "glosa": "Es el precio por el que se ha adjudicado la obra a Francisco Suárez Contratas. Se trata de una inversión en infraestructura básica: sin saneamiento en condiciones, no hay urbanismo posible."
+    },
+    "palabra": null,
+    "porQue": "Un saneamiento deficiente complica la vida cotidiana y frena cualquier desarrollo del núcleo; con esta obra, Poreñu da un paso hacia los servicios que merece.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Poreñu",
+      "saneamiento",
+      "obras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Poreñu, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/10/porenu-pueblo_20261110113920-RsyCUZmIdq1taR9OTAoAiqL-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-10T11:17:24.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/adjudicadas-obras-ampliar-saneamiento-porenu-villaviciosa-20261110121724-nt.html",
+      "titularOriginal": "Adjudicadas las obras para ampliar el saneamiento de Poreñu, en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Poreñu to get better sewage system for 337,000 euros",
+        "entradilla": "Francisco Suárez Contratas has won the contract to extend the network in this parish of Villaviciosa.",
+        "cuerpo": [
+          "The Villaviciosa council has awarded the works to expand the Poreñu sewage system to the company Francisco Suárez Contratas, which will carry out the works for 337,469 euros.",
+          "With this investment, the sewage network in the settlement gains coverage — something long demanded in an area where shortcomings in this type of infrastructure affect residents' daily lives."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "The Villaviciosa council awards the works to expand the Poreñu sewage system.",
+          "The company Francisco Suárez Contratas will carry out the works for 337,469 euros.",
+          "The project will improve network coverage in that parish."
+        ],
+        "cifra": {
+          "numero": "337.469",
+          "unidad": "euros",
+          "glosa": "This is the price at which the works have been awarded to Francisco Suárez Contratas. It is an investment in basic infrastructure: without a proper sewage system, no urban development is possible."
+        },
+        "palabra": null,
+        "porQue": "A poor sewage system complicates daily life and holds back any development of the settlement; with this work, Poreñu takes a step towards the services it deserves.",
+        "lugar": "Poreñu, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Poreñu va améliorer son réseau d'assainissement pour 337 000 euros",
+        "entradilla": "Francisco Suárez Contratas a remporté le contrat pour étendre le réseau dans cette paroisse de Villaviciosa.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a attribué les travaux d'extension du réseau d'assainissement de Poreñu à l'entreprise Francisco Suárez Contratas, qui les exécutera pour 337 469 euros.",
+          "Grâce à cet investissement, le réseau d'assainissement du bourg gagne en couverture — une demande portée depuis longtemps dans une zone où les carences de ce type d'infrastructure pèsent sur le quotidien des habitants."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La mairie de Villaviciosa attribue les travaux d'extension du réseau d'assainissement de Poreñu.",
+          "L'entreprise Francisco Suárez Contratas exécutera les travaux pour 337 469 euros.",
+          "L'opération améliorera la couverture du réseau dans cette paroisse."
+        ],
+        "cifra": {
+          "numero": "337.469",
+          "unidad": "euros",
+          "glosa": "C'est le prix auquel les travaux ont été attribués à Francisco Suárez Contratas. Il s'agit d'un investissement dans une infrastructure de base : sans assainissement digne de ce nom, aucun développement urbain n'est possible."
+        },
+        "palabra": null,
+        "porQue": "Un assainissement déficient complique la vie quotidienne et freine tout développement du bourg ; avec ces travaux, Poreñu fait un pas vers les services qu'il mérite.",
+        "lugar": "Poreñu, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Poreñu bekommt bessere Kanalisation für 337.000 Euro",
+        "entradilla": "Francisco Suárez Contratas hat den Auftrag erhalten, das Netz in dieser Pfarrgemeinde von Villaviciosa auszubauen.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat die Arbeiten zur Erweiterung der Kanalisation von Poreñu an das Unternehmen Francisco Suárez Contratas vergeben, das die Arbeiten für 337.469 Euro ausführen wird.",
+          "Mit dieser Investition gewinnt das Kanalisationsnetz des Ortskerns an Versorgungsabdeckung — ein Anliegen, das in einem Gebiet, wo Mängel bei dieser Art von Infrastruktur den Alltag der Bewohner beeinträchtigen, seit Langem eingefordert wird."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa vergibt die Arbeiten zur Erweiterung der Kanalisation von Poreñu.",
+          "Das Unternehmen Francisco Suárez Contratas wird die Arbeiten für 337.469 Euro ausführen.",
+          "Die Maßnahme wird die Netzabdeckung in dieser Pfarrgemeinde verbessern."
+        ],
+        "cifra": {
+          "numero": "337.469",
+          "unidad": "euros",
+          "glosa": "Dies ist der Preis, zu dem die Arbeiten an Francisco Suárez Contratas vergeben wurden. Es handelt sich um eine Investition in grundlegende Infrastruktur: Ohne eine funktionierende Kanalisation ist keine städtebauliche Entwicklung möglich."
+        },
+        "palabra": null,
+        "porQue": "Eine mangelhafte Kanalisation erschwert den Alltag und bremst jede Entwicklung des Ortskerns; mit diesen Arbeiten macht Poreñu einen Schritt in Richtung der Versorgung, die es verdient.",
+        "lugar": "Poreñu, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "bulnes-lidera-el-turismo-internacional-entre-los-pueblos-mas-bonitos-d",
     "url": "/cabranes/bulnes-lidera-el-turismo-internacional-entre-los-pueblos-mas-bonitos-d/",
     "concejo": "Cabranes",
@@ -2129,6 +2246,107 @@
         "palabra": null,
         "porQue": "Gut entwässerte Forstwege erleichtern den Zugang zu Feldern und Wäldern, reduzieren Schlaglöcher und erhöhen die Sicherheit für alle, die in den ländlichen Gebieten von Nava und Villaviciosa arbeiten oder unterwegs sind.",
         "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "arde-una-vivienda-en-argueru-villaviciosa",
+    "url": "/villaviciosa/arde-una-vivienda-en-argueru-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Incendio en Argüeru sin víctimas que lamentar",
+    "entradilla": "El fuego afectó a una vivienda de la parroquia villaviciosina y no dejó heridos.",
+    "cuerpo": [
+      "Una casa ardió en Argüeru, en el concejo de Villaviciosa, según informó el medio local este viernes 6 de noviembre.",
+      "Lo más importante: no hubo daños personales."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Una vivienda ardió en Argüeru, en el concejo de Villaviciosa.",
+      "No hubo víctimas ni heridos que lamentar.",
+      "Por ahora no se conocen más detalles sobre el origen del fuego ni el alcance de los daños materiales."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un incendio en vivienda habitada siempre inquieta a los vecinos del entorno; saber que no hubo heridos es lo primero que se quiere confirmar.",
+    "etiquetas": [
+      "incendio",
+      "Argüeru",
+      "Villaviciosa",
+      "emergencias"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Argüeru, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/06/2026110609341250828.jpg",
+    "fecha": "2026-11-06T08:36:13.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/arde-vivienda-argueru-villaviciosa/20261106093613105252.html",
+      "titularOriginal": "Arde una vivienda en Argüeru-Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Fire in Argüeru with no casualties to report",
+        "entradilla": "The fire affected a property in the Villaviciosa parish and left no injured.",
+        "cuerpo": [
+          "A house burned in Argüeru, in the municipality of Villaviciosa, according to the local outlet this Friday, 6 November.",
+          "Most importantly: there were no casualties."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "A property burned in Argüeru, in the municipality of Villaviciosa.",
+          "There were no victims or injured to report.",
+          "No further details are yet known about the origin of the fire or the extent of the material damage."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A fire in an occupied home always worries the neighbours in the area; knowing there were no injured is the first thing people want confirmed.",
+        "lugar": "Argüeru, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Incendie à Argüeru sans victimes à déplorer",
+        "entradilla": "Le feu a touché une habitation de la paroisse de Villaviciosa et n'a fait aucun blessé.",
+        "cuerpo": [
+          "Une maison a brûlé à Argüeru, dans la commune de Villaviciosa, selon ce que le média local a annoncé ce vendredi 6 novembre.",
+          "L'essentiel : il n'y a eu aucune victime."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Une habitation a brûlé à Argüeru, dans la commune de Villaviciosa.",
+          "Il n'y a eu ni victimes ni blessés à déplorer.",
+          "Pour l'heure, on ne connaît pas d'autres détails sur l'origine du feu ni sur l'étendue des dégâts matériels."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un incendie dans une habitation occupée inquiète toujours les riverains ; savoir qu'il n'y a pas eu de blessés est la première chose que l'on cherche à confirmer.",
+        "lugar": "Argüeru, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Brand in Argüeru ohne Verletzte",
+        "entradilla": "Das Feuer erfasste ein Wohngebäude in der Pfarrgemeinde Villaviciosa und forderte keine Verletzten.",
+        "cuerpo": [
+          "In Argüeru, in der Gemeinde Villaviciosa, brannte ein Haus, wie das lokale Medium diesen Freitag, den 6. November, berichtete.",
+          "Das Wichtigste: Es gab keine Personenschäden."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "In Argüeru, in der Gemeinde Villaviciosa, brannte ein Wohngebäude.",
+          "Es gab weder Todesopfer noch Verletzte zu beklagen.",
+          "Über die Brandursache und das Ausmaß des Sachschadens sind bislang keine weiteren Einzelheiten bekannt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein Brand in einem bewohnten Haus beunruhigt die Nachbarschaft stets; zu erfahren, dass es keine Verletzten gab, ist das Erste, was man bestätigt haben möchte.",
+        "lugar": "Argüeru, Villaviciosa",
         "precio": ""
       }
     }
@@ -43951,106 +44169,5 @@
     "revisar": [
       "la feria de artesania y agroalimentacion de villaviciosa"
     ]
-  },
-  {
-    "id": "puertas-de-cabrales-acoge-una-nueva-edicion-de-su-festival-de-cine-de-",
-    "url": "/cabrales/puertas-de-cabrales-acoge-una-nueva-edicion-de-su-festival-de-cine-de-/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "deporte-y-cultura",
-    "titular": "Puertas de Cabrales arranca el jueves con cine y música",
-    "entradilla": "El festival de cine de autor e independiente del pueblo abre con un homenaje al cineasta Gonzalo Suárez.",
-    "cuerpo": [
-      "El festival de cine de autor e independiente de Puertas de Cabrales vuelve este jueves 13 de agosto y se prolonga hasta el domingo 16 con una programación que mezcla cine, música y otras actividades.",
-      "La sesión inaugural estará dedicada a Gonzalo Suárez, cineasta al que el festival rinde homenaje para abrir la edición de este año."
-    ],
-    "apunte": "Cuatro días de cine en un pueblo que no necesita pantalla grande para tener buen gusto.",
-    "enVeinte": [
-      "El festival de cine de autor e independiente de Puertas de Cabrales arranca el jueves 13 de agosto.",
-      "La apertura rinde homenaje al cineasta Gonzalo Suárez.",
-      "La programación, con cine, música y otras actividades, se extiende hasta el domingo 16."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Si vives en el concejo de Cabrales o alrededores, tienes cuatro días para acercarte a Puertas y ver cine de autor sin salir de casa.",
-    "etiquetas": [
-      "cine",
-      "Cabrales",
-      "Puertas",
-      "festival"
-    ],
-    "fechaEvento": "2026-08-13",
-    "tipoEvento": "cine",
-    "lugar": "Puertas de Cabrales",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/12/puertas-film-fest-kOLC-U301252361129KMG-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-12T09:42:40.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/puertas-cabrales-film-fest-cine-autor-independiente-20260812114053-nt.html",
-      "titularOriginal": "Puertas de Cabrales acoge una nueva edición de su festival de cine de autor e independiente"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Puertas de Cabrales kicks off on Thursday with film and music",
-        "entradilla": "The village's auteur and independent film festival opens with a tribute to filmmaker Gonzalo Suárez.",
-        "cuerpo": [
-          "The auteur and independent film festival of Puertas de Cabrales returns this Thursday, 13 August, and runs until Sunday the 16th with a programme that mixes film, music and other activities.",
-          "The opening session will be dedicated to Gonzalo Suárez, the filmmaker the festival honours to launch this year's edition."
-        ],
-        "apunte": "Four days of film in a village that needs no big screen to have good taste.",
-        "enVeinte": [
-          "The auteur and independent film festival of Puertas de Cabrales starts on Thursday, 13 August.",
-          "The opening pays tribute to filmmaker Gonzalo Suárez.",
-          "The programme, featuring film, music and other activities, runs until Sunday the 16th."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "If you live in the municipality of Cabrales or nearby, you have four days to head to Puertas and watch auteur cinema without leaving home.",
-        "lugar": "Puertas de Cabrales",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Puertas de Cabrales démarre jeudi avec cinéma et musique",
-        "entradilla": "Le festival de cinéma d'auteur et indépendant du village ouvre sur un hommage au cinéaste Gonzalo Suárez.",
-        "cuerpo": [
-          "Le festival de cinéma d'auteur et indépendant de Puertas de Cabrales revient ce jeudi 13 août et se prolonge jusqu'au dimanche 16 avec une programmation mêlant cinéma, musique et autres activités.",
-          "La séance inaugurale sera consacrée à Gonzalo Suárez, le cinéaste à qui le festival rend hommage pour ouvrir l'édition de cette année."
-        ],
-        "apunte": "Quatre jours de cinéma dans un village qui n'a pas besoin d'un grand écran pour avoir du goût.",
-        "enVeinte": [
-          "Le festival de cinéma d'auteur et indépendant de Puertas de Cabrales commence le jeudi 13 août.",
-          "L'ouverture rend hommage au cinéaste Gonzalo Suárez.",
-          "La programmation, avec cinéma, musique et autres activités, s'étend jusqu'au dimanche 16."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Si vous vivez dans la commune de Cabrales ou aux alentours, vous avez quatre jours pour vous rendre à Puertas et voir du cinéma d'auteur sans quitter la région.",
-        "lugar": "Puertas de Cabrales",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Puertas de Cabrales startet am Donnerstag mit Film und Musik",
-        "entradilla": "Das Autorenkino- und Independentfilmfestival des Dorfes eröffnet mit einer Hommage an den Filmemacher Gonzalo Suárez.",
-        "cuerpo": [
-          "Das Autorenkino- und Independentfilmfestival von Puertas de Cabrales kehrt diesen Donnerstag, den 13. August, zurück und läuft bis Sonntag, den 16., mit einem Programm, das Film, Musik und weitere Aktivitäten verbindet.",
-          "Die Eröffnungsvorstellung ist Gonzalo Suárez gewidmet, dem Filmemacher, dem das Festival zu Beginn dieser Ausgabe eine Hommage erweist."
-        ],
-        "apunte": "Vier Tage Film in einem Dorf, das keine große Leinwand braucht, um Geschmack zu beweisen.",
-        "enVeinte": [
-          "Das Autorenkino- und Independentfilmfestival von Puertas de Cabrales beginnt am Donnerstag, dem 13. August.",
-          "Die Eröffnung ist eine Hommage an den Filmemacher Gonzalo Suárez.",
-          "Das Programm mit Film, Musik und weiteren Aktivitäten erstreckt sich bis Sonntag, den 16."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Wer in der Gemeinde Cabrales oder in der Umgebung lebt, hat vier Tage Zeit, nach Puertas zu fahren und Autorenfilme zu sehen, ohne weit von zu Hause wegzumüssen.",
-        "lugar": "Puertas de Cabrales",
-        "precio": ""
-      }
-    }
   }
 ]
