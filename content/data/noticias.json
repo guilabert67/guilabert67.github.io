@@ -1,5 +1,280 @@
 [
   {
+    "id": "el-cine-asturiano-gana-protagonismo-en-el-festival-de-gijon-con-mas-de",
+    "url": "/cabrales/el-cine-asturiano-gana-protagonismo-en-el-festival-de-gijon-con-mas-de/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "agenda",
+    "titular": "Más de 30 obras asturianas llegan al FICX",
+    "entradilla": "El festival de Gijón abre del 13 al 21 de noviembre con la mayor presencia del cine del Principado en años recientes.",
+    "cuerpo": [
+      "La 64 edición del Festival Internacional de Cine de Gijón reserva un hueco grande para Asturias: más de treinta largometrajes y cortometrajes vinculados al Principado —por su dirección, producción o tema— aparecen repartidos por las secciones principales del certamen.",
+      "El espacio más asturiano del programa será Asturies Curtiumetraxes, con dieciséis trabajos, diez de ellos a competición y nueve con estreno mundial en Gijón. La memoria histórica, la despoblación y la identidad cultural son los hilos que recorren buena parte de estas piezas.",
+      "En la Competición Internacional de Cortometrajes estarán dos cineastas asturianos: Ramón Lluís Bande, con un ensayo sobre la pintura de Evaristo Valle y la Guerra Civil, y Pablo Casanueva, con una película sobre la primera ascensión histórica al Picu Urriellu. RTPA destinará 6.000 euros en premios para reconocer la creación audiovisual asturiana."
+    ],
+    "apunte": "El Picu Urriellu en pantalla grande: hay formas peores de verlo sin romperse una rodilla.",
+    "enVeinte": [
+      "El Festival de Cine de Gijón celebra su 64 edición del 13 al 21 de noviembre con más de 30 obras asturianas en cartel.",
+      "La sección Asturies Curtiumetraxes reúne dieciséis cortometrajes, nueve de ellos con estreno mundial durante el festival.",
+      "Dos cineastas asturianos compiten en la sección internacional: uno con una pieza sobre la Guerra Civil y otro sobre la primera subida al Picu Urriellu."
+    ],
+    "cifra": {
+      "numero": "6.000",
+      "unidad": "euros",
+      "glosa": "Es el dinero que RTPA pone en premios para reconocer el audiovisual asturiano en el FICX. Se reparte entre las obras ganadoras de las secciones asturianas del certamen."
+    },
+    "palabra": {
+      "termino": "Curtiumetraxes",
+      "como": "cur-tiu-me-TRA-xes",
+      "definicion": "Cortometrajes en asturiano. Es la denominación oficial que usa el FICX para su sección dedicada al cine corto hecho en o desde Asturias, y aparece tal cual en el programa del festival."
+    },
+    "porQue": "Para quien vive en los concejos del oriente asturiano, el FICX es la cita más cercana donde ver cine sobre la tierra propia —la memoria de la guerra, el Picu Urriellu, la vida rural— tratada sin condescendencia y en competición internacional.",
+    "etiquetas": [
+      "FICX",
+      "cine asturiano",
+      "Gijón",
+      "cultura"
+    ],
+    "fechaEvento": "2026-11-13",
+    "tipoEvento": "cine",
+    "lugar": "Gijón",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://static.eldiario.es/clip/089a7e6f-a075-43ca-9e95-caefeecd57dd_16-9-discover-aspect-ratio_default_0.jpg",
+    "fecha": "2026-11-10T18:08:34.000Z",
+    "fuente": {
+      "nombre": "elDiario.es Asturias",
+      "url": "https://www.eldiario.es/asturias/cine-asturiano-gana-protagonismo-festival-gijon-30-peliculas-cortometrajes-programacion_1_13653425.html",
+      "titularOriginal": "El cine asturiano gana protagonismo en el Festival de Gijón con más de 30 películas y cortometrajes en su programación"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "More than 30 Asturian works arrive at FICX",
+        "entradilla": "The Gijón festival runs from 13 to 21 November with the largest presence of Principality cinema in recent years.",
+        "cuerpo": [
+          "The 64th edition of the Festival Internacional de Cine de Gijón is making significant room for Asturias: more than thirty feature films and short films connected to the Principality — by their direction, production or subject — appear across the festival's main sections.",
+          "The most Asturian part of the programme will be Asturies Curtiumetraxes, with sixteen works, ten of them in competition and nine receiving their world premiere in Gijón. Historical memory, depopulation and cultural identity are the threads running through many of these pieces.",
+          "Two Asturian filmmakers will feature in the International Short Film Competition: Ramón Lluís Bande, with an essay on the painting of Evaristo Valle and the Civil War, and Pablo Casanueva, with a film about the first historic ascent of Picu Urriellu. RTPA will provide 6,000 euros in prizes to recognise Asturian audiovisual creation."
+        ],
+        "apunte": "Picu Urriellu on the big screen: there are worse ways to see it without wrecking a knee.",
+        "enVeinte": [
+          "The Festival Internacional de Cine de Gijón holds its 64th edition from 13 to 21 November with more than 30 Asturian works on the programme.",
+          "The Asturies Curtiumetraxes section brings together sixteen short films, nine of them receiving their world premiere during the festival.",
+          "Two Asturian filmmakers compete in the international section: one with a piece about the Civil War and another about the first ascent of Picu Urriellu."
+        ],
+        "cifra": {
+          "numero": "6,000",
+          "unidad": "euros",
+          "glosa": "This is the money RTPA puts up in prizes to recognise Asturian audiovisual work at FICX. It is shared among the winning works in the festival's Asturian sections."
+        },
+        "palabra": {
+          "termino": "Curtiumetraxes",
+          "como": "cur-tiu-me-TRA-xes",
+          "definicion": "Short films in Asturian. This is the official name FICX uses for its section dedicated to short cinema made in or from Asturias, and it appears exactly as written in the festival programme."
+        },
+        "porQue": "For people living in the municipalities of eastern Asturias, FICX is the closest event where they can watch films about their own land — the memory of the war, Picu Urriellu, rural life — treated without condescension and in international competition.",
+        "lugar": "Gijón",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Plus de 30 œuvres asturiennes au FICX",
+        "entradilla": "Le festival de Gijón se tient du 13 au 21 novembre avec la plus forte présence du cinéma de la Principauté ces dernières années.",
+        "cuerpo": [
+          "La 64e édition du Festival Internacional de Cine de Gijón réserve une place de choix à l'Asturies : plus de trente longs et courts métrages liés à la Principauté — par leur réalisation, leur production ou leur sujet — sont répartis dans les sections principales du festival.",
+          "La partie la plus asturienne du programme sera Asturies Curtiumetraxes, avec seize œuvres, dont dix en compétition et neuf en avant-première mondiale à Gijón. La mémoire historique, le dépeuplement et l'identité culturelle constituent les fils conducteurs d'une grande partie de ces films.",
+          "Deux cinéastes asturiens figureront dans la Compétition Internationale de Courts Métrages : Ramón Lluís Bande, avec un essai sur la peinture d'Evaristo Valle et la Guerre Civile, et Pablo Casanueva, avec un film sur la première ascension historique du Picu Urriellu. RTPA consacrera 6 000 euros en prix pour récompenser la création audiovisuelle asturienne."
+        ],
+        "apunte": "Le Picu Urriellu sur grand écran : il y a des façons pires de le voir sans se déchirer un genou.",
+        "enVeinte": [
+          "Le Festival Internacional de Cine de Gijón célèbre sa 64e édition du 13 au 21 novembre avec plus de 30 œuvres asturiennes à l'affiche.",
+          "La section Asturies Curtiumetraxes réunit seize courts métrages, dont neuf en avant-première mondiale pendant le festival.",
+          "Deux cinéastes asturiens concourent dans la section internationale : l'un avec une pièce sur la Guerre Civile, l'autre sur la première ascension du Picu Urriellu."
+        ],
+        "cifra": {
+          "numero": "6 000",
+          "unidad": "euros",
+          "glosa": "C'est la somme que RTPA met en jeu sous forme de prix pour récompenser l'audiovisuel asturien au FICX. Elle est répartie entre les œuvres lauréates des sections asturiennes du festival."
+        },
+        "palabra": {
+          "termino": "Curtiumetraxes",
+          "como": "cur-tiu-me-TRA-xes",
+          "definicion": "Courts métrages en asturien. C'est la dénomination officielle qu'utilise le FICX pour sa section consacrée au cinéma court réalisé en Asturies ou depuis l'Asturies, et elle figure telle quelle dans le programme du festival."
+        },
+        "porQue": "Pour les habitants des communes de l'est des Asturies, le FICX est le rendez-vous le plus proche où voir des films sur leur propre territoire — la mémoire de la guerre, le Picu Urriellu, la vie rurale — traités sans condescendance et en compétition internationale.",
+        "lugar": "Gijón",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Mehr als 30 asturische Werke beim FICX",
+        "entradilla": "Das Festival in Gijón läuft vom 13. bis 21. November — mit der stärksten Präsenz des Kinos aus dem Fürstentum seit Jahren.",
+        "cuerpo": [
+          "Die 64. Ausgabe des Festival Internacional de Cine de Gijón macht der Asturies viel Platz: Mehr als dreißig Lang- und Kurzfilme mit Bezug zum Fürstentum — durch Regie, Produktion oder Thema — sind auf die Hauptsektionen des Festivals verteilt.",
+          "Der asturischste Teil des Programms wird Asturies Curtiumetraxes sein, mit sechzehn Arbeiten, davon zehn im Wettbewerb und neun mit Weltpremiere in Gijón. Historisches Gedächtnis, Entvölkerung und kulturelle Identität sind die Fäden, die viele dieser Stücke durchziehen.",
+          "Zwei asturische Filmemacher sind im Internationalen Kurzfilmwettbewerb vertreten: Ramón Lluís Bande mit einem Essay über die Malerei von Evaristo Valle und den Bürgerkrieg sowie Pablo Casanueva mit einem Film über die erste historische Besteigung des Picu Urriellu. RTPA stellt 6.000 Euro an Preisgeldern bereit, um das asturische audiovisuelle Schaffen zu würdigen."
+        ],
+        "apunte": "Picu Urriellu auf der großen Leinwand: Es gibt schlechtere Wege, ihn zu sehen, ohne sich ein Knie zu ruinieren.",
+        "enVeinte": [
+          "Das Festival Internacional de Cine de Gijón feiert seine 64. Ausgabe vom 13. bis 21. November mit mehr als 30 asturischen Werken im Programm.",
+          "Die Sektion Asturies Curtiumetraxes vereint sechzehn Kurzfilme, davon neun mit Weltpremiere während des Festivals.",
+          "Zwei asturische Filmemacher treten in der internationalen Sektion an: einer mit einem Stück über den Bürgerkrieg, der andere über die erste Besteigung des Picu Urriellu."
+        ],
+        "cifra": {
+          "numero": "6.000",
+          "unidad": "Euro",
+          "glosa": "Das ist das Geld, das RTPA als Preise bereitstellt, um das asturische Audiovisualschaffen beim FICX auszuzeichnen. Es wird unter den Siegerwerken der asturischen Festivalsektionen aufgeteilt."
+        },
+        "palabra": {
+          "termino": "Curtiumetraxes",
+          "como": "cur-tiu-me-TRA-xes",
+          "definicion": "Kurzfilme auf Asturisch. So lautet die offizielle Bezeichnung, die das FICX für seine Sektion mit Kurzfilmen aus oder über Asturien verwendet — genau so steht es im Festivalprogramm."
+        },
+        "porQue": "Für Menschen, die in den Gemeinden Ostasturiens leben, ist das FICX die nächstgelegene Veranstaltung, bei der sie Filme über ihre eigene Heimat sehen können — die Erinnerung an den Krieg, den Picu Urriellu, das Landleben — ohne Herablassung und im internationalen Wettbewerb.",
+        "lugar": "Gijón",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la 64 edicion del festival internacional de cine",
+      "64 edicion del festival internacional de cine de",
+      "edicion del festival internacional de cine de gijon"
+    ]
+  },
+  {
+    "id": "el-ayuntamiento-de-villaviciosa-subrogara-a-los-12-trabajadores-de-la-",
+    "url": "/villaviciosa/el-ayuntamiento-de-villaviciosa-subrogara-a-los-12-trabajadores-de-la-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa asume a los 12 trabajadores de su piscina",
+    "entradilla": "El municipio incorporará directamente a la plantilla de la piscina municipal, aunque el estudio económico ya avisa de que eso supondrá un coste extra para las arcas locales.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa pasará a gestionar de forma directa el empleo de los doce trabajadores de la piscina municipal, asumiéndolos como personal propio a través de un proceso de subrogación.",
+      "El estudio económico que ha analizado la operación deja claro que el consistorio tendrá que poner dinero encima de la mesa para cubrir lo que cueste esa plantilla."
+    ],
+    "apunte": "Doce contratos más en la nómina municipal, y el estudio económico ya avisando: esto tiene precio.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa va a subrogar a los doce empleados de la piscina municipal, haciéndose cargo directo de ellos.",
+      "Un estudio económico previo confirma que el consistorio deberá destinar fondos adicionales para asumir ese coste de personal.",
+      "La medida afecta directamente a doce puestos de trabajo y a la forma en que el municipio gestiona este servicio."
+    ],
+    "cifra": {
+      "numero": "12",
+      "unidad": "trabajadores",
+      "glosa": "Son las personas que actualmente trabajan en la piscina municipal de Villaviciosa y que pasarán a depender directamente del Ayuntamiento. La subrogación implica que el consistorio hereda sus condiciones laborales tal como estaban."
+    },
+    "palabra": {
+      "termino": "subrogación",
+      "como": "su-ro-ga-ción",
+      "definicion": "Término legal que significa que un nuevo empleador —en este caso el Ayuntamiento— asume los contratos de unos trabajadores en las mismas condiciones que tenían con el anterior. Vamos, que el que llega se pone en el lugar del que se va, con todas las obligaciones."
+    },
+    "porQue": "Si el Ayuntamiento asume directamente a estos trabajadores, la gestión de la piscina cambia de modelo y el coste recae sobre el presupuesto municipal, es decir, sobre los impuestos de los vecinos.",
+    "etiquetas": [
+      "Villaviciosa",
+      "piscina municipal",
+      "empleo público",
+      "servicios municipales"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/10/piscina-villaviciosa-RU7cprRG2BcXFZphb5W2KAJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-10T15:54:28.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ayuntamiento-villaviciosa-subrogara-trabajadores-piscina-municipal-20261110165428-nt.html",
+      "titularOriginal": "El Ayuntamiento de Villaviciosa subrogará a los 12 trabajadores de la piscina municipal"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa takes on the 12 workers at its swimming pool",
+        "entradilla": "The municipality will directly incorporate the municipal swimming pool staff onto its payroll, though the financial study already warns this will mean an extra cost for local funds.",
+        "cuerpo": [
+          "Villaviciosa council will take over direct management of the employment of the twelve municipal swimming pool workers, absorbing them as its own staff through a subrogation process.",
+          "The financial study analysing the operation makes it clear that the council will have to put money on the table to cover what that workforce costs."
+        ],
+        "apunte": "Twelve more contracts on the municipal payroll, and the financial study already sounding the alarm: this comes at a price.",
+        "enVeinte": [
+          "Villaviciosa council is going to subrogate the twelve municipal swimming pool employees, taking direct responsibility for them.",
+          "A prior financial study confirms that the council will need to allocate additional funds to cover those staffing costs.",
+          "The measure directly affects twelve jobs and the way the municipality manages this service."
+        ],
+        "cifra": {
+          "numero": "12",
+          "unidad": "workers",
+          "glosa": "These are the people currently working at Villaviciosa's municipal swimming pool, who will come to depend directly on the council. Subrogation means the council inherits their employment conditions exactly as they stood."
+        },
+        "palabra": {
+          "termino": "subrogación",
+          "como": "su-ro-ga-ción",
+          "definicion": "A legal term meaning that a new employer — in this case the council — takes over workers' contracts under the same conditions they had with the previous employer. In short, whoever comes in steps into the shoes of whoever left, obligations and all."
+        },
+        "porQue": "If the council takes these workers on directly, the management model of the swimming pool changes and the cost falls on the municipal budget — that is, on local taxpayers.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa reprend les 12 employés de sa piscine",
+        "entradilla": "La commune intégrera directement le personnel de la piscine municipale à ses effectifs, même si l'étude économique prévient déjà que cela représentera un coût supplémentaire pour les finances locales.",
+        "cuerpo": [
+          "La mairie de Villaviciosa va gérer directement l'emploi des douze agents de la piscine municipale, en les intégrant comme personnel propre via un processus de subrogation.",
+          "L'étude économique qui a analysé l'opération est claire : la mairie devra mettre la main au portefeuille pour couvrir le coût de ces effectifs."
+        ],
+        "apunte": "Douze contrats de plus sur la masse salariale municipale, et l'étude économique qui tire déjà la sonnette d'alarme : cela a un prix.",
+        "enVeinte": [
+          "La mairie de Villaviciosa va subroger les douze employés de la piscine municipale, en assumant directement leur gestion.",
+          "Une étude économique préalable confirme que la mairie devra dégager des fonds supplémentaires pour absorber ces charges de personnel.",
+          "La mesure concerne directement douze postes de travail et la façon dont la commune gère ce service."
+        ],
+        "cifra": {
+          "numero": "12",
+          "unidad": "employés",
+          "glosa": "Ce sont les personnes qui travaillent actuellement à la piscine municipale de Villaviciosa et qui dépendront désormais directement de la mairie. La subrogation implique que la mairie hérite de leurs conditions de travail telles qu'elles étaient."
+        },
+        "palabra": {
+          "termino": "subrogación",
+          "como": "su-ro-ga-ción",
+          "definicion": "Terme juridique qui signifie qu'un nouvel employeur — en l'occurrence la mairie — reprend les contrats de travail de salariés dans les mêmes conditions que celles qu'ils avaient avec le précédent. Autrement dit, celui qui arrive se substitue à celui qui part, avec toutes les obligations qui en découlent."
+        },
+        "porQue": "Si la mairie reprend directement ces travailleurs, le mode de gestion de la piscine change de modèle et le coût repose sur le budget municipal, c'est-à-dire sur les impôts des habitants.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa übernimmt die 12 Beschäftigten seines Schwimmbads",
+        "entradilla": "Die Gemeinde wird das Personal des städtischen Schwimmbads direkt in die eigene Belegschaft aufnehmen, obwohl die Wirtschaftlichkeitsstudie bereits darauf hinweist, dass dies die kommunalen Kassen zusätzlich belasten wird.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa wird die Beschäftigung der zwölf Mitarbeiter des städtischen Schwimmbads direkt übernehmen und sie im Wege einer Subrogation als eigenes Personal eingliedern.",
+          "Die Wirtschaftlichkeitsstudie, die den Vorgang analysiert hat, macht deutlich, dass das Rathaus Geld in die Hand nehmen muss, um die Kosten für diese Belegschaft zu decken."
+        ],
+        "apunte": "Zwölf Verträge mehr auf der kommunalen Gehaltsliste — und die Wirtschaftlichkeitsstudie warnt bereits: Das hat seinen Preis.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa wird die zwölf Beschäftigten des städtischen Schwimmbads subrogieren und direkt für sie verantwortlich sein.",
+          "Eine vorab erstellte Wirtschaftlichkeitsstudie bestätigt, dass das Rathaus zusätzliche Mittel bereitstellen muss, um diese Personalkosten zu tragen.",
+          "Die Maßnahme betrifft zwölf Arbeitsplätze direkt und verändert die Art, wie die Gemeinde diesen Dienst verwaltet."
+        ],
+        "cifra": {
+          "numero": "12",
+          "unidad": "Beschäftigte",
+          "glosa": "Das sind die Personen, die derzeit im städtischen Schwimmbad von Villaviciosa arbeiten und künftig direkt dem Rathaus unterstehen werden. Die Subrogation bedeutet, dass das Rathaus ihre Arbeitsbedingungen so übernimmt, wie sie bestanden."
+        },
+        "palabra": {
+          "termino": "subrogación",
+          "como": "su-ro-ga-ción",
+          "definicion": "Ein rechtlicher Begriff, der bedeutet, dass ein neuer Arbeitgeber — in diesem Fall das Rathaus — die Arbeitsverträge von Beschäftigten zu denselben Bedingungen übernimmt, die sie beim vorherigen Arbeitgeber hatten. Kurz gesagt: Wer neu kommt, tritt in die Fußstapfen dessen, der geht — mit sämtlichen Pflichten."
+        },
+        "porQue": "Wenn das Rathaus diese Beschäftigten direkt übernimmt, ändert sich das Verwaltungsmodell des Schwimmbads, und die Kosten fallen auf den Gemeindehaushalt — das heißt auf die Steuern der Einwohner.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "adjudicadas-las-obras-para-ampliar-el-saneamiento-de-porenu-en-villavi",
     "url": "/villaviciosa/adjudicadas-las-obras-para-ampliar-el-saneamiento-de-porenu-en-villavi/",
     "concejo": "Villaviciosa",
@@ -43948,226 +44223,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "el-concurso-de-sidre-casero-de-villaviciosa-llega-con-calidad-y-relevo",
-    "url": "/villaviciosa/el-concurso-de-sidre-casero-de-villaviciosa-llega-con-calidad-y-relevo/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "El sidre casero de Villaviciosa se cita el 30 de agosto",
-    "entradilla": "El concurso llega este año, según su organizadores, con buena calidad y caras nuevas entre los participantes.",
-    "cuerpo": [
-      "El Concurso de Sidre Casero de Villaviciosa vuelve el 30 de agosto a la plaza del Ayuntamiento.",
-      "Los organizadores destacan que la edición de este año trae calidad en los caldos y relevo generacional entre quienes se presentan."
-    ],
-    "apunte": "El futuro del sidre casero parece que está en buenas manos —y en buenas botellas.",
-    "enVeinte": [
-      "El Concurso de Sidre Casero de Villaviciosa se celebra el 30 de agosto en la plaza del Ayuntamiento.",
-      "Los organizadores señalan que este año la calidad de los caldos es destacable.",
-      "La participación de gente joven asegura, según los responsables, el relevo del concurso."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "sidre casero",
-      "como": "sí-dre ca-sé-ro",
-      "definicion": "Sidra elaborada de forma artesanal, generalmente en el llagar familiar o de un pequeño productor, sin las exigencias industriales de la sidra comercial. En Asturias distinguirla del sidre de llagar o de la sidra embotellada es una cuestión de orgullo."
-    },
-    "porQue": "Si tienes sidre propio o conoces a quien lo haga, el 30 de agosto es el día de llevarlo a la plaza y ver cómo queda frente a los demás.",
-    "etiquetas": [
-      "sidre casero",
-      "Villaviciosa",
-      "concurso",
-      "agosto"
-    ],
-    "fechaEvento": "2026-08-30",
-    "tipoEvento": "gastro",
-    "lugar": "plaza del Ayuntamiento, Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/12/sidre-casera-RdadXdwXnWaaVLZBt2qLbtM-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-12T15:48:43.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/concurso-sidre-casero-villaviciosa-agosto-20260812163950-nt.html",
-      "titularOriginal": "El Concurso de Sidre Casero de Villaviciosa llega con «calidad» y relevo generacional garantizado"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa's homemade sidre competition is set for 30 August",
-        "entradilla": "This year's contest arrives, according to its organisers, with strong quality and new faces among the participants.",
-        "cuerpo": [
-          "The Concurso de Sidre Casero de Villaviciosa returns on 30 August to the square outside the council.",
-          "The organisers highlight that this year's edition brings quality in the ciders and a generational handover among those taking part."
-        ],
-        "apunte": "The future of homemade sidre seems to be in good hands — and in good bottles.",
-        "enVeinte": [
-          "The Concurso de Sidre Casero de Villaviciosa takes place on 30 August in the square outside the council.",
-          "The organisers note that this year the quality of the ciders is particularly noteworthy.",
-          "The participation of young people ensures, according to those responsible, the contest's future."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "sidre casero",
-          "como": "sí-dre ca-sé-ro",
-          "definicion": "Cider made by hand, usually in a family llagar (a cider mill) or by a small producer, without the industrial requirements of commercial cider. In Asturias, distinguishing it from sidre de llagar or bottled cider is a matter of pride."
-        },
-        "porQue": "If you make your own sidre (homemade cider) or know someone who does, 30 August is the day to bring it to the square and see how it stands up against the rest.",
-        "lugar": "plaza del Ayuntamiento, Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le sidre casero de Villaviciosa donne rendez-vous le 30 août",
-        "entradilla": "Le concours arrive cette année, selon ses organisateurs, avec une belle qualité et de nouveaux visages parmi les participants.",
-        "cuerpo": [
-          "Le Concurso de Sidre Casero de Villaviciosa revient le 30 août sur la place de la mairie.",
-          "Les organisateurs soulignent que l'édition de cette année apporte de la qualité dans les cidres et un renouvellement des générations parmi les participants."
-        ],
-        "apunte": "L'avenir du sidre casero semble entre de bonnes mains — et dans de bonnes bouteilles.",
-        "enVeinte": [
-          "Le Concurso de Sidre Casero de Villaviciosa se tient le 30 août sur la place de la mairie.",
-          "Les organisateurs indiquent que la qualité des cidres est particulièrement remarquable cette année.",
-          "La participation de jeunes gens assure, selon les responsables, la relève du concours."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "sidre casero",
-          "como": "sí-dre ca-sé-ro",
-          "definicion": "Cidre fabriqué de façon artisanale, généralement dans le llagar (pressoir à cidre) familial ou chez un petit producteur, sans les contraintes industrielles du cidre commercial. En Asturies, le distinguer du sidre de llagar ou du cidre en bouteille est une question de fierté."
-        },
-        "porQue": "Si vous faites votre propre sidre casero (cidre artisanal) ou si vous connaissez quelqu'un qui en fabrique, le 30 août est le jour idéal pour l'apporter sur la place et voir comment il se mesure aux autres.",
-        "lugar": "plaza del Ayuntamiento, Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosas hausgemachter Sidre-Wettbewerb am 30. August",
-        "entradilla": "Der Wettbewerb kommt in diesem Jahr laut seinen Veranstaltern mit hoher Qualität und neuen Gesichtern unter den Teilnehmern.",
-        "cuerpo": [
-          "Der Concurso de Sidre Casero de Villaviciosa kehrt am 30. August auf den Platz vor dem Rathaus zurück.",
-          "Die Veranstalter betonen, dass die diesjährige Ausgabe sowohl Qualität bei den Cidres als auch einen Generationenwechsel unter den Teilnehmenden mit sich bringt."
-        ],
-        "apunte": "Die Zukunft des hausgemachten Sidre scheint in guten Händen zu liegen — und in guten Flaschen.",
-        "enVeinte": [
-          "Der Concurso de Sidre Casero de Villaviciosa findet am 30. August auf dem Platz vor dem Rathaus statt.",
-          "Die Veranstalter weisen darauf hin, dass die Qualität der Cidres in diesem Jahr besonders hervorzuheben ist.",
-          "Die Beteiligung junger Menschen sichert laut den Verantwortlichen die Zukunft des Wettbewerbs."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "sidre casero",
-          "como": "sí-dre ca-sé-ro",
-          "definicion": "Handwerklich hergestellter Cidre, in der Regel im familiären llagar (einer Cidre-Mühle) oder bei einem Kleinproduzenten, ohne die industriellen Anforderungen des kommerziellen Cidres. In Asturien ist die Unterscheidung vom sidre de llagar oder vom Flaschencidre eine Frage des Stolzes."
-        },
-        "porQue": "Wenn Sie eigenen sidre casero (hausgemachten Cidre) herstellen oder jemanden kennen, der das tut, ist der 30. August der richtige Tag, ihn auf den Platz zu bringen und zu sehen, wie er im Vergleich abschneidet.",
-        "lugar": "plaza del Ayuntamiento, Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "tomates-miel-y-arandanos-las-estrellas-de-la-feria-de-artesania-y-agro",
-    "url": "/villaviciosa/tomates-miel-y-arandanos-las-estrellas-de-la-feria-de-artesania-y-agro/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "La feria agroalimentaria de Villaviciosa arranca con lleno",
-    "entradilla": "Tomates, miel y arándanos lideran una edición que desde el primer momento ha congregado más público del esperado.",
-    "cuerpo": [
-      "La Feria de Artesanía y Agroalimentación de Villaviciosa abrió sus puertas con una afluencia que sorprendió a los propios organizadores, con los puestos de productos locales como protagonistas claros del arranque.",
-      "Tomates, miel y arándanos fueron los artículos más buscados por los visitantes, reflejo de una demanda creciente por el producto de proximidad en el concejo."
-    ],
-    "apunte": "Cuando el tomate de casa compite con la miel y los arándanos, el árbitro es el público, y hoy ha ganado todo el mundo.",
-    "enVeinte": [
-      "La Feria de Artesanía y Agroalimentación de Villaviciosa ha abierto con una gran afluencia de visitantes desde el primer momento.",
-      "Los productos estrella de esta edición son los tomates, la miel y los arándanos locales.",
-      "La respuesta del público invita al optimismo sobre las ventas de los expositores."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Para quien vive en el concejo, la feria es la ocasión del año de hacerse con producto local de calidad y de apoyar directamente a los productores de la zona.",
-    "etiquetas": [
-      "Villaviciosa",
-      "feria",
-      "agroalimentación",
-      "artesanía"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/12/feria-villaviciosa%20(3)-ROwElq6s9YAX4Qlxd0xzZgJ-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-12T13:23:11.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/tomates-miel-arandanos-estrellas-feria-artesania-agroalimentacion-20260812152310-nt.html",
-      "titularOriginal": "Tomates, miel y arándanos, las estrellas de la Feria de Artesanía y Agroalimentación de Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa's food and craft fair opens to a full house",
-        "entradilla": "Tomatoes, honey and blueberries lead an edition that drew more visitors than expected from the very first moment.",
-        "cuerpo": [
-          "The Feria de Artesanía y Agroalimentación de Villaviciosa opened its doors to a turnout that surprised the organisers themselves, with stalls selling local produce as the clear stars of the opening.",
-          "Tomatoes, honey and blueberries were the most sought-after items among visitors, reflecting a growing demand for locally sourced products in the municipality."
-        ],
-        "apunte": "When the home-grown tomato goes up against honey and blueberries, the public is the referee — and today everyone won.",
-        "enVeinte": [
-          "The Feria de Artesanía y Agroalimentación de Villaviciosa has opened to a large crowd from the very first moment.",
-          "The star products of this edition are tomatoes, honey and local blueberries.",
-          "The public's response gives exhibitors reason for optimism about sales."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "For those living in the municipality, the fair is the event of the year to get hold of quality local produce and give direct support to producers in the area.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La foire agroalimentaire de Villaviciosa ouvre à guichets fermés",
-        "entradilla": "Tomates, miel et myrtilles dominent une édition qui a rassemblé plus de visiteurs qu'attendu dès les premières heures.",
-        "cuerpo": [
-          "La Feria de Artesanía y Agroalimentación de Villaviciosa a ouvert ses portes avec une affluence qui a surpris les organisateurs eux-mêmes, les stands de produits locaux s'imposant comme les vedettes incontestables du lancement.",
-          "Tomates, miel et myrtilles ont été les articles les plus recherchés par les visiteurs, reflet d'une demande croissante pour les produits de proximité dans la commune."
-        ],
-        "apunte": "Quand la tomate du jardin affronte le miel et les myrtilles, c'est le public qui arbitre — et aujourd'hui tout le monde a gagné.",
-        "enVeinte": [
-          "La Feria de Artesanía y Agroalimentación de Villaviciosa a ouvert avec une très forte affluence dès le premier instant.",
-          "Les produits vedettes de cette édition sont les tomates, le miel et les myrtilles locales.",
-          "La réponse du public invite à l'optimisme quant aux ventes des exposants."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Pour ceux qui vivent dans la commune, la foire est l'événement de l'année pour se procurer des produits locaux de qualité et soutenir directement les producteurs de la région.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die Lebensmittel- und Handwerksmesse von Villaviciosa eröffnet mit vollem Haus",
-        "entradilla": "Tomaten, Honig und Heidelbeeren prägen eine Ausgabe, die von Anfang an mehr Besucher angezogen hat als erwartet.",
-        "cuerpo": [
-          "Die Feria de Artesanía y Agroalimentación de Villaviciosa öffnete ihre Tore mit einem Andrang, der die Veranstalter selbst überraschte — die Stände mit lokalen Produkten waren von Beginn an die klaren Hauptattraktionen.",
-          "Tomaten, Honig und Heidelbeeren waren die meistgesuchten Artikel unter den Besuchern, ein Spiegelbild der wachsenden Nachfrage nach regionalen Produkten in der Gemeinde."
-        ],
-        "apunte": "Wenn die selbst angebaute Tomate gegen Honig und Heidelbeeren antritt, ist das Publikum der Schiedsrichter — und heute hat jeder gewonnen.",
-        "enVeinte": [
-          "Die Feria de Artesanía y Agroalimentación de Villaviciosa hat von Anfang an einen großen Besucheransturm erlebt.",
-          "Die Starprodukte dieser Ausgabe sind Tomaten, Honig und lokale Heidelbeeren.",
-          "Die Resonanz des Publikums stimmt die Aussteller hinsichtlich ihrer Verkaufszahlen optimistisch."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Für die Bewohner der Gemeinde ist die Messe das Ereignis des Jahres, um hochwertige lokale Produkte zu erwerben und die Erzeuger der Region direkt zu unterstützen.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "la feria de artesania y agroalimentacion de villaviciosa"
-    ]
   }
 ]
