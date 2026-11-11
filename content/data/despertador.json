@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-11-10T18:56:49.858Z",
+  "fecha": "2026-11-11T06:02:55.651Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Villaviciosa contrata directamente a los 12 trabajadores de su piscina, pero costará más.",
-      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-subrogara-a-los-12-trabajadores-de-la-/"
+      "concejo": "Cabrales",
+      "frase": "Dos senderistas perdidos en Cabrales, rescatados ilesos por los bomberos.",
+      "enlace": "/cabrales/los-bomberos-rescatan-a-dos-senderistas-desorientados-en-cabrales/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "Más de 30 películas asturianas llegan al FICX entre el 13 y el 21 de noviembre.",
-      "enlace": "/cabrales/el-cine-asturiano-gana-protagonismo-en-el-festival-de-gijon-con-mas-de/"
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa busca gestor para su piscina municipal: el proceso arranca el jueves.",
+      "enlace": "/villaviciosa/villaviciosa-prepara-la-nueva-gestion-de-la-piscina-municipal-cuyas-ob/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "El Museo de la Sidra reúne el 14 de noviembre al tejido asociativo comarcal.",
+      "enlace": "/nava/nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el/"
     }
   ]
 }

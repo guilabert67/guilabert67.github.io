@@ -1,5 +1,431 @@
 [
   {
+    "id": "nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el",
+    "url": "/nava/nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "El Museo de la Sidra reúne al tejido asociativo comarcal",
+    "entradilla": "El encuentro del 14 de noviembre quiere tender puentes entre asociaciones que casi nunca se sientan juntas.",
+    "cuerpo": [
+      "El Museo de la Sidra de Nava acoge el 14 de noviembre el I Encuentro de Asociaciones de la Comarca de la Sidra, una jornada pensada para que entidades de la zona compartan lo que hacen y exploren formas de trabajar juntas.",
+      "Es la primera edición de un encuentro que nace con vocación de comarca: el objetivo no es solo ponerse cara, sino ver qué proyectos pueden salir de unir fuerzas entre colectivos que hasta ahora tiraban cada uno por su lado."
+    ],
+    "apunte": "Primera edición: todavía queda tiempo para que el tejido asociativo se teja de verdad.",
+    "enVeinte": [
+      "El 14 de noviembre, el Museo de la Sidra de Nava acoge el primer encuentro entre asociaciones de la comarca.",
+      "La jornada busca que los colectivos locales compartan experiencias y arranquen colaboraciones nuevas.",
+      "Es la primera vez que se organiza un encuentro de este tipo a escala comarcal."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "comarca de la sidra",
+      "como": "tal cual, sin misterio",
+      "definicion": "Nombre con el que se conoce popularmente la zona del centro-oriente asturiano cuya identidad está ligada a la producción y la cultura de la sidra, con Nava como referencia principal por su Museo de la Sidra."
+    },
+    "porQue": "Si tu asociación es de la comarca, esta jornada es la ocasión de conocer a los colectivos vecinos y ver si hay algo que hacer juntos.",
+    "etiquetas": [
+      "asociaciones",
+      "Nava",
+      "comarca de la sidra",
+      "Museo de la Sidra"
+    ],
+    "fechaEvento": "2026-11-14",
+    "tipoEvento": "taller",
+    "lugar": "Museo de la Sidra, Nava",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/nava-acoge-el-i-encuentro-de-asociaciones-de-la-co-9446dac2.jpg",
+    "fecha": "2026-11-11T01:30:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/comarca-de-la-sidra/nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el-14-de-noviembre-11277104.html",
+      "titularOriginal": "Nava acoge el I Encuentro de Asociaciones de la Comarca de la Sidra el 14 de noviembre"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Museo de la Sidra brings together the county's associations",
+        "entradilla": "The 14 November gathering aims to build bridges between associations that rarely sit down together.",
+        "cuerpo": [
+          "The Museo de la Sidra in Nava is hosting the I Encuentro de Asociaciones de la Comarca de la Sidra on 14 November, a day designed for local organisations to share what they do and explore ways of working together.",
+          "This is the first edition of a gathering born with a county-wide ambition: the goal is not just to put faces to names, but to see what projects can come out of joining forces between groups that until now have each gone their own way."
+        ],
+        "apunte": "First edition: there is still time for the associative fabric to truly weave itself together.",
+        "enVeinte": [
+          "On 14 November, the Museo de la Sidra in Nava hosts the first gathering of associations from across the county.",
+          "The day aims to help local groups share experiences and kick off new collaborations.",
+          "It is the first time an event of this kind has been organised at county level."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "comarca de la sidra",
+          "como": "as written, no mystery",
+          "definicion": "The popular name for the area in central-eastern Asturias whose identity is tied to the production and culture of cider, with Nava as its main reference point thanks to its Museo de la Sidra."
+        },
+        "porQue": "If your association is in the county, this day is the chance to meet neighbouring groups and see whether there is something you could do together.",
+        "lugar": "Museo de la Sidra, Nava",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Museo de la Sidra réunit le tissu associatif de la commune",
+        "entradilla": "La rencontre du 14 novembre veut créer des liens entre associations qui ne s'assoient presque jamais ensemble.",
+        "cuerpo": [
+          "Le Museo de la Sidra de Nava accueille le 14 novembre le I Encuentro de Asociaciones de la Comarca de la Sidra, une journée pensée pour que les entités de la zone partagent ce qu'elles font et explorent des façons de travailler ensemble.",
+          "C'est la première édition d'une rencontre qui naît avec une vocation de territoire : l'objectif n'est pas seulement de mettre des visages sur des noms, mais de voir quels projets peuvent émerger en unissant les forces de collectifs qui, jusqu'ici, tiraient chacun de leur côté."
+        ],
+        "apunte": "Première édition : il reste encore du temps pour que le tissu associatif se tisse vraiment.",
+        "enVeinte": [
+          "Le 14 novembre, le Museo de la Sidra de Nava accueille la première rencontre entre associations de la zone.",
+          "La journée vise à permettre aux collectifs locaux de partager leurs expériences et de lancer de nouvelles collaborations.",
+          "C'est la première fois qu'une rencontre de ce type est organisée à l'échelle du territoire."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "comarca de la sidra",
+          "como": "tel quel, sans mystère",
+          "definicion": "Nom populaire donné à la zone du centre-est des Asturies dont l'identité est liée à la production et à la culture du cidre, avec Nava comme référence principale grâce à son Museo de la Sidra."
+        },
+        "porQue": "Si votre association est dans la zone, cette journée est l'occasion de rencontrer les collectifs voisins et de voir s'il y a quelque chose à faire ensemble.",
+        "lugar": "Museo de la Sidra, Nava",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Museo de la Sidra bringt das Vereinsnetz der Gemeinde zusammen",
+        "entradilla": "Das Treffen am 14. November soll Brücken zwischen Vereinen bauen, die kaum je gemeinsam am Tisch sitzen.",
+        "cuerpo": [
+          "Das Museo de la Sidra in Nava richtet am 14. November das I Encuentro de Asociaciones de la Comarca de la Sidra aus, einen Tag, der dazu gedacht ist, dass Organisationen der Region teilen, was sie tun, und Wege der Zusammenarbeit erkunden.",
+          "Es ist die erste Ausgabe eines Treffens, das mit einem gebietsweiten Anspruch geboren wird: Das Ziel ist nicht nur, Gesichter kennenzulernen, sondern zu sehen, welche Projekte entstehen können, wenn Gruppen ihre Kräfte bündeln, die bisher jede für sich gearbeitet haben."
+        ],
+        "apunte": "Erste Ausgabe: Es bleibt noch Zeit, damit das Vereinsnetz wirklich zusammenwächst.",
+        "enVeinte": [
+          "Am 14. November richtet das Museo de la Sidra in Nava das erste Treffen der Vereine aus dem Gebiet aus.",
+          "Der Tag soll den lokalen Gruppen ermöglichen, Erfahrungen auszutauschen und neue Kooperationen anzustoßen.",
+          "Es ist das erste Mal, dass eine Veranstaltung dieser Art auf Gebietsebene organisiert wird."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "comarca de la sidra",
+          "como": "so wie es dasteht, kein Geheimnis",
+          "definicion": "Volksläufiger Name für das Gebiet im Zentrum-Osten Asturiens, dessen Identität mit der Produktion und Kultur des Apfelweins verbunden ist, wobei Nava dank seines Museo de la Sidra als wichtigster Bezugspunkt gilt."
+        },
+        "porQue": "Wenn Ihr Verein in der Gegend ansässig ist, bietet dieser Tag die Gelegenheit, die benachbarten Gruppen kennenzulernen und zu sehen, ob es etwas gibt, das man gemeinsam angehen könnte.",
+        "lugar": "Museo de la Sidra, Nava",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el i encuentro de asociaciones de la comarca",
+      "i encuentro de asociaciones de la comarca de",
+      "encuentro de asociaciones de la comarca de la",
+      "de asociaciones de la comarca de la sidra"
+    ]
+  },
+  {
+    "id": "villaviciosa-prepara-la-nueva-gestion-de-la-piscina-municipal-cuyas-ob",
+    "url": "/villaviciosa/villaviciosa-prepara-la-nueva-gestion-de-la-piscina-municipal-cuyas-ob/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca gestor para su piscina municipal",
+    "entradilla": "El Ayuntamiento arranca el jueves 12 de noviembre el proceso para contratar la explotación del vaso, cuyas obras están a punto de terminar.",
+    "cuerpo": [
+      "El concejo de Villaviciosa va a sacar a concurso la gestión de la piscina municipal. El proceso de contratación comienza este jueves 12 de noviembre.",
+      "Eso sí, quien se lleve el contrato no va a cubrir los costes por sí solo: el estudio económico ya advierte de que el Ayuntamiento tendrá que seguir poniendo dinero encima de la mesa, sobre todo por los gastos de personal."
+    ],
+    "apunte": "La piscina va a tener gestor nuevo antes de que el verano pille al Ayuntamiento sin plan.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa inicia el 12 de noviembre el concurso para contratar la gestión de la piscina municipal.",
+      "Las obras de la instalación están en su tramo final.",
+      "El estudio económico prevé que el concejo tendrá que cofinanciar la explotación porque los costes de personal son elevados."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien use la piscina de Villaviciosa necesita saber quién la va a gestionar y cuándo abre: ese proceso arranca ya esta semana.",
+    "etiquetas": [
+      "Villaviciosa",
+      "piscina municipal",
+      "contratación",
+      "instalaciones deportivas"
+    ],
+    "fechaEvento": "2026-11-12",
+    "tipoEvento": "",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-prepara-la-nueva-gestion-de-la-piscin-9a61fa2d.jpg",
+    "fecha": "2026-11-11T01:11:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-prepara-la-nueva-gestion-de-la-piscina-municipal-cuyas-obras-entran-en-su-recta-final-11277103.html",
+      "titularOriginal": "Villaviciosa prepara la nueva gestión de la piscina municipal, cuyas obras entran en su recta final"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks a manager for its municipal swimming pool",
+        "entradilla": "The council launches the tendering process on Thursday 12 November to contract the management of the pool, whose construction work is nearly complete.",
+        "cuerpo": [
+          "The municipality of Villaviciosa is putting the management of its municipal swimming pool out to tender. The contracting process begins this Thursday, 12 November.",
+          "That said, whoever wins the contract will not be able to cover costs on their own: the economic study already warns that the council will have to keep putting money on the table, above all due to staffing costs."
+        ],
+        "apunte": "The pool will have a new manager before summer catches the council without a plan.",
+        "enVeinte": [
+          "Villaviciosa council launches the tender on 12 November to contract the management of the municipal swimming pool.",
+          "Construction work on the facility is in its final stretch.",
+          "The economic study anticipates that the municipality will have to co-finance the operation because staffing costs are high."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Anyone who uses the Villaviciosa pool needs to know who will manage it and when it opens: that process is already getting under way this week.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche un gestionnaire pour sa piscine municipale",
+        "entradilla": "La mairie lance jeudi 12 novembre la procédure de mise en concurrence pour confier l'exploitation du bassin, dont les travaux sont sur le point de s'achever.",
+        "cuerpo": [
+          "La commune de Villaviciosa va mettre en concurrence la gestion de sa piscine municipale. La procédure de passation de marché débute ce jeudi 12 novembre.",
+          "Cela dit, le lauréat du contrat ne pourra pas couvrir les coûts seul : l'étude économique prévient déjà que la mairie devra continuer à mettre la main à la poche, notamment en raison des charges de personnel."
+        ],
+        "apunte": "La piscine aura un nouveau gestionnaire avant que l'été ne prenne la mairie sans plan.",
+        "enVeinte": [
+          "La mairie de Villaviciosa lance le 12 novembre l'appel d'offres pour confier la gestion de la piscine municipale.",
+          "Les travaux de l'équipement en sont à leur dernière ligne droite.",
+          "L'étude économique prévoit que la commune devra cofinancer l'exploitation, les charges de personnel étant élevées."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Quiconque fréquente la piscine de Villaviciosa a besoin de savoir qui va la gérer et quand elle ouvre : ce processus démarre dès cette semaine.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht einen Betreiber für sein Gemeindebad",
+        "entradilla": "Das Rathaus startet am Donnerstag, dem 12. November, das Vergabeverfahren für den Betrieb des Beckens, dessen Bauarbeiten kurz vor dem Abschluss stehen.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa schreibt die Verwaltung ihres Gemeindebads aus. Das Vergabeverfahren beginnt an diesem Donnerstag, dem 12. November.",
+          "Allerdings wird derjenige, der den Auftrag erhält, die Kosten nicht allein decken können: Die Wirtschaftlichkeitsstudie weist bereits darauf hin, dass das Rathaus weiterhin Geld zuschießen muss, vor allem wegen der Personalkosten."
+        ],
+        "apunte": "Das Bad wird einen neuen Betreiber haben, bevor der Sommer das Rathaus ohne Plan erwischt.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa eröffnet am 12. November die Ausschreibung für den Betrieb des Gemeindebads.",
+          "Die Bauarbeiten an der Anlage befinden sich in der Schlussphase.",
+          "Die Wirtschaftlichkeitsstudie geht davon aus, dass die Gemeinde den Betrieb mitfinanzieren muss, da die Personalkosten hoch sind."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer das Bad in Villaviciosa nutzt, muss wissen, wer es betreiben wird und wann es öffnet: Dieser Prozess beginnt bereits in dieser Woche.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "los-bomberos-rescatan-a-dos-senderistas-desorientados-en-cabrales",
+    "url": "/cabrales/los-bomberos-rescatan-a-dos-senderistas-desorientados-en-cabrales/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Bomberos rescatan dos senderistas perdidos en Cabrales",
+    "entradilla": "Los equipos de emergencias los devolvieron sanos y salvos hasta donde habían dejado el coche.",
+    "cuerpo": [
+      "Dos senderistas que se desorientaron en el concejo de Cabrales tuvieron que ser rescatados por los Bomberos el martes 10 de noviembre.",
+      "Una vez localizados, los equipos de emergencias los acompañaron hasta el aparcamiento donde aguardaba su vehículo, sin que la fuente recoja heridos."
+    ],
+    "apunte": "Las montañas de Cabrales orientan mal incluso a quienes saben andar por ellas.",
+    "enVeinte": [
+      "Los Bomberos rescataron a dos senderistas que se desorientaron en el concejo de Cabrales el 10 de noviembre.",
+      "Los afectados no sufrieron heridas y fueron conducidos de vuelta al aparcamiento donde tenían su coche.",
+      "El suceso recuerda la importancia de llevar bien planificada cualquier ruta por la montaña cabraliega."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Cabrales concentra algunos de los terrenos más abruptos de Asturias; que dos senderistas necesiten rescate avisa a quienes planean salir al monte estos días de otoño.",
+    "etiquetas": [
+      "Cabrales",
+      "rescate",
+      "senderismo",
+      "bomberos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Cabrales",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/10/rescate-khtE-U40282107380R9F-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-10T21:12:57.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/bomberos-rescatan-dos-senderistas-desorientados-cabrales-20261110221256-nt.html",
+      "titularOriginal": "Los Bomberos rescatan a dos senderistas desorientados en Cabrales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Firefighters rescue two hikers lost in Cabrales",
+        "entradilla": "Emergency teams brought them back safe and sound to where they had left their car.",
+        "cuerpo": [
+          "Two hikers who became disoriented in the municipality of Cabrales had to be rescued by firefighters on Tuesday 10 November.",
+          "Once located, the emergency teams escorted them to the car park where their vehicle was waiting; no injuries were reported."
+        ],
+        "apunte": "The mountains of Cabrales can disorient even those who know how to walk them.",
+        "enVeinte": [
+          "Firefighters rescued two hikers who became disoriented in the municipality of Cabrales on 10 November.",
+          "Those involved suffered no injuries and were led back to the car park where they had left their vehicle.",
+          "The incident is a reminder of the importance of planning any route through the mountains of Cabrales carefully."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Cabrales contains some of the most rugged terrain in Asturias; that two hikers needed rescuing serves as a warning to those planning to head into the hills these autumn days.",
+        "lugar": "Cabrales",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les pompiers secourent deux randonneurs perdus à Cabrales",
+        "entradilla": "Les équipes de secours les ont ramenés sains et saufs jusqu'à l'endroit où ils avaient laissé leur voiture.",
+        "cuerpo": [
+          "Deux randonneurs qui s'étaient désorientés dans la commune de Cabrales ont dû être secourus par les pompiers le mardi 10 novembre.",
+          "Une fois localisés, les équipes de secours les ont accompagnés jusqu'au parking où leur véhicule les attendait ; aucun blessé n'a été signalé."
+        ],
+        "apunte": "Les montagnes de Cabrales désorientent même ceux qui savent s'y déplacer.",
+        "enVeinte": [
+          "Les pompiers ont secouru deux randonneurs désorientés dans la commune de Cabrales le 10 novembre.",
+          "Les personnes concernées n'ont subi aucune blessure et ont été reconduites jusqu'au parking où se trouvait leur voiture.",
+          "L'incident rappelle l'importance de bien préparer tout itinéraire en montagne dans la région de Cabrales."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Cabrales concentre certains des terrains les plus escarpés des Asturies ; le fait que deux randonneurs aient eu besoin d'être secourus avertit ceux qui prévoient de partir en montagne en ces journées d'automne.",
+        "lugar": "Cabrales",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Feuerwehr rettet zwei verirrte Wanderer in Cabrales",
+        "entradilla": "Die Rettungsteams brachten sie wohlbehalten zurück zu ihrem Auto.",
+        "cuerpo": [
+          "Zwei Wanderer, die sich in der Gemeinde Cabrales verirrt hatten, mussten am Dienstag, dem 10. November, von der Feuerwehr gerettet werden.",
+          "Nachdem sie gefunden worden waren, begleiteten die Rettungsteams sie zu dem Parkplatz, wo ihr Fahrzeug wartete; Verletzte wurden nicht gemeldet."
+        ],
+        "apunte": "Die Berge von Cabrales können selbst erfahrene Wanderer in die Irre führen.",
+        "enVeinte": [
+          "Die Feuerwehr rettete zwei Wanderer, die sich am 10. November in der Gemeinde Cabrales verirrt hatten.",
+          "Die Betroffenen erlitten keine Verletzungen und wurden zurück zu dem Parkplatz geführt, wo ihr Auto stand.",
+          "Der Vorfall erinnert daran, wie wichtig eine gute Planung jeder Wanderroute in den Bergen von Cabrales ist."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Cabrales beherbergt einige der unwegsamsten Gebiete Asturiens; dass zwei Wanderer gerettet werden mussten, ist eine Warnung an alle, die in diesen Herbsttagen in die Berge aufbrechen wollen.",
+        "lugar": "Cabrales",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "rescatados-ilesos-dos-senderistas-desorientados-en-cabrales",
+    "url": "/cabrales/rescatados-ilesos-dos-senderistas-desorientados-en-cabrales/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "Dos senderistas rescatados ilesos en Cabrales",
+    "entradilla": "Los bomberos del SEPA los encontraron desorientados en la montaña y los acompañaron sanos y salvos hasta su coche.",
+    "cuerpo": [
+      "Dos senderistas perdieron la orientación en una ruta de montaña de Cabrales. Los bomberos del SEPA los localizaron y los pusieron a salvo sin que ninguno sufriera lesiones.",
+      "Una vez rescatados, los dos caminantes fueron conducidos hasta su vehículo y pudieron irse por su propio pie."
+    ],
+    "apunte": "La montaña de los Picos no perdona los despistes, pero esta vez sí.",
+    "enVeinte": [
+      "Dos senderistas se desorientaron en una ruta de montaña en Cabrales.",
+      "Los bomberos del SEPA los localizaron y los llevaron hasta su vehículo.",
+      "Ambos salieron ilesos del lance."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Quien sale a andar por las cumbres de Cabrales debe ir preparado: incluso en rutas conocidas, perderse puede acabar requiriendo una intervención de los servicios de emergencia.",
+    "etiquetas": [
+      "Cabrales",
+      "rescate",
+      "senderismo",
+      "SEPA"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/rescatados-ilesos-dos-senderistas-desorientados-en-cab-38796.jpg",
+    "fecha": "2026-11-10T21:11:42.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/sucesos/rescatados-ilesos-dos-senderistas-desorientados-en-cabrales-11277102.html",
+      "titularOriginal": "Rescatados ilesos dos senderistas desorientados en Cabrales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Two hikers rescued unharmed in Cabrales",
+        "entradilla": "SEPA firefighters found them disoriented on the mountain and walked them safely back to their car.",
+        "cuerpo": [
+          "Two hikers lost their bearings on a mountain trail in Cabrales. SEPA firefighters located them and brought them to safety without either sustaining any injuries.",
+          "Once rescued, the two walkers were escorted to their vehicle and were able to leave on their own two feet."
+        ],
+        "apunte": "The Picos mountains are unforgiving of careless moments — but not this time.",
+        "enVeinte": [
+          "Two hikers lost their bearings on a mountain trail in Cabrales.",
+          "SEPA firefighters located them and walked them back to their vehicle.",
+          "Both came away from the ordeal unharmed."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Anyone heading out to walk the peaks of Cabrales should go prepared: even on well-known trails, getting lost can end up requiring emergency services to intervene.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Deux randonneurs secourus sains et saufs à Cabrales",
+        "entradilla": "Les pompiers du SEPA les ont retrouvés désorientés en montagne et les ont raccompagnés sans encombre jusqu'à leur voiture.",
+        "cuerpo": [
+          "Deux randonneurs ont perdu leurs repères sur un sentier de montagne à Cabrales. Les pompiers du SEPA les ont localisés et mis en sécurité sans qu'aucun des deux ne soit blessé.",
+          "Une fois secourus, les deux marcheurs ont été conduits jusqu'à leur véhicule et ont pu repartir par leurs propres moyens."
+        ],
+        "apunte": "La montagne des Picos ne pardonne pas les instants d'inattention — mais cette fois-ci, si.",
+        "enVeinte": [
+          "Deux randonneurs se sont perdus sur un sentier de montagne à Cabrales.",
+          "Les pompiers du SEPA les ont localisés et raccompagnés jusqu'à leur véhicule.",
+          "Tous deux sont sortis indemnes de l'aventure."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Quiconque part marcher sur les sommets de Cabrales doit être bien préparé : même sur des itinéraires connus, se perdre peut finir par nécessiter l'intervention des services d'urgence.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zwei Wanderer unverletzt in Cabrales gerettet",
+        "entradilla": "Feuerwehrleute des SEPA fanden sie orientierungslos im Gebirge und brachten sie sicher zu ihrem Auto.",
+        "cuerpo": [
+          "Zwei Wanderer verloren auf einer Bergroute in Cabrales die Orientierung. Feuerwehrleute des SEPA konnten sie ausfindig machen und in Sicherheit bringen, ohne dass einer von beiden verletzt worden wäre.",
+          "Nach der Rettung wurden die beiden Wanderer zu ihrem Fahrzeug gebracht und konnten aus eigener Kraft den Heimweg antreten."
+        ],
+        "apunte": "Das Gebirge der Picos verzeiht keine Unachtsamkeit — diesmal jedoch schon.",
+        "enVeinte": [
+          "Zwei Wanderer verloren auf einer Bergroute in Cabrales die Orientierung.",
+          "Feuerwehrleute des SEPA konnten sie orten und zu ihrem Fahrzeug bringen.",
+          "Beide blieben bei dem Vorfall unverletzt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer die Gipfel von Cabrales erwandern möchte, sollte gut vorbereitet aufbrechen: Selbst auf bekannten Routen kann eine Verirrung dazu führen, dass die Rettungsdienste eingreifen müssen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-cine-asturiano-gana-protagonismo-en-el-festival-de-gijon-con-mas-de",
     "url": "/cabrales/el-cine-asturiano-gana-protagonismo-en-el-festival-de-gijon-con-mas-de/",
     "concejo": "Cabrales",
