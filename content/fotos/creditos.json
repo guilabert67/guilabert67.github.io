@@ -410,18 +410,6 @@
     "pie": "6ª QDD Internacional En Piloña (Asturias) (15153384212)",
     "consulta": "picos de europa asturias Piloña"
   },
-  "rescate-en-los-picos-de-europa-herido-un-montanero-en-cabrales-tras-ca": {
-    "archivo": "rescate-en-los-picos-de-europa-herido-un-montanero-en-cabrales-tras-ca.jpg",
-    "autor": "Mick Stephenson mixpix",
-    "licencia": "CC BY-SA 3.0",
-    "licenciaUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "atribucion": true,
-    "redimensionada": true,
-    "origen": "https://commons.wikimedia.org/wiki/File:SotresPanorama.jpg",
-    "fuente": "Wikimedia Commons",
-    "pie": "SotresPanorama",
-    "consulta": "picos de europa asturias Cabrales"
-  },
   "villar-de-guergu-pide-recuperar-los-indicadores-del-pueblo-en-la-n-634": {
     "archivo": "villar-de-guergu-pide-recuperar-los-indicadores-del-pueblo-en-la-n-634.jpg",
     "autor": "Rodelar",
@@ -877,5 +865,17 @@
     "fuente": "Wikimedia Commons",
     "pie": "Nava - Iglesia de San Bartolomé 2",
     "consulta": "iglesia asturias Nava"
+  },
+  "la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-": {
+    "archivo": "la-montana-que-nunca-duerme-el-peligro-invisible-de-la-ruta-del-cares-.jpg",
+    "autor": "Mick Stephenson mixpix",
+    "licencia": "CC BY-SA 3.0",
+    "licenciaUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:SotresPanorama.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "SotresPanorama",
+    "consulta": "picos de europa asturias Cabrales"
   }
 }
