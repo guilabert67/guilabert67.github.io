@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-11-12T10:16:38.336Z",
+  "fecha": "2026-11-12T18:28:27.097Z",
   "puntos": [
     {
+      "concejo": "Cabrales",
+      "frase": "Cabrales reorganiza el campo: 638 parcelas se convierten en 198 fincas más manejables.",
+      "enlace": "/cabrales/entregados-los-168-titulos-de-propiedad-tras-la-concentracion-parcelar/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Oviedo debate este jueves cómo la soledad digital afecta a jóvenes y mayores.",
+      "frase": "Oviedo debate este jueves cómo frenar el aislamiento digital en jóvenes y mayores.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
-    },
-    {
-      "concejo": "Piloña",
-      "frase": "Teatro infantil en L'Infiestu este jueves: una niña asturiana y un pájaro llamado Luisín.",
-      "enlace": "/pilona/pilona-acoge-la-obra-infantil-pajaros-en-la-cabeza-este-jueves/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Tere Casielles expone más de ochenta óleos con la luz de Asturias en el Café Avenida.",
-      "enlace": "/villaviciosa/la-pintora-villaviciosina-tere-casielles-expone-su-proyecto-un-ano-de-/"
     }
   ]
 }
