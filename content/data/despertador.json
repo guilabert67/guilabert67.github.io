@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-13T12:43:49.848Z",
+  "fecha": "2026-11-13T20:08:16.690Z",
   "puntos": [
     {
-      "concejo": "Cabranes",
-      "frase": "Un colmado de Cabranes triunfa en el Caribe con un anuncio navideño viral.",
-      "enlace": "/cabranes/asturias-tambien-se-sienta-a-la-mesa-del-caribe/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Los Glayus llevan el teatro a las Jornadas sobre Soledad de Villaviciosa.",
-      "enlace": "/villaviciosa/teatro-en-zapatillas-en-la-comarca-de-la-sidra-contra-la-soledad-no-de/"
+      "concejo": "Piloña",
+      "frase": "El RIDEA llega a Villamayor en noviembre con cinco charlas sobre el lobo y el mundo rural.",
+      "enlace": "/pilona/el-ridea-reune-en-noviembre-conferencias-sobre-el-lobo-iberico-la-arqu/"
     },
     {
       "concejo": "Nava",
-      "frase": "Nava abre diez días para apuntarse a su primer concurso de decoración navideña.",
-      "enlace": "/nava/concurso-de-iluminacion-y-decoracion-navidena/"
+      "frase": "El Día de la Infancia se celebra el viernes en la Casa de Cultura de Nava.",
+      "enlace": "/nava/la-comarca-de-la-sidra-celebrara-en-nava-el-dia-universal-de-los-derec/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Este jueves, Oviedo reúne expertos para hablar de soledad digital en jóvenes y mayores.",
+      "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]
 }

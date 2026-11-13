@@ -1,5 +1,227 @@
 [
   {
+    "id": "el-ridea-reune-en-noviembre-conferencias-sobre-el-lobo-iberico-la-arqu",
+    "url": "/pilona/el-ridea-reune-en-noviembre-conferencias-sobre-el-lobo-iberico-la-arqu/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "agenda",
+    "titular": "El RIDEA trae en noviembre charlas a Villamayor",
+    "entradilla": "El Real Instituto de Estudios Asturianos programa cinco conferencias sobre el lobo, la arqueología y el mundo rural, con parada en Piloña.",
+    "cuerpo": [
+      "El Real Instituto de Estudios Asturianos celebra en noviembre una serie de cinco conferencias repartidas entre Oviedo y Villamayor, en Piloña. Los temas giran en torno al lobo ibérico, la arqueología asturiana y los retos del medio rural.",
+      "Para quien vive en el concejo, la cita de Villamayor es la más cercana y la más fácil de apuntar en la agenda."
+    ],
+    "apunte": "El lobo, la piedra y el prau: lo que queda de Asturias en un ciclo de charlas.",
+    "enVeinte": [
+      "El RIDEA organiza cinco conferencias en noviembre sobre el lobo ibérico, la arqueología y el medio rural asturiano.",
+      "Las sesiones se reparten entre Oviedo y Villamayor, en el concejo de Piloña.",
+      "No se conocen aún los horarios ni los precios concretos de cada acto."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "prau",
+      "como": "prau (como suena, sin diptongar)",
+      "definicion": "Prado en asturiano. Terreno llano dedicado al pasto o al corte de hierba, pieza clave del paisaje agrario de los concejos del interior. Cuando el material habla de medio rural asturiano, el prau es uno de sus protagonistas callados."
+    },
+    "porQue": "Que el RIDEA acerque una de sus sesiones a Villamayor significa que los vecinos de Piloña pueden asistir sin desplazarse hasta Oviedo a escuchar debates sobre asuntos que afectan directamente a su territorio.",
+    "etiquetas": [
+      "RIDEA",
+      "conferencias",
+      "Villamayor",
+      "lobo ibérico"
+    ],
+    "fechaEvento": "2026-11-13",
+    "tipoEvento": "taller",
+    "lugar": "Villamayor (Piloña)",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-ridea-reune-en-noviembre-conferencias-sobre-el-10287d71.jpg",
+    "fecha": "2026-11-13T14:31:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/sociedad-cultura/el-ridea-reune-en-noviembre-conferencias-sobre-el-lobo-iberico-la-arqueologia-y-el-medio-rural-asturiano-11277158.html",
+      "titularOriginal": "El RIDEA reúne en noviembre conferencias sobre el lobo ibérico, la arqueología y el medio rural asturiano"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "RIDEA brings talks to Villamayor in November",
+        "entradilla": "The Real Instituto de Estudios Asturianos has scheduled five lectures on wolves, archaeology and rural life, with a stop in Piloña.",
+        "cuerpo": [
+          "The Real Instituto de Estudios Asturianos is holding a series of five lectures in November, split between Oviedo and Villamayor, in Piloña. The topics revolve around the Iberian wolf, Asturian archaeology and the challenges facing rural areas.",
+          "For anyone living in the municipality, the Villamayor session is the closest and the easiest to put in the diary."
+        ],
+        "apunte": "The wolf, the stone and the prau (meadow): what remains of Asturias in a lecture series.",
+        "enVeinte": [
+          "RIDEA is organising five lectures in November on the Iberian wolf, archaeology and rural Asturias.",
+          "The sessions are split between Oviedo and Villamayor, in the municipality of Piloña.",
+          "Specific times and ticket prices for each event have not yet been announced."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (pronounced as it looks, no diphthong)",
+          "definicion": "Meadow in Asturian. A flat stretch of land used for grazing or hay-cutting, a key feature of the farming landscape in the inland municipalities. When the material speaks of rural Asturias, the prau is one of its quiet protagonists."
+        },
+        "porQue": "RIDEA bringing one of its sessions to Villamayor means that residents of Piloña can attend without having to travel all the way to Oviedo to hear debates on issues that directly affect their area.",
+        "lugar": "Villamayor (Piloña)",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le RIDEA apporte des conférences à Villamayor en novembre",
+        "entradilla": "Le Real Instituto de Estudios Asturianos programme cinq conférences sur le loup, l'archéologie et le monde rural, avec une étape à Piloña.",
+        "cuerpo": [
+          "Le Real Instituto de Estudios Asturianos organise en novembre une série de cinq conférences réparties entre Oviedo et Villamayor, dans la commune de Piloña. Les thèmes tournent autour du loup ibérique, de l'archéologie asturienne et des défis du monde rural.",
+          "Pour ceux qui vivent dans la commune, la séance de Villamayor est la plus proche et la plus facile à noter dans l'agenda."
+        ],
+        "apunte": "Le loup, la pierre et le prau (prairie) : ce qui reste des Asturies en un cycle de conférences.",
+        "enVeinte": [
+          "Le RIDEA organise cinq conférences en novembre sur le loup ibérique, l'archéologie et le monde rural asturien.",
+          "Les séances se répartissent entre Oviedo et Villamayor, dans la commune de Piloña.",
+          "Les horaires et les tarifs précis de chaque événement ne sont pas encore connus."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (se prononce comme il s'écrit, sans diphtongue)",
+          "definicion": "Prairie en asturien. Terrain plat destiné au pâturage ou à la fauche, élément clé du paysage agraire des communes de l'intérieur. Lorsque le texte parle du monde rural asturien, le prau en est l'un des protagonistes silencieux."
+        },
+        "porQue": "Le fait que le RIDEA rapproche l'une de ses séances à Villamayor signifie que les habitants de Piloña peuvent y assister sans devoir se déplacer jusqu'à Oviedo pour suivre des débats sur des sujets qui touchent directement leur territoire.",
+        "lugar": "Villamayor (Piloña)",
+        "precio": ""
+      },
+      "de": {
+        "titular": "RIDEA bringt im November Vorträge nach Villamayor",
+        "entradilla": "Das Real Instituto de Estudios Asturianos plant fünf Vorträge über den Wolf, Archäologie und das ländliche Leben – mit einem Halt in Piloña.",
+        "cuerpo": [
+          "Das Real Instituto de Estudios Asturianos veranstaltet im November eine Reihe von fünf Vorträgen, aufgeteilt zwischen Oviedo und Villamayor in der Gemeinde Piloña. Die Themen drehen sich um den Iberischen Wolf, die asturische Archäologie und die Herausforderungen des ländlichen Raums.",
+          "Für alle, die in der Gemeinde leben, ist der Termin in Villamayor der nächstgelegene und am leichtesten in den Kalender einzutragen."
+        ],
+        "apunte": "Der Wolf, der Stein und das prau (die Wiese): Was von Asturien in einem Vortragszyklus bleibt.",
+        "enVeinte": [
+          "Das RIDEA organisiert im November fünf Vorträge über den Iberischen Wolf, die Archäologie und das ländliche Asturien.",
+          "Die Veranstaltungen finden abwechselnd in Oviedo und Villamayor, in der Gemeinde Piloña, statt.",
+          "Genaue Uhrzeiten und Eintrittspreise für die einzelnen Veranstaltungen sind noch nicht bekannt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "prau",
+          "como": "prau (wird ausgesprochen wie geschrieben, kein Diphthong)",
+          "definicion": "Wiese auf Asturisch. Eine flache Fläche, die als Weide oder zur Heuernte genutzt wird – ein zentrales Element der Agrarlandschaft in den Gemeinden des Landesinneren. Wenn der Text vom ländlichen Asturien spricht, ist der prau einer seiner stillen Protagonisten."
+        },
+        "porQue": "Dass das RIDEA eine seiner Veranstaltungen nach Villamayor bringt, bedeutet, dass die Bewohner von Piloña teilnehmen können, ohne bis nach Oviedo fahren zu müssen, um Debatten über Themen zu verfolgen, die ihr Gebiet unmittelbar betreffen.",
+        "lugar": "Villamayor (Piloña)",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "la-comarca-de-la-sidra-celebrara-en-nava-el-dia-universal-de-los-derec",
+    "url": "/nava/la-comarca-de-la-sidra-celebrara-en-nava-el-dia-universal-de-los-derec/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "agenda",
+    "titular": "Nava acoge el Día de la Infancia el viernes",
+    "entradilla": "La Comarca de la Sidra organiza el acto en la Casa de Cultura Marta Portal el 20 de noviembre.",
+    "cuerpo": [
+      "La Comarca de la Sidra ha elegido Nava para celebrar el Día Universal de los Derechos de la Infancia, que se conmemora cada 20 de noviembre.",
+      "El acto tendrá lugar el viernes en la Casa de Cultura Marta Portal, en la capital del concejo."
+    ],
+    "apunte": "El 20 de noviembre tiene más de sesenta años de historia: la ONU lo fijó para recordar que los niños también tienen derechos.",
+    "enVeinte": [
+      "La Comarca de la Sidra celebra el Día Universal de los Derechos de la Infancia en Nava el 20 de noviembre.",
+      "El acto se celebra en la Casa de Cultura Marta Portal.",
+      "No se han dado a conocer el horario ni los detalles del programa."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un acto dedicado a los derechos de la infancia que reúne a toda la comarca y que tiene lugar a un paso de casa para quien viva en Nava o alrededores.",
+    "etiquetas": [
+      "infancia",
+      "Nava",
+      "Comarca de la Sidra",
+      "derechos"
+    ],
+    "fechaEvento": "2026-11-20",
+    "tipoEvento": "taller",
+    "lugar": "Casa de Cultura Marta Portal, Nava",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/13/2026111311164893505.jpg",
+    "fecha": "2026-11-13T14:18:15.000Z",
+    "fuente": {
+      "nombre": "Nava · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/nava/comarca-sidra-nava-dia-universal-infancia-encuentro-comarcal-nava/20261113151815105502.html",
+      "titularOriginal": "La Comarca de la Sidra celebrará en Nava el Día Universal de los Derechos de la Infancia"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava hosts Children's Day on Friday",
+        "entradilla": "La Comarca de la Sidra organises the event at the Casa de Cultura Marta Portal on 20 November.",
+        "cuerpo": [
+          "La Comarca de la Sidra has chosen Nava to mark the Universal Day of Children's Rights, which is commemorated every 20 November.",
+          "The event will take place on Friday at the Casa de Cultura Marta Portal, in the main town of the municipality."
+        ],
+        "apunte": "20 November has more than sixty years of history: the UN set the date to remind the world that children have rights too.",
+        "enVeinte": [
+          "La Comarca de la Sidra marks the Universal Day of Children's Rights in Nava on 20 November.",
+          "The event takes place at the Casa de Cultura Marta Portal.",
+          "The timetable and programme details have not yet been announced."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "An event dedicated to children's rights that brings together the whole county and takes place right on the doorstep for anyone living in Nava or the surrounding area.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava accueille la Journée de l'Enfance vendredi",
+        "entradilla": "La Comarca de la Sidra organise l'événement à la Casa de Cultura Marta Portal le 20 novembre.",
+        "cuerpo": [
+          "La Comarca de la Sidra a choisi Nava pour célébrer la Journée universelle des droits de l'enfant, commémorée chaque 20 novembre.",
+          "L'événement aura lieu vendredi à la Casa de Cultura Marta Portal, dans le chef-lieu de la commune."
+        ],
+        "apunte": "Le 20 novembre a plus de soixante ans d'histoire : l'ONU a retenu cette date pour rappeler que les enfants ont eux aussi des droits.",
+        "enVeinte": [
+          "La Comarca de la Sidra célèbre la Journée universelle des droits de l'enfant à Nava le 20 novembre.",
+          "L'événement se tient à la Casa de Cultura Marta Portal.",
+          "Les horaires et les détails du programme n'ont pas encore été communiqués."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un événement dédié aux droits de l'enfant qui rassemble toute la comarca et qui se déroule à deux pas de chez soi pour qui habite à Nava ou aux alentours.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava richtet am Freitag den Kindertag aus",
+        "entradilla": "La Comarca de la Sidra veranstaltet die Feier am 20. November in der Casa de Cultura Marta Portal.",
+        "cuerpo": [
+          "La Comarca de la Sidra hat Nava gewählt, um den Welttag der Kinderrechte zu begehen, der jedes Jahr am 20. November begangen wird.",
+          "Die Veranstaltung findet am Freitag in der Casa de Cultura Marta Portal statt, im Hauptort der Gemeinde."
+        ],
+        "apunte": "Der 20. November hat eine mehr als sechzigjährige Geschichte: Die UNO legte dieses Datum fest, um daran zu erinnern, dass auch Kinder Rechte haben.",
+        "enVeinte": [
+          "La Comarca de la Sidra begeht den Welttag der Kinderrechte am 20. November in Nava.",
+          "Die Veranstaltung findet in der Casa de Cultura Marta Portal statt.",
+          "Uhrzeit und Programmdetails wurden noch nicht bekannt gegeben."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Eine Veranstaltung zu den Rechten der Kinder, die die gesamte comarca zusammenbringt und für alle, die in Nava oder der Umgebung wohnen, quasi vor der Haustür stattfindet.",
+        "lugar": "Casa de Cultura Marta Portal, Nava",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el dia universal de los derechos de la",
+      "dia universal de los derechos de la infancia"
+    ]
+  },
+  {
     "id": "asturias-tambien-se-sienta-a-la-mesa-del-caribe",
     "url": "/cabranes/asturias-tambien-se-sienta-a-la-mesa-del-caribe/",
     "concejo": "Cabranes",
@@ -879,26 +1101,26 @@
     "concejo": "Villaviciosa",
     "concejoSlug": "villaviciosa",
     "seccion": "deporte-y-cultura",
-    "titular": "Oviedo debate este jueves soledad digital y aislamiento",
-    "entradilla": "La Universidad reúne el 12 de noviembre a especialistas, instituciones y estudiantes en las III Jornadas sobre Soledad y Salud.",
+    "titular": "Oviedo reúne expertos en soledad digital este jueves",
+    "entradilla": "Las III Jornadas sobre Soledad y Salud juntan a especialistas, instituciones y estudiantes para hablar de un problema que crece en jóvenes y mayores.",
     "cuerpo": [
-      "Jóvenes y mayores, los dos extremos de la vida, comparten un problema que preocupa cada vez más a los investigadores: el aislamiento social agravado por el mundo digital. La Universidad de Oviedo dedica este jueves sus terceras jornadas sobre salud y soledad a ponerle nombre y buscarle respuesta.",
-      "El encuentro, previsto para el 12 de noviembre en Oviedo, suma expertos internacionales, representantes de instituciones y estudiantes universitarios."
+      "La Universidad de Oviedo acoge este jueves, 12 de noviembre, unas jornadas dedicadas a la soledad digital y el aislamiento social, con participación de expertos internacionales, representantes institucionales y estudiantes.",
+      "Es la tercera edición de estas jornadas, que abordan cómo afecta la desconexión social tanto a los más jóvenes como a las personas mayores."
     ],
-    "apunte": "",
+    "apunte": "Tercera edición: algo tendrán que contar cuando repiten.",
     "enVeinte": [
-      "La Universidad de Oviedo celebra el 12 de noviembre las III Jornadas sobre Soledad y Salud.",
-      "El debate gira en torno a la soledad digital y el aislamiento social en jóvenes y mayores.",
-      "Participan especialistas internacionales, representantes institucionales y estudiantes."
+      "La Universidad de Oviedo organiza el 12 de noviembre las III Jornadas sobre Soledad y Salud.",
+      "Participan expertos internacionales, representantes institucionales y estudiantes.",
+      "El tema central es la soledad digital y el aislamiento social en jóvenes y mayores."
     ],
     "cifra": null,
     "palabra": null,
-    "porQue": "El aislamiento social toca de cerca a los concejos rurales, donde la dispersión geográfica y el envejecimiento hacen que el problema sea más visible que en la ciudad.",
+    "porQue": "El aislamiento social es un problema creciente también en concejos rurales como los de esta comarca, donde la distancia y la falta de servicios agravan la soledad de jóvenes y mayores.",
     "etiquetas": [
-      "soledad",
+      "soledad digital",
       "salud",
       "Universidad de Oviedo",
-      "jóvenes y mayores"
+      "jornadas"
     ],
     "fechaEvento": "2026-11-12",
     "tipoEvento": "taller",
@@ -916,59 +1138,59 @@
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "Oviedo debates digital loneliness and isolation this Thursday",
-        "entradilla": "The University brings together specialists, institutions and students on 12 November for the III Jornadas sobre Soledad y Salud.",
+        "titular": "Oviedo hosts digital loneliness experts this Thursday",
+        "entradilla": "The III Jornadas sobre Soledad y Salud bring together specialists, institutions and students to discuss a problem that is growing among young people and the elderly.",
         "cuerpo": [
-          "The young and the elderly, the two extremes of life, share a problem that increasingly worries researchers: social isolation made worse by the digital world. The University of Oviedo devotes its third conference on health and loneliness this Thursday to naming the problem and looking for answers.",
-          "The event, scheduled for 12 November in Oviedo, brings together international experts, representatives from institutions and university students."
+          "The University of Oviedo hosts this Thursday, 12 November, a conference on digital loneliness and social isolation, with the participation of international experts, institutional representatives and students.",
+          "This is the third edition of the conference, which examines how social disconnection affects both young people and the elderly."
         ],
-        "apunte": "",
+        "apunte": "Third edition: they must have something worth saying if they keep coming back.",
         "enVeinte": [
-          "The University of Oviedo holds the III Jornadas sobre Soledad y Salud on 12 November.",
-          "The debate centres on digital loneliness and social isolation among the young and the elderly.",
-          "International specialists, institutional representatives and students are taking part."
+          "The University of Oviedo is organising the III Jornadas sobre Soledad y Salud on 12 November.",
+          "International experts, institutional representatives and students are taking part.",
+          "The central theme is digital loneliness and social isolation among young people and the elderly."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Social isolation touches rural municipalities closely, where geographic dispersal and an ageing population make the problem more visible than in the city.",
+        "porQue": "Social isolation is a growing problem in rural municipalities like those in this county too, where distance and the lack of services make loneliness worse for young people and the elderly.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "fr": {
-        "titular": "Oviedo débat ce jeudi de solitude numérique et d'isolement",
-        "entradilla": "L'Université réunit le 12 novembre des spécialistes, des institutions et des étudiants lors des III Jornadas sobre Soledad y Salud.",
+        "titular": "Oviedo réunit des experts en solitude numérique ce jeudi",
+        "entradilla": "Les III Jornadas sobre Soledad y Salud rassemblent spécialistes, institutions et étudiants pour parler d'un problème qui touche de plus en plus les jeunes et les personnes âgées.",
         "cuerpo": [
-          "Les jeunes et les personnes âgées, aux deux extrêmes de la vie, partagent un problème qui inquiète de plus en plus les chercheurs : l'isolement social aggravé par le monde numérique. L'Université d'Oviedo consacre ce jeudi ses troisièmes journées sur la santé et la solitude à nommer ce problème et à chercher des réponses.",
-          "La rencontre, prévue le 12 novembre à Oviedo, rassemble des experts internationaux, des représentants d'institutions et des étudiants universitaires."
+          "L'Université d'Oviedo accueille ce jeudi 12 novembre des journées consacrées à la solitude numérique et à l'isolement social, avec la participation d'experts internationaux, de représentants institutionnels et d'étudiants.",
+          "Il s'agit de la troisième édition de ces journées, qui examinent comment la déconnexion sociale affecte aussi bien les jeunes que les personnes âgées."
         ],
-        "apunte": "",
+        "apunte": "Troisième édition : ils doivent avoir des choses à dire pour revenir chaque année.",
         "enVeinte": [
           "L'Université d'Oviedo organise le 12 novembre les III Jornadas sobre Soledad y Salud.",
-          "Le débat porte sur la solitude numérique et l'isolement social chez les jeunes et les personnes âgées.",
-          "Des spécialistes internationaux, des représentants institutionnels et des étudiants y participent."
+          "Des experts internationaux, des représentants institutionnels et des étudiants y participent.",
+          "Le thème central est la solitude numérique et l'isolement social chez les jeunes et les personnes âgées."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "L'isolement social touche de près les communes rurales, où la dispersion géographique et le vieillissement de la population rendent le problème plus visible qu'en ville.",
+        "porQue": "L'isolement social est un problème croissant également dans les communes rurales de cette région, où la distance et le manque de services aggravent la solitude des jeunes et des personnes âgées.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "de": {
-        "titular": "Oviedo diskutiert diesen Donnerstag über digitale Einsamkeit und Isolation",
-        "entradilla": "Die Universität versammelt am 12. November Fachleute, Institutionen und Studierende zu den III Jornadas sobre Soledad y Salud.",
+        "titular": "Oviedo versammelt Experten für digitale Einsamkeit diesen Donnerstag",
+        "entradilla": "Die III Jornadas sobre Soledad y Salud bringen Fachleute, Institutionen und Studierende zusammen, um über ein Problem zu sprechen, das bei Jungen und Älteren zunimmt.",
         "cuerpo": [
-          "Junge und alte Menschen, die beiden Extreme des Lebens, teilen ein Problem, das Forschende zunehmend besorgt: soziale Isolation, verschärft durch die digitale Welt. Die Universität Oviedo widmet ihre dritte Tagung zu Gesundheit und Einsamkeit an diesem Donnerstag der Frage, wie man das Problem benennt und Antworten findet.",
-          "Die Veranstaltung ist für den 12. November in Oviedo geplant und bringt internationale Experten, Vertreter von Institutionen und Universitätsstudierende zusammen."
+          "Die Universität Oviedo veranstaltet diesen Donnerstag, den 12. November, eine Tagung zu digitaler Einsamkeit und sozialer Isolation, an der internationale Experten, institutionelle Vertreter und Studierende teilnehmen.",
+          "Es ist die dritte Ausgabe dieser Tagung, die untersucht, wie soziale Abschottung sowohl junge Menschen als auch ältere Menschen betrifft."
         ],
-        "apunte": "",
+        "apunte": "Dritte Ausgabe: sie müssen etwas zu sagen haben, wenn sie immer wiederkommen.",
         "enVeinte": [
-          "Die Universität Oviedo veranstaltet am 12. November die III Jornadas sobre Soledad y Salud.",
-          "Die Debatte dreht sich um digitale Einsamkeit und soziale Isolation bei Jungen und Älteren.",
-          "Es nehmen internationale Fachleute, institutionelle Vertreter und Studierende teil."
+          "Die Universität Oviedo organisiert am 12. November die III Jornadas sobre Soledad y Salud.",
+          "Internationale Experten, institutionelle Vertreter und Studierende nehmen teil.",
+          "Das zentrale Thema ist digitale Einsamkeit und soziale Isolation bei Jungen und Älteren."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Soziale Isolation betrifft ländliche Gemeinden unmittelbar: Geografische Zerstreuung und eine alternde Bevölkerung machen das Problem dort sichtbarer als in der Stadt.",
+        "porQue": "Soziale Isolation ist auch in ländlichen Gemeinden wie denen dieser Gegend ein wachsendes Problem, wo Distanz und fehlende Versorgung die Einsamkeit von Jungen und Älteren verschärfen.",
         "lugar": "Oviedo",
         "precio": ""
       }
@@ -45249,123 +45471,6 @@
           "definicion": "Der asturische Name für die großen weißen Bohnen, die die Grundlage von pote und fabada bilden. Die Sorten aus Les Caleyes oder de la Granja haben eine eigene g.g.A. und gelten als die begehrtesten; sie sind nicht mit irgendwelchen weißen Bohnen aus dem Supermarkt zu vergleichen."
         },
         "porQue": "Die Fidma ist das meistbesuchte regionale Schaufenster des Sommers, und dass die Fabada aus Villaviciosa in einer halben Stunde ausverkauft ist, sagt einiges über den Ruf, den sich diese Gemeinde am Tisch erarbeitet hat.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "la-moda-impulsa-al-turismo-en-villaviciosa",
-    "url": "/villaviciosa/la-moda-impulsa-al-turismo-en-villaviciosa/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "La Semana del Comercio deja Villaviciosa llena",
-    "entradilla": "Acosevi celebra más ventas y más gente en la calle durante su balance anual.",
-    "cuerpo": [
-      "La asociación de comerciantes Acosevi cierra su Semana del Comercio con buenas noticias: más ventas y calles con público de verdad.",
-      "La moda fue el hilo conductor de la edición y, según el balance de la propia asociación, funcionó como reclamo tanto para vecinos del concejo como para visitantes."
-    ],
-    "apunte": "Cuando la ropa llena más la calle que los carteles de rebajas.",
-    "enVeinte": [
-      "Acosevi ha hecho balance de su Semana del Comercio en Villaviciosa y el resultado es positivo.",
-      "Las ventas subieron y hubo más movimiento de gente en las calles durante los días del evento.",
-      "La moda fue el tema central de esta edición y actuó como atractivo turístico."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Acosevi",
-      "como": "a-co-SE-vi",
-      "definicion": "Siglas de la Asociación de Comerciantes y Servicios de Villaviciosa. Es la entidad que agrupa a los pequeños negocios de la villa y organiza iniciativas como la Semana del Comercio."
-    },
-    "porQue": "Lo que vende el comercio local se queda en el concejo; una semana con más caja es una señal de que el centro de Villaviciosa aguanta el pulso.",
-    "etiquetas": [
-      "Villaviciosa",
-      "comercio",
-      "Acosevi",
-      "turismo"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/15/villaviciosa-desfile-RQdv2yRlWAtADfjj2RZnz2H-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-15T17:43:41.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/moda-impulsa-turismo-villaviciosa-20260815194340-nt.html",
-      "titularOriginal": "La moda impulsa al turismo en Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The Semana del Comercio fills Villaviciosa",
-        "entradilla": "Acosevi reports higher sales and more people on the street in its annual review.",
-        "cuerpo": [
-          "The traders' association Acosevi closes its Semana del Comercio with good news: higher sales and streets with real crowds.",
-          "Fashion was the thread running through this edition and, according to the association's own review, worked as a draw for both residents of the municipality and visitors."
-        ],
-        "apunte": "When clothes fill the street more than sale signs do.",
-        "enVeinte": [
-          "Acosevi has reviewed its Semana del Comercio in Villaviciosa and the outcome is positive.",
-          "Sales rose and there was more foot traffic in the streets during the event.",
-          "Fashion was the central theme of this edition and acted as a tourist attraction."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Acronym for the Asociación de Comerciantes y Servicios de Villaviciosa. It is the body that brings together the small businesses of the town and organises initiatives such as the Semana del Comercio."
-        },
-        "porQue": "What local commerce sells stays in the municipality; a week with stronger takings is a sign that Villaviciosa's town centre is holding its own.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Semana del Comercio remplit Villaviciosa",
-        "entradilla": "Acosevi se félicite de meilleures ventes et d'une plus grande affluence dans les rues lors de son bilan annuel.",
-        "cuerpo": [
-          "L'association de commerçants Acosevi clôt sa Semana del Comercio avec de bonnes nouvelles : des ventes en hausse et des rues vraiment animées.",
-          "La mode a été le fil conducteur de cette édition et, selon le bilan de l'association elle-même, a fonctionné comme attraction aussi bien pour les habitants de la commune que pour les visiteurs."
-        ],
-        "apunte": "Quand les vêtements remplissent la rue mieux que les affiches de soldes.",
-        "enVeinte": [
-          "Acosevi a dressé le bilan de sa Semana del Comercio à Villaviciosa et le résultat est positif.",
-          "Les ventes ont augmenté et les rues ont connu une plus grande affluence pendant les jours de l'événement.",
-          "La mode était le thème central de cette édition et a joué le rôle d'attrait touristique."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Sigle de l'Asociación de Comerciantes y Servicios de Villaviciosa. C'est l'entité qui regroupe les petits commerces de la ville et organise des initiatives telles que la Semana del Comercio."
-        },
-        "porQue": "Ce que vend le commerce local reste dans la commune ; une semaine avec de meilleures recettes est le signe que le centre de Villaviciosa résiste.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Die Semana del Comercio füllt Villaviciosa",
-        "entradilla": "Acosevi vermeldet höhere Umsätze und mehr Menschen auf der Straße in seiner Jahresbilanz.",
-        "cuerpo": [
-          "Der Händlerverband Acosevi schließt seine Semana del Comercio mit guten Nachrichten ab: höhere Umsätze und Straßen mit echtem Publikum.",
-          "Mode war der rote Faden der diesjährigen Ausgabe und hat laut der eigenen Bilanz des Verbands sowohl Einwohner der Gemeinde als auch Besucher angezogen."
-        ],
-        "apunte": "Wenn Kleidung die Straße mehr füllt als Rabattschilder.",
-        "enVeinte": [
-          "Acosevi hat Bilanz seiner Semana del Comercio in Villaviciosa gezogen – das Ergebnis ist positiv.",
-          "Die Umsätze stiegen, und in den Straßen herrschte während des Events mehr Betrieb.",
-          "Mode war das zentrale Thema dieser Ausgabe und wirkte als touristischer Anziehungspunkt."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Abkürzung für die Asociación de Comerciantes y Servicios de Villaviciosa. Es ist die Vereinigung, die die Kleinbetriebe der Stadt zusammenschließt und Initiativen wie die Semana del Comercio organisiert."
-        },
-        "porQue": "Was der lokale Handel einnimmt, bleibt in der Gemeinde; eine Woche mit besseren Kassenergebnissen ist ein Zeichen dafür, dass das Zentrum von Villaviciosa standhält.",
         "lugar": "",
         "precio": ""
       }
