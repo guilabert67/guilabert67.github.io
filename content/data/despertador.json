@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-11-13T04:38:42.576Z",
+  "fecha": "2026-11-13T12:43:49.848Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Los cronistas de Asturias se reúnen este sábado en Villaviciosa.",
-      "enlace": "/villaviciosa/villaviciosa-acoge-la-asamblea-de-cronistas-oficiales-de-asturias-y-la/"
+      "concejo": "Cabranes",
+      "frase": "Un colmado de Cabranes triunfa en el Caribe con un anuncio navideño viral.",
+      "enlace": "/cabranes/asturias-tambien-se-sienta-a-la-mesa-del-caribe/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "La Universidad de Oviedo debate soledad digital este jueves.",
-      "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
+      "frase": "Los Glayus llevan el teatro a las Jornadas sobre Soledad de Villaviciosa.",
+      "enlace": "/villaviciosa/teatro-en-zapatillas-en-la-comarca-de-la-sidra-contra-la-soledad-no-de/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava abre diez días para apuntarse a su primer concurso de decoración navideña.",
+      "enlace": "/nava/concurso-de-iluminacion-y-decoracion-navidena/"
     }
   ]
 }
