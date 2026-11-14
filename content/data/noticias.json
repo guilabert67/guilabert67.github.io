@@ -1,5 +1,122 @@
 [
   {
+    "id": "el-rodiles-se-enfrenta-al-lider-el-melilla-torreblanca",
+    "url": "/villaviciosa/el-rodiles-se-enfrenta-al-lider-el-melilla-torreblanca/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Rodiles visita al líder sin perder el miedo",
+    "entradilla": "El equipo de Villaviciosa se mide esta tarde al Melilla Torreblanca, que lleva ocho partidos y ocho victorias.",
+    "cuerpo": [
+      "El Rodiles sale a domicilio en la octava jornada de Primera División con el reto más exigente de lo que va de temporada: las villaviciosinas se plantan ante el Melilla Torreblanca, que marcha líder con el pleno de victorias.",
+      "El partido arranca a las 19:30."
+    ],
+    "apunte": "Ocho de ocho para el Melilla. Algún partido tendrán que perder.",
+    "enVeinte": [
+      "El Rodiles juega esta tarde fuera de casa en la jornada ocho de Primera División.",
+      "El rival es el Melilla Torreblanca, líder con ocho victorias en ocho partidos.",
+      "El duelo empieza a las 19:30."
+    ],
+    "cifra": {
+      "numero": "8/8",
+      "unidad": "victorias",
+      "glosa": "El Melilla Torreblanca ha ganado todos los partidos que ha disputado esta temporada. Llegar a la octava jornada con el pleno de victorias es el mejor arranque posible en cualquier liga."
+    },
+    "palabra": null,
+    "porQue": "El Rodiles representa a Villaviciosa en la máxima categoría del fútbol femenino; lo que pase hoy en Melilla influye en su posición en la tabla.",
+    "etiquetas": [
+      "Rodiles",
+      "fútbol femenino",
+      "Primera División",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "2026-11-14",
+    "tipoEvento": "",
+    "lugar": "Melilla",
+    "hora": "19:30",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/06//20260618164512_RTPA8254486.webp",
+    "fecha": "2026-11-14T16:14:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-deportes/2026-11-14/El-Rodiles-se-enfrenta-al-lider,-el-Melilla-Torreblanca_111794672892.html",
+      "titularOriginal": "El Rodiles se enfrenta al líder, el Melilla Torreblanca"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Rodiles visits the league leader without losing its fear",
+        "entradilla": "The Villaviciosa side faces El Melilla Torreblanca this afternoon — eight games, eight wins.",
+        "cuerpo": [
+          "El Rodiles travels away in the eighth round of Primera División with the toughest challenge of the season so far: the Villaviciosa women's team lines up against El Melilla Torreblanca, who lead the table with a perfect record.",
+          "Kick-off is at 19:30."
+        ],
+        "apunte": "Eight from eight for El Melilla. They'll have to lose one eventually.",
+        "enVeinte": [
+          "El Rodiles plays away from home today in round eight of Primera División.",
+          "Their opponents are El Melilla Torreblanca, leaders with eight wins from eight.",
+          "The match kicks off at 19:30."
+        ],
+        "cifra": {
+          "numero": "8/8",
+          "unidad": "wins",
+          "glosa": "El Melilla Torreblanca has won every game it has played this season. Reaching the eighth round with a perfect record is the best possible start in any league."
+        },
+        "palabra": null,
+        "porQue": "El Rodiles represents the Villaviciosa municipality in the top flight of women's football; what happens today in Melilla affects their position in the table.",
+        "lugar": "Melilla",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Rodiles rend visite au leader sans perdre sa crainte",
+        "entradilla": "L'équipe de Villaviciosa affronte cet après-midi El Melilla Torreblanca, qui compte huit matchs et huit victoires.",
+        "cuerpo": [
+          "El Rodiles se déplace à l'extérieur lors de la huitième journée de Primera División avec le défi le plus exigeant de la saison : les joueuses de Villaviciosa se retrouvent face à El Melilla Torreblanca, leader du classement avec un sans-faute.",
+          "Le match commence à 19 h 30."
+        ],
+        "apunte": "Huit sur huit pour El Melilla. Ils devront bien perdre un jour.",
+        "enVeinte": [
+          "El Rodiles joue cet après-midi à l'extérieur lors de la huitième journée de Primera División.",
+          "L'adversaire est El Melilla Torreblanca, leader avec huit victoires en huit matchs.",
+          "Le coup d'envoi est donné à 19 h 30."
+        ],
+        "cifra": {
+          "numero": "8/8",
+          "unidad": "victoires",
+          "glosa": "El Melilla Torreblanca a remporté tous les matchs qu'il a disputés cette saison. Atteindre la huitième journée avec un bilan parfait est le meilleur départ possible dans n'importe quel championnat."
+        },
+        "palabra": null,
+        "porQue": "El Rodiles représente la commune de Villaviciosa dans la première division du football féminin ; ce qui se passe aujourd'hui à Melilla aura une incidence sur sa place au classement.",
+        "lugar": "Melilla",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Rodiles besucht den Tabellenführer ohne seine Scheu zu verlieren",
+        "entradilla": "Das Team aus Villaviciosa trifft heute Nachmittag auf El Melilla Torreblanca — acht Spiele, acht Siege.",
+        "cuerpo": [
+          "El Rodiles tritt im achten Spieltag der Primera División auswärts an und stellt sich der bisher härtesten Herausforderung der Saison: Die Spielerinnen aus Villaviciosa treffen auf El Melilla Torreblanca, den Tabellenführer mit makelloser Bilanz.",
+          "Das Spiel beginnt um 19:30 Uhr."
+        ],
+        "apunte": "Acht aus acht für El Melilla. Irgendwann müssen sie verlieren.",
+        "enVeinte": [
+          "El Rodiles spielt heute auswärts im achten Spieltag der Primera División.",
+          "Der Gegner ist El Melilla Torreblanca, Tabellenführer mit acht Siegen aus acht Spielen.",
+          "Das Duell beginnt um 19:30 Uhr."
+        ],
+        "cifra": {
+          "numero": "8/8",
+          "unidad": "Siege",
+          "glosa": "El Melilla Torreblanca hat in dieser Saison alle ausgetragenen Spiele gewonnen. Den achten Spieltag mit einer perfekten Bilanz zu erreichen ist der bestmögliche Saisonstart in jeder Liga."
+        },
+        "palabra": null,
+        "porQue": "El Rodiles vertritt die Gemeinde Villaviciosa in der höchsten Spielklasse des Frauenfußballs; was heute in Melilla passiert, wirkt sich auf ihre Tabellenposition aus.",
+        "lugar": "Melilla",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de",
     "url": "/pilona/la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de/",
     "concejo": "Piloña",
@@ -1486,26 +1603,26 @@
     "concejo": "Villaviciosa",
     "concejoSlug": "villaviciosa",
     "seccion": "deporte-y-cultura",
-    "titular": "Oviedo debate soledad digital y aislamiento este jueves",
-    "entradilla": "La Universidad de Oviedo acoge unas jornadas que reúnen a especialistas, instituciones y estudiantes en torno a un problema que no entiende de edades.",
+    "titular": "Oviedo debate la soledad digital este jueves",
+    "entradilla": "La Universidad reúne el 12 de noviembre a especialistas, instituciones y estudiantes para hablar de aislamiento en jóvenes y mayores.",
     "cuerpo": [
-      "Las III Jornadas sobre Soledad y Salud arrancan este jueves 12 de noviembre en Oviedo, con jóvenes y mayores como protagonistas del debate.",
-      "Al encuentro acuden expertos internacionales junto a representantes institucionales y estudiantes, lo que da al programa una mezcla poco habitual de miradas."
+      "Las III Jornadas sobre Soledad y Salud llegan este jueves a Oviedo con un programa centrado en dos realidades que preocupan cada vez más: la soledad digital y el aislamiento social, tanto en jóvenes como en personas mayores.",
+      "Al encuentro acuden expertos internacionales, representantes de instituciones y estudiantes, según informa el Búscolu."
     ],
-    "apunte": "La soledad, ese mal que creíamos de antes, ahora también llega por pantalla.",
+    "apunte": "Porque estar rodeado de notificaciones no es lo mismo que tener compañía.",
     "enVeinte": [
-      "La Universidad de Oviedo organiza el jueves 12 de noviembre las III Jornadas sobre Soledad y Salud, centradas en jóvenes y mayores.",
-      "El encuentro reúne a expertos internacionales, representantes institucionales y estudiantes para abordar la soledad digital y el aislamiento social.",
-      "El acto se celebra en Oviedo, aunque la fuente no precisa sala, hora ni precio."
+      "La Universidad de Oviedo celebra el 12 de noviembre las III Jornadas sobre Soledad y Salud.",
+      "El encuentro aborda la soledad digital y el aislamiento social en jóvenes y mayores.",
+      "Participan especialistas internacionales, representantes institucionales y estudiantes."
     ],
     "cifra": null,
     "palabra": null,
-    "porQue": "El aislamiento social afecta tanto a mayores que viven solos en los concejos rurales como a jóvenes conectados todo el día pero cada vez más solos; saber qué dicen los expertos ayuda a identificarlo cerca de casa.",
+    "porQue": "El aislamiento social afecta a vecinos de todas las edades en concejos como el nuestro; saber qué dice la investigación puede ayudar a quienes trabajan con mayores o con chavales.",
     "etiquetas": [
-      "soledad",
       "salud",
+      "soledad",
       "Universidad de Oviedo",
-      "jornadas"
+      "jóvenes y mayores"
     ],
     "fechaEvento": "2026-11-12",
     "tipoEvento": "taller",
@@ -1523,66 +1640,63 @@
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "Oviedo debates digital loneliness and isolation this Thursday",
-        "entradilla": "The University of Oviedo hosts a conference bringing together specialists, institutions and students around a problem that knows no age.",
+        "titular": "Oviedo debates digital loneliness this Thursday",
+        "entradilla": "The University brings together specialists, institutions and students on 12 November to discuss isolation among young people and the elderly.",
         "cuerpo": [
-          "The III Jornadas sobre Soledad y Salud kick off this Thursday, 12 November in Oviedo, with young people and older adults at the centre of the debate.",
-          "International experts attend alongside institutional representatives and students, giving the programme an unusual mix of perspectives."
+          "The III Jornadas sobre Soledad y Salud arrive in Oviedo this Thursday with a programme focused on two increasingly worrying realities: digital loneliness and social isolation, among both young people and older adults.",
+          "International experts, institutional representatives and students are attending the event, according to El Búscolu."
         ],
-        "apunte": "Loneliness, that ill we thought belonged to the past, now arrives through a screen too.",
+        "apunte": "Because being surrounded by notifications is not the same as having company.",
         "enVeinte": [
-          "The University of Oviedo is organising the III Jornadas sobre Soledad y Salud on Thursday, 12 November, focused on young people and older adults.",
-          "The event brings together international experts, institutional representatives and students to address digital loneliness and social isolation.",
-          "The event takes place in Oviedo, though the source does not specify the room, time or price."
+          "The Universidad de Oviedo holds the III Jornadas sobre Soledad y Salud on 12 November.",
+          "The event addresses digital loneliness and social isolation among young people and the elderly.",
+          "International specialists, institutional representatives and students are taking part."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Social isolation affects both older people living alone in rural municipalities and young people connected all day yet increasingly alone; knowing what the experts say helps to spot it close to home.",
+        "porQue": "Social isolation affects residents of all ages in municipalities like ours; knowing what the research says can help those who work with older people or young people.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "fr": {
-        "titular": "Oviedo débat solitude numérique et isolement ce jeudi",
-        "entradilla": "L'Université d'Oviedo accueille des journées qui réunissent spécialistes, institutions et étudiants autour d'un problème qui ne connaît pas d'âge.",
+        "titular": "Oviedo débat de la solitude numérique ce jeudi",
+        "entradilla": "L'Université réunit le 12 novembre des spécialistes, des institutions et des étudiants pour parler de l'isolement chez les jeunes et les personnes âgées.",
         "cuerpo": [
-          "Les III Jornadas sobre Soledad y Salud débutent ce jeudi 12 novembre à Oviedo, avec les jeunes et les personnes âgées comme protagonistes du débat.",
-          "Des experts internationaux participent aux côtés de représentants institutionnels et d'étudiants, ce qui confère au programme un mélange de regards peu habituel."
+          "Les III Jornadas sobre Soledad y Salud arrivent ce jeudi à Oviedo avec un programme centré sur deux réalités de plus en plus préoccupantes : la solitude numérique et l'isolement social, aussi bien chez les jeunes que chez les personnes âgées.",
+          "Des experts internationaux, des représentants d'institutions et des étudiants participent à la rencontre, selon El Búscolu."
         ],
-        "apunte": "La solitude, ce mal que l'on croyait d'un autre temps, arrive désormais aussi par écran.",
+        "apunte": "Parce qu'être entouré de notifications n'est pas la même chose qu'avoir de la compagnie.",
         "enVeinte": [
-          "L'Université d'Oviedo organise le jeudi 12 novembre les III Jornadas sobre Soledad y Salud, centrées sur les jeunes et les personnes âgées.",
-          "La rencontre réunit des experts internationaux, des représentants institutionnels et des étudiants pour aborder la solitude numérique et l'isolement social.",
-          "L'événement se tient à Oviedo, bien que la source ne précise ni la salle, ni l'heure, ni le prix."
+          "L'Universidad de Oviedo organise le 12 novembre les III Jornadas sobre Soledad y Salud.",
+          "La rencontre aborde la solitude numérique et l'isolement social chez les jeunes et les personnes âgées.",
+          "Des spécialistes internationaux, des représentants institutionnels et des étudiants y participent."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "L'isolement social touche aussi bien les personnes âgées vivant seules dans les communes rurales que les jeunes connectés toute la journée mais de plus en plus seuls ; savoir ce que disent les experts aide à le repérer près de chez soi.",
+        "porQue": "L'isolement social touche des habitants de tous âges dans des communes comme la nôtre ; savoir ce que dit la recherche peut aider ceux qui travaillent avec des personnes âgées ou des jeunes.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "de": {
-        "titular": "Oviedo diskutiert digitale Einsamkeit und Isolation diesen Donnerstag",
-        "entradilla": "Die Universität Oviedo beherbergt eine Tagung, die Fachleute, Institutionen und Studierende rund um ein Problem zusammenbringt, das kein Alter kennt.",
+        "titular": "Oviedo diskutiert diesen Donnerstag über digitale Einsamkeit",
+        "entradilla": "Die Universität bringt am 12. November Fachleute, Institutionen und Studierende zusammen, um über Isolation bei Jugendlichen und älteren Menschen zu sprechen.",
         "cuerpo": [
-          "Die III Jornadas sobre Soledad y Salud beginnen diesen Donnerstag, den 12. November, in Oviedo, mit jungen Menschen und Älteren als Hauptakteuren der Debatte.",
-          "Internationale Experten nehmen gemeinsam mit institutionellen Vertretern und Studierenden teil, was dem Programm eine ungewöhnliche Vielfalt an Perspektiven verleiht."
+          "Die III Jornadas sobre Soledad y Salud kommen diesen Donnerstag nach Oviedo mit einem Programm, das sich auf zwei immer besorgniserregendere Realitäten konzentriert: digitale Einsamkeit und soziale Isolation, sowohl bei Jugendlichen als auch bei älteren Menschen.",
+          "Internationale Experten, Vertreter von Institutionen und Studierende nehmen an der Veranstaltung teil, wie El Búscolu berichtet."
         ],
-        "apunte": "Einsamkeit, dieses Übel, das wir für vergangen hielten, kommt heute auch durch den Bildschirm.",
+        "apunte": "Denn von Benachrichtigungen umgeben zu sein ist nicht dasselbe wie Gesellschaft zu haben.",
         "enVeinte": [
-          "Die Universität Oviedo veranstaltet am Donnerstag, den 12. November, die III Jornadas sobre Soledad y Salud mit dem Schwerpunkt auf jungen Menschen und Älteren.",
-          "Die Veranstaltung bringt internationale Experten, institutionelle Vertreter und Studierende zusammen, um digitale Einsamkeit und soziale Isolation zu thematisieren.",
-          "Die Veranstaltung findet in Oviedo statt, wobei die Quelle weder Saal, Uhrzeit noch Preis nennt."
+          "Die Universidad de Oviedo veranstaltet am 12. November die III Jornadas sobre Soledad y Salud.",
+          "Die Veranstaltung befasst sich mit digitaler Einsamkeit und sozialer Isolation bei Jugendlichen und älteren Menschen.",
+          "Internationale Fachleute, institutionelle Vertreter und Studierende nehmen teil."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Soziale Isolation betrifft sowohl ältere Menschen, die allein in ländlichen Gemeinden leben, als auch junge Menschen, die den ganzen Tag vernetzt und dennoch immer einsamer sind; zu wissen, was Experten sagen, hilft dabei, sie in der eigenen Umgebung zu erkennen.",
+        "porQue": "Soziale Isolation betrifft Bewohner aller Altersgruppen in Gemeinden wie unserer; zu wissen, was die Forschung sagt, kann denjenigen helfen, die mit älteren Menschen oder Jugendlichen arbeiten.",
         "lugar": "Oviedo",
         "precio": ""
       }
-    },
-    "revisar": [
-      "este jueves 12 de noviembre en oviedo con"
-    ]
+    }
   },
   {
     "id": "una-colision-entre-una-furgoneta-y-un-turismo-deja-tres-heridos-y-obli",
@@ -1700,6 +1814,132 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "cuenta-general-2025",
+    "url": "/villaviciosa/cuenta-general-2025/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre sus cuentas de 2025 al público",
+    "entradilla": "Cualquier vecino puede consultar y presentar alegaciones durante los próximos quince días.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa publicó el 3 de noviembre en el BOPA la Cuenta General del ejercicio 2025, lo que abre un plazo de quince días hábiles para que cualquier ciudadano pueda revisarla y, si lo ve necesario, presentar alegaciones.",
+      "El documento pasó por la Comisión de Hacienda el 26 de octubre y salió adelante con los seis votos del grupo socialista a favor y cinco abstenciones: cuatro del PP y una de la concejal no adscrita.",
+      "Una vez cerrado el plazo de consulta pública, las cuentas irán al Pleno para resolver posibles alegaciones y, después, a la Sindicatura de Cuentas del Principado de Asturias."
+    ],
+    "apunte": "Quince días para mirar en qué se fue el dinero.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ha hecho públicas sus cuentas de 2025 y abre un plazo de quince días para que los vecinos las consulten y aleguen lo que crean oportuno.",
+      "La Comisión de Hacienda aprobó el documento el 26 de octubre con los votos del PSOE y la abstención del PP y la concejal no adscrita.",
+      "Tras el plazo de alegaciones, las cuentas pasarán al Pleno y luego a la Sindicatura de Cuentas del Principado."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Sindicatura de Cuentas",
+      "como": "Sin-di-ca-tu-ra de Cuen-tas",
+      "definicion": "Es el órgano fiscalizador externo del Principado de Asturias, el equivalente asturiano al Tribunal de Cuentas estatal. Revisa que los ayuntamientos y otros entes públicos hayan manejado el dinero conforme a la ley."
+    },
+    "porQue": "Durante quince días cualquier vecino puede revisar en qué gastó el Ayuntamiento cada euro en 2025 y presentar alegaciones antes de que las cuentas queden aprobadas definitivamente.",
+    "etiquetas": [
+      "Villaviciosa",
+      "cuentas municipales",
+      "hacienda",
+      "BOPA"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-11T10:10:14.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20199103",
+      "titularOriginal": "CUENTA GENERAL 2025",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens its 2025 accounts to the public",
+        "entradilla": "Any resident can review them and submit objections over the next fifteen days.",
+        "cuerpo": [
+          "The council of Villaviciosa published the General Account for the 2025 financial year in the BOPA on 3 November, opening a fifteen working-day period during which any citizen may review it and, if they see fit, submit objections.",
+          "The document went before the Finance Committee on 26 October and was passed with six votes in favour from the socialist group and five abstentions: four from the PP and one from the non-attached councillor.",
+          "Once the public consultation period closes, the accounts will go to the Full Council to resolve any objections and, afterwards, to the Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Fifteen days to see where the money went.",
+        "enVeinte": [
+          "The council of Villaviciosa has made its 2025 accounts public and is opening a fifteen-day period for residents to review them and raise any objections they see fit.",
+          "The Finance Committee approved the document on 26 October with the votes of the PSOE and the abstention of the PP and the non-attached councillor.",
+          "After the objection period, the accounts will go to the Full Council and then to the Sindicatura de Cuentas del Principado."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sin-di-ca-tu-ra de Cuen-tas",
+          "definicion": "The external audit body of the Principado de Asturias, the Asturian equivalent of the national Tribunal de Cuentas. It reviews whether councils and other public bodies have managed public money in accordance with the law."
+        },
+        "porQue": "For fifteen days, any resident can review exactly how the council spent every euro in 2025 and submit objections before the accounts are definitively approved.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre ses comptes 2025 au public",
+        "entradilla": "Tout habitant peut les consulter et déposer des observations pendant les quinze prochains jours.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a publié le 3 novembre au BOPA le Compte général de l'exercice 2025, ouvrant ainsi un délai de quinze jours ouvrables pendant lequel tout citoyen peut l'examiner et, s'il le juge nécessaire, déposer des observations.",
+          "Le document est passé devant la Commission des finances le 26 octobre et a été adopté avec les six voix du groupe socialiste et cinq abstentions : quatre du PP et une de la conseillère non inscrite.",
+          "Une fois le délai de consultation publique clos, les comptes seront soumis au Conseil plénier pour trancher les éventuelles observations, puis à la Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Quinze jours pour savoir où est passé l'argent.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a rendu publics ses comptes 2025 et ouvre un délai de quinze jours pour que les habitants puissent les consulter et formuler les observations qu'ils jugent opportunes.",
+          "La Commission des finances a approuvé le document le 26 octobre avec les voix du PSOE et l'abstention du PP et de la conseillère non inscrite.",
+          "Après le délai d'observations, les comptes seront transmis au Conseil plénier, puis à la Sindicatura de Cuentas del Principado."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sin-di-ca-tu-ra de Cuen-tas",
+          "definicion": "L'organe de contrôle externe du Principado de Asturias, l'équivalent asturien du Tribunal de Cuentas national. Il vérifie que les mairies et autres entités publiques ont géré les fonds conformément à la loi."
+        },
+        "porQue": "Pendant quinze jours, tout habitant peut vérifier comment la mairie a dépensé chaque euro en 2025 et déposer des observations avant que les comptes soient définitivement approuvés.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa legt seine Konten für 2025 öffentlich vor",
+        "entradilla": "Jede Einwohnerin und jeder Einwohner kann sie in den nächsten fünfzehn Tagen einsehen und Einwände vorbringen.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa veröffentlichte am 3. November im BOPA den Jahresabschluss des Haushaltsjahres 2025. Damit beginnt eine Frist von fünfzehn Werktagen, in der jede Bürgerin und jeder Bürger den Abschluss prüfen und gegebenenfalls Einwände einreichen kann.",
+          "Das Dokument wurde am 26. Oktober im Finanzausschuss behandelt und mit den sechs Stimmen der sozialistischen Gruppe bei fünf Enthaltungen angenommen: vier vom PP und eine von der fraktionslosen Stadträtin.",
+          "Nach Ablauf der öffentlichen Konsultationsfrist werden die Konten dem Plenum zur Klärung etwaiger Einwände vorgelegt und anschließend an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet."
+        ],
+        "apunte": "Fünfzehn Tage, um nachzusehen, wohin das Geld geflossen ist.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa hat seine Konten für 2025 veröffentlicht und eröffnet eine Frist von fünfzehn Tagen, in der die Einwohnerinnen und Einwohner sie einsehen und nach eigenem Ermessen Einwände erheben können.",
+          "Der Finanzausschuss billigte das Dokument am 26. Oktober mit den Stimmen der PSOE und der Enthaltung von PP und der fraktionslosen Stadträtin.",
+          "Nach der Einwendungsfrist gehen die Konten ans Plenum und dann an die Sindicatura de Cuentas del Principado."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "Sin-di-ca-tu-ra de Cuen-tas",
+          "definicion": "Das externe Rechnungsprüfungsorgan des Principado de Asturias, das asturische Gegenstück zum nationalen Tribunal de Cuentas. Es überprüft, ob Rathäuser und andere öffentliche Einrichtungen die Haushaltsmittel gesetzeskonform verwendet haben."
+        },
+        "porQue": "Fünfzehn Tage lang kann jede Einwohnerin und jeder Einwohner nachvollziehen, wofür das Rathaus 2025 jeden Euro ausgegeben hat, und Einwände einreichen, bevor die Konten endgültig genehmigt werden.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "a la sindicatura de cuentas del principado de",
+      "la sindicatura de cuentas del principado de asturias"
+    ]
   },
   {
     "id": "rescatados-dos-senderistas-que-se-desorientaron-haciendo-una-ruta-entr",
@@ -6477,148 +6717,6 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "cuenta-general-2025",
-    "url": "/villaviciosa/cuenta-general-2025/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa abre las cuentas de 2025 al público",
-    "entradilla": "Los vecinos tienen quince días para consultar y, si lo consideran, presentar alegaciones.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha puesto a disposición pública la Cuenta General del ejercicio 2025. El anuncio se publicó el 3 de noviembre en el BOPA, lo que arranca el plazo oficial de quince días para consultarla y, en su caso, presentar alegaciones.",
-      "La cuenta pasó antes por la Comisión de Hacienda, donde obtuvo seis votos a favor del grupo socialista y cinco abstenciones: cuatro del PP y una de la concejal no adscrita. No hubo ningún voto en contra.",
-      "Una vez cerrado el plazo de información pública, el documento irá al Pleno para resolver las alegaciones que lleguen y aprobarlo definitivamente, antes de remitirlo a la Sindicatura de Cuentas del Principado de Asturias."
-    ],
-    "apunte": "Quince días para leer las cuentas, que ya es más de lo que suele hacer casi nadie.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa ha hecho públicas sus cuentas de 2025 tras publicar el anuncio en el BOPA el 3 de noviembre.",
-      "Los vecinos disponen de quince días para consultarlas y presentar alegaciones si lo consideran oportuno.",
-      "Después, el Pleno las aprobará definitivamente y las enviará a la Sindicatura de Cuentas del Principado."
-    ],
-    "cifra": {
-      "numero": "15",
-      "unidad": "días",
-      "glosa": "Es el plazo legal que tiene cualquier vecino para revisar la Cuenta General y presentar alegaciones una vez publicado el anuncio en el BOPA. El cómputo arrancó el 3 de noviembre de 2026."
-    },
-    "palabra": {
-      "termino": "Sindicatura de Cuentas",
-      "como": "Sindicatura de Cuentas del Principado de Asturias",
-      "definicion": "Es el órgano fiscalizador externo de la actividad económica y financiera del sector público asturiano, equivalente al Tribunal de Cuentas pero de ámbito autonómico. Recibe y audita las cuentas de todos los ayuntamientos de Asturias una vez aprobadas por sus respectivos plenos."
-    },
-    "porQue": "Cualquier vecino de Villaviciosa puede revisar cómo se han gestionado los fondos municipales en 2025 y, si detecta algo que no cuadra, tiene quince días para decirlo por escrito antes de que el Pleno las apruebe en firme.",
-    "etiquetas": [
-      "Villaviciosa",
-      "cuentas municipales",
-      "Ayuntamiento",
-      "BOPA"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-04T14:52:04.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20199103",
-      "titularOriginal": "CUENTA GENERAL 2025",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa opens its 2025 accounts to the public",
-        "entradilla": "Residents have fifteen days to review them and, if they see fit, submit objections.",
-        "cuerpo": [
-          "The council of Villaviciosa has made the General Account for the 2025 financial year publicly available. The notice was published on 3 November in the BOPA, which starts the official fifteen-day period to review it and, if applicable, submit objections.",
-          "The account had previously gone through the Finance Committee, where it received six votes in favour from the socialist group and five abstentions: four from the PP and one from the non-attached councillor. There were no votes against.",
-          "Once the public information period closes, the document will go to the Full Council to resolve any objections received and give it final approval, before sending it to the Sindicatura de Cuentas del Principado de Asturias."
-        ],
-        "apunte": "Fifteen days to read the accounts — which is already more than almost anyone usually does.",
-        "enVeinte": [
-          "The council of Villaviciosa has made its 2025 accounts public after publishing the notice in the BOPA on 3 November.",
-          "Residents have fifteen days to review them and submit objections if they see fit.",
-          "After that, the Full Council will give them final approval and send them to the Sindicatura de Cuentas del Principado."
-        ],
-        "cifra": {
-          "numero": "15",
-          "unidad": "days",
-          "glosa": "This is the legal period any resident has to review the General Account and submit objections once the notice has been published in the BOPA. The count began on 3 November 2026."
-        },
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sindicatura de Cuentas del Principado de Asturias",
-          "definicion": "The external audit body for the economic and financial activity of the Asturian public sector, equivalent to the national Court of Auditors but at regional level. It receives and audits the accounts of all municipalities in Asturias once these have been approved by their respective full councils."
-        },
-        "porQue": "Any resident of Villaviciosa can review how municipal funds were managed in 2025 and, if they spot something that does not add up, they have fifteen days to say so in writing before the Full Council gives the accounts its final approval.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ouvre ses comptes 2025 au public",
-        "entradilla": "Les habitants ont quinze jours pour les consulter et, s'ils le jugent utile, déposer des observations.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a mis à disposition du public le Compte général de l'exercice 2025. L'avis a été publié le 3 novembre au BOPA, ce qui ouvre le délai officiel de quinze jours pour le consulter et, le cas échéant, déposer des observations.",
-          "Le compte est d'abord passé par la Commission des finances, où il a obtenu six voix pour du groupe socialiste et cinq abstentions : quatre du PP et une de la conseillère municipale non inscrite. Il n'y a eu aucun vote contre.",
-          "Une fois le délai d'information publique écoulé, le document sera soumis au Conseil municipal pour régler les observations reçues et l'approuver définitivement, avant de le transmettre à la Sindicatura de Cuentas del Principado de Asturias."
-        ],
-        "apunte": "Quinze jours pour lire les comptes — ce qui est déjà plus que ce que fait presque tout le monde.",
-        "enVeinte": [
-          "La mairie de Villaviciosa a rendu publics ses comptes 2025 après avoir publié l'avis au BOPA le 3 novembre.",
-          "Les habitants disposent de quinze jours pour les consulter et déposer des observations s'ils le jugent utile.",
-          "Ensuite, le Conseil municipal les approuvera définitivement et les transmettra à la Sindicatura de Cuentas del Principado."
-        ],
-        "cifra": {
-          "numero": "15",
-          "unidad": "jours",
-          "glosa": "C'est le délai légal dont dispose tout habitant pour examiner le Compte général et déposer des observations une fois l'avis publié au BOPA. Le décompte a commencé le 3 novembre 2026."
-        },
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sindicatura de Cuentas del Principado de Asturias",
-          "definicion": "L'organe de contrôle externe de l'activité économique et financière du secteur public asturien, équivalent de la Cour des comptes nationale mais à l'échelle régionale. Il reçoit et audite les comptes de toutes les communes des Asturies une fois ceux-ci approuvés par leurs conseils municipaux respectifs."
-        },
-        "porQue": "Tout habitant de Villaviciosa peut vérifier comment les fonds municipaux ont été gérés en 2025 et, s'il constate une anomalie, il dispose de quinze jours pour le signaler par écrit avant que le Conseil municipal n'approuve les comptes définitivement.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa legt seine Jahresrechnung 2025 offen",
-        "entradilla": "Die Einwohner haben fünfzehn Tage Zeit, die Unterlagen einzusehen und gegebenenfalls Einwände einzureichen.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat die Jahresrechnung (Cuenta General) des Haushaltsjahres 2025 zur öffentlichen Einsichtnahme bereitgestellt. Die Bekanntmachung erschien am 3. November im BOPA; damit beginnt die offizielle Frist von fünfzehn Tagen, innerhalb derer die Rechnung eingesehen und gegebenenfalls Einwände erhoben werden können.",
-          "Zuvor hatte die Rechnung den Finanzausschuss passiert, wo sie sechs Ja-Stimmen der sozialistischen Fraktion und fünf Enthaltungen erhielt: vier von der PP und eine von der fraktionslosen Gemeinderätin. Gegenstimmen gab es keine.",
-          "Nach Ablauf der öffentlichen Auslegungsfrist wird das Dokument dem Gemeinderat vorgelegt, der die eingegangenen Einwände behandelt und die Rechnung endgültig beschließt, bevor sie an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet wird."
-        ],
-        "apunte": "Fünfzehn Tage, um die Jahresrechnung zu lesen — das ist schon mehr, als die meisten je tun.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa hat seine Jahresrechnung 2025 veröffentlicht, nachdem die Bekanntmachung am 3. November im BOPA erschienen war.",
-          "Die Einwohner haben fünfzehn Tage Zeit, die Unterlagen einzusehen und Einwände einzureichen.",
-          "Anschließend wird der Gemeinderat die Rechnung endgültig beschließen und an die Sindicatura de Cuentas del Principado weiterleiten."
-        ],
-        "cifra": {
-          "numero": "15",
-          "unidad": "Tage",
-          "glosa": "Das ist die gesetzliche Frist, die jedem Einwohner zur Verfügung steht, um die Jahresrechnung zu prüfen und Einwände einzureichen, sobald die Bekanntmachung im BOPA erschienen ist. Die Frist begann am 3. November 2026."
-        },
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sindicatura de Cuentas del Principado de Asturias",
-          "definicion": "Das externe Prüforgan für die wirtschaftliche und finanzielle Tätigkeit des asturischen öffentlichen Sektors, vergleichbar mit dem nationalen Rechnungshof, jedoch auf regionaler Ebene. Es empfängt und prüft die Jahresrechnungen aller Gemeinden Asturiens, nachdem diese von den jeweiligen Gemeinderäten beschlossen wurden."
-        },
-        "porQue": "Jeder Einwohner von Villaviciosa kann nachvollziehen, wie die Gemeindemittel im Jahr 2025 verwaltet wurden, und hat fünfzehn Tage Zeit, eventuelle Unstimmigkeiten schriftlich zu melden, bevor der Gemeinderat die Rechnung endgültig beschließt.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "a la sindicatura de cuentas del principado de",
-      "la sindicatura de cuentas del principado de asturias"
-    ]
   },
   {
     "id": "infiesto-acogera-tres-dias-de-encuentros-y-propuestas-para-repensar-el",
@@ -45726,139 +45824,6 @@
           "definicion": "Im asturischen Gebirge bezeichnet eine Canal eine steile, schmale Rinne zwischen zwei Felswänden, oft mit Schnee, losem Gestein oder nassem Gras. Es handelt sich nicht um ein Gewässer, sondern um einen natürlichen Auf- oder Abstiegsweg, der Erfahrung und Vorsicht erfordert."
         },
         "porQue": "Jidiellu zieht jeden Sommer Bergsteiger von nah und fern an; eine Rettungsaktion wie diese erinnert daran, dass diese Canal echte Vorbereitung verlangt – und nicht nur den Wunsch, den Gipfel zu erreichen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "la-fabada-triunfa-en-la-fidma-8-5-kilos-repartidos-en-media-hora-en-el",
-    "url": "/villaviciosa/la-fabada-triunfa-en-la-fidma-8-5-kilos-repartidos-en-media-hora-en-el/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "La fabada de Villaviciosa se agota en la Fidma",
-    "entradilla": "Ocho kilos y medio de fabes volaron en media hora en el estand del concejo, con la Cofradía de Amigos de les Fabes recordando que la IGP marca la diferencia.",
-    "cuerpo": [
-      "El estand de Villaviciosa en la Fidma se quedó sin fabada en treinta minutos. Ocho kilos y medio de fabes, preparados y repartidos, desaparecieron antes de que nadie pudiera repetir.",
-      "La Cofradía de Amigos de les Fabes aprovechó el momento para insistir en algo que no cansan de decir: que la fabe lleve la Indicación Geográfica Protegida no es un adorno, es una garantía de que el producto es el de aquí y no otro."
-    ],
-    "apunte": "Media hora y ni un cucharón de sobra: hay hambre de lo bueno.",
-    "enVeinte": [
-      "El estand de Villaviciosa en la Fidma repartió 8,5 kilos de fabada y se agotó en media hora.",
-      "La Cofradía de Amigos de les Fabes destacó la importancia de la Indicación Geográfica Protegida.",
-      "El éxito del puchero confirmó que la fabe del concejo no necesita presentación, solo cantidad suficiente."
-    ],
-    "cifra": {
-      "numero": "8,5",
-      "unidad": "kilos de fabes",
-      "glosa": "Eso es lo que trajo el estand de Villaviciosa a la Fidma. En treinta minutos no quedaba nada. Para hacerse una idea: una fabada generosa para cuatro personas lleva entre 400 y 500 gramos de fabes, así que hablamos de unas setenta raciones."
-    },
-    "palabra": {
-      "termino": "fabes",
-      "como": "fá-bes",
-      "definicion": "Así llamamos en Asturias a las alubias blancas grandes que son la base del pote y la fabada. Las de Les Caleyes o de la Granja tienen IGP propia y son las más apreciadas; no es lo mismo que cualquier alubia blanca del súper."
-    },
-    "porQue": "La Fidma es el escaparate regional más visto del verano, y que la fabada de Villaviciosa se agote en media hora dice algo sobre la reputación que tiene el concejo en la mesa.",
-    "etiquetas": [
-      "Fidma",
-      "fabada",
-      "Villaviciosa",
-      "IGP"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/16/villaviciosa-fabada-ROYiEkhOgQEom6iOfT2YHwN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-16T15:26:45.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/asturias/feria-muestras/fabada-triunfa-fidma-kilos-repartidos-media-hora-20260816172645-nt.html",
-      "titularOriginal": "La fabada triunfa en la Fidma: 8,5 kilos repartidos en media hora en el estand de Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa's fabada sells out at the Fidma",
-        "entradilla": "Eight and a half kilos of fabes were gone in half an hour at the municipality's stand, with the Cofradía de Amigos de les Fabes reminding visitors that the PGI makes all the difference.",
-        "cuerpo": [
-          "The Villaviciosa stand at the Fidma ran out of fabada in thirty minutes. Eight and a half kilos of fabes, cooked and served, disappeared before anyone could go back for seconds.",
-          "The Cofradía de Amigos de les Fabes used the moment to press a point they never tire of making: that a fabe carrying the Protected Geographical Indication is not a formality — it is a guarantee that the product is the real local one and nothing else."
-        ],
-        "apunte": "Half an hour and not a ladleful to spare: there is a real appetite for the genuine article.",
-        "enVeinte": [
-          "The Villaviciosa stand at the Fidma handed out 8.5 kilos of fabada and sold out in half an hour.",
-          "The Cofradía de Amigos de les Fabes highlighted the importance of the Protected Geographical Indication.",
-          "The success of the pot confirmed that the fabe from this municipality needs no introduction — only a larger supply."
-        ],
-        "cifra": {
-          "numero": "8.5",
-          "unidad": "kilos of fabes",
-          "glosa": "That is what the Villaviciosa stand brought to the Fidma. In thirty minutes there was nothing left. To put it in perspective: a generous fabada for four people uses between 400 and 500 grams of fabes, which means around seventy portions."
-        },
-        "palabra": {
-          "termino": "fabes",
-          "como": "fá-bes",
-          "definicion": "The Asturian name for the large white beans that form the base of pote and fabada. Those from Les Caleyes or de la Granja carry their own PGI and are the most prized; they are not the same as any white bean from a supermarket shelf."
-        },
-        "porQue": "The Fidma is the most-visited regional showcase of the summer, and the fact that Villaviciosa's fabada sells out in half an hour says something about the reputation this municipality has earned at the table.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La fabada de Villaviciosa épuisée en un rien de temps à la Fidma",
-        "entradilla": "Huit kilos et demi de fabes ont disparu en une demi-heure sur le stand de la commune, tandis que la Cofradía de Amigos de les Fabes rappelait que l'IGP fait toute la différence.",
-        "cuerpo": [
-          "Le stand de Villaviciosa à la Fidma s'est retrouvé sans fabada en trente minutes. Huit kilos et demi de fabes, préparés et distribués, ont disparu avant que quiconque ait pu se resservir.",
-          "La Cofradía de Amigos de les Fabes a saisi l'occasion pour insister sur un point qu'elle ne se lasse pas de répéter : que la fabe porte l'Indication Géographique Protégée n'est pas un ornement, c'est la garantie que le produit est bien celui d'ici et non un autre."
-        ],
-        "apunte": "Une demi-heure et pas une louche de trop : l'appétit pour le bon est bien réel.",
-        "enVeinte": [
-          "Le stand de Villaviciosa à la Fidma a distribué 8,5 kilos de fabada et s'est épuisé en une demi-heure.",
-          "La Cofradía de Amigos de les Fabes a souligné l'importance de l'Indication Géographique Protégée.",
-          "Le succès du plat a confirmé que la fabe de cette commune n'a pas besoin de présentation, seulement d'une quantité suffisante."
-        ],
-        "cifra": {
-          "numero": "8,5",
-          "unidad": "kilos de fabes",
-          "glosa": "C'est ce qu'a apporté le stand de Villaviciosa à la Fidma. En trente minutes, il n'en restait rien. Pour s'en faire une idée : une fabada généreuse pour quatre personnes demande entre 400 et 500 grammes de fabes, ce qui représente environ soixante-dix portions."
-        },
-        "palabra": {
-          "termino": "fabes",
-          "como": "fá-bes",
-          "definicion": "Le nom asturien des grands haricots blancs qui constituent la base du pote et de la fabada. Ceux de Les Caleyes ou de la Granja ont leur propre IGP et sont les plus appréciés ; ils n'ont rien à voir avec les haricots blancs ordinaires du supermarché."
-        },
-        "porQue": "La Fidma est la vitrine régionale la plus fréquentée de l'été, et le fait que la fabada de Villaviciosa s'épuise en une demi-heure en dit long sur la réputation que cette commune s'est forgée à table.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosas Fabada auf der Fidma in Minuten ausverkauft",
-        "entradilla": "Achteinhalb Kilo fabes waren am Stand der Gemeinde in einer halben Stunde vergriffen, während die Cofradía de Amigos de les Fabes daran erinnerte, dass die g.g.A. den Unterschied macht.",
-        "cuerpo": [
-          "Der Stand von Villaviciosa auf der Fidma war in dreißig Minuten ohne Fabada. Achteinhalb Kilo fabes, zubereitet und verteilt, waren verschwunden, bevor jemand nachschöpfen konnte.",
-          "Die Cofradía de Amigos de les Fabes nutzte den Moment, um auf etwas hinzuweisen, das sie nicht müde wird zu wiederholen: Dass die fabe eine geschützte geografische Angabe trägt, ist kein Beiwerk — es ist die Garantie, dass das Produkt das hiesige ist und kein anderes."
-        ],
-        "apunte": "Eine halbe Stunde, und kein Schöpflöffel übrig: Der Hunger nach dem Echten ist groß.",
-        "enVeinte": [
-          "Der Stand von Villaviciosa auf der Fidma verteilte 8,5 Kilo Fabada und war in einer halben Stunde ausverkauft.",
-          "Die Cofradía de Amigos de les Fabes betonte die Bedeutung der geschützten geografischen Angabe.",
-          "Der Erfolg des Eintopfs bestätigte, dass die fabe aus dieser Gemeinde keine Vorstellung braucht — nur ausreichend Menge."
-        ],
-        "cifra": {
-          "numero": "8,5",
-          "unidad": "Kilo fabes",
-          "glosa": "So viel brachte der Stand von Villaviciosa zur Fidma mit. In dreißig Minuten war nichts mehr übrig. Zum Vergleich: Eine großzügige Fabada für vier Personen braucht zwischen 400 und 500 Gramm fabes — das entspricht etwa siebzig Portionen."
-        },
-        "palabra": {
-          "termino": "fabes",
-          "como": "fá-bes",
-          "definicion": "Der asturische Name für die großen weißen Bohnen, die die Grundlage von pote und fabada bilden. Die Sorten aus Les Caleyes oder de la Granja haben eine eigene g.g.A. und gelten als die begehrtesten; sie sind nicht mit irgendwelchen weißen Bohnen aus dem Supermarkt zu vergleichen."
-        },
-        "porQue": "Die Fidma ist das meistbesuchte regionale Schaufenster des Sommers, und dass die Fabada aus Villaviciosa in einer halben Stunde ausverkauft ist, sagt einiges über den Ruf, den sich diese Gemeinde am Tisch erarbeitet hat.",
         "lugar": "",
         "precio": ""
       }

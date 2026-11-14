@@ -1,19 +1,19 @@
 {
-  "fecha": "2026-11-14T14:31:29.592Z",
+  "fecha": "2026-11-14T19:29:14.573Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "La Coral Piloñesa premia a la Ópera de Oviedo y a Bosch con sus Avellanas de Oro.",
-      "enlace": "/pilona/la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "Nava catará sidras de ocho países: nueve marcas internacionales se midieron en La Naveta.",
-      "enlace": "/nava/nueve-sidras-una-mesa-la-cata-del-sisga-en-la-naveta/"
+      "concejo": "Villaviciosa",
+      "frase": "Las cuentas municipales de 2025 están abiertas: tienes quince días para revisar y alegar.",
+      "enlace": "/villaviciosa/cuenta-general-2025/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Oviedo debate este jueves soledad digital con expertos, instituciones y estudiantes.",
+      "frase": "El Rodiles viaja hoy a Melilla a medirse al único equipo que no ha perdido ningún partido.",
+      "enlace": "/villaviciosa/el-rodiles-se-enfrenta-al-lider-el-melilla-torreblanca/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El jueves en Oviedo, expertos debaten cómo combatir el aislamiento digital en jóvenes y mayores.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]

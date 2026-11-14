@@ -846,6 +846,16 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-11-13T12:41:23.949Z",
       "titulo": "Continúa hoy viernes, en Villamayor, el ciclo de conferencias del RIDEA"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/miguel-gonzalez-pereda-cronista-oficial-villaviciosa-20261114200811-nt.html": {
+      "motivo": "mismo hecho que /villaviciosa/villaviciosa-acoge-la-asamblea-de-cronistas-oficiales-de-asturias-y-la/",
+      "fecha": "2026-11-14T19:27:40.207Z",
+      "titulo": "Miguel González Pereda ya es el cronista oficial de Villaviciosa"
+    },
+    "elfielato.es/comarca-picos-europa/cabrales/medio-rural-entrega-titulos-propiedad-concentracion-parcelaria-puertas-pandiellu-que-reduce-69-numero-fincas/20261114180000105527.html": {
+      "motivo": "mismo hecho que /cabrales/entregados-los-168-titulos-de-propiedad-tras-la-concentracion-parcelar/",
+      "fecha": "2026-11-14T19:27:40.979Z",
+      "titulo": "Medio Rural entrega los títulos de propiedad de la concentración parcelaria de Puertas-Pandiellu, que reduce un 69% el número de fincas"
     }
   },
   "juicios": {
@@ -988,6 +998,14 @@
     "elfielato.es/comarca-picos-europa/pilona/infiestu-feria-emprendedoras-expositoras/20261019110904104748.html|el-gobierno-de-asturias-celebra-la-iv-feria-de-emprendedoras-con-24-ex": {
       "r": "mismo",
       "fecha": "2026-11-10T11:43:04.782Z"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/miguel-gonzalez-pereda-cronista-oficial-villaviciosa-20261114200811-nt.html|villaviciosa-acoge-la-asamblea-de-cronistas-oficiales-de-asturias-y-la": {
+      "r": "mismo",
+      "fecha": "2026-11-14T19:27:40.207Z"
+    },
+    "elfielato.es/comarca-picos-europa/cabrales/medio-rural-entrega-titulos-propiedad-concentracion-parcelaria-puertas-pandiellu-que-reduce-69-numero-fincas/20261114180000105527.html|entregados-los-168-titulos-de-propiedad-tras-la-concentracion-parcelar": {
+      "r": "mismo",
+      "fecha": "2026-11-14T19:27:40.978Z"
     }
   }
 }
