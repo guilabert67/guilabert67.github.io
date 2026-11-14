@@ -1,14 +1,19 @@
 {
-  "fecha": "2026-11-14T07:34:38.663Z",
+  "fecha": "2026-11-14T14:31:29.592Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Del 14 al 22 de noviembre, teatro, ópera y cine gratis en el Riera de Villaviciosa.",
-      "enlace": "/villaviciosa/villaviciosa-ofrece-teatro-opera-y-cine-gratuito-del-14-al-22-de-novie/"
+      "concejo": "Piloña",
+      "frase": "La Coral Piloñesa premia a la Ópera de Oviedo y a Bosch con sus Avellanas de Oro.",
+      "enlace": "/pilona/la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava catará sidras de ocho países: nueve marcas internacionales se midieron en La Naveta.",
+      "enlace": "/nava/nueve-sidras-una-mesa-la-cata-del-sisga-en-la-naveta/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Este jueves en Oviedo, expertos debaten sobre soledad y salud en jóvenes y mayores.",
+      "frase": "Oviedo debate este jueves soledad digital con expertos, instituciones y estudiantes.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]

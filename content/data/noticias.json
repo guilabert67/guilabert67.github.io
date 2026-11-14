@@ -1,5 +1,266 @@
 [
   {
+    "id": "la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de",
+    "url": "/pilona/la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Avellanas de Oro para la Ópera de Oviedo y Bosch",
+    "entradilla": "La Coral Polifónica Piloñesa entrega sus galardones anuales a dos referentes de la cultura en el Oriente asturiano.",
+    "cuerpo": [
+      "La Coral Polifónica Piloñesa ha concedido sus Avellanas de Oro a la Ópera de Oviedo y al músico José Ignacio Bosch, en reconocimiento a su trayectoria cultural en la comarca.",
+      "El premio destaca la contribución de ambos a la vida musical y cultural del Oriente de Asturias."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "La Coral Polifónica Piloñesa ha premiado a la Ópera de Oviedo y a José Ignacio Bosch con sus Avellanas de Oro.",
+      "El galardón reconoce la labor cultural de ambos en el Oriente de Asturias.",
+      "No hay más detalles disponibles sobre la ceremonia ni la fecha de entrega."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Avellana de Oro",
+      "como": "aveyyana de oru, en bable",
+      "definicion": "Premio propio de la Coral Polifónica Piloñesa. La avellana es fruto muy arraigado en la tierrina y nombrar el galardón con ella no es casualidad: es el modo de decir que el reconocimiento nace de aquí mismo."
+    },
+    "porQue": "Que una institución cultural de Piloña premie a referentes del Oriente asturiano pone al concejo en el mapa musical de la región y refuerza el papel de la Coral como agente cultural de peso.",
+    "etiquetas": [
+      "Coral Polifónica Piloñesa",
+      "Avellanas de Oro",
+      "cultura",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "concierto",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/14/2026111411273072783.jpg",
+    "fecha": "2026-11-14T10:27:54.000Z",
+    "fuente": {
+      "nombre": "El Fielato",
+      "url": "https://www.elfielato.es/comarca-picos-europa/pilona/opera-oviedo-jose-ignacio-bosch-premiados-avellanas-oro-coral-polifonica-pilonesa/20261114112754105519.html",
+      "titularOriginal": "La Ópera de Oviedo y José Ignacio Bosch, premiados con las Avellanas de Oro de la Coral Polifónica Piloñesa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Golden Hazelnuts for the Ópera de Oviedo and Bosch",
+        "entradilla": "La Coral Polifónica Piloñesa awards its annual prizes to two cultural landmarks of eastern Asturias.",
+        "cuerpo": [
+          "La Coral Polifónica Piloñesa has awarded its Avellanas de Oro to the Ópera de Oviedo and to musician José Ignacio Bosch, in recognition of their cultural work in the county.",
+          "The prize highlights the contribution of both to the musical and cultural life of eastern Asturias."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coral Polifónica Piloñesa has honoured the Ópera de Oviedo and José Ignacio Bosch with its Avellanas de Oro.",
+          "The award recognises the cultural work of both in eastern Asturias.",
+          "No further details are available about the ceremony or the date of presentation."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Avellana de Oro",
+          "como": "aveyyana de oru, en bable",
+          "definicion": "La Coral Polifónica Piloñesa's own prize. The hazelnut is a fruit deeply rooted in this land, and naming the award after it is no coincidence: it is a way of saying that the recognition comes from here itself."
+        },
+        "porQue": "A cultural institution from Piloña honouring figures from eastern Asturias puts the municipality on the musical map of the region and reinforces the role of La Coral as a significant cultural player.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des Avellanas de Oro pour l'Ópera de Oviedo et Bosch",
+        "entradilla": "La Coral Polifónica Piloñesa remet ses prix annuels à deux figures de référence de la culture dans l'est des Asturies.",
+        "cuerpo": [
+          "La Coral Polifónica Piloñesa a décerné ses Avellanas de Oro à l'Ópera de Oviedo et au musicien José Ignacio Bosch, en reconnaissance de leur parcours culturel dans la région.",
+          "Le prix souligne la contribution des deux lauréats à la vie musicale et culturelle de l'est des Asturies."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coral Polifónica Piloñesa a récompensé l'Ópera de Oviedo et José Ignacio Bosch avec ses Avellanas de Oro.",
+          "Le prix reconnaît l'action culturelle des deux lauréats dans l'est des Asturies.",
+          "Aucun détail supplémentaire n'est disponible sur la cérémonie ni sur la date de remise."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Avellana de Oro",
+          "como": "aveyyana de oru, en bable",
+          "definicion": "Prix propre à la Coral Polifónica Piloñesa. La noisette est un fruit profondément enraciné dans cette terre, et lui donner son nom n'est pas un hasard : c'est une façon de dire que la reconnaissance naît d'ici même."
+        },
+        "porQue": "Qu'une institution culturelle de Piloña récompense des figures de l'est des Asturies place la commune sur la carte musicale de la région et renforce le rôle de la Coral en tant qu'acteur culturel de poids.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Avellanas de Oro für die Ópera de Oviedo und Bosch",
+        "entradilla": "La Coral Polifónica Piloñesa verleiht ihre jährlichen Auszeichnungen an zwei kulturelle Referenzgrößen im östlichen Asturien.",
+        "cuerpo": [
+          "La Coral Polifónica Piloñesa hat ihre Avellanas de Oro an die Ópera de Oviedo und den Musiker José Ignacio Bosch verliehen, in Anerkennung ihrer kulturellen Arbeit in der Region.",
+          "Der Preis würdigt den Beitrag beider zum musikalischen und kulturellen Leben im östlichen Asturien."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coral Polifónica Piloñesa hat die Ópera de Oviedo und José Ignacio Bosch mit ihren Avellanas de Oro ausgezeichnet.",
+          "Die Auszeichnung würdigt die kulturelle Arbeit beider im östlichen Asturien.",
+          "Weitere Einzelheiten zur Zeremonie oder zum Übergabedatum liegen nicht vor."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Avellana de Oro",
+          "como": "aveyyana de oru, en bable",
+          "definicion": "Eigener Preis der Coral Polifónica Piloñesa. Die Haselnuss ist tief in dieser Erde verwurzelt, und ihr den Namen des Preises zu geben ist kein Zufall: Es ist eine Art zu sagen, dass die Auszeichnung aus dieser Gegend selbst kommt."
+        },
+        "porQue": "Dass eine Kulturinstitution aus Piloña Persönlichkeiten aus dem östlichen Asturien auszeichnet, bringt die Gemeinde auf die musikalische Landkarte der Region und stärkt die Rolle der Coral als bedeutende Kulturakteurin.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "nueve-sidras-una-mesa-la-cata-del-sisga-en-la-naveta",
+    "url": "/nava/nueve-sidras-una-mesa-la-cata-del-sisga-en-la-naveta/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "Nava acoge una cata de sidras de ocho países",
+    "entradilla": "La Naveta reunió el 12 de noviembre nueve sidras internacionales en una sesión que mezcló rigor y espíritu de chigre.",
+    "cuerpo": [
+      "El establecimiento naviego La Naveta organizó una cata del SISGA en la que nueve sidras llegadas de ocho lugares distintos —desde Letonia y Finlandia hasta Japón, Canadá y Polonia— pasaron por las copas de los asistentes bajo la guía del sumiller Xuaquín Menéndez.",
+      "Ana Emilia Ordóñez, dueña y anfitriona del local, le dio a la jornada el ambiente propio de una tarde de chigre: entre copa y copa hubo preguntas, comparaciones y comentarios en voz alta sobre lo que cada sidra dejaba en el paladar. El recorrido fue del dulzor y la acidez de las sidras letonas al cuerpo y las notas de madera de la canadiense Annapolis Spy Imperial, con alguna sorpresa entremedio, como una sidra con ciruela de los Países Bajos y otra con guinda polaca.",
+      "La iniciativa sirve a dos fines: dar a conocer las sidras internacionales que forman parte del SISGA y recaudar fondos para la Cofradía de los Siceratores."
+    ],
+    "apunte": "Nueve sidras, ocho países y una sola mesa: lo más parecido a una vuelta al mundo sin salir de Nava.",
+    "enVeinte": [
+      "El 12 de noviembre, La Naveta acogió una cata del SISGA con nueve sidras internacionales procedentes de ocho lugares diferentes.",
+      "El sumiller Xuaquín Menéndez guió la sesión animando al público a comparar perfiles, dulzores y la influencia de distintas variedades de manzana y otras frutas.",
+      "La iniciativa financia a la Cofradía de los Siceratores y busca acercar las sidras internacionales del SISGA al público asturiano."
+    ],
+    "cifra": {
+      "numero": "9",
+      "unidad": "sidras de 8 procedencias",
+      "glosa": "En una sola sesión se cataron nueve sidras llegadas de ocho lugares distintos, desde países nórdicos hasta Japón o Canadá. Esa variedad en una mesa es lo que permitió a los asistentes comparar de golpe perfiles muy diferentes: secas, semisecas, con y sin alcohol, con manzana sola o con fruta añadida."
+    },
+    "palabra": {
+      "termino": "chigre",
+      "como": "chígre, con acento en la primera sílaba",
+      "definicion": "En Asturias, el chigre es el bar o tasca donde se despacha sidra, muchas veces directamente del tonel. La palabra define también un ambiente: conversación larga, copa en mano y sin prisa. Que una cata técnica se describa 'con espíritu de chigre' dice mucho de cómo se quiso plantear la tarde."
+    },
+    "porQue": "Eventos como este ponen a Nava en el mapa de la cultura sidrera más allá de lo local, y mantienen viva una cofradía que trabaja por conservar y difundir el patrimonio de la sidra asturiana.",
+    "etiquetas": [
+      "sidra",
+      "SISGA",
+      "Nava",
+      "cata"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "gastro",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.lasidra.net/wp-content/uploads/2026/11/01_apertura_guia_y_asistentes-300x156.jpg",
+    "fecha": "2026-11-14T10:21:34.000Z",
+    "fuente": {
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/nueve-sidras-una-mesa-la-cata-del-sisga-en-la-naveta/",
+      "titularOriginal": "Nueve sidras, una mesa: la cata del SISGA en La Naveta"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava hosts a tasting of ciders from eight countries",
+        "entradilla": "La Naveta brought together nine international ciders on 12 November in a session that blended rigour and the spirit of a chigre (a traditional cider bar).",
+        "cuerpo": [
+          "The Nava establishment La Naveta organised a SISGA tasting in which nine ciders from eight different places — from Latvia and Finland to Japan, Canada and Poland — passed through the glasses of those present under the guidance of sommelier Xuaquín Menéndez.",
+          "Ana Emilia Ordóñez, owner and host of the venue, gave the event the feel of a typical chigre afternoon: between one glass and the next there were questions, comparisons and remarks out loud about what each cider left on the palate. The journey ran from the sweetness and acidity of the Latvian ciders to the body and woody notes of the Canadian Annapolis Spy Imperial, with the odd surprise along the way, such as a plum cider from the Netherlands and another with Polish morello cherry.",
+          "The initiative serves two purposes: to introduce the international ciders that form part of SISGA and to raise funds for the Cofradía de los Siceratores."
+        ],
+        "apunte": "Nine ciders, eight countries and a single table: the closest thing to a trip around the world without leaving Nava.",
+        "enVeinte": [
+          "On 12 November, La Naveta hosted a SISGA tasting featuring nine international ciders from eight different places.",
+          "Sommelier Xuaquín Menéndez led the session, encouraging the audience to compare profiles, levels of sweetness and the influence of different apple varieties and other fruits.",
+          "The initiative raises funds for the Cofradía de los Siceratores and aims to bring SISGA's international ciders closer to the Asturian public."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "ciders from 8 origins",
+          "glosa": "Nine ciders from eight different places were tasted in a single session, from Nordic countries to Japan and Canada. That variety on one table is what allowed those present to compare very different profiles all at once: dry, semi-dry, alcoholic and non-alcoholic, made with apple alone or with added fruit."
+        },
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre, stress on the first syllable",
+          "definicion": "In Asturias, a chigre is the bar or tavern where cider is served, often straight from the barrel. The word also captures an atmosphere: long conversation, glass in hand, no rush. The fact that a technical tasting is described as having the \"spirit of a chigre\" says a great deal about the tone the afternoon was meant to have."
+        },
+        "porQue": "Events like this put Nava on the map of cider culture beyond the local level, and keep alive a cofradía that works to preserve and promote the heritage of Asturian cider.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava accueille une dégustation de cidres venus de huit pays",
+        "entradilla": "La Naveta a réuni le 12 novembre neuf cidres internationaux lors d'une session qui a mêlé rigueur et esprit de chigre (bar à cidre traditionnel).",
+        "cuerpo": [
+          "L'établissement naviego La Naveta a organisé une dégustation du SISGA au cours de laquelle neuf cidres venus de huit endroits différents — de la Lettonie et de la Finlande jusqu'au Japon, au Canada et à la Pologne — ont été dégustés par les participants sous la conduite du sommelier Xuaquín Menéndez.",
+          "Ana Emilia Ordóñez, propriétaire et hôtesse du lieu, a donné à la journée l'atmosphère d'un après-midi de chigre : entre chaque verre, il y eut des questions, des comparaisons et des commentaires à voix haute sur ce que chaque cidre laissait en bouche. Le parcours alla de la douceur et de l'acidité des cidres lettons au corps et aux notes boisées du canadien Annapolis Spy Imperial, avec quelques surprises en chemin, comme un cidre à la prune des Pays-Bas et un autre à la griotte polonaise.",
+          "L'initiative sert deux objectifs : faire connaître les cidres internationaux qui font partie du SISGA et collecter des fonds pour la Cofradía de los Siceratores."
+        ],
+        "apunte": "Neuf cidres, huit pays et une seule table : le plus proche d'un tour du monde sans quitter Nava.",
+        "enVeinte": [
+          "Le 12 novembre, La Naveta a accueilli une dégustation du SISGA avec neuf cidres internationaux provenant de huit endroits différents.",
+          "Le sommelier Xuaquín Menéndez a animé la session en invitant le public à comparer les profils, les niveaux de douceur et l'influence de différentes variétés de pommes et d'autres fruits.",
+          "L'initiative finance la Cofradía de los Siceratores et cherche à faire découvrir les cidres internationaux du SISGA au public asturien."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "cidres de 8 provenances",
+          "glosa": "Neuf cidres venus de huit endroits différents ont été dégustés en une seule session, de pays nordiques jusqu'au Japon ou au Canada. Cette variété réunie autour d'une même table a permis aux participants de comparer d'un seul coup des profils très différents : secs, demi-secs, avec ou sans alcool, à base de pomme seule ou avec d'autres fruits ajoutés."
+        },
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre, accent tonique sur la première syllabe",
+          "definicion": "En Asturies, le chigre est le bar ou la taverne où l'on sert le cidre, souvent directement au tonneau. Le mot désigne aussi une atmosphère : longue conversation, verre en main et sans hâte. Qu'une dégustation technique soit décrite comme ayant l'« esprit du chigre » en dit long sur la façon dont on a voulu concevoir l'après-midi."
+        },
+        "porQue": "Des événements comme celui-ci placent Nava sur la carte de la culture cidricole au-delà du niveau local, et maintiennent vivante une cofradía qui œuvre à la préservation et à la diffusion du patrimoine du cidre asturien.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava richtet eine Verkostung von Cidres aus acht Ländern aus",
+        "entradilla": "La Naveta versammelte am 12. November neun internationale Cidres zu einer Verkostung, die Sachkenntnis und den Geist eines chigre (einer traditionellen Cidre-Kneipe) miteinander verband.",
+        "cuerpo": [
+          "Das Navaer Lokal La Naveta veranstaltete eine SISGA-Verkostung, bei der neun Cidres aus acht verschiedenen Gegenden — von Lettland und Finnland bis Japan, Kanada und Polen — unter der Führung des Sommeliers Xuaquín Menéndez in die Gläser der Anwesenden flossen.",
+          "Ana Emilia Ordóñez, Inhaberin und Gastgeberin des Lokals, verlieh dem Nachmittag die Atmosphäre eines typischen chigre: Zwischen den einzelnen Gläsern gab es Fragen, Vergleiche und laut geäußerte Kommentare darüber, was jeder Cidre am Gaumen hinterließ. Der Weg führte von der Süße und Säure der lettischen Cidres über den Körper und die Holznoten des kanadischen Annapolis Spy Imperial bis hin zu einigen Überraschungen dazwischen, darunter ein Pflaumen-Cidre aus den Niederlanden und ein weiterer mit polischer Sauerkirsche.",
+          "Die Initiative verfolgt zwei Ziele: die internationalen Cidres, die zum SISGA gehören, bekannt zu machen und Mittel für die Cofradía de los Siceratores zu sammeln."
+        ],
+        "apunte": "Neun Cidres, acht Länder und ein einziger Tisch: die nächste Annäherung an eine Weltreise, ohne Nava zu verlassen.",
+        "enVeinte": [
+          "Am 12. November richtete La Naveta eine SISGA-Verkostung mit neun internationalen Cidres aus acht verschiedenen Gegenden aus.",
+          "Sommelier Xuaquín Menéndez leitete die Verkostung und forderte das Publikum auf, Profile, Süßegrade und den Einfluss verschiedener Apfelsorten und anderer Früchte zu vergleichen.",
+          "Die Initiative finanziert die Cofradía de los Siceratores und möchte dem asturischen Publikum die internationalen Cidres des SISGA näherbringen."
+        ],
+        "cifra": {
+          "numero": "9",
+          "unidad": "Cidres aus 8 Herkünften",
+          "glosa": "In einer einzigen Sitzung wurden neun Cidres aus acht verschiedenen Gegenden verkostet, von nordischen Ländern bis Japan oder Kanada. Diese Vielfalt an einem Tisch ermöglichte es den Teilnehmenden, auf einen Schlag sehr unterschiedliche Profile zu vergleichen: trockene, halbtrockene, alkoholische und alkoholfreie, aus reinem Apfel oder mit zugesetzten Früchten."
+        },
+        "palabra": {
+          "termino": "chigre",
+          "como": "chígre, Betonung auf der ersten Silbe",
+          "definicion": "In Asturien ist der chigre die Bar oder Kneipe, in der Cidre ausgeschenkt wird, oft direkt aus dem Fass. Das Wort beschreibt auch eine Stimmung: langes Gespräch, Glas in der Hand, keine Eile. Dass eine fachkundige Verkostung als «mit dem Geist eines chigre» beschrieben wird, sagt viel darüber aus, wie der Nachmittag gedacht war."
+        },
+        "porQue": "Veranstaltungen wie diese setzen Nava auf die Landkarte der Cidre-Kultur über das Lokale hinaus und halten eine Cofradía am Leben, die sich der Bewahrung und Verbreitung des asturischen Cidre-Erbes widmet.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "una sidra con ciruela de los paises bajos",
+      "sidra con ciruela de los paises bajos y",
+      "con ciruela de los paises bajos y otra",
+      "ciruela de los paises bajos y otra con",
+      "de los paises bajos y otra con guinda"
+    ]
+  },
+  {
     "id": "villaviciosa-ofrece-teatro-opera-y-cine-gratuito-del-14-al-22-de-novie",
     "url": "/villaviciosa/villaviciosa-ofrece-teatro-opera-y-cine-gratuito-del-14-al-22-de-novie/",
     "concejo": "Villaviciosa",
@@ -1225,24 +1486,24 @@
     "concejo": "Villaviciosa",
     "concejoSlug": "villaviciosa",
     "seccion": "deporte-y-cultura",
-    "titular": "Oviedo debate este jueves soledad y salud",
-    "entradilla": "Las III Jornadas sobre Soledad y Salud reúnen el 12 de noviembre a especialistas, instituciones y estudiantes para hablar de aislamiento en jóvenes y mayores.",
+    "titular": "Oviedo debate soledad digital y aislamiento este jueves",
+    "entradilla": "La Universidad de Oviedo acoge unas jornadas que reúnen a especialistas, instituciones y estudiantes en torno a un problema que no entiende de edades.",
     "cuerpo": [
-      "La Universidad de Oviedo acoge este jueves una nueva edición de las jornadas que cada año ponen sobre la mesa el vínculo entre la soledad —también la digital— y la salud de los más jóvenes y los más mayores.",
-      "Al encuentro acuden expertos internacionales junto a representantes institucionales y estudiantes, lo que da al debate una mezcla poco habitual entre academia, política y quienes estudian el tema de cerca."
+      "Las III Jornadas sobre Soledad y Salud arrancan este jueves 12 de noviembre en Oviedo, con jóvenes y mayores como protagonistas del debate.",
+      "Al encuentro acuden expertos internacionales junto a representantes institucionales y estudiantes, lo que da al programa una mezcla poco habitual de miradas."
     ],
-    "apunte": "Que haga falta una jornada internacional para hablar de soledad dice bastante.",
+    "apunte": "La soledad, ese mal que creíamos de antes, ahora también llega por pantalla.",
     "enVeinte": [
-      "La Universidad de Oviedo celebra el jueves 12 de noviembre las III Jornadas sobre Soledad y Salud.",
-      "El encuentro aborda el aislamiento social y la soledad digital en jóvenes y mayores con expertos internacionales.",
-      "Participan también representantes institucionales y estudiantes."
+      "La Universidad de Oviedo organiza el jueves 12 de noviembre las III Jornadas sobre Soledad y Salud, centradas en jóvenes y mayores.",
+      "El encuentro reúne a expertos internacionales, representantes institucionales y estudiantes para abordar la soledad digital y el aislamiento social.",
+      "El acto se celebra en Oviedo, aunque la fuente no precisa sala, hora ni precio."
     ],
     "cifra": null,
     "palabra": null,
-    "porQue": "El aislamiento afecta tanto a críos pegados a una pantalla como a mayores que viven solos en las aldeas del concejo; saber qué se está investigando y qué proponen los expertos ayuda a entender qué puede cambiar cerca de casa.",
+    "porQue": "El aislamiento social afecta tanto a mayores que viven solos en los concejos rurales como a jóvenes conectados todo el día pero cada vez más solos; saber qué dicen los expertos ayuda a identificarlo cerca de casa.",
     "etiquetas": [
-      "salud",
       "soledad",
+      "salud",
       "Universidad de Oviedo",
       "jornadas"
     ],
@@ -1262,63 +1523,66 @@
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "Oviedo debates solitude and health this Thursday",
-        "entradilla": "The III Jornadas sobre Soledad y Salud brings together specialists, institutions and students on 12 November to discuss isolation among the young and the elderly.",
+        "titular": "Oviedo debates digital loneliness and isolation this Thursday",
+        "entradilla": "The University of Oviedo hosts a conference bringing together specialists, institutions and students around a problem that knows no age.",
         "cuerpo": [
-          "The University of Oviedo hosts this Thursday a new edition of the annual conference that puts the link between loneliness — including digital loneliness — and the health of the very young and the very old on the table.",
-          "International experts attend alongside institutional representatives and students, giving the debate an unusual mix of academia, politics and those who study the subject up close."
+          "The III Jornadas sobre Soledad y Salud kick off this Thursday, 12 November in Oviedo, with young people and older adults at the centre of the debate.",
+          "International experts attend alongside institutional representatives and students, giving the programme an unusual mix of perspectives."
         ],
-        "apunte": "That an international conference is needed to talk about loneliness says quite a lot.",
+        "apunte": "Loneliness, that ill we thought belonged to the past, now arrives through a screen too.",
         "enVeinte": [
-          "The University of Oviedo holds the III Jornadas sobre Soledad y Salud on Thursday 12 November.",
-          "The event addresses social isolation and digital loneliness among the young and the elderly, with international experts.",
-          "Institutional representatives and students also take part."
+          "The University of Oviedo is organising the III Jornadas sobre Soledad y Salud on Thursday, 12 November, focused on young people and older adults.",
+          "The event brings together international experts, institutional representatives and students to address digital loneliness and social isolation.",
+          "The event takes place in Oviedo, though the source does not specify the room, time or price."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Isolation affects both children glued to a screen and elderly people living alone in the villages of the municipality; knowing what is being researched and what experts propose helps to understand what might change close to home.",
+        "porQue": "Social isolation affects both older people living alone in rural municipalities and young people connected all day yet increasingly alone; knowing what the experts say helps to spot it close to home.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "fr": {
-        "titular": "Oviedo débat ce jeudi solitude et santé",
-        "entradilla": "Les III Jornadas sobre Soledad y Salud réunissent le 12 novembre des spécialistes, des institutions et des étudiants pour parler d'isolement chez les jeunes et les personnes âgées.",
+        "titular": "Oviedo débat solitude numérique et isolement ce jeudi",
+        "entradilla": "L'Université d'Oviedo accueille des journées qui réunissent spécialistes, institutions et étudiants autour d'un problème qui ne connaît pas d'âge.",
         "cuerpo": [
-          "L'Université d'Oviedo accueille ce jeudi une nouvelle édition des journées qui, chaque année, mettent sur la table le lien entre la solitude — y compris numérique — et la santé des plus jeunes et des plus âgés.",
-          "Des experts internationaux y participent aux côtés de représentants institutionnels et d'étudiants, ce qui confère au débat un mélange peu habituel entre monde académique, politique et ceux qui étudient le sujet de près."
+          "Les III Jornadas sobre Soledad y Salud débutent ce jeudi 12 novembre à Oviedo, avec les jeunes et les personnes âgées comme protagonistes du débat.",
+          "Des experts internationaux participent aux côtés de représentants institutionnels et d'étudiants, ce qui confère au programme un mélange de regards peu habituel."
         ],
-        "apunte": "Qu'il faille des journées internationales pour parler de solitude en dit long.",
+        "apunte": "La solitude, ce mal que l'on croyait d'un autre temps, arrive désormais aussi par écran.",
         "enVeinte": [
-          "L'Université d'Oviedo organise le jeudi 12 novembre les III Jornadas sobre Soledad y Salud.",
-          "La rencontre aborde l'isolement social et la solitude numérique chez les jeunes et les personnes âgées, avec des experts internationaux.",
-          "Des représentants institutionnels et des étudiants y participent également."
+          "L'Université d'Oviedo organise le jeudi 12 novembre les III Jornadas sobre Soledad y Salud, centrées sur les jeunes et les personnes âgées.",
+          "La rencontre réunit des experts internationaux, des représentants institutionnels et des étudiants pour aborder la solitude numérique et l'isolement social.",
+          "L'événement se tient à Oviedo, bien que la source ne précise ni la salle, ni l'heure, ni le prix."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "L'isolement touche aussi bien les enfants collés à un écran que les personnes âgées vivant seules dans les villages de la commune ; savoir ce qui est étudié et ce que proposent les experts aide à comprendre ce qui pourrait changer près de chez soi.",
+        "porQue": "L'isolement social touche aussi bien les personnes âgées vivant seules dans les communes rurales que les jeunes connectés toute la journée mais de plus en plus seuls ; savoir ce que disent les experts aide à le repérer près de chez soi.",
         "lugar": "Oviedo",
         "precio": ""
       },
       "de": {
-        "titular": "Oviedo diskutiert diesen Donnerstag über Einsamkeit und Gesundheit",
-        "entradilla": "Die III Jornadas sobre Soledad y Salud bringen am 12. November Fachleute, Institutionen und Studierende zusammen, um über soziale Isolation bei Jungen und Älteren zu sprechen.",
+        "titular": "Oviedo diskutiert digitale Einsamkeit und Isolation diesen Donnerstag",
+        "entradilla": "Die Universität Oviedo beherbergt eine Tagung, die Fachleute, Institutionen und Studierende rund um ein Problem zusammenbringt, das kein Alter kennt.",
         "cuerpo": [
-          "Die Universität Oviedo ist diesen Donnerstag erneut Gastgeberin der Jahrestagung, die den Zusammenhang zwischen Einsamkeit — auch digitaler Einsamkeit — und der Gesundheit der Jüngsten und der Ältesten in den Mittelpunkt rückt.",
-          "Internationale Experten nehmen gemeinsam mit institutionellen Vertretern und Studierenden teil, was der Debatte eine ungewöhnliche Mischung aus Wissenschaft, Politik und denjenigen verleiht, die das Thema aus nächster Nähe erforschen."
+          "Die III Jornadas sobre Soledad y Salud beginnen diesen Donnerstag, den 12. November, in Oviedo, mit jungen Menschen und Älteren als Hauptakteuren der Debatte.",
+          "Internationale Experten nehmen gemeinsam mit institutionellen Vertretern und Studierenden teil, was dem Programm eine ungewöhnliche Vielfalt an Perspektiven verleiht."
         ],
-        "apunte": "Dass es einer internationalen Tagung bedarf, um über Einsamkeit zu sprechen, sagt einiges.",
+        "apunte": "Einsamkeit, dieses Übel, das wir für vergangen hielten, kommt heute auch durch den Bildschirm.",
         "enVeinte": [
-          "Die Universität Oviedo veranstaltet am Donnerstag, dem 12. November, die III Jornadas sobre Soledad y Salud.",
-          "Die Tagung behandelt soziale Isolation und digitale Einsamkeit bei Jungen und Älteren mit internationalen Experten.",
-          "Auch institutionelle Vertreter und Studierende nehmen teil."
+          "Die Universität Oviedo veranstaltet am Donnerstag, den 12. November, die III Jornadas sobre Soledad y Salud mit dem Schwerpunkt auf jungen Menschen und Älteren.",
+          "Die Veranstaltung bringt internationale Experten, institutionelle Vertreter und Studierende zusammen, um digitale Einsamkeit und soziale Isolation zu thematisieren.",
+          "Die Veranstaltung findet in Oviedo statt, wobei die Quelle weder Saal, Uhrzeit noch Preis nennt."
         ],
         "cifra": null,
         "palabra": null,
-        "porQue": "Isolation betrifft sowohl Kinder, die an einem Bildschirm hängen, als auch ältere Menschen, die allein in den Dörfern der Gemeinde leben; zu wissen, was erforscht wird und was Experten vorschlagen, hilft zu verstehen, was sich in der näheren Umgebung ändern könnte.",
+        "porQue": "Soziale Isolation betrifft sowohl ältere Menschen, die allein in ländlichen Gemeinden leben, als auch junge Menschen, die den ganzen Tag vernetzt und dennoch immer einsamer sind; zu wissen, was Experten sagen, hilft dabei, sie in der eigenen Umgebung zu erkennen.",
         "lugar": "Oviedo",
         "precio": ""
       }
-    }
+    },
+    "revisar": [
+      "este jueves 12 de noviembre en oviedo con"
+    ]
   },
   {
     "id": "una-colision-entre-una-furgoneta-y-un-turismo-deja-tres-heridos-y-obli",
