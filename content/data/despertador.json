@@ -1,19 +1,14 @@
 {
-  "fecha": "2026-11-13T20:08:16.690Z",
+  "fecha": "2026-11-14T07:34:38.663Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El RIDEA llega a Villamayor en noviembre con cinco charlas sobre el lobo y el mundo rural.",
-      "enlace": "/pilona/el-ridea-reune-en-noviembre-conferencias-sobre-el-lobo-iberico-la-arqu/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "El Día de la Infancia se celebra el viernes en la Casa de Cultura de Nava.",
-      "enlace": "/nava/la-comarca-de-la-sidra-celebrara-en-nava-el-dia-universal-de-los-derec/"
+      "concejo": "Villaviciosa",
+      "frase": "Del 14 al 22 de noviembre, teatro, ópera y cine gratis en el Riera de Villaviciosa.",
+      "enlace": "/villaviciosa/villaviciosa-ofrece-teatro-opera-y-cine-gratuito-del-14-al-22-de-novie/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Este jueves, Oviedo reúne expertos para hablar de soledad digital en jóvenes y mayores.",
+      "frase": "Este jueves en Oviedo, expertos debaten sobre soledad y salud en jóvenes y mayores.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]
