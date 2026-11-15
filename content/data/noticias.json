@@ -1,5 +1,106 @@
 [
   {
+    "id": "villaviciosa-estrecha-lazos-con-el-bellas-artes",
+    "url": "/villaviciosa/villaviciosa-estrecha-lazos-con-el-bellas-artes/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Bellas Artes entra en el certamen de pintura",
+    "entradilla": "La directora del museo se sienta como jurado en el concurso de pintura de Villaviciosa.",
+    "cuerpo": [
+      "El certamen de pintura de Villaviciosa suma un nombre de peso: la directora del Museo de Bellas Artes de Asturias participará como miembro del jurado.",
+      "El alcalde valora el gesto como un honor para el concejo, señal de que la relación entre Villaviciosa y el museo asturiano gana enteros."
+    ],
+    "apunte": "Un jurado con despacho en Oviedo, pero con el ojo puesto en Villaviciosa.",
+    "enVeinte": [
+      "La directora del Museo de Bellas Artes de Asturias se incorpora como jurado al certamen de pintura de Villaviciosa.",
+      "El alcalde califica el acuerdo de un honor para el concejo.",
+      "El vínculo entre Villaviciosa y el Bellas Artes sale reforzado con este paso."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Tener a la directora del principal museo de arte de Asturias en el jurado da visibilidad al certamen local y puede atraer participantes de más nivel.",
+    "etiquetas": [
+      "Villaviciosa",
+      "pintura",
+      "Bellas Artes",
+      "cultura"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/15/bellas%20artes-RxN8ZjNyAeelZVpqNwmUxgK-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-15T16:16:11.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-estrecha-lazos-bellas-artes-20261115171610-nt.html",
+      "titularOriginal": "Villaviciosa «estrecha lazos» con el Bellas Artes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Bellas Artes joins the painting competition",
+        "entradilla": "The museum's director takes a seat on the jury of the Villaviciosa painting competition.",
+        "cuerpo": [
+          "The Villaviciosa painting competition adds a heavyweight name: the director of the Museo de Bellas Artes de Asturias will sit on the jury.",
+          "The mayor welcomes the gesture as an honour for the municipality, a sign that the relationship between Villaviciosa and the Asturian museum is growing stronger."
+        ],
+        "apunte": "A juror with an office in Oviedo, but with an eye on Villaviciosa.",
+        "enVeinte": [
+          "The director of the Museo de Bellas Artes de Asturias joins the jury of the Villaviciosa painting competition.",
+          "The mayor describes the agreement as an honour for the municipality.",
+          "The bond between Villaviciosa and the Bellas Artes comes out strengthened by this step."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Having the director of Asturias's leading art museum on the jury raises the profile of the local competition and may attract higher-level entrants.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le Bellas Artes entre dans le concours de peinture",
+        "entradilla": "La directrice du musée siège comme membre du jury du concours de peinture de Villaviciosa.",
+        "cuerpo": [
+          "Le concours de peinture de Villaviciosa s'enrichit d'un nom de poids : la directrice du Museo de Bellas Artes de Asturias participera comme membre du jury.",
+          "Le maire salue ce geste comme un honneur pour la commune, signe que la relation entre Villaviciosa et le musée asturien gagne en importance."
+        ],
+        "apunte": "Un jury avec un bureau à Oviedo, mais le regard tourné vers Villaviciosa.",
+        "enVeinte": [
+          "La directrice du Museo de Bellas Artes de Asturias rejoint le jury du concours de peinture de Villaviciosa.",
+          "Le maire qualifie l'accord d'honneur pour la commune.",
+          "Le lien entre Villaviciosa et le Bellas Artes sort renforcé de cette démarche."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Avoir la directrice du principal musée d'art d'Asturies dans le jury donne de la visibilité au concours local et peut attirer des participants de plus haut niveau.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Das Bellas Artes tritt dem Malwettbewerb bei",
+        "entradilla": "Die Museumsdirektorin nimmt als Jurymitglied am Malwettbewerb von Villaviciosa teil.",
+        "cuerpo": [
+          "Der Malwettbewerb von Villaviciosa gewinnt einen klangvollen Namen: Die Direktorin des Museo de Bellas Artes de Asturias wird der Jury angehören.",
+          "Der Bürgermeister wertet die Geste als Ehre für die Gemeinde und sieht darin ein Zeichen, dass die Beziehung zwischen Villaviciosa und dem asturischen Museum an Gewicht gewinnt."
+        ],
+        "apunte": "Ein Jurymitglied mit Büro in Oviedo, aber mit dem Blick auf Villaviciosa gerichtet.",
+        "enVeinte": [
+          "Die Direktorin des Museo de Bellas Artes de Asturias tritt der Jury des Malwettbewerbs von Villaviciosa bei.",
+          "Der Bürgermeister bezeichnet die Vereinbarung als Ehre für die Gemeinde.",
+          "Die Verbindung zwischen Villaviciosa und dem Bellas Artes wird durch diesen Schritt gestärkt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Direktorin des bedeutendsten Kunstmuseums Asturiens in der Jury verschafft dem lokalen Wettbewerb mehr Sichtbarkeit und kann Teilnehmer auf höherem Niveau anziehen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa",
     "url": "/villaviciosa/miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa/",
     "concejo": "Villaviciosa",
@@ -1869,6 +1970,107 @@
     "revisar": [
       "la grua ya se ha retirado para dejar"
     ]
+  },
+  {
+    "id": "la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar",
+    "url": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Oviedo debate soledad digital y aislamiento este jueves",
+    "entradilla": "Las III Jornadas sobre Soledad y Salud juntan el jueves en Oviedo a especialistas, instituciones y estudiantes para hablar de un problema que ya no distingue edades.",
+    "cuerpo": [
+      "La Universidad de Oviedo acoge el jueves 12 de noviembre las III Jornadas sobre Soledad y Salud, centradas este año en la soledad digital y el aislamiento social entre jóvenes y mayores.",
+      "Al encuentro se han convocado expertos internacionales, representantes de instituciones y estudiantes, aunque el material disponible no detalla hora de inicio ni lugar exacto dentro de la ciudad."
+    ],
+    "apunte": "Porque estar rodeado de pantallas no es lo mismo que estar acompañado.",
+    "enVeinte": [
+      "La Universidad de Oviedo organiza el jueves 12 de noviembre unas jornadas sobre soledad y salud para jóvenes y mayores.",
+      "El foco está en la soledad digital y el aislamiento social, con expertos internacionales, instituciones y estudiantes como participantes.",
+      "Es la tercera edición de estas jornadas; la hora y el lugar exacto dentro de Oviedo no constan en la información disponible."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "La soledad no es solo cosa de ciudades grandes: en concejos como Villaviciosa, con mucha población dispersa y mayor, poner nombre al problema es el primer paso para atajarlo.",
+    "etiquetas": [
+      "soledad",
+      "salud",
+      "Universidad de Oviedo",
+      "jornadas"
+    ],
+    "fechaEvento": "2026-11-12",
+    "tipoEvento": "taller",
+    "lugar": "Oviedo",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/la-universidad-de-oviedo-reune-a-expertos-internac-b71c043a.jpg",
+    "fecha": "2026-11-11T21:24:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar-la-soledad-digital-y-el-aislamiento-social-11277113.html",
+      "titularOriginal": "La Universidad de Oviedo reúne a expertos internacionales para abordar la soledad digital y el aislamiento social"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Oviedo debates digital loneliness and isolation this Thursday",
+        "entradilla": "The III Jornadas sobre Soledad y Salud brings together specialists, institutions and students in Oviedo on Thursday to discuss a problem that no longer respects age.",
+        "cuerpo": [
+          "The University of Oviedo hosts the III Jornadas sobre Soledad y Salud on Thursday, 12 November, focusing this year on digital loneliness and social isolation among young people and older adults.",
+          "International experts, institutional representatives and students have been invited to the event, though the available material gives no details on the starting time or the exact venue within the city."
+        ],
+        "apunte": "Being surrounded by screens is not the same as having company.",
+        "enVeinte": [
+          "The University of Oviedo is organising a conference on loneliness and health for young people and older adults on Thursday, 12 November.",
+          "The focus is on digital loneliness and social isolation, with international experts, institutions and students taking part.",
+          "This is the third edition of the conference; the time and exact location within Oviedo are not included in the available information."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Loneliness is not only a big-city problem: in municipalities like Villaviciosa, with a large scattered and older population, naming the problem is the first step towards tackling it.",
+        "lugar": "Oviedo",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Oviedo débat jeudi de solitude numérique et d'isolement",
+        "entradilla": "Les III Jornadas sobre Soledad y Salud réunissent jeudi à Oviedo des spécialistes, des institutions et des étudiants pour parler d'un problème qui ne fait plus de distinction d'âge.",
+        "cuerpo": [
+          "L'Université d'Oviedo accueille jeudi 12 novembre les III Jornadas sobre Soledad y Salud, consacrées cette année à la solitude numérique et à l'isolement social chez les jeunes et les personnes âgées.",
+          "Des experts internationaux, des représentants d'institutions et des étudiants ont été conviés à la rencontre, bien que les informations disponibles ne précisent ni l'heure de début ni le lieu exact dans la ville."
+        ],
+        "apunte": "Être entouré d'écrans n'est pas la même chose qu'être accompagné.",
+        "enVeinte": [
+          "L'Université d'Oviedo organise jeudi 12 novembre des journées sur la solitude et la santé destinées aux jeunes et aux personnes âgées.",
+          "L'accent est mis sur la solitude numérique et l'isolement social, avec la participation d'experts internationaux, d'institutions et d'étudiants.",
+          "Il s'agit de la troisième édition de ces journées ; l'heure et le lieu exact à Oviedo ne figurent pas dans les informations disponibles."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "La solitude n'est pas l'apanage des grandes villes : dans des communes comme Villaviciosa, où la population est dispersée et souvent âgée, nommer le problème est le premier pas pour y remédier.",
+        "lugar": "Oviedo",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Oviedo diskutiert diesen Donnerstag über digitale Einsamkeit und Isolation",
+        "entradilla": "Die III Jornadas sobre Soledad y Salud bringen am Donnerstag in Oviedo Fachleute, Institutionen und Studierende zusammen, um über ein Problem zu sprechen, das keine Altersgruppe mehr verschont.",
+        "cuerpo": [
+          "Die Universität Oviedo ist am Donnerstag, dem 12. November, Gastgeberin der III Jornadas sobre Soledad y Salud, die sich in diesem Jahr auf digitale Einsamkeit und soziale Isolation bei Jungen und Älteren konzentrieren.",
+          "Internationale Expertinnen und Experten, Vertreter von Institutionen und Studierende wurden zu der Veranstaltung eingeladen; das vorliegende Material enthält jedoch keine Angaben zur Beginnzeit oder zum genauen Veranstaltungsort in der Stadt."
+        ],
+        "apunte": "Von Bildschirmen umgeben zu sein ist nicht dasselbe wie Gesellschaft zu haben.",
+        "enVeinte": [
+          "Die Universität Oviedo veranstaltet am Donnerstag, dem 12. November, eine Tagung über Einsamkeit und Gesundheit für Junge und Ältere.",
+          "Im Mittelpunkt stehen digitale Einsamkeit und soziale Isolation; internationale Expertinnen und Experten, Institutionen und Studierende nehmen teil.",
+          "Es ist die dritte Ausgabe dieser Tagung; Uhrzeit und genauer Veranstaltungsort in Oviedo sind den verfügbaren Informationen nicht zu entnehmen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Einsamkeit ist kein reines Großstadtproblem: In Gemeinden wie Villaviciosa, wo die Bevölkerung weitläufig verteilt und häufig älter ist, ist das Problem beim Namen zu nennen der erste Schritt, um es anzugehen.",
+        "lugar": "Oviedo",
+        "precio": ""
+      }
+    }
   },
   {
     "id": "una-colision-entre-una-furgoneta-y-un-turismo-deja-tres-heridos-y-obli",
@@ -6049,144 +6251,6 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "concurso-de-iluminacion-y-decoracion-navidena",
-    "url": "/nava/concurso-de-iluminacion-y-decoracion-navidena/",
-    "concejo": "Nava",
-    "concejoSlug": "nava",
-    "seccion": "avisos",
-    "titular": "Nava estrena concurso de decoración navideña",
-    "entradilla": "El Ayuntamiento ha aprobado las bases y abre diez días para que los vecinos se apunten.",
-    "cuerpo": [
-      "Nava pone en marcha la primera edición de su concurso de iluminación y decoración navideña. Las bases ya están aprobadas y el plazo para presentar solicitudes es de diez días a partir del día siguiente a la publicación del anuncio en el Boletín Oficial del Principado de Asturias.",
-      "Quien quiera participar tiene que estar atento a esa fecha en el BOPA para no perder el margen. Las bases con todos los detalles están disponibles a través del Ayuntamiento de Nava."
-    ],
-    "apunte": "Primera edición, así que el listón lo pone quien se anime.",
-    "enVeinte": [
-      "Nava celebra por primera vez un concurso de iluminación y decoración navideña.",
-      "El plazo para apuntarse es de diez días desde que el anuncio salga publicado en el BOPA.",
-      "Las bases están aprobadas y disponibles en el Ayuntamiento."
-    ],
-    "cifra": {
-      "numero": "10",
-      "unidad": "días",
-      "glosa": "Es el tiempo que tienen los vecinos para presentar su solicitud una vez que el anuncio aparece en el BOPA. Conviene no esperar al último momento."
-    },
-    "palabra": {
-      "termino": "BOPA",
-      "como": "bé-o-pé-a, se lee por las letras",
-      "definicion": "Boletín Oficial del Principado de Asturias. Es el diario oficial donde la administración asturiana publica convocatorias, normas y anuncios con validez legal. La fecha que cuenta para el plazo es la del día que sale ahí."
-    },
-    "porQue": "Si tienes pensado engalanar la fachada estas Navidades, este año puede salirte a cuenta: hay un concurso oficial y diez días para apuntarse desde que salga el anuncio en el BOPA.",
-    "etiquetas": [
-      "Nava",
-      "Navidad",
-      "concurso",
-      "decoración"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-05T12:45:08.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Nava",
-      "url": "https://www.ayto-nava.es:443/web/ayto-nava/detalle-rss?p_p_id=56_INSTANCE_GToqljrIlzTL&p_p_lifecycle=0&refererPlid=271641&_56_INSTANCE_GToqljrIlzTL_groupId=118304&_56_INSTANCE_GToqljrIlzTL_articleId=20191955",
-      "titularOriginal": "Concurso de iluminación y decoración navideña",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Nava launches its first Christmas decoration contest",
-        "entradilla": "The council has approved the rules and is giving residents ten days to sign up.",
-        "cuerpo": [
-          "Nava is launching the first edition of its Christmas lighting and decoration contest. The rules have already been approved, and the window to submit applications is ten days from the day after the announcement is published in the Boletín Oficial del Principado de Asturias.",
-          "Anyone who wants to take part needs to keep an eye on that date in the BOPA so as not to miss the deadline. The full rules are available through the Nava council."
-        ],
-        "apunte": "First edition — whoever takes the plunge sets the bar.",
-        "enVeinte": [
-          "Nava is holding a Christmas lighting and decoration contest for the first time.",
-          "The window to sign up is ten days from the date the announcement appears in the BOPA.",
-          "The rules have been approved and are available at the council."
-        ],
-        "cifra": {
-          "numero": "10",
-          "unidad": "days",
-          "glosa": "That is how long residents have to submit their application once the announcement appears in the BOPA. It is worth not leaving it to the last minute."
-        },
-        "palabra": {
-          "termino": "BOPA",
-          "como": "bé-o-pé-a, each letter read separately",
-          "definicion": "Boletín Oficial del Principado de Asturias. The official gazette where the Asturian administration publishes calls, rules and announcements with legal force. The date that starts the clock on any deadline is the date it appears there."
-        },
-        "porQue": "If you are planning to decorate your façade this Christmas, this year it could pay off: there is an official contest and ten days to enter from the moment the announcement comes out in the BOPA.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Nava lance son premier concours de décoration de Noël",
-        "entradilla": "La mairie a approuvé le règlement et ouvre une fenêtre de dix jours pour que les habitants s'inscrivent.",
-        "cuerpo": [
-          "Nava lance la première édition de son concours d'illuminations et de décoration de Noël. Le règlement est déjà approuvé, et le délai pour déposer les candidatures est de dix jours à compter du lendemain de la publication de l'annonce au Boletín Oficial del Principado de Asturias.",
-          "Toute personne souhaitant participer doit surveiller cette date dans le BOPA pour ne pas manquer le délai. Le règlement complet est disponible auprès de la mairie de Nava."
-        ],
-        "apunte": "Première édition : c'est le premier candidat qui fixe le niveau.",
-        "enVeinte": [
-          "Nava organise pour la première fois un concours d'illuminations et de décoration de Noël.",
-          "Le délai pour s'inscrire est de dix jours à partir de la date de publication de l'annonce au BOPA.",
-          "Le règlement est approuvé et disponible à la mairie."
-        ],
-        "cifra": {
-          "numero": "10",
-          "unidad": "jours",
-          "glosa": "C'est le temps dont disposent les habitants pour déposer leur candidature une fois l'annonce parue au BOPA. Mieux vaut ne pas attendre le dernier moment."
-        },
-        "palabra": {
-          "termino": "BOPA",
-          "como": "bé-o-pé-a, chaque lettre épelée séparément",
-          "definicion": "Boletín Oficial del Principado de Asturias. Le journal officiel où l'administration asturienne publie les appels, les règlements et les annonces ayant valeur légale. La date qui fait courir le délai est celle de la parution dans ce journal."
-        },
-        "porQue": "Si vous envisagez de décorer votre façade pour Noël, cette année cela vaut la peine : il existe un concours officiel et dix jours pour s'inscrire à partir de la parution de l'annonce au BOPA.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Nava startet seinen ersten Weihnachtsschmuck-Wettbewerb",
-        "entradilla": "Das Rathaus hat die Teilnahmebedingungen genehmigt und gibt den Einwohnern zehn Tage Zeit, sich anzumelden.",
-        "cuerpo": [
-          "Nava startet die erste Ausgabe seines Wettbewerbs für weihnachtliche Beleuchtung und Dekoration. Die Teilnahmebedingungen sind bereits genehmigt; die Frist zur Einreichung von Bewerbungen beträgt zehn Tage ab dem Tag nach der Veröffentlichung der Bekanntmachung im Boletín Oficial del Principado de Asturias.",
-          "Wer mitmachen möchte, sollte dieses Datum im BOPA im Blick behalten, um die Frist nicht zu verpassen. Die vollständigen Teilnahmebedingungen sind beim Rathaus Nava erhältlich."
-        ],
-        "apunte": "Erste Ausgabe — wer mitmacht, setzt den Maßstab.",
-        "enVeinte": [
-          "Nava richtet zum ersten Mal einen Wettbewerb für weihnachtliche Beleuchtung und Dekoration aus.",
-          "Die Anmeldefrist beträgt zehn Tage ab dem Datum, an dem die Bekanntmachung im BOPA erscheint.",
-          "Die Teilnahmebedingungen sind genehmigt und beim Rathaus erhältlich."
-        ],
-        "cifra": {
-          "numero": "10",
-          "unidad": "Tage",
-          "glosa": "So viel Zeit haben die Einwohner, um ihre Bewerbung einzureichen, sobald die Bekanntmachung im BOPA erscheint. Es empfiehlt sich, nicht bis zum letzten Moment zu warten."
-        },
-        "palabra": {
-          "termino": "BOPA",
-          "como": "bé-o-pé-a, jeden Buchstaben einzeln aussprechen",
-          "definicion": "Boletín Oficial del Principado de Asturias. Das Amtsblatt, in dem die asturische Verwaltung Ausschreibungen, Vorschriften und Bekanntmachungen mit Rechtsgültigkeit veröffentlicht. Das Datum, das für eine Frist zählt, ist das Datum der dortigen Veröffentlichung."
-        },
-        "porQue": "Wer plant, seine Fassade in diesem Weihnachten zu schmücken, für den könnte es sich in diesem Jahr besonders lohnen: Es gibt einen offiziellen Wettbewerb und zehn Tage Zeit zur Anmeldung, sobald die Bekanntmachung im BOPA erscheint.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "anuncio en el boletin oficial del principado de",
-      "en el boletin oficial del principado de asturias"
-    ]
   },
   {
     "id": "villaviciosa-acoge-una-jornada-sobre-la-soledad-no-deseada-y-el-aislam",
@@ -45883,122 +45947,5 @@
     "revisar": [
       "en la feria internacional de muestras de asturias"
     ]
-  },
-  {
-    "id": "rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-",
-    "url": "/cabrales/rescatan-a-un-montanero-de-62-anos-que-resulto-herido-tras-caer-en-la-/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "actualidad",
-    "titular": "Rescatan herido a un montañero en la canal de Jidiellu",
-    "entradilla": "El helicóptero lo llevó al HUCA tras una caída en uno de los pasos más exigentes del concejo.",
-    "cuerpo": [
-      "Un montañero de 62 años tuvo que ser rescatado este lunes en la canal de Jidiellu, en Cabrales, después de caer y resultar herido.",
-      "El operativo terminó con su traslado en helicóptero al Hospital Universitario Central de Asturias, el HUCA, en Oviedo."
-    ],
-    "apunte": "La montaña no perdona, y Jidiellu lo recuerda cada temporada.",
-    "enVeinte": [
-      "Un montañero de 62 años cayó y se hirió en la canal de Jidiellu, en Cabrales.",
-      "Los servicios de rescate lo evacuaron en helicóptero hasta el HUCA en Oviedo.",
-      "El suceso ocurrió el 17 de agosto de 2026."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "canal",
-      "como": "canal (igual que en castellano, pero aquí con significado propio)",
-      "definicion": "En la montaña asturiana, una canal es un corredor empinado y estrecho entre dos paredes de roca, a menudo con nieve, piedra suelta o hierba mojada. No es un cauce de agua: es una vía natural de ascenso o descenso que exige experiencia y precaución."
-    },
-    "porQue": "Jidiellu atrae cada verano a montañeros de fuera y de casa; un rescate como este recuerda que esa canal requiere preparación real, no solo ganas de cumbre.",
-    "etiquetas": [
-      "rescate",
-      "montaña",
-      "Cabrales",
-      "Jidiellu"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/17/rescate-cabrales-kDU-U301323643479BPF-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-17T12:44:26.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/rescate-montana-cabrales-herido-20260817144322-nt.html",
-      "titularOriginal": "Rescatan a un montañero de 62 años que resulto herido tras caer en la canal de Jidiellu, en Cabrales"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Rescuers bring injured hiker down from the canal de Jidiellu",
-        "entradilla": "A helicopter took him to the HUCA after a fall on one of the most demanding routes in the municipality.",
-        "cuerpo": [
-          "A 62-year-old hiker had to be rescued on Monday in the canal de Jidiellu, in Cabrales, after falling and sustaining injuries.",
-          "The operation ended with his transfer by helicopter to the Hospital Universitario Central de Asturias, the HUCA, in Oviedo."
-        ],
-        "apunte": "The mountain shows no mercy, and Jidiellu is a reminder of that every season.",
-        "enVeinte": [
-          "A 62-year-old hiker fell and was injured in the canal de Jidiellu, in Cabrales.",
-          "Rescue services evacuated him by helicopter to the HUCA in Oviedo.",
-          "The incident took place on 17 August 2026."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "canal",
-          "como": "canal (same spelling as in Spanish, but with its own meaning here)",
-          "definicion": "In the Asturian mountains, a canal is a steep, narrow gully between two rock faces, often covered in snow, loose stone or wet grass. It is not a watercourse: it is a natural line of ascent or descent that demands experience and care."
-        },
-        "porQue": "Jidiellu draws hikers from near and far every summer; a rescue like this is a reminder that the canal calls for real preparation, not just the urge to reach the summit.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Un alpiniste blessé secouru dans la canal de Jidiellu",
-        "entradilla": "L'hélicoptère l'a transporté au HUCA après une chute sur l'un des passages les plus exigeants de la commune.",
-        "cuerpo": [
-          "Un alpiniste de 62 ans a dû être secouru ce lundi dans la canal de Jidiellu, à Cabrales, après une chute dont il est ressorti blessé.",
-          "L'opération s'est achevée par son transfert en hélicoptère vers le Hospital Universitario Central de Asturias, le HUCA, à Oviedo."
-        ],
-        "apunte": "La montagne ne pardonne pas, et Jidiellu le rappelle chaque saison.",
-        "enVeinte": [
-          "Un alpiniste de 62 ans a chuté et s'est blessé dans la canal de Jidiellu, à Cabrales.",
-          "Les services de secours l'ont évacué en hélicoptère jusqu'au HUCA à Oviedo.",
-          "L'incident s'est produit le 17 août 2026."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "canal",
-          "como": "canal (même orthographe qu'en espagnol, mais avec un sens propre ici)",
-          "definicion": "Dans la montagne asturienne, une canal est un couloir raide et étroit entre deux parois rocheuses, souvent recouvert de neige, de pierres instables ou d'herbe mouillée. Ce n'est pas un cours d'eau : c'est une voie naturelle de montée ou de descente qui exige expérience et prudence."
-        },
-        "porQue": "Jidiellu attire chaque été des alpinistes venus de loin comme de la région ; un sauvetage comme celui-ci rappelle que cette canal requiert une vraie préparation, et pas seulement l'envie d'atteindre le sommet.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Verletzter Bergsteiger aus der Canal de Jidiellu gerettet",
-        "entradilla": "Ein Hubschrauber brachte ihn nach einem Sturz auf einem der anspruchsvollsten Abschnitte der Gemeinde ins HUCA.",
-        "cuerpo": [
-          "Ein 62-jähriger Bergsteiger musste am Montag in der Canal de Jidiellu in Cabrales gerettet werden, nachdem er gestürzt war und sich dabei verletzt hatte.",
-          "Der Einsatz endete mit seinem Abtransport per Hubschrauber in das Hospital Universitario Central de Asturias, das HUCA, in Oviedo."
-        ],
-        "apunte": "Das Gebirge kennt keine Gnade, und Jidiellu erinnert jede Saison daran.",
-        "enVeinte": [
-          "Ein 62-jähriger Bergsteiger stürzte in der Canal de Jidiellu in Cabrales und verletzte sich dabei.",
-          "Die Rettungsdienste evakuierten ihn per Hubschrauber ins HUCA in Oviedo.",
-          "Der Vorfall ereignete sich am 17. August 2026."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "canal",
-          "como": "canal (gleiche Schreibweise wie im Spanischen, hier jedoch mit eigener Bedeutung)",
-          "definicion": "Im asturischen Gebirge bezeichnet eine Canal eine steile, schmale Rinne zwischen zwei Felswänden, oft mit Schnee, losem Gestein oder nassem Gras. Es handelt sich nicht um ein Gewässer, sondern um einen natürlichen Auf- oder Abstiegsweg, der Erfahrung und Vorsicht erfordert."
-        },
-        "porQue": "Jidiellu zieht jeden Sommer Bergsteiger von nah und fern an; eine Rettungsaktion wie diese erinnert daran, dass diese Canal echte Vorbereitung verlangt – und nicht nur den Wunsch, den Gipfel zu erreichen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   }
 ]
