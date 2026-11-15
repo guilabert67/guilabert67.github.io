@@ -1,20 +1,15 @@
 {
-  "fecha": "2026-11-14T19:29:14.573Z",
+  "fecha": "2026-11-15T10:45:08.116Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Las cuentas municipales de 2025 están abiertas: tienes quince días para revisar y alegar.",
-      "enlace": "/villaviciosa/cuenta-general-2025/"
+      "frase": "Villaviciosa ya tiene cronista oficial: Miguel González Pereda recoge el cargo.",
+      "enlace": "/villaviciosa/miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "El Rodiles viaja hoy a Melilla a medirse al único equipo que no ha perdido ningún partido.",
-      "enlace": "/villaviciosa/el-rodiles-se-enfrenta-al-lider-el-melilla-torreblanca/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "El jueves en Oviedo, expertos debaten cómo combatir el aislamiento digital en jóvenes y mayores.",
-      "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
+      "frase": "Cinco tardes gratis para aprender a escanciar sidra en Villaviciosa.",
+      "enlace": "/villaviciosa/villaviciosa-acoge-un-curso-basico-de-escanciado-de-sidra/"
     }
   ]
 }
