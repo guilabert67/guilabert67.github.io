@@ -1,9 +1,19 @@
 {
-  "fecha": "2026-11-16T09:31:54.342Z",
+  "fecha": "2026-11-16T19:52:14.816Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "La soledad digital une a jóvenes y mayores en unas jornadas en Oviedo este jueves.",
+      "frase": "305.000 euros europeos llegan a la Comarca de la Sidra para manzana y llagares.",
+      "enlace": "/villaviciosa/305-000-euros-del-leader-para-la-manzana-y-los-llagares-en-la-comarca-/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "Cabrales acoge cuatro días de ideas para salvar el mundo rural.",
+      "enlace": "/cabrales/del-queso-a-la-innovacion-social-cabrales-acoge-cuatro-dias-de-convive/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Este jueves, Oviedo debate soledad digital y aislamiento en jornadas abiertas.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]
