@@ -1,19 +1,19 @@
 {
-  "fecha": "2026-11-16T19:52:14.816Z",
+  "fecha": "2026-11-17T11:17:10.989Z",
   "puntos": [
     {
+      "concejo": "Cabrales",
+      "frase": "El queso Cueva del Molín vuelve a ganar el oro mundial.",
+      "enlace": "/cabrales/el-cabrales-cueva-del-molin-conquista-un-super-oro-en-los-world-cheese/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "305.000 euros europeos llegan a la Comarca de la Sidra para manzana y llagares.",
+      "frase": "305.000 euros europeos llegan para manzana y llagares en la Comarca de la Sidra.",
       "enlace": "/villaviciosa/305-000-euros-del-leader-para-la-manzana-y-los-llagares-en-la-comarca-/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "Cabrales acoge cuatro días de ideas para salvar el mundo rural.",
-      "enlace": "/cabrales/del-queso-a-la-innovacion-social-cabrales-acoge-cuatro-dias-de-convive/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "Este jueves, Oviedo debate soledad digital y aislamiento en jornadas abiertas.",
+      "frase": "Este jueves en Oviedo, debate sobre soledad digital entre jóvenes y mayores.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]

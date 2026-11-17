@@ -866,6 +866,21 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-11-16T19:50:36.104Z",
       "titulo": "Impact Campus Asturias en Cabrales"
+    },
+    "elfielato.es/comarca-de-la-sidra/villaviciosa/directora-bellas-artes-jurado-pintura-villaviciosa/20261117094859105568.html": {
+      "motivo": "mismo hecho que /villaviciosa/villaviciosa-estrecha-lazos-con-el-bellas-artes/",
+      "fecha": "2026-11-17T11:15:25.986Z",
+      "titulo": "La directora del Museo de Bellas Artes de Asturias se incorpora al jurado del Certamen Nacional de Pintura de Villaviciosa"
+    },
+    "elfielato.es/comarca-de-la-sidra/nava/centenaria-morena-nava-canal/20261117091737105565.html": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-11-17T11:15:27.590Z",
+      "titulo": "Centenaria naveta"
+    },
+    "cabrales.es/detalle-rss?articleid=20269704": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-11-17T11:16:08.112Z",
+      "titulo": "Feria Noviembre 2026"
     }
   },
   "juicios": {
@@ -1016,6 +1031,10 @@
     "elfielato.es/comarca-picos-europa/cabrales/medio-rural-entrega-titulos-propiedad-concentracion-parcelaria-puertas-pandiellu-que-reduce-69-numero-fincas/20261114180000105527.html|entregados-los-168-titulos-de-propiedad-tras-la-concentracion-parcelar": {
       "r": "mismo",
       "fecha": "2026-11-14T19:27:40.978Z"
+    },
+    "elfielato.es/comarca-de-la-sidra/villaviciosa/directora-bellas-artes-jurado-pintura-villaviciosa/20261117094859105568.html|villaviciosa-estrecha-lazos-con-el-bellas-artes": {
+      "r": "mismo",
+      "fecha": "2026-11-17T11:15:25.986Z"
     }
   }
 }
