@@ -1,19 +1,19 @@
 {
-  "fecha": "2026-11-17T11:17:10.989Z",
+  "fecha": "2026-11-17T19:57:22.448Z",
   "puntos": [
     {
-      "concejo": "Cabrales",
-      "frase": "El queso Cueva del Molín vuelve a ganar el oro mundial.",
-      "enlace": "/cabrales/el-cabrales-cueva-del-molin-conquista-un-super-oro-en-los-world-cheese/"
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa le pide al Principado que corrija ya los riesgos de la AS-330.",
+      "enlace": "/villaviciosa/villaviciosa-pide-modificar-el-plan-de-arreglo-de-la-carretera-as-330/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "La Coral Piloñesa entregó sus Avellanas de Oro a tres figuras de la ópera y la cultura asturiana.",
+      "enlace": "/pilona/la-musica-y-el-compromiso-cultural-protagonizan-las-avellanas-de-oro-d/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "305.000 euros europeos llegan para manzana y llagares en la Comarca de la Sidra.",
-      "enlace": "/villaviciosa/305-000-euros-del-leader-para-la-manzana-y-los-llagares-en-la-comarca-/"
-    },
-    {
-      "concejo": "Villaviciosa",
-      "frase": "Este jueves en Oviedo, debate sobre soledad digital entre jóvenes y mayores.",
+      "frase": "Este jueves en Oviedo, jornada sobre soledad digital y aislamiento con especialistas y estudiantes.",
       "enlace": "/villaviciosa/la-universidad-de-oviedo-reune-a-expertos-internacionales-para-abordar/"
     }
   ]
