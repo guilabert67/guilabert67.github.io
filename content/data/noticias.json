@@ -1,5 +1,498 @@
 [
   {
+    "id": "el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec",
+    "url": "/villaviciosa/el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Jaén gana el Certamen de Pintura de Villaviciosa",
+    "entradilla": "El jurado premió a David Calderón por su dominio técnico y su vuelta de tuerca al trampantojo.",
+    "cuerpo": [
+      "El artista jienense David Calderón se llevó el primer premio del Certamen Nacional de Pintura de Villaviciosa con una obra titulada 'Lo que sostiene la imagen'.",
+      "El jurado destacó la madurez plástica del trabajo y su capacidad para renovar el trampantojo, una técnica con siglos de historia que consiste en engañar al ojo del espectador haciéndole creer que ve algo real donde solo hay pintura."
+    ],
+    "apunte": "El ojo se equivoca, el jurado no.",
+    "enVeinte": [
+      "David Calderón, artista de Jaén, gana el Certamen Nacional de Pintura de Villaviciosa.",
+      "Su obra 'Lo que sostiene la imagen' convenció al jurado por su madurez plástica y su renovación del trampantojo.",
+      "El certamen tiene carácter nacional y se celebra en Villaviciosa."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "trampantojo",
+      "como": "tram-pan-to-jo",
+      "definicion": "Técnica pictórica que busca engañar la vista del espectador simulando con pintura objetos o espacios con apariencia real. El jurado valoró precisamente que Calderón lo usa desde una mirada contemporánea, sin limitarse a reproducir la fórmula clásica."
+    },
+    "porQue": "El certamen pone el nombre de Villaviciosa en el mapa del arte nacional y trae cada edición obras y artistas de toda España al concejo.",
+    "etiquetas": [
+      "pintura",
+      "Villaviciosa",
+      "certamen",
+      "David Calderón"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/18/certamen-pintura-Rvu1Mz0aebVnidqSGLZKyvJ-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-18T18:02:46.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/certamen-nacional-pintura-villaviciosa-premia-maestria-tecnica-20261118190246-nt.html",
+      "titularOriginal": "El Certamen Nacional de Pintura de Villaviciosa premia la maestría técnica de artista de Jaén David Calderón"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Jaén wins the Certamen de Pintura de Villaviciosa",
+        "entradilla": "The jury awarded David Calderón for his technical mastery and his fresh take on trompe-l'œil.",
+        "cuerpo": [
+          "Artist David Calderón, from Jaén, took first prize at the Certamen Nacional de Pintura de Villaviciosa with a work titled 'Lo que sostiene la imagen'.",
+          "The jury highlighted the plastic maturity of the piece and its ability to renew trompe-l'œil, a technique centuries old that consists of deceiving the viewer's eye into believing they are seeing something real where there is only paint."
+        ],
+        "apunte": "The eye is fooled; the jury is not.",
+        "enVeinte": [
+          "David Calderón, an artist from Jaén, wins the Certamen Nacional de Pintura de Villaviciosa.",
+          "His work 'Lo que sostiene la imagen' convinced the jury with its plastic maturity and its renewal of trompe-l'œil.",
+          "The competition is national in scope and is held in Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "trampantojo",
+          "como": "tram-pan-to-jo",
+          "definicion": "A pictorial technique that seeks to deceive the viewer's eye by simulating objects or spaces with the appearance of reality using paint. The jury valued precisely the fact that Calderón uses it with a contemporary sensibility, without limiting himself to reproducing the classical formula."
+        },
+        "porQue": "The competition puts Villaviciosa on the map of national art and brings works and artists from across Spain to the municipality every edition.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Jaén remporte le Certamen de Pintura de Villaviciosa",
+        "entradilla": "Le jury a récompensé David Calderón pour sa maîtrise technique et son regard neuf sur le trompe-l'œil.",
+        "cuerpo": [
+          "L'artiste originaire de Jaén, David Calderón, a remporté le premier prix du Certamen Nacional de Pintura de Villaviciosa avec une œuvre intitulée 'Lo que sostiene la imagen'.",
+          "Le jury a souligné la maturité plastique du travail et sa capacité à renouveler le trompe-l'œil, une technique vieille de plusieurs siècles qui consiste à tromper l'œil du spectateur en lui faisant croire qu'il voit quelque chose de réel là où il n'y a que de la peinture."
+        ],
+        "apunte": "L'œil se trompe, le jury non.",
+        "enVeinte": [
+          "David Calderón, artiste originaire de Jaén, remporte le Certamen Nacional de Pintura de Villaviciosa.",
+          "Son œuvre 'Lo que sostiene la imagen' a convaincu le jury par sa maturité plastique et son renouvellement du trompe-l'œil.",
+          "Le concours est de portée nationale et se tient à Villaviciosa."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "trampantojo",
+          "como": "tram-pan-to-jo",
+          "definicion": "Technique picturale qui cherche à tromper l'œil du spectateur en simulant des objets ou des espaces d'apparence réelle au moyen de la peinture. Le jury a précisément apprécié que Calderón l'utilise avec un regard contemporain, sans se limiter à reproduire la formule classique."
+        },
+        "porQue": "Le concours place Villaviciosa sur la carte de l'art national et attire chaque édition des œuvres et des artistes de toute l'Espagne dans la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Jaén gewinnt den Certamen de Pintura de Villaviciosa",
+        "entradilla": "Die Jury zeichnete David Calderón für seine technische Meisterschaft und seinen neuen Blick auf das Trompe-l'œil aus.",
+        "cuerpo": [
+          "Der Künstler David Calderón aus Jaén gewann den ersten Preis des Certamen Nacional de Pintura de Villaviciosa mit einem Werk mit dem Titel 'Lo que sostiene la imagen'.",
+          "Die Jury hob die plastische Reife der Arbeit hervor sowie ihre Fähigkeit, das Trompe-l'œil zu erneuern — eine jahrhundertealte Technik, die darin besteht, das Auge des Betrachters zu täuschen und ihn glauben zu lassen, er sehe etwas Reales, wo nur Farbe ist."
+        ],
+        "apunte": "Das Auge irrt sich, die Jury nicht.",
+        "enVeinte": [
+          "David Calderón, Künstler aus Jaén, gewinnt den Certamen Nacional de Pintura de Villaviciosa.",
+          "Sein Werk 'Lo que sostiene la imagen' überzeugte die Jury durch seine plastische Reife und seine Erneuerung des Trompe-l'œil.",
+          "Der Wettbewerb hat nationalen Charakter und findet in Villaviciosa statt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "trampantojo",
+          "como": "tram-pan-to-jo",
+          "definicion": "Eine Maltechnik, die darauf abzielt, das Auge des Betrachters zu täuschen, indem Objekte oder Räume mit einer wirklichkeitsnahen Erscheinung durch Farbe simuliert werden. Die Jury würdigte gerade den Umstand, dass Calderón die Technik mit einem zeitgenössischen Blick einsetzt, ohne sich auf die Wiedergabe der klassischen Formel zu beschränken."
+        },
+        "porQue": "Der Wettbewerb bringt Villaviciosa auf die Landkarte der nationalen Kunst und zieht jede Ausgabe Werke und Künstler aus ganz Spanien in die Gemeinde.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "resolucion-arte-escuela-2026-2027",
+    "url": "/pilona/resolucion-arte-escuela-2026-2027/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "El IES Infiesto, seleccionado en Arte+Escuela",
+    "entradilla": "El programa de La Benéfica elige tres centros de toda Asturias para trabajar con artistas jóvenes durante el curso 2026/2027.",
+    "cuerpo": [
+      "La Benéfica de Piloña ha resuelto la convocatoria Arte+Escuela para el próximo curso y el IES Infiesto es uno de los tres centros seleccionados entre trece candidaturas. El instituto trabajará con la artista Irene Faza en un proyecto titulado 'Arqueología de la memoria', centrado en el pasado a través de objetos, paisaje y transmisión oral.",
+      "Los otros dos centros elegidos son el CP Matemático Pedrayes de Llastres, donde Alba Matilla desarrollará 'Sueños de metal' sobre mitología y ficción, y el IES Cuenca del Nalón de Langreo, que participará en 'Un matu', un proyecto de cine a cargo de Rodrigo Agüeria.",
+      "El programa lo impulsan La Benéfica de Piloña y LABoral Centro de Arte y Creación Industrial. Los proyectos arrancan a lo largo del curso 2026/2027."
+    ],
+    "apunte": "Trece centros se presentaron y solo tres pasaron: ser de Piloña no bastó, pero esta vez sí.",
+    "enVeinte": [
+      "La Benéfica de Piloña ha seleccionado al IES Infiesto para participar en Arte+Escuela 2026/2027 junto a otros dos centros asturianos.",
+      "Cada centro elegido trabajará con un artista joven en un proyecto propio durante el curso: memoria, mitología y cine son los ejes.",
+      "El programa lo coorganiza LABoral Centro de Arte y lo financia La Benéfica; recibió trece candidaturas de colegios e institutos públicos."
+    ],
+    "cifra": {
+      "numero": "13",
+      "unidad": "candidaturas",
+      "glosa": "Trece centros educativos públicos de Asturias se presentaron a esta convocatoria. Solo tres fueron seleccionados, lo que da idea del nivel de competencia y del interés que ha despertado el programa."
+    },
+    "palabra": {
+      "termino": "La Benéfica",
+      "como": "La Benéfica de Piloña",
+      "definicion": "Nombre con el que se conoce la Sociedad Cultural La Benéfica de Piloña, una entidad con sede en Infiesto que lleva décadas impulsando proyectos culturales y artísticos en el concejo y más allá."
+    },
+    "porQue": "Un aula del IES Infiesto va a tener un artista asturiano trabajando con el alumnado durante todo un curso; es una oportunidad poco habitual para los estudiantes de Piloña.",
+    "etiquetas": [
+      "Arte+Escuela",
+      "La Benéfica",
+      "IES Infiesto",
+      "educación"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://labenefica.org/wp-content/uploads/2026/11/ArteEscuela-Stories.jpg",
+    "fecha": "2026-11-18T14:00:19.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://labenefica.org/resolucion-arte-escuela-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=resolucion-arte-escuela-2026-2027",
+      "titularOriginal": "Resolución Arte + Escuela 2026/2027"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "IES Infiesto selected for Arte+Escuela",
+        "entradilla": "La Benéfica's programme chooses three schools across Asturias to work with young artists during the 2026/2027 academic year.",
+        "cuerpo": [
+          "La Benéfica de Piloña has announced the results of the Arte+Escuela call for the coming academic year, and IES Infiesto is one of three centres selected from thirteen applications. The school will work with artist Irene Faza on a project entitled 'Arqueología de la memoria', focused on the past through objects, landscape and oral transmission.",
+          "The other two selected centres are CP Matemático Pedrayes in Llastres, where Alba Matilla will develop 'Sueños de metal' on mythology and fiction, and IES Cuenca del Nalón in Langreo, which will take part in 'Un matu', a film project led by Rodrigo Agüeria.",
+          "The programme is driven by La Benéfica de Piloña and LABoral Centro de Arte y Creación Industrial. The projects will get under way throughout the 2026/2027 academic year."
+        ],
+        "apunte": "Thirteen centres applied and only three made it through: being from Piloña was not enough — but this time it was.",
+        "enVeinte": [
+          "La Benéfica de Piloña has selected IES Infiesto to take part in Arte+Escuela 2026/2027 alongside two other Asturian schools.",
+          "Each chosen centre will work with a young artist on its own project throughout the academic year: memory, mythology and film are the three threads.",
+          "The programme is co-organised by LABoral Centro de Arte and funded by La Benéfica; it received thirteen applications from public schools and secondary institutes."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "applications",
+          "glosa": "Thirteen public educational centres in Asturias applied to this call. Only three were selected, which gives a sense of the level of competition and the interest the programme has generated."
+        },
+        "palabra": {
+          "termino": "La Benéfica",
+          "como": "La Benéfica de Piloña",
+          "definicion": "The name by which the Sociedad Cultural La Benéfica de Piloña is known: a cultural organisation based in Infiesto that has been driving cultural and artistic projects in the municipality and beyond for decades. Pronounced: lah beh-NEH-fee-kah."
+        },
+        "porQue": "A classroom at IES Infiesto will have an Asturian artist working alongside students for an entire academic year — an unusual opportunity for young people in Piloña.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "L'IES Infiesto sélectionné pour Arte+Escuela",
+        "entradilla": "Le programme de La Benéfica retient trois établissements de toute l'Asturie pour travailler avec de jeunes artistes durant l'année scolaire 2026/2027.",
+        "cuerpo": [
+          "La Benéfica de Piloña a rendu son verdict pour l'appel à candidatures Arte+Escuela de la prochaine année scolaire : l'IES Infiesto est l'un des trois établissements retenus parmi treize dossiers. Le lycée travaillera avec l'artiste Irene Faza sur un projet intitulé 'Arqueología de la memoria', centré sur le passé à travers les objets, le paysage et la transmission orale.",
+          "Les deux autres établissements sélectionnés sont le CP Matemático Pedrayes de Llastres, où Alba Matilla développera 'Sueños de metal' autour de la mythologie et de la fiction, et l'IES Cuenca del Nalón de Langreo, qui participera à 'Un matu', un projet cinématographique mené par Rodrigo Agüeria.",
+          "Le programme est porté par La Benéfica de Piloña et LABoral Centro de Arte y Creación Industrial. Les projets démarreront au fil de l'année scolaire 2026/2027."
+        ],
+        "apunte": "Treize établissements ont candidaté et seulement trois ont été retenus : être de Piloña n'a pas suffi — mais cette fois, si.",
+        "enVeinte": [
+          "La Benéfica de Piloña a sélectionné l'IES Infiesto pour participer à Arte+Escuela 2026/2027 aux côtés de deux autres établissements asturiens.",
+          "Chaque établissement retenu travaillera avec un jeune artiste sur son propre projet tout au long de l'année scolaire : mémoire, mythologie et cinéma en sont les axes.",
+          "Le programme est co-organisé par LABoral Centro de Arte et financé par La Benéfica ; il a reçu treize candidatures d'écoles et de lycées publics."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "candidatures",
+          "glosa": "Treize établissements publics d'enseignement des Asturies ont répondu à cet appel. Seuls trois ont été sélectionnés, ce qui donne une idée du niveau de compétition et de l'intérêt suscité par le programme."
+        },
+        "palabra": {
+          "termino": "La Benéfica",
+          "como": "La Benéfica de Piloña",
+          "definicion": "Nom sous lequel est connue la Sociedad Cultural La Benéfica de Piloña, une association culturelle dont le siège est à Infiesto et qui impulse des projets culturels et artistiques dans la commune et au-delà depuis des décennies. Prononciation : lah beh-NEH-fee-kah."
+        },
+        "porQue": "Une classe de l'IES Infiesto accueillera un artiste asturien travaillant avec les élèves pendant toute une année scolaire — une occasion rare pour les jeunes de Piloña.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "IES Infiesto für Arte+Escuela ausgewählt",
+        "entradilla": "Das Programm von La Benéfica wählt drei Schulen aus ganz Asturien aus, um im Schuljahr 2026/2027 mit jungen Künstlerinnen und Künstlern zusammenzuarbeiten.",
+        "cuerpo": [
+          "La Benéfica de Piloña hat die Ausschreibung Arte+Escuela für das kommende Schuljahr entschieden: Das IES Infiesto gehört zu den drei ausgewählten Zentren unter dreizehn Bewerbungen. Die Schule wird mit der Künstlerin Irene Faza an einem Projekt mit dem Titel 'Arqueología de la memoria' arbeiten, das sich über Objekte, Landschaft und mündliche Überlieferung mit der Vergangenheit befasst.",
+          "Die beiden anderen ausgewählten Einrichtungen sind das CP Matemático Pedrayes in Llastres, wo Alba Matilla 'Sueños de metal' über Mythologie und Fiktion entwickeln wird, sowie das IES Cuenca del Nalón in Langreo, das an 'Un matu', einem Filmprojekt unter der Leitung von Rodrigo Agüeria, teilnehmen wird.",
+          "Das Programm wird von La Benéfica de Piloña und LABoral Centro de Arte y Creación Industrial getragen. Die Projekte starten im Laufe des Schuljahres 2026/2027."
+        ],
+        "apunte": "Dreizehn Einrichtungen haben sich beworben, nur drei kamen durch: Aus Piloña zu stammen reichte nicht — diesmal aber schon.",
+        "enVeinte": [
+          "La Benéfica de Piloña hat das IES Infiesto ausgewählt, um gemeinsam mit zwei weiteren asturischen Schulen an Arte+Escuela 2026/2027 teilzunehmen.",
+          "Jede ausgewählte Einrichtung arbeitet im gesamten Schuljahr mit einer jungen Künstlerin oder einem jungen Künstler an einem eigenen Projekt: Erinnerung, Mythologie und Film sind die drei Schwerpunkte.",
+          "Das Programm wird von LABoral Centro de Arte mitorganisiert und von La Benéfica finanziert; es erhielt dreizehn Bewerbungen von öffentlichen Schulen und Gymnasien."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "Bewerbungen",
+          "glosa": "Dreizehn öffentliche Bildungseinrichtungen in Asturien haben sich für diese Ausschreibung beworben. Nur drei wurden ausgewählt, was den Wettbewerbscharakter und das Interesse am Programm verdeutlicht."
+        },
+        "palabra": {
+          "termino": "La Benéfica",
+          "como": "La Benéfica de Piloña",
+          "definicion": "Name der Sociedad Cultural La Benéfica de Piloña, einer Kultureinrichtung mit Sitz in Infiesto, die seit Jahrzehnten kulturelle und künstlerische Projekte in der Gemeinde und darüber hinaus fördert. Aussprache: lah beh-NEH-fee-kah."
+        },
+        "porQue": "In einem Klassenzimmer des IES Infiesto wird ein asturischer Künstler ein ganzes Schuljahr lang mit den Schülerinnen und Schülern arbeiten — eine ungewöhnliche Chance für junge Menschen in Piloña.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "villaviciosa-pide-al-principado-ensanchar-una-curva-y-el-puente-de-la-",
+    "url": "/villaviciosa/villaviciosa-pide-al-principado-ensanchar-una-curva-y-el-puente-de-la-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa pide mejorar curva y puente en la AS-330",
+    "entradilla": "El ayuntamiento quiere corregir dos puntos peligrosos para los camiones mientras la carretera de Miravalles ya tiene obras abiertas.",
+    "cuerpo": [
+      "El gobierno local de Villaviciosa ha pedido al Principado que aproveche las obras en curso en la AS-330 para ensanchar una curva y el puente de La Magdalena, dos tramos donde los vehículos pesados tienen dificultades serias para cruzarse.",
+      "La petición responde a una lógica sencilla: si la máquina ya está puesta y la carretera abierta, hacer esas correcciones ahora cuesta menos que esperar a otra intervención."
+    ],
+    "apunte": "Cuando el camión y el remolque de enfrente se miran de cerca en La Magdalena, uno de los dos tiene que rezar.",
+    "enVeinte": [
+      "El ayuntamiento de Villaviciosa pide al Principado que amplíe una curva y el puente de La Magdalena en la AS-330 mientras esa carretera ya está en obras.",
+      "El problema es que en esos dos puntos los camiones apenas tienen sitio para cruzarse sin rozarse.",
+      "El consistorio quiere aprovechar las obras actuales para evitar tener que cortar la vía otra vez en el futuro."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "AS-330",
+      "como": "a-ese tres-treinta",
+      "definicion": "Denominación oficial de la carretera autonómica que une Villaviciosa con Miravalles. Las carreteras asturianas del Principado llevan la letra A seguida de número; las del Estado, N o A a secas."
+    },
+    "porQue": "Si el Principado acepta la petición, dos de los tramos más incómodos de la carretera de Miravalles quedarán más seguros sin necesidad de cortar la vía una segunda vez.",
+    "etiquetas": [
+      "AS-330",
+      "Villaviciosa",
+      "obras",
+      "carreteras"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2025/03/27/2025032712443355039.jpg",
+    "fecha": "2026-11-18T12:30:00.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/villaviciosa-pide-ensanchar-curva-puente-miravalles-puente-aguera/20261118133000105584.html",
+      "titularOriginal": "Villaviciosa pide al Principado ensanchar una curva y el puente de La Magdalena en las obras de la AS-330"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa asks for a bend and a bridge to be improved on the AS-330",
+        "entradilla": "The council wants to fix two dangerous spots for lorries while the Miravalles road already has works under way.",
+        "cuerpo": [
+          "The local government of Villaviciosa has asked the Principado to use the ongoing works on the AS-330 to widen a bend and the bridge at La Magdalena, two stretches where heavy vehicles have serious difficulty passing each other.",
+          "The request follows a simple logic: if the machinery is already there and the road is already open, making those corrections now costs less than waiting for another intervention."
+        ],
+        "apunte": "When a lorry and the oncoming trailer come face to face at La Magdalena, one of them had better start praying.",
+        "enVeinte": [
+          "The Villaviciosa council is asking the Principado to widen a bend and the La Magdalena bridge on the AS-330 while that road is already under works.",
+          "The problem is that at those two points lorries barely have room to pass each other without scraping.",
+          "The council wants to take advantage of the current works to avoid having to close the road again in the future."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "AS-330",
+          "como": "a-ese tres-treinta",
+          "definicion": "The official name of the regional road linking Villaviciosa with Miravalles. Roads managed by the Principado of Asturias carry the letter A followed by a number; those managed by the national government carry N or A on their own."
+        },
+        "porQue": "If the Principado accepts the request, two of the most awkward stretches of the Miravalles road will be made safer without needing to close the road a second time.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa demande l'amélioration d'un virage et d'un pont sur la AS-330",
+        "entradilla": "La mairie veut corriger deux points dangereux pour les poids lourds alors que la route de Miravalles est déjà en travaux.",
+        "cuerpo": [
+          "Le gouvernement local de Villaviciosa a demandé au Principado de profiter des travaux en cours sur la AS-330 pour élargir un virage et le pont de La Magdalena, deux tronçons où les véhicules lourds ont beaucoup de mal à se croiser.",
+          "La demande obéit à une logique simple : si les engins sont déjà sur place et la route déjà ouverte, réaliser ces corrections maintenant coûte moins cher qu'attendre une autre intervention."
+        ],
+        "apunte": "Quand un camion et la remorque d'en face se retrouvent nez à nez à La Magdalena, l'un des deux a intérêt à prier.",
+        "enVeinte": [
+          "La mairie de Villaviciosa demande au Principado d'élargir un virage et le pont de La Magdalena sur la AS-330, alors que cette route est déjà en travaux.",
+          "Le problème est qu'à ces deux endroits les camions ont à peine la place de se croiser sans se frôler.",
+          "La mairie veut profiter des travaux actuels pour éviter d'avoir à couper la voie une nouvelle fois à l'avenir."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "AS-330",
+          "como": "a-ese tres-treinta",
+          "definicion": "Nom officiel de la route régionale reliant Villaviciosa à Miravalles. Les routes gérées par le Principado des Asturies portent la lettre A suivie d'un numéro ; celles gérées par l'État portent N ou A seuls."
+        },
+        "porQue": "Si le Principado accepte la demande, deux des tronçons les plus difficiles de la route de Miravalles seront sécurisés sans qu'il soit nécessaire de couper la voie une seconde fois.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa fordert Verbesserung einer Kurve und einer Brücke an der AS-330",
+        "entradilla": "Das Rathaus will zwei gefährliche Stellen für Lastwagen entschärfen, während auf der Straße nach Miravalles bereits Bauarbeiten laufen.",
+        "cuerpo": [
+          "Die Gemeindeverwaltung von Villaviciosa hat den Principado gebeten, die laufenden Bauarbeiten an der AS-330 zu nutzen, um eine Kurve und die Brücke La Magdalena zu verbreitern – zwei Abschnitte, auf denen schwere Fahrzeuge ernste Schwierigkeiten haben, aneinander vorbeizufahren.",
+          "Der Antrag folgt einer einfachen Logik: Wenn die Maschinen bereits vor Ort und die Straße bereits gesperrt ist, kostet es weniger, diese Korrekturen jetzt vorzunehmen, als auf einen weiteren Eingriff zu warten."
+        ],
+        "apunte": "Wenn sich ein Lastwagen und der entgegenkommende Anhänger an La Magdalena auf Tuchfühlung begegnen, sollte einer von beiden besser beten.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa bittet den Principado, eine Kurve und die Brücke La Magdalena an der AS-330 zu verbreitern, während diese Straße bereits in Bauarbeiten liegt.",
+          "Das Problem ist, dass Lastwagen an diesen beiden Punkten kaum Platz haben, aneinander vorbeizufahren, ohne sich zu streifen.",
+          "Das Rathaus möchte die laufenden Arbeiten nutzen, um zu vermeiden, die Straße künftig ein weiteres Mal sperren zu müssen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "AS-330",
+          "como": "a-ese tres-treinta",
+          "definicion": "Offizielle Bezeichnung der Regionalstraße, die Villaviciosa mit Miravalles verbindet. Straßen des Principado von Asturien tragen den Buchstaben A gefolgt von einer Nummer; Nationalstraßen tragen N oder A allein."
+        },
+        "porQue": "Wenn der Principado dem Antrag zustimmt, werden zwei der unbequemsten Abschnitte der Straße nach Miravalles sicherer gemacht, ohne die Straße ein zweites Mal sperren zu müssen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "ensanchar una curva y el puente de la",
+      "una curva y el puente de la magdalena"
+    ]
+  },
+  {
+    "id": "procedimiento-selectivo-de-jefe-a-administrativo-a-de-urbanismo",
+    "url": "/villaviciosa/procedimiento-selectivo-de-jefe-a-administrativo-a-de-urbanismo/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca jefe de Urbanismo por méritos",
+    "entradilla": "El Ayuntamiento ha publicado ya la lista definitiva de aspirantes y la fecha en que el tribunal valorará los expedientes.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa está en marcha para cubrir la plaza de Jefe o Jefa Administrativo/a de Urbanismo, un puesto que sale de la Oferta de Empleo Público de 2026 y se adjudica por concurso de méritos.",
+      "El proceso ha superado la fase provisional: ya está publicada la lista definitiva de admitidos y excluidos, se ha fijado la composición del tribunal y se conoce la fecha en que se reunirá para revisar los méritos de cada candidato."
+    ],
+    "apunte": "Quien quiera supervisar las obras del vecino tendrá antes que pasar por el tribunal.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca por concurso de méritos la plaza de Jefe o Jefa Administrativo/a de Urbanismo.",
+      "El proceso ya tiene lista definitiva de aspirantes, tribunal formado y fecha de reunión para valorar los méritos.",
+      "La plaza corresponde a la Oferta de Empleo Público de 2026."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concurso de méritos",
+      "como": "concursu de méritos",
+      "definicion": "Sistema de selección en el que no hay examen: el tribunal puntúa los títulos, la experiencia y la formación de cada aspirante y gana quien suma más. Es habitual para cubrir puestos de promoción interna en las administraciones públicas."
+    },
+    "porQue": "La persona que ocupe este puesto gestionará las licencias de obra y los expedientes urbanísticos del concejo, así que el perfil de quien lo lleve afecta directamente a los trámites del día a día de los vecinos.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "Urbanismo",
+      "Ayuntamiento"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-18T10:49:54.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850211",
+      "titularOriginal": "Procedimiento selectivo de Jefe/a Administrativo/a de Urbanismo",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks Head of Planning by merit",
+        "entradilla": "The council has published the final list of candidates and the date on which the panel will assess their records.",
+        "cuerpo": [
+          "Villaviciosa council is moving ahead with filling the post of Administrative Head of Planning, a position arising from the 2026 Public Employment Offer and awarded through a merit-based competition.",
+          "The process has passed the provisional stage: the final list of admitted and excluded candidates has been published, the composition of the panel has been set, and the date on which it will meet to review each candidate's merits is now known."
+        ],
+        "apunte": "Anyone hoping to oversee the neighbour's building works will first have to go before the panel.",
+        "enVeinte": [
+          "Villaviciosa council is advertising the post of Administrative Head of Planning through a merit-based competition.",
+          "The process now has a final list of candidates, a formed panel, and a set date to assess merits.",
+          "The post is part of the 2026 Public Employment Offer."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "A selection process with no written exam: the panel scores each candidate's qualifications, experience and training, and the highest scorer wins. It is the standard method for filling internal promotion posts in public administrations. Pronounced roughly: con-COOR-so deh MEH-ree-tos."
+        },
+        "porQue": "The person in this post will manage building licences and planning files for the municipality, so the profile of whoever holds it directly affects the day-to-day paperwork of local residents.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa cherche un chef de l'Urbanisme sur dossier",
+        "entradilla": "La mairie a publié la liste définitive des candidats et la date à laquelle le jury examinera les dossiers.",
+        "cuerpo": [
+          "La mairie de Villaviciosa est en marche pour pourvoir le poste de chef ou cheffe administratif/ve de l'Urbanisme, un poste issu de l'Offre d'emploi public de 2026 et attribué par concours sur titres.",
+          "La procédure a franchi l'étape provisoire : la liste définitive des candidats admis et exclus est publiée, la composition du jury est arrêtée et la date à laquelle il se réunira pour examiner les mérites de chaque candidat est connue."
+        ],
+        "apunte": "Quiconque rêve de surveiller les travaux du voisin devra d'abord passer devant le jury.",
+        "enVeinte": [
+          "La mairie de Villaviciosa ouvre par concours sur titres le poste de chef ou cheffe administratif/ve de l'Urbanisme.",
+          "La procédure dispose désormais d'une liste définitive de candidats, d'un jury constitué et d'une date de réunion pour l'évaluation des mérites.",
+          "Le poste relève de l'Offre d'emploi public de 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "Mode de sélection sans épreuve écrite : le jury attribue des points aux titres, à l'expérience et à la formation de chaque candidat, et celui qui totalise le plus de points l'emporte. C'est la procédure habituelle pour les postes de promotion interne dans les administrations publiques. Prononciation approximative : con-COUR-so dé MÉ-ri-tos."
+        },
+        "porQue": "La personne qui occupera ce poste gérera les permis de construire et les dossiers d'urbanisme de la commune, de sorte que son profil a une incidence directe sur les démarches quotidiennes des habitants.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht Leiter des Stadtplanungsamts per Auswahlverfahren",
+        "entradilla": "Das Rathaus hat die endgültige Bewerberliste und den Termin veröffentlicht, an dem die Kommission die Unterlagen prüfen wird.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa bereitet die Besetzung der Stelle des administrativen Leiters bzw. der administrativen Leiterin des Stadtplanungsamts vor. Die Stelle entstammt dem Öffentlichen Stellenangebot 2026 und wird im Rahmen eines Auswahlverfahrens nach Verdienst vergeben.",
+          "Das Verfahren hat die vorläufige Phase abgeschlossen: Die endgültige Liste der zugelassenen und ausgeschlossenen Bewerber ist veröffentlicht, die Zusammensetzung der Auswahlkommission ist festgelegt, und der Termin, an dem sie zusammentreten wird, um die Unterlagen jedes Bewerbers zu prüfen, steht fest."
+        ],
+        "apunte": "Wer die Bauarbeiten des Nachbarn überwachen möchte, muss zuvor vor die Kommission.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt die Stelle des administrativen Leiters bzw. der administrativen Leiterin des Stadtplanungsamts im Auswahlverfahren nach Verdienst aus.",
+          "Das Verfahren verfügt nun über eine endgültige Bewerberliste, eine gebildete Kommission und einen festgesetzten Prüfungstermin.",
+          "Die Stelle gehört zum Öffentlichen Stellenangebot 2026."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "Ein Auswahlverfahren ohne schriftliche Prüfung: Die Kommission bewertet Abschlüsse, Berufserfahrung und Weiterbildung jedes Bewerbers mit Punkten, und wer die meisten sammelt, gewinnt. Es ist das übliche Verfahren für interne Beförderungsstellen in öffentlichen Verwaltungen. Aussprache etwa: kon-KÚR-so de MÉ-ri-tos."
+        },
+        "porQue": "Die Person in dieser Stelle wird Baugenehmigungen und stadtplanerische Vorgänge der Gemeinde verwalten. Daher wirkt das Profil des Stelleninhabers unmittelbar auf die alltäglichen Behördengänge der Einwohner.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "villaviciosa-propone-ampliar-dos-puntos-de-la-carretera-as-330-durante",
     "url": "/villaviciosa/villaviciosa-propone-ampliar-dos-puntos-de-la-carretera-as-330-durante/",
     "concejo": "Villaviciosa",
@@ -45629,127 +46122,6 @@
     "revisar": [
       "protagonista del xliv dia de los pueblos de",
       "del xliv dia de los pueblos de asturias"
-    ]
-  },
-  {
-    "id": "los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s",
-    "url": "/villaviciosa/los-ecologistas-urgen-a-tomar-medidas-contra-la-nave-vertedero-de-el-s/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Ecologistas exigen actuar contra el vertedero del Salín",
-    "entradilla": "La Coordinadora lleva más de un año alertando de la acumulación de residuos de desguace en pleno estuario de la ría de Villaviciosa.",
-    "cuerpo": [
-      "Los ecologistas han vuelto a pedir a las administraciones que tomen medidas contra una nave que funciona como vertedero de residuos de desguace en El Salín, en plena ría de Villaviciosa.",
-      "La Coordinadora recuerda que denunció la situación hace más de un año y que, hasta ahora, los restos siguen acumulados en ese rincón del estuario."
-    ],
-    "apunte": "Más de un año de espera para limpiar lo que no debería estar ahí ni un día.",
-    "enVeinte": [
-      "Los ecologistas urgen a actuar contra una nave-vertedero de residuos de desguace ubicada en El Salín, en la ría de Villaviciosa.",
-      "La Coordinadora ya denunció el problema hace más de un año y la situación no ha cambiado.",
-      "El estuario, espacio natural sensible, sigue acogiendo los residuos sin que se haya tomado ninguna medida visible."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "estuario",
-      "como": "estuario (igual en asturiano y en español)",
-      "definicion": "Tramo final de un río donde sus aguas se mezclan con las del mar. La ría de Villaviciosa es un estuario protegido por su valor ecológico, lo que hace especialmente grave la presencia de residuos en su orilla."
-    },
-    "porQue": "La ría de Villaviciosa es un espacio natural de primer orden para el concejo; que lleve más de un año con residuos de desguace acumulados en su orilla afecta al paisaje, al ecosistema y a la imagen de un territorio que vive también del turismo.",
-    "etiquetas": [
-      "medioambiente",
-      "Villaviciosa",
-      "ría",
-      "residuos"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/20/nave-ruedas-ria-villaviciosa-RDU2U5JNrLxNk5e7VdbOt2H-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-20T12:22:10.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ecologistas-urgen-tomar-medidas-navevertedero-salin-ria-20260820135842-nt.html",
-      "titularOriginal": "Los ecologistas urgen a tomar medidas contra la nave-vertedero de El Salín, en la ría de Villaviciosa"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Environmentalists demand action against the El Salín dump",
-        "entradilla": "La Coordinadora has been raising the alarm for over a year about the accumulation of scrapyard waste in the middle of the Villaviciosa estuary.",
-        "cuerpo": [
-          "Environmentalists have again called on the authorities to take action against a warehouse being used as a dump for scrapyard waste in El Salín, in the middle of the Villaviciosa estuary.",
-          "La Coordinadora points out that it reported the situation over a year ago and that, to this day, the waste remains piled up in that corner of the estuary."
-        ],
-        "apunte": "Over a year of waiting to clean up what should never have been there for a single day.",
-        "enVeinte": [
-          "Environmentalists are urging action against a warehouse-dump for scrapyard waste located in El Salín, on the Villaviciosa estuary.",
-          "La Coordinadora already reported the problem over a year ago and the situation has not changed.",
-          "The estuary, a sensitive natural area, continues to hold the waste with no visible measures having been taken."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "estuario",
-          "como": "estuario (same spelling in Asturian and Spanish)",
-          "definicion": "The final stretch of a river where its waters mix with the sea. The Villaviciosa estuary is protected for its ecological value, which makes the presence of waste on its banks especially serious."
-        },
-        "porQue": "The Villaviciosa estuary is a natural space of the first order for the municipality; the fact that it has had scrapyard waste piled on its banks for over a year affects the landscape, the ecosystem, and the image of an area that also depends on tourism.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Des écologistes réclament des mesures contre la décharge de El Salín",
-        "entradilla": "La Coordinadora alerte depuis plus d'un an sur l'accumulation de déchets de démolition automobile au cœur de l'estuaire de Villaviciosa.",
-        "cuerpo": [
-          "Des écologistes ont de nouveau demandé aux autorités de prendre des mesures contre un entrepôt utilisé comme décharge de déchets de démolition automobile à El Salín, en plein estuaire de Villaviciosa.",
-          "La Coordinadora rappelle qu'elle a signalé la situation il y a plus d'un an et que, jusqu'à présent, les déchets s'accumulent toujours dans ce coin de l'estuaire."
-        ],
-        "apunte": "Plus d'un an d'attente pour nettoyer ce qui n'aurait pas dû s'y trouver ne serait-ce qu'un seul jour.",
-        "enVeinte": [
-          "Des écologistes pressent les autorités d'agir contre un entrepôt-décharge de déchets de démolition situé à El Salín, sur l'estuaire de Villaviciosa.",
-          "La Coordinadora avait déjà signalé le problème il y a plus d'un an et la situation n'a pas changé.",
-          "L'estuaire, espace naturel sensible, continue d'accueillir ces déchets sans qu'aucune mesure visible n'ait été prise."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "estuario",
-          "como": "estuario (même orthographe en asturien et en espagnol)",
-          "definicion": "Tronçon final d'un fleuve ou d'une rivière où ses eaux se mêlent à celles de la mer. L'estuaire de Villaviciosa est protégé pour sa valeur écologique, ce qui rend la présence de déchets sur ses rives particulièrement grave."
-        },
-        "porQue": "L'estuaire de Villaviciosa est un espace naturel de premier plan pour la commune ; le fait qu'il supporte depuis plus d'un an des déchets de démolition automobile sur ses rives affecte le paysage, l'écosystème et l'image d'un territoire qui vit aussi du tourisme.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Umweltschützer fordern Maßnahmen gegen die Deponie in El Salín",
-        "entradilla": "La Coordinadora schlägt seit über einem Jahr Alarm wegen der Anhäufung von Schrottplatzabfällen mitten im Ästuar der Ría de Villaviciosa.",
-        "cuerpo": [
-          "Umweltschützer haben die Behörden erneut aufgefordert, Maßnahmen gegen eine Halle zu ergreifen, die in El Salín mitten in der Ría de Villaviciosa als Deponie für Schrottplatzabfälle genutzt wird.",
-          "La Coordinadora weist darauf hin, dass sie die Situation vor über einem Jahr gemeldet hat und die Überreste bis heute in diesem Winkel des Ästuars aufgestapelt sind."
-        ],
-        "apunte": "Über ein Jahr Warten darauf, zu beseitigen, was dort keinen einzigen Tag hätte liegen dürfen.",
-        "enVeinte": [
-          "Umweltschützer drängen auf ein Vorgehen gegen eine als Deponie für Schrottplatzabfälle genutzte Halle in El Salín an der Ría de Villaviciosa.",
-          "La Coordinadora hatte das Problem bereits vor über einem Jahr gemeldet, und die Lage hat sich seitdem nicht verändert.",
-          "Das Ästuar, ein empfindliches Naturgebiet, nimmt die Abfälle weiterhin auf, ohne dass sichtbare Maßnahmen ergriffen wurden."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "estuario",
-          "como": "estuario (gleiche Schreibweise im Asturischen und im Spanischen)",
-          "definicion": "Der Mündungsbereich eines Flusses, in dem sich sein Wasser mit dem Meer vermischt. Die Ría de Villaviciosa ist wegen ihres ökologischen Wertes unter Schutz gestellt, was das Vorhandensein von Abfällen an ihren Ufern besonders schwerwiegend macht."
-        },
-        "porQue": "Die Ría de Villaviciosa ist ein Naturraum von höchstem Rang für die Gemeinde; dass dort seit über einem Jahr Schrottplatzabfälle an ihren Ufern lagern, beeinträchtigt die Landschaft, das Ökosystem und das Bild eines Gebiets, das auch vom Tourismus lebt.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "la acumulacion de residuos de desguace en pleno",
-      "acumulacion de residuos de desguace en pleno estuario"
     ]
   }
 ]
