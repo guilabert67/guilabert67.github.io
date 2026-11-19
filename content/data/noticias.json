@@ -1,5 +1,533 @@
 [
   {
+    "id": "el-agapornis-que-guio-el-arte-desde-jaen-hasta-villaviciosa",
+    "url": "/villaviciosa/el-agapornis-que-guio-el-arte-desde-jaen-hasta-villaviciosa/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un agapornis lleva a Villaviciosa el primer premio nacional",
+    "entradilla": "David Martínez Calderón gana el Certamen Nacional de Pintura con una obra inspirada en el pájaro de su hijo.",
+    "cuerpo": [
+      "Un pintor llegado desde Jaén se lleva el primer premio del Certamen Nacional de Pintura gracias a un cuadro que nació en casa, mirando al agapornis de su hijo.",
+      "David Martínez Calderón ha explicado las claves de la obra y cómo esa mascota de plumas sirvió de hilo conductor para todo el proyecto premiado."
+    ],
+    "apunte": "Un pájaro de compañía hace más por la cultura local que muchos proyectos con subvención.",
+    "enVeinte": [
+      "David Martínez Calderón gana el Certamen Nacional de Pintura con un cuadro inspirado en el agapornis de su hijo.",
+      "El pintor llegó desde Jaén y el premio recae en Villaviciosa.",
+      "Él mismo ha desgranado públicamente las claves que hay detrás de la obra ganadora."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "agapornis",
+      "como": "a-ga-por-nis",
+      "definicion": "Periquito africano de colores vivos, muy popular como mascota. El nombre viene del griego y significa 'pájaro del amor'. Aquí se le conoce simplemente como tal, aunque los más viejos del lugar lo llaman 'el pájaro ese de colorines'."
+    },
+    "porQue": "El certamen pone el nombre de Villaviciosa en el mapa nacional de la pintura y demuestra que el concejo sigue atrayendo arte de primer nivel.",
+    "etiquetas": [
+      "pintura",
+      "certamen nacional",
+      "Villaviciosa",
+      "arte"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/19/ganador-pintura-villaviciosa-RrcvB7wJ9DS35U6FbBpWHBI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-19T17:58:04.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/agapornis-arte-jaen-villaviciosa-arte-obra-20261119185709-nt.html",
+      "titularOriginal": "El agapornis que guió el arte desde Jaén hasta Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A lovebird brings Villaviciosa its first national prize",
+        "entradilla": "David Martínez Calderón wins the Certamen Nacional de Pintura with a work inspired by his son's bird.",
+        "cuerpo": [
+          "A painter who came from Jaén takes home the top prize at the Certamen Nacional de Pintura with a picture that was born at home, watching his son's lovebird.",
+          "David Martínez Calderón has explained the ideas behind the work and how that feathered pet became the guiding thread for the entire award-winning project."
+        ],
+        "apunte": "A pet bird does more for local culture than many a subsidised project.",
+        "enVeinte": [
+          "David Martínez Calderón wins the Certamen Nacional de Pintura with a painting inspired by his son's lovebird.",
+          "The painter came from Jaén and the prize lands in Villaviciosa.",
+          "He has publicly explained the ideas behind the winning work."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "agapornis",
+          "como": "a-ga-por-nis",
+          "definicion": "A brightly coloured African lovebird, very popular as a pet. The name comes from Greek and means 'love bird'. Here it is simply known as such, although older locals call it 'that colourful little bird'."
+        },
+        "porQue": "The competition puts Villaviciosa on the national painting map and shows that the municipality continues to attract top-level art.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un agapornis vaut à Villaviciosa son premier prix national",
+        "entradilla": "David Martínez Calderón remporte le Certamen Nacional de Pintura avec une œuvre inspirée par l'oiseau de son fils.",
+        "cuerpo": [
+          "Un peintre venu de Jaén décroche le premier prix du Certamen Nacional de Pintura grâce à un tableau né à la maison, à force d'observer l'agapornis de son fils.",
+          "David Martínez Calderón a expliqué les clés de l'œuvre et la façon dont cet animal de compagnie à plumes a servi de fil conducteur à l'ensemble du projet primé."
+        ],
+        "apunte": "Un oiseau de compagnie fait plus pour la culture locale que bien des projets subventionnés.",
+        "enVeinte": [
+          "David Martínez Calderón remporte le Certamen Nacional de Pintura avec un tableau inspiré par l'agapornis de son fils.",
+          "Le peintre est arrivé de Jaén et le prix revient à Villaviciosa.",
+          "Il a lui-même exposé publiquement les clés de l'œuvre gagnante."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "agapornis",
+          "como": "a-ga-por-nis",
+          "definicion": "Petit perroquet africain aux couleurs vives, très apprécié comme animal de compagnie. Le nom vient du grec et signifie «oiseau de l'amour». Ici on l'appelle simplement ainsi, bien que les plus anciens du coin le désignent comme «ce petit oiseau tout bariolé»."
+        },
+        "porQue": "Le concours place Villaviciosa sur la carte nationale de la peinture et prouve que la commune continue d'attirer un art de premier plan.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Agapornis bringt Villaviciosa seinen ersten nationalen Preis",
+        "entradilla": "David Martínez Calderón gewinnt den Certamen Nacional de Pintura mit einem Werk, das vom Vogel seines Sohnes inspiriert wurde.",
+        "cuerpo": [
+          "Ein Maler aus Jaén holt den ersten Preis des Certamen Nacional de Pintura mit einem Bild, das zu Hause entstand – beim Beobachten des Agapornis seines Sohnes.",
+          "David Martínez Calderón hat erläutert, was hinter dem Werk steckt und wie das gefiederte Haustier zum roten Faden des gesamten preisgekrönten Projekts wurde."
+        ],
+        "apunte": "Ein Haustier tut mehr für die lokale Kultur als so manches geförderte Projekt.",
+        "enVeinte": [
+          "David Martínez Calderón gewinnt den Certamen Nacional de Pintura mit einem Gemälde, das vom Agapornis seines Sohnes inspiriert wurde.",
+          "Der Maler kam aus Jaén – und der Preis geht nach Villaviciosa.",
+          "Er selbst hat öffentlich erklärt, welche Ideen hinter dem Siegerwerk stehen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "agapornis",
+          "como": "a-ga-por-nis",
+          "definicion": "Ein farbenfrohes afrikanisches Unzertrennliches, das als Haustier sehr beliebt ist. Der Name stammt aus dem Griechischen und bedeutet «Lieblingsvogel». Hier ist er schlicht unter diesem Namen bekannt, obwohl ältere Einheimische ihn «diesen bunten kleinen Vogel» nennen."
+        },
+        "porQue": "Der Wettbewerb setzt Villaviciosa auf die nationale Landkarte der Malerei und zeigt, dass die Gemeinde weiterhin Kunst auf höchstem Niveau anzieht.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-ovetense-xaime-martinez-gana-el-concurso-de-relatos-cortos-xose-cav",
+    "url": "/nava/el-ovetense-xaime-martinez-gana-el-concurso-de-relatos-cortos-xose-cav/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un ovetense gana el Caveda y Nava de relato",
+    "entradilla": "Xaime Martínez se lleva el concurso con un cuento que mezcla lo cotidiano y lo fantástico.",
+    "cuerpo": [
+      "El escritor ovetense Xaime Martínez ha ganado el concurso de relatos cortos Xosé Caveda y Nava, que se celebra en Villaviciosa.",
+      "Su relato, titulado 'Cantar los perros', convenció al jurado por la forma en que combina escenas del día a día con elementos fantásticos."
+    ],
+    "apunte": "Los perros cantan, el jurado escucha y el premio vuela a Oviedo.",
+    "enVeinte": [
+      "El ovetense Xaime Martínez gana el concurso de relatos cortos Xosé Caveda y Nava, celebrado en Villaviciosa.",
+      "Su relato 'Cantar los perros' combina escenas cotidianas con elementos fantásticos.",
+      "El jurado valoró precisamente esa mezcla entre lo real y lo imaginario."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El Caveda y Nava es uno de los certámenes literarios de referencia en la comarca, y su fallo sitúa a Villaviciosa en el mapa de las letras asturianas un año más.",
+    "etiquetas": [
+      "relato corto",
+      "Villaviciosa",
+      "literatura",
+      "Caveda y Nava"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "letras",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/19/xaime-martinez-RXCDzqu9WhBh2VCLlEv0nFP-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-19T16:39:34.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/ovetense-xaime-martinez-gana-concurso-relatos-cortos-20261119173933-nt.html",
+      "titularOriginal": "El ovetense Xaime Martínez gana el concurso de relatos cortos Xosé Caveda y Nava en Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A writer from Oviedo wins the Caveda y Nava short story contest",
+        "entradilla": "Xaime Martínez takes the prize with a story that blends the everyday and the fantastical.",
+        "cuerpo": [
+          "Oviedo-based writer Xaime Martínez has won the Xosé Caveda y Nava short story contest, held in Villaviciosa.",
+          "His story, titled 'Cantar los perros', won over the jury with the way it combines scenes from daily life with fantastical elements."
+        ],
+        "apunte": "The dogs sing, the jury listens, and the prize flies to Oviedo.",
+        "enVeinte": [
+          "Oviedo-based writer Xaime Martínez wins the Xosé Caveda y Nava short story contest, held in Villaviciosa.",
+          "His story 'Cantar los perros' combines everyday scenes with fantastical elements.",
+          "The jury valued precisely that blend of the real and the imaginary."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "The Caveda y Nava is one of the leading literary contests in the area, and its result puts Villaviciosa on the map of Asturian letters once again.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un écrivain d'Oviedo remporte le Caveda y Nava de la nouvelle",
+        "entradilla": "Xaime Martínez s'impose dans le concours avec une histoire qui mêle le quotidien et le fantastique.",
+        "cuerpo": [
+          "L'écrivain ovetense Xaime Martínez a remporté le concours de nouvelles Xosé Caveda y Nava, qui se tient à Villaviciosa.",
+          "Sa nouvelle, intitulée 'Cantar los perros', a convaincu le jury par la façon dont elle associe des scènes du quotidien à des éléments fantastiques."
+        ],
+        "apunte": "Les chiens chantent, le jury écoute et le prix s'envole vers Oviedo.",
+        "enVeinte": [
+          "L'écrivain ovetense Xaime Martínez remporte le concours de nouvelles Xosé Caveda y Nava, organisé à Villaviciosa.",
+          "Sa nouvelle 'Cantar los perros' mêle scènes du quotidien et éléments fantastiques.",
+          "Le jury a précisément salué ce mélange entre le réel et l'imaginaire."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Le Caveda y Nava est l'un des concours littéraires de référence dans la commune, et son palmarès remet Villaviciosa sur la carte des lettres asturiennes une année de plus.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Schriftsteller aus Oviedo gewinnt den Caveda y Nava für Kurzgeschichten",
+        "entradilla": "Xaime Martínez gewinnt den Wettbewerb mit einer Geschichte, die Alltägliches und Fantastisches verbindet.",
+        "cuerpo": [
+          "Der Schriftsteller Xaime Martínez aus Oviedo hat den Kurzgeschichtenwettbewerb Xosé Caveda y Nava gewonnen, der in Villaviciosa ausgetragen wird.",
+          "Seine Geschichte mit dem Titel 'Cantar los perros' überzeugte die Jury durch die Art, wie sie Szenen aus dem Alltag mit fantastischen Elementen verknüpft."
+        ],
+        "apunte": "Die Hunde singen, die Jury lauscht und der Preis fliegt nach Oviedo.",
+        "enVeinte": [
+          "Der Schriftsteller Xaime Martínez aus Oviedo gewinnt den Kurzgeschichtenwettbewerb Xosé Caveda y Nava in Villaviciosa.",
+          "Seine Geschichte 'Cantar los perros' verbindet Alltagsszenen mit fantastischen Elementen.",
+          "Die Jury würdigte genau diese Mischung aus Realem und Imaginärem."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Der Caveda y Nava ist einer der bedeutendsten Literaturwettbewerbe der Gemeinde, und seine Entscheidung rückt Villaviciosa erneut auf die Landkarte der asturischen Literatur.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el concurso de relatos cortos xose caveda y",
+      "concurso de relatos cortos xose caveda y nava"
+    ]
+  },
+  {
+    "id": "xaime-martinez-gana-el-x-premio-de-relatos-cortos-en-asturiano-de-vill",
+    "url": "/villaviciosa/xaime-martinez-gana-el-x-premio-de-relatos-cortos-en-asturiano-de-vill/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Xaime Martínez gana el X Premio de Relatos en Asturiano",
+    "entradilla": "El escritor ovetense se lleva el galardón de Villaviciosa con un relato que mezcla lo cotidiano y lo fantástico.",
+    "cuerpo": [
+      "Xaime Martínez se ha hecho con el X Premio de Relatos Cortos en Asturiano que convoca el Ayuntamiento de Villaviciosa. Su obra premiada se titula «Cantar los perros».",
+      "El relato combina escenas del día a día con elementos fantásticos, según recoge el fallo del certamen en su décima edición."
+    ],
+    "apunte": "Diez ediciones del premio y el ganador viene de Uviéu: algo están haciendo bien.",
+    "enVeinte": [
+      "El escritor ovetense Xaime Martínez gana el X Premio de Relatos Cortos en Asturiano de Villaviciosa.",
+      "Su obra premiada, «Cantar los perros», mezcla escenas cotidianas con elementos fantásticos.",
+      "El certamen lo organiza el Ayuntamiento de Villaviciosa y llega este año a su décima edición."
+    ],
+    "cifra": {
+      "numero": "X",
+      "unidad": "ediciones",
+      "glosa": "El premio llega este año a su décima convocatoria. Una década apostando desde Villaviciosa por la escritura en asturiano."
+    },
+    "palabra": {
+      "termino": "asturiano",
+      "como": "asturianu",
+      "definicion": "La lengua propia de Asturias, también llamada bable. Este premio la promociona específicamente en el género del relato corto."
+    },
+    "porQue": "Un premio que ya tiene diez años pone a Villaviciosa en el mapa de la literatura en asturiano y anima a quien escriba por aquí a presentarse la próxima convocatoria.",
+    "etiquetas": [
+      "literatura",
+      "asturiano",
+      "Villaviciosa",
+      "premios"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "letras",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/xaime-martinez-gana-el-x-premio-de-relatos-cortos-11277267.jpg",
+    "fecha": "2026-11-19T16:32:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/xaime-martinez-gana-el-x-premio-de-relatos-cortos-en-asturiano-de-villaviciosa-11277267.html",
+      "titularOriginal": "Xaime Martínez gana el X Premio de Relatos Cortos en Asturiano de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Xaime Martínez wins the X Premio de Relatos en Asturiano",
+        "entradilla": "The writer from Oviedo takes the Villaviciosa award with a story that blends the everyday and the fantastical.",
+        "cuerpo": [
+          "Xaime Martínez has won the X Premio de Relatos Cortos en Asturiano, organised by the Villaviciosa council. His winning work is titled «Cantar los perros».",
+          "The story combines scenes from daily life with fantastical elements, according to the jury's decision in this tenth edition of the competition."
+        ],
+        "apunte": "Ten editions of the prize and the winner comes from Uviéu: they must be doing something right.",
+        "enVeinte": [
+          "Writer from Oviedo Xaime Martínez wins the X Premio de Relatos Cortos en Asturiano in Villaviciosa.",
+          "His winning work, «Cantar los perros», blends everyday scenes with fantastical elements.",
+          "The competition is organised by the Villaviciosa council and reaches its tenth edition this year."
+        ],
+        "cifra": {
+          "numero": "X",
+          "unidad": "editions",
+          "glosa": "The prize reaches its tenth edition this year. A decade of commitment from Villaviciosa to writing in asturiano."
+        },
+        "palabra": {
+          "termino": "asturiano",
+          "como": "asturianu",
+          "definicion": "The native language of Asturias, also known as bable. This prize promotes it specifically in the short story genre. Pronounced: as-too-RYAH-noo."
+        },
+        "porQue": "A prize that is already ten years old puts Villaviciosa on the map of literature in asturiano and encourages anyone writing around here to enter the next edition.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Xaime Martínez remporte le X Premio de Relatos en Asturiano",
+        "entradilla": "L'écrivain ovetense repart de Villaviciosa avec le prix grâce à un récit qui mêle quotidien et fantastique.",
+        "cuerpo": [
+          "Xaime Martínez a remporté le X Premio de Relatos Cortos en Asturiano, organisé par la mairie de Villaviciosa. Son œuvre primée s'intitule «Cantar los perros».",
+          "Le récit mêle des scènes du quotidien à des éléments fantastiques, selon le palmarès du concours en cette dixième édition."
+        ],
+        "apunte": "Dix éditions du prix et le lauréat vient de Uviéu : ils font décidément quelque chose de bien.",
+        "enVeinte": [
+          "L'écrivain ovetense Xaime Martínez remporte le X Premio de Relatos Cortos en Asturiano de Villaviciosa.",
+          "Son œuvre primée, «Cantar los perros», mêle scènes du quotidien et éléments fantastiques.",
+          "Le concours est organisé par la mairie de Villaviciosa et atteint cette année sa dixième édition."
+        ],
+        "cifra": {
+          "numero": "X",
+          "unidad": "éditions",
+          "glosa": "Le prix atteint cette année sa dixième édition. Une décennie d'engagement de Villaviciosa en faveur de l'écriture en asturiano."
+        },
+        "palabra": {
+          "termino": "asturiano",
+          "como": "asturianu",
+          "definicion": "La langue propre des Asturies, également appelée bable. Ce prix la valorise spécifiquement dans le genre de la nouvelle. Prononciation : as-tou-RIAH-nou."
+        },
+        "porQue": "Un prix qui a déjà dix ans place Villaviciosa sur la carte de la littérature en asturiano et encourage quiconque écrit dans la région à se présenter à la prochaine édition.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Xaime Martínez gewinnt den X Premio de Relatos en Asturiano",
+        "entradilla": "Der Schriftsteller aus Oviedo holt die Auszeichnung aus Villaviciosa mit einer Erzählung, die Alltägliches und Fantastisches verbindet.",
+        "cuerpo": [
+          "Xaime Martínez hat den X Premio de Relatos Cortos en Asturiano gewonnen, den das Rathaus von Villaviciosa ausschreibt. Sein preisgekröntes Werk trägt den Titel «Cantar los perros».",
+          "Die Erzählung verbindet Szenen aus dem Alltag mit fantastischen Elementen, wie aus der Jurybegründung in dieser zehnten Ausgabe des Wettbewerbs hervorgeht."
+        ],
+        "apunte": "Zehn Ausgaben des Preises, und der Gewinner kommt aus Uviéu: irgendetwas machen sie dort richtig.",
+        "enVeinte": [
+          "Der Schriftsteller aus Oviedo Xaime Martínez gewinnt den X Premio de Relatos Cortos en Asturiano in Villaviciosa.",
+          "Sein preisgekröntes Werk «Cantar los perros» verbindet alltägliche Szenen mit fantastischen Elementen.",
+          "Der Wettbewerb wird vom Rathaus von Villaviciosa organisiert und erreicht dieses Jahr seine zehnte Ausgabe."
+        ],
+        "cifra": {
+          "numero": "X",
+          "unidad": "Ausgaben",
+          "glosa": "Der Preis erreicht dieses Jahr seine zehnte Ausgabe. Ein Jahrzehnt des Engagements aus Villaviciosa für das Schreiben auf Asturiano."
+        },
+        "palabra": {
+          "termino": "asturiano",
+          "como": "asturianu",
+          "definicion": "Die eigene Sprache Asturiens, auch bable genannt. Dieser Preis fördert sie gezielt im Genre der Kurzgeschichte. Aussprache: as-tu-RIAH-nu."
+        },
+        "porQue": "Ein Preis, der bereits zehn Jahre alt ist, bringt Villaviciosa auf die Landkarte der Literatur auf Asturiano und ermutigt alle, die hier schreiben, sich bei der nächsten Ausschreibung zu bewerben.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "xaime martinez gana el x premio de relatos",
+      "el x premio de relatos cortos en asturiano"
+    ]
+  },
+  {
+    "id": "los-embalses-asturianos-se-encuentran-al-47-de-su-capacidad",
+    "url": "/villaviciosa/los-embalses-asturianos-se-encuentran-al-47-de-su-capacidad/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Los embalses asturianos, al 47% de capacidad",
+    "entradilla": "La zona Nalón-Villaviciosa entra en escasez moderada, diez puntos menos que el mismo noviembre de 2025.",
+    "cuerpo": [
+      "Los pantanos asturianos almacenan esta semana menos de la mitad de lo que pueden, según los datos del Ministerio de Transición Ecológica. Es un descenso de diez puntos respecto al año pasado en estas fechas.",
+      "Los embalses que surten la zona central muestran niveles muy dispares: Los Alfilorios apenas llega al 31%, mientras Rusecu se mueve entre el 70 y el 90% y Tañes oscila entre el 49 y el 55%. Si miramos una década atrás, aquellos mismos pantanos rondaban el 75%.",
+      "El mapa de escasez de la Confederación Hidrográfica sitúa la cuenca Nalón-Villaviciosa en escasez moderada desde octubre. No hay restricciones de consumo, pero sí se piden precauciones. Los extremos oriental y occidental de Asturias permanecen en normalidad."
+    ],
+    "apunte": "En Tañes, la cola del pantano deja ver el puente de Coballes tal como era antes de que el agua lo tapara: la sequía tiene sus postales, aunque nadie las pide.",
+    "enVeinte": [
+      "Los embalses asturianos están al 47% de su capacidad, diez puntos menos que hace un año.",
+      "La zona Nalón-Villaviciosa está en escasez moderada: no hay cortes de agua, pero sí se recomienda prudencia.",
+      "Los Alfilorios son los más bajos, con solo un 31%, mientras Rusecu aguanta mejor, entre el 70 y el 90%."
+    ],
+    "cifra": {
+      "numero": "31%",
+      "unidad": "capacidad de Los Alfilorios",
+      "glosa": "El embalse de Los Alfilorios, que abastece parte de la zona central asturiana, está a menos de un tercio de lo que puede almacenar. Es el más bajo de los tres pantanos centrales que recoge el informe, y el que más de cerca hay que vigilar si el otoño sigue seco."
+    },
+    "palabra": {
+      "termino": "pantán",
+      "como": "pantán (con acento en la última; en asturiano también 'pantanu')",
+      "definicion": "Embalse artificial formado por una presa que cierra un valle fluvial. En Asturias los más conocidos son Tañes, en el Nalón, y Rusecu, en el Narcea. La palabra 'pantalán' que aparece en la cola de Tañes es distinta: es el embarcadero flotante desde el que salían las barcas de recreo antes de que el pantano bajara tanto."
+    },
+    "porQue": "La escasez moderada en la cuenca Nalón-Villaviciosa no corta el grifo, pero avisa de que hay menos margen del habitual si el invierno llega seco: vale la pena no desperdiciar.",
+    "etiquetas": [
+      "agua",
+      "embalses",
+      "Villaviciosa",
+      "sequía"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.rtpa.es//26/11//20261119132828_RTPA8874542.webp",
+    "fecha": "2026-11-19T14:27:00.000Z",
+    "fuente": {
+      "nombre": "RTPA",
+      "url": "https://www.rtpa.es/noticias-asturias/2026-11-19/Los-embalses-asturianos-se-encuentran-al-47-de-su-capacidad_111795091634.html",
+      "titularOriginal": "Los embalses asturianos se encuentran al 47% de su capacidad"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
+    "id": "el-restaurante-castanon-de-quintes-reabrira-el-18-de-diciembre-con-nue",
+    "url": "/villaviciosa/el-restaurante-castanon-de-quintes-reabrira-el-18-de-diciembre-con-nue/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "El Castañón de Quintes reabre el 18 de diciembre",
+    "entradilla": "El local vuelve a abrir con una nueva dirección procedente del chiringuito del Arenal de Morís.",
+    "cuerpo": [
+      "El restaurante Castañón de Quintes, en Villaviciosa, echará de nuevo el cerrojo para atrás el próximo 18 de diciembre bajo la gestión de los responsables del chiringuito del Arenal de Morís.",
+      "El cambio de manos supone que el local retoma su actividad antes de que arranquen las fiestas navideñas, con gente ya conocida en la hostelería del concejo al frente."
+    ],
+    "apunte": "Llegan del Arenal de Morís: saben lo que es trabajar con gente hambrienta y arena en los pies.",
+    "enVeinte": [
+      "El restaurante Castañón de Quintes reabre el 18 de diciembre con nuevos dueños.",
+      "Los que toman las riendas son los mismos que llevan el chiringuito del Arenal de Morís.",
+      "El local vuelve a estar en marcha justo antes de las Navidades."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Arenal de Morís",
+      "como": "arenal de Morís",
+      "definicion": "Playa del concejo de Carreño, muy concurrida en verano, conocida en toda la costa central asturiana por su ambiente animado y su paseo."
+    },
+    "porQue": "Quienes tenían el Castañón de Quintes en la agenda y lo echaban de menos pueden volver a apuntarlo: reabre antes de Nochebuena y con cara nueva.",
+    "etiquetas": [
+      "Villaviciosa",
+      "hostelería",
+      "restauración",
+      "Quintes"
+    ],
+    "fechaEvento": "2026-12-18",
+    "tipoEvento": "gastro",
+    "lugar": "Quintes, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/19/quintes-castanon-RaAf0oxju9qFMdvqjfN9kFJ-1200x840@El%20Comercio.PNG",
+    "fecha": "2026-11-19T10:15:37.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/restaurante-castanon-quintes-reabrira-diciembre-nuevos-responsables-20261119111507-nt.html",
+      "titularOriginal": "El restaurante Castañón de Quintes reabrirá el 18 de diciembre con nuevos responsables"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Castañón de Quintes reopens on 18 December",
+        "entradilla": "The venue returns under new management from the beach bar at Arenal de Morís.",
+        "cuerpo": [
+          "The restaurant Castañón de Quintes, in Villaviciosa, will open its doors again on 18 December, run by the team behind the beach bar at Arenal de Morís.",
+          "The change of hands means the venue resumes trading before the Christmas festivities begin, with people already well known in the hospitality scene of the municipality at the helm."
+        ],
+        "apunte": "They come from Arenal de Morís: they know what it means to work with hungry crowds and sand between their toes.",
+        "enVeinte": [
+          "The restaurant Castañón de Quintes reopens on 18 December under new ownership.",
+          "The incoming team are the same people who run the beach bar at Arenal de Morís.",
+          "The venue is back up and running just before Christmas."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Arenal de Morís",
+          "como": "arenal de Morís",
+          "definicion": "Beach in the municipality of Carreño, very busy in summer and well known along the central Asturian coast for its lively atmosphere and promenade."
+        },
+        "porQue": "Anyone who had Castañón de Quintes on their list and had been missing it can put it back in the diary: it reopens before Christmas Eve and with a fresh face.",
+        "lugar": "Quintes, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Castañón de Quintes rouvre le 18 décembre",
+        "entradilla": "Le restaurant reprend ses portes sous une nouvelle direction venue du bar de plage de l'Arenal de Morís.",
+        "cuerpo": [
+          "Le restaurant Castañón de Quintes, à Villaviciosa, rouvrira ses portes le 18 décembre prochain sous la direction de l'équipe qui gère le bar de plage de l'Arenal de Morís.",
+          "Ce changement de mains permet à l'établissement de reprendre son activité avant le début des fêtes de Noël, avec des professionnels déjà bien connus dans la restauration de la commune."
+        ],
+        "apunte": "Ils viennent de l'Arenal de Morís : ils savent ce que c'est que de servir des gens affamés avec du sable plein les pieds.",
+        "enVeinte": [
+          "Le restaurant Castañón de Quintes rouvre le 18 décembre sous de nouveaux propriétaires.",
+          "L'équipe qui reprend les rênes est la même qui tient le bar de plage de l'Arenal de Morís.",
+          "L'établissement reprend du service juste avant les fêtes de Noël."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Arenal de Morís",
+          "como": "arenal de Morís",
+          "definicion": "Plage de la commune de Carreño, très fréquentée en été et connue sur toute la côte centrale des Asturies pour son ambiance animée et sa promenade."
+        },
+        "porQue": "Ceux qui avaient le Castañón de Quintes dans leur carnet d'adresses et lui manquaient peuvent l'y remettre : il rouvre avant la veille de Noël, avec un visage neuf.",
+        "lugar": "Quintes, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Castañón de Quintes öffnet am 18. Dezember wieder",
+        "entradilla": "Das Lokal kehrt unter neuer Leitung zurück – das Team kommt vom Strandkiosk am Arenal de Morís.",
+        "cuerpo": [
+          "Das Restaurant Castañón de Quintes in Villaviciosa öffnet am 18. Dezember wieder seine Türen, geführt von den Betreibern des Strandkiosks am Arenal de Morís.",
+          "Der Inhaberwechsel sorgt dafür, dass das Lokal seinen Betrieb aufnimmt, bevor das Weihnachtsgeschäft beginnt – mit Leuten, die in der Gastronomie der Gemeinde bereits einen Namen haben."
+        ],
+        "apunte": "Sie kommen vom Arenal de Morís: Sie wissen, was es heißt, hungrige Gäste mit Sand zwischen den Zehen zu bedienen.",
+        "enVeinte": [
+          "Das Restaurant Castañón de Quintes öffnet am 18. Dezember unter neuen Eigentümern wieder.",
+          "Das neue Team sind dieselben, die den Strandkiosk am Arenal de Morís betreiben.",
+          "Das Lokal nimmt kurz vor Weihnachten wieder den Betrieb auf."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Arenal de Morís",
+          "como": "arenal de Morís",
+          "definicion": "Strand in der Gemeinde Carreño, im Sommer sehr gut besucht und an der gesamten zentralasturischen Küste für seine lebhafte Atmosphäre und seine Strandpromenade bekannt."
+        },
+        "porQue": "Wer das Castañón de Quintes auf dem Zettel hatte und es vermisst hat, kann es wieder vormerken: Es öffnet vor Heiligabend – und mit neuem Gesicht.",
+        "lugar": "Quintes, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-alcalde-de-villaviciosa-ve-decepcionante-la-partida-regional-para-l",
     "url": "/villaviciosa/el-alcalde-de-villaviciosa-ve-decepcionante-la-partida-regional-para-l/",
     "concejo": "Villaviciosa",
@@ -989,6 +1517,124 @@
     "revisar": [
       "un super oro en los world cheese awards"
     ]
+  },
+  {
+    "id": "procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien",
+    "url": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca coordinador de informática",
+    "entradilla": "El Ayuntamiento convoca una plaza técnica por concurso de méritos con plazo abierto hasta el 17 de diciembre.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa ha puesto en marcha el proceso para cubrir el puesto de Coordinador o Coordinadora de Informática. La plaza sale de la Oferta de Empleo Público de 2026 y se cubre por concurso específico de méritos.",
+      "Quien quiera presentarse tiene desde el 18 de noviembre hasta el 17 de diciembre para entregar la solicitud. La convocatoria está publicada en el BOE y el anuncio completo puede consultarse en el BOPA."
+    ],
+    "apunte": "Un mes para apuntarse, así que mejor no dejar el CV para el día 16.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca una plaza de Coordinador o Coordinadora de Informática.",
+      "El proceso es por concurso de méritos y el plazo de solicitudes va del 18 de noviembre al 17 de diciembre de 2026.",
+      "La convocatoria está publicada en el BOE y en el BOPA."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "concurso de méritos",
+      "como": "concursu de méritos",
+      "definicion": "Sistema de selección en el que no hay examen: la plaza se otorga valorando el currículum, la experiencia y la formación de cada candidato. Es habitual en la provisión de puestos de trabajo entre personal funcionario ya en activo."
+    },
+    "porQue": "Cubrir esta plaza refuerza la gestión informática del Ayuntamiento, lo que repercute directamente en los servicios digitales que usa la vecindad de Villaviciosa.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "informática",
+      "convocatoria"
+    ],
+    "fechaEvento": "2026-12-17",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-17T08:47:27.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20224914",
+      "titularOriginal": "Procedimiento selectivo de Coordinador/a de Informática del Ayuntamiento de Villaviciosa",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks an IT coordinator",
+        "entradilla": "The council is opening a technical post through a merit-based competition, with a deadline of 17 December.",
+        "cuerpo": [
+          "The council of Villaviciosa has launched the process to fill the post of IT Coordinator. The position comes from the 2026 Public Employment Offer and will be filled through a specific merit-based competition.",
+          "Anyone wishing to apply has from 18 November until 17 December to submit their application. The call has been published in the BOE and the full announcement can be found in the BOPA."
+        ],
+        "apunte": "A month to apply, so better not leave the CV until the 16th.",
+        "enVeinte": [
+          "The council of Villaviciosa is opening a post of IT Coordinator.",
+          "The process is a merit-based competition and the application period runs from 18 November to 17 December 2026.",
+          "The call has been published in the BOE and in the BOPA."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "A selection system with no written exam: the post is awarded by assessing each candidate's CV, experience and qualifications. It is commonly used to fill posts among civil servants already in active employment. Pronounced roughly: con-COOR-so deh MEH-ree-tos."
+        },
+        "porQue": "Filling this post strengthens IT management at the council, which has a direct impact on the digital services used by the residents of Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un coordinateur informatique",
+        "entradilla": "La mairie ouvre un poste technique par concours sur titres, avec une date limite fixée au 17 décembre.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a lancé la procédure pour pourvoir le poste de Coordinateur ou Coordinatrice Informatique. Ce poste est issu de l'Offre d'Emploi Public 2026 et sera pourvu par concours spécifique sur titres.",
+          "Toute personne souhaitant candidater dispose du 18 novembre au 17 décembre pour déposer sa demande. L'avis de concours est publié au BOE et l'annonce complète peut être consultée au BOPA."
+        ],
+        "apunte": "Un mois pour s'inscrire, mieux vaut donc ne pas laisser le CV pour le 16.",
+        "enVeinte": [
+          "La mairie de Villaviciosa ouvre un poste de Coordinateur ou Coordinatrice Informatique.",
+          "La procédure se fait par concours sur titres et la période de candidature va du 18 novembre au 17 décembre 2026.",
+          "L'avis de concours est publié au BOE et au BOPA."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "Système de sélection sans épreuve écrite : le poste est attribué en évaluant le curriculum vitæ, l'expérience et la formation de chaque candidat. Il est couramment utilisé pour pourvoir des postes parmi les fonctionnaires déjà en activité. Prononciation approximative : con-COUR-so de MEH-ri-tos."
+        },
+        "porQue": "Pourvoir ce poste renforce la gestion informatique de la mairie, ce qui a un impact direct sur les services numériques utilisés par les habitants de Villaviciosa.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht eine IT-Koordinatorin oder einen IT-Koordinator",
+        "entradilla": "Das Rathaus schreibt eine Fachstelle im Leistungswettbewerb aus; Bewerbungsschluss ist der 17. Dezember.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat das Verfahren zur Besetzung der Stelle der IT-Koordinatorin bzw. des IT-Koordinators eingeleitet. Die Stelle entstammt dem Öffentlichen Stellenangebot 2026 und wird durch einen spezifischen Leistungswettbewerb besetzt.",
+          "Interessierte können sich vom 18. November bis zum 17. Dezember bewerben. Die Ausschreibung ist im BOE veröffentlicht; die vollständige Bekanntmachung ist im BOPA einsehbar."
+        ],
+        "apunte": "Ein Monat Zeit zum Bewerben — den Lebenslauf also besser nicht bis zum 16. aufschieben.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt eine Stelle als IT-Koordinatorin oder IT-Koordinator aus.",
+          "Das Verfahren erfolgt als Leistungswettbewerb; die Bewerbungsfrist läuft vom 18. November bis zum 17. Dezember 2026.",
+          "Die Ausschreibung ist im BOE und im BOPA veröffentlicht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "concurso de méritos",
+          "como": "concursu de méritos",
+          "definicion": "Ein Auswahlverfahren ohne schriftliche Prüfung: Die Stelle wird vergeben, indem Lebenslauf, Berufserfahrung und Ausbildung jeder Bewerberin bzw. jedes Bewerbers bewertet werden. Es wird häufig zur Besetzung von Stellen unter bereits aktiven Beamtinnen und Beamten eingesetzt. Aussprache etwa: kon-KOUR-so de MEH-ri-tos."
+        },
+        "porQue": "Die Besetzung dieser Stelle stärkt das IT-Management des Rathauses, was sich unmittelbar auf die digitalen Dienste auswirkt, die die Bewohnerinnen und Bewohner von Villaviciosa nutzen.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
   },
   {
     "id": "305-000-euros-del-leader-para-la-manzana-y-los-llagares-en-la-comarca-",
@@ -3834,6 +4480,108 @@
     ]
   },
   {
+    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
+    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa busca arquitecto/a jefe para el Ayuntamiento",
+    "entradilla": "El proceso ya está en marcha y llega a la fase de valoración de méritos.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa cubre por concurso de méritos la plaza de arquitecto o arquitecta jefe, dentro de su Oferta de Empleo Público de 2026.",
+      "El procedimiento ha avanzado hasta la publicación de las listas definitivas de candidatos admitidos y excluidos, así como la composición del tribunal y la fecha en que se puntuarán los méritos."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa convoca por concurso de méritos la plaza de arquitecto o arquitecta jefe.",
+      "El proceso corresponde a la Oferta de Empleo Público de 2026 y ya están publicadas las listas definitivas de admitidos.",
+      "El tribunal y la fecha de valoración de méritos también han sido fijados."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Cubrir esta plaza refuerza los servicios técnicos municipales que gestionan licencias, obras y urbanismo en el concejo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "Ayuntamiento",
+      "arquitectura"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-11T06:57:26.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
+      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa is looking for a chief architect at the council",
+        "entradilla": "The process is already under way and has reached the merit assessment stage.",
+        "cuerpo": [
+          "The council of Villaviciosa is filling the post of chief architect through a merit-based competition, as part of its 2026 Public Employment Offer.",
+          "The procedure has advanced to the publication of the definitive lists of admitted and excluded candidates, as well as the composition of the panel and the date on which merits will be scored."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "The council of Villaviciosa is opening a merit-based competition for the post of chief architect.",
+          "The process is part of the 2026 Public Employment Offer and the definitive lists of admitted candidates have already been published.",
+          "The panel and the date for the merit assessment have also been set."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Filling this post strengthens the municipal technical services that handle licences, construction works and urban planning in the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un·e architecte en chef pour la mairie",
+        "entradilla": "Le processus est déjà en cours et est entré dans la phase d'évaluation des mérites.",
+        "cuerpo": [
+          "La mairie de Villaviciosa pourvoit par concours de mérites le poste d'architecte en chef, dans le cadre de son Offre d'emploi public 2026.",
+          "La procédure a avancé jusqu'à la publication des listes définitives de candidats admis et exclus, ainsi que la composition du jury et la date à laquelle les mérites seront évalués."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La mairie de Villaviciosa lance un concours de mérites pour le poste d'architecte en chef.",
+          "Le processus s'inscrit dans l'Offre d'emploi public 2026 et les listes définitives de candidats admis ont déjà été publiées.",
+          "Le jury et la date d'évaluation des mérites ont également été fixés."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Pourvoir ce poste renforce les services techniques municipaux chargés des permis, des travaux et de l'urbanisme dans la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht eine Chefarchitektin oder einen Chefarchitekten für das Rathaus",
+        "entradilla": "Das Verfahren ist bereits im Gang und befindet sich nun in der Phase der Leistungsbewertung.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa besetzt die Stelle der Chefarchitektin oder des Chefarchitekten im Rahmen seines Öffentlichen Stellenangebots 2026 durch ein Leistungsauswahlverfahren.",
+          "Das Verfahren hat die Veröffentlichung der endgültigen Listen der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber erreicht, ebenso wie die Zusammensetzung des Ausschusses und das Datum der Leistungsbewertung."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa schreibt die Stelle der Chefarchitektin oder des Chefarchitekten im Leistungsauswahlverfahren aus.",
+          "Das Verfahren gehört zum Öffentlichen Stellenangebot 2026; die endgültigen Listen der zugelassenen Bewerberinnen und Bewerber sind bereits veröffentlicht.",
+          "Der Ausschuss und das Datum der Leistungsbewertung wurden ebenfalls festgelegt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Die Besetzung dieser Stelle stärkt die kommunalen technischen Dienste, die in der Gemeinde für Genehmigungen, Bauvorhaben und Stadtplanung zuständig sind.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el",
     "url": "/nava/nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el/",
     "concejo": "Nava",
@@ -5116,246 +5864,6 @@
         },
         "palabra": null,
         "porQue": "Der Urriellu zieht jede Saison Wanderer von außerhalb an, die den Berg unterschätzen; wenn die Rettungseinsätze zunehmen, sind es die Einsatzkräfte der Gemeinde, die die Last tragen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien",
-    "url": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "Villaviciosa busca coordinador de informática",
-    "entradilla": "El Ayuntamiento abre un concurso de méritos para cubrir una plaza técnica que lleva pendiente desde la oferta de empleo de 2026.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa ha puesto en marcha el proceso selectivo para contratar a un coordinador o coordinadora de Informática. La plaza se cubre por concurso específico de méritos, lo que significa que se valora el historial profesional de los candidatos, no una oposición al uso.",
-      "La convocatoria está publicada en el BOPA y deriva de la Oferta de Empleo Público del año 2026. Quienes estén interesados deben consultar el anuncio oficial para conocer plazos, requisitos y documentación exigida."
-    ],
-    "apunte": "Si tienes curriculum y sabes de redes, el Ayuntamiento te está esperando.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa convoca un concurso de méritos para cubrir una plaza de coordinador o coordinadora de Informática.",
-      "La plaza forma parte de la Oferta de Empleo Público de 2026 y la selección se basa en los méritos acreditados, no en examen.",
-      "La convocatoria está publicada en el BOPA; hay que acudir al anuncio oficial para conocer plazos y requisitos."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "concurso de méritos",
-      "como": "concurso de méritos",
-      "definicion": "Sistema de selección para plazas públicas en el que no hay examen: se puntúa lo que el candidato ha hecho antes, experiencia, cursos y titulaciones. Distinto de la oposición clásica, donde se juega todo en el examen del día."
-    },
-    "porQue": "Cubrir esta plaza mejora la gestión interna del Ayuntamiento y, a la larga, los servicios digitales que el vecino ya usa o usará: sede electrónica, trámites en línea, atención municipal.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "informática",
-      "concurso de méritos"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-09T09:13:20.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20224914",
-      "titularOriginal": "Procedimiento selectivo de Coordinador/a de Informática del Ayuntamiento de Villaviciosa",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa seeks an IT coordinator",
-        "entradilla": "The council is running a merit-based competition to fill a technical post that has been pending since the 2026 public employment offer.",
-        "cuerpo": [
-          "Villaviciosa council has launched the selection process to hire an IT coordinator. The post is filled through a specific merit-based competition, meaning candidates are assessed on their professional track record, not through a traditional competitive exam.",
-          "The call is published in the BOPA and stems from the 2026 Public Employment Offer. Those interested should consult the official notice for deadlines, requirements and required documentation."
-        ],
-        "apunte": "If you have a CV and know your way around networks, the council is waiting for you.",
-        "enVeinte": [
-          "Villaviciosa council is running a merit-based competition to fill an IT coordinator post.",
-          "The post is part of the 2026 Public Employment Offer and selection is based on proven merits, not an exam.",
-          "The call is published in the BOPA; the official notice must be consulted for deadlines and requirements."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "concurso de méritos",
-          "definicion": "A selection process for public posts in which there is no exam: candidates are scored on what they have done before — experience, training courses and qualifications. This is different from the classic oposición, where everything rides on the exam on the day."
-        },
-        "porQue": "Filling this post improves the council's internal management and, in the long run, the digital services that residents already use or will use: the electronic office, online procedures, municipal assistance.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa recherche un coordinateur informatique",
-        "entradilla": "La mairie ouvre un concours sur titres pour pourvoir un poste technique en attente depuis l'offre d'emploi public de 2026.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a lancé le processus de sélection pour recruter un coordinateur ou une coordinatrice informatique. Le poste est pourvu par un concours spécifique sur titres, ce qui signifie que c'est le parcours professionnel des candidats qui est évalué, et non une épreuve classique.",
-          "L'appel à candidatures est publié au BOPA et découle de l'offre d'emploi public de 2026. Les personnes intéressées doivent consulter l'annonce officielle pour connaître les délais, les conditions requises et les documents à fournir."
-        ],
-        "apunte": "Si vous avez un CV et que vous connaissez les réseaux, la mairie vous attend.",
-        "enVeinte": [
-          "La mairie de Villaviciosa ouvre un concours sur titres pour pourvoir un poste de coordinateur ou coordinatrice informatique.",
-          "Le poste fait partie de l'offre d'emploi public de 2026 et la sélection repose sur les mérites justifiés, sans épreuve écrite.",
-          "L'appel est publié au BOPA ; il faut consulter l'annonce officielle pour connaître les délais et les conditions requises."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "concurso de méritos",
-          "definicion": "Mode de sélection pour les postes publics sans épreuve écrite : les candidats sont évalués sur ce qu'ils ont accompli auparavant — expérience, formations et diplômes. C'est différent de l'oposición classique, où tout se joue lors de l'examen du jour."
-        },
-        "porQue": "Pourvoir ce poste améliore la gestion interne de la mairie et, à terme, les services numériques que les habitants utilisent déjà ou utiliseront : guichet électronique, démarches en ligne, assistance municipale.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht einen IT-Koordinator",
-        "entradilla": "Das Rathaus schreibt einen Leistungswettbewerb aus, um eine Fachstelle zu besetzen, die seit dem Stellenangebot von 2026 aussteht.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa hat das Auswahlverfahren zur Einstellung eines IT-Koordinators bzw. einer IT-Koordinatorin eingeleitet. Die Stelle wird über einen spezifischen Leistungswettbewerb besetzt, was bedeutet, dass der berufliche Werdegang der Bewerberinnen und Bewerber bewertet wird und keine klassische Prüfung stattfindet.",
-          "Die Ausschreibung ist im BOPA veröffentlicht und geht auf das öffentliche Stellenangebot von 2026 zurück. Interessierte sollten die offizielle Bekanntmachung einsehen, um Fristen, Voraussetzungen und erforderliche Unterlagen zu erfahren."
-        ],
-        "apunte": "Wer einen Lebenslauf hat und sich mit Netzwerken auskennt: Das Rathaus wartet auf Sie.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa schreibt einen Leistungswettbewerb zur Besetzung einer Stelle als IT-Koordinator bzw. IT-Koordinatorin aus.",
-          "Die Stelle ist Teil des öffentlichen Stellenangebots von 2026; die Auswahl basiert auf nachgewiesenen Leistungen, nicht auf einer Prüfung.",
-          "Die Ausschreibung ist im BOPA veröffentlicht; die offizielle Bekanntmachung muss für Fristen und Anforderungen eingesehen werden."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "concurso de méritos",
-          "definicion": "Auswahlverfahren für öffentliche Stellen ohne Prüfung: Bewerberinnen und Bewerber werden anhand ihrer bisherigen Leistungen bewertet — Berufserfahrung, Fortbildungen und Qualifikationen. Dies unterscheidet sich von der klassischen oposición, bei der alles von der Prüfung am jeweiligen Tag abhängt."
-        },
-        "porQue": "Die Besetzung dieser Stelle verbessert die interne Verwaltung des Rathauses und langfristig die digitalen Dienste, die die Einwohnerinnen und Einwohner bereits nutzen oder künftig nutzen werden: elektronisches Amt, Online-Verfahren, kommunale Beratung.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "de la oferta de empleo publico del ano",
-      "la oferta de empleo publico del ano 2026"
-    ]
-  },
-  {
-    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
-    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa busca arquitecto/a jefe con concurso de méritos",
-    "entradilla": "El Ayuntamiento ya tiene la lista definitiva de candidatos y la fecha en que el tribunal valorará los expedientes.",
-    "cuerpo": [
-      "El Consistorio de Villaviciosa ha puesto en marcha el proceso para cubrir la plaza de arquitecto o arquitecta jefe, un puesto que sale de la Oferta de Empleo Público de 2026 y que se adjudicará por concurso de méritos.",
-      "El procedimiento ha avanzado: ya está publicada la lista definitiva de personas admitidas y excluidas, se ha designado el tribunal y se conoce la fecha en que comenzará la valoración de los expedientes."
-    ],
-    "apunte": "La técnica que revisa lo que se construye en el concejo lleva, al parecer, un tiempo sin titular fijo.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa convoca un concurso de méritos para cubrir la plaza de arquitecto o arquitecta jefe.",
-      "La lista definitiva de aspirantes admitidos y excluidos ya está publicada junto con la composición del tribunal.",
-      "El proceso arranca de la Oferta de Empleo Público de 2026 y la valoración de méritos tiene fecha fijada."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "concurso de méritos",
-      "como": "concurso de méritos",
-      "definicion": "Sistema de selección en el que no hay examen de oposición: quien más puntuación acumula por su historial profesional, formación y experiencia se queda con la plaza. Es la vía habitual para proveer puestos de promoción interna en las administraciones públicas."
-    },
-    "porQue": "Cubrir esta plaza significa que el concejo tendrá técnico municipal de referencia para licencias de obra, planeamiento y control urbanístico, servicios que afectan a cualquier vecino que quiera construir o reformar.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "Ayuntamiento",
-      "arquitectura"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "feria",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-09T09:02:56.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
-      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa seeks a chief architect through a merit-based competition",
-        "entradilla": "The council has already published the final list of candidates and the date on which the panel will assess the applications.",
-        "cuerpo": [
-          "The Consistorio de Villaviciosa has launched the process to fill the post of chief architect, a position arising from the 2026 Public Employment Offer that will be awarded through a merit-based competition.",
-          "The procedure has moved forward: the final list of admitted and excluded applicants has been published, the panel has been appointed, and the date on which the assessment of applications will begin is now known."
-        ],
-        "apunte": "The officer who reviews what is built in the municipality has apparently been without a permanent holder for some time.",
-        "enVeinte": [
-          "The council of Villaviciosa is holding a merit-based competition to fill the post of chief architect.",
-          "The final list of admitted and excluded applicants has been published along with the composition of the panel.",
-          "The process stems from the 2026 Public Employment Offer and a date has been set for the merit assessment."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "con-COOR-so de MEH-ree-tos",
-          "definicion": "A selection system in which there is no competitive examination: the applicant who accumulates the highest score based on their professional track record, qualifications and experience wins the post. It is the standard route for filling internal promotion vacancies in public administrations."
-        },
-        "porQue": "Filling this post means the municipality will have a permanent in-house technical officer responsible for building licences, planning and urban development oversight — services that affect any resident who wants to build or renovate.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa recherche un(e) architecte en chef par concours sur titres",
-        "entradilla": "La mairie a déjà publié la liste définitive des candidats et la date à laquelle le jury examinera les dossiers.",
-        "cuerpo": [
-          "Le Consistorio de Villaviciosa a lancé la procédure pour pourvoir le poste d'architecte en chef, un emploi issu de l'Offre d'Emploi Public 2026 qui sera attribué par concours sur titres.",
-          "La procédure a avancé : la liste définitive des candidats admis et exclus est publiée, le jury est désigné et la date à laquelle débutera l'examen des dossiers est connue."
-        ],
-        "apunte": "Le technicien chargé de contrôler les constructions dans la commune serait sans titulaire fixe depuis un certain temps.",
-        "enVeinte": [
-          "La mairie de Villaviciosa organise un concours sur titres pour pourvoir le poste d'architecte en chef.",
-          "La liste définitive des candidats admis et exclus est publiée, ainsi que la composition du jury.",
-          "La procédure découle de l'Offre d'Emploi Public 2026 et une date est fixée pour l'évaluation des titres."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "kon-KOUR-so de MEH-ri-tos",
-          "definicion": "Système de sélection sans épreuve de concours : le candidat qui cumule le plus de points grâce à son parcours professionnel, sa formation et son expérience obtient le poste. C'est la voie habituelle pour pourvoir les emplois de promotion interne dans les administrations publiques."
-        },
-        "porQue": "Pourvoir ce poste signifie que la commune disposera d'un technicien municipal de référence pour les permis de construire, l'urbanisme et le contrôle des constructions — des services qui concernent tout habitant souhaitant construire ou rénover.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht eine Chefarchitektin oder einen Chefarchitekten per Leistungswettbewerb",
-        "entradilla": "Das Rathaus hat bereits die endgültige Bewerberliste und das Datum veröffentlicht, an dem die Kommission die Unterlagen bewertet.",
-        "cuerpo": [
-          "Das Consistorio de Villaviciosa hat das Verfahren zur Besetzung der Stelle der Chefarchitektin bzw. des Chefarchitekten eingeleitet — ein Posten aus dem Öffentlichen Stellenangebot 2026, der per Leistungswettbewerb vergeben wird.",
-          "Das Verfahren hat Fortschritte gemacht: Die endgültige Liste der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber ist veröffentlicht, die Kommission ist ernannt und das Datum, an dem die Bewertung der Unterlagen beginnt, steht fest."
-        ],
-        "apunte": "Die Fachkraft, die die Bauvorhaben in der Gemeinde kontrolliert, soll seit einiger Zeit keine feste Stelleninhaberin bzw. keinen festen Stelleninhaber haben.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa schreibt einen Leistungswettbewerb zur Besetzung der Stelle der Chefarchitektin bzw. des Chefarchitekten aus.",
-          "Die endgültige Liste der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber sowie die Zusammensetzung der Kommission sind veröffentlicht.",
-          "Das Verfahren geht auf das Öffentliche Stellenangebot 2026 zurück; für die Leistungsbewertung ist ein Termin festgesetzt."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "concurso de méritos",
-          "como": "kon-KOUR-so de MEH-ri-tos",
-          "definicion": "Ein Auswahlverfahren ohne schriftliche Prüfung: Wer aufgrund von Berufserfahrung, Ausbildung und Werdegang die meisten Punkte erzielt, erhält die Stelle. Es ist der übliche Weg zur Besetzung von Beförderungsstellen im öffentlichen Dienst."
-        },
-        "porQue": "Die Besetzung dieser Stelle bedeutet, dass die Gemeinde eine feste kommunale Fachkraft für Baugenehmigungen, Stadtplanung und Bauaufsicht haben wird — Leistungen, die jeden Einwohner betreffen, der bauen oder sanieren möchte.",
         "lugar": "",
         "precio": ""
       }
@@ -45634,615 +46142,5 @@
         "precio": ""
       }
     }
-  },
-  {
-    "id": "la-gran-fiesta-del-asturcon-volvera-a-animar-la-majada-de-espineres-el",
-    "url": "/pilona/la-gran-fiesta-del-asturcon-volvera-a-animar-la-majada-de-espineres-el/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "La Majada de Espineres recibe el Asturcón este viernes",
-    "entradilla": "El alcalde de Piloña pregonará la fiesta y el de Oviedo se llevará el galardón del año.",
-    "cuerpo": [
-      "La fiesta del Asturcón vuelve este viernes 22 de agosto a la Majada de Espineres, en Piloña. El acto tiene dos protagonistas: el alcalde del concejo, que pronunciará el pregón, y el alcalde de Oviedo, que recibirá el título de Asturcón del Año.",
-      "Poco más da el material disponible sobre horarios o programa. Si tienes pensado acercarte, conviene estar atento a los canales del Ayuntamiento de Piloña para confirmar la hora de comienzo."
-    ],
-    "apunte": "El caballo más asturiano del año tiene su día, y esta vez el pregonero es de casa.",
-    "enVeinte": [
-      "La fiesta del Asturcón se celebra el 22 de agosto en la Majada de Espineres, en Piloña.",
-      "El alcalde de Piloña será el pregonero de la edición de este año.",
-      "El alcalde de Oviedo recibirá el galardón Asturcón del Año."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "majada",
-      "como": "majada, igual que se escribe",
-      "definicion": "Lugar en el monte donde el ganado descansa y pernocta, y donde se instalan los pastores durante la temporada de verano. En Asturias suelen ser espacios abiertos en altura, frecuentes en los concejos del oriente, que hoy acogen también romerías y fiestas populares."
-    },
-    "porQue": "Una fiesta de referencia en el oriente asturiano se celebra en el propio concejo, con el alcalde de Piloña como cara visible: es el tipo de evento que pone a Infiesto y sus parroquias en el mapa regional un día al año.",
-    "etiquetas": [
-      "Asturcón",
-      "Espineres",
-      "Piloña",
-      "fiesta"
-    ],
-    "fechaEvento": "2026-08-22",
-    "tipoEvento": "fiesta",
-    "lugar": "Majada de Espineres",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/20/fiesta-asturcon-kXNB-U301361616537ZcC-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-21T17:37:41.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/asturias/oriente/fiesta-asturcon-majada-espineres-20260820095956-nt.html",
-      "titularOriginal": "La gran fiesta del Asturcón volverá a animar la Majada de Espineres el 22 de agosto"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "La Majada de Espineres hosts the Asturcón this Friday",
-        "entradilla": "The mayor of Piloña will give the opening address and the mayor of Oviedo will receive this year's award.",
-        "cuerpo": [
-          "The Asturcón festival returns this Friday, 22 August, to La Majada de Espineres, in the municipality of Piloña. The event has two main figures: the mayor of the municipality, who will deliver the pregón (traditional opening address), and the mayor of Oviedo, who will receive the title of Asturcón del Año.",
-          "Little information is available on timings or the programme. If you are planning to attend, it is worth keeping an eye on the Ayuntamiento de Piloña's channels to confirm the start time."
-        ],
-        "apunte": "The most Asturian horse of the year gets its day, and this time the pregonero is a local.",
-        "enVeinte": [
-          "The Asturcón festival takes place on 22 August at La Majada de Espineres, in the municipality of Piloña.",
-          "The mayor of Piloña will be the pregonero for this year's edition.",
-          "The mayor of Oviedo will receive the Asturcón del Año award."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "majada",
-          "como": "majada, pronounced as written",
-          "definicion": "A place on the mountain where livestock rests and spends the night, and where shepherds set up camp during the summer season. In Asturias these are usually open upland spaces, common in the eastern municipalities, which today also host romerías and popular festivals."
-        },
-        "porQue": "A flagship festival in eastern Asturias is held in the municipality itself, with the mayor of Piloña as its public face: it is the kind of event that puts Infiesto and its parishes on the regional map once a year.",
-        "lugar": "Majada de Espineres",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Majada de Espineres accueille l'Asturcón ce vendredi",
-        "entradilla": "Le maire de Piloña prononcera le discours d'ouverture et celui d'Oviedo recevra le prix de l'année.",
-        "cuerpo": [
-          "La fête de l'Asturcón revient ce vendredi 22 août à la Majada de Espineres, dans la commune de Piloña. L'événement a deux figures centrales : le maire de la commune, qui prononcera le pregón (discours d'ouverture traditionnel), et le maire d'Oviedo, qui recevra le titre d'Asturcón del Año.",
-          "Les informations disponibles sur les horaires ou le programme sont très limitées. Si vous envisagez de vous y rendre, il est conseillé de surveiller les canaux de l'Ayuntamiento de Piloña pour confirmer l'heure de début."
-        ],
-        "apunte": "Le cheval le plus asturien de l'année a son grand jour, et cette fois le pregonero est du cru.",
-        "enVeinte": [
-          "La fête de l'Asturcón se tient le 22 août à la Majada de Espineres, dans la commune de Piloña.",
-          "Le maire de Piloña sera le pregonero de l'édition de cette année.",
-          "Le maire d'Oviedo recevra le prix Asturcón del Año."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "majada",
-          "como": "majada, qui se prononce comme il s'écrit",
-          "definicion": "Lieu en montagne où le bétail se repose et passe la nuit, et où les bergers s'installent pendant la saison estivale. En Asturies, ce sont généralement des espaces ouverts en altitude, fréquents dans les communes de l'est, qui accueillent aujourd'hui aussi des romerías et des fêtes populaires."
-        },
-        "porQue": "Une fête de référence dans l'est des Asturies se célèbre dans la commune même, avec le maire de Piloña comme visage public : c'est le genre d'événement qui met Infiesto et ses paroisses sur la carte régionale une fois par an.",
-        "lugar": "Majada de Espineres",
-        "precio": ""
-      },
-      "de": {
-        "titular": "La Majada de Espineres empfängt den Asturcón diesen Freitag",
-        "entradilla": "Der Bürgermeister von Piloña wird die Eröffnungsrede halten, der Bürgermeister von Oviedo erhält die Auszeichnung des Jahres.",
-        "cuerpo": [
-          "Das Fest des Asturcón kehrt diesen Freitag, den 22. August, zur Majada de Espineres in der Gemeinde Piloña zurück. Die Veranstaltung hat zwei zentrale Figuren: den Bürgermeister der Gemeinde, der den Pregón (traditionelle Eröffnungsrede) halten wird, und den Bürgermeister von Oviedo, der den Titel Asturcón del Año verliehen bekommt.",
-          "Über Zeitplan oder Programm liegen kaum Informationen vor. Wer vorhat hinzufahren, sollte die Kanäle des Ayuntamiento de Piloña im Auge behalten, um den genauen Beginn zu erfahren."
-        ],
-        "apunte": "Das asturischste Pferd des Jahres hat seinen großen Tag – und diesmal kommt der Pregonero aus der Gegend selbst.",
-        "enVeinte": [
-          "Das Fest des Asturcón findet am 22. August auf der Majada de Espineres in der Gemeinde Piloña statt.",
-          "Der Bürgermeister von Piloña wird der Pregonero der diesjährigen Ausgabe sein.",
-          "Der Bürgermeister von Oviedo erhält die Auszeichnung Asturcón del Año."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "majada",
-          "como": "majada, gesprochen wie geschrieben",
-          "definicion": "Ein Ort im Gebirge, wo das Vieh rastet und übernachtet und wo die Hirten während der Sommersaison ihr Lager aufschlagen. In Asturien handelt es sich meist um offene Hochlagen, die vor allem in den östlichen Gemeinden verbreitet sind und heute auch Romerías und Volksfeste beherbergen."
-        },
-        "porQue": "Ein bedeutendes Fest im östlichen Asturien wird in der Gemeinde selbst gefeiert, mit dem Bürgermeister von Piloña als öffentlichem Gesicht: Es ist die Art von Veranstaltung, die Infiesto und seine Pfarreien einmal im Jahr auf die regionale Landkarte bringt.",
-        "lugar": "Majada de Espineres",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayo",
-    "url": "/pilona/mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayo/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "avisos",
-    "titular": "11,4 millones para arreglar la N-634 en Piloña",
-    "entradilla": "El Ministerio de Transportes saca a concurso las obras de rehabilitación de más de treinta kilómetros entre Villamayor y Marcenado.",
-    "cuerpo": [
-      "La N-634 va a recibir una reforma en profundidad entre Villamayor y Marcenado, a su paso por Piloña, Nava y Siero. El Ministerio de Transportes ha puesto en marcha la licitación con un presupuesto de 11,4 millones de euros.",
-      "El grueso del trabajo es el firme: se fresa el asfalto deteriorado y se reponen las capas bituminosas. El proyecto también contempla sellar grietas, repintar la señalización horizontal, renovar las señales verticales y sustituir los sistemas de contención del tramo.",
-      "La actuación se encuadra en el Plan Extraordinario de mejora de firmes del Estado. Con esta inversión, el gasto acumulado en la red de carreteras de Asturias desde junio de 2018 supera los 240 millones de euros."
-    ],
-    "apunte": "Treinta kilómetros de baches con fecha de caducidad.",
-    "enVeinte": [
-      "El Ministerio de Transportes licita por 11,4 millones la rehabilitación del firme de la N-634 entre Villamayor y Marcenado.",
-      "Los trabajos afectan a más de treinta kilómetros del trazado que cruza Piloña, Nava y Siero, e incluyen asfalto, señalización y sistemas de contención.",
-      "La obra forma parte del Plan Extraordinario de firmes y eleva a más de 240 millones la inversión estatal en carreteras asturianas desde 2018."
-    ],
-    "cifra": {
-      "numero": "240",
-      "unidad": "millones de euros",
-      "glosa": "Es lo que el Estado lleva invertido en la red viaria de Asturias desde junio de 2018. Los 11,4 millones de esta obra se suman a esa cifra acumulada a través del Plan Extraordinario de mejora de firmes."
-    },
-    "palabra": null,
-    "porQue": "Quien recorre a diario la N-634 entre Piloña, Nava y Siero sabe bien el estado del firme; esta licitación es el paso previo a que las máquinas entren a trabajar de verdad.",
-    "etiquetas": [
-      "N-634",
-      "carreteras",
-      "Piloña",
-      "obras"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/N-634-Villamayor.jpg",
-    "fecha": "2026-08-21T13:15:59.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://coperibadesella.com/21/08/2026/mas-de-once-millones-para-mejorar-el-firme-de-la-n-634-entre-villamayor-y-marcenao/",
-      "titularOriginal": "Más de once millones para mejorar el firme de la N-634 entre Villamayor y Marcenao"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "€11.4 million to repair the N-634 in Piloña",
-        "entradilla": "The Ministry of Transport has opened a tender for the rehabilitation of more than thirty kilometres between Villamayor and Marcenado.",
-        "cuerpo": [
-          "The N-634 is set for a thorough overhaul between Villamayor and Marcenado, as it passes through the municipalities of Piloña, Nava and Siero. The Ministry of Transport has launched the tender with a budget of €11.4 million.",
-          "The bulk of the work concerns the road surface: the deteriorated asphalt will be milled and the bituminous layers replaced. The project also includes sealing cracks, repainting road markings, renewing vertical signs and replacing the containment systems along the stretch.",
-          "The works form part of the State's Extraordinary Road Surfacing Improvement Plan. With this investment, cumulative spending on the Asturian road network since June 2018 exceeds €240 million."
-        ],
-        "apunte": "Thirty kilometres of potholes with an expiry date.",
-        "enVeinte": [
-          "The Ministry of Transport has put the rehabilitation of the N-634 surface between Villamayor and Marcenado out to tender for €11.4 million.",
-          "The works affect more than thirty kilometres of the route running through Piloña, Nava and Siero, and include resurfacing, road markings and containment systems.",
-          "The project is part of the Extraordinary Road Surfacing Plan and brings total state investment in Asturian roads since 2018 to more than €240 million."
-        ],
-        "cifra": {
-          "numero": "240",
-          "unidad": "million euros",
-          "glosa": "This is the total the State has invested in the Asturian road network since June 2018. The €11.4 million from this project adds to that cumulative figure through the Extraordinary Road Surfacing Improvement Plan."
-        },
-        "palabra": null,
-        "porQue": "Anyone who drives the N-634 daily between Piloña, Nava and Siero knows the state of the road surface; this tender is the step before the machinery moves in to do the real work.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "11,4 millions d'euros pour rénover la N-634 à Piloña",
-        "entradilla": "Le ministère des Transports lance un appel d'offres pour la réhabilitation de plus de trente kilomètres entre Villamayor et Marcenado.",
-        "cuerpo": [
-          "La N-634 va faire l'objet d'une réforme en profondeur entre Villamayor et Marcenado, sur le tronçon traversant les communes de Piloña, Nava et Siero. Le ministère des Transports a lancé l'appel d'offres avec un budget de 11,4 millions d'euros.",
-          "L'essentiel des travaux porte sur la chaussée : le bitume dégradé sera fraisé et les couches bitumineuses remplacées. Le projet prévoit également de colmater les fissures, de repeindre la signalisation horizontale, de renouveler les panneaux verticaux et de remplacer les dispositifs de retenue du tronçon.",
-          "L'opération s'inscrit dans le Plan extraordinaire d'amélioration des chaussées de l'État. Avec cet investissement, les dépenses cumulées sur le réseau routier des Asturies depuis juin 2018 dépassent les 240 millions d'euros."
-        ],
-        "apunte": "Trente kilomètres de nids-de-poule avec une date de péremption.",
-        "enVeinte": [
-          "Le ministère des Transports lance un appel d'offres de 11,4 millions d'euros pour la réhabilitation de la chaussée de la N-634 entre Villamayor et Marcenado.",
-          "Les travaux concernent plus de trente kilomètres du tracé traversant Piloña, Nava et Siero, et incluent le revêtement, la signalisation et les dispositifs de retenue.",
-          "L'opération fait partie du Plan extraordinaire de chaussées et porte à plus de 240 millions d'euros l'investissement de l'État dans les routes asturiennes depuis 2018."
-        ],
-        "cifra": {
-          "numero": "240",
-          "unidad": "millions d'euros",
-          "glosa": "C'est ce que l'État a investi dans le réseau routier des Asturies depuis juin 2018. Les 11,4 millions de ce chantier viennent s'ajouter à ce total cumulé dans le cadre du Plan extraordinaire d'amélioration des chaussées."
-        },
-        "palabra": null,
-        "porQue": "Quiconque emprunte quotidiennement la N-634 entre Piloña, Nava et Siero connaît bien l'état de la chaussée ; cet appel d'offres est l'étape qui précède l'entrée en action des machines.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "11,4 Millionen Euro für die Sanierung der N-634 in Piloña",
-        "entradilla": "Das Verkehrsministerium schreibt die Rehabilitierungsarbeiten für mehr als dreißig Kilometer zwischen Villamayor und Marcenado aus.",
-        "cuerpo": [
-          "Die N-634 soll zwischen Villamayor und Marcenado, auf dem Abschnitt durch die Gemeinden Piloña, Nava und Siero, grundlegend erneuert werden. Das Verkehrsministerium hat die Ausschreibung mit einem Budget von 11,4 Millionen Euro eingeleitet.",
-          "Der Großteil der Arbeiten betrifft die Fahrbahn: Der beschädigte Asphalt wird gefräst und die Bitumenschichten erneuert. Das Projekt umfasst außerdem das Versiegeln von Rissen, das Neumarkieren der Fahrbahnmarkierungen, die Erneuerung der Verkehrszeichen und den Austausch der Rückhaltesysteme des Streckenabschnitts.",
-          "Die Maßnahme ist Teil des Außerordentlichen Staatsplans zur Verbesserung von Fahrbahnbelägen. Mit dieser Investition übersteigen die kumulierten Ausgaben für das Straßennetz Asturiens seit Juni 2018 die Marke von 240 Millionen Euro."
-        ],
-        "apunte": "Dreißig Kilometer Schlaglöcher mit Verfallsdatum.",
-        "enVeinte": [
-          "Das Verkehrsministerium schreibt die Sanierung des Fahrbahnbelags der N-634 zwischen Villamayor und Marcenado für 11,4 Millionen Euro aus.",
-          "Die Arbeiten betreffen mehr als dreißig Kilometer der Strecke durch Piloña, Nava und Siero und umfassen Asphalt, Markierungen und Rückhaltesysteme.",
-          "Das Vorhaben gehört zum Außerordentlichen Fahrbahnplan und hebt die staatlichen Investitionen in asturische Straßen seit 2018 auf über 240 Millionen Euro.",
-          "Die Maßnahme ist Teil des Außerordentlichen Staatsplans zur Verbesserung von Fahrbahnbelägen und bringt die staatlichen Gesamtinvestitionen in das asturische Straßennetz seit 2018 auf über 240 Millionen Euro."
-        ],
-        "cifra": {
-          "numero": "240",
-          "unidad": "Millionen Euro",
-          "glosa": "So viel hat der Staat seit Juni 2018 in das Straßennetz Asturiens investiert. Die 11,4 Millionen Euro dieses Projekts kommen im Rahmen des Außerordentlichen Plans zur Verbesserung von Fahrbahnbelägen zu dieser Gesamtsumme hinzu."
-        },
-        "palabra": null,
-        "porQue": "Wer die N-634 täglich zwischen Piloña, Nava und Siero befährt, kennt den Zustand der Fahrbahn nur zu gut; diese Ausschreibung ist der Schritt, bevor die Maschinen wirklich zu arbeiten beginnen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "el-ministerio-de-transportes-licita-en-11-4-millones-la-mejora-de-la-n",
-    "url": "/pilona/el-ministerio-de-transportes-licita-en-11-4-millones-la-mejora-de-la-n/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "avisos",
-    "titular": "Transportes pone 11,4 millones en la N-634",
-    "entradilla": "Treinta kilómetros de carretera entre Villamayor y Marcenado van a recibir una capa de firme nueva.",
-    "cuerpo": [
-      "El Ministerio de Transportes ha sacado a concurso la rehabilitación de un tramo de la N-634 por valor de 11,4 millones de euros. La obra afecta a treinta kilómetros de calzada que atraviesan los concejos de Siero, Piloña y Nava.",
-      "El tramo va de Villamayor a Marcenado, lo que incluye parte de la vía que usan a diario los vecinos de Infiesto y los pueblos del corredor central de Piloña para bajar a la autovía o subir hacia la costa."
-    ],
-    "apunte": "Treinta kilómetros de promesas asfaltadas: ahora toca ver cuándo empieza la máquina.",
-    "enVeinte": [
-      "El Ministerio de Transportes licita por 11,4 millones la mejora del firme en un tramo de 30 km de la N-634.",
-      "La obra pasa por Siero, Piloña y Nava, entre Villamayor y Marcenado.",
-      "De momento solo hay licitación; no se ha dado fecha de inicio de los trabajos."
-    ],
-    "cifra": {
-      "numero": "11,4 millones",
-      "unidad": "euros",
-      "glosa": "Es el presupuesto que el Ministerio pone encima de la mesa para renovar el firme. Dividido entre los treinta kilómetros del tramo, sale a unos 380.000 euros por kilómetro, una cifra habitual en rehabilitaciones de carretera nacional."
-    },
-    "palabra": null,
-    "porQue": "La N-634 es la columna vertebral del tráfico por el interior del oriente asturiano; si el firme mejora, el día a día de quien va y viene por ella cambia de verdad.",
-    "etiquetas": [
-      "N-634",
-      "obras",
-      "Piloña",
-      "carreteras"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/21/carretera-villamayor-RfvnlCaz8FINkdqlhpew69M-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-21T12:34:41.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Oriente",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/siero-centro/transportes-114-millones-mejora-n634-villamayor-marcenado-20260821143347-nt.html",
-      "titularOriginal": "El Ministerio de Transportes licita en 11,4 millones la mejora de la N-634 de Villamayor a Marcenado"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Transport Ministry puts 11.4 million into the N-634",
-        "entradilla": "Thirty kilometres of road between Villamayor and Marcenado are getting a new surface.",
-        "cuerpo": [
-          "The Ministry of Transport has put out to tender the resurfacing of a stretch of the N-634, worth 11.4 million euros. The work affects thirty kilometres of road running through the municipalities of Siero, Piloña and Nava.",
-          "The stretch runs from Villamayor to Marcenado, which includes part of the road used daily by residents of Infiesto and the villages of the central corridor of Piloña to get down to the motorway or up towards the coast."
-        ],
-        "apunte": "Thirty kilometres of paved promises: now let's see when the machinery actually shows up.",
-        "enVeinte": [
-          "The Ministry of Transport has put out to tender a 30 km stretch of the N-634 for 11.4 million euros.",
-          "The work passes through Siero, Piloña and Nava, between Villamayor and Marcenado.",
-          "For now there is only a tender; no start date for the works has been given."
-        ],
-        "cifra": {
-          "numero": "11.4 million",
-          "unidad": "euros",
-          "glosa": "This is the budget the Ministry is putting on the table to resurface the road. Divided across the thirty kilometres of the stretch, that works out to around 380,000 euros per kilometre, a figure typical for national road resurfacing projects."
-        },
-        "palabra": null,
-        "porQue": "The N-634 is the backbone of traffic through the interior of eastern Asturias; if the surface improves, the daily lives of everyone who travels along it will genuinely change.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le ministère des Transports investit 11,4 millions sur la N-634",
-        "entradilla": "Trente kilomètres de route entre Villamayor et Marcenado vont recevoir une nouvelle couche de revêtement.",
-        "cuerpo": [
-          "Le ministère des Transports a lancé un appel d'offres pour la réhabilitation d'un tronçon de la N-634 d'une valeur de 11,4 millions d'euros. Les travaux concernent trente kilomètres de chaussée traversant les communes de Siero, Piloña et Nava.",
-          "Le tronçon va de Villamayor à Marcenado, ce qui comprend une partie de la route empruntée chaque jour par les habitants d'Infiesto et les villages du couloir central de Piloña pour rejoindre l'autoroute ou remonter vers la côte."
-        ],
-        "apunte": "Trente kilomètres de promesses asphaltées : reste à voir quand les engins débarqueront vraiment.",
-        "enVeinte": [
-          "Le ministère des Transports lance un appel d'offres pour 11,4 millions d'euros afin d'améliorer le revêtement d'un tronçon de 30 km de la N-634.",
-          "Les travaux traversent Siero, Piloña et Nava, entre Villamayor et Marcenado.",
-          "Pour l'instant, il n'y a qu'un appel d'offres ; aucune date de début des travaux n'a été annoncée."
-        ],
-        "cifra": {
-          "numero": "11,4 millions",
-          "unidad": "euros",
-          "glosa": "C'est le budget que le ministère met sur la table pour rénover le revêtement. Divisé par les trente kilomètres du tronçon, cela représente environ 380 000 euros par kilomètre, un chiffre courant pour ce type de réhabilitation sur route nationale."
-        },
-        "palabra": null,
-        "porQue": "La N-634 est l'épine dorsale du trafic dans l'intérieur de l'est des Asturies ; si le revêtement s'améliore, le quotidien de ceux qui l'empruntent changera vraiment.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Verkehrsministerium stellt 11,4 Millionen für die N-634 bereit",
-        "entradilla": "Dreißig Kilometer Straße zwischen Villamayor und Marcenado erhalten einen neuen Belag.",
-        "cuerpo": [
-          "Das Verkehrsministerium hat die Sanierung eines Abschnitts der N-634 im Wert von 11,4 Millionen Euro ausgeschrieben. Die Arbeiten betreffen dreißig Kilometer Fahrbahn, die durch die Gemeinden Siero, Piloña und Nava verlaufen.",
-          "Der Abschnitt reicht von Villamayor bis Marcenado und schließt einen Teil der Straße ein, die die Bewohner von Infiesto und die Dörfer des zentralen Korridors von Piloña täglich nutzen, um zur Autobahn hinunter oder in Richtung Küste hinaufzufahren."
-        ],
-        "apunte": "Dreißig Kilometer asphaltierte Versprechen – jetzt bleibt abzuwarten, wann die Maschinen tatsächlich anrücken.",
-        "enVeinte": [
-          "Das Verkehrsministerium schreibt die Erneuerung des Belags auf einem 30 km langen Abschnitt der N-634 für 11,4 Millionen Euro aus.",
-          "Die Arbeiten verlaufen durch Siero, Piloña und Nava, zwischen Villamayor und Marcenado.",
-          "Bislang gibt es nur die Ausschreibung; ein Starttermin für die Arbeiten wurde noch nicht genannt."
-        ],
-        "cifra": {
-          "numero": "11,4 Millionen",
-          "unidad": "Euro",
-          "glosa": "Das ist das Budget, das das Ministerium für die Erneuerung des Straßenbelags bereitstellt. Auf die dreißig Kilometer des Abschnitts aufgeteilt ergibt das etwa 380.000 Euro pro Kilometer – ein bei Sanierungen von Nationalstraßen üblicher Wert."
-        },
-        "palabra": null,
-        "porQue": "Die N-634 ist das Rückgrat des Verkehrs im Inneren des östlichen Asturiens; verbessert sich der Belag, ändert sich der Alltag aller, die diese Straße nutzen, spürbar.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "villaviciosa-refuerza-su-alianza-con-el-comercio-y-los-autonomos-para-",
-    "url": "/villaviciosa/villaviciosa-refuerza-su-alianza-con-el-comercio-y-los-autonomos-para-/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Villaviciosa y Acosevi renuevan su acuerdo de comercio",
-    "entradilla": "El Ayuntamiento y la asociación de comerciantes vuelven a unir fuerzas para impulsar la actividad económica del concejo.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa y Acosevi, la asociación que agrupa a comercios y autónomos del concejo, han firmado una nueva renovación de su convenio de colaboración.",
-      "El objetivo es seguir trabajando juntos para dinamizar el tejido comercial local, aunque la fuente no detalla las acciones concretas que se pondrán en marcha."
-    ],
-    "apunte": "Un acuerdo que se renueva es una señal de que algo funciona, o de que nadie se ha atrevido a cancelarlo.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa y Acosevi han renovado su convenio de colaboración.",
-      "El acuerdo busca apoyar al comercio local y a los autónomos del concejo.",
-      "No se han dado a conocer aún las medidas concretas que se impulsarán."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Acosevi",
-      "como": "a-co-SE-vi",
-      "definicion": "Asociación de Comerciantes y Autónomos de Villaviciosa. Es la entidad que representa al pequeño comercio y a los trabajadores por cuenta propia del concejo, y el interlocutor habitual del Ayuntamiento en asuntos de desarrollo económico local."
-    },
-    "porQue": "Un convenio como este puede traducirse en campañas de promoción, ayudas o actividades que benefician directamente a quienes tienen un negocio o compran en el comercio de Villaviciosa.",
-    "etiquetas": [
-      "Villaviciosa",
-      "Acosevi",
-      "comercio",
-      "autónomos"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/21/convenio-villaviciosa-acosevi-RVVl4e33lkdF5XJO6Chrf2I-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-21T12:30:23.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-refuerza-alianza-comercio-autonomos-dinamizar-concejo-20260821122704-nt.html",
-      "titularOriginal": "Villaviciosa refuerza su alianza con el comercio y los autónomos para dinamizar el concejo"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa and Acosevi renew their trade agreement",
-        "entradilla": "The council and the traders' association join forces again to boost economic activity in the municipality.",
-        "cuerpo": [
-          "Villaviciosa council and Acosevi, the association representing shops and self-employed workers in the municipality, have signed a new renewal of their collaboration agreement.",
-          "The aim is to keep working together to strengthen the local retail sector, although the source gives no details of the specific measures to be introduced."
-        ],
-        "apunte": "An agreement that keeps getting renewed is a sign that something is working — or that nobody has dared to cancel it.",
-        "enVeinte": [
-          "Villaviciosa council and Acosevi have renewed their collaboration agreement.",
-          "The agreement aims to support local trade and the self-employed in the municipality.",
-          "The specific measures to be taken have not yet been announced."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Association of Traders and Self-Employed Workers of Villaviciosa. It is the body that represents small businesses and independent workers in the municipality, and the usual point of contact for the council on matters of local economic development."
-        },
-        "porQue": "An agreement like this can translate into promotional campaigns, grants or activities that directly benefit anyone who runs a business or shops locally in Villaviciosa.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa et Acosevi renouvellent leur accord commercial",
-        "entradilla": "La mairie et l'association de commerçants unissent à nouveau leurs forces pour dynamiser l'activité économique de la commune.",
-        "cuerpo": [
-          "La mairie de Villaviciosa et Acosevi, l'association qui regroupe commerces et travailleurs indépendants de la commune, ont signé un nouveau renouvellement de leur convention de collaboration.",
-          "L'objectif est de continuer à travailler ensemble pour dynamiser le tissu commercial local, même si la source ne précise pas les actions concrètes qui seront mises en œuvre."
-        ],
-        "apunte": "Un accord qui se renouvelle est le signe que quelque chose fonctionne — ou que personne n'a osé y mettre fin.",
-        "enVeinte": [
-          "La mairie de Villaviciosa et Acosevi ont renouvelé leur convention de collaboration.",
-          "L'accord vise à soutenir le commerce local et les travailleurs indépendants de la commune.",
-          "Les mesures concrètes qui seront mises en avant n'ont pas encore été annoncées."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Association de Commerçants et de Travailleurs Indépendants de Villaviciosa. C'est l'entité qui représente le petit commerce et les travailleurs indépendants de la commune, et l'interlocuteur habituel de la mairie pour les questions de développement économique local."
-        },
-        "porQue": "Une convention comme celle-ci peut se traduire par des campagnes de promotion, des aides ou des activités qui bénéficient directement à ceux qui tiennent un commerce ou font leurs achats dans le commerce local de Villaviciosa.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa und Acosevi erneuern ihre Handelsvereinbarung",
-        "entradilla": "Das Rathaus und der Händlerverband bündeln erneut ihre Kräfte, um die Wirtschaftstätigkeit der Gemeinde zu fördern.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa und Acosevi, der Verband, der die Geschäfte und Selbstständigen der Gemeinde vertritt, haben eine erneute Verlängerung ihrer Kooperationsvereinbarung unterzeichnet.",
-          "Ziel ist es, weiterhin gemeinsam daran zu arbeiten, das lokale Handelsgeflecht zu stärken, obwohl die Quelle keine konkreten Maßnahmen nennt, die umgesetzt werden sollen."
-        ],
-        "apunte": "Eine Vereinbarung, die immer wieder erneuert wird, ist ein Zeichen dafür, dass etwas funktioniert — oder dass niemand den Mut hatte, sie zu kündigen.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa und Acosevi haben ihre Kooperationsvereinbarung erneuert.",
-          "Die Vereinbarung soll den lokalen Handel und die Selbstständigen der Gemeinde unterstützen.",
-          "Die konkreten Maßnahmen, die gefördert werden sollen, wurden noch nicht bekannt gegeben."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Acosevi",
-          "como": "a-co-SE-vi",
-          "definicion": "Verband der Händler und Selbstständigen von Villaviciosa. Er vertritt den Kleinhandel und die selbstständig Erwerbstätigen der Gemeinde und ist der übliche Ansprechpartner des Rathauses in Fragen der lokalen Wirtschaftsentwicklung."
-        },
-        "porQue": "Eine solche Vereinbarung kann sich in Werbekampagnen, Fördermaßnahmen oder Veranstaltungen niederschlagen, von denen alle profitieren, die in Villaviciosa ein Geschäft betreiben oder im lokalen Handel einkaufen.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "infiesto-protagonista-del-xliv-dia-de-los-pueblos-de-asturias-en-navel",
-    "url": "/pilona/infiesto-protagonista-del-xliv-dia-de-los-pueblos-de-asturias-en-navel/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Infiesto lleva el nombre de Piloña a Navelgas",
-    "entradilla": "El 30 de agosto, el concejo protagoniza el Día de los Pueblos de Asturias con folclore, galardones y una mayada de trigo.",
-    "cuerpo": [
-      "Infiesto es este año la localidad protagonista del XLIV Día de los Pueblos de Asturias, una cita que se celebra en Navelgas el 30 de agosto.",
-      "El programa incluye entrega de galardones, actuaciones de folclore, una mayada de trigo y comida campestre al aire libre."
-    ],
-    "apunte": "Cuarenta y cuatro ediciones después, le toca a los de casa ponerse la banda.",
-    "enVeinte": [
-      "Infiesto es la localidad protagonista del XLIV Día de los Pueblos de Asturias, que se celebra en Navelgas el 30 de agosto.",
-      "El acto combina galardones, folclore y una mayada de trigo con comida campestre.",
-      "Es una de las citas más veteranas del calendario festivo asturiano y este año lleva el nombre de Piloña."
-    ],
-    "cifra": {
-      "numero": "44",
-      "unidad": "ediciones",
-      "glosa": "El Día de los Pueblos de Asturias lleva celebrándose 44 años. Cada edición elige una localidad protagonista distinta; este año le corresponde a Infiesto."
-    },
-    "palabra": {
-      "termino": "mayada",
-      "como": "ma-YA-da",
-      "definicion": "Faena tradicional asturiana en la que se trilla o trabaja el trigo de forma colectiva. En fiestas y encuentros folclóricos se recupera como demostración del trabajo del campo de otros tiempos."
-    },
-    "porQue": "Infiesto pone la cara de Piloña ante toda Asturias en uno de los encuentros de folclore y tradición más longevos de la región.",
-    "etiquetas": [
-      "Infiesto",
-      "Día de los Pueblos",
-      "folclore",
-      "Navelgas"
-    ],
-    "fechaEvento": "2026-08-30",
-    "tipoEvento": "fiesta",
-    "lugar": "Navelgas",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/21/2026082111365258271.jpg",
-    "fecha": "2026-08-21T12:00:00.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/infiesto-protagonista-dia-pueblos-asturias/20260821140000101969.html",
-      "titularOriginal": "Infiesto, protagonista del XLIV Día de los Pueblos de Asturias en Navelgas"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Infiesto brings the name of Piloña to Navelgas",
-        "entradilla": "On 30 August, the municipality takes centre stage at the Día de los Pueblos de Asturias with folk music, awards and a mayada (traditional communal wheat threshing).",
-        "cuerpo": [
-          "Infiesto is this year's featured town at the XLIV Día de los Pueblos de Asturias, an event held in Navelgas on 30 August.",
-          "The programme includes an awards ceremony, folk performances, a mayada of wheat and an open-air country lunch."
-        ],
-        "apunte": "Forty-four editions in, and it is finally the locals' turn to wear the sash.",
-        "enVeinte": [
-          "Infiesto is the featured town at the XLIV Día de los Pueblos de Asturias, held in Navelgas on 30 August.",
-          "The event combines awards, folk music and a mayada of wheat with an open-air country lunch.",
-          "It is one of the longest-running dates on the Asturian festive calendar, and this year it carries the name of Piloña."
-        ],
-        "cifra": {
-          "numero": "44",
-          "unidad": "editions",
-          "glosa": "The Día de los Pueblos de Asturias has been held for 44 years. Each edition chooses a different featured town; this year it is Infiesto's turn."
-        },
-        "palabra": {
-          "termino": "mayada",
-          "como": "ma-YA-da",
-          "definicion": "A traditional Asturian communal task in which wheat is threshed or worked collectively. At festivals and folk gatherings it is revived as a demonstration of the farm work of times past."
-        },
-        "porQue": "Infiesto puts the face of Piloña before all of Asturias at one of the longest-running folk and tradition gatherings in the area.",
-        "lugar": "Navelgas",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Infiesto porte le nom de Piloña à Navelgas",
-        "entradilla": "Le 30 août, la commune est à l'honneur lors du Día de los Pueblos de Asturias, avec folklore, récompenses et une mayada (battage collectif traditionnel du blé).",
-        "cuerpo": [
-          "Infiesto est cette année la localité à l'honneur lors du XLIV Día de los Pueblos de Asturias, une manifestation qui se tient à Navelgas le 30 août.",
-          "Le programme comprend une remise de récompenses, des spectacles de folklore, une mayada de blé et un repas champêtre en plein air."
-        ],
-        "apunte": "Quarante-quatre éditions plus tard, c'est enfin aux habitants d'ici de porter l'écharpe.",
-        "enVeinte": [
-          "Infiesto est la localité à l'honneur lors du XLIV Día de los Pueblos de Asturias, qui se tient à Navelgas le 30 août.",
-          "La manifestation associe récompenses, folklore et mayada de blé à un repas champêtre en plein air.",
-          "C'est l'un des rendez-vous les plus anciens du calendrier festif asturien, et cette année il porte le nom de Piloña."
-        ],
-        "cifra": {
-          "numero": "44",
-          "unidad": "éditions",
-          "glosa": "Le Día de los Pueblos de Asturias est célébré depuis 44 ans. Chaque édition choisit une localité différente à l'honneur ; cette année, c'est le tour d'Infiesto."
-        },
-        "palabra": {
-          "termino": "mayada",
-          "como": "ma-YA-da",
-          "definicion": "Tâche traditionnelle asturienne dans laquelle le blé est battu ou travaillé collectivement. Lors des fêtes et des rassemblements folkloriques, elle est remise à l'honneur comme démonstration du travail agricole d'autrefois."
-        },
-        "porQue": "Infiesto représente Piloña devant toute l'Asturies lors de l'un des rassemblements de folklore et de tradition les plus anciens de la région.",
-        "lugar": "Navelgas",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Infiesto trägt den Namen Piloñas nach Navelgas",
-        "entradilla": "Am 30. August steht die Gemeinde beim Día de los Pueblos de Asturias im Mittelpunkt – mit Folklore, Auszeichnungen und einer mayada (traditionelles gemeinschaftliches Weizendreschen).",
-        "cuerpo": [
-          "Infiesto ist in diesem Jahr der Gastgeberort des XLIV Día de los Pueblos de Asturias, der am 30. August in Navelgas stattfindet.",
-          "Das Programm umfasst eine Preisverleihung, Folkloreauftritte, eine mayada mit Weizen und ein Mittagessen im Freien."
-        ],
-        "apunte": "Nach vierundvierzig Ausgaben ist es endlich an den Einheimischen, die Schärpe zu tragen.",
-        "enVeinte": [
-          "Infiesto ist der Gastgeberort des XLIV Día de los Pueblos de Asturias, der am 30. August in Navelgas stattfindet.",
-          "Die Veranstaltung verbindet Auszeichnungen, Folklore und eine mayada mit Weizen mit einem Mittagessen im Freien.",
-          "Es ist eines der traditionsreichsten Feste im asturischen Festkalender, und in diesem Jahr trägt es den Namen Piloñas."
-        ],
-        "cifra": {
-          "numero": "44",
-          "unidad": "Ausgaben",
-          "glosa": "Der Día de los Pueblos de Asturias wird seit 44 Jahren gefeiert. Jede Ausgabe wählt einen anderen Gastgeberort; in diesem Jahr ist Infiesto an der Reihe."
-        },
-        "palabra": {
-          "termino": "mayada",
-          "como": "ma-YA-da",
-          "definicion": "Eine traditionelle asturische Gemeinschaftsarbeit, bei der Weizen gemeinsam gedroschen oder bearbeitet wird. Bei Festen und Folkloreveranstaltungen wird sie als Vorführung der Landarbeit vergangener Zeiten wieder lebendig gemacht."
-        },
-        "porQue": "Infiesto repräsentiert Piloña vor ganz Asturien bei einem der langlebigsten Folklore- und Traditionstreffen der Region.",
-        "lugar": "Navelgas",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "protagonista del xliv dia de los pueblos de",
-      "del xliv dia de los pueblos de asturias"
-    ]
   }
 ]

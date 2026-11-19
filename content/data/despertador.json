@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-19T08:55:58.794Z",
+  "fecha": "2026-11-19T18:16:31.386Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "El alcalde de Villaviciosa carga contra lo presupuestado para la senda a El Puntal y el saneamiento de Les Mariñes.",
-      "enlace": "/villaviciosa/el-alcalde-de-villaviciosa-ve-decepcionante-la-partida-regional-para-l/"
+      "frase": "Los embalses asturianos al 47%: la zona Nalón-Villaviciosa ya está en escasez moderada.",
+      "enlace": "/villaviciosa/los-embalses-asturianos-se-encuentran-al-47-de-su-capacidad/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "El Castañón de Quintes vuelve a abrir el 18 de diciembre, con nueva dirección.",
+      "enlace": "/villaviciosa/el-restaurante-castanon-de-quintes-reabrira-el-18-de-diciembre-con-nue/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "Villaviciosa busca coordinador de informática: plazo abierto hasta el 17 de diciembre.",
+      "enlace": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/"
     }
   ]
 }

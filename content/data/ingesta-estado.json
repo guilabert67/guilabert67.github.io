@@ -891,6 +891,16 @@
       "motivo": "duplicado de /villaviciosa/el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec/",
       "fecha": "2026-11-19T08:55:23.170Z",
       "titulo": "David Martínez Calderón gana el Certamen Nacional de Pintura de Villaviciosa 2026"
+    },
+    "elfielato.es/comarca-de-la-sidra/villaviciosa/david-martinez-calderon-certamen-pintura-villaviciosa/20261119101101105610.html": {
+      "motivo": "duplicado de /villaviciosa/el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec/",
+      "fecha": "2026-11-19T18:12:42.714Z",
+      "titulo": "David Martínez Calderón gana el Certamen Nacional de Pintura de Villaviciosa con “Lo que sostiene la imagen”"
+    },
+    "elbuscolu.com/noticias-de-cabrales/el-queso-cabrales-cueva-del-molin-logra-un-super-oro-en-los-world-cheese-awards-2026-11277268.html": {
+      "motivo": "mismo hecho que /cabrales/el-cabrales-cueva-del-molin-conquista-un-super-oro-en-los-world-cheese/",
+      "fecha": "2026-11-19T18:12:44.297Z",
+      "titulo": "El queso Cabrales Cueva del Molín logra un Super Oro en los World Cheese Awards 2026"
     }
   },
   "juicios": {
@@ -1049,6 +1059,14 @@
     "lacronicadepilona.com/la-musica-y-el-compromiso-cultural-protagonizan-las-avellanas-de-oro-de-la-coral-pilonesa|la-opera-de-oviedo-y-jose-ignacio-bosch-premiados-con-las-avellanas-de": {
       "r": "mismo",
       "fecha": "2026-11-18T10:40:37.006Z"
+    },
+    "villaviciosa.es/detalle-rss?articleid=19850230|proceso-selectivo-de-arquitecto-a-no-jefe": {
+      "r": "distinto",
+      "fecha": "2026-11-19T18:12:43.615Z"
+    },
+    "elbuscolu.com/noticias-de-cabrales/el-queso-cabrales-cueva-del-molin-logra-un-super-oro-en-los-world-cheese-awards-2026-11277268.html|el-cabrales-cueva-del-molin-conquista-un-super-oro-en-los-world-cheese": {
+      "r": "mismo",
+      "fecha": "2026-11-19T18:12:44.297Z"
     }
   }
 }

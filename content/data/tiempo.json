@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T08:55:58.861Z",
+  "actualizado": "2026-11-19T18:16:31.462Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -10,13 +10,13 @@
     },
     "nava": {
       "max": 15,
-      "min": 11,
+      "min": 10,
       "estado": "Orbayu",
       "lluvia": 63
     },
     "cabranes": {
       "max": 15,
-      "min": 10,
+      "min": 9,
       "estado": "Orbayu",
       "lluvia": 45
     },
