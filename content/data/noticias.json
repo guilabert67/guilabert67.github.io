@@ -1,5 +1,126 @@
 [
   {
+    "id": "el-alcalde-de-villaviciosa-ve-decepcionante-la-partida-regional-para-l",
+    "url": "/villaviciosa/el-alcalde-de-villaviciosa-ve-decepcionante-la-partida-regional-para-l/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Vega critica la partida regional para la senda a El Puntal",
+    "entradilla": "El alcalde de Villaviciosa también exige explicaciones por lo presupuestado para el saneamiento de Les Mariñes.",
+    "cuerpo": [
+      "Alejandro Vega, alcalde de Villaviciosa, ha calificado de decepcionante la cantidad que el Principado ha destinado a la senda costera hasta El Puntal, y la considera insuficiente para lo que el proyecto requiere.",
+      "El regidor ha pedido explicaciones además por la partida prevista para el saneamiento de Les Mariñes, otra obra que, a su juicio, llega mal dotada desde el presupuesto regional."
+    ],
+    "apunte": "Cuando el dinero que llega de arriba no alcanza para lo de abajo, alguien tiene que preguntar.",
+    "enVeinte": [
+      "El alcalde de Villaviciosa, Alejandro Vega, ha tachado de decepcionante la partida regional para la senda a El Puntal.",
+      "También reclama cuentas por los fondos presupuestados para el saneamiento de Les Mariñes, que considera insuficientes.",
+      "Por ahora no hay más detalles sobre las cifras concretas ni sobre la respuesta del Principado."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Les Mariñes",
+      "como": "les ma-RÍ-ñes",
+      "definicion": "Topónimo asturiano que designa las tierras bajas y húmedas próximas a la costa o a las rías. En Villaviciosa da nombre a una zona litoral con necesidades de saneamiento."
+    },
+    "porQue": "Si la financiación regional no cubre las obras de saneamiento y de acceso a la costa, los vecinos del concejo pueden ver retrasadas mejoras que afectan tanto a la calidad del agua como al disfrute del litoral.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Alejandro Vega",
+      "El Puntal",
+      "Les Mariñes"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/18/senda-%20puntal-villaviciosa-R7bF2A37HC8PEWrZQKVKNeL-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-18T19:12:24.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/alcalde-villaviciosa-decepcionante-partida-regional-senda-puntal-20261118201224-nt.html",
+      "titularOriginal": "El alcalde de Villaviciosa ve «decepcionante» la partida regional para la senda a El Puntal"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Vega criticises the regional allocation for the path to El Puntal",
+        "entradilla": "The mayor of Villaviciosa also demands explanations over the budget set aside for the Les Mariñes drainage works.",
+        "cuerpo": [
+          "Alejandro Vega, mayor of Villaviciosa, has described as disappointing the amount the Principality has allocated to the coastal path to El Puntal, and considers it insufficient for what the project requires.",
+          "The mayor has also asked for explanations regarding the allocation planned for the Les Mariñes drainage works, another project which, in his view, arrives poorly funded from the regional budget."
+        ],
+        "apunte": "When the money that comes from above is not enough for what lies below, someone has to ask questions.",
+        "enVeinte": [
+          "Alejandro Vega, mayor of Villaviciosa, has described the regional allocation for the path to El Puntal as disappointing.",
+          "He also demands accountability over the funds budgeted for the Les Mariñes drainage works, which he considers insufficient.",
+          "There are no further details yet on the specific figures or on the Principality's response."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Les Mariñes",
+          "como": "les ma-RÍ-ñes",
+          "definicion": "An Asturian place name referring to low-lying, damp land near the coast or the estuaries. In Villaviciosa it names a coastal area in need of drainage works."
+        },
+        "porQue": "If regional funding does not cover the drainage and coastal access works, residents of the municipality may see delayed improvements that affect both water quality and the enjoyment of the shoreline.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Vega critique la dotation régionale pour le chemin vers El Puntal",
+        "entradilla": "Le maire de Villaviciosa réclame également des explications sur les crédits budgétés pour l'assainissement de Les Mariñes.",
+        "cuerpo": [
+          "Alejandro Vega, maire de Villaviciosa, a qualifié de décevante la somme que la Principauté a allouée au chemin côtier jusqu'à El Puntal, et la juge insuffisante au regard de ce que le projet exige.",
+          "L'élu a également demandé des explications sur la dotation prévue pour l'assainissement de Les Mariñes, un autre chantier qui, selon lui, arrive mal financé depuis le budget régional."
+        ],
+        "apunte": "Quand l'argent qui vient d'en haut ne suffit pas pour ce qui est en bas, quelqu'un doit poser des questions.",
+        "enVeinte": [
+          "Alejandro Vega, maire de Villaviciosa, a qualifié de décevante la dotation régionale pour le chemin vers El Puntal.",
+          "Il réclame aussi des comptes sur les fonds budgétés pour l'assainissement de Les Mariñes, qu'il juge insuffisants.",
+          "Pour l'heure, aucun détail supplémentaire n'est disponible sur les chiffres précis ni sur la réponse de la Principauté."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Les Mariñes",
+          "como": "les ma-RÍ-ñes",
+          "definicion": "Toponyme asturien désignant les terres basses et humides proches du littoral ou des rias. À Villaviciosa, il donne son nom à une zone côtière dont les besoins en assainissement sont importants."
+        },
+        "porQue": "Si le financement régional ne couvre pas les travaux d'assainissement et d'accès au littoral, les habitants de la commune pourraient voir retardées des améliorations qui concernent aussi bien la qualité de l'eau que la jouissance du bord de mer.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Vega kritisiert den regionalen Haushaltsposten für den Weg nach El Puntal",
+        "entradilla": "Der Bürgermeister von Villaviciosa fordert außerdem Erklärungen zu den veranschlagten Mitteln für die Abwasserversorgung von Les Mariñes.",
+        "cuerpo": [
+          "Alejandro Vega, Bürgermeister von Villaviciosa, hat den Betrag, den das Fürstentum für den Küstenweg nach El Puntal bereitgestellt hat, als enttäuschend bezeichnet und hält ihn für das, was das Projekt erfordert, für unzureichend.",
+          "Der Bürgermeister hat zudem Erklärungen zu dem für die Abwasserversorgung von Les Mariñes vorgesehenen Posten verlangt — ein weiteres Vorhaben, das seiner Ansicht nach aus dem Regionalhaushalt unzureichend ausgestattet kommt."
+        ],
+        "apunte": "Wenn das Geld von oben nicht für das reicht, was unten gebraucht wird, muss jemand fragen.",
+        "enVeinte": [
+          "Alejandro Vega, Bürgermeister von Villaviciosa, hat den regionalen Haushaltsposten für den Weg nach El Puntal als enttäuschend bezeichnet.",
+          "Er fordert außerdem Rechenschaft über die für die Abwasserversorgung von Les Mariñes veranschlagten Mittel, die er für unzureichend hält.",
+          "Zu den genauen Zahlen und zur Reaktion des Fürstentums gibt es bislang keine weiteren Einzelheiten."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Les Mariñes",
+          "como": "les ma-RÍ-ñes",
+          "definicion": "Asturischer Ortsname für tief gelegenes, feuchtes Land nahe der Küste oder der Flussmündungen. In Villaviciosa bezeichnet er ein Küstengebiet, das Bedarf an Abwasserversorgung hat."
+        },
+        "porQue": "Wenn die Regionalmittel die Abwasser- und Küstenerschließungsmaßnahmen nicht abdecken, könnten die Bewohner der Gemeinde auf Verbesserungen warten müssen, die sowohl die Wasserqualität als auch die Nutzung des Küstenstreifens betreffen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la partida regional para la senda a el",
+      "partida regional para la senda a el puntal"
+    ]
+  },
+  {
     "id": "el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec",
     "url": "/villaviciosa/el-certamen-nacional-de-pintura-de-villaviciosa-premia-la-maestria-tec/",
     "concejo": "Villaviciosa",
