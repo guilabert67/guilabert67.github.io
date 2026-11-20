@@ -1,5 +1,106 @@
 [
   {
+    "id": "el-gaitero-convierte-su-bodega-de-villaviciosa-en-un-club-clandestino-",
+    "url": "/villaviciosa/el-gaitero-convierte-su-bodega-de-villaviciosa-en-un-club-clandestino-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "El Gaitero abre un club clandestino navideño",
+    "entradilla": "La bodega de Villaviciosa se viste de años 40 para recibir la Navidad con una cincuentena de rostros conocidos de las redes.",
+    "cuerpo": [
+      "La sidrerería El Gaitero transforma su bodega de Villaviciosa en el llamado 'Clandestine Club', una recreación de los clubes secretos de la década de 1940 con la que arranca la temporada navideña.",
+      "Al encuentro acuden Isasaweis, Celia García y alrededor de medio centenar de figuras de las redes sociales convocadas para la ocasión."
+    ],
+    "apunte": "Sidra, penumbra y influencers: la clandestinidad nunca había olido tan bien.",
+    "enVeinte": [
+      "El Gaitero convierte su bodega de Villaviciosa en un club de ambiente años 40 para celebrar la llegada de la Navidad.",
+      "Al acto asisten Isasaweis, Celia García y unos cincuenta nombres conocidos del mundo digital.",
+      "El evento se llama 'Clandestine Club' y sirve como presentación navideña de la marca."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "El Gaitero, referente sidrero de la comarca, usa su bodega como escenario de un evento de alcance nacional que pone el nombre de Villaviciosa en miles de publicaciones.",
+    "etiquetas": [
+      "El Gaitero",
+      "Villaviciosa",
+      "Navidad",
+      "eventos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "fiesta",
+    "lugar": "Bodega de El Gaitero, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/19/2026111917312336355.jpg",
+    "fecha": "2026-11-19T18:25:00.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/gaitero-convierte-bodega-villaviciosa-club-clandestino-anos-40-recibir-navidad/20261119173309105617.html",
+      "titularOriginal": "El Gaitero convierte su bodega de Villaviciosa en un club clandestino de los años 40 para recibir la Navidad"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "El Gaitero opens a secret Christmas club",
+        "entradilla": "The Villaviciosa cider house dresses up in a 1940s atmosphere to welcome Christmas with around fifty familiar faces from social media.",
+        "cuerpo": [
+          "El Gaitero cider house transforms its Villaviciosa cellar into the so-called 'Clandestine Club', a recreation of the secret clubs of the 1940s with which the Christmas season begins.",
+          "Isasaweis, Celia García and around fifty social media figures attend the gathering, all invited for the occasion."
+        ],
+        "apunte": "Cider, dim light and influencers: secrecy had never smelled this good.",
+        "enVeinte": [
+          "El Gaitero turns its Villaviciosa cellar into a 1940s-style club to mark the arrival of Christmas.",
+          "Isasaweis, Celia García and some fifty well-known names from the digital world attend the event.",
+          "The event is called 'Clandestine Club' and serves as the brand's Christmas launch."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Gaitero, a cider landmark of the county, uses its cellar as the setting for a nationwide event that places the name of Villaviciosa in thousands of posts.",
+        "lugar": "El Gaitero cellar, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "El Gaitero ouvre un club clandestin de Noël",
+        "entradilla": "La cidrerie de Villaviciosa se pare des années 40 pour accueillir Noël avec une cinquantaine de visages connus des réseaux sociaux.",
+        "cuerpo": [
+          "La cidrerie El Gaitero transforme sa cave de Villaviciosa en un certain «Clandestine Club», une recréation des clubs secrets des années 1940 qui marque le coup d'envoi de la saison de Noël.",
+          "Isasaweis, Celia García et une cinquantaine de personnalités des réseaux sociaux prennent part à la rencontre, toutes conviées pour l'occasion."
+        ],
+        "apunte": "Cidre, pénombre et influenceurs : la clandestinité n'avait jamais aussi bien senti.",
+        "enVeinte": [
+          "El Gaitero convertit sa cave de Villaviciosa en club années 40 pour célébrer l'arrivée de Noël.",
+          "Isasaweis, Celia García et une cinquantaine de noms connus du monde numérique assistent à l'événement.",
+          "L'événement s'appelle «Clandestine Club» et sert de lancement de Noël pour la marque."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Gaitero, référence cidrière de la commune, utilise sa cave comme décor d'un événement à portée nationale qui place le nom de Villaviciosa dans des milliers de publications.",
+        "lugar": "Cave de El Gaitero, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "El Gaitero eröffnet einen geheimen Weihnachtsclub",
+        "entradilla": "Die Cidre-Kellerei aus Villaviciosa kleidet sich in die Atmosphäre der 1940er Jahre, um Weihnachten mit rund fünfzig bekannten Gesichtern aus den sozialen Netzwerken zu begrüßen.",
+        "cuerpo": [
+          "Die Cidre-Kellerei El Gaitero verwandelt ihren Keller in Villaviciosa in den sogenannten «Clandestine Club», eine Neuerschaffung der Geheimclubs der 1940er Jahre, mit der die Weihnachtssaison eingeläutet wird.",
+          "Isasaweis, Celia García und rund fünfzig Social-Media-Persönlichkeiten nehmen an dem Treffen teil, die eigens dafür eingeladen wurden."
+        ],
+        "apunte": "Cidre, Halbdunkel und Influencer: Heimlichkeit hatte noch nie so gut gerochen.",
+        "enVeinte": [
+          "El Gaitero verwandelt seinen Keller in Villaviciosa in einen Club im Stil der 1940er Jahre, um die Ankunft von Weihnachten zu feiern.",
+          "Isasaweis, Celia García und rund fünfzig bekannte Namen aus der digitalen Welt nehmen an der Veranstaltung teil.",
+          "Die Veranstaltung trägt den Namen «Clandestine Club» und dient als weihnachtliche Markteinführung der Marke."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "El Gaitero, eine Cidre-Institution der Gemeinde, nutzt seinen Keller als Kulisse für eine landesweit wahrgenommene Veranstaltung, die den Namen Villaviciosa in Tausende von Beiträgen bringt.",
+        "lugar": "Keller von El Gaitero, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "el-agapornis-que-guio-el-arte-desde-jaen-hasta-villaviciosa",
     "url": "/villaviciosa/el-agapornis-que-guio-el-arte-desde-jaen-hasta-villaviciosa/",
     "concejo": "Villaviciosa",
