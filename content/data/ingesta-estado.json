@@ -901,6 +901,16 @@
       "motivo": "mismo hecho que /cabrales/el-cabrales-cueva-del-molin-conquista-un-super-oro-en-los-world-cheese/",
       "fecha": "2026-11-19T18:12:44.297Z",
       "titulo": "El queso Cabrales Cueva del Molín logra un Super Oro en los World Cheese Awards 2026"
+    },
+    "elfielato.es/comarca-de-la-sidra/villaviciosa/miguel-gonzalez-pereda-cronista-oficial-villaviciosa/20261120123015105694.html": {
+      "motivo": "mismo hecho que /villaviciosa/miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa/",
+      "fecha": "2026-11-20T16:30:23.294Z",
+      "titulo": "Miguel González Pereda tomó posesión como Cronista Oficial de Villaviciosa en una jornada histórica para los cronistas asturianos"
+    },
+    "elfielato.es/comarca-picos-europa/pilona/medio-rural-invierte-recuperacion-forestal-pilona/20261120135209105702.html": {
+      "motivo": "el material no da para una noticia",
+      "fecha": "2026-11-20T16:30:24.938Z",
+      "titulo": "Medio Rural invierte cerca de 500.000 euros en recuperación y mejora forestal en Piloña"
     }
   },
   "juicios": {
@@ -1071,6 +1081,10 @@
     "villaviciosa.es/detalle-rss?articleid=19804517|procedimiento-selectivo-de-arquitecto-a-jefe-a": {
       "r": "distinto",
       "fecha": "2026-11-20T07:50:23.329Z"
+    },
+    "elfielato.es/comarca-de-la-sidra/villaviciosa/miguel-gonzalez-pereda-cronista-oficial-villaviciosa/20261120123015105694.html|miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa": {
+      "r": "mismo",
+      "fecha": "2026-11-20T16:30:23.294Z"
     }
   }
 }
