@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-20T16:31:15.471Z",
+  "fecha": "2026-11-20T22:51:02.078Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Este domingo, niños con distintas capacidades surfean en Ribadesella con dos campeones europeos.",
-      "enlace": "/villaviciosa/ribadesella-acoge-el-domingo-una-jornada-de-surf-inclusivo-en-la-playa/"
+      "frase": "Villaviciosa arregla 14 caminos rurales con casi 390.000 euros.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-destina-387-766-euros-a-mejorar-14-cam/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Medio Rural planta 15.000 pinos en Piloña, cuarta repoblación tras el incendio de 2023.",
+      "enlace": "/pilona/medio-rural-destina-otros-111-000-euros-a-la-recuperacion-del-monte-cu/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "Cabrales acoge este fin de semana un foro sobre el futuro del rural.",
+      "enlace": "/cabrales/cien-personas-de-quince-ciudades-se-reunen-en-cabrales-para-debatir-el/"
     }
   ]
 }
