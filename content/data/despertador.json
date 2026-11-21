@@ -1,15 +1,20 @@
 {
-  "fecha": "2026-11-21T11:46:48.709Z",
+  "fecha": "2026-11-21T18:17:34.831Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "La Ruta de los Belenes de Villaviciosa crece: la iglesia de La Oliva se suma desde el 5 de diciembre.",
-      "enlace": "/villaviciosa/novedades-en-la-xi-ruta-de-los-belenes-de-villaviciosa-que-se-inaugura/"
+      "concejo": "Piloña",
+      "frase": "Medio Rural replanta casi 15.000 pinos en Piloña, dos años después del incendio de Cuesta de Coya.",
+      "enlace": "/pilona/medio-rural-destina-otros-111-000-euros-a-la-recuperacion-del-monte-cu/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Gerardo lleva 65 años coleccionando vasos de sidra: ya tiene 700 en casa.",
-      "enlace": "/villaviciosa/los-700-vasos-de-sidra-de-gerardo-rodriguez/"
+      "frase": "Villaviciosa arregla 14 caminos rurales con casi 390.000 euros de mejoras en firme y drenaje.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-destina-387-766-euros-a-mejorar-14-cam/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "Un centenar de personas de quince ciudades llegan este fin de semana a Cabrales a debatir el futuro rural.",
+      "enlace": "/cabrales/cien-personas-de-quince-ciudades-se-reunen-en-cabrales-para-debatir-el/"
     }
   ]
 }
