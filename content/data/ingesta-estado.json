@@ -911,6 +911,11 @@
       "motivo": "el material no da para una noticia",
       "fecha": "2026-11-20T16:30:24.938Z",
       "titulo": "Medio Rural invierte cerca de 500.000 euros en recuperación y mejora forestal en Piloña"
+    },
+    "elcomercio.es/gastronomia/clandestina-famosa-mundo-entero-sidra-gaitero-fiesta-prenavidena-20261120203704-nt.html": {
+      "motivo": "mismo hecho que /villaviciosa/el-gaitero-convierte-su-bodega-de-villaviciosa-en-un-club-clandestino-/",
+      "fecha": "2026-11-21T11:45:38.590Z",
+      "titulo": "El Gaitero convierte su bodega en club de los 40"
     }
   },
   "juicios": {
@@ -1085,6 +1090,10 @@
     "elfielato.es/comarca-de-la-sidra/villaviciosa/miguel-gonzalez-pereda-cronista-oficial-villaviciosa/20261120123015105694.html|miguel-gonzalez-pereda-es-el-nuevo-cronista-oficial-de-villaviciosa": {
       "r": "mismo",
       "fecha": "2026-11-20T16:30:23.294Z"
+    },
+    "elcomercio.es/gastronomia/clandestina-famosa-mundo-entero-sidra-gaitero-fiesta-prenavidena-20261120203704-nt.html|el-gaitero-convierte-su-bodega-de-villaviciosa-en-un-club-clandestino-": {
+      "r": "mismo",
+      "fecha": "2026-11-21T11:45:38.590Z"
     }
   }
 }

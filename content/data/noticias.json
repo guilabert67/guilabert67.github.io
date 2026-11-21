@@ -1,133 +1,248 @@
 [
   {
-    "id": "la-fiesta-prenavidena-de-el-gaitero-clandestina-pero-famosa-en-el-mund",
-    "url": "/villaviciosa/la-fiesta-prenavidena-de-el-gaitero-clandestina-pero-famosa-en-el-mund/",
+    "id": "los-700-vasos-de-sidra-de-gerardo-rodriguez",
+    "url": "/villaviciosa/los-700-vasos-de-sidra-de-gerardo-rodriguez/",
     "concejo": "Villaviciosa",
     "concejoSlug": "villaviciosa",
     "seccion": "deporte-y-cultura",
-    "titular": "El Gaitero convierte su bodega en club de los 40",
-    "entradilla": "La quinta edición de la Fiesta Prenavideña de El Gaitero llenó la bodega histórica de Villaviciosa de ambiente de posguerra, sidra y turrón.",
+    "titular": "Gerardo guarda 700 vasos de sidra en casa",
+    "entradilla": "La colección arranca en 1959 y tiene desde vasos pintados a mano en Xixón hasta una pieza tallada en madera de Os Ozcos.",
     "cuerpo": [
-      "La bodega histórica de El Gaitero, en Villaviciosa, acogió la quinta edición de su Fiesta Prenavideña con una ambientación de club nocturno de los años cuarenta.",
-      "Los asistentes brindaron con la sidra de la casa y probaron los turrones de la marca, en un evento que lleva ya cinco años consolidándose como cita prenavideña en el concejo."
+      "Gerardo Rodríguez lleva años guardando los vasos que se lleva de concursos, fiestas y catas. Sin proponérselo del todo, juntó cerca de 700. Los más viejos son de 1959 y 1961, y todavía conservan las pegatinas con que las sidrerías y los organizadores los personalizaban en aquella época.",
+      "Hay piezas pintadas a mano en la Galería Cornión de Xixón, vasos de catas celebradas en A Estrada y Escalante, y una serie entera dedicada al desembarco de Carlos V en Tazones. Algunos de los adhesivos más difíciles de localizar le costaron más de dos años de rastreo y conversaciones.",
+      "Entre todo el cristal, una pieza rompe la tónica: un vaso tallado en madera por un joven de Os Ozcos. Gerardo sigue buscando vasos y documentación para cerrar las series que aún le quedan incompletas."
     ],
-    "apunte": "Cinco años brindando en la bodega más famosa de Asturias, y la cosa sigue sin aburrirse.",
+    "apunte": "Setecientos vasos y ninguno en el fregadero.",
     "enVeinte": [
-      "El Gaitero celebró la quinta edición de su Fiesta Prenavideña en su bodega histórica de Villaviciosa.",
-      "La ambientación recreó un club nocturno de los años cuarenta, con sidra y turrones de la marca.",
-      "El evento se ha convertido en una cita fija del calendario prenavideño del concejo."
+      "Gerardo Rodríguez, de Villaviciosa, ha reunido unos 700 vasos de sidra de concursos, fiestas y catas a lo largo de los años.",
+      "Los más antiguos datan de 1959 y 1961; entre las piezas hay vasos pintados a mano, series de festivales y un vaso de madera tallado en Os Ozcos.",
+      "Gerardo sigue buscando piezas y documentación para completar las series que todavía le faltan."
     ],
     "cifra": {
-      "numero": "5",
-      "unidad": "ediciones",
-      "glosa": "La Fiesta Prenavideña de El Gaitero llega este año a su quinta edición. Desde que arrancó, la bodega histórica de Villaviciosa acoge cada año esta celebración antes de las navidades."
+      "numero": "700",
+      "unidad": "vasos de sidra",
+      "glosa": "Es el número aproximado de vasos que ha reunido Gerardo Rodríguez. Los más antiguos llevan más de sesenta años y algunos le costaron más de dos años de búsqueda."
     },
     "palabra": {
-      "termino": "llagar",
-      "como": "llagar, con elle asturiana",
-      "definicion": "Lugar donde se elabora la sidra: se prensa la manzana, fermenta el mosto y reposa el líquido hasta que está listo para escanciar. El de El Gaitero, en Villaviciosa, es uno de los más conocidos del mundo."
+      "termino": "cata",
+      "como": "cata, igual que en castellano estándar",
+      "definicion": "Prueba organizada para valorar sidras, normalmente con vasos específicos para el evento. En Asturias las catas tienen tradición propia y suelen ir ligadas a concursos y lllagares."
     },
-    "porQue": "El Gaitero es uno de los referentes económicos y simbólicos de Villaviciosa; que su bodega histórica abra para eventos así mantiene vivo el vínculo entre la empresa y el concejo.",
+    "porQue": "La colección recoge décadas de fiestas, sidrerías y celebraciones del concejo y la comarca: es memoria gráfica de una cultura que a veces se tira sin pensar.",
     "etiquetas": [
-      "El Gaitero",
-      "Villaviciosa",
       "sidra",
-      "fiesta prenavideña"
+      "coleccionismo",
+      "Villaviciosa",
+      "cultura popular"
     ],
     "fechaEvento": "",
-    "tipoEvento": "fiesta",
-    "lugar": "bodega histórica de El Gaitero, Villaviciosa",
+    "tipoEvento": "",
+    "lugar": "",
     "hora": "",
     "precio": "",
     "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/gastronomia/2026/11/20/gaitero-kCKE-U404634879752NB-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-11-20T21:52:37.000Z",
+    "imagenFuente": "",
+    "fecha": "2026-11-21T11:00:34.000Z",
     "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/gastronomia/clandestina-famosa-mundo-entero-sidra-gaitero-fiesta-prenavidena-20261120203704-nt.html",
-      "titularOriginal": "La fiesta prenavideña de El Gaitero: clandestina, pero famosa en el mundo entero"
+      "nombre": "La Sidra",
+      "url": "https://www.lasidra.net/es/los-700-vasos-de-sidra-de-gerardo-rodriguez/",
+      "titularOriginal": "Los 700 vasos de sidra de Gerardo Rodríguez"
     },
     "reescrito": true,
     "trad": {
       "en": {
-        "titular": "El Gaitero turns its cellar into a forties club",
-        "entradilla": "The fifth edition of El Gaitero's Fiesta Prenavideña filled the historic cellar of Villaviciosa with a postwar atmosphere, cider and nougat.",
+        "titular": "Gerardo keeps 700 cider glasses at home",
+        "entradilla": "The collection starts in 1959 and includes everything from hand-painted glasses made in Xixón to a piece carved from wood in Os Ozcos.",
         "cuerpo": [
-          "The historic cellar of El Gaitero, in Villaviciosa, hosted the fifth edition of its Fiesta Prenavideña with décor evoking a 1940s nightclub.",
-          "Guests toasted with the house cider and sampled the brand's nougat, at an event that has spent five years establishing itself as a pre-Christmas fixture in the municipality."
+          "Gerardo Rodríguez has spent years keeping the glasses he picks up at competitions, festivals and catas (organised tastings). Without quite meaning to, he accumulated nearly 700. The oldest date from 1959 and 1961, and still bear the stickers that cider houses and event organisers used to personalise them at the time.",
+          "Some pieces were hand-painted at the Galería Cornión in Xixón; others come from catas held in A Estrada and Escalante; and there is a whole series dedicated to the landing of Carlos V at Tazones. Some of the hardest-to-find stickers took him more than two years of searching and conversations.",
+          "Among all the glassware, one piece breaks the pattern: a glass carved from wood by a young man from Os Ozcos. Gerardo is still looking for glasses and documentation to complete the series he has yet to finish."
         ],
-        "apunte": "Five years toasting in the most famous cellar in Asturias, and it shows no sign of getting old.",
+        "apunte": "Seven hundred glasses and not one in the sink.",
         "enVeinte": [
-          "El Gaitero held the fifth edition of its Fiesta Prenavideña in its historic cellar in Villaviciosa.",
-          "The décor recreated a 1940s nightclub, with the brand's cider and nougat.",
-          "The event has become a regular date on the municipality's pre-Christmas calendar."
+          "Gerardo Rodríguez, from Villaviciosa, has gathered around 700 cider glasses from competitions, festivals and tastings over the years.",
+          "The oldest date from 1959 and 1961; the collection includes hand-painted glasses, festival series and a wooden glass carved in Os Ozcos.",
+          "Gerardo is still looking for pieces and documentation to complete the series he is missing."
         ],
         "cifra": {
-          "numero": "5",
-          "unidad": "editions",
-          "glosa": "El Gaitero's Fiesta Prenavideña reaches its fifth edition this year. Since it began, the historic cellar in Villaviciosa has hosted this celebration every year before Christmas."
+          "numero": "700",
+          "unidad": "cider glasses",
+          "glosa": "This is the approximate number of glasses Gerardo Rodríguez has gathered. The oldest have been around for more than sixty years and some took him over two years to track down."
         },
         "palabra": {
-          "termino": "llagar",
-          "como": "llagar, with the Asturian elle",
-          "definicion": "A place where cider is made: the apples are pressed, the must ferments and the liquid rests until it is ready to pour. El Gaitero's llagar, in Villaviciosa, is one of the best known in the world."
+          "termino": "cata",
+          "como": "cata, pronounced the same as in standard Spanish",
+          "definicion": "An organised tasting held to evaluate ciders, usually with glasses made specifically for the event. In Asturias, catas have their own tradition and are typically linked to competitions and llagares (cider mills)."
         },
-        "porQue": "El Gaitero is one of the economic and symbolic landmarks of Villaviciosa; opening its historic cellar for events like this keeps the bond between the company and the municipality alive.",
-        "lugar": "historic cellar of El Gaitero, Villaviciosa",
+        "porQue": "The collection spans decades of festivals, cider houses and celebrations across the municipality and the area: it is a visual record of a culture that is sometimes discarded without a second thought.",
+        "lugar": "",
         "precio": ""
       },
       "fr": {
-        "titular": "El Gaitero transforme sa cave en club des années quarante",
-        "entradilla": "La cinquième édition de la Fiesta Prenavideña d'El Gaitero a rempli la cave historique de Villaviciosa d'une ambiance d'après-guerre, de sidre et de touron.",
+        "titular": "Gerardo conserve 700 verres à cidre chez lui",
+        "entradilla": "La collection commence en 1959 et va des verres peints à la main à Xixón jusqu'à une pièce taillée dans le bois à Os Ozcos.",
         "cuerpo": [
-          "La cave historique d'El Gaitero, à Villaviciosa, a accueilli la cinquième édition de sa Fiesta Prenavideña dans une mise en scène évoquant un club nocturne des années quarante.",
-          "Les participants ont trinqué avec le sidre de la maison et goûté les tourons de la marque, lors d'un événement qui s'impose depuis cinq ans comme un rendez-vous de l'avant-Noël dans la commune."
+          "Gerardo Rodríguez passe des années à conserver les verres qu'il rapporte de concours, de fêtes et de catas (dégustations organisées). Sans vraiment le chercher, il en a réuni près de 700. Les plus anciens datent de 1959 et 1961 et portent encore les autocollants dont les cidreries et les organisateurs se servaient pour les personnaliser à l'époque.",
+          "Certaines pièces ont été peintes à la main à la Galería Cornión de Xixón ; d'autres viennent de catas organisées à A Estrada et à Escalante ; et il existe toute une série consacrée au débarquement de Carlos V à Tazones. Certains des autocollants les plus difficiles à trouver lui ont demandé plus de deux ans de recherches et d'échanges.",
+          "Parmi tout ce verre, une pièce tranche sur les autres : un verre taillé dans le bois par un jeune homme d'Os Ozcos. Gerardo continue de chercher des verres et des documents pour compléter les séries qu'il n'a pas encore terminées."
         ],
-        "apunte": "Cinq ans à trinquer dans la cave la plus célèbre des Asturies, et l'enthousiasme ne faiblit pas.",
+        "apunte": "Sept cents verres et pas un seul dans l'évier.",
         "enVeinte": [
-          "El Gaitero a célébré la cinquième édition de sa Fiesta Prenavideña dans sa cave historique de Villaviciosa.",
-          "La décoration recréait un club nocturne des années quarante, avec le sidre et les tourons de la marque.",
-          "L'événement est devenu un rendez-vous incontournable du calendrier de l'avant-Noël dans la commune."
+          "Gerardo Rodríguez, originaire de Villaviciosa, a réuni environ 700 verres à cidre provenant de concours, de fêtes et de dégustations au fil des années.",
+          "Les plus anciens datent de 1959 et 1961 ; parmi les pièces figurent des verres peints à la main, des séries de festivals et un verre en bois taillé à Os Ozcos.",
+          "Gerardo continue de chercher des pièces et des documents pour compléter les séries qu'il lui manque encore."
         ],
         "cifra": {
-          "numero": "5",
-          "unidad": "éditions",
-          "glosa": "La Fiesta Prenavideña d'El Gaitero atteint cette année sa cinquième édition. Depuis ses débuts, la cave historique de Villaviciosa accueille chaque année cette célébration avant les fêtes de Noël."
+          "numero": "700",
+          "unidad": "verres à cidre",
+          "glosa": "C'est le nombre approximatif de verres réunis par Gerardo Rodríguez. Les plus anciens ont plus de soixante ans et certains lui ont demandé plus de deux ans de recherche."
         },
         "palabra": {
-          "termino": "llagar",
-          "como": "llagar, avec le elle asturien",
-          "definicion": "Lieu où l'on fabrique le sidre : les pommes y sont pressées, le moût fermente et le liquide repose jusqu'à être prêt à être versé. Celui d'El Gaitero, à Villaviciosa, est l'un des plus connus au monde."
+          "termino": "cata",
+          "como": "cata, se prononce comme en espagnol standard",
+          "definicion": "Dégustation organisée pour évaluer des cidres, généralement avec des verres créés spécialement pour l'événement. En Asturies, les catas ont leur propre tradition et sont souvent liées à des concours et à des llagares (cidreries)."
         },
-        "porQue": "El Gaitero est l'un des repères économiques et symboliques de Villaviciosa ; ouvrir sa cave historique pour ce type d'événements entretient le lien entre l'entreprise et la commune.",
-        "lugar": "cave historique d'El Gaitero, Villaviciosa",
+        "porQue": "La collection rassemble des décennies de fêtes, de cidreries et de célébrations de la commune et de la région : c'est une mémoire visuelle d'une culture que l'on jette parfois sans y penser.",
+        "lugar": "",
         "precio": ""
       },
       "de": {
-        "titular": "El Gaitero verwandelt seinen Keller in einen Vierziger-Jahre-Club",
-        "entradilla": "Die fünfte Ausgabe der Fiesta Prenavideña von El Gaitero füllte den historischen Keller von Villaviciosa mit Nachkriegsatmosphäre, Cidre und Turrón.",
+        "titular": "Gerardo bewahrt 700 Cidre-Gläser zu Hause auf",
+        "entradilla": "Die Sammlung beginnt im Jahr 1959 und reicht von handbemalten Gläsern aus Xixón bis zu einem in Os Ozcos aus Holz geschnitzten Stück.",
         "cuerpo": [
-          "Der historische Keller von El Gaitero in Villaviciosa war Gastgeber der fünften Ausgabe seiner Fiesta Prenavideña, ausgestattet mit dem Ambiente eines Nachtclubs aus den Vierzigerjahren.",
-          "Die Gäste stießen mit dem Hauscidre an und probierten den Turrón der Marke — eine Veranstaltung, die sich seit fünf Jahren als vorweihnachtlicher Termin in der Gemeinde etabliert hat."
+          "Gerardo Rodríguez hebt seit Jahren die Gläser auf, die er bei Wettbewerben, Festen und Catas (organisierten Verkostungen) mitnimmt. Ohne es wirklich geplant zu haben, hat er knapp 700 zusammengetragen. Die ältesten stammen aus den Jahren 1959 und 1961 und tragen noch die Aufkleber, mit denen Cidre-Häuser und Veranstalter sie damals individualisierten.",
+          "Einige Stücke wurden in der Galería Cornión in Xixón von Hand bemalt; andere stammen von Catas in A Estrada und Escalante; und es gibt eine ganze Serie, die der Landung von Carlos V in Tazones gewidmet ist. Für einige der schwer aufzufindenden Aufkleber brauchte er mehr als zwei Jahre Suche und Gespräche.",
+          "Zwischen all dem Glas sticht ein Stück heraus: ein von einem jungen Mann aus Os Ozcos in Holz geschnitztes Glas. Gerardo sucht weiterhin nach Gläsern und Dokumenten, um die Serien zu vervollständigen, die ihm noch fehlen."
         ],
-        "apunte": "Fünf Jahre lang anstoßen im berühmtesten Keller Asturiens, und die Begeisterung lässt nicht nach.",
+        "apunte": "Siebenhundert Gläser — und keines davon im Spülbecken.",
         "enVeinte": [
-          "El Gaitero feierte die fünfte Ausgabe seiner Fiesta Prenavideña in seinem historischen Keller in Villaviciosa.",
-          "Die Dekoration stellte einen Nachtclub der Vierzigerjahre nach, mit Cidre und Turrón der Marke.",
-          "Die Veranstaltung ist zu einem festen Termin im vorweihnachtlichen Kalender der Gemeinde geworden."
+          "Gerardo Rodríguez aus Villaviciosa hat im Laufe der Jahre rund 700 Cidre-Gläser von Wettbewerben, Festen und Verkostungen zusammengetragen.",
+          "Die ältesten stammen aus den Jahren 1959 und 1961; darunter befinden sich handbemalte Gläser, Festival-Serien und ein in Os Ozcos aus Holz geschnitztes Glas.",
+          "Gerardo sucht weiterhin nach Stücken und Dokumenten, um die Serien zu vervollständigen, die ihm noch fehlen."
         ],
         "cifra": {
-          "numero": "5",
-          "unidad": "Ausgaben",
-          "glosa": "Die Fiesta Prenavideña von El Gaitero erreicht dieses Jahr ihre fünfte Ausgabe. Seit ihren Anfängen empfängt der historische Keller in Villaviciosa jedes Jahr diese Feier vor Weihnachten."
+          "numero": "700",
+          "unidad": "Cidre-Gläser",
+          "glosa": "Das ist die ungefähre Anzahl der Gläser, die Gerardo Rodríguez zusammengetragen hat. Die ältesten sind über sechzig Jahre alt, und für manche brauchte er mehr als zwei Jahre auf der Suche."
         },
         "palabra": {
-          "termino": "llagar",
-          "como": "llagar, mit dem asturischen Elle",
-          "definicion": "Ein Ort, an dem Cidre hergestellt wird: Die Äpfel werden gepresst, der Most gärt und die Flüssigkeit ruht, bis sie zum Einschenken bereit ist. Der llagar von El Gaitero in Villaviciosa ist einer der bekanntesten der Welt."
+          "termino": "cata",
+          "como": "cata, wird wie im Standardspanischen ausgesprochen",
+          "definicion": "Eine organisierte Verkostung zur Bewertung von Cidre-Sorten, üblicherweise mit eigens für die Veranstaltung hergestellten Gläsern. In Asturien haben Catas eine eigene Tradition und sind häufig mit Wettbewerben und Llagares (Cidre-Keltereien) verbunden."
         },
-        "porQue": "El Gaitero ist eines der wirtschaftlichen und symbolischen Wahrzeichen von Villaviciosa; die Öffnung des historischen Kellers für solche Veranstaltungen hält die Verbindung zwischen dem Unternehmen und der Gemeinde lebendig.",
-        "lugar": "historischer Keller von El Gaitero, Villaviciosa",
+        "porQue": "Die Sammlung umfasst Jahrzehnte von Festen, Cidre-Häusern und Feiern aus der Gemeinde und der Gegend: Sie ist ein visuelles Gedächtnis einer Kultur, die manchmal achtlos weggeworfen wird.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "hay piezas pintadas a mano en la galeria",
+      "piezas pintadas a mano en la galeria cornion",
+      "pintadas a mano en la galeria cornion de",
+      "a mano en la galeria cornion de xixon",
+      "mano en la galeria cornion de xixon vasos",
+      "en la galeria cornion de xixon vasos de",
+      "la galeria cornion de xixon vasos de catas",
+      "dedicada al desembarco de carlos v en tazones"
+    ]
+  },
+  {
+    "id": "novedades-en-la-xi-ruta-de-los-belenes-de-villaviciosa-que-se-inaugura",
+    "url": "/villaviciosa/novedades-en-la-xi-ruta-de-los-belenes-de-villaviciosa-que-se-inaugura/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La Ruta de los Belenes suma la iglesia de La Oliva",
+    "entradilla": "La undécima edición amplía el recorrido a partir del 5 de diciembre.",
+    "cuerpo": [
+      "La Ruta de los Belenes de Villaviciosa arranca el día 5 con una novedad: la iglesia de La Oliva se incorpora al itinerario, que crece así en su undécima edición.",
+      "Quien ya haya hecho el recorrido otros años encontrará, al menos, una parada nueva que justifica volver a calzarse los zapatos."
+    ],
+    "apunte": "Once años y la ruta todavía da sorpresas.",
+    "enVeinte": [
+      "La XI Ruta de los Belenes de Villaviciosa se inaugura el 5 de diciembre.",
+      "Esta edición incorpora la iglesia de La Oliva al recorrido.",
+      "Es la undécima vez que se celebra esta ruta navideña en el concejo."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si ya conocías la ruta, hay una parada nueva; si no la has hecho nunca, este es buen año para empezar.",
+    "etiquetas": [
+      "belenes",
+      "Villaviciosa",
+      "Navidad",
+      "ruta"
+    ],
+    "fechaEvento": "2026-12-05",
+    "tipoEvento": "expo",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/21/2026112111443549676.jpg",
+    "fecha": "2026-11-21T10:45:41.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/novedades-ruta-belenes-villaviciosa/20261121114541105722.html",
+      "titularOriginal": "Novedades en la XI Ruta de Los Belenes de Villaviciosa que se inaugura el día 5"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "La Ruta de los Belenes adds the church of La Oliva",
+        "entradilla": "The eleventh edition expands the route from 5 December.",
+        "cuerpo": [
+          "La Ruta de los Belenes de Villaviciosa kicks off on the 5th with a new addition: the church of La Oliva joins the itinerary, which grows with its eleventh edition.",
+          "Anyone who has done the route in previous years will find at least one new stop that makes it worth lacing up their shoes again."
+        ],
+        "apunte": "Eleven years in and the route still has surprises.",
+        "enVeinte": [
+          "La XI Ruta de los Belenes de Villaviciosa opens on 5 December.",
+          "This edition adds the church of La Oliva to the route.",
+          "It is the eleventh time this Christmas route has been held in the municipality."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you already know the route, there is a new stop; if you have never done it, this is a good year to start.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Ruta de los Belenes s'enrichit de l'église de La Oliva",
+        "entradilla": "La onzième édition élargit le parcours à partir du 5 décembre.",
+        "cuerpo": [
+          "La Ruta de los Belenes de Villaviciosa démarre le 5 avec une nouveauté : l'église de La Oliva rejoint l'itinéraire, qui s'étoffe ainsi pour sa onzième édition.",
+          "Ceux qui ont déjà fait le parcours les années précédentes trouveront au moins un nouvel arrêt qui justifie de rechausser ses souliers."
+        ],
+        "apunte": "Onze ans et la ruta réserve encore des surprises.",
+        "enVeinte": [
+          "La XI Ruta de los Belenes de Villaviciosa est inaugurée le 5 décembre.",
+          "Cette édition intègre l'église de La Oliva au parcours.",
+          "C'est la onzième fois que cette ruta de Noël est organisée dans la commune."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous connaissez déjà la ruta, il y a un nouvel arrêt ; si vous ne l'avez jamais faite, c'est une bonne année pour commencer.",
+        "lugar": "Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "La Ruta de los Belenes nimmt die Kirche La Oliva neu auf",
+        "entradilla": "Die elfte Ausgabe erweitert die Route ab dem 5. Dezember.",
+        "cuerpo": [
+          "La Ruta de los Belenes de Villaviciosa startet am 5. mit einer Neuerung: Die Kirche La Oliva wird in die Route aufgenommen, die damit in ihrer elften Ausgabe wächst.",
+          "Wer die Strecke in früheren Jahren bereits gegangen ist, findet mindestens eine neue Station, die es lohnt, die Schuhe noch einmal zu schnüren."
+        ],
+        "apunte": "Elf Jahre – und die Route hält noch immer Überraschungen bereit.",
+        "enVeinte": [
+          "La XI Ruta de los Belenes de Villaviciosa wird am 5. Dezember eröffnet.",
+          "Diese Ausgabe nimmt die Kirche La Oliva in die Route auf.",
+          "Es ist das elfte Mal, dass diese Weihnachtsroute in der Gemeinde stattfindet."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer die Route bereits kennt, findet eine neue Station; wer sie noch nie gemacht hat, dem bietet sich dieses Jahr ein guter Einstieg.",
+        "lugar": "Villaviciosa",
         "precio": ""
       }
     }
@@ -4958,132 +5073,6 @@
     }
   },
   {
-    "id": "cuenta-general-2025",
-    "url": "/villaviciosa/cuenta-general-2025/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa abre sus cuentas de 2025 al público",
-    "entradilla": "Cualquier vecino puede consultar y presentar alegaciones durante los próximos quince días.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa publicó el 3 de noviembre en el BOPA la Cuenta General del ejercicio 2025, lo que abre un plazo de quince días hábiles para que cualquier ciudadano pueda revisarla y, si lo ve necesario, presentar alegaciones.",
-      "El documento pasó por la Comisión de Hacienda el 26 de octubre y salió adelante con los seis votos del grupo socialista a favor y cinco abstenciones: cuatro del PP y una de la concejal no adscrita.",
-      "Una vez cerrado el plazo de consulta pública, las cuentas irán al Pleno para resolver posibles alegaciones y, después, a la Sindicatura de Cuentas del Principado de Asturias."
-    ],
-    "apunte": "Quince días para mirar en qué se fue el dinero.",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa ha hecho públicas sus cuentas de 2025 y abre un plazo de quince días para que los vecinos las consulten y aleguen lo que crean oportuno.",
-      "La Comisión de Hacienda aprobó el documento el 26 de octubre con los votos del PSOE y la abstención del PP y la concejal no adscrita.",
-      "Tras el plazo de alegaciones, las cuentas pasarán al Pleno y luego a la Sindicatura de Cuentas del Principado."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Sindicatura de Cuentas",
-      "como": "Sin-di-ca-tu-ra de Cuen-tas",
-      "definicion": "Es el órgano fiscalizador externo del Principado de Asturias, el equivalente asturiano al Tribunal de Cuentas estatal. Revisa que los ayuntamientos y otros entes públicos hayan manejado el dinero conforme a la ley."
-    },
-    "porQue": "Durante quince días cualquier vecino puede revisar en qué gastó el Ayuntamiento cada euro en 2025 y presentar alegaciones antes de que las cuentas queden aprobadas definitivamente.",
-    "etiquetas": [
-      "Villaviciosa",
-      "cuentas municipales",
-      "hacienda",
-      "BOPA"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-11T10:10:14.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20199103",
-      "titularOriginal": "CUENTA GENERAL 2025",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa opens its 2025 accounts to the public",
-        "entradilla": "Any resident can review them and submit objections over the next fifteen days.",
-        "cuerpo": [
-          "The council of Villaviciosa published the General Account for the 2025 financial year in the BOPA on 3 November, opening a fifteen working-day period during which any citizen may review it and, if they see fit, submit objections.",
-          "The document went before the Finance Committee on 26 October and was passed with six votes in favour from the socialist group and five abstentions: four from the PP and one from the non-attached councillor.",
-          "Once the public consultation period closes, the accounts will go to the Full Council to resolve any objections and, afterwards, to the Sindicatura de Cuentas del Principado de Asturias."
-        ],
-        "apunte": "Fifteen days to see where the money went.",
-        "enVeinte": [
-          "The council of Villaviciosa has made its 2025 accounts public and is opening a fifteen-day period for residents to review them and raise any objections they see fit.",
-          "The Finance Committee approved the document on 26 October with the votes of the PSOE and the abstention of the PP and the non-attached councillor.",
-          "After the objection period, the accounts will go to the Full Council and then to the Sindicatura de Cuentas del Principado."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sin-di-ca-tu-ra de Cuen-tas",
-          "definicion": "The external audit body of the Principado de Asturias, the Asturian equivalent of the national Tribunal de Cuentas. It reviews whether councils and other public bodies have managed public money in accordance with the law."
-        },
-        "porQue": "For fifteen days, any resident can review exactly how the council spent every euro in 2025 and submit objections before the accounts are definitively approved.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa ouvre ses comptes 2025 au public",
-        "entradilla": "Tout habitant peut les consulter et déposer des observations pendant les quinze prochains jours.",
-        "cuerpo": [
-          "La mairie de Villaviciosa a publié le 3 novembre au BOPA le Compte général de l'exercice 2025, ouvrant ainsi un délai de quinze jours ouvrables pendant lequel tout citoyen peut l'examiner et, s'il le juge nécessaire, déposer des observations.",
-          "Le document est passé devant la Commission des finances le 26 octobre et a été adopté avec les six voix du groupe socialiste et cinq abstentions : quatre du PP et une de la conseillère non inscrite.",
-          "Une fois le délai de consultation publique clos, les comptes seront soumis au Conseil plénier pour trancher les éventuelles observations, puis à la Sindicatura de Cuentas del Principado de Asturias."
-        ],
-        "apunte": "Quinze jours pour savoir où est passé l'argent.",
-        "enVeinte": [
-          "La mairie de Villaviciosa a rendu publics ses comptes 2025 et ouvre un délai de quinze jours pour que les habitants puissent les consulter et formuler les observations qu'ils jugent opportunes.",
-          "La Commission des finances a approuvé le document le 26 octobre avec les voix du PSOE et l'abstention du PP et de la conseillère non inscrite.",
-          "Après le délai d'observations, les comptes seront transmis au Conseil plénier, puis à la Sindicatura de Cuentas del Principado."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sin-di-ca-tu-ra de Cuen-tas",
-          "definicion": "L'organe de contrôle externe du Principado de Asturias, l'équivalent asturien du Tribunal de Cuentas national. Il vérifie que les mairies et autres entités publiques ont géré les fonds conformément à la loi."
-        },
-        "porQue": "Pendant quinze jours, tout habitant peut vérifier comment la mairie a dépensé chaque euro en 2025 et déposer des observations avant que les comptes soient définitivement approuvés.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa legt seine Konten für 2025 öffentlich vor",
-        "entradilla": "Jede Einwohnerin und jeder Einwohner kann sie in den nächsten fünfzehn Tagen einsehen und Einwände vorbringen.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa veröffentlichte am 3. November im BOPA den Jahresabschluss des Haushaltsjahres 2025. Damit beginnt eine Frist von fünfzehn Werktagen, in der jede Bürgerin und jeder Bürger den Abschluss prüfen und gegebenenfalls Einwände einreichen kann.",
-          "Das Dokument wurde am 26. Oktober im Finanzausschuss behandelt und mit den sechs Stimmen der sozialistischen Gruppe bei fünf Enthaltungen angenommen: vier vom PP und eine von der fraktionslosen Stadträtin.",
-          "Nach Ablauf der öffentlichen Konsultationsfrist werden die Konten dem Plenum zur Klärung etwaiger Einwände vorgelegt und anschließend an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet."
-        ],
-        "apunte": "Fünfzehn Tage, um nachzusehen, wohin das Geld geflossen ist.",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa hat seine Konten für 2025 veröffentlicht und eröffnet eine Frist von fünfzehn Tagen, in der die Einwohnerinnen und Einwohner sie einsehen und nach eigenem Ermessen Einwände erheben können.",
-          "Der Finanzausschuss billigte das Dokument am 26. Oktober mit den Stimmen der PSOE und der Enthaltung von PP und der fraktionslosen Stadträtin.",
-          "Nach der Einwendungsfrist gehen die Konten ans Plenum und dann an die Sindicatura de Cuentas del Principado."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Sindicatura de Cuentas",
-          "como": "Sin-di-ca-tu-ra de Cuen-tas",
-          "definicion": "Das externe Rechnungsprüfungsorgan des Principado de Asturias, das asturische Gegenstück zum nationalen Tribunal de Cuentas. Es überprüft, ob Rathäuser und andere öffentliche Einrichtungen die Haushaltsmittel gesetzeskonform verwendet haben."
-        },
-        "porQue": "Fünfzehn Tage lang kann jede Einwohnerin und jeder Einwohner nachvollziehen, wofür das Rathaus 2025 jeden Euro ausgegeben hat, und Einwände einreichen, bevor die Konten endgültig genehmigt werden.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "a la sindicatura de cuentas del principado de",
-      "la sindicatura de cuentas del principado de asturias"
-    ]
-  },
-  {
     "id": "rescatados-dos-senderistas-que-se-desorientaron-haciendo-una-ruta-entr",
     "url": "/cabrales/rescatados-dos-senderistas-que-se-desorientaron-haciendo-una-ruta-entr/",
     "concejo": "Cabrales",
@@ -5218,108 +5207,6 @@
     "revisar": [
       "los bomberos del servicio de emergencias del principado"
     ]
-  },
-  {
-    "id": "procedimiento-selectivo-de-arquitecto-a-jefe-a",
-    "url": "/villaviciosa/procedimiento-selectivo-de-arquitecto-a-jefe-a/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "avisos",
-    "titular": "Villaviciosa busca arquitecto/a jefe para el Ayuntamiento",
-    "entradilla": "El proceso ya está en marcha y llega a la fase de valoración de méritos.",
-    "cuerpo": [
-      "El Ayuntamiento de Villaviciosa cubre por concurso de méritos la plaza de arquitecto o arquitecta jefe, dentro de su Oferta de Empleo Público de 2026.",
-      "El procedimiento ha avanzado hasta la publicación de las listas definitivas de candidatos admitidos y excluidos, así como la composición del tribunal y la fecha en que se puntuarán los méritos."
-    ],
-    "apunte": "",
-    "enVeinte": [
-      "El Ayuntamiento de Villaviciosa convoca por concurso de méritos la plaza de arquitecto o arquitecta jefe.",
-      "El proceso corresponde a la Oferta de Empleo Público de 2026 y ya están publicadas las listas definitivas de admitidos.",
-      "El tribunal y la fecha de valoración de méritos también han sido fijados."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Cubrir esta plaza refuerza los servicios técnicos municipales que gestionan licencias, obras y urbanismo en el concejo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "empleo público",
-      "Ayuntamiento",
-      "arquitectura"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-11-11T06:57:26.000Z",
-    "fuente": {
-      "nombre": "Ayuntamiento de Villaviciosa",
-      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19850230",
-      "titularOriginal": "Procedimiento selectivo de Arquitecto/a jefe/a",
-      "oficial": true
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Villaviciosa is looking for a chief architect at the council",
-        "entradilla": "The process is already under way and has reached the merit assessment stage.",
-        "cuerpo": [
-          "The council of Villaviciosa is filling the post of chief architect through a merit-based competition, as part of its 2026 Public Employment Offer.",
-          "The procedure has advanced to the publication of the definitive lists of admitted and excluded candidates, as well as the composition of the panel and the date on which merits will be scored."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "The council of Villaviciosa is opening a merit-based competition for the post of chief architect.",
-          "The process is part of the 2026 Public Employment Offer and the definitive lists of admitted candidates have already been published.",
-          "The panel and the date for the merit assessment have also been set."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Filling this post strengthens the municipal technical services that handle licences, construction works and urban planning in the municipality.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Villaviciosa recherche un·e architecte en chef pour la mairie",
-        "entradilla": "Le processus est déjà en cours et est entré dans la phase d'évaluation des mérites.",
-        "cuerpo": [
-          "La mairie de Villaviciosa pourvoit par concours de mérites le poste d'architecte en chef, dans le cadre de son Offre d'emploi public 2026.",
-          "La procédure a avancé jusqu'à la publication des listes définitives de candidats admis et exclus, ainsi que la composition du jury et la date à laquelle les mérites seront évalués."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "La mairie de Villaviciosa lance un concours de mérites pour le poste d'architecte en chef.",
-          "Le processus s'inscrit dans l'Offre d'emploi public 2026 et les listes définitives de candidats admis ont déjà été publiées.",
-          "Le jury et la date d'évaluation des mérites ont également été fixés."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Pourvoir ce poste renforce les services techniques municipaux chargés des permis, des travaux et de l'urbanisme dans la commune.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Villaviciosa sucht eine Chefarchitektin oder einen Chefarchitekten für das Rathaus",
-        "entradilla": "Das Verfahren ist bereits im Gang und befindet sich nun in der Phase der Leistungsbewertung.",
-        "cuerpo": [
-          "Das Rathaus von Villaviciosa besetzt die Stelle der Chefarchitektin oder des Chefarchitekten im Rahmen seines Öffentlichen Stellenangebots 2026 durch ein Leistungsauswahlverfahren.",
-          "Das Verfahren hat die Veröffentlichung der endgültigen Listen der zugelassenen und ausgeschlossenen Bewerberinnen und Bewerber erreicht, ebenso wie die Zusammensetzung des Ausschusses und das Datum der Leistungsbewertung."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Das Rathaus von Villaviciosa schreibt die Stelle der Chefarchitektin oder des Chefarchitekten im Leistungsauswahlverfahren aus.",
-          "Das Verfahren gehört zum Öffentlichen Stellenangebot 2026; die endgültigen Listen der zugelassenen Bewerberinnen und Bewerber sind bereits veröffentlicht.",
-          "Der Ausschuss und das Datum der Leistungsbewertung wurden ebenfalls festgelegt."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Die Besetzung dieser Stelle stärkt die kommunalen technischen Dienste, die in der Gemeinde für Genehmigungen, Bauvorhaben und Stadtplanung zuständig sind.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   },
   {
     "id": "nava-acoge-el-i-encuentro-de-asociaciones-de-la-comarca-de-la-sidra-el",
@@ -46648,122 +46535,5 @@
       "bolos en la calle del concejo de pilona",
       "en la calle del concejo de pilona con"
     ]
-  },
-  {
-    "id": "peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los",
-    "url": "/villaviciosa/peon-en-villaviciosa-calienta-motores-para-seis-dias-de-fiesta-con-los/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Peón enciende seis días de fiesta el 28",
-    "entradilla": "La sociedad de festejos llega a este agosto con cincuenta años a las espaldas y con la intención de recuperar lo que considera la esencia de sus celebraciones.",
-    "cuerpo": [
-      "Las fiestas de Peón arrancan el 28 de agosto y se prolongarán durante seis días. La cita la organiza, como lleva haciendo medio siglo, la sociedad de festejos del lugar.",
-      "El medio siglo de vida de la organización marca el tono de esta edición, que según sus responsables busca volver a los valores que dieron origen a la fiesta."
-    ],
-    "apunte": "Cincuenta años organizando y aún con ganas de recuperar la esencia: eso sí que es resistencia.",
-    "enVeinte": [
-      "Las fiestas de Peón, en el concejo de Villaviciosa, comienzan el 28 de agosto y duran seis días.",
-      "La sociedad de festejos que las organiza cumple este año cincuenta años de historia.",
-      "Los organizadores dicen que esta edición quiere recuperar la esencia original de la celebración."
-    ],
-    "cifra": {
-      "numero": "50",
-      "unidad": "años",
-      "glosa": "Medio siglo lleva la sociedad de festejos de Peón poniendo en pie estas fiestas cada verano. Es mucho tiempo para mantener viva una cita de pueblo sin subvención garantizada ni manos de sobra."
-    },
-    "palabra": null,
-    "porQue": "Si vives en Peón o en los alrededores, ya sabes que la última semana de agosto tiene dueño: seis días de fiesta a partir del 28.",
-    "etiquetas": [
-      "Peón",
-      "fiestas",
-      "Villaviciosa",
-      "verano"
-    ],
-    "fechaEvento": "2026-08-28",
-    "tipoEvento": "fiesta",
-    "lugar": "Peón",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/21/peon-comision-RTnVXkoueEcjttrkTtL0W1N-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-23T07:59:53.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/peon-villaviciosa-calienta-motores-seis-dias-fiesta-20260821164956-nt.html",
-      "titularOriginal": "Peón, en Villaviciosa, calienta motores para seis días de fiesta con los que recuperar su «esencia»"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Peón kicks off six days of festivity on the 28th",
-        "entradilla": "The celebrations society reaches this August with fifty years behind it and the intention of recovering what it considers the essence of its festivities.",
-        "cuerpo": [
-          "The Peón festivities begin on 28 August and will run for six days. The event is organised, as it has been for half a century, by the local celebrations society.",
-          "The organisation's half-century marks the tone of this edition, which, according to those in charge, aims to return to the values that gave rise to the festival."
-        ],
-        "apunte": "Fifty years of organising and still eager to recover the essence: now that is resilience.",
-        "enVeinte": [
-          "The Peón festivities, in the municipality of Villaviciosa, begin on 28 August and last six days.",
-          "The celebrations society that organises them turns fifty this year.",
-          "The organisers say this edition aims to recover the original essence of the celebration."
-        ],
-        "cifra": {
-          "numero": "50",
-          "unidad": "years",
-          "glosa": "The Peón celebrations society has been putting these festivities together every summer for half a century. That is a long time to keep a village event alive without guaranteed funding or spare hands."
-        },
-        "palabra": null,
-        "porQue": "If you live in Peón or the surrounding area, you already know that the last week of August is spoken for: six days of festivity from the 28th.",
-        "lugar": "Peón",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Peón ouvre six jours de fête le 28",
-        "entradilla": "L'association de fêtes aborde ce mois d'août avec cinquante ans d'existence et la volonté de retrouver ce qu'elle considère comme l'essence de ses célébrations.",
-        "cuerpo": [
-          "Les fêtes de Peón débutent le 28 août et se prolongeront pendant six jours. La manifestation est organisée, comme elle le fait depuis un demi-siècle, par l'association locale de fêtes.",
-          "Le demi-siècle d'existence de l'organisation marque le ton de cette édition, qui, selon ses responsables, cherche à revenir aux valeurs qui ont donné naissance à la fête."
-        ],
-        "apunte": "Cinquante ans à organiser et toujours l'envie de retrouver l'essence : voilà ce qu'on appelle de la résistance.",
-        "enVeinte": [
-          "Les fêtes de Peón, dans la commune de Villaviciosa, commencent le 28 août et durent six jours.",
-          "L'association de fêtes qui les organise fête cette année ses cinquante ans d'existence.",
-          "Les organisateurs affirment que cette édition souhaite retrouver l'essence originelle de la célébration."
-        ],
-        "cifra": {
-          "numero": "50",
-          "unidad": "ans",
-          "glosa": "L'association de fêtes de Peón organise ces festivités chaque été depuis un demi-siècle. C'est long pour maintenir vivante une fête de village sans subvention garantie ni bras en trop."
-        },
-        "palabra": null,
-        "porQue": "Si vous habitez à Peón ou aux alentours, vous savez déjà que la dernière semaine d'août est réservée : six jours de fête à partir du 28.",
-        "lugar": "Peón",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Peón eröffnet am 28. sechs Festtage",
-        "entradilla": "Der Festverein erreicht diesen August mit fünfzig Jahren auf dem Buckel und dem Vorhaben, das zurückzuholen, was er als den Kern seiner Feierlichkeiten betrachtet.",
-        "cuerpo": [
-          "Die Feste von Peón beginnen am 28. August und dauern sechs Tage. Die Veranstaltung wird, wie seit einem halben Jahrhundert, vom örtlichen Festverein organisiert.",
-          "Das halbe Jahrhundert, das die Organisation besteht, prägt den Ton dieser Ausgabe, die laut ihren Verantwortlichen zu den Werten zurückfinden will, aus denen das Fest einst entstanden ist."
-        ],
-        "apunte": "Fünfzig Jahre lang organisieren und noch immer den Wunsch, den Kern wiederzufinden: Das ist wahrhaftige Ausdauer.",
-        "enVeinte": [
-          "Die Feste von Peón, in der Gemeinde Villaviciosa, beginnen am 28. August und dauern sechs Tage.",
-          "Der Festverein, der sie organisiert, feiert dieses Jahr sein fünfzigjähriges Bestehen.",
-          "Die Organisatoren sagen, diese Ausgabe wolle den ursprünglichen Kern der Feier zurückgewinnen."
-        ],
-        "cifra": {
-          "numero": "50",
-          "unidad": "Jahre",
-          "glosa": "Der Festverein von Peón stellt diese Feierlichkeiten seit einem halben Jahrhundert jeden Sommer auf die Beine. Das ist eine lange Zeit, um ein Dorffest am Leben zu erhalten — ohne gesicherte Förderung und ohne Hände im Überfluss."
-        },
-        "palabra": null,
-        "porQue": "Wer in Peón oder der Umgebung lebt, weiß: Die letzte Augustwoche gehört der Feier — sechs Tage ab dem 28.",
-        "lugar": "Peón",
-        "precio": ""
-      }
-    }
   }
 ]
