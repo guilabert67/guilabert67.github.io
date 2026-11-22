@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T11:58:06.232Z",
+  "actualizado": "2026-11-22T19:30:02.896Z",
   "fuente": "Open-Meteo",
   "concejos": {
     "pilona": {
@@ -16,19 +16,19 @@
     },
     "cabranes": {
       "max": 14,
-      "min": 7,
+      "min": 6,
       "estado": "Lluvia",
       "lluvia": 70
     },
     "cabrales": {
-      "max": 12,
+      "max": 13,
       "min": 7,
       "estado": "Lluvia",
       "lluvia": 100
     },
     "villaviciosa": {
       "max": 16,
-      "min": 9,
+      "min": 8,
       "estado": "Lluvia débil",
       "lluvia": 78
     }

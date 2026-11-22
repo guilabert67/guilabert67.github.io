@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-22T11:58:06.143Z",
+  "fecha": "2026-11-22T19:30:02.609Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "San Justo celebra el amagüestu este sábado 28, tras la esfoyaza de ayer.",
-      "enlace": "/villaviciosa/esfoyaza-en-san-justo-como-anticipo-de-la-castana-azabache-que-se-entr/"
+      "frase": "Villaviciosa arregla 14 caminos rurales con casi 390.000 euros.",
+      "enlace": "/villaviciosa/el-ayuntamiento-de-villaviciosa-destina-387-766-euros-a-mejorar-14-cam/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "Medio Rural planta casi 15.000 pinos en Piloña, cuarta actuación tras el incendio de 2023.",
+      "enlace": "/pilona/medio-rural-destina-otros-111-000-euros-a-la-recuperacion-del-monte-cu/"
+    },
+    {
+      "concejo": "Cabrales",
+      "frase": "Un centenar de personas de quince ciudades llegan a Cabrales este fin de semana para debatir el futuro rural.",
+      "enlace": "/cabrales/cien-personas-de-quince-ciudades-se-reunen-en-cabrales-para-debatir-el/"
     }
   ]
 }
