@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-23T08:10:30.400Z",
+  "fecha": "2026-11-23T20:25:38.570Z",
   "puntos": [
     {
+      "concejo": "Cabrales",
+      "frase": "Este martes en Berodia: simulacro real para aprender a frenar un incendio forestal.",
+      "enlace": "/cabrales/un-taller-en-berodia-ensenara-manana-a-los-vecinos-de-cabrales-a-prote/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "Alejandro Oliva gana el Clarín de Quintes en su edición número 25.",
-      "enlace": "/villaviciosa/la-sociedad-clarin-de-quintes-entrega-su-premio-de-relato-corto-a-alej/"
+      "frase": "Cuarenta tiendas de Villaviciosa reparten 400 euros si compras local esta semana.",
+      "enlace": "/villaviciosa/villaviciosa-le-da-la-vuelta-al-black-friday-compra-en-las-tiendas-de-/"
+    },
+    {
+      "concejo": "Villaviciosa",
+      "frase": "La Plaza de Abastos de Villaviciosa ya vende a cualquier hora, todos los días.",
+      "enlace": "/villaviciosa/la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-/"
     }
   ]
 }

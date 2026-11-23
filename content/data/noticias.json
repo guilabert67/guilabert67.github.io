@@ -1,5 +1,590 @@
 [
   {
+    "id": "villaviciosa-le-da-la-vuelta-al-black-friday-compra-en-las-tiendas-de-",
+    "url": "/villaviciosa/villaviciosa-le-da-la-vuelta-al-black-friday-compra-en-las-tiendas-de-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "Villaviciosa planta cara al Black Friday",
+    "entradilla": "Más de cuarenta tiendas de la villa reparten 400 euros en premios entre quienes compren esta semana en el comercio local.",
+    "cuerpo": [
+      "La campaña arranca hoy y es sencilla: hacer una compra de más de 20 euros en cualquiera de los establecimientos adheridos, rellenar una tarjeta y meterla en el buzón de la Plaza del Ayuntamiento.",
+      "Entre todas las participaciones se repartirán 400 euros, en premios de 100 euros cada uno, para gastar en Navidad en las mismas tiendas de la villa."
+    ],
+    "apunte": "El sorteo más fácil del año: compras donde siempre, rellenas una tarjeta y el premio se queda en casa.",
+    "enVeinte": [
+      "Más de 40 tiendas de Villaviciosa participan en una campaña que contrarresta el tirón del Black Friday con premios para gastar en Navidad.",
+      "Basta con comprar más de 20 euros, rellenar una tarjeta y depositarla en el buzón de la Plaza del Ayuntamiento.",
+      "En total se repartirán 400 euros en cheques de 100 euros canjeables en el comercio local."
+    ],
+    "cifra": {
+      "numero": "400",
+      "unidad": "euros",
+      "glosa": "Es el premio total que se repartirá entre los clientes que participen en la campaña, en bonos de 100 euros cada uno. Para ganarlo solo hay que comprar más de 20 euros en alguno de los más de 40 establecimientos adheridos."
+    },
+    "palabra": null,
+    "porQue": "Si vas a gastar estas fechas, hacerlo en las tiendas de la villa te mete en un sorteo con premio real; el dinero se queda en Villaviciosa y vuelve a ti si tienes suerte.",
+    "etiquetas": [
+      "Villaviciosa",
+      "comercio local",
+      "Black Friday",
+      "Navidad"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Plaza del Ayuntamiento, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-23T18:17:21.000Z",
+    "fuente": {
+      "nombre": "AsturiasMundial",
+      "url": "https://www.asturiasmundial.com/noticia/145199/villaviciosa-le-da-vuelta-black-friday-compra-tiendas-villa-podras-llevarte-100-euros-gastar-navidad/",
+      "titularOriginal": "Villaviciosa le da la vuelta al Black Friday: compra en las tiendas de la villa y podrás llevarte 100 euros para gastar en Navidad"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa pushes back against Black Friday",
+        "entradilla": "More than forty shops in the town are sharing out 400 euros in prizes among those who shop locally this week.",
+        "cuerpo": [
+          "The campaign starts today and it is simple: make a purchase of more than 20 euros in any of the participating shops, fill in a card and drop it in the ballot box at Plaza del Ayuntamiento.",
+          "From all the entries, 400 euros will be shared out in prizes of 100 euros each, to be spent at Christmas in the same shops in town."
+        ],
+        "apunte": "The easiest draw of the year: you shop where you always do, fill in a card, and the prize stays close to home.",
+        "enVeinte": [
+          "More than 40 shops in Villaviciosa are taking part in a campaign that counters the pull of Black Friday with prizes to spend at Christmas.",
+          "All you need to do is spend more than 20 euros, fill in a card and drop it in the ballot box at Plaza del Ayuntamiento.",
+          "A total of 400 euros will be shared out in 100-euro vouchers redeemable at local shops."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "euros",
+          "glosa": "This is the total prize pot to be shared among customers who take part in the campaign, in vouchers of 100 euros each. To be in with a chance, you simply need to spend more than 20 euros in one of the more than 40 participating shops."
+        },
+        "palabra": null,
+        "porQue": "If you are going to spend money at this time of year, doing so in the town's shops enters you into a draw with a real prize; the money stays in Villaviciosa and comes back to you if you are lucky.",
+        "lugar": "Plaza del Ayuntamiento, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa résiste au Black Friday",
+        "entradilla": "Plus de quarante commerces de la ville distribuent 400 euros de prix parmi ceux qui feront leurs achats en local cette semaine.",
+        "cuerpo": [
+          "La campagne démarre aujourd'hui et son fonctionnement est simple : effectuer un achat de plus de 20 euros dans l'un des établissements participants, remplir une carte et la glisser dans l'urne de la Plaza del Ayuntamiento.",
+          "Parmi toutes les participations, 400 euros seront distribués sous forme de prix de 100 euros chacun, à dépenser pour Noël dans les mêmes commerces de la ville."
+        ],
+        "apunte": "Le tirage au sort le plus facile de l'année : vous faites vos courses là où vous allez toujours, vous remplissez une carte et le prix reste près de chez vous.",
+        "enVeinte": [
+          "Plus de 40 commerces de Villaviciosa participent à une campagne qui contrebalance l'attrait du Black Friday avec des prix à dépenser à Noël.",
+          "Il suffit d'acheter pour plus de 20 euros, de remplir une carte et de la déposer dans l'urne de la Plaza del Ayuntamiento.",
+          "Au total, 400 euros seront distribués sous forme de bons de 100 euros utilisables dans les commerces locaux."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "euros",
+          "glosa": "C'est la dotation totale qui sera répartie entre les clients participant à la campagne, sous forme de bons de 100 euros chacun. Pour tenter sa chance, il suffit de dépenser plus de 20 euros dans l'un des plus de 40 établissements participants."
+        },
+        "palabra": null,
+        "porQue": "Si vous prévoyez de dépenser de l'argent en cette période, le faire dans les commerces de la ville vous inscrit à un tirage au sort avec un vrai prix ; l'argent reste à Villaviciosa et vous revient si vous avez de la chance.",
+        "lugar": "Plaza del Ayuntamiento, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa stemmt sich gegen den Black Friday",
+        "entradilla": "Mehr als vierzig Geschäfte des Ortes verteilen diese Woche 400 Euro an Preisen unter denjenigen, die lokal einkaufen.",
+        "cuerpo": [
+          "Die Kampagne startet heute und ist unkompliziert: einen Einkauf von mehr als 20 Euro in einem der teilnehmenden Geschäfte tätigen, eine Karte ausfüllen und in die Lostrommel an der Plaza del Ayuntamiento werfen.",
+          "Aus allen Teilnahmen werden 400 Euro in Preisen von jeweils 100 Euro ausgelost, die zu Weihnachten in denselben Geschäften des Ortes eingelöst werden können."
+        ],
+        "apunte": "Die einfachste Verlosung des Jahres: Sie kaufen dort ein, wo Sie es immer tun, füllen eine Karte aus, und der Gewinn bleibt in der Nähe.",
+        "enVeinte": [
+          "Mehr als 40 Geschäfte in Villaviciosa nehmen an einer Kampagne teil, die dem Sog des Black Friday mit Preisen entgegenwirkt, die zu Weihnachten eingelöst werden können.",
+          "Es genügt, mehr als 20 Euro auszugeben, eine Karte auszufüllen und sie in die Lostrommel an der Plaza del Ayuntamiento einzuwerfen.",
+          "Insgesamt werden 400 Euro in Gutscheinen von je 100 Euro ausgeschüttet, die im lokalen Handel einlösbar sind."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "euros",
+          "glosa": "Das ist der Gesamtpreis, der unter den an der Kampagne teilnehmenden Kunden in Form von Gutscheinen von je 100 Euro aufgeteilt wird. Um mitzumachen, reicht es, mehr als 20 Euro in einem der über 40 teilnehmenden Geschäfte auszugeben."
+        },
+        "palabra": null,
+        "porQue": "Wer in dieser Zeit Geld ausgeben möchte, nimmt durch einen Einkauf in den Geschäften des Ortes an einer Verlosung mit echtem Preis teil; das Geld bleibt in Villaviciosa und kehrt zu Ihnen zurück, wenn Sie Glück haben.",
+        "lugar": "Plaza del Ayuntamiento, Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en el buzon de la plaza del ayuntamiento"
+    ]
+  },
+  {
+    "id": "cabranes-reconocera-a-la-fundacion-belenos-en-el-memorial-joaquin-llor",
+    "url": "/cabranes/cabranes-reconocera-a-la-fundacion-belenos-en-el-memorial-joaquin-llor/",
+    "concejo": "Cabranes",
+    "concejoSlug": "cabranes",
+    "seccion": "agenda",
+    "titular": "Cabranes premia a la Fundación Belenos el 12-D",
+    "entradilla": "El Memorial Joaquín Lloris vuelve a Santolaya con música tradicional, asturianada y monólogos.",
+    "cuerpo": [
+      "La Casa de Cultura de Santolaya acoge el 12 de diciembre una nueva edición del Memorial Joaquín Lloris de Cultura Asturiana, que este año reconocerá el trabajo de la Fundación Belenos.",
+      "El acto reunirá música tradicional, asturianada y monólogos en homenaje a la cultura asturiana."
+    ],
+    "apunte": "La Fundación Belenos recoge el testigo de quienes llevan el asturiano más allá del papel.",
+    "enVeinte": [
+      "El 12 de diciembre, Santolaya celebra el Memorial Joaquín Lloris de Cultura Asturiana en su Casa de Cultura.",
+      "Este año el galardón recae en la Fundación Belenos.",
+      "El programa combina música tradicional, asturianada y monólogos."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "asturianada",
+      "como": "asturianada (igual en bable y en castellano de Asturias)",
+      "definicion": "Canción popular asturiana de estilo lírico, habitualmente interpretada en lengua asturiana o bable. Es uno de los géneros musicales de raíz más reconocibles de la región y suele tener su lugar fijo en actos de exaltación de la cultura propia."
+    },
+    "porQue": "El memorial mantiene viva en Cabranes la memoria de quienes trabajan por la cultura asturiana, y este año pone el foco en la Fundación Belenos, cuya labor tiene proyección más allá del concejo.",
+    "etiquetas": [
+      "Cabranes",
+      "Fundación Belenos",
+      "Memorial Joaquín Lloris",
+      "cultura asturiana"
+    ],
+    "fechaEvento": "2026-12-12",
+    "tipoEvento": "escena",
+    "lugar": "Casa de Cultura de Santolaya",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/cabranes-reconocera-a-la-fundacion-belenos-en-el-m-60ec76b5.jpg",
+    "fecha": "2026-11-23T15:09:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-cabranes/cabranes-reconocera-a-la-fundacion-belenos-en-el-memorial-joaquin-lloris-de-cultura-asturiana-2026-11277308.html",
+      "titularOriginal": "Cabranes reconocerá a la Fundación Belenos en el Memorial Joaquín Lloris de Cultura Asturiana 2026"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Cabranes awards the Fundación Belenos on 12 December",
+        "entradilla": "The Memorial Joaquín Lloris returns to Santolaya with traditional music, asturianada and monologues.",
+        "cuerpo": [
+          "The Casa de Cultura de Santolaya hosts a new edition of the Memorial Joaquín Lloris de Cultura Asturiana on 12 December, which this year will recognise the work of the Fundación Belenos.",
+          "The event will bring together traditional music, asturianada (a lyrical Asturian folk song) and monologues in homage to Asturian culture."
+        ],
+        "apunte": "The Fundación Belenos takes up the baton of those who carry the Asturian language beyond the written page.",
+        "enVeinte": [
+          "On 12 December, Santolaya celebrates the Memorial Joaquín Lloris de Cultura Asturiana at its Casa de Cultura.",
+          "This year the award goes to the Fundación Belenos.",
+          "The programme combines traditional music, asturianada and monologues."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "asturianada",
+          "como": "asturianada (same in bable and in Asturian Spanish)",
+          "definicion": "A popular Asturian song in a lyrical style, usually performed in Asturian or bable. It is one of the most recognisable root musical genres of the region and tends to have a fixed place in events celebrating local culture."
+        },
+        "porQue": "The memorial keeps alive in Cabranes the memory of those who work for Asturian culture, and this year it shines a light on the Fundación Belenos, whose work reaches beyond the municipality.",
+        "lugar": "Casa de Cultura de Santolaya",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Cabranes récompense la Fundación Belenos le 12 décembre",
+        "entradilla": "Le Memorial Joaquín Lloris revient à Santolaya avec de la musique traditionnelle, une asturianada et des monologues.",
+        "cuerpo": [
+          "La Casa de Cultura de Santolaya accueille le 12 décembre une nouvelle édition du Memorial Joaquín Lloris de Cultura Asturiana, qui récompensera cette année le travail de la Fundación Belenos.",
+          "La manifestation réunira musique traditionnelle, asturianada (chanson populaire asturienne de style lyrique) et monologues en hommage à la culture asturienne."
+        ],
+        "apunte": "La Fundación Belenos prend le relais de ceux qui portent l'asturien au-delà de la page écrite.",
+        "enVeinte": [
+          "Le 12 décembre, Santolaya célèbre le Memorial Joaquín Lloris de Cultura Asturiana dans sa Casa de Cultura.",
+          "Cette année, le prix est décerné à la Fundación Belenos.",
+          "Le programme mêle musique traditionnelle, asturianada et monologues."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "asturianada",
+          "como": "asturianada (identique en bable et en espagnol d'Asturies)",
+          "definicion": "Chanson populaire asturienne de style lyrique, habituellement interprétée en asturien ou en bable. C'est l'un des genres musicaux de racine les plus reconnaissables de la région et elle occupe généralement une place fixe dans les manifestations de célébration de la culture locale."
+        },
+        "porQue": "Le mémorial maintient vivant à Cabranes le souvenir de ceux qui œuvrent pour la culture asturienne, et cette année il met en lumière la Fundación Belenos, dont le travail rayonne au-delà de la commune.",
+        "lugar": "Casa de Cultura de Santolaya",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Cabranes zeichnet die Fundación Belenos am 12. Dezember aus",
+        "entradilla": "Das Memorial Joaquín Lloris kehrt nach Santolaya zurück – mit traditioneller Musik, Asturianada und Monologen.",
+        "cuerpo": [
+          "Die Casa de Cultura de Santolaya ist am 12. Dezember Gastgeberin einer neuen Ausgabe des Memorial Joaquín Lloris de Cultura Asturiana, das in diesem Jahr die Arbeit der Fundación Belenos würdigt.",
+          "Die Veranstaltung vereint traditionelle Musik, asturianada (ein lyrisches asturisches Volkslied) und Monologe als Hommage an die asturische Kultur."
+        ],
+        "apunte": "Die Fundación Belenos übernimmt den Staffelstab derer, die das Asturische über das geschriebene Wort hinausführen.",
+        "enVeinte": [
+          "Am 12. Dezember feiert Santolaya das Memorial Joaquín Lloris de Cultura Asturiana in seiner Casa de Cultura.",
+          "In diesem Jahr geht der Preis an die Fundación Belenos.",
+          "Das Programm verbindet traditionelle Musik, asturianada und Monologe."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "asturianada",
+          "como": "asturianada (gleich im Bable und im asturischen Spanisch)",
+          "definicion": "Ein volkstümliches asturisches Lied im lyrischen Stil, das üblicherweise auf Asturisch oder Bable vorgetragen wird. Es gehört zu den bekanntesten Volksmusikgattungen der Region und hat bei Veranstaltungen zur Feier der eigenen Kultur einen festen Platz."
+        },
+        "porQue": "Das Memorial hält in Cabranes die Erinnerung an jene lebendig, die für die asturische Kultur arbeiten. In diesem Jahr rückt es die Fundación Belenos in den Mittelpunkt, deren Wirken über die Gemeinde hinausstrahlt.",
+        "lugar": "Casa de Cultura de Santolaya",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "el 12 de diciembre una nueva edicion del",
+      "12 de diciembre una nueva edicion del memorial",
+      "reunira musica tradicional asturianada y monologos en homenaje",
+      "musica tradicional asturianada y monologos en homenaje a",
+      "tradicional asturianada y monologos en homenaje a la",
+      "asturianada y monologos en homenaje a la cultura",
+      "y monologos en homenaje a la cultura asturiana"
+    ]
+  },
+  {
+    "id": "la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-",
+    "url": "/villaviciosa/la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "La Plaza de Abastos abre las 24 horas",
+    "entradilla": "Cuarenta y ocho taquillas inteligentes permiten recoger la compra a cualquier hora del día, incluidos fines de semana y festivos.",
+    "cuerpo": [
+      "La Plaza de Abastos de Villaviciosa estrena un sistema de taquillas inteligentes que hace posible retirar la compra a cualquier hora, los 365 días del año. El móvil funciona como llave, así que no hace falta coincidir con el horario del mercado.",
+      "De las 48 taquillas instaladas, 28 cuentan con refrigeración para guardar productos frescos sin que se echen a perder mientras el comprador llega a recogerlos."
+    ],
+    "apunte": "Al final, el mercado que nunca cierra.",
+    "enVeinte": [
+      "La Plaza de Abastos de Villaviciosa instala 48 taquillas inteligentes para que los clientes retiren su compra a cualquier hora.",
+      "El móvil actúa como llave de acceso, sin necesidad de coincidir con el horario habitual del mercado.",
+      "28 de las taquillas son refrigeradas, lo que permite guardar productos frescos hasta que el comprador pase a buscarlos."
+    ],
+    "cifra": {
+      "numero": "28",
+      "unidad": "taquillas refrigeradas",
+      "glosa": "Más de la mitad de las 48 taquillas instaladas mantienen temperatura controlada. Eso significa que carnes, pescados o lácteos pueden esperar al comprador sin estropearse, aunque pasen horas desde que el vendedor los depositó."
+    },
+    "palabra": null,
+    "porQue": "Quien trabaja en horario de oficina o no puede pasarse por el mercado a primera hora ya no tiene que renunciar a comprar producto fresco en la Plaza de Abastos: recoge cuando puede, no cuando el puesto está abierto.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Plaza de Abastos",
+      "comercio",
+      "servicios"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Plaza de Abastos de Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/23/2026112311484463641.jpg",
+    "fecha": "2026-11-23T13:00:00.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/plaza-abastos-villaviciosa-abre-puertas-24-horas-48-taquillas-inteligentes/20261123140000105754.html",
+      "titularOriginal": "La Plaza de Abastos de Villaviciosa abre sus puertas las 24 horas con 48 taquillas inteligentes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Plaza de Abastos Opens 24 Hours",
+        "entradilla": "Forty-eight smart lockers allow shoppers to collect their purchases at any time of day, including weekends and public holidays.",
+        "cuerpo": [
+          "The Plaza de Abastos in Villaviciosa has launched a smart locker system that makes it possible to pick up purchases at any time, 365 days a year. Your phone works as the key, so there is no need to match the market's opening hours.",
+          "Of the 48 lockers installed, 28 are refrigerated to keep fresh produce from spoiling while shoppers make their way to collect it."
+        ],
+        "apunte": "The market that never closes.",
+        "enVeinte": [
+          "The Plaza de Abastos in Villaviciosa has installed 48 smart lockers so customers can collect their shopping at any time.",
+          "Your phone acts as the access key, with no need to arrive during the market's usual opening hours.",
+          "28 of the lockers are refrigerated, allowing fresh produce to be kept until the shopper comes to pick it up."
+        ],
+        "cifra": {
+          "numero": "28",
+          "unidad": "refrigerated lockers",
+          "glosa": "More than half of the 48 installed lockers maintain a controlled temperature. That means meat, fish and dairy products can wait for the shopper without spoiling, even hours after the vendor has placed them inside."
+        },
+        "palabra": null,
+        "porQue": "People who work office hours or cannot stop by the market first thing in the morning no longer have to give up buying fresh produce at the Plaza de Abastos: they collect it when they can, not when the stall is open.",
+        "lugar": "Plaza de Abastos de Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Plaza de Abastos ouvre 24 heures sur 24",
+        "entradilla": "Quarante-huit casiers intelligents permettent de récupérer ses achats à toute heure du jour, y compris les week-ends et les jours fériés.",
+        "cuerpo": [
+          "La Plaza de Abastos de Villaviciosa inaugure un système de casiers intelligents qui permet de retirer ses achats à n'importe quelle heure, 365 jours par an. Le téléphone fait office de clé, il n'est donc plus nécessaire de se plier aux horaires du marché.",
+          "Sur les 48 casiers installés, 28 sont réfrigérés afin de conserver les produits frais sans qu'ils se détériorent pendant que l'acheteur vient les récupérer."
+        ],
+        "apunte": "Le marché qui ne ferme jamais.",
+        "enVeinte": [
+          "La Plaza de Abastos de Villaviciosa installe 48 casiers intelligents pour que les clients puissent retirer leurs achats à toute heure.",
+          "Le téléphone sert de clé d'accès, sans avoir à arriver pendant les horaires habituels du marché.",
+          "28 des casiers sont réfrigérés, ce qui permet de conserver les produits frais jusqu'à ce que l'acheteur passe les chercher."
+        ],
+        "cifra": {
+          "numero": "28",
+          "unidad": "casiers réfrigérés",
+          "glosa": "Plus de la moitié des 48 casiers installés maintiennent une température contrôlée. Cela signifie que les viandes, poissons ou produits laitiers peuvent attendre l'acheteur sans se détériorer, même plusieurs heures après que le vendeur les y a déposés."
+        },
+        "palabra": null,
+        "porQue": "Les personnes qui travaillent aux horaires de bureau ou qui ne peuvent pas passer au marché en début de matinée n'ont plus à renoncer à acheter des produits frais à la Plaza de Abastos : elles récupèrent leurs achats quand elles peuvent, et non quand l'étal est ouvert.",
+        "lugar": "Plaza de Abastos de Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Plaza de Abastos öffnet rund um die Uhr",
+        "entradilla": "Achtundvierzig intelligente Schließfächer ermöglichen es, Einkäufe zu jeder Tages- und Nachtzeit abzuholen – auch an Wochenenden und Feiertagen.",
+        "cuerpo": [
+          "Die Plaza de Abastos in Villaviciosa führt ein System intelligenter Schließfächer ein, das es ermöglicht, Einkäufe zu jeder Uhrzeit abzuholen – 365 Tage im Jahr. Das Handy dient als Schlüssel, sodass man sich nicht mehr nach den Öffnungszeiten des Marktes richten muss.",
+          "Von den 48 installierten Schließfächern sind 28 gekühlt, damit Frischprodukte nicht verderben, während der Käufer auf dem Weg ist, sie abzuholen."
+        ],
+        "apunte": "Der Markt, der niemals schließt.",
+        "enVeinte": [
+          "Die Plaza de Abastos in Villaviciosa installiert 48 intelligente Schließfächer, damit Kunden ihre Einkäufe jederzeit abholen können.",
+          "Das Handy fungiert als Zugangscode – ohne Rücksicht auf die üblichen Marktzeiten.",
+          "28 der Schließfächer sind gekühlt, sodass Frischprodukte aufbewahrt werden können, bis der Käufer sie abholt."
+        ],
+        "cifra": {
+          "numero": "28",
+          "unidad": "gekühlte Schließfächer",
+          "glosa": "Mehr als die Hälfte der 48 installierten Schließfächer halten eine kontrollierte Temperatur aufrecht. Das bedeutet, dass Fleisch, Fisch oder Milchprodukte auf den Käufer warten können, ohne zu verderben – selbst wenn seit der Einlagerung durch den Verkäufer mehrere Stunden vergangen sind."
+        },
+        "palabra": null,
+        "porQue": "Wer zu Bürozeiten arbeitet oder nicht früh morgens auf den Markt kommen kann, muss nicht länger auf den Kauf frischer Produkte in der Plaza de Abastos verzichten: Man holt die Waren ab, wenn es passt – nicht wenn der Stand geöffnet ist.",
+        "lugar": "Plaza de Abastos de Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "contratos-formativos-para-adquisicion-de-practica-profesional-2026-202",
+    "url": "/nava/contratos-formativos-para-adquisicion-de-practica-profesional-2026-202/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "Nava abre contratos de prácticas profesionales para 2026-2027",
+    "entradilla": "El Ayuntamiento convoca plazas formativas en el área administrativa con plazo abierto de solicitud.",
+    "cuerpo": [
+      "El Ayuntamiento de Nava ha puesto en marcha contratos formativos para la adquisición de práctica profesional en el perfil administrativo, con vigencia para el período 2026-2027.",
+      "Quien esté interesado puede consultar las bases y descargar la instancia de solicitud a través del propio Ayuntamiento, aunque el material disponible no detalla plazo concreto de presentación ni condiciones específicas de acceso."
+    ],
+    "apunte": "Si andas buscando dónde meter el pie en lo administrativo, igual es el momento.",
+    "enVeinte": [
+      "El Ayuntamiento de Nava convoca contratos formativos de práctica profesional en el área administrativa para 2026-2027.",
+      "Las bases y la instancia de solicitud están disponibles en el propio Ayuntamiento.",
+      "El material publicado no recoge ni plazo ni condiciones de acceso concretas."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Estos contratos abren una vía de entrada al mercado laboral para vecinos del concejo que buscan su primera experiencia en gestión administrativa.",
+    "etiquetas": [
+      "empleo",
+      "formación",
+      "Nava",
+      "contratos"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-23T12:53:44.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Nava",
+      "url": "https://www.ayto-nava.es:443/web/ayto-nava/detalle-rss?p_p_id=56_INSTANCE_GToqljrIlzTL&p_p_lifecycle=0&refererPlid=271641&_56_INSTANCE_GToqljrIlzTL_groupId=118304&_56_INSTANCE_GToqljrIlzTL_articleId=20303303",
+      "titularOriginal": "Contratos formativos para adquisicion de practica profesional 2026-2027",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava opens professional training contracts for 2026-2027",
+        "entradilla": "The council is offering training posts in administration, with applications currently open.",
+        "cuerpo": [
+          "The council of Nava has launched training contracts for the acquisition of professional practice in administrative roles, covering the 2026-2027 period.",
+          "Anyone interested can consult the terms and download the application form directly from the council, although the available material does not specify a submission deadline or specific eligibility conditions."
+        ],
+        "apunte": "If you are looking to get a foot in the door in administration, this might be the moment.",
+        "enVeinte": [
+          "The council of Nava is offering professional training contracts in administration for 2026-2027.",
+          "The terms and application form are available directly from the council.",
+          "The published material includes neither a deadline nor specific eligibility conditions."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "These contracts open a path into the job market for residents of the municipality who are looking for their first experience in administrative management.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava lance des contrats de formation professionnelle pour 2026-2027",
+        "entradilla": "La mairie propose des postes en formation administrative, les candidatures étant actuellement ouvertes.",
+        "cuerpo": [
+          "La mairie de Nava a lancé des contrats de formation pour l'acquisition d'une pratique professionnelle dans le domaine administratif, valables pour la période 2026-2027.",
+          "Les personnes intéressées peuvent consulter le règlement et télécharger le formulaire de candidature directement auprès de la mairie, bien que les documents disponibles ne précisent ni délai de dépôt ni conditions d'accès spécifiques."
+        ],
+        "apunte": "Si vous cherchez à mettre le pied à l'étrier dans l'administration, c'est peut-être le bon moment.",
+        "enVeinte": [
+          "La mairie de Nava propose des contrats de formation professionnelle dans le domaine administratif pour 2026-2027.",
+          "Le règlement et le formulaire de candidature sont disponibles directement auprès de la mairie.",
+          "Les documents publiés ne précisent ni délai ni conditions d'accès spécifiques."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ces contrats ouvrent une voie d'entrée sur le marché du travail aux habitants de la commune qui cherchent leur première expérience en gestion administrative.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava schreibt Ausbildungsverträge für 2026-2027 aus",
+        "entradilla": "Das Rathaus vergibt Ausbildungsstellen im Verwaltungsbereich, Bewerbungen sind derzeit möglich.",
+        "cuerpo": [
+          "Das Rathaus von Nava hat Ausbildungsverträge zum Erwerb beruflicher Praxis im Verwaltungsbereich für den Zeitraum 2026-2027 ins Leben gerufen.",
+          "Interessierte können die Bedingungen einsehen und das Bewerbungsformular direkt beim Rathaus herunterladen, obwohl die verfügbaren Unterlagen weder eine konkrete Einreichungsfrist noch spezifische Zugangsbedingungen nennen."
+        ],
+        "apunte": "Wer im Verwaltungsbereich Fuß fassen möchte, findet hier vielleicht die richtige Gelegenheit.",
+        "enVeinte": [
+          "Das Rathaus von Nava schreibt Ausbildungsverträge im Verwaltungsbereich für 2026-2027 aus.",
+          "Die Bedingungen und das Bewerbungsformular sind direkt beim Rathaus erhältlich.",
+          "Die veröffentlichten Unterlagen enthalten weder eine Frist noch konkrete Zugangsbedingungen."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Diese Verträge eröffnen Bewohnern der Gemeinde, die ihre ersten Erfahrungen in der Verwaltung sammeln möchten, einen Einstieg in den Arbeitsmarkt.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "un-taller-en-berodia-ensenara-manana-a-los-vecinos-de-cabrales-a-prote",
+    "url": "/cabrales/un-taller-en-berodia-ensenara-manana-a-los-vecinos-de-cabrales-a-prote/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "agenda",
+    "titular": "Berodia aprende a frenar un incendio forestal",
+    "entradilla": "Bomberos, Protección Civil y Agentes del Medio Natural llevan este martes a Cabrales un taller con simulacro para saber qué hacer cuando el fuego llega al pueblo.",
+    "cuerpo": [
+      "El taller se celebra en Berodia y está dirigido a los vecinos del concejo de Cabrales. La jornada es este martes, 24 de noviembre de 2026, y cuenta con la participación conjunta de Bomberos, Protección Civil y Agentes del Medio Natural.",
+      "El programa incluye un simulacro, no solo charla: los asistentes podrán ver en directo cómo actuar cuando un incendio forestal se acerca a las casas y qué pasos seguir para protegerse."
+    ],
+    "apunte": "Mejor aprenderlo con simulacro que estrenarlo con humo de verdad.",
+    "enVeinte": [
+      "Este martes hay un taller en Berodia para que los vecinos de Cabrales sepan cómo actuar ante un incendio forestal.",
+      "Participan Bomberos, Protección Civil y Agentes del Medio Natural, y la jornada incluye un simulacro.",
+      "El objetivo es enseñar a protegerse cuando el fuego llega a las casas."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Agentes del Medio Natural",
+      "como": "se dice así, sin abreviar",
+      "definicion": "Son los funcionarios del Principado de Asturias que vigilan montes, ríos y fauna. En incendios forestales son los primeros en llegar al terreno y coordinan las labores de extinción junto a los bomberos."
+    },
+    "porQue": "Los incendios forestales son un riesgo real en los montes de Cabrales; saber cómo actuar antes de que lleguen a las casas puede marcar la diferencia para cualquier vecino del concejo.",
+    "etiquetas": [
+      "incendios forestales",
+      "Cabrales",
+      "Berodia",
+      "protección civil"
+    ],
+    "fechaEvento": "2026-11-24",
+    "tipoEvento": "taller",
+    "lugar": "Berodia",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/04/09/2026040909522848653.jpg",
+    "fecha": "2026-11-23T10:43:18.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://www.elfielato.es/comarca-picos-europa/cabrales/taller-berodia-ensenara-vecinos-cabrales-protegerse-incendios-forestales/20261123114318105752.html",
+      "titularOriginal": "Un taller en Berodia enseñará mañana a los vecinos de Cabrales a protegerse de los incendios forestales"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Berodia learns how to stop a wildfire",
+        "entradilla": "Firefighters, Civil Protection and Agentes del Medio Natural are bringing a workshop with a live drill to Cabrales this Tuesday to show what to do when fire reaches the village.",
+        "cuerpo": [
+          "The workshop takes place in Berodia and is aimed at residents of the municipality of Cabrales. It is being held this Tuesday, 24 November 2026, with the joint participation of Firefighters, Civil Protection and Agentes del Medio Natural.",
+          "The programme includes a drill, not just a talk: those attending will be able to see first-hand how to act when a wildfire approaches the houses and what steps to take to stay safe."
+        ],
+        "apunte": "Better to learn it in a drill than to face it for the first time in real smoke.",
+        "enVeinte": [
+          "This Tuesday there is a workshop in Berodia so that Cabrales residents know how to act in the event of a wildfire.",
+          "Firefighters, Civil Protection and Agentes del Medio Natural are taking part, and the session includes a live drill.",
+          "The aim is to teach people how to protect themselves when fire reaches their homes."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Agentes del Medio Natural",
+          "como": "said in full, never abbreviated",
+          "definicion": "These are civil servants of the Principality of Asturias who monitor forests, rivers and wildlife. In wildfires they are the first to reach the scene and coordinate firefighting operations alongside the fire brigade."
+        },
+        "porQue": "Wildfires are a real risk in the mountains of Cabrales; knowing how to act before they reach the houses can make all the difference for any resident of the municipality.",
+        "lugar": "Berodia",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Berodia apprend à arrêter un incendie de forêt",
+        "entradilla": "Des pompiers, la Protection Civile et les Agentes del Medio Natural organisent ce mardi à Cabrales un atelier avec exercice de simulation pour savoir quoi faire quand le feu atteint le village.",
+        "cuerpo": [
+          "L'atelier se tient à Berodia et s'adresse aux habitants de la commune de Cabrales. La journée a lieu ce mardi 24 novembre 2026, avec la participation conjointe des pompiers, de la Protection Civile et des Agentes del Medio Natural.",
+          "Le programme comprend un exercice de simulation, pas seulement des conférences : les participants pourront voir en direct comment agir lorsqu'un incendie de forêt s'approche des habitations et quelles mesures prendre pour se protéger."
+        ],
+        "apunte": "Mieux vaut l'apprendre lors d'un exercice que le découvrir sous une vraie fumée.",
+        "enVeinte": [
+          "Ce mardi, un atelier est organisé à Berodia pour que les habitants de Cabrales sachent comment réagir face à un incendie de forêt.",
+          "Les pompiers, la Protection Civile et les Agentes del Medio Natural y participent, et la journée comprend un exercice de simulation.",
+          "L'objectif est d'apprendre à se protéger quand le feu atteint les habitations."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Agentes del Medio Natural",
+          "como": "se dit en entier, sans abréviation",
+          "definicion": "Ce sont des fonctionnaires de la Principauté des Asturies chargés de surveiller les forêts, les rivières et la faune. En cas d'incendie de forêt, ils sont les premiers à arriver sur le terrain et coordonnent les opérations d'extinction aux côtés des pompiers."
+        },
+        "porQue": "Les incendies de forêt représentent un risque réel dans les montagnes de Cabrales ; savoir comment agir avant qu'ils n'atteignent les habitations peut faire toute la différence pour chaque habitant de la commune.",
+        "lugar": "Berodia",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Berodia lernt, einen Waldbrand aufzuhalten",
+        "entradilla": "Feuerwehr, Zivilschutz und Agentes del Medio Natural bringen diesen Dienstag einen Workshop mit Übung nach Cabrales, damit die Bewohner wissen, was zu tun ist, wenn das Feuer das Dorf erreicht.",
+        "cuerpo": [
+          "Der Workshop findet in Berodia statt und richtet sich an die Einwohner der Gemeinde Cabrales. Die Veranstaltung ist diesen Dienstag, den 24. November 2026, und wird gemeinsam von der Feuerwehr, dem Zivilschutz und den Agentes del Medio Natural durchgeführt.",
+          "Das Programm umfasst eine Übung, nicht nur Vorträge: Die Teilnehmer können live miterleben, wie man handelt, wenn ein Waldbrand die Häuser erreicht, und welche Schritte zu unternehmen sind, um sich zu schützen."
+        ],
+        "apunte": "Besser, es bei einer Übung zu lernen, als es zum ersten Mal mit echtem Rauch zu erleben.",
+        "enVeinte": [
+          "Diesen Dienstag findet in Berodia ein Workshop statt, damit die Bewohner von Cabrales wissen, wie sie sich bei einem Waldbrand verhalten sollen.",
+          "Feuerwehr, Zivilschutz und Agentes del Medio Natural nehmen teil, und die Veranstaltung beinhaltet eine Übung.",
+          "Ziel ist es, den Menschen beizubringen, wie sie sich schützen können, wenn das Feuer die Häuser erreicht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Agentes del Medio Natural",
+          "como": "wird vollständig ausgesprochen, ohne Abkürzung",
+          "definicion": "Es sind Beamte des Fürstentums Asturien, die Wälder, Flüsse und Wildtiere überwachen. Bei Waldbränden sind sie die Ersten, die vor Ort eintreffen, und koordinieren die Löscharbeiten gemeinsam mit der Feuerwehr."
+        },
+        "porQue": "Waldbrände sind ein reales Risiko in den Bergen von Cabrales; zu wissen, wie man handelt, bevor sie die Häuser erreichen, kann für jeden Einwohner der Gemeinde den Unterschied ausmachen.",
+        "lugar": "Berodia",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "bomberos proteccion civil y agentes del medio natural"
+    ]
+  },
+  {
     "id": "la-sociedad-clarin-de-quintes-entrega-su-premio-de-relato-corto-a-alej",
     "url": "/villaviciosa/la-sociedad-clarin-de-quintes-entrega-su-premio-de-relato-corto-a-alej/",
     "concejo": "Villaviciosa",
@@ -45160,625 +45745,5 @@
     },
     "reescrito": true,
     "trad": {}
-  },
-  {
-    "id": "riu-fontoria-acerca-la-historia-de-vicenta-pelaez-al-publico-con-una-e",
-    "url": "/pilona/riu-fontoria-acerca-la-historia-de-vicenta-pelaez-al-publico-con-una-e/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Una exposición rescata la figura de Vicenta Peláez",
-    "entradilla": "El colectivo Riu Fontoria trae a Infiesto la historia de La Beronda, la mujer de Belonciu que llegó hasta Madrid.",
-    "cuerpo": [
-      "La muestra se llama «La Beronda, de Belonciu a Madrid» y recorre la vida de Vicenta Peláez, una figura que el colectivo Riu Fontoria quiere acercar al público de Piloña.",
-      "Puede visitarse desde el 20 de agosto hasta el 7 de septiembre en un escaparate de la localidad."
-    ],
-    "apunte": "De Belonciu al escaparate: la historia que merecía salir a la calle.",
-    "enVeinte": [
-      "El colectivo Riu Fontoria inaugura en Piloña una exposición sobre Vicenta Peláez, conocida como La Beronda.",
-      "La muestra puede visitarse entre el 20 de agosto y el 7 de septiembre en un escaparate de la localidad.",
-      "La exposición traza el camino de esta mujer desde Belonciu hasta Madrid."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Belonciu",
-      "como": "Be-lon-ciu, con la c suave como se dice por aquí",
-      "definicion": "Belonciu es una parroquia del concejo de Piloña. Como muchos topónimos asturianos, conserva su forma original y no se traduce ni adapta al castellano."
-    },
-    "porQue": "Quien viva en Piloña o pase por Infiesto estas semanas tiene la oportunidad de conocer la historia de una mujer del concejo que hasta ahora no había tenido un espacio propio donde ser contada.",
-    "etiquetas": [
-      "Piloña",
-      "Riu Fontoria",
-      "exposición",
-      "Vicenta Peláez"
-    ],
-    "fechaEvento": "2026-08-20",
-    "tipoEvento": "expo",
-    "lugar": "un escaparate de la localidad",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/25/2026082511175051478.jpg",
-    "fecha": "2026-08-25T18:00:00.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://www.elfielato.es/articulo/pilona/riu-fontoria-exposicion-pilona/20260825200000102128.html",
-      "titularOriginal": "Riu Fontoria acerca la historia de Vicenta Peláez al público con una exposición en Piloña"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "An exhibition rescues the figure of Vicenta Peláez",
-        "entradilla": "The collective Riu Fontoria brings to Infiesto the story of La Beronda, the woman from Belonciu who made it all the way to Madrid.",
-        "cuerpo": [
-          "The show is called «La Beronda, de Belonciu a Madrid» and traces the life of Vicenta Peláez, a figure that the collective Riu Fontoria wants to bring closer to the people of Piloña.",
-          "It can be visited from 20 August to 7 September in a shop window in the town."
-        ],
-        "apunte": "From Belonciu to a shop window: the story that deserved to be told in public.",
-        "enVeinte": [
-          "The collective Riu Fontoria opens an exhibition in Piloña about Vicenta Peláez, known as La Beronda.",
-          "The show can be visited between 20 August and 7 September in a shop window in the town.",
-          "The exhibition traces this woman's journey from Belonciu to Madrid."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Belonciu",
-          "como": "Be-lon-ciu, with the c soft, as pronounced locally",
-          "definicion": "Belonciu is a parish in the municipality of Piloña. Like many Asturian place names, it keeps its original form and is neither translated nor adapted into Spanish."
-        },
-        "porQue": "Anyone living in Piloña or passing through Infiesto in the coming weeks has the chance to discover the story of a woman from the municipality who until now had never had a space of her own in which to be told.",
-        "lugar": "a shop window in the town",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Une exposition redécouvre la figure de Vicenta Peláez",
-        "entradilla": "Le collectif Riu Fontoria apporte à Infiesto l'histoire de La Beronda, la femme de Belonciu qui est allée jusqu'à Madrid.",
-        "cuerpo": [
-          "L'exposition s'intitule «La Beronda, de Belonciu a Madrid» et retrace la vie de Vicenta Peláez, une figure que le collectif Riu Fontoria souhaite faire connaître au public de Piloña.",
-          "Elle peut être visitée du 20 août au 7 septembre dans une vitrine de la localité."
-        ],
-        "apunte": "De Belonciu à une vitrine : l'histoire qui méritait de sortir dans la rue.",
-        "enVeinte": [
-          "Le collectif Riu Fontoria inaugure à Piloña une exposition sur Vicenta Peláez, connue sous le nom de La Beronda.",
-          "L'exposition peut être visitée entre le 20 août et le 7 septembre dans une vitrine de la localité.",
-          "L'exposition retrace le chemin parcouru par cette femme depuis Belonciu jusqu'à Madrid."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Belonciu",
-          "como": "Be-lon-ciu, avec le c doux, comme on le prononce ici",
-          "definicion": "Belonciu est une paroisse de la commune de Piloña. Comme beaucoup de toponymes asturiens, il conserve sa forme originale et n'est ni traduit ni adapté en espagnol."
-        },
-        "porQue": "Quiconque vit à Piloña ou passe par Infiesto ces prochaines semaines a l'occasion de découvrir l'histoire d'une femme de la commune qui n'avait jusqu'ici jamais eu d'espace propre pour être racontée.",
-        "lugar": "une vitrine de la localité",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Eine Ausstellung rettet die Figur von Vicenta Peláez",
-        "entradilla": "Das Kollektiv Riu Fontoria bringt nach Infiesto die Geschichte von La Beronda, der Frau aus Belonciu, die bis nach Madrid gelangte.",
-        "cuerpo": [
-          "Die Ausstellung trägt den Titel «La Beronda, de Belonciu a Madrid» und zeichnet das Leben von Vicenta Peláez nach, einer Persönlichkeit, die das Kollektiv Riu Fontoria dem Publikum von Piloña näherbringen möchte.",
-          "Sie ist vom 20. August bis zum 7. September in einem Schaufenster des Ortes zu besichtigen."
-        ],
-        "apunte": "Von Belonciu ins Schaufenster: die Geschichte, die es verdiente, an die Öffentlichkeit zu kommen.",
-        "enVeinte": [
-          "Das Kollektiv Riu Fontoria eröffnet in Piloña eine Ausstellung über Vicenta Peláez, bekannt als La Beronda.",
-          "Die Ausstellung ist zwischen dem 20. August und dem 7. September in einem Schaufenster des Ortes zu besichtigen.",
-          "Die Ausstellung zeichnet den Weg dieser Frau von Belonciu bis nach Madrid nach."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Belonciu",
-          "como": "Be-lon-ciu, mit weichem c, so wie man es hier ausspricht",
-          "definicion": "Belonciu ist eine Pfarrgemeinde in der Gemeinde Piloña. Wie viele asturische Ortsnamen behält er seine ursprüngliche Form und wird weder ins Spanische übersetzt noch angepasst."
-        },
-        "porQue": "Wer in den kommenden Wochen in Piloña lebt oder durch Infiesto kommt, hat die Möglichkeit, die Geschichte einer Frau aus der Gemeinde kennenzulernen, die bis jetzt keinen eigenen Raum hatte, in dem sie erzählt werden konnte.",
-        "lugar": "ein Schaufenster des Ortes",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "7 de septiembre en un escaparate de la",
-      "de septiembre en un escaparate de la localidad"
-    ]
-  },
-  {
-    "id": "la-relacion-de-puestos-de-trabajo-de-villaviciosa-pendiente-de-un-recu",
-    "url": "/villaviciosa/la-relacion-de-puestos-de-trabajo-de-villaviciosa-pendiente-de-un-recu/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "Un funcionario lleva la RPT de Villaviciosa a los tribunales",
-    "entradilla": "El aparejador municipal rechazó la respuesta del Pleno y estudia recurrir ante la justicia ordinaria.",
-    "cuerpo": [
-      "La Relación de Puestos de Trabajo del Ayuntamiento de Villaviciosa tiene los días contados de calma: el aparejador municipal, que ya intentó impugnarla sin éxito ante el Pleno, valora ahora acudir a los tribunales.",
-      "Su argumento es que hubo defectos de forma durante la tramitación de la RPT, es decir, que el proceso no siguió los pasos que marca la ley, independientemente de lo que diga el documento en sí."
-    ],
-    "apunte": "La RPT es el mapa oficial de quién hace qué en el Ayuntamiento, y llevarla a juicio no es poca cosa.",
-    "enVeinte": [
-      "El aparejador municipal de Villaviciosa quiere recurrir ante los tribunales la Relación de Puestos de Trabajo del Ayuntamiento.",
-      "El Pleno ya rechazó su recurso previo, así que el funcionario busca ahora la vía judicial.",
-      "Alega que la RPT se tramitó con defectos de forma, no que su contenido sea incorrecto."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "RPT",
-      "como": "erre-pe-te",
-      "definicion": "La Relación de Puestos de Trabajo es el documento oficial que fija qué empleos existen en un ayuntamiento, qué funciones tiene cada uno y qué sueldo le corresponde. Cambiarla o impugnarla es siempre un asunto de peso para cualquier plantilla municipal."
-    },
-    "porQue": "Si el recurso prospera, el Ayuntamiento de Villaviciosa tendría que volver a tramitar la RPT desde el principio, lo que afecta a toda la organización interna y puede demorar ascensos, traslados o nuevas contrataciones.",
-    "etiquetas": [
-      "Villaviciosa",
-      "ayuntamiento",
-      "RPT",
-      "tribunales"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/25/villaviciosa-consistorio-RTABIMvsV5j2NSsyK7e7UQM-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-25T16:14:02.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/relacion-puestos-trabajo-villaviciosa-recurso-funcionario-rpt-20260825180703-nt.html",
-      "titularOriginal": "La Relación de Puestos de Trabajo de Villaviciosa, pendiente de un recurso judicial de un funcionario"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "A civil servant takes Villaviciosa's RPT to court",
-        "entradilla": "The municipal building surveyor rejected the Full Council's response and is considering an appeal through the ordinary courts.",
-        "cuerpo": [
-          "The Relación de Puestos de Trabajo of the Villaviciosa council is heading for troubled waters: the municipal building surveyor, who already tried unsuccessfully to challenge it before the Full Council, is now considering taking the matter to court.",
-          "His argument is that there were procedural defects during the processing of the RPT — in other words, that the process did not follow the steps required by law, regardless of what the document itself says."
-        ],
-        "apunte": "The RPT is the official map of who does what at the council, and taking it to court is no small matter.",
-        "enVeinte": [
-          "Villaviciosa's municipal building surveyor wants to challenge the council's Relación de Puestos de Trabajo in court.",
-          "The Full Council already rejected his previous appeal, so the civil servant is now pursuing the judicial route.",
-          "He claims the RPT was processed with procedural defects, not that its content is incorrect."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "The Relación de Puestos de Trabajo is the official document that sets out which posts exist in a council, what functions each one carries and what salary it attracts. Changing or challenging it is always a weighty matter for any municipal workforce."
-        },
-        "porQue": "If the appeal succeeds, the Villaviciosa council would have to process the RPT again from scratch, which affects the entire internal organisation and could delay promotions, transfers or new appointments.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Un fonctionnaire porte la RPT de Villaviciosa devant les tribunaux",
-        "entradilla": "L'appariteur municipal a rejeté la réponse du Conseil plénier et envisage un recours devant la justice ordinaire.",
-        "cuerpo": [
-          "La Relación de Puestos de Trabajo de la mairie de Villaviciosa entre dans une zone de turbulences : l'appariteur municipal, qui avait déjà tenté sans succès de la contester devant le Conseil plénier, envisage désormais de saisir les tribunaux.",
-          "Son argument est que des vices de forme ont entaché la procédure d'adoption de la RPT — autrement dit, que le processus n'a pas suivi les étapes prévues par la loi, indépendamment du contenu du document lui-même."
-        ],
-        "apunte": "La RPT est la carte officielle de qui fait quoi à la mairie, et l'attaquer en justice n'est pas une mince affaire.",
-        "enVeinte": [
-          "L'appariteur municipal de Villaviciosa souhaite contester la Relación de Puestos de Trabajo de la mairie devant les tribunaux.",
-          "Le Conseil plénier ayant déjà rejeté son recours préalable, le fonctionnaire cherche maintenant la voie judiciaire.",
-          "Il allègue que la RPT a été adoptée avec des vices de forme, et non que son contenu serait incorrect."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "La Relación de Puestos de Trabajo est le document officiel qui fixe quels emplois existent au sein d'une mairie, quelles fonctions leur sont attachées et quelle rémunération leur correspond. La modifier ou la contester est toujours un enjeu de taille pour tout personnel municipal."
-        },
-        "porQue": "Si le recours aboutit, la mairie de Villaviciosa devrait recommencer la procédure d'adoption de la RPT depuis le début, ce qui affecte l'ensemble de l'organisation interne et peut retarder des promotions, des mutations ou de nouvelles embauches.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Ein Beamter bringt die RPT von Villaviciosa vor Gericht",
-        "entradilla": "Der städtische Bautechniker lehnte die Antwort des Plenums ab und erwägt nun, den ordentlichen Rechtsweg zu beschreiten.",
-        "cuerpo": [
-          "Die Relación de Puestos de Trabajo des Rathauses von Villaviciosa steht vor unruhigen Zeiten: Der städtische Bautechniker, der sie bereits erfolglos vor dem Plenum anfechten wollte, erwägt nun, vor Gericht zu ziehen.",
-          "Sein Argument lautet, dass bei der Bearbeitung der RPT Verfahrensfehler unterlaufen sind — dass also der Prozess nicht den gesetzlich vorgeschriebenen Schritten gefolgt ist, unabhängig vom Inhalt des Dokuments selbst."
-        ],
-        "apunte": "Die RPT ist die offizielle Übersicht darüber, wer im Rathaus was tut — und sie vor Gericht zu bringen ist keine Kleinigkeit.",
-        "enVeinte": [
-          "Der städtische Bautechniker von Villaviciosa möchte die Relación de Puestos de Trabajo des Rathauses vor Gericht anfechten.",
-          "Das Plenum hatte seinen vorherigen Einspruch bereits abgelehnt, weshalb der Beamte nun den Klageweg sucht.",
-          "Er macht Verfahrensfehler bei der Bearbeitung der RPT geltend, nicht etwa inhaltliche Fehler des Dokuments."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "Die Relación de Puestos de Trabajo ist das offizielle Dokument, das festlegt, welche Stellen in einem Rathaus existieren, welche Aufgaben jede Stelle umfasst und welches Gehalt ihr zusteht. Sie zu ändern oder anzufechten ist für jede Kommunalbelegschaft stets eine gewichtige Angelegenheit."
-        },
-        "porQue": "Sollte die Klage Erfolg haben, müsste das Rathaus von Villaviciosa die RPT von Grund auf neu bearbeiten, was die gesamte interne Organisation betrifft und Beförderungen, Versetzungen oder Neueinstellungen verzögern kann.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "el-principado-pone-en-valor-en-cabrales-sus-inversiones-en-deporte-y-p",
-    "url": "/cabrales/el-principado-pone-en-valor-en-cabrales-sus-inversiones-en-deporte-y-p/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "deporte-y-cultura",
-    "titular": "El Principado defiende en Cabrales deporte y patrimonio",
-    "entradilla": "La consejera aprovechó el Mercáu Tradicional para anunciar que la cultura quesera asturiana podría declararse Bien de Interés Cultural.",
-    "cuerpo": [
-      "La consejera del Principado visitó Cabrales con motivo del Mercáu Tradicional y aprovechó la ocasión para poner sobre la mesa las inversiones autonómicas en deporte y patrimonio en el concejo.",
-      "Durante su paso por el mercado, destacó también los planes para proteger la cultura quesera asturiana bajo la figura de Bien de Interés Cultural, un reconocimiento que ampararía el saber hacer ligado al queso de Cabrales y a la tradición cabralega."
-    ],
-    "apunte": "El queso de Cabrales ya tiene fama en medio mundo; el papel oficial llega después.",
-    "enVeinte": [
-      "La consejera del Principado visitó el Mercáu Tradicional de Cabrales y defendió las inversiones autonómicas en deporte y patrimonio en el concejo.",
-      "Anunció que se trabaja para declarar la cultura quesera asturiana Bien de Interés Cultural.",
-      "La declaración de BIC supondría un reconocimiento oficial del saber hacer ligado al queso de Cabrales."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "Mercáu",
-      "como": "Mer-cá-u, con la u final bien marcada, como se dice por aquí",
-      "definicion": "Forma asturiana de 'mercado'. En los concejos del oriente asturiano se usa para nombrar las ferias y mercados tradicionales, a menudo con siglos de historia y un peso grande en la vida de la comarca."
-    },
-    "porQue": "Si la cultura quesera asturiana logra la declaración de BIC, Cabrales contaría con un escudo legal para proteger y proyectar una tradición que es seña de identidad del concejo y motor económico de muchas familias.",
-    "etiquetas": [
-      "Cabrales",
-      "queso",
-      "patrimonio",
-      "Principado"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "mercado",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/25/2026082516372783916.jpg",
-    "fecha": "2026-08-25T15:00:00.000Z",
-    "fuente": {
-      "nombre": "Cabrales · feed propio",
-      "url": "https://www.elfielato.es/articulo/cabrales/principado-cabrales-inversiones-deporte-patrimonio/20260825170000102166.html",
-      "titularOriginal": "El Principado pone en valor en Cabrales sus inversiones en deporte y patrimonio"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The Principality backs sport and heritage in Cabrales",
-        "entradilla": "The regional minister used the Mercáu Tradicional to announce that Asturian cheese-making culture could be declared a Cultural Asset of Interest.",
-        "cuerpo": [
-          "The Principality's regional minister visited Cabrales on the occasion of the Mercáu Tradicional and used the visit to set out the regional government's investments in sport and heritage in the municipality.",
-          "During her time at the market, she also highlighted plans to protect Asturian cheese-making culture under the designation of Cultural Asset of Interest, a recognition that would safeguard the know-how tied to Cabrales cheese and to the Cabrales tradition."
-        ],
-        "apunte": "Cabrales cheese is already famous across much of the world; the official recognition comes later.",
-        "enVeinte": [
-          "The Principality's regional minister visited the Mercáu Tradicional in Cabrales and defended regional investments in sport and heritage in the municipality.",
-          "She announced that work is under way to declare Asturian cheese-making culture a Cultural Asset of Interest.",
-          "The Cultural Asset of Interest designation would mean official recognition of the know-how tied to Cabrales cheese."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Mercáu",
-          "como": "Mer-cá-u, with the final u clearly pronounced, as it is said around here.",
-          "definicion": "The Asturian form of 'mercado' (market). In the municipalities of eastern Asturias it is used to name traditional fairs and markets, often with centuries of history and a significant place in the life of the area."
-        },
-        "porQue": "If Asturian cheese-making culture achieves Cultural Asset of Interest status, Cabrales would gain a legal shield to protect and promote a tradition that is a defining mark of the municipality and an economic driver for many families.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La Principauté défend le sport et le patrimoine à Cabrales",
-        "entradilla": "La conseillère a profité du Mercáu Tradicional pour annoncer que la culture fromagère asturienne pourrait être déclarée Bien d'Intérêt Culturel.",
-        "cuerpo": [
-          "La conseillère de la Principauté a rendu visite à Cabrales à l'occasion du Mercáu Tradicional et en a profité pour mettre sur la table les investissements régionaux en matière de sport et de patrimoine dans la commune.",
-          "Au cours de sa visite au marché, elle a également mis en avant les projets visant à protéger la culture fromagère asturienne sous la désignation de Bien d'Intérêt Culturel, une reconnaissance qui couvrirait le savoir-faire lié au fromage de Cabrales et à la tradition cabraliègue."
-        ],
-        "apunte": "Le fromage de Cabrales est déjà célèbre aux quatre coins du monde ; la reconnaissance officielle arrive après.",
-        "enVeinte": [
-          "La conseillère de la Principauté a visité le Mercáu Tradicional de Cabrales et a défendu les investissements régionaux en sport et patrimoine dans la commune.",
-          "Elle a annoncé que des travaux sont en cours pour déclarer la culture fromagère asturienne Bien d'Intérêt Culturel.",
-          "La déclaration de Bien d'Intérêt Culturel représenterait une reconnaissance officielle du savoir-faire lié au fromage de Cabrales."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Mercáu",
-          "como": "Mer-cá-u, avec le u final bien marqué, comme on le dit par ici.",
-          "definicion": "Forme asturienne de « mercado » (marché). Dans les communes de l'est des Asturies, ce mot sert à désigner les foires et marchés traditionnels, souvent vieux de plusieurs siècles et d'un grand poids dans la vie de la zone."
-        },
-        "porQue": "Si la culture fromagère asturienne obtient la déclaration de Bien d'Intérêt Culturel, Cabrales disposerait d'un bouclier juridique pour protéger et promouvoir une tradition qui est l'un des symboles identitaires de la commune et un moteur économique pour de nombreuses familles.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Das Fürstentum verteidigt Sport und Kulturerbe in Cabrales",
-        "entradilla": "Die Regionalministerin nutzte den Mercáu Tradicional, um anzukündigen, dass die asturische Käsekultur zum Kulturgut von besonderem Interesse erklärt werden könnte.",
-        "cuerpo": [
-          "Die Regionalministerin des Fürstentums besuchte Cabrales anlässlich des Mercáu Tradicional und nutzte den Anlass, um die regionalen Investitionen in Sport und Kulturerbe in der Gemeinde auf den Tisch zu bringen.",
-          "Während ihres Besuchs auf dem Markt hob sie auch die Pläne hervor, die asturische Käsekultur unter der Bezeichnung Kulturgut von besonderem Interesse zu schützen – eine Anerkennung, die das mit dem Cabrales-Käse und der Cabrales-Tradition verbundene Wissen absichern würde."
-        ],
-        "apunte": "Der Cabrales-Käse ist bereits in aller Welt bekannt; die offizielle Anerkennung kommt später.",
-        "enVeinte": [
-          "Die Regionalministerin des Fürstentums besuchte den Mercáu Tradicional in Cabrales und verteidigte die regionalen Investitionen in Sport und Kulturerbe in der Gemeinde.",
-          "Sie kündigte an, dass daran gearbeitet wird, die asturische Käsekultur zum Kulturgut von besonderem Interesse zu erklären.",
-          "Die Erklärung zum Kulturgut von besonderem Interesse würde eine offizielle Anerkennung des mit dem Cabrales-Käse verbundenen Wissens bedeuten."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "Mercáu",
-          "como": "Mer-cá-u, mit einem deutlich ausgesprochenen abschließenden u, so wie man es hier sagt.",
-          "definicion": "Asturische Form von «mercado» (Markt). In den Gemeinden Ostasturiens bezeichnet das Wort traditionelle Jahrmärkte und Märkte, die oft eine jahrhundertelange Geschichte haben und im Leben der Region einen wichtigen Platz einnehmen."
-        },
-        "porQue": "Sollte die asturische Käsekultur den Status eines Kulturguts von besonderem Interesse erlangen, hätte Cabrales einen rechtlichen Schutzschild, um eine Tradition zu bewahren und zu fördern, die ein Erkennungszeichen der Gemeinde und ein wirtschaftlicher Motor für viele Familien ist.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "los-hermanos-pou-pregoneros-del-certamen-del-quesu-una-historia-de-amo",
-    "url": "/cabrales/los-hermanos-pou-pregoneros-del-certamen-del-quesu-una-historia-de-amo/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "deporte-y-cultura",
-    "titular": "Los Pou pregonan el Certamen del Quesu este domingo",
-    "entradilla": "Los escaladores más conocidos del mundo llegan a Arenas de Cabrales con una historia de amor por el concejo.",
-    "cuerpo": [
-      "Los hermanos Pou, figuras de referencia de la escalada internacional, darán el pregón del Certamen del Quesu de Arenas de Cabrales este domingo.",
-      "El vínculo de los Pou con Cabrales va más allá de la visita puntual: la fuente que anuncia su participación habla expresamente de una historia de amor con el concejo y su tierra."
-    ],
-    "apunte": "Escalan paredes verticales por todo el planeta, pero el queso de Cabrales también tiene lo suyo.",
-    "enVeinte": [
-      "Los hermanos Pou, escaladores de fama internacional, serán los pregoneros del Certamen del Quesu de Arenas de Cabrales este domingo.",
-      "Su relación con el concejo va más allá de lo profesional: tienen un vínculo personal con Cabrales.",
-      "El acto del pregón inaugura oficialmente la cita quesera más importante del concejo."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "quesu",
-      "como": "KE-su",
-      "definicion": "Forma asturiana de decir 'queso'. En Cabrales nombra sobre todo al queso azul de cueva que se elabora en el concejo y tiene Denominación de Origen Protegida."
-    },
-    "porQue": "El pregón abre el Certamen del Quesu, la fiesta grande de Arenas de Cabrales, y marca el arranque oficial de una jornada que cada año reúne a miles de visitantes en el concejo.",
-    "etiquetas": [
-      "Certamen del Quesu",
-      "Cabrales",
-      "hermanos Pou",
-      "Arenas de Cabrales"
-    ],
-    "fechaEvento": "2026-08-31",
-    "tipoEvento": "gastro",
-    "lugar": "Arenas de Cabrales",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/08/25/2026082514521728487.jpg",
-    "fecha": "2026-08-25T12:58:07.000Z",
-    "fuente": {
-      "nombre": "Cabrales · feed propio",
-      "url": "https://www.elfielato.es/articulo/cabrales/hermanos-pou-pregoneros-certamen-quesu-cabrales/20260825145807102163.html",
-      "titularOriginal": "Los Hermanos Pou, pregoneros del Certamen del Quesu: una historia de amor con Cabrales"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Los Pou to give the opening address at the Certamen del Quesu this Sunday",
-        "entradilla": "The world's most celebrated climbers arrive in Arenas de Cabrales with a love story for the municipality.",
-        "cuerpo": [
-          "Los hermanos Pou, leading figures in international climbing, will deliver the pregón (opening address) at the Certamen del Quesu in Arenas de Cabrales this Sunday.",
-          "The bond between los Pou and Cabrales goes beyond a one-off visit: the source announcing their participation speaks explicitly of a love story with the municipality and its land."
-        ],
-        "apunte": "They climb vertical walls across the planet, but Cabrales cheese has something to say for itself too.",
-        "enVeinte": [
-          "Los hermanos Pou, internationally acclaimed climbers, will give the opening address at the Certamen del Quesu in Arenas de Cabrales this Sunday.",
-          "Their relationship with the municipality goes beyond the professional: they have a personal bond with Cabrales.",
-          "The opening address officially inaugurates the most important cheese event in the municipality."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesu",
-          "como": "KE-su",
-          "definicion": "The Asturian word for cheese. In Cabrales it refers above all to the blue cave-aged cheese produced in the municipality, which holds a Protected Designation of Origin."
-        },
-        "porQue": "The opening address launches the Certamen del Quesu, the great festival of Arenas de Cabrales, and marks the official start of a day that draws thousands of visitors to the municipality every year.",
-        "lugar": "Arenas de Cabrales",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Los Pou donneront le pregón du Certamen del Quesu ce dimanche",
-        "entradilla": "Les grimpeurs les plus célèbres du monde arrivent à Arenas de Cabrales avec une histoire d'amour pour la commune.",
-        "cuerpo": [
-          "Los hermanos Pou, figures de référence de l'escalade internationale, prononceront le pregón (discours d'ouverture) du Certamen del Quesu à Arenas de Cabrales ce dimanche.",
-          "Le lien des Pou avec Cabrales va bien au-delà d'une visite ponctuelle : la source qui annonce leur participation évoque expressément une histoire d'amour avec la commune et ses terres."
-        ],
-        "apunte": "Ils escaladent des parois verticales aux quatre coins de la planète, mais le fromage de Cabrales a lui aussi plus d'un tour dans son sac.",
-        "enVeinte": [
-          "Los hermanos Pou, grimpeurs de renommée internationale, seront les pregoneros du Certamen del Quesu à Arenas de Cabrales ce dimanche.",
-          "Leur relation avec la commune va au-delà du professionnel : ils ont un lien personnel avec Cabrales.",
-          "Le pregón inaugure officiellement le rendez-vous fromager le plus important de la commune."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesu",
-          "como": "KE-su",
-          "definicion": "Le mot asturien pour dire « fromage ». À Cabrales, il désigne surtout le fromage bleu affiné en grotte produit dans la commune, qui bénéficie d'une Appellation d'Origine Protégée."
-        },
-        "porQue": "Le pregón ouvre le Certamen del Quesu, la grande fête d'Arenas de Cabrales, et marque le début officiel d'une journée qui réunit chaque année des milliers de visiteurs dans la commune.",
-        "lugar": "Arenas de Cabrales",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Los Pou halten den Eröffnungsruf beim Certamen del Quesu diesen Sonntag",
-        "entradilla": "Die bekanntesten Kletterer der Welt kommen mit einer Liebesgeschichte für die Gemeinde nach Arenas de Cabrales.",
-        "cuerpo": [
-          "Los hermanos Pou, Leitfiguren des internationalen Klettersports, werden diesen Sonntag den Pregón (Eröffnungsruf) des Certamen del Quesu in Arenas de Cabrales halten.",
-          "Die Verbindung der Pou mit Cabrales geht weit über einen einmaligen Besuch hinaus: Die Quelle, die ihre Teilnahme ankündigt, spricht ausdrücklich von einer Liebesgeschichte mit der Gemeinde und ihrem Land."
-        ],
-        "apunte": "Sie klettern an senkrechten Wänden rund um den Globus – doch der Käse aus Cabrales hat durchaus auch etwas zu bieten.",
-        "enVeinte": [
-          "Los hermanos Pou, international bekannte Kletterer, werden diesen Sonntag den Eröffnungsruf beim Certamen del Quesu in Arenas de Cabrales sprechen.",
-          "Ihre Beziehung zur Gemeinde geht über das Berufliche hinaus: Sie haben eine persönliche Bindung an Cabrales.",
-          "Der Eröffnungsruf markiert den offiziellen Auftakt des wichtigsten Käsefestes der Gemeinde."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesu",
-          "como": "KE-su",
-          "definicion": "Das asturische Wort für Käse. In Cabrales bezeichnet es vor allem den in Höhlen gereiften Blauschimmelkäse, der in der Gemeinde hergestellt wird und eine geschützte Ursprungsbezeichnung trägt."
-        },
-        "porQue": "Der Eröffnungsruf leitet das Certamen del Quesu ein, das große Fest von Arenas de Cabrales, und markiert den offiziellen Beginn eines Tages, der jedes Jahr Tausende von Besuchern in die Gemeinde zieht.",
-        "lugar": "Arenas de Cabrales",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "cultura-financia-la-recuperacion-de-la-pista-polideportiva-de-arenas-y",
-    "url": "/cabrales/cultura-financia-la-recuperacion-de-la-pista-polideportiva-de-arenas-y/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "deporte-y-cultura",
-    "titular": "El Principado repara la pista de Arenas y restaura Po",
-    "entradilla": "Casi 300.000 euros del Gobierno regional han vuelto a poner en pie dos lugares que el concejo de Cabrales usaba a diario.",
-    "cuerpo": [
-      "La consejera de Cultura Vanessa Gutiérrez visitó ayer Cabrales para comprobar sobre el terreno los resultados de dos obras pagadas por el Principado: la nueva cubierta de la pista polideportiva de Arenas y la restauración de la iglesia parroquial de Santa María Magdalena de Po.",
-      "La pista estaba fuera de uso desde finales de 2023, cuando un vendaval le arrancó el techo. El Gobierno de Asturias destinó 250.000 euros al Ayuntamiento de Cabrales para reconstruirla, adelantó el pago para no perder tiempo y los trabajos acabaron el año pasado. Escolares, clubes y vecinos llevan ya meses entrenando bajo cubierto, con lluvia o sin ella.",
-      "En Po, la consejería ha puesto 46.750 euros repartidos en tres fases entre 2023 y 2025 para restaurar el templo del siglo XVII que se asoma al río Casañu. La visita también sirvió para recordar que el Gobierno regional ha abierto trámites para declarar la cultura quesera asturiana Bien de Interés Cultural."
-    ],
-    "apunte": "El vendaval de 2023 se llevó el techo; el Principado tardó un año en devolverlo.",
-    "enVeinte": [
-      "El Principado ha financiado la reconstrucción de la cubierta de la pista polideportiva de Arenas, dañada por un temporal en 2023, con 250.000 euros.",
-      "La iglesia de Santa María Magdalena de Po, del siglo XVII, ha recibido 46.750 euros en tres fases de restauración entre 2023 y 2025.",
-      "La consejera de Cultura visitó ayer las dos obras y aprovechó para anunciar que el Gobierno regional tramita declarar la cultura quesera asturiana Bien de Interés Cultural."
-    ],
-    "cifra": {
-      "numero": "250.000",
-      "unidad": "euros",
-      "glosa": "Es lo que el Principado transfirió al Ayuntamiento de Cabrales para reconstruir la cubierta de la pista de Arenas. El dinero se adelantó en su totalidad para que las obras no se demorasen."
-    },
-    "palabra": {
-      "termino": "BIC",
-      "como": "be-i-ce",
-      "definicion": "Bien de Interés Cultural: la figura de protección más alta que reconoce la ley de patrimonio. Declarar la cultura quesera asturiana BIC significaría que el Principado queda obligado a preservarla y promoverla de forma activa."
-    },
-    "porQue": "La pista cubierta de Arenas vuelve a estar operativa para todo el año, lo que garantiza que los críos del colegio y los clubes del concejo no pierdan horas de deporte cuando aprieta el mal tiempo.",
-    "etiquetas": [
-      "Cabrales",
-      "patrimonio",
-      "deporte",
-      "Principado"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/2026_08_25-consejera-visita-cabrales-ok.jpeg",
-    "fecha": "2026-08-25T12:19:00.000Z",
-    "fuente": {
-      "nombre": "Cabrales · feed propio",
-      "url": "https://coperibadesella.com/25/08/2026/cultura-financia-la-recuperacion-de-la-pista-polideportiva-de-arenas-y-la-restauracion-de-la-iglesia-de-po-en-cabrales/",
-      "titularOriginal": "Cultura financia la recuperación de la pista polideportiva de Arenas y la restauración de la iglesia de Po, en Cabrales"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "The Principado repairs the Arenas court and restores Po",
-        "entradilla": "Almost 300,000 euros from the regional government have brought back to life two places that the municipality of Cabrales used every day.",
-        "cuerpo": [
-          "Culture Minister Vanessa Gutiérrez visited Cabrales yesterday to inspect on the ground the results of two projects funded by the Principado: the new roof on the Arenas sports court and the restoration of the parish church of Santa María Magdalena de Po.",
-          "The court had been out of use since late 2023, when a gale tore off its roof. The Government of Asturias allocated 250,000 euros to the Cabrales council to rebuild it, paid upfront to avoid delays, and the works finished last year. Schoolchildren, clubs and residents have already been training indoors for months, rain or shine.",
-          "In Po, the ministry has put in 46,750 euros spread across three phases between 2023 and 2025 to restore the seventeenth-century church that looks out over the river Casañu. The visit also served as an occasion to recall that the regional government has opened proceedings to declare Asturian cheese culture a Bien de Interés Cultural (Asset of Cultural Interest)."
-        ],
-        "apunte": "The 2023 gale took the roof; the Principado took a year to give it back.",
-        "enVeinte": [
-          "The Principado has funded the rebuilding of the roof of the Arenas sports court, damaged by a storm in 2023, with 250,000 euros.",
-          "The church of Santa María Magdalena de Po, from the seventeenth century, has received 46,750 euros across three phases of restoration between 2023 and 2025.",
-          "The Culture Minister visited both projects yesterday and took the opportunity to announce that the regional government is processing the declaration of Asturian cheese culture as a Bien de Interés Cultural."
-        ],
-        "cifra": {
-          "numero": "250.000",
-          "unidad": "euros",
-          "glosa": "This is the amount the Principado transferred to the Cabrales council to rebuild the roof of the Arenas court. The full sum was paid upfront so that works would not be delayed."
-        },
-        "palabra": {
-          "termino": "BIC",
-          "como": "be-i-ce",
-          "definicion": "Bien de Interés Cultural: the highest level of protection recognised by heritage law. Declaring Asturian cheese culture a BIC would mean the Principado is legally obliged to preserve and actively promote it."
-        },
-        "porQue": "The covered court in Arenas is back in operation all year round, which ensures that schoolchildren and clubs in the municipality do not lose training hours when the weather turns bad.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le Principado répare la piste d'Arenas et restaure Po",
-        "entradilla": "Près de 300 000 euros du gouvernement régional ont remis sur pied deux lieux que la commune de Cabrales utilisait au quotidien.",
-        "cuerpo": [
-          "La conseillère à la Culture Vanessa Gutiérrez s'est rendue hier à Cabrales pour constater sur place les résultats de deux chantiers financés par le Principado : la nouvelle toiture de la salle omnisports d'Arenas et la restauration de l'église paroissiale Santa María Magdalena de Po.",
-          "La salle était hors d'usage depuis fin 2023, quand une tempête lui avait arraché le toit. Le gouvernement des Asturies a versé 250 000 euros à la mairie de Cabrales pour la reconstruire, a avancé le paiement pour ne pas perdre de temps, et les travaux se sont achevés l'année dernière. Écoliers, clubs et habitants s'entraînent déjà depuis plusieurs mois à l'abri, qu'il pleuve ou non.",
-          "À Po, la consejería a engagé 46 750 euros répartis en trois tranches entre 2023 et 2025 pour restaurer l'église du XVIIe siècle qui donne sur la rivière Casañu. La visite a également été l'occasion de rappeler que le gouvernement régional a ouvert la procédure pour déclarer la culture fromagère asturienne Bien de Interés Cultural (bien d'intérêt culturel)."
-        ],
-        "apunte": "La tempête de 2023 a emporté le toit ; le Principado a mis un an à le rendre.",
-        "enVeinte": [
-          "Le Principado a financé la reconstruction de la toiture de la salle omnisports d'Arenas, endommagée par une tempête en 2023, à hauteur de 250 000 euros.",
-          "L'église Santa María Magdalena de Po, du XVIIe siècle, a bénéficié de 46 750 euros répartis en trois tranches de restauration entre 2023 et 2025.",
-          "La conseillère à la Culture a visité hier les deux chantiers et en a profité pour annoncer que le gouvernement régional engage la procédure pour déclarer la culture fromagère asturienne Bien de Interés Cultural."
-        ],
-        "cifra": {
-          "numero": "250.000",
-          "unidad": "euros",
-          "glosa": "C'est la somme que le Principado a transférée à la mairie de Cabrales pour reconstruire la toiture de la salle d'Arenas. La totalité du montant a été avancée afin que les travaux ne soient pas retardés."
-        },
-        "palabra": {
-          "termino": "BIC",
-          "como": "be-i-ce",
-          "definicion": "Bien de Interés Cultural : le niveau de protection le plus élevé reconnu par la loi sur le patrimoine. Déclarer la culture fromagère asturienne BIC signifierait que le Principado serait légalement tenu de la préserver et de la promouvoir activement."
-        },
-        "porQue": "La salle couverte d'Arenas est de nouveau opérationnelle toute l'année, ce qui garantit que les enfants de l'école et les clubs de la commune ne perdent pas d'heures de sport quand le mauvais temps s'installe.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Das Principado saniert die Sportanlage in Arenas und restauriert Po",
-        "entradilla": "Fast 300.000 Euro der Regionalregierung haben zwei Orte wieder hergestellt, die die Gemeinde Cabrales täglich nutzte.",
-        "cuerpo": [
-          "Kulturrätin Vanessa Gutiérrez besuchte gestern Cabrales, um sich vor Ort von den Ergebnissen zweier vom Principado finanzierter Baumaßnahmen zu überzeugen: dem neuen Dach der Sporthalle in Arenas und der Restaurierung der Pfarrkirche Santa María Magdalena de Po.",
-          "Die Halle war seit Ende 2023 außer Betrieb, als ein Sturm ihr Dach abgedeckt hatte. Die Regierung von Asturien stellte dem Rathaus von Cabrales 250.000 Euro für den Wiederaufbau zur Verfügung, zahlte den Betrag vorab, um keine Zeit zu verlieren, und die Arbeiten wurden letztes Jahr abgeschlossen. Schulkinder, Vereine und Anwohner trainieren bereits seit Monaten unter Dach, bei Regen wie bei Sonnenschein.",
-          "In Po hat die Rätin 46.750 Euro in drei Phasen zwischen 2023 und 2025 für die Restaurierung der Kirche aus dem 17. Jahrhundert bereitgestellt, die auf den Fluss Casañu blickt. Der Besuch diente auch dazu, daran zu erinnern, dass die Regionalregierung das Verfahren eingeleitet hat, um die asturische Käsekultur zum Bien de Interés Cultural (Kulturgut von nationalem Interesse) zu erklären."
-        ],
-        "apunte": "Der Sturm von 2023 riss das Dach fort; das Principado brauchte ein Jahr, um es zurückzugeben.",
-        "enVeinte": [
-          "Das Principado hat den Wiederaufbau des Dachs der Sporthalle in Arenas, das 2023 durch einen Sturm beschädigt wurde, mit 250.000 Euro finanziert.",
-          "Die Kirche Santa María Magdalena de Po aus dem 17. Jahrhundert hat zwischen 2023 und 2025 in drei Restaurierungsphasen 46.750 Euro erhalten.",
-          "Die Kulturrätin besuchte gestern beide Baustellen und kündigte dabei an, dass die Regionalregierung das Verfahren zur Erklärung der asturischen Käsekultur zum Bien de Interés Cultural einleitet."
-        ],
-        "cifra": {
-          "numero": "250.000",
-          "unidad": "euros",
-          "glosa": "Das ist der Betrag, den das Principado an das Rathaus von Cabrales überwiesen hat, um das Dach der Sporthalle in Arenas wiederaufzubauen. Die gesamte Summe wurde vorab gezahlt, damit die Arbeiten nicht verzögert wurden."
-        },
-        "palabra": {
-          "termino": "BIC",
-          "como": "be-i-ce",
-          "definicion": "Bien de Interés Cultural: die höchste Schutzstufe, die das Denkmalschutzgesetz kennt. Die asturische Käsekultur zum BIC zu erklären würde bedeuten, dass das Principado gesetzlich verpflichtet wäre, sie aktiv zu erhalten und zu fördern."
-        },
-        "porQue": "Die überdachte Halle in Arenas ist das ganze Jahr über wieder in Betrieb, was sicherstellt, dass die Schulkinder und Vereine der Gemeinde bei schlechtem Wetter keine Sportstunden verlieren.",
-        "lugar": "",
-        "precio": ""
-      }
-    },
-    "revisar": [
-      "cubierta de la pista polideportiva de arenas y",
-      "de la pista polideportiva de arenas y la",
-      "la pista polideportiva de arenas y la restauracion",
-      "pista polideportiva de arenas y la restauracion de",
-      "polideportiva de arenas y la restauracion de la",
-      "de arenas y la restauracion de la iglesia",
-      "la iglesia parroquial de santa maria magdalena de",
-      "iglesia parroquial de santa maria magdalena de po",
-      "250 000 euros al ayuntamiento de cabrales para"
-    ]
   }
 ]
