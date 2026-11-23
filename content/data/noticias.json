@@ -1,5 +1,141 @@
 [
   {
+    "id": "la-sociedad-clarin-de-quintes-entrega-su-premio-de-relato-corto-a-alej",
+    "url": "/villaviciosa/la-sociedad-clarin-de-quintes-entrega-su-premio-de-relato-corto-a-alej/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Alejandro Oliva gana el Clarín de relato corto",
+    "entradilla": "El certamen de Quintes llega a su 25.ª edición con la salud de siempre.",
+    "cuerpo": [
+      "La Sociedad Clarín de Quintes entregó su premio de relato corto a Alejandro Oliva en la última edición del certamen Leopoldo Alas 'Clarín'.",
+      "El concurso cumple veinticinco años y sus organizadores lo destacaron como una señal de que el premio sigue firme y con ganas de seguir."
+    ],
+    "apunte": "Veinticinco años dando voz a la letra corta en un pueblo que sabe leer bien.",
+    "enVeinte": [
+      "Alejandro Oliva se lleva el premio de relato corto de la Sociedad Clarín de Quintes.",
+      "El certamen Leopoldo Alas 'Clarín' celebra su 25.ª edición.",
+      "Los organizadores subrayan que el concurso llega a este aniversario plenamente consolidado."
+    ],
+    "cifra": {
+      "numero": "25",
+      "unidad": "ediciones",
+      "glosa": "Un cuarto de siglo lleva el certamen Leopoldo Alas 'Clarín' premiando relato corto en Quintes. Pocos concursos literarios locales aguantan tanto tiempo sin perder el paso."
+    },
+    "palabra": {
+      "termino": "Quintes",
+      "como": "Quintes, llano, tal cual se escribe",
+      "definicion": "Parroquia del concejo de Villaviciosa, en Asturias. Es la sede de la Sociedad Clarín, que toma su nombre del escritor Leopoldo Alas, nacido en Zamora pero asturiano de adopción y alma."
+    },
+    "porQue": "Un premio literario que cumple 25 años en un pueblo pequeño es patrimonio del concejo: pone a Villaviciosa en el mapa de las letras asturianas y da proyección a quien escribe por aquí.",
+    "etiquetas": [
+      "Villaviciosa",
+      "relato corto",
+      "premio literario",
+      "Clarín"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "letras",
+    "lugar": "Quintes",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/22/quintes-clarin-RpeUteUGshON7HfdbUCLYRN-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-22T21:02:59.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/sociedad-clarin-quintes-entrega-premio-relato-corto-20261122220259-nt.html",
+      "titularOriginal": "La Sociedad Clarín de Quintes entrega su premio de relato corto a Alejandro Oliva"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Alejandro Oliva wins the Clarín short story prize",
+        "entradilla": "The Quintes competition reaches its 25th edition in the same fine shape as ever.",
+        "cuerpo": [
+          "La Sociedad Clarín de Quintes awarded its short story prize to Alejandro Oliva at the latest edition of the Leopoldo Alas 'Clarín' competition.",
+          "The contest turns twenty-five this year, and its organisers pointed to that as a sign that the prize remains solid and eager to continue."
+        ],
+        "apunte": "Twenty-five years giving voice to short fiction in a village that knows how to read well.",
+        "enVeinte": [
+          "Alejandro Oliva takes the short story prize from La Sociedad Clarín de Quintes.",
+          "The Leopoldo Alas 'Clarín' competition celebrates its 25th edition.",
+          "The organisers stress that the contest reaches this anniversary fully established."
+        ],
+        "cifra": {
+          "numero": "25",
+          "unidad": "editions",
+          "glosa": "The Leopoldo Alas 'Clarín' competition has spent a quarter of a century rewarding short fiction in Quintes. Few local literary contests last that long without losing their footing."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, flat stress, pronounced exactly as written",
+          "definicion": "A parish in the municipality of Villaviciosa, in Asturias. It is home to La Sociedad Clarín, which takes its name from the writer Leopoldo Alas, born in Zamora but Asturian by adoption and in spirit."
+        },
+        "porQue": "A literary prize that turns 25 in a small village is an asset for the whole municipality: it puts Villaviciosa on the map of Asturian letters and gives visibility to those who write in this area.",
+        "lugar": "Quintes",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Alejandro Oliva remporte le prix Clarín de nouvelle",
+        "entradilla": "Le concours de Quintes atteint sa 25e édition avec la même vitalité que toujours.",
+        "cuerpo": [
+          "La Sociedad Clarín de Quintes a remis son prix de nouvelle à Alejandro Oliva lors de la dernière édition du concours Leopoldo Alas «Clarín».",
+          "Le concours fête ses vingt-cinq ans et ses organisateurs ont souligné que cela témoigne de la solidité du prix et de sa volonté de continuer."
+        ],
+        "apunte": "Vingt-cinq ans à donner la parole à la fiction courte dans un village qui sait bien lire.",
+        "enVeinte": [
+          "Alejandro Oliva remporte le prix de nouvelle de la Sociedad Clarín de Quintes.",
+          "Le concours Leopoldo Alas «Clarín» célèbre sa 25e édition.",
+          "Les organisateurs soulignent que le concours atteint cet anniversaire pleinement consolidé."
+        ],
+        "cifra": {
+          "numero": "25",
+          "unidad": "éditions",
+          "glosa": "Le concours Leopoldo Alas «Clarín» récompense la nouvelle à Quintes depuis un quart de siècle. Peu de concours littéraires locaux tiennent aussi longtemps sans perdre le rythme."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, accent plat, se prononce exactement comme il s'écrit",
+          "definicion": "Paroisse de la commune de Villaviciosa, en Asturies. C'est le siège de la Sociedad Clarín, qui tire son nom de l'écrivain Leopoldo Alas, né à Zamora mais asturien d'adoption et d'âme."
+        },
+        "porQue": "Un prix littéraire qui fête ses 25 ans dans un petit village est un patrimoine pour toute la commune : il place Villaviciosa sur la carte des lettres asturiennes et donne de la visibilité à ceux qui écrivent dans la région.",
+        "lugar": "Quintes",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Alejandro Oliva gewinnt den Clarín-Kurzgeschichtenpreis",
+        "entradilla": "Der Wettbewerb in Quintes erreicht seine 25. Ausgabe in gewohnt bester Verfassung.",
+        "cuerpo": [
+          "La Sociedad Clarín de Quintes verlieh ihren Kurzgeschichtenpreis an Alejandro Oliva bei der jüngsten Ausgabe des Wettbewerbs Leopoldo Alas «Clarín».",
+          "Der Wettbewerb wird fünfundzwanzig Jahre alt, und die Organisatoren werteten das als Zeichen dafür, dass der Preis weiterhin stark dasteht und weitermachen will."
+        ],
+        "apunte": "Fünfundzwanzig Jahre lang der Kurzprosa in einem Dorf eine Stimme gegeben, das gut zu lesen weiß.",
+        "enVeinte": [
+          "Alejandro Oliva erhält den Kurzgeschichtenpreis der Sociedad Clarín de Quintes.",
+          "Der Wettbewerb Leopoldo Alas «Clarín» feiert seine 25. Ausgabe.",
+          "Die Organisatoren betonen, dass der Wettbewerb dieses Jubiläum vollständig gefestigt erreicht."
+        ],
+        "cifra": {
+          "numero": "25",
+          "unidad": "Ausgaben",
+          "glosa": "Ein Vierteljahrhundert lang zeichnet der Wettbewerb Leopoldo Alas «Clarín» in Quintes Kurzgeschichten aus. Nur wenige lokale Literaturwettbewerbe halten so lange durch, ohne den Schritt zu verlieren."
+        },
+        "palabra": {
+          "termino": "Quintes",
+          "como": "Quintes, gleichmäßige Betonung, wird genau so ausgesprochen, wie es geschrieben wird",
+          "definicion": "Pfarrgemeinde der Gemeinde Villaviciosa in Asturien. Hier hat die Sociedad Clarín ihren Sitz, die ihren Namen vom Schriftsteller Leopoldo Alas trägt, der in Zamora geboren wurde, aber Asturier aus Überzeugung und Seele war."
+        },
+        "porQue": "Ein Literaturpreis, der in einem kleinen Dorf 25 Jahre alt wird, ist ein Erbe der gesamten Gemeinde: Er bringt Villaviciosa auf die Landkarte der asturischen Literatur und gibt denjenigen Sichtbarkeit, die hier schreiben.",
+        "lugar": "Quintes",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "su premio de relato corto a alejandro oliva"
+    ]
+  },
+  {
     "id": "esfoyaza-en-san-justo-como-anticipo-de-la-castana-azabache-que-se-entr",
     "url": "/villaviciosa/esfoyaza-en-san-justo-como-anticipo-de-la-castana-azabache-que-se-entr/",
     "concejo": "Villaviciosa",
@@ -45644,207 +45780,5 @@
       "iglesia parroquial de santa maria magdalena de po",
       "250 000 euros al ayuntamiento de cabrales para"
     ]
-  },
-  {
-    "id": "el-restaurante-castanon-de-quintes-cierra-sus-puertas-tras-dos-anos-de",
-    "url": "/villaviciosa/el-restaurante-castanon-de-quintes-cierra-sus-puertas-tras-dos-anos-de/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "actualidad",
-    "titular": "Cierra el restaurante Castañón de Quintes",
-    "entradilla": "Sonia Muñoz, que lo había reabierto en 2024, anuncia el cierre por razones personales.",
-    "cuerpo": [
-      "El restaurante Castañón, en Quintes (Villaviciosa), baja la persiana. Su responsable, Sonia Muñoz, ha comunicado el cierre tras poco más de dos años al frente del local.",
-      "Muñoz no ha dado más detalles que motivos de índole personal para explicar la decisión."
-    ],
-    "apunte": "Dos años le duró la segunda vida.",
-    "enVeinte": [
-      "El restaurante Castañón de Quintes cierra sus puertas.",
-      "Sonia Muñoz lo había reabierto en 2024 y ahora anuncia el adiós por motivos personales.",
-      "No hay más detalles por el momento sobre el futuro del local."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Quintes pierde uno de sus referentes en hostelería, abierto apenas dos años tras una reapertura que había generado expectativa en el concejo.",
-    "etiquetas": [
-      "Villaviciosa",
-      "hostelería",
-      "Quintes",
-      "cierre"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s1.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/24/Imagen%20quintes-restaurante-RNB1W0AfBTOV3SEd6LQfAtN-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-25T05:35:48.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/restaurante-castanon-quintes-cierra-puertas-20260824172351-nt.html",
-      "titularOriginal": "El restaurante Castañón de Quintes cierra sus puertas tras dos años desde su reapertura"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Restaurant Castañón de Quintes closes",
-        "entradilla": "Sonia Muñoz, who had reopened it in 2024, announces the closure for personal reasons.",
-        "cuerpo": [
-          "Restaurant Castañón, in Quintes (Villaviciosa), is shutting its doors. Its owner, Sonia Muñoz, has announced the closure after just over two years running the place.",
-          "Muñoz has given no further details beyond personal reasons to explain the decision."
-        ],
-        "apunte": "Its second life lasted two years.",
-        "enVeinte": [
-          "Restaurant Castañón de Quintes is closing its doors.",
-          "Sonia Muñoz had reopened it in 2024 and now announces its end for personal reasons.",
-          "There are no further details at this stage about the future of the premises."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Quintes loses one of its hospitality landmarks, open barely two years after a reopening that had raised expectations across the municipality.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le restaurant Castañón de Quintes ferme ses portes",
-        "entradilla": "Sonia Muñoz, qui l'avait rouvert en 2024, annonce la fermeture pour des raisons personnelles.",
-        "cuerpo": [
-          "Le restaurant Castañón, à Quintes (Villaviciosa), baisse le rideau. Sa responsable, Sonia Muñoz, a annoncé la fermeture après un peu plus de deux ans à la tête de l'établissement.",
-          "Muñoz n'a donné aucun autre détail que des motifs d'ordre personnel pour expliquer sa décision."
-        ],
-        "apunte": "Sa deuxième vie n'aura duré que deux ans.",
-        "enVeinte": [
-          "Le restaurant Castañón de Quintes ferme ses portes.",
-          "Sonia Muñoz l'avait rouvert en 2024 et annonce maintenant son départ pour des raisons personnelles.",
-          "Aucun autre détail n'est disponible pour l'instant sur l'avenir du local."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Quintes perd l'un de ses repères en restauration, ouvert à peine deux ans après une réouverture qui avait suscité de l'attente dans la commune.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Restaurant Castañón de Quintes schließt",
-        "entradilla": "Sonia Muñoz, die es 2024 wiedereröffnet hatte, kündigt die Schließung aus persönlichen Gründen an.",
-        "cuerpo": [
-          "Das Restaurant Castañón in Quintes (Villaviciosa) macht dicht. Die Inhaberin Sonia Muñoz hat die Schließung nach etwas mehr als zwei Jahren an der Spitze des Lokals bekanntgegeben.",
-          "Muñoz hat zur Begründung ihrer Entscheidung keine weiteren Details genannt — nur persönliche Gründe."
-        ],
-        "apunte": "Sein zweites Leben dauerte zwei Jahre.",
-        "enVeinte": [
-          "Das Restaurant Castañón de Quintes schließt seine Türen.",
-          "Sonia Muñoz hatte es 2024 wiedereröffnet und kündigt nun das Ende aus persönlichen Gründen an.",
-          "Über die Zukunft des Lokals gibt es derzeit keine weiteren Details."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Quintes verliert einen seiner gastronomischen Ankerpunkte — kaum zwei Jahre nach einer Wiedereröffnung, die in der Gemeinde einige Erwartungen geweckt hatte.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "desfile-de-carrozas-en-quintueles-por-san-bartolome",
-    "url": "/villaviciosa/desfile-de-carrozas-en-quintueles-por-san-bartolome/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "Quintueles celebra San Bartolomé con desfile de carrozas",
-    "entradilla": "La procesión recorrió el pueblo antes de la misa en la iglesia local.",
-    "cuerpo": [
-      "Quintueles vivió su fiesta mayor con un desfile de carrozas que recorrió las calles de la localidad camino de la iglesia, donde se celebró la misa en honor a San Bartolomé.",
-      "La comitiva reunió a vecinos y visitantes en uno de los actos centrales de las fiestas patronales del pueblo."
-    ],
-    "apunte": "",
-    "enVeinte": [
-      "Quintueles celebró San Bartolomé con un desfile de carrozas por las calles del pueblo.",
-      "La comitiva terminó en la iglesia, donde se ofició la misa patronal.",
-      "El acto reunió a vecinos y visitantes en las fiestas del lugar."
-    ],
-    "cifra": null,
-    "palabra": null,
-    "porQue": "Las fiestas de San Bartolomé son la cita más señalada del año para los vecinos de Quintueles y quienes tienen raíces allí.",
-    "etiquetas": [
-      "Quintueles",
-      "San Bartolomé",
-      "fiestas patronales",
-      "Villaviciosa"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "fiesta",
-    "lugar": "Quintueles",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/24/carrozas-quintueles-2-RB2hSK1LIfiHBWsMAX4iSPO-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-24T20:03:43.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/desfile-carrozas-quintueles-san-bartolome-20260824220331-nt.html",
-      "titularOriginal": "Desfile de carrozas en Quintueles por San Bartolomé"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Quintueles celebrates San Bartolomé with a float parade",
-        "entradilla": "The procession moved through the village before Mass at the local church.",
-        "cuerpo": [
-          "Quintueles marked its main feast day with a float parade through the streets of the village, making its way to the church, where Mass was held in honour of San Bartolomé.",
-          "The procession brought together residents and visitors for one of the centrepiece events of the village's patron saint festivities."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Quintueles celebrated San Bartolomé with a float parade through the village streets.",
-          "The procession ended at the church, where the patron saint Mass was held.",
-          "The event brought together residents and visitors for the village festivities."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "The San Bartolomé festivities are the most important date of the year for the residents of Quintueles and those with roots there.",
-        "lugar": "Quintueles",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Quintueles fête San Bartolomé avec un défilé de chars",
-        "entradilla": "La procession a traversé le village avant la messe en l'église locale.",
-        "cuerpo": [
-          "Quintueles a vécu sa fête principale avec un défilé de chars qui a parcouru les rues de la localité jusqu'à l'église, où a été célébrée la messe en l'honneur de San Bartolomé.",
-          "Le cortège a réuni habitants et visiteurs pour l'un des temps forts des fêtes patronales du village."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Quintueles a célébré San Bartolomé avec un défilé de chars dans les rues du village.",
-          "Le cortège s'est achevé à l'église, où la messe patronale a été célébrée.",
-          "L'événement a réuni habitants et visiteurs pour les fêtes du village."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Les fêtes de San Bartolomé sont le rendez-vous le plus important de l'année pour les habitants de Quintueles et ceux qui y ont des racines.",
-        "lugar": "Quintueles",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Quintueles feiert San Bartolomé mit einem Festwagen-Umzug",
-        "entradilla": "Die Prozession zog durch den Ort, bevor in der örtlichen Kirche die Messe gefeiert wurde.",
-        "cuerpo": [
-          "Quintueles beging sein Hauptfest mit einem Festwagen-Umzug durch die Straßen des Ortes bis zur Kirche, wo eine Messe zu Ehren von San Bartolomé gehalten wurde.",
-          "Der Festzug brachte Einwohner und Besucher zu einem der zentralen Ereignisse der Patronatsfeste des Dorfes zusammen."
-        ],
-        "apunte": "",
-        "enVeinte": [
-          "Quintueles feierte San Bartolomé mit einem Festwagen-Umzug durch die Straßen des Dorfes.",
-          "Der Festzug endete an der Kirche, wo die Patronatsmesse gefeiert wurde.",
-          "Die Veranstaltung brachte Einwohner und Besucher zu den Dorffesten zusammen."
-        ],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "Die Feste von San Bartolomé sind der wichtigste Termin des Jahres für die Einwohner von Quintueles und alle, die dort ihre Wurzeln haben.",
-        "lugar": "Quintueles",
-        "precio": ""
-      }
-    }
   }
 ]
