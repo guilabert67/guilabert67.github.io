@@ -1,5 +1,125 @@
 [
   {
+    "id": "el-comercio-de-villaviciosa-sorteara-400-euros-durante-el-black-friday",
+    "url": "/villaviciosa/el-comercio-de-villaviciosa-sorteara-400-euros-durante-el-black-friday/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa sortea 400 euros por el Black Friday",
+    "entradilla": "Más de cuarenta tiendas de la villa participan en la campaña de Acosevi, que premia compras desde 20 euros.",
+    "cuerpo": [
+      "Del 23 al 28 de noviembre, quien compre en los comercios adheridos a Acosevi por más de 20 euros entra en el sorteo de cuatro cheques de 100 euros cada uno.",
+      "La iniciativa arranca coincidiendo con el Black Friday y busca que parte del gasto de esas fechas se quede en las tiendas del pueblo, donde participan más de cuarenta establecimientos."
+    ],
+    "apunte": "Cuatro personas se van a llevar 100 euros por hacer lo que iban a hacer de todas formas.",
+    "enVeinte": [
+      "Acosevi sortea cuatro cheques de 100 euros entre clientes que gasten más de 20 euros en comercios de Villaviciosa entre el 23 y el 28 de noviembre.",
+      "Más de cuarenta tiendas de la villa se suman a la campaña, que coincide con el Black Friday.",
+      "Para participar basta con comprar en cualquiera de los establecimientos adheridos durante esos seis días."
+    ],
+    "cifra": {
+      "numero": "40",
+      "unidad": "establecimientos",
+      "glosa": "Más de cuarenta tiendas de Villaviciosa participan en la campaña. Es el escaparate local que compite, durante una semana marcada por las grandes plataformas digitales, por quedarse con parte del gasto de los vecinos."
+    },
+    "palabra": null,
+    "porQue": "Comprar en el comercio de Villaviciosa estos días da opciones reales de recuperar dinero, y de paso mantiene vivas las tiendas del pueblo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "comercio local",
+      "Black Friday",
+      "Acosevi"
+    ],
+    "fechaEvento": "2026-11-23",
+    "tipoEvento": "mercado",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "compra mínima de 20 €",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-comercio-de-villaviciosa-sorteara-400-euros-dur-43513a93.jpg",
+    "fecha": "2026-11-23T21:37:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/el-comercio-de-villaviciosa-sorteara-400-euros-durante-el-black-friday-11277310.html",
+      "titularOriginal": "El comercio de Villaviciosa sorteará 400 euros durante el Black Friday"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa raffles off 400 euros for Black Friday",
+        "entradilla": "More than forty shops in the town are taking part in the Acosevi campaign, which rewards purchases from 20 euros.",
+        "cuerpo": [
+          "From 23 to 28 November, anyone who spends more than 20 euros at shops affiliated with Acosevi enters a draw for four vouchers of 100 euros each.",
+          "The initiative launches alongside Black Friday and aims to keep part of that seasonal spending within the town's shops, with more than forty establishments taking part."
+        ],
+        "apunte": "Four people are going to walk away with 100 euros for doing what they were going to do anyway.",
+        "enVeinte": [
+          "Acosevi is raffling four 100-euro vouchers among customers who spend more than 20 euros at shops in Villaviciosa between 23 and 28 November.",
+          "More than forty shops in the town are joining the campaign, which coincides with Black Friday.",
+          "To enter, simply shop at any of the affiliated establishments during those six days."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "establishments",
+          "glosa": "More than forty shops in Villaviciosa are taking part in the campaign. It is the local showcase competing, during a week dominated by major digital platforms, to hold on to a share of residents' spending."
+        },
+        "palabra": null,
+        "porQue": "Shopping in Villaviciosa's local shops during these days gives you a real chance of getting money back, and at the same time keeps the town's stores alive.",
+        "lugar": "Villaviciosa",
+        "precio": "minimum purchase of 20 €"
+      },
+      "fr": {
+        "titular": "Villaviciosa tire au sort 400 euros pour le Black Friday",
+        "entradilla": "Plus de quarante commerces de la ville participent à la campagne d'Acosevi, qui récompense les achats à partir de 20 euros.",
+        "cuerpo": [
+          "Du 23 au 28 novembre, toute personne dépensant plus de 20 euros dans les commerces affiliés à Acosevi participe au tirage au sort de quatre chèques de 100 euros chacun.",
+          "L'initiative se lance à l'occasion du Black Friday et vise à faire rester une partie des dépenses de cette période dans les boutiques du bourg, avec plus de quarante établissements participants."
+        ],
+        "apunte": "Quatre personnes vont repartir avec 100 euros pour avoir fait ce qu'elles avaient de toute façon prévu de faire.",
+        "enVeinte": [
+          "Acosevi tire au sort quatre chèques de 100 euros parmi les clients dépensant plus de 20 euros dans les commerces de Villaviciosa entre le 23 et le 28 novembre.",
+          "Plus de quarante boutiques de la ville rejoignent la campagne, qui coïncide avec le Black Friday.",
+          "Pour participer, il suffit d'acheter dans l'un des établissements affiliés pendant ces six jours."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "établissements",
+          "glosa": "Plus de quarante commerces de Villaviciosa participent à la campagne. C'est la vitrine locale qui entre en concurrence, durant une semaine marquée par les grandes plateformes numériques, pour capter une partie des dépenses des habitants."
+        },
+        "palabra": null,
+        "porQue": "Faire ses achats dans les commerces de Villaviciosa ces jours-ci offre de vraies chances de récupérer de l'argent, tout en maintenant en vie les boutiques du bourg.",
+        "lugar": "Villaviciosa",
+        "precio": "achat minimum de 20 €"
+      },
+      "de": {
+        "titular": "Villaviciosa verlost 400 Euro zum Black Friday",
+        "entradilla": "Mehr als vierzig Geschäfte des Ortes nehmen an der Acosevi-Kampagne teil, die Einkäufe ab 20 Euro belohnt.",
+        "cuerpo": [
+          "Vom 23. bis 28. November nimmt jede Person, die in den bei Acosevi angeschlossenen Geschäften mehr als 20 Euro ausgibt, an der Verlosung von vier Gutscheinen zu je 100 Euro teil.",
+          "Die Initiative startet zum Black Friday und soll dafür sorgen, dass ein Teil der Ausgaben dieser Zeit in den Läden des Ortes bleibt — mehr als vierzig Betriebe machen mit."
+        ],
+        "apunte": "Vier Menschen werden 100 Euro mit nach Hause nehmen, weil sie das getan haben, was sie sowieso vorhaden.",
+        "enVeinte": [
+          "Acosevi verlost vier Gutscheine zu je 100 Euro unter Kundinnen und Kunden, die zwischen dem 23. und 28. November mehr als 20 Euro in Geschäften in Villaviciosa ausgeben.",
+          "Mehr als vierzig Läden des Ortes schließen sich der Kampagne an, die mit dem Black Friday zusammenfällt.",
+          "Zur Teilnahme genügt ein Einkauf in einem der angeschlossenen Betriebe an einem dieser sechs Tage."
+        ],
+        "cifra": {
+          "numero": "40",
+          "unidad": "Betriebe",
+          "glosa": "Mehr als vierzig Geschäfte in Villaviciosa nehmen an der Kampagne teil. Sie sind das lokale Schaufenster, das in einer von großen digitalen Plattformen geprägten Woche um einen Teil der Ausgaben der Einwohnerinnen und Einwohner kämpft."
+        },
+        "palabra": null,
+        "porQue": "Wer in diesen Tagen in den Geschäften von Villaviciosa einkauft, hat echte Chancen, Geld zurückzubekommen — und hält nebenbei die Läden des Ortes am Leben.",
+        "lugar": "Villaviciosa",
+        "precio": "Mindesteinkauf von 20 €"
+      }
+    },
+    "revisar": [
+      "20 euros del 23 al 28 de noviembre"
+    ]
+  },
+  {
     "id": "villaviciosa-le-da-la-vuelta-al-black-friday-compra-en-las-tiendas-de-",
     "url": "/villaviciosa/villaviciosa-le-da-la-vuelta-al-black-friday-compra-en-las-tiendas-de-/",
     "concejo": "Villaviciosa",
