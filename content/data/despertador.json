@@ -1,10 +1,20 @@
 {
-  "fecha": "2026-11-24T04:58:16.367Z",
+  "fecha": "2026-11-24T15:48:40.872Z",
   "puntos": [
     {
-      "concejo": "Villaviciosa",
-      "frase": "Más de cuarenta tiendas de Villaviciosa sortean 400 euros entre sus clientes este Black Friday.",
-      "enlace": "/villaviciosa/el-comercio-de-villaviciosa-sorteara-400-euros-durante-el-black-friday/"
+      "concejo": "Piloña",
+      "frase": "Una semana de actos contra la violencia machista arranca en Piloña el 25N.",
+      "enlace": "/pilona/pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti/"
+    },
+    {
+      "concejo": "Nava",
+      "frase": "Nava da diez días para apuntarse al concurso de escaparates navideños.",
+      "enlace": "/nava/concurso-de-escaparates-con-motivos-navidenos-2026/"
+    },
+    {
+      "concejo": "Piloña",
+      "frase": "La Benéfica programa dos conciertos: Cuévano el 19 de diciembre y El Nido el 23 de enero.",
+      "enlace": "/pilona/la-benefica-de-pilona-acogera-el-debut-discografico-de-cuevano-y-el-fi/"
     }
   ]
 }
