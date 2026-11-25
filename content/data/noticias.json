@@ -1,5 +1,690 @@
 [
   {
+    "id": "denuncian-la-caida-de-un-arbol-en-el-rio-sella-que-nadie-recoge",
+    "url": "/pilona/denuncian-la-caida-de-un-arbol-en-el-rio-sella-que-nadie-recoge/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Un árbol caído en el Sella espera recogida",
+    "entradilla": "Los vecinos de Piloña llevan tiempo reclamando a la Confederación del Cantábrico que retire el tronco.",
+    "cuerpo": [
+      "Un árbol ha caído al río Sella, en el concejo de Piloña, y permanece allí sin que nadie lo haya retirado. Los vecinos han denunciado la situación y exigen a la Confederación Hidrográfica del Cantábrico que actúe.",
+      "La Confederación es el organismo responsable del cauce del Sella, por lo que la pelota está en su tejado. De momento, no hay respuesta pública."
+    ],
+    "apunte": "El árbol lleva en el río lo que llevan los vecinos reclamando: demasiado.",
+    "enVeinte": [
+      "Un árbol caído en el río Sella, a su paso por Piloña, lleva tiempo sin ser retirado.",
+      "Los vecinos han pedido a la Confederación Hidrográfica del Cantábrico que se haga cargo.",
+      "Por ahora no hay respuesta ni actuación conocida por parte del organismo."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Sella",
+      "como": "Sélla, con acento en la primera sílaba",
+      "definicion": "Río asturiano que nace en los Picos de Europa y desemboca en Ribadesella. A su paso por Piloña es un cauce de competencia estatal, gestionado por la Confederación Hidrográfica del Cantábrico."
+    },
+    "porQue": "Un tronco en el cauce puede alterar el flujo del río, dañar infraestructuras y afectar a quienes tienen fincas o actividades junto al Sella.",
+    "etiquetas": [
+      "Piloña",
+      "río Sella",
+      "Confederación del Cantábrico",
+      "medio ambiente"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/24/arbol-kl7E-U40523276778FUG-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-24T21:27:21.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Oriente",
+      "url": "https://www.elcomercio.es/asturias/oriente/denuncian-caida-arbol-rio-sella-recoge-20261124222720-nt.html",
+      "titularOriginal": "Denuncian la caída de un árbol en el río Sella «que nadie recoge»"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A fallen tree in the Sella is still waiting to be removed",
+        "entradilla": "Piloña residents have been asking the Confederación del Cantábrico to clear the trunk for some time.",
+        "cuerpo": [
+          "A tree has fallen into the river Sella, in the municipality of Piloña, and remains there uncleared. Residents have reported the situation and are demanding that the Confederación Hidrográfica del Cantábrico take action.",
+          "The Confederación is the body responsible for the Sella riverbed, so the ball is in its court. So far, there has been no public response."
+        ],
+        "apunte": "The tree has been in the river as long as residents have been complaining: too long.",
+        "enVeinte": [
+          "A fallen tree in the river Sella, as it passes through Piloña, has gone unremoved for some time.",
+          "Residents have asked the Confederación Hidrográfica del Cantábrico to take charge of the matter.",
+          "So far there has been no known response or action from the body."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sella",
+          "como": "Sélla, with the stress on the first syllable",
+          "definicion": "An Asturian river that rises in the Picos de Europa and flows into the sea at Ribadesella. As it passes through Piloña it is a state-managed waterway, administered by the Confederación Hidrográfica del Cantábrico."
+        },
+        "porQue": "A trunk in the riverbed can alter the flow of the river, damage infrastructure and affect those with land or activities along the Sella.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un arbre tombé dans le Sella attend toujours d'être retiré",
+        "entradilla": "Les habitants de Piloña demandent depuis un moment à la Confederación del Cantábrico de dégager le tronc.",
+        "cuerpo": [
+          "Un arbre est tombé dans la rivière Sella, dans la commune de Piloña, et y reste sans que personne ne l'ait encore retiré. Les habitants ont signalé la situation et exigent que la Confederación Hidrográfica del Cantábrico intervienne.",
+          "La Confederación est l'organisme responsable du lit du Sella : c'est donc à elle d'agir. Pour l'instant, aucune réponse publique n'a été apportée."
+        ],
+        "apunte": "L'arbre est dans la rivière depuis aussi longtemps que les habitants réclament : trop longtemps.",
+        "enVeinte": [
+          "Un arbre tombé dans la rivière Sella, à son passage par Piloña, n'a pas encore été retiré.",
+          "Les habitants ont demandé à la Confederación Hidrográfica del Cantábrico de prendre en charge la situation.",
+          "Pour l'instant, aucune réponse ni intervention connue de la part de l'organisme."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sella",
+          "como": "Sélla, avec l'accent sur la première syllabe",
+          "definicion": "Rivière asturienne qui prend sa source dans les Picos de Europa et se jette dans la mer à Ribadesella. À son passage par Piloña, elle est un cours d'eau de compétence étatique, géré par la Confederación Hidrográfica del Cantábrico."
+        },
+        "porQue": "Un tronc dans le lit de la rivière peut modifier le débit, endommager des infrastructures et nuire à ceux qui possèdent des terrains ou exercent des activités le long du Sella.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein umgestürzter Baum im Sella wartet noch immer auf seine Beseitigung",
+        "entradilla": "Die Bewohner von Piloña fordern die Confederación del Cantábrico seit Längerem auf, den Stamm zu entfernen.",
+        "cuerpo": [
+          "Ein Baum ist in die Gemeinde Piloña in den Fluss Sella gefallen und liegt dort noch immer, ohne dass ihn jemand beseitigt hätte. Die Anwohner haben die Situation gemeldet und fordern die Confederación Hidrográfica del Cantábrico zum Handeln auf.",
+          "Die Confederación ist die zuständige Behörde für das Flussbett des Sella — der Ball liegt also bei ihr. Bislang gibt es keine öffentliche Reaktion."
+        ],
+        "apunte": "Der Baum liegt so lange im Fluss, wie die Anwohner schon klagen: zu lange.",
+        "enVeinte": [
+          "Ein umgestürzter Baum im Fluss Sella auf Höhe von Piloña wurde bislang nicht entfernt.",
+          "Die Anwohner haben die Confederación Hidrográfica del Cantábrico gebeten, die Sache in die Hand zu nehmen.",
+          "Bisher ist keine Reaktion und keine Maßnahme der Behörde bekannt."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sella",
+          "como": "Sélla, mit Betonung auf der ersten Silbe",
+          "definicion": "Ein asturischer Fluss, der in den Picos de Europa entspringt und bei Ribadesella ins Meer mündet. Auf seinem Weg durch Piloña ist er ein staatlich verwaltetes Gewässer, das der Confederación Hidrográfica del Cantábrico untersteht."
+        },
+        "porQue": "Ein Baumstamm im Flussbett kann den Wasserfluss verändern, Infrastrukturen beschädigen und Menschen beeinträchtigen, die Grundstücke oder Tätigkeiten am Sella haben.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "julio-pando-se-proclama-campeon-de-espana-de-enduro-3",
+    "url": "/pilona/julio-pando-se-proclama-campeon-de-espana-de-enduro-3/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Julio Pando, campeón de España de Enduro-3",
+    "entradilla": "El piloto de Infiesto cerró el título en Córdoba sin ceder ni un podio en toda la temporada.",
+    "cuerpo": [
+      "Julio Pando Llana, del equipo Beta Trueba y vecino de Infiesto, se proclamó campeón de España de Enduro-3 el pasado fin de semana en Cerro Muriano, Córdoba. No solo aseguró el título: ganó las dos jornadas disputadas allí, el sábado y el domingo.",
+      "Llegó a esa última cita como líder destacado y se marchó con 238 puntos en la clasificación final. A lo largo de 2026 no bajó del podio en ninguna de las pruebas puntuables, con dobletes de victorias también en La Torre d'Oristà y en Piñor.",
+      "En Córdoba superó al compañero de marca Pau Tomàs y a Francesc Aguilar, de Rieju. Con este título nacional, Piloña vuelve a sonar en el enduro español."
+    ],
+    "apunte": "238 puntos, cero bajonazos: una temporada de libro.",
+    "enVeinte": [
+      "Julio Pando Llana, de Infiesto, ganó el campeonato de España de Enduro-3 de 2026.",
+      "Cerró la temporada sin bajar del podio en ninguna prueba y con 238 puntos en total.",
+      "El título se decidió en Cerro Muriano (Córdoba), donde además se impuso en las dos jornadas del fin de semana."
+    ],
+    "cifra": {
+      "numero": "238",
+      "unidad": "puntos",
+      "glosa": "Es la suma total que Pando acumuló en el campeonato de España de Enduro-3 durante 2026. El dato refleja una temporada sin fisuras: subió al podio en todas las pruebas puntuables, así que no dejó escapar puntos en ninguna cita."
+    },
+    "palabra": {
+      "termino": "enduro",
+      "como": "enduro (igual que en castellano, con acento en la primera sílaba)",
+      "definicion": "Modalidad de competición en moto que se disputa en terreno natural y exige velocidad, técnica y resistencia en recorridos con obstáculos variados. A diferencia del motocross, los tramos de enlace entre especiales son parte de la prueba y penalizan si se incumplen los tiempos."
+    },
+    "porQue": "Un vecino de Infiesto acaba de ganar el campeonato de España en su categoría: es el mejor título que puede conseguir un piloto nacional, y Piloña pone su nombre en lo más alto del enduro español.",
+    "etiquetas": [
+      "Julio Pando",
+      "enduro",
+      "Infiesto",
+      "campeón de España"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://lacronicadepilona.com/wp-content/uploads/julio-pando-enduro3-4.webp",
+    "fecha": "2026-11-24T17:30:59.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://lacronicadepilona.com/julio-pando-se-proclama-campeon-de-espana-de-enduro-3/",
+      "titularOriginal": "Julio Pando se proclama campeón de España de Enduro-3"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Julio Pando, Spanish Enduro-3 Champion",
+        "entradilla": "The Infiesto rider clinched the title in Córdoba without dropping off the podium once all season.",
+        "cuerpo": [
+          "Julio Pando Llana, from the Beta Trueba team and a resident of Infiesto, was crowned Spanish Enduro-3 Champion last weekend at Cerro Muriano, Córdoba. He did not just secure the title: he won both days of racing held there, Saturday and Sunday.",
+          "He arrived at that final round as the clear leader and left with 238 points in the final standings. Throughout 2026 he never dropped off the podium at any of the scoring rounds, including double victories at La Torre d'Oristà and at Piñor.",
+          "In Córdoba he beat fellow brand rider Pau Tomàs and Francesc Aguilar, from Rieju. With this national title, Piloña is back on the map of Spanish enduro."
+        ],
+        "apunte": "238 points, zero slumps: a textbook season.",
+        "enVeinte": [
+          "Julio Pando Llana, from Infiesto, won the 2026 Spanish Enduro-3 Championship.",
+          "He finished the season without dropping off the podium at a single round, totalling 238 points.",
+          "The title was decided at Cerro Muriano (Córdoba), where he also won both days of the weekend."
+        ],
+        "cifra": {
+          "numero": "238",
+          "unidad": "points",
+          "glosa": "This is the total Pando accumulated in the 2026 Spanish Enduro-3 Championship. The figure reflects a flawless season: he stepped onto the podium at every scoring round, leaving no points on the table at any event."
+        },
+        "palabra": {
+          "termino": "enduro",
+          "como": "enduro (the same as in Spanish, with the stress on the first syllable)",
+          "definicion": "A form of motorcycle competition held on natural terrain that demands speed, technique and stamina across courses with varied obstacles. Unlike motocross, the liaison sections between timed specials are part of the event and carry time penalties if riders miss their schedules."
+        },
+        "porQue": "A resident of Infiesto has just won the Spanish championship in his category: it is the highest title a national rider can achieve, and Piloña has put its name at the top of Spanish enduro.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Julio Pando, champion d'Espagne d'Enduro-3",
+        "entradilla": "Le pilote d'Infiesto a décroché le titre à Córdoba sans quitter le podium une seule fois de toute la saison.",
+        "cuerpo": [
+          "Julio Pando Llana, de l'équipe Beta Trueba et résident d'Infiesto, a été sacré champion d'Espagne d'Enduro-3 le week-end dernier à Cerro Muriano, Córdoba. Il n'a pas seulement assuré le titre : il a remporté les deux journées disputées là-bas, le samedi et le dimanche.",
+          "Il s'est présenté à cette dernière manche en tête du classement avec une avance confortable et en est reparti avec 238 points au total. Tout au long de 2026, il n'est jamais descendu du podium lors des manches comptant pour le championnat, avec des doublés de victoires à La Torre d'Oristà et à Piñor.",
+          "À Córdoba, il a devancé son coéquipier de marque Pau Tomàs et Francesc Aguilar, de Rieju. Grâce à ce titre national, Piloña résonne à nouveau dans l'enduro espagnol."
+        ],
+        "apunte": "238 points, zéro passage à vide : une saison de manuel.",
+        "enVeinte": [
+          "Julio Pando Llana, d'Infiesto, a remporté le championnat d'Espagne d'Enduro-3 2026.",
+          "Il a terminé la saison sans quitter le podium lors d'aucune manche, avec 238 points au total.",
+          "Le titre s'est joué à Cerro Muriano (Córdoba), où il s'est en plus imposé lors des deux journées du week-end."
+        ],
+        "cifra": {
+          "numero": "238",
+          "unidad": "points",
+          "glosa": "C'est le total que Pando a accumulé lors du championnat d'Espagne d'Enduro-3 2026. Ce chiffre reflète une saison sans failles : il est monté sur le podium à chaque manche comptant pour le championnat, sans laisser échapper le moindre point."
+        },
+        "palabra": {
+          "termino": "enduro",
+          "como": "enduro (identique à l'espagnol, avec l'accent tonique sur la première syllabe)",
+          "definicion": "Discipline de compétition moto disputée en terrain naturel, qui exige vitesse, technique et endurance sur des parcours comportant des obstacles variés. Contrairement au motocross, les sections de liaison entre les spéciales chronométrées font partie de l'épreuve et pénalisent les pilotes qui ne respectent pas les horaires."
+        },
+        "porQue": "Un habitant d'Infiesto vient de remporter le championnat d'Espagne dans sa catégorie : c'est le titre le plus élevé qu'un pilote national puisse décrocher, et Piloña s'inscrit ainsi au sommet de l'enduro espagnol.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Julio Pando, spanischer Enduro-3-Meister",
+        "entradilla": "Der Fahrer aus Infiesto sicherte sich den Titel in Córdoba, ohne in der gesamten Saison auch nur einmal das Podium zu verlassen.",
+        "cuerpo": [
+          "Julio Pando Llana vom Team Beta Trueba, wohnhaft in Infiesto, wurde am vergangenen Wochenende in Cerro Muriano, Córdoba, zum spanischen Enduro-3-Meister gekrönt. Er sicherte sich nicht nur den Titel: Er gewann auch beide dort ausgetragenen Renntage, Samstag und Sonntag.",
+          "Er reiste als klarer Führender zu diesem letzten Lauf an und verabschiedete sich mit 238 Punkten in der Abschlusswertung. Im Verlauf des Jahres 2026 verpasste er bei keinem der Wertungsläufe das Podium, darunter Doppelsiege in La Torre d'Oristà und in Piñor.",
+          "In Córdoba verwies er seinen Markenkollegen Pau Tomàs und Francesc Aguilar von Rieju auf die Plätze. Mit diesem nationalen Titel ist Piloña wieder ein Begriff im spanischen Enduro."
+        ],
+        "apunte": "238 Punkte, kein einziger Einbruch: eine Bilderbuchsaison.",
+        "enVeinte": [
+          "Julio Pando Llana aus Infiesto gewann die spanische Enduro-3-Meisterschaft 2026.",
+          "Er beendete die Saison, ohne bei einem einzigen Lauf das Podium zu verlassen, und sammelte insgesamt 238 Punkte.",
+          "Der Titel fiel in Cerro Muriano (Córdoba), wo er zudem beide Renntage des Wochenendes für sich entschied."
+        ],
+        "cifra": {
+          "numero": "238",
+          "unidad": "Punkte",
+          "glosa": "Das ist die Gesamtpunktzahl, die Pando bei der spanischen Enduro-3-Meisterschaft 2026 erzielte. Die Zahl spiegelt eine makellose Saison wider: Bei jedem Wertungslauf stand er auf dem Podium und ließ bei keinem Rennen Punkte liegen."
+        },
+        "palabra": {
+          "termino": "enduro",
+          "como": "enduro (wie im Spanischen, mit der Betonung auf der ersten Silbe)",
+          "definicion": "Eine Motorrad-Wettkampfdisziplin, die in natürlichem Gelände ausgetragen wird und Geschwindigkeit, Technik und Ausdauer auf Strecken mit verschiedenartigen Hindernissen verlangt. Anders als beim Motocross sind die Verbindungsabschnitte zwischen den Wertungsprüfungen Teil des Rennens und werden mit Zeitstrafen belegt, wenn die Zeitvorgaben nicht eingehalten werden."
+        },
+        "porQue": "Ein Einwohner von Infiesto hat gerade die spanische Meisterschaft in seiner Kategorie gewonnen: Es ist der höchste Titel, den ein nationaler Fahrer erreichen kann, und Piloña steht damit ganz oben im spanischen Enduro.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "campeon de espana de enduro 3 el piloto",
+      "de espana de enduro 3 el piloto de",
+      "espana de enduro 3 el piloto de infiesto",
+      "companero de marca pau tomas y a francesc",
+      "de marca pau tomas y a francesc aguilar",
+      "marca pau tomas y a francesc aguilar de",
+      "pau tomas y a francesc aguilar de rieju"
+    ]
+  },
+  {
+    "id": "la-coordinadora-ecoloxista-d-asturies-pide-verificar-la-legalidad-de-u",
+    "url": "/cabranes/la-coordinadora-ecoloxista-d-asturies-pide-verificar-la-legalidad-de-u/",
+    "concejo": "Cabranes",
+    "concejoSlug": "cabranes",
+    "seccion": "actualidad",
+    "titular": "Ecologistas piden revisar una plantación de eucaliptos en Cabranes",
+    "entradilla": "La Coordinadora Ecoloxista d'Asturies ha llevado el asunto a la Consejería de Medio Rural, que tendrá que pronunciarse sobre si la plantación cumple la legalidad.",
+    "cuerpo": [
+      "La Coordinadora Ecoloxista d'Asturies ha pedido a la Consejería de Medio Rural y Política Agraria que compruebe si una nueva plantación de eucaliptos en Cabranes se ajusta a la normativa vigente.",
+      "La organización ecologista ha puesto el foco en la zona donde se ha llevado a cabo la plantación, aunque el material disponible no detalla qué características concretas la hacen sospechosa de irregularidad."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "La Coordinadora Ecoloxista d'Asturies ha solicitado a la Consejería de Medio Rural que verifique la legalidad de una plantación de eucaliptos en Cabranes.",
+      "La organización denuncia la existencia de una nueva plantación en una zona que, según ella, podría no cumplir la normativa.",
+      "La Consejería de Medio Rural y Política Agraria es quien debe ahora comprobar si la plantación es o no legal."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Coordinadora Ecoloxista d'Asturies",
+      "como": "co-or-di-na-DO-ra e-co-lo-XEIS-ta d'As-TU-ries",
+      "definicion": "Organización asturiana de defensa del medio ambiente que agrupa a colectivos ecologistas del Principado. Es una de las voces más activas en los debates sobre repoblaciones forestales y uso del suelo en Asturias."
+    },
+    "porQue": "Si la Consejería confirma que la plantación no es legal, podría obligarse a su retirada; si la avala, el eucaliptal quedará consolidado en ese rincón de Cabranes.",
+    "etiquetas": [
+      "Cabranes",
+      "eucaliptos",
+      "medio ambiente",
+      "Coordinadora Ecoloxista"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/la-coordinadora-ecoloxista-d-asturies-pide-verificar-l-50437.jpg",
+    "fecha": "2026-11-24T17:00:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-cabranes/la-coordinadora-ecoloxista-d-asturies-pide-verificar-la-legalidad-de-una-plantacion-de-eucaliptos-en-cabranes-11277325.html",
+      "titularOriginal": "La Coordinadora Ecoloxista d'Asturies pide verificar la legalidad de una plantación de eucaliptos en Cabranes"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Environmentalists call for a review of a eucalyptus plantation in Cabranes",
+        "entradilla": "La Coordinadora Ecoloxista d'Asturies has brought the matter to the Regional Ministry of Rural Affairs, which will have to rule on whether the plantation complies with the law.",
+        "cuerpo": [
+          "La Coordinadora Ecoloxista d'Asturies has asked the Regional Ministry of Rural Affairs and Agricultural Policy to check whether a new eucalyptus plantation in Cabranes meets current regulations.",
+          "The environmental organisation has drawn attention to the area where the plantation was carried out, although the available material does not specify what characteristics make it suspected of being irregular."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coordinadora Ecoloxista d'Asturies has asked the Regional Ministry of Rural Affairs to verify the legality of a eucalyptus plantation in Cabranes.",
+          "The organisation reports the existence of a new plantation in an area that, in its view, may not comply with current regulations.",
+          "The Regional Ministry of Rural Affairs and Agricultural Policy must now determine whether the plantation is legal or not."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coordinadora Ecoloxista d'Asturies",
+          "como": "co-or-di-na-DO-ra e-co-lo-XEIS-ta d'As-TU-ries",
+          "definicion": "An Asturian environmental organisation that brings together ecological groups from across the Principality of Asturias. It is one of the most active voices in debates on forest replanting and land use in Asturias."
+        },
+        "porQue": "If the Regional Ministry confirms that the plantation is unlawful, its removal could be ordered; if it approves it, the eucalyptus grove will be consolidated in that corner of Cabranes.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Des écologistes demandent la révision d'une plantation d'eucalyptus à Cabranes",
+        "entradilla": "La Coordinadora Ecoloxista d'Asturies a saisi la Consejería de Medio Rural, qui devra se prononcer sur la conformité de la plantation avec la législation en vigueur.",
+        "cuerpo": [
+          "La Coordinadora Ecoloxista d'Asturies a demandé à la Consejería de Medio Rural y Política Agraria de vérifier si une nouvelle plantation d'eucalyptus à Cabranes respecte la réglementation en vigueur.",
+          "L'organisation écologiste a mis en lumière la zone où la plantation a été réalisée, bien que les informations disponibles ne précisent pas quelles caractéristiques la rendent suspecte d'irrégularité."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coordinadora Ecoloxista d'Asturies a demandé à la Consejería de Medio Rural de vérifier la légalité d'une plantation d'eucalyptus à Cabranes.",
+          "L'organisation signale l'existence d'une nouvelle plantation dans une zone qui, selon elle, pourrait ne pas être conforme à la réglementation.",
+          "C'est désormais à la Consejería de Medio Rural y Política Agraria de déterminer si la plantation est légale ou non."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coordinadora Ecoloxista d'Asturies",
+          "como": "co-or-di-na-DO-ra e-co-lo-XEIS-ta d'As-TU-ries",
+          "definicion": "Organisation environnementale asturienne qui regroupe des collectifs écologistes de la Principauté des Asturies. Elle est l'une des voix les plus actives dans les débats sur le reboisement et l'utilisation des sols en Asturies."
+        },
+        "porQue": "Si la Consejería confirme que la plantation n'est pas légale, elle pourrait en ordonner l'arrachage ; si elle l'approuve, l'eucalyptaie sera consolidée dans ce coin de Cabranes.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Umweltschützer fordern Überprüfung einer Eukalyptusplantage in Cabranes",
+        "entradilla": "La Coordinadora Ecoloxista d'Asturies hat die Angelegenheit an die Consejería de Medio Rural herangetragen, die nun entscheiden muss, ob die Plantage den gesetzlichen Vorschriften entspricht.",
+        "cuerpo": [
+          "La Coordinadora Ecoloxista d'Asturies hat die Consejería de Medio Rural y Política Agraria aufgefordert zu prüfen, ob eine neue Eukalyptusplantage in Cabranes den geltenden Vorschriften entspricht.",
+          "Die Umweltorganisation hat die Zone, in der die Plantage angelegt wurde, in den Fokus gerückt, obwohl das verfügbare Material nicht genau benennt, welche Merkmale den Verdacht auf einen Verstoß begründen."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "La Coordinadora Ecoloxista d'Asturies hat die Consejería de Medio Rural aufgefordert, die Rechtmäßigkeit einer Eukalyptusplantage in Cabranes zu überprüfen.",
+          "Die Organisation meldet das Vorhandensein einer neuen Plantage in einem Gebiet, das ihrer Ansicht nach möglicherweise nicht den Vorschriften entspricht.",
+          "Die Consejería de Medio Rural y Política Agraria muss nun feststellen, ob die Plantage legal ist oder nicht."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Coordinadora Ecoloxista d'Asturies",
+          "como": "co-or-di-na-DO-ra e-co-lo-XEIS-ta d'As-TU-ries",
+          "definicion": "Asturische Umweltorganisation, die ökologische Gruppen aus dem gesamten Fürstentum Asturien vereint. Sie gehört zu den aktivsten Stimmen in den Debatten über Wiederaufforstung und Bodennutzung in Asturien."
+        },
+        "porQue": "Bestätigt die Consejería, dass die Plantage nicht legal ist, könnte deren Beseitigung angeordnet werden; genehmigt sie sie, wird der Eukalyptusbestand in diesem Winkel von Cabranes dauerhaft festgesetzt.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "una plantacion de eucaliptos en cabranes la coordinadora",
+      "plantacion de eucaliptos en cabranes la coordinadora ecoloxista",
+      "de eucaliptos en cabranes la coordinadora ecoloxista d",
+      "eucaliptos en cabranes la coordinadora ecoloxista d asturies",
+      "en cabranes la coordinadora ecoloxista d asturies ha",
+      "a la consejeria de medio rural y politica",
+      "la consejeria de medio rural y politica agraria",
+      "consejeria de medio rural y politica agraria que"
+    ]
+  },
+  {
+    "id": "cuenta-general-2025",
+    "url": "/villaviciosa/cuenta-general-2025/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Villaviciosa abre sus cuentas de 2025 a consulta",
+    "entradilla": "Los vecinos tienen 15 días para revisar y presentar alegaciones a la Cuenta General desde que se publicó en el BOPA el 3 de noviembre.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa aprobó en comisión la Cuenta General del ejercicio 2025 el 26 de octubre, con seis votos a favor del grupo socialista y cinco abstenciones —cuatro del PP y una de la concejal no adscrita— y la sometió a información pública en el plazo reglamentario.",
+      "El anuncio salió en el Boletín Oficial del Principado de Asturias el martes 3 de noviembre, lo que abre un período de 15 días hábiles para que cualquier ciudadano consulte el documento y, si lo considera oportuno, presente alegaciones.",
+      "Una vez cerrado ese plazo, las cuentas subirán al Pleno para resolver las alegaciones que haya y dar la aprobación definitiva antes de remitirlas a la Sindicatura de Cuentas del Principado de Asturias."
+    ],
+    "apunte": "Quince días para mirar las cuentas: pocas veces el Ayuntamiento te lo pone tan en bandeja.",
+    "enVeinte": [
+      "El Ayuntamiento de Villaviciosa ha hecho públicas sus cuentas de 2025 y abre un plazo de 15 días para que los vecinos las consulten y aleguen lo que crean conveniente.",
+      "La Cuenta General fue dictaminada favorablemente en comisión el 26 de octubre, con los votos del PSOE y las abstenciones del PP y la concejal no adscrita.",
+      "Tras el período de consulta pública, el documento pasará al Pleno y, después, a la Sindicatura de Cuentas del Principado de Asturias."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "Sindicatura de Cuentas",
+      "como": "tal cual, Sindicatura de Cuentas",
+      "definicion": "Es el órgano fiscalizador externo de la actividad económica y financiera del sector público asturiano, equivalente al Tribunal de Cuentas pero a escala del Principado. Los ayuntamientos están obligados a enviarle sus cuentas anuales una vez aprobadas por el pleno."
+    },
+    "porQue": "Cualquier vecino de Villaviciosa puede revisar cómo se ha gestionado el dinero público en 2025 y presentar alegaciones antes de que el Pleno las apruebe definitivamente: es el momento de hacerlo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "cuentas municipales",
+      "hacienda",
+      "BOPA"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-24T16:26:07.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20199103",
+      "titularOriginal": "CUENTA GENERAL 2025",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa opens its 2025 accounts for public review",
+        "entradilla": "Residents have 15 days to review and submit objections to the Cuenta General from the date it was published in the BOPA on 3 November.",
+        "cuerpo": [
+          "The council of Villaviciosa approved the Cuenta General for the 2025 financial year in committee on 26 October, with six votes in favour from the socialist group and five abstentions — four from the PP and one from the non-attached councillor — and submitted it for public information within the statutory period.",
+          "The notice was published in the Boletín Oficial del Principado de Asturias on Tuesday 3 November, opening a period of 15 working days during which any resident may consult the document and, if they see fit, submit objections.",
+          "Once that period closes, the accounts will go before the Full Council to resolve any objections received and give final approval before being sent to the Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Fifteen days to look at the accounts: the council rarely makes it this easy.",
+        "enVeinte": [
+          "The council of Villaviciosa has made its 2025 accounts public and is opening a 15-day period for residents to consult them and raise any objections they see fit.",
+          "The Cuenta General was approved in committee on 26 October, with votes from the PSOE and abstentions from the PP and the non-attached councillor.",
+          "After the public consultation period, the document will go to the Full Council and then to the Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "as written, Sindicatura de Cuentas",
+          "definicion": "The external audit body responsible for scrutinising the economic and financial activity of the Asturian public sector. It is the regional equivalent of the national Tribunal de Cuentas. Local councils are required to submit their annual accounts to it once these have been approved by the full council."
+        },
+        "porQue": "Any resident of Villaviciosa can review how public money was managed in 2025 and submit objections before the Full Council gives its final approval: now is the time to do so.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa ouvre ses comptes 2025 à la consultation publique",
+        "entradilla": "Les habitants disposent de 15 jours pour consulter la Cuenta General et déposer des observations, à compter de sa publication au BOPA le 3 novembre.",
+        "cuerpo": [
+          "La mairie de Villaviciosa a approuvé en commission la Cuenta General de l'exercice 2025 le 26 octobre, avec six voix pour du groupe socialiste et cinq abstentions — quatre du PP et une de la conseillère non inscrite — et l'a soumise à information publique dans le délai réglementaire.",
+          "L'avis a été publié au Boletín Oficial del Principado de Asturias le mardi 3 novembre, ouvrant un délai de 15 jours ouvrables pendant lequel tout citoyen peut consulter le document et, s'il le juge utile, déposer des observations.",
+          "Une fois ce délai écoulé, les comptes seront soumis au Conseil municipal pour traiter les observations reçues et donner l'approbation définitive avant d'être transmis à la Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "apunte": "Quinze jours pour examiner les comptes : la mairie facilite rarement autant les choses.",
+        "enVeinte": [
+          "La mairie de Villaviciosa a rendu publics ses comptes 2025 et ouvre un délai de 15 jours pour que les habitants les consultent et formulent les observations qu'ils jugent utiles.",
+          "La Cuenta General a été approuvée en commission le 26 octobre, avec les voix du PSOE et les abstentions du PP et de la conseillère non inscrite.",
+          "Après la période de consultation publique, le document sera soumis au Conseil municipal, puis transmis à la Sindicatura de Cuentas del Principado de Asturias."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "tel quel, Sindicatura de Cuentas",
+          "definicion": "L'organe de contrôle externe de l'activité économique et financière du secteur public asturien, équivalent régional du Tribunal de Cuentas national. Les communes sont tenues de lui transmettre leurs comptes annuels une fois approuvés par le conseil municipal."
+        },
+        "porQue": "Tout habitant de Villaviciosa peut vérifier comment l'argent public a été géré en 2025 et déposer des observations avant que le Conseil municipal ne les approuve définitivement : c'est le moment de le faire.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa öffnet seine Jahresrechnung 2025 zur öffentlichen Einsichtnahme",
+        "entradilla": "Die Bewohner haben 15 Tage Zeit, die Cuenta General einzusehen und Einwendungen einzureichen, gerechnet ab der Veröffentlichung im BOPA am 3. November.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat die Cuenta General für das Haushaltsjahr 2025 am 26. Oktober im Ausschuss genehmigt — mit sechs Ja-Stimmen der sozialistischen Fraktion und fünf Enthaltungen (vier von der PP und eine von der fraktionslosen Stadträtin) — und sie innerhalb der vorgeschriebenen Frist zur öffentlichen Einsichtnahme ausgelegt.",
+          "Die Bekanntmachung erschien am Dienstag, dem 3. November, im Boletín Oficial del Principado de Asturias. Damit beginnt eine Frist von 15 Werktagen, in der jeder Bürger das Dokument einsehen und gegebenenfalls Einwendungen einreichen kann.",
+          "Nach Ablauf dieser Frist werden die Konten dem Stadtrat zur Abstimmung vorgelegt, um die eingegangenen Einwendungen zu behandeln und die endgültige Genehmigung zu erteilen, bevor sie an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet werden."
+        ],
+        "apunte": "Fünfzehn Tage, um die Konten zu prüfen: selten macht es das Rathaus so einfach.",
+        "enVeinte": [
+          "Das Rathaus von Villaviciosa hat seine Jahresrechnung 2025 veröffentlicht und eröffnet eine 15-tägige Frist, in der die Bewohner Einsicht nehmen und Einwendungen erheben können.",
+          "Die Cuenta General wurde am 26. Oktober im Ausschuss genehmigt, mit den Stimmen der PSOE und den Enthaltungen der PP sowie der fraktionslosen Stadträtin.",
+          "Nach der öffentlichen Konsultationsphase wird das Dokument dem Stadtrat vorgelegt und anschließend an die Sindicatura de Cuentas del Principado de Asturias weitergeleitet."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "Sindicatura de Cuentas",
+          "como": "unverändert, Sindicatura de Cuentas",
+          "definicion": "Das externe Prüforgan für die wirtschaftliche und finanzielle Tätigkeit des asturischen öffentlichen Sektors. Es entspricht auf Ebene des Fürstentums dem nationalen Tribunal de Cuentas. Die Gemeinden sind verpflichtet, ihre Jahresabschlüsse nach der Genehmigung durch den Stadtrat dorthin einzureichen."
+        },
+        "porQue": "Jeder Bewohner von Villaviciosa kann nachvollziehen, wie öffentliche Gelder im Jahr 2025 verwendet wurden, und Einwendungen einreichen, bevor der Stadtrat die endgültige Genehmigung erteilt: Jetzt ist der richtige Zeitpunkt dafür.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "en el boletin oficial del principado de asturias",
+      "a la sindicatura de cuentas del principado de",
+      "la sindicatura de cuentas del principado de asturias"
+    ]
+  },
+  {
+    "id": "noticia-ruta-belenes-26",
+    "url": "/villaviciosa/noticia-ruta-belenes-26/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "agenda",
+    "titular": "La Ruta de Belenes de Villaviciosa llega a su undécima edición",
+    "entradilla": "Por primera vez, la iglesia de Santa María de la Oliva abre sus puertas al recorrido con un belén napolitano.",
+    "cuerpo": [
+      "El próximo sábado 5 de diciembre, a las 12:00 horas, arranca en la Fundación José Cardín Fernández la undécima edición de la Ruta de los Belenes de Villaviciosa. El recorrido, que mezcla belenes tradicionales, monumentales, artesanales y en movimiento, podrá visitarse hasta el 5 de enero de 2027.",
+      "La novedad de este año es la incorporación de la iglesia de Santa María de la Oliva —joya del románico maliayés, declarada Bien de Interés Cultural— como nueva sede. Allí se expondrá un belén napolitano, una forma de belenismo de origen italiano conocida por la riqueza de sus figuras y la recreación detallada de escenas de la vida cotidiana.",
+      "Detrás de la iniciativa están el Ayuntamiento de Villaviciosa, la Fundación José Cardín Fernández, la Parroquia de Santa María y la Cofradía de Jesús Nazareno, además de belenistas, asociaciones y particulares que cada año mantienen viva la tradición."
+    ],
+    "apunte": "Once años de belenes y aún quedan iglesias por estrenar.",
+    "enVeinte": [
+      "La Ruta de los Belenes de Villaviciosa celebra su undécima edición con inauguración el 5 de diciembre a las 12:00 en la Fundación José Cardín Fernández.",
+      "La gran novedad es la iglesia de Santa María de la Oliva, que se suma al recorrido con un belén napolitano.",
+      "La ruta reúne belenes de distintos tipos y puede visitarse hasta el 5 de enero de 2027."
+    ],
+    "cifra": {
+      "numero": "11",
+      "unidad": "ediciones",
+      "glosa": "La Ruta de los Belenes de Villaviciosa lleva once años seguidos celebrándose en Navidad. Es una de las citas más consolidadas de la villa maliayesa en estas fechas."
+    },
+    "palabra": {
+      "termino": "maliayés",
+      "como": "ma-lia-yés",
+      "definicion": "Gentilicio de Villaviciosa, que en asturiano se llama Maliaya. Quien nace o vive allí es maliayés o maliayesa."
+    },
+    "porQue": "La ruta crece con una sede nueva —y singular— en pleno centro histórico, así que este año el paseo navideño por Villaviciosa tiene un motivo más para hacerse.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Navidad",
+      "belenes",
+      "patrimonio"
+    ],
+    "fechaEvento": "2026-12-05",
+    "tipoEvento": "expo",
+    "lugar": "Fundación José Cardín Fernández (inauguración); iglesia de Santa María de la Oliva y otras sedes en Villaviciosa",
+    "hora": "12:00",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-24T16:25:41.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=20311263",
+      "titularOriginal": "noticia: Ruta Belenes 26",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The Ruta de Belenes de Villaviciosa reaches its eleventh edition",
+        "entradilla": "For the first time, the church of Santa María de la Oliva opens its doors to the route, with a Neapolitan nativity scene.",
+        "cuerpo": [
+          "This Saturday, 5 December, at 12:00, the eleventh edition of the Ruta de los Belenes de Villaviciosa gets under way at the Fundación José Cardín Fernández. The route, which mixes traditional, monumental, handcrafted and moving nativity scenes, can be visited until 5 January 2027.",
+          "This year's novelty is the addition of the church of Santa María de la Oliva — a gem of maliayés Romanesque architecture, listed as a Bien de Interés Cultural — as a new venue. It will host a Neapolitan nativity scene, a form of nativity art of Italian origin known for the richness of its figures and the detailed recreation of everyday life.",
+          "Behind the initiative are the Ayuntamiento (council) of Villaviciosa, the Fundación José Cardín Fernández, the Parroquia de Santa María and the Cofradía de Jesús Nazareno, along with nativity-scene makers, associations and individuals who keep the tradition alive year after year."
+        ],
+        "apunte": "Eleven years of nativity scenes, and there are still churches yet to make their debut.",
+        "enVeinte": [
+          "The Ruta de los Belenes de Villaviciosa celebrates its eleventh edition, opening on 5 December at 12:00 at the Fundación José Cardín Fernández.",
+          "The main novelty is the church of Santa María de la Oliva, joining the route with a Neapolitan nativity scene.",
+          "The route brings together nativity scenes of different kinds and can be visited until 5 January 2027."
+        ],
+        "cifra": {
+          "numero": "11",
+          "unidad": "editions",
+          "glosa": "The Ruta de los Belenes de Villaviciosa has been held every Christmas for eleven years running. It is one of the most established fixtures in the maliayés town at this time of year."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-yés",
+          "definicion": "Demonym for Villaviciosa, which in Asturian is called Maliaya. Anyone born or living there is maliayés (masculine) or maliayesa (feminine)."
+        },
+        "porQue": "The route grows with a new — and singular — venue right in the historic centre, so this year the Christmas stroll through Villaviciosa has one more reason to be made.",
+        "lugar": "Fundación José Cardín Fernández (opening); church of Santa María de la Oliva and other venues in Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "La Ruta de Belenes de Villaviciosa arrive à sa onzième édition",
+        "entradilla": "Pour la première fois, l'église de Santa María de la Oliva ouvre ses portes au parcours avec une crèche napolitaine.",
+        "cuerpo": [
+          "Ce samedi 5 décembre, à 12 h 00, la onzième édition de la Ruta de los Belenes de Villaviciosa sera inaugurée à la Fundación José Cardín Fernández. Le parcours, qui mêle crèches traditionnelles, monumentales, artisanales et animées, pourra être visité jusqu'au 5 janvier 2027.",
+          "La nouveauté de cette année est l'intégration de l'église de Santa María de la Oliva — joyau du roman maliayés, classée Bien de Interés Cultural — comme nouveau site. On y exposera une crèche napolitaine, une forme d'art de la crèche d'origine italienne, connue pour la richesse de ses figurines et la reconstitution détaillée de scènes de la vie quotidienne.",
+          "Derrière l'initiative se trouvent l'Ayuntamiento (mairie) de Villaviciosa, la Fundación José Cardín Fernández, la Parroquia de Santa María et la Cofradía de Jesús Nazareno, ainsi que des artisans de crèches, des associations et des particuliers qui maintiennent la tradition vivante chaque année."
+        ],
+        "apunte": "Onze ans de crèches, et il reste encore des églises à inaugurer.",
+        "enVeinte": [
+          "La Ruta de los Belenes de Villaviciosa fête sa onzième édition avec une inauguration le 5 décembre à 12 h 00 à la Fundación José Cardín Fernández.",
+          "La grande nouveauté est l'église de Santa María de la Oliva, qui rejoint le parcours avec une crèche napolitaine.",
+          "Le parcours rassemble des crèches de différents types et peut être visité jusqu'au 5 janvier 2027."
+        ],
+        "cifra": {
+          "numero": "11",
+          "unidad": "éditions",
+          "glosa": "La Ruta de los Belenes de Villaviciosa se tient chaque Noël depuis onze ans sans interruption. C'est l'un des rendez-vous les mieux établis de la ville maliayesa à cette période de l'année."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-yés",
+          "definicion": "Gentilé de Villaviciosa, qui s'appelle Maliaya en asturien. Celui qui y est né ou qui y vit est maliayés (masculin) ou maliayesa (féminin)."
+        },
+        "porQue": "Le parcours s'agrandit avec un nouveau site — singulier — en plein centre historique, ce qui donne cette année une raison de plus de se promener dans Villaviciosa à Noël.",
+        "lugar": "Fundación José Cardín Fernández (inauguration) ; église de Santa María de la Oliva et autres sites à Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die Ruta de Belenes de Villaviciosa erreicht ihre elfte Ausgabe",
+        "entradilla": "Erstmals öffnet die Kirche Santa María de la Oliva ihre Türen für die Route — mit einer neapolitanischen Krippe.",
+        "cuerpo": [
+          "An diesem Samstag, dem 5. Dezember, um 12:00 Uhr startet die elfte Ausgabe der Ruta de los Belenes de Villaviciosa in der Fundación José Cardín Fernández. Die Route, die traditionelle, monumentale, handwerkliche und bewegliche Krippen vereint, kann bis zum 5. Januar 2027 besichtigt werden.",
+          "Die Neuerung dieses Jahres ist die Aufnahme der Kirche Santa María de la Oliva — ein Juwel der maliayésischen Romanik, als Bien de Interés Cultural ausgezeichnet — als neuen Veranstaltungsort. Dort wird eine neapolitanische Krippe gezeigt, eine Krippenkunstform italienischen Ursprungs, die für den Reichtum ihrer Figuren und die detaillierte Nachbildung von Szenen des Alltagslebens bekannt ist.",
+          "Hinter der Initiative stehen das Ayuntamiento (Rathaus) von Villaviciosa, die Fundación José Cardín Fernández, die Parroquia de Santa María und die Cofradía de Jesús Nazareno sowie Krippenbauer, Vereine und Einzelpersonen, die die Tradition Jahr für Jahr lebendig halten."
+        ],
+        "apunte": "Elf Jahre Krippen — und es gibt noch Kirchen, die ihr Debüt vor sich haben.",
+        "enVeinte": [
+          "Die Ruta de los Belenes de Villaviciosa feiert ihre elfte Ausgabe mit der Eröffnung am 5. Dezember um 12:00 Uhr in der Fundación José Cardín Fernández.",
+          "Die große Neuerung ist die Kirche Santa María de la Oliva, die mit einer neapolitanischen Krippe zur Route stößt.",
+          "Die Route versammelt Krippen verschiedener Art und kann bis zum 5. Januar 2027 besichtigt werden."
+        ],
+        "cifra": {
+          "numero": "11",
+          "unidad": "Ausgaben",
+          "glosa": "Die Ruta de los Belenes de Villaviciosa wird seit elf Jahren ununterbrochen zu Weihnachten veranstaltet. Sie ist eines der beständigsten Ereignisse der maliayésischen Stadt in dieser Jahreszeit."
+        },
+        "palabra": {
+          "termino": "maliayés",
+          "como": "ma-lia-yés",
+          "definicion": "Einwohnerbezeichnung für Villaviciosa, das auf Asturisch Maliaya heißt. Wer dort geboren ist oder dort lebt, ist maliayés (männlich) oder maliayesa (weiblich)."
+        },
+        "porQue": "Die Route wächst um einen neuen — und besonderen — Veranstaltungsort mitten in der Altstadt, sodass der Weihnachtsspaziergang durch Villaviciosa dieses Jahr einen weiteren Grund hat, unternommen zu werden.",
+        "lugar": "Fundación José Cardín Fernández (Eröffnung); Kirche Santa María de la Oliva und weitere Veranstaltungsorte in Villaviciosa",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "la iglesia de santa maria de la oliva",
+      "el proximo sabado 5 de diciembre a las",
+      "proximo sabado 5 de diciembre a las 12",
+      "sabado 5 de diciembre a las 12 00",
+      "5 de diciembre a las 12 00 horas",
+      "podra visitarse hasta el 5 de enero de",
+      "visitarse hasta el 5 de enero de 2027",
+      "novedad de este ano es la incorporacion de",
+      "de este ano es la incorporacion de la",
+      "este ano es la incorporacion de la iglesia",
+      "ano es la incorporacion de la iglesia de",
+      "es la incorporacion de la iglesia de santa",
+      "la incorporacion de la iglesia de santa maria",
+      "incorporacion de la iglesia de santa maria de",
+      "de la iglesia de santa maria de la",
+      "el ayuntamiento de villaviciosa la fundacion jose cardin",
+      "ayuntamiento de villaviciosa la fundacion jose cardin fernandez",
+      "de villaviciosa la fundacion jose cardin fernandez la",
+      "villaviciosa la fundacion jose cardin fernandez la parroquia",
+      "la fundacion jose cardin fernandez la parroquia de",
+      "fundacion jose cardin fernandez la parroquia de santa",
+      "jose cardin fernandez la parroquia de santa maria",
+      "cardin fernandez la parroquia de santa maria y",
+      "fernandez la parroquia de santa maria y la",
+      "la parroquia de santa maria y la cofradia",
+      "parroquia de santa maria y la cofradia de",
+      "de santa maria y la cofradia de jesus",
+      "santa maria y la cofradia de jesus nazareno"
+    ]
+  },
+  {
     "id": "la-benefica-de-pilona-acogera-el-debut-discografico-de-cuevano-y-el-fi",
     "url": "/pilona/la-benefica-de-pilona-acogera-el-debut-discografico-de-cuevano-y-el-fi/",
     "concejo": "Piloña",
@@ -46198,104 +46883,6 @@
         },
         "porQue": "Wenn die Abfallentsorgung nicht geregelt wird, könnten die Käsereien in Cabrales gezwungen sein, zu schließen oder ihre Tätigkeit einzuschränken. Das würde die Viehzüchterfamilien der Gemeinde unmittelbar treffen und eines der Produkte gefährden, das der Gegend ihren überregionalen Ruf verdankt.",
         "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "torazu-fiestas-del-carmen",
-    "url": "/cabranes/torazu-fiestas-del-carmen/",
-    "concejo": "Cabranes",
-    "concejoSlug": "cabranes",
-    "seccion": "deporte-y-cultura",
-    "titular": "Torazu saca cuatro días de Carmen, con ramos y verbena",
-    "entradilla": "La fiesta, declarada de Interés Turístico Regional, se celebró del 27 al 30 de agosto.",
-    "cuerpo": [
-      "Torazu celebró las fiestas del Carmen del 27 al 30 de agosto: cuatro días con verbenas, ramos y lo que la tradición manda. La cita está declarada Fiesta de Interés Turístico Regional, que en la práctica significa que sale del calendario del pueblo y entra en el de la región.",
-      "En un concejo del tamaño de Cabranes, cuatro días de fiesta en un solo pueblo son un acontecimiento de los que se preparan durante meses."
-    ],
-    "apunte": "",
-    "enVeinte": [],
-    "cifra": null,
-    "palabra": {
-      "termino": "Ramu",
-      "como": "RA-mu, plural ramos",
-      "definicion": "Armazón de madera, con forma de barca o de pirámide, adornado con pan, flores y cintas, que se lleva en procesión y después se subasta para la fiesta. No es un ramo de flores: es una pieza que se construye, se canta delante de ella y se puja por ella."
-    },
-    "porQue": "Una fiesta declarada de interés regional es, para un pueblo pequeño, el único momento del año en que la gente que se fue vuelve toda a la vez.",
-    "etiquetas": [
-      "Cabranes"
-    ],
-    "fechaEvento": "2026-08-27",
-    "tipoEvento": "fiesta",
-    "lugar": "Torazu",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "",
-    "fecha": "2026-08-26T17:00:00.000Z",
-    "fuente": {
-      "nombre": "El Fielato",
-      "url": "https://www.elfielato.es/articulo/cabranes/torazu-prepara-fiesta-carmen/20260826170000102148.html",
-      "titularOriginal": "Torazu se prepara para cuatro días de fiesta por el Carmen"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Torazu brings four days of Carmen, with ramos and verbena",
-        "entradilla": "The festival, declared of Regional Tourist Interest, was held from 27 to 30 August.",
-        "cuerpo": [
-          "Torazu celebrated the Fiestas del Carmen from 27 to 30 August: four days of verbenas, ramos and everything tradition demands. The event has been declared a Fiesta de Interés Turístico Regional (a Regional Tourist Interest festival), which in practice means it steps out of the village calendar and into the region's.",
-          "In a municipality the size of Cabranes, four days of celebration in a single village is the kind of event people spend months preparing for."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": {
-          "termino": "Ramu",
-          "como": "RA-mu, plural ramos",
-          "definicion": "A wooden frame, shaped like a boat or a pyramid, decorated with bread, flowers and ribbons, carried in procession and then auctioned off for the festival. It is not a bunch of flowers: it is a structure that is built, sung to, and bid on."
-        },
-        "porQue": "A festival declared of regional interest is, for a small village, the one time of year when everyone who has left comes back all at once.",
-        "lugar": "Torazu",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Torazu offre quatre jours de Carmen, avec ramos et verbena",
-        "entradilla": "La fête, déclarée d'Intérêt Touristique Régional, s'est tenue du 27 au 30 août.",
-        "cuerpo": [
-          "Torazu a célébré les Fiestas del Carmen du 27 au 30 août : quatre jours de verbenas, de ramos et de tout ce que la tradition impose. La manifestation a été déclarée Fiesta de Interés Turístico Regional (fête d'intérêt touristique régional), ce qui signifie concrètement qu'elle quitte le calendrier du village pour entrer dans celui de la région.",
-          "Dans une commune de la taille de Cabranes, quatre jours de fête dans un seul village représentent un événement qui se prépare pendant des mois."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": {
-          "termino": "Ramu",
-          "como": "RA-mu, pluriel ramos",
-          "definicion": "Une structure en bois, en forme de barque ou de pyramide, ornée de pain, de fleurs et de rubans, portée en procession puis vendue aux enchères au profit de la fête. Ce n'est pas un bouquet de fleurs : c'est une pièce que l'on construit, devant laquelle on chante et pour laquelle on enchérit."
-        },
-        "porQue": "Une fête déclarée d'intérêt régional est, pour un petit village, le seul moment de l'année où tous ceux qui sont partis reviennent en même temps.",
-        "lugar": "Torazu",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Torazu feiert vier Tage Carmen – mit Ramos und Verbena",
-        "entradilla": "Das Fest, als von Regionalem Touristischen Interesse anerkannt, fand vom 27. bis 30. August statt.",
-        "cuerpo": [
-          "Torazu feierte die Fiestas del Carmen vom 27. bis 30. August: vier Tage mit Verbenas, Ramos und allem, was die Tradition vorschreibt. Die Veranstaltung ist als Fiesta de Interés Turístico Regional (Fest von regionalem touristischen Interesse) anerkannt, was in der Praxis bedeutet, dass sie aus dem Dorfkalender herauswächst und in den der Region eintritt.",
-          "In einer Gemeinde von der Größe Cabranes' ist ein viertägiges Fest in einem einzigen Dorf ein Ereignis, auf das man monatelang hinarbeitet."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": {
-          "termino": "Ramu",
-          "como": "RA-mu, Plural ramos",
-          "definicion": "Ein hölzernes Gestell in Form eines Bootes oder einer Pyramide, geschmückt mit Brot, Blumen und Bändern, das in einer Prozession getragen und anschließend zugunsten des Festes versteigert wird. Es ist kein Blumenstrauß: Es ist ein Stück, das gebaut, besungen und ersteigert wird."
-        },
-        "porQue": "Ein als von regionalem Interesse anerkanntes Fest ist für ein kleines Dorf der einzige Moment im Jahr, in dem alle, die weggezogen sind, gleichzeitig zurückkehren.",
-        "lugar": "Torazu",
         "precio": ""
       }
     }

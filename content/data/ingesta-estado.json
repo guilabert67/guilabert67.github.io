@@ -941,6 +941,11 @@
       "motivo": "duplicado de /villaviciosa/el-comercio-de-villaviciosa-sorteara-400-euros-durante-el-black-friday/",
       "fecha": "2026-11-24T15:46:37.242Z",
       "titulo": "El comercio de Villaviciosa premia la fidelidad de sus clientes este Black Friday"
+    },
+    "elbuscolu.com/noticias-villaviciosa/la-plaza-de-abastos-de-villaviciosa-estrena-48-taquillas-inteligentes-para-recoger-compras-las-24-horas-11277328.html": {
+      "motivo": "mismo hecho que /villaviciosa/la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-/",
+      "fecha": "2026-11-25T00:11:02.949Z",
+      "titulo": "La Plaza de Abastos de Villaviciosa estrena 48 taquillas inteligentes para recoger compras las 24 horas"
     }
   },
   "juicios": {
@@ -1119,6 +1124,10 @@
     "elcomercio.es/gastronomia/clandestina-famosa-mundo-entero-sidra-gaitero-fiesta-prenavidena-20261120203704-nt.html|el-gaitero-convierte-su-bodega-de-villaviciosa-en-un-club-clandestino-": {
       "r": "mismo",
       "fecha": "2026-11-21T11:45:38.590Z"
+    },
+    "elbuscolu.com/noticias-villaviciosa/la-plaza-de-abastos-de-villaviciosa-estrena-48-taquillas-inteligentes-para-recoger-compras-las-24-horas-11277328.html|la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-": {
+      "r": "mismo",
+      "fecha": "2026-11-25T00:11:02.949Z"
     }
   }
 }
