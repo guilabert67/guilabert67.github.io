@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-25T00:14:25.322Z",
+  "fecha": "2026-11-25T08:52:40.606Z",
   "puntos": [
     {
       "concejo": "Piloña",
-      "frase": "Julio Pando, de Infiesto, campeón de España de Enduro-3 sin ceder un podio.",
+      "frase": "Julio Pando, de Infiesto, campeón de España de Enduro-3 sin perder un podio.",
       "enlace": "/pilona/julio-pando-se-proclama-campeon-de-espana-de-enduro-3/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "La Ruta de Belenes de Villaviciosa llega a once ediciones con un belén napolitano en Santa María.",
-      "enlace": "/villaviciosa/noticia-ruta-belenes-26/"
+      "frase": "La Plaza de Abastos de Villaviciosa ya vende a cualquier hora, con 48 taquillas.",
+      "enlace": "/villaviciosa/la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-/"
     },
     {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa abre sus cuentas de 2025: 15 días para revisar y alegar desde el 3 de noviembre.",
-      "enlace": "/villaviciosa/cuenta-general-2025/"
+      "frase": "La Ruta de Belenes de Villaviciosa estrena parada en Santa María de la Oliva.",
+      "enlace": "/villaviciosa/noticia-ruta-belenes-26/"
     }
   ]
 }
