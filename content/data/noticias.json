@@ -1,5 +1,731 @@
 [
   {
+    "id": "la-dop-sidra-de-asturias-lanza-su-nueva-campana-para-poner-en-valor-su",
+    "url": "/villaviciosa/la-dop-sidra-de-asturias-lanza-su-nueva-campana-para-poner-en-valor-su/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "La DOP Sidra de Asturias estrena campaña de marca",
+    "entradilla": "Todos sus productos se agruparán bajo un mismo lema para destacar que la materia prima viene de aquí.",
+    "cuerpo": [
+      "La Denominación de Origen Protegida Sidra de Asturias pone en marcha una nueva campaña con la que quiere recordarle al consumidor de dónde sale lo que tiene en el vaso.",
+      "El lema elegido es 'Se nota cuando es manzana asturiana', y la estrategia agrupa bajo ese paraguas todos los productos amparados por la denominación."
+    ],
+    "apunte": "Porque a veces hay que recordar que detrás de cada culín hay un pumar.",
+    "enVeinte": [
+      "La DOP Sidra de Asturias lanza una campaña para poner en valor el origen asturiano de sus productos.",
+      "El lema que une toda la estrategia es 'Se nota cuando es manzana asturiana'.",
+      "La iniciativa agrupa bajo una misma marca todos los productos que lleva la denominación de origen."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "DOP",
+      "como": "de-o-pe",
+      "definicion": "Denominación de Origen Protegida: un sello europeo que garantiza que el producto se elabora en una zona concreta y siguiendo unas normas fijadas. En el caso de la sidra, implica que la manzana es asturiana y el proceso se hace aquí."
+    },
+    "porQue": "La campaña busca que cuando alguien compre sidra con este sello, sepa que está pagando por producto de casa, lo que sostiene a los productores de la zona.",
+    "etiquetas": [
+      "sidra",
+      "DOP",
+      "Villaviciosa",
+      "manzana asturiana"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/25/jorge-sidra-dop-RoxhsjHu0L5easSTIkfhOpI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-25T18:54:05.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/dop-sidra-asturias-lanza-nueva-campana-poner-20261125195404-nt.html",
+      "titularOriginal": "La DOP Sidra de Asturias lanza su nueva campaña para «poner en valor su origen»"
+    },
+    "reescrito": true,
+    "trad": {}
+  },
+  {
+    "id": "la-mejora-de-los-accesos-en-el-cordal-de-peon-en-villaviciosa-estara-l",
+    "url": "/villaviciosa/la-mejora-de-los-accesos-en-el-cordal-de-peon-en-villaviciosa-estara-l/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "avisos",
+    "titular": "Los accesos del cordal de Peón, listos este año",
+    "entradilla": "Las obras de mejora en la zona beneficiarán tanto a los que trabajan el monte como a los ganaderos del área.",
+    "cuerpo": [
+      "El cordal de Peón, en Villaviciosa, tendrá sus accesos acondicionados antes de que acabe 2026. Los trabajos apuntan a hacer más seguros los desplazamientos por una zona de uso forestal y agropecuario.",
+      "El objetivo declarado es doble: facilitar las labores del campo y mejorar la seguridad en un entorno de monte donde cualquier mejora en los caminos tiene impacto directo sobre quienes trabajan allí."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Los accesos al cordal de Peón, en Villaviciosa, se acondicinarán antes de que termine 2026.",
+      "Los trabajos buscan mejorar la seguridad forestal y facilitar la actividad agropecuaria en la zona.",
+      "No hay más detalles sobre plazos concretos ni sobre quién ejecuta las obras."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "cordal",
+      "como": "cor-dal",
+      "definicion": "En Asturias, un cordal es una línea de cumbres o una sierra de poca altura que separa valles o cuencas. No es una montaña en sentido estricto, sino la cresta que une varias alturas y que suele usarse como zona de pasto o monte comunal."
+    },
+    "porQue": "Quien tenga finca, ganado o monte por Peón notará la mejora en los caminos de acceso antes de que acabe el año.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Peón",
+      "obras",
+      "monte"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Cordal de Peón, Villaviciosa",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/25/Villaviciosa-peon-RD0hK8AmAAhnxt2DoeFsK1L-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-25T16:41:14.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/mejora-accesos-cordal-peon-villaviciosa-lista-final-20261125140508-nt.html",
+      "titularOriginal": "La mejora de los accesos en el cordal de Peón, en Villaviciosa, estará lista antes de final de año"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Access roads to the Cordal de Peón to be ready this year",
+        "entradilla": "Improvement works in the area will benefit both forestry workers and livestock farmers.",
+        "cuerpo": [
+          "The Cordal de Peón, in the municipality of Villaviciosa, will have its access roads upgraded before the end of 2026. The works aim to make travel safer in an area used for forestry and farming.",
+          "The stated aim is twofold: to ease fieldwork and to improve safety in a mountain area where any improvement to the tracks has a direct impact on those who work there."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "The access roads to the Cordal de Peón, in the municipality of Villaviciosa, will be upgraded before the end of 2026.",
+          "The works aim to improve forestry safety and support farming activity in the area.",
+          "No further details are available on specific timelines or on who will carry out the works."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal",
+          "definicion": "In Asturias, a cordal is a ridgeline or low-lying range of hills that separates valleys or watersheds. It is not a mountain in the strict sense, but the crest linking several high points, typically used as grazing land or common moorland."
+        },
+        "porQue": "Anyone with land, livestock or woodland near Peón will notice the improvement to the access tracks before the year is out.",
+        "lugar": "Cordal de Peón, Villaviciosa",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Les accès au cordal de Peón seront prêts cette année",
+        "entradilla": "Les travaux d'amélioration dans la zone profiteront aussi bien aux travailleurs forestiers qu'aux éleveurs de la région.",
+        "cuerpo": [
+          "Le cordal de Peón, dans la commune de Villaviciosa, verra ses accès aménagés avant la fin 2026. Les travaux visent à sécuriser les déplacements dans une zone à usage forestier et agropastoral.",
+          "L'objectif affiché est double : faciliter les travaux agricoles et améliorer la sécurité dans un environnement de montagne où toute amélioration des chemins a un impact direct sur ceux qui y travaillent."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Les accès au cordal de Peón, dans la commune de Villaviciosa, seront aménagés avant la fin 2026.",
+          "Les travaux visent à améliorer la sécurité forestière et à faciliter l'activité agropastorale dans la zone.",
+          "Aucun détail supplémentaire n'est disponible sur les délais précis ni sur le maître d'œuvre des travaux."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal",
+          "definicion": "En Asturies, un cordal est une ligne de crêtes ou une chaîne de collines de faible altitude qui sépare des vallées ou des bassins versants. Ce n'est pas une montagne au sens strict, mais la crête reliant plusieurs sommets, généralement utilisée comme zone de pâturage ou de lande communale."
+        },
+        "porQue": "Toute personne possédant des terres, du bétail ou des bois près de Peón remarquera l'amélioration des chemins d'accès avant la fin de l'année.",
+        "lugar": "Cordal de Peón, Villaviciosa",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zugangswege zum Cordal de Peón sollen noch dieses Jahr fertig sein",
+        "entradilla": "Die Ausbauarbeiten in der Zone kommen sowohl Forstarbeitern als auch Viehhaltern der Gegend zugute.",
+        "cuerpo": [
+          "Der Cordal de Peón in der Gemeinde Villaviciosa soll seine Zugangswege noch vor Ende 2026 ausgebaut bekommen. Die Arbeiten sollen die Fahrten in einem forst- und landwirtschaftlich genutzten Gebiet sicherer machen.",
+          "Das erklärte Ziel ist zweifach: die landwirtschaftliche Arbeit zu erleichtern und die Sicherheit in einem Berggebiet zu verbessern, wo jede Verbesserung der Wege unmittelbare Auswirkungen auf die dort Arbeitenden hat."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Die Zugangswege zum Cordal de Peón in der Gemeinde Villaviciosa werden noch vor Ende 2026 ausgebaut.",
+          "Die Arbeiten sollen die forstwirtschaftliche Sicherheit verbessern und die agrarwirtschaftliche Tätigkeit in der Zone erleichtern.",
+          "Es liegen keine weiteren Angaben zu konkreten Fristen oder zur ausführenden Stelle vor."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "cordal",
+          "como": "cor-dal",
+          "definicion": "In Asturien bezeichnet cordal einen Gebirgskamm oder ein niedriges Hügelrückengebiet, das Täler oder Einzugsgebiete voneinander trennt. Es handelt sich nicht um einen Berg im eigentlichen Sinne, sondern um den Kamm, der mehrere Erhebungen verbindet und meist als Weide- oder Gemeinschaftsland genutzt wird."
+        },
+        "porQue": "Wer Land, Vieh oder Wald in der Nähe von Peón besitzt, wird die Verbesserung der Zugangswege noch vor Jahresende bemerken.",
+        "lugar": "Cordal de Peón, Villaviciosa",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "el-psoe-de-llanes-reclama-una-solucion-definitiva-a-los-problemas-de-c",
+    "url": "/cabrales/el-psoe-de-llanes-reclama-una-solucion-definitiva-a-los-problemas-de-c/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "actualidad",
+    "titular": "El PSOE pide arreglar la calefacción de dos colegios",
+    "entradilla": "El problema lleva al menos desde 2023 sin resolverse y afecta a los alumnos del Peña Tú y la Escuelina.",
+    "cuerpo": [
+      "La concejala socialista de Llanes Laura Inguanzo exige que se repare o se cambie la caldera compartida por los centros educativos Peña Tú y la Escuelina, que lleva años dando problemas.",
+      "Según recuerda Inguanzo, las averías ya se pusieron sobre la mesa en 2023 y, pese a ello, no se ha encontrado todavía una solución que dure."
+    ],
+    "apunte": "Tres inviernos esperando calor: el contador sigue.",
+    "enVeinte": [
+      "El PSOE de Llanes exige una solución definitiva para la caldera que comparten el Peña Tú y la Escuelina.",
+      "La concejala Laura Inguanzo señala que los fallos se denunciaron ya en 2023 y siguen sin resolverse.",
+      "El partido reclama la reparación del sistema o su sustitución completa."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Mientras la caldera no se repare o se cambie, los niños de esos dos centros seguirán pasando frío en cuanto bajen las temperaturas.",
+    "etiquetas": [
+      "educación",
+      "Llanes",
+      "PSOE",
+      "calefacción"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-psoe-de-llanes-reclama-una-solucion-definitiva-d200b326.jpg",
+    "fecha": "2026-11-25T16:11:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-llanes/el-psoe-de-llanes-reclama-una-solucion-definitiva-a-los-problemas-de-calefaccion-del-pena-tu-y-la-escuelina-11277338.html",
+      "titularOriginal": "El PSOE de Llanes reclama una solución definitiva a los problemas de calefacción del Peña Tú y la Escuelina"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The PSOE calls for the heating to be fixed in two schools",
+        "entradilla": "The problem has gone unsolved since at least 2023 and affects pupils at Peña Tú and la Escuelina.",
+        "cuerpo": [
+          "Laura Inguanzo, the Socialist councillor for Llanes, is demanding that the boiler shared by Peña Tú and la Escuelina be repaired or replaced. It has been causing problems for years.",
+          "Inguanzo recalls that the faults were already raised in 2023 and that, despite this, no lasting solution has yet been found."
+        ],
+        "apunte": "Three winters waiting for warmth: the count goes on.",
+        "enVeinte": [
+          "The PSOE of Llanes is demanding a definitive solution for the boiler shared by Peña Tú and la Escuelina.",
+          "Councillor Laura Inguanzo points out that the faults were reported as far back as 2023 and remain unresolved.",
+          "The party is calling for the system to be repaired or replaced entirely."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Until the boiler is repaired or replaced, the children at those two schools will keep suffering from the cold whenever temperatures drop.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le PSOE réclame la réparation du chauffage de deux écoles",
+        "entradilla": "Le problème n'est toujours pas résolu depuis au moins 2023 et touche les élèves du Peña Tú et de la Escuelina.",
+        "cuerpo": [
+          "Laura Inguanzo, conseillère municipale socialiste de Llanes, exige que la chaudière commune aux établissements scolaires Peña Tú et la Escuelina soit réparée ou remplacée. Elle pose des problèmes depuis des années.",
+          "Inguanzo rappelle que les pannes avaient déjà été signalées en 2023 et que, malgré cela, aucune solution durable n'a encore été trouvée."
+        ],
+        "apunte": "Trois hivers à attendre la chaleur : le compteur tourne.",
+        "enVeinte": [
+          "Le PSOE de Llanes réclame une solution définitive pour la chaudière que partagent le Peña Tú et la Escuelina.",
+          "La conseillère Laura Inguanzo souligne que les défaillances ont été signalées dès 2023 et restent sans réponse.",
+          "Le parti demande la réparation du système ou son remplacement complet."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Tant que la chaudière ne sera pas réparée ou remplacée, les enfants de ces deux établissements continueront à avoir froid dès que les températures baisseront.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "PSOE fordert Reparatur der Heizung in zwei Schulen",
+        "entradilla": "Das Problem besteht seit mindestens 2023 und betrifft die Schülerinnen und Schüler des Peña Tú und der Escuelina.",
+        "cuerpo": [
+          "Laura Inguanzo, sozialistische Gemeinderätin von Llanes, fordert, dass der gemeinsame Heizkessel der Schulen Peña Tú und la Escuelina repariert oder ausgetauscht wird. Er bereitet seit Jahren Probleme.",
+          "Inguanzo erinnert daran, dass die Störungen bereits 2023 gemeldet wurden und dennoch bislang keine dauerhafte Lösung gefunden worden ist."
+        ],
+        "apunte": "Drei Winter auf Wärme warten: der Zähler läuft weiter.",
+        "enVeinte": [
+          "Der PSOE von Llanes fordert eine endgültige Lösung für den Heizkessel, den Peña Tú und la Escuelina gemeinsam nutzen.",
+          "Gemeinderätin Laura Inguanzo weist darauf hin, dass die Mängel bereits 2023 gemeldet wurden und weiterhin unbehoben sind.",
+          "Die Partei verlangt die Reparatur des Systems oder dessen vollständigen Austausch."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Solange der Heizkessel nicht repariert oder ersetzt wird, werden die Kinder in diesen beiden Schulen jedes Mal frieren, wenn die Temperaturen sinken.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "del pena tu y la escuelina la concejala",
+      "pena tu y la escuelina la concejala socialista"
+    ]
+  },
+  {
+    "id": "villaviciosa-convoca-su-concurso-de-decoracion-navidena-con-premios-de",
+    "url": "/villaviciosa/villaviciosa-convoca-su-concurso-de-decoracion-navidena-con-premios-de/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Villaviciosa premia los mejores adornos navideños",
+    "entradilla": "El certamen llega a su séptima edición con cinco categorías y un máximo de 400 euros para los ganadores.",
+    "cuerpo": [
+      "El concejo de Villaviciosa convoca otro año su concurso de decoración navideña. El plazo para apuntarse va del 27 de noviembre al 14 de diciembre.",
+      "La competición se divide en cinco categorías y reparte premios de hasta 400 euros."
+    ],
+    "apunte": "Siete ediciones decorando el concejo: ya es tradición más seria que el belén de la plaza.",
+    "enVeinte": [
+      "Villaviciosa abre su séptimo concurso de decoración navideña con premios de hasta 400 euros.",
+      "Las inscripciones se reciben del 27 de noviembre al 14 de diciembre.",
+      "El certamen cuenta con cinco categorías abiertas a participantes del concejo."
+    ],
+    "cifra": {
+      "numero": "400",
+      "unidad": "euros",
+      "glosa": "Es el premio máximo que puede llevarse un participante. El concurso reparte esa cantidad entre las distintas categorías, aunque la fuente no detalla cómo se distribuye."
+    },
+    "palabra": null,
+    "porQue": "Quien decore su fachada, escaparate o jardín estas fiestas tiene hasta el 14 de diciembre para inscribirse y optar a premio.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Navidad",
+      "concurso",
+      "premios"
+    ],
+    "fechaEvento": "2025-11-27",
+    "tipoEvento": "feria",
+    "lugar": "Villaviciosa",
+    "hora": "",
+    "precio": "gratis",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/villaviciosa-convoca-su-concurso-de-decoracion-nav-8369533b.jpg",
+    "fecha": "2026-11-25T16:00:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/villaviciosa-convoca-su-concurso-de-decoracion-navidena-con-premios-de-hasta-400-euros-11277337.html",
+      "titularOriginal": "Villaviciosa convoca su concurso de decoración navideña con premios de hasta 400 euros"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa rewards the best Christmas decorations",
+        "entradilla": "The competition reaches its seventh edition with five categories and a maximum of 400 euros for the winners.",
+        "cuerpo": [
+          "The municipality of Villaviciosa is once again holding its Christmas decoration contest. Registration runs from 27 November to 14 December.",
+          "The competition is divided into five categories and awards prizes of up to 400 euros."
+        ],
+        "apunte": "Seven editions decorating the municipality: it has become a more serious tradition than the nativity scene in the square.",
+        "enVeinte": [
+          "Villaviciosa opens its seventh Christmas decoration contest with prizes of up to 400 euros.",
+          "Entries are accepted from 27 November to 14 December.",
+          "The competition has five categories open to participants from the municipality."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "euros",
+          "glosa": "This is the maximum prize a participant can win. The contest distributes that amount across the different categories, although the source does not detail how it is divided."
+        },
+        "palabra": null,
+        "porQue": "Anyone decorating their façade, shop window or garden this festive season has until 14 December to register and compete for a prize.",
+        "lugar": "Villaviciosa",
+        "precio": "free"
+      },
+      "fr": {
+        "titular": "Villaviciosa récompense les meilleures décorations de Noël",
+        "entradilla": "Le concours atteint sa septième édition avec cinq catégories et un maximum de 400 euros pour les gagnants.",
+        "cuerpo": [
+          "La commune de Villaviciosa organise une nouvelle fois son concours de décoration de Noël. Les inscriptions sont ouvertes du 27 novembre au 14 décembre.",
+          "La compétition est divisée en cinq catégories et distribue des prix allant jusqu'à 400 euros."
+        ],
+        "apunte": "Sept éditions à décorer la commune : c'est devenu une tradition plus sérieuse que la crèche de la place.",
+        "enVeinte": [
+          "Villaviciosa lance son septième concours de décoration de Noël avec des prix allant jusqu'à 400 euros.",
+          "Les inscriptions sont reçues du 27 novembre au 14 décembre.",
+          "Le concours compte cinq catégories ouvertes aux participants de la commune."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "euros",
+          "glosa": "C'est le prix maximum qu'un participant peut remporter. Le concours répartit cette somme entre les différentes catégories, bien que la source ne précise pas comment elle est distribuée."
+        },
+        "palabra": null,
+        "porQue": "Quiconque décore sa façade, sa vitrine ou son jardin pendant ces fêtes a jusqu'au 14 décembre pour s'inscrire et tenter de remporter un prix.",
+        "lugar": "Villaviciosa",
+        "precio": "gratuit"
+      },
+      "de": {
+        "titular": "Villaviciosa prämiert den besten Weihnachtsschmuck",
+        "entradilla": "Der Wettbewerb erreicht seine siebte Ausgabe mit fünf Kategorien und einem Höchstpreis von 400 Euro für die Gewinner.",
+        "cuerpo": [
+          "Die Gemeinde Villaviciosa veranstaltet erneut ihren Weihnachtsdekorationswettbewerb. Die Anmeldefrist läuft vom 27. November bis zum 14. Dezember.",
+          "Der Wettbewerb ist in fünf Kategorien unterteilt und vergibt Preise von bis zu 400 Euro."
+        ],
+        "apunte": "Sieben Ausgaben, in denen die Gemeinde geschmückt wird: Es ist bereits eine ernsthaftere Tradition als die Krippe auf dem Platz.",
+        "enVeinte": [
+          "Villaviciosa eröffnet seinen siebten Weihnachtsdekorationswettbewerb mit Preisen von bis zu 400 Euro.",
+          "Anmeldungen werden vom 27. November bis zum 14. Dezember entgegengenommen.",
+          "Der Wettbewerb umfasst fünf Kategorien, die Teilnehmern aus der Gemeinde offenstehen."
+        ],
+        "cifra": {
+          "numero": "400",
+          "unidad": "Euro",
+          "glosa": "Das ist der Höchstpreis, den ein Teilnehmer gewinnen kann. Der Wettbewerb verteilt diesen Betrag auf die verschiedenen Kategorien, obwohl die Quelle nicht erläutert, wie er aufgeteilt wird."
+        },
+        "palabra": null,
+        "porQue": "Wer in diesem Festjahr seine Fassade, sein Schaufenster oder seinen Garten schmückt, hat bis zum 14. Dezember Zeit, sich anzumelden und einen Preis zu gewinnen.",
+        "lugar": "Villaviciosa",
+        "precio": "kostenlos"
+      }
+    },
+    "revisar": [
+      "del 27 de noviembre al 14 de diciembre"
+    ]
+  },
+  {
+    "id": "el-psoe-de-villaviciosa-llevara-al-pleno-una-mocion-contra-la-violenci",
+    "url": "/villaviciosa/el-psoe-de-villaviciosa-llevara-al-pleno-una-mocion-contra-la-violenci/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "El PSOE lleva al pleno una moción contra la violencia de género",
+    "entradilla": "La propuesta ya pasó por la Comisión Informativa con el respaldo socialista, la abstención del PP y el voto en contra de la concejala no adscrita.",
+    "cuerpo": [
+      "El grupo municipal del PSOE de Villaviciosa presenta una moción contra la violencia de género para debatir en el próximo pleno. La iniciativa afecta al conjunto del municipio en una fecha señalada: el 25 de noviembre, Día Internacional para la Eliminación de la Violencia contra las Mujeres.",
+      "En la Comisión Informativa la moción salió adelante solo con los votos socialistas. El PP se abstuvo y la concejala no adscrita, Marta Sanz, votó en contra."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "El PSOE de Villaviciosa llevará al pleno una moción contra la violencia de género.",
+      "En la Comisión Informativa la apoyaron los socialistas, el PP se abstuvo y la concejala no adscrita votó en contra.",
+      "El debate en pleno está por celebrarse; no se conoce aún la fecha exacta."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Lo que se apruebe o rechace en ese pleno marca la postura oficial del Ayuntamiento de Villaviciosa ante la violencia de género, y puede traducirse en medidas o recursos concretos para el concejo.",
+    "etiquetas": [
+      "violencia de género",
+      "PSOE",
+      "pleno",
+      "Villaviciosa"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/el-psoe-de-villaviciosa-llevara-al-pleno-una-mocio-11277336.jpg",
+    "fecha": "2026-11-25T15:31:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/el-psoe-de-villaviciosa-llevara-al-pleno-una-mocion-contra-la-violencia-de-genero-11277336.html",
+      "titularOriginal": "El PSOE de Villaviciosa llevará al pleno una moción contra la violencia de género"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "The PSOE brings a motion against gender-based violence to the full council",
+        "entradilla": "The proposal already went through the Informative Committee with the support of the Socialists, the abstention of the PP, and the vote against from the non-affiliated councillor.",
+        "cuerpo": [
+          "The PSOE municipal group in Villaviciosa is putting forward a motion against gender-based violence for debate at the next full council meeting. The initiative concerns the whole municipality on a significant date: 25 November, the International Day for the Elimination of Violence against Women.",
+          "In the Informative Committee the motion passed only with the Socialist votes. The PP abstained and the non-affiliated councillor, Marta Sanz, voted against."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "The PSOE in Villaviciosa will bring a motion against gender-based violence to the full council.",
+          "In the Informative Committee the Socialists supported it, the PP abstained, and the non-affiliated councillor voted against.",
+          "The full council debate is yet to take place; the exact date is not yet known."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "What that full council approves or rejects sets the official position of the Ayuntamiento de Villaviciosa on gender-based violence, and may translate into specific measures or resources for the municipality.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Le PSOE soumet une motion contre les violences de genre au conseil municipal plénier",
+        "entradilla": "La proposition est déjà passée par la Commission informative avec le soutien des socialistes, l'abstention du PP et le vote contre de la conseillère non inscrite.",
+        "cuerpo": [
+          "Le groupe municipal du PSOE de Villaviciosa présente une motion contre les violences de genre pour débat lors du prochain conseil plénier. L'initiative concerne l'ensemble de la commune à une date symbolique : le 25 novembre, Journée internationale pour l'élimination de la violence à l'égard des femmes.",
+          "En Commission informative, la motion n'a été adoptée qu'avec les voix socialistes. Le PP s'est abstenu et la conseillère non inscrite, Marta Sanz, a voté contre."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Le PSOE de Villaviciosa soumettra une motion contre les violences de genre au conseil plénier.",
+          "En Commission informative, les socialistes l'ont soutenue, le PP s'est abstenu et la conseillère non inscrite a voté contre.",
+          "Le débat en séance plénière reste à tenir ; la date exacte n'est pas encore connue."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ce que ce conseil plénier approuvera ou rejettera définit la position officielle de l'Ayuntamiento de Villaviciosa face aux violences de genre, et peut se traduire par des mesures ou des ressources concrètes pour la commune.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Die PSOE bringt einen Antrag gegen geschlechtsspezifische Gewalt in die Vollversammlung",
+        "entradilla": "Der Vorschlag passierte den Informationsausschuss bereits mit der Unterstützung der Sozialisten, der Enthaltung der PP und der Gegenstimme der fraktionslosen Stadträtin.",
+        "cuerpo": [
+          "Die Gemeinderatsfraktion der PSOE in Villaviciosa bringt einen Antrag gegen geschlechtsspezifische Gewalt zur Debatte in der nächsten Vollversammlung ein. Die Initiative betrifft die gesamte Gemeinde an einem bedeutsamen Datum: dem 25. November, dem Internationalen Tag zur Beseitigung von Gewalt gegen Frauen.",
+          "Im Informationsausschuss wurde der Antrag nur mit den Stimmen der Sozialisten angenommen. Die PP enthielt sich und die fraktionslose Stadträtin, Marta Sanz, stimmte dagegen."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Die PSOE in Villaviciosa wird einen Antrag gegen geschlechtsspezifische Gewalt in die Vollversammlung einbringen.",
+          "Im Informationsausschuss stimmten die Sozialisten dafür, die PP enthielt sich und die fraktionslose Stadträtin stimmte dagegen.",
+          "Die Vollversammlungsdebatte steht noch aus; das genaue Datum ist noch nicht bekannt."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Was diese Vollversammlung beschließt oder ablehnt, legt die offizielle Haltung des Ayuntamiento de Villaviciosa gegenüber geschlechtsspezifischer Gewalt fest und kann in konkrete Maßnahmen oder Ressourcen für die Gemeinde münden.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "al pleno una mocion contra la violencia de",
+      "pleno una mocion contra la violencia de genero",
+      "una mocion contra la violencia de genero la",
+      "mocion contra la violencia de genero la propuesta",
+      "la abstencion del pp y el voto en",
+      "abstencion del pp y el voto en contra",
+      "del pp y el voto en contra de",
+      "pp y el voto en contra de la",
+      "y el voto en contra de la concejala",
+      "el voto en contra de la concejala no",
+      "voto en contra de la concejala no adscrita"
+    ]
+  },
+  {
+    "id": "la-insolita-estampa-esperada-en-las-obras-de-rehabilitacion-en-el-puen",
+    "url": "/pilona/la-insolita-estampa-esperada-en-las-obras-de-rehabilitacion-en-el-puen/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "avisos",
+    "titular": "Dos grúas trabajan ya a la vez en el puente",
+    "entradilla": "Un mes después del cierre, las obras del viaducto de Ribadesella sobre el Sella entran por fin en ritmo.",
+    "cuerpo": [
+      "Por primera vez desde que arrancó la demolición el 26 de octubre, dos grúas móviles han operado al mismo tiempo en el puente de Ribadesella: una en el primer vano, próximo a la glorieta, acabando de derribar el tablero viejo; la otra en el vano 13, levantando el nuevo. Lluvia y rachas de viento incluidas.",
+      "El cierre total al tráfico rodado cumple mañana un mes. La obra afecta al kilómetro 3 de la N-632, la carretera que conecta la costa asturiana.",
+      "El plazo oficial apunta a tener el puente listo para Semana Santa de 2027, en torno a marzo. La fuente recoge que hay dudas serias sobre si ese calendario se cumplirá."
+    ],
+    "apunte": "Dos grúas para recuperar el tiempo perdido: más vale tarde que nunca.",
+    "enVeinte": [
+      "Las obras del puente de Ribadesella llevan un mes con el viaducto cerrado al tráfico rodado.",
+      "Por primera vez, dos grúas trabajan a la vez: una demuele y la otra reconstruye el tablero.",
+      "El objetivo es reabrir para Semana Santa de 2027, aunque hay dudas de que el plazo se cumpla."
+    ],
+    "cifra": {
+      "numero": "13",
+      "unidad": "vanos",
+      "glosa": "El puente se divide en al menos 13 tramos o vanos. Los trabajos de demolición han empezado por el primero y los de reconstrucción avanzan por el decimotercero, es decir, desde los dos extremos a la vez."
+    },
+    "palabra": null,
+    "porQue": "El puente sigue cortado y no hay fecha segura de reapertura: quien cruza el Sella por aquí tendrá que seguir dando la vuelta hasta que acaben las obras, que pueden llegar hasta la primavera de 2027.",
+    "etiquetas": [
+      "puente de Ribadesella",
+      "obras",
+      "N-632",
+      "corte de tráfico"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "Puente de Ribadesella, km 3 de la N-632",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/11/PUENTE-RIBADESELLA-25.11.2026-Demolicion-Dos-Gruas-scaled.jpeg",
+    "fecha": "2026-11-25T15:24:30.000Z",
+    "fuente": {
+      "nombre": "COPE Ribadesella",
+      "url": "https://coperibadesella.com/25/11/2026/la-insolita-estampa-esperada-en-las-obras-de-rehabilitacion-en-el-puente-de-ribadesella/",
+      "titularOriginal": "La insólita estampa esperada en las obras de rehabilitación en el puente de Ribadesella"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Two cranes are now working at the same time on the bridge",
+        "entradilla": "A month after the closure, work on the Ribadesella viaduct over the Sella is finally picking up pace.",
+        "cuerpo": [
+          "For the first time since demolition began on 26 October, two mobile cranes have operated simultaneously on the Ribadesella bridge: one on the first span, near the roundabout, finishing the demolition of the old deck; the other on span 13, raising the new one. Rain and wind gusts included.",
+          "The total closure to road traffic reaches its one-month mark tomorrow. The works affect kilometre 3 of the N-632, the road that connects the Asturian coast.",
+          "The official schedule aims to have the bridge ready for Semana Santa 2027, around March. The source reports that there are serious doubts about whether that deadline will be met."
+        ],
+        "apunte": "Two cranes to make up for lost time: better late than never.",
+        "enVeinte": [
+          "Work on the Ribadesella bridge has kept the viaduct closed to road traffic for a month.",
+          "For the first time, two cranes are working at once: one demolishes while the other rebuilds the deck.",
+          "The aim is to reopen for Semana Santa 2027, although there are doubts that the deadline will be met."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "spans",
+          "glosa": "The bridge is divided into at least 13 sections or spans. Demolition work began at the first one and reconstruction is advancing from the thirteenth — in other words, from both ends at once."
+        },
+        "palabra": null,
+        "porQue": "The bridge remains closed and there is no confirmed reopening date: anyone crossing the Sella here will have to keep taking the long way round until the works are finished, which may not be until spring 2027.",
+        "lugar": "Puente de Ribadesella, km 3 de la N-632",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Deux grues travaillent désormais en même temps sur le pont",
+        "entradilla": "Un mois après la fermeture, les travaux du viaduc de Ribadesella sur la Sella prennent enfin leur rythme.",
+        "cuerpo": [
+          "Pour la première fois depuis le début de la démolition le 26 octobre, deux grues mobiles ont opéré simultanément sur le pont de Ribadesella : l'une sur la première travée, près du rond-point, achevant la démolition du vieux tablier ; l'autre sur la travée 13, posant le nouveau. Pluie et rafales de vent comprises.",
+          "La fermeture totale à la circulation routière atteint demain le cap d'un mois. Les travaux concernent le kilomètre 3 de la N-632, la route qui longe la côte des Asturies.",
+          "Le calendrier officiel prévoit d'avoir le pont prêt pour la Semana Santa 2027, aux alentours de mars. La source indique qu'il existe de sérieux doutes quant au respect de ce délai."
+        ],
+        "apunte": "Deux grues pour rattraper le temps perdu : mieux vaut tard que jamais.",
+        "enVeinte": [
+          "Les travaux du pont de Ribadesella maintiennent le viaduc fermé à la circulation routière depuis un mois.",
+          "Pour la première fois, deux grues travaillent en même temps : l'une démolit pendant que l'autre reconstruit le tablier.",
+          "L'objectif est de rouvrir pour la Semana Santa 2027, bien que des doutes subsistent quant au respect du délai."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "travées",
+          "glosa": "Le pont est divisé en au moins 13 tronçons ou travées. Les travaux de démolition ont commencé par la première et ceux de reconstruction avancent depuis la treizième — c'est-à-dire depuis les deux extrémités à la fois."
+        },
+        "palabra": null,
+        "porQue": "Le pont reste fermé et aucune date de réouverture n'est confirmée : quiconque traverse la Sella par ici devra continuer à faire le détour jusqu'à la fin des travaux, qui pourraient se prolonger jusqu'au printemps 2027.",
+        "lugar": "Puente de Ribadesella, km 3 de la N-632",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Zwei Kräne arbeiten jetzt gleichzeitig an der Brücke",
+        "entradilla": "Einen Monat nach der Sperrung kommen die Arbeiten am Viadukt von Ribadesella über den Sella endlich in Schwung.",
+        "cuerpo": [
+          "Zum ersten Mal seit Beginn der Abrissarbeiten am 26. Oktober haben zwei Mobilkräne gleichzeitig auf der Brücke von Ribadesella gearbeitet: einer am ersten Feld nahe dem Kreisverkehr, um die alte Fahrbahn fertig abzureißen; der andere am 13. Feld, um die neue zu montieren. Bei Regen und Windböen.",
+          "Die vollständige Sperrung für den Straßenverkehr vollendet morgen einen Monat. Die Arbeiten betreffen Kilometer 3 der N-632, der Straße entlang der asturischen Küste.",
+          "Der offizielle Zeitplan sieht vor, die Brücke zur Semana Santa 2027, also etwa im März, fertigzustellen. Laut der Quelle bestehen ernsthafte Zweifel, ob dieser Termin eingehalten werden kann."
+        ],
+        "apunte": "Zwei Kräne, um die verlorene Zeit aufzuholen: besser spät als nie.",
+        "enVeinte": [
+          "Die Bauarbeiten an der Brücke von Ribadesella halten das Viadukt seit einem Monat für den Straßenverkehr gesperrt.",
+          "Zum ersten Mal arbeiten zwei Kräne gleichzeitig: einer reißt ab, der andere baut die Fahrbahn neu.",
+          "Ziel ist die Wiedereröffnung zur Semana Santa 2027, obwohl Zweifel bestehen, ob der Termin eingehalten wird."
+        ],
+        "cifra": {
+          "numero": "13",
+          "unidad": "Felder",
+          "glosa": "Die Brücke ist in mindestens 13 Abschnitte oder Felder unterteilt. Die Abrissarbeiten begannen am ersten Feld, während der Wiederaufbau vom dreizehnten voranschreitet — also von beiden Enden gleichzeitig."
+        },
+        "palabra": null,
+        "porQue": "Die Brücke bleibt gesperrt und es gibt kein gesichertes Wiedereröffnungsdatum: Wer hier den Sella überqueren möchte, muss den Umweg weiter in Kauf nehmen, bis die Arbeiten abgeschlossen sind — möglicherweise erst im Frühjahr 2027.",
+        "lugar": "Puente de Ribadesella, km 3 de la N-632",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "proceso-selectivo-de-trabajador-a-social",
+    "url": "/villaviciosa/proceso-selectivo-de-trabajador-a-social/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "trabajo",
+    "titular": "Villaviciosa busca trabajador/a social",
+    "entradilla": "El Ayuntamiento ha publicado las listas provisionales de admitidos y excluidos en el proceso selectivo para cubrir esta plaza.",
+    "cuerpo": [
+      "El Ayuntamiento de Villaviciosa está en marcha con la selección de un trabajador o trabajadora social. Ya hay listas provisionales que dicen quién entra en la criba y quién ha quedado fuera de momento.",
+      "Las bases del proceso se publicaron en el BOPA y la convocatoria oficial en el BOE. Quien esté en el proceso puede consultar si figura como admitido o excluido en esas listas provisionales."
+    ],
+    "apunte": "",
+    "enVeinte": [
+      "Villaviciosa convoca una plaza de trabajador/a social por proceso selectivo público.",
+      "Las bases salieron en el BOPA y la convocatoria en el BOE.",
+      "Ya están publicadas las listas provisionales de admitidos y excluidos."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Si solicitaste la plaza, ahora toca revisar si apareces como admitido o excluido en las listas provisionales para saber si sigues en el proceso.",
+    "etiquetas": [
+      "Villaviciosa",
+      "empleo público",
+      "servicios sociales",
+      "oposiciones"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "",
+    "fecha": "2026-11-25T12:41:14.000Z",
+    "fuente": {
+      "nombre": "Ayuntamiento de Villaviciosa",
+      "url": "https://www.villaviciosa.es:443/detalle-rss?p_p_id=56_INSTANCE_Vnc0RwLBXJby&p_p_lifecycle=0&refererPlid=1456886&_56_INSTANCE_Vnc0RwLBXJby_groupId=262722&_56_INSTANCE_Vnc0RwLBXJby_articleId=19804552",
+      "titularOriginal": "Proceso selectivo de Trabajador/a social",
+      "oficial": true
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Villaviciosa seeks a social worker",
+        "entradilla": "The council has published the provisional lists of admitted and excluded candidates in the selection process to fill this post.",
+        "cuerpo": [
+          "The council of Villaviciosa is underway with the selection of a social worker. Provisional lists have already been published stating who makes it through the initial screening and who has been left out for now.",
+          "The terms of the process were published in the BOPA and the official call in the BOE. Anyone taking part in the process can check whether they appear as admitted or excluded on those provisional lists."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa is opening a social worker post through a public selection process.",
+          "The terms were published in the BOPA and the official call in the BOE.",
+          "The provisional lists of admitted and excluded candidates have already been published."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "If you applied for the post, now is the time to check whether you appear as admitted or excluded on the provisional lists to find out whether you are still in the running.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Villaviciosa recherche un(e) travailleur/travailleuse social(e)",
+        "entradilla": "La mairie a publié les listes provisoires des candidats admis et exclus dans le cadre du processus de sélection pour pourvoir ce poste.",
+        "cuerpo": [
+          "La mairie de Villaviciosa est lancée dans la sélection d'un travailleur ou d'une travailleuse sociale. Les listes provisoires indiquant qui passe la première sélection et qui en est exclu pour l'instant ont déjà été publiées.",
+          "Les bases du processus ont été publiées au BOPA et l'avis officiel au BOE. Toute personne participant au processus peut vérifier si elle figure comme admise ou exclue sur ces listes provisoires."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa ouvre un poste de travailleur/travailleuse social(e) par voie de sélection publique.",
+          "Les bases ont été publiées au BOPA et l'avis officiel au BOE.",
+          "Les listes provisoires des candidats admis et exclus ont déjà été publiées."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Si vous avez postulé à ce poste, il est maintenant temps de vérifier si vous figurez comme admis ou exclu sur les listes provisoires afin de savoir si vous poursuivez le processus.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Villaviciosa sucht eine Sozialarbeiterin oder einen Sozialarbeiter",
+        "entradilla": "Das Rathaus hat die vorläufigen Listen der zugelassenen und ausgeschlossenen Bewerber im Auswahlverfahren für diese Stelle veröffentlicht.",
+        "cuerpo": [
+          "Das Rathaus von Villaviciosa hat das Auswahlverfahren für eine Stelle als Sozialarbeiterin oder Sozialarbeiter eingeleitet. Die vorläufigen Listen, aus denen hervorgeht, wer die erste Auswahl besteht und wer vorerst ausgeschieden ist, sind bereits veröffentlicht.",
+          "Die Ausschreibungsunterlagen wurden im BOPA und die offizielle Bekanntmachung im BOE veröffentlicht. Wer am Verfahren teilnimmt, kann in diesen vorläufigen Listen nachsehen, ob er oder sie als zugelassen oder ausgeschlossen geführt wird."
+        ],
+        "apunte": "",
+        "enVeinte": [
+          "Villaviciosa schreibt eine Stelle als Sozialarbeiterin oder Sozialarbeiter im öffentlichen Auswahlverfahren aus.",
+          "Die Unterlagen wurden im BOPA und die offizielle Bekanntmachung im BOE veröffentlicht.",
+          "Die vorläufigen Listen der zugelassenen und ausgeschlossenen Bewerber sind bereits veröffentlicht."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Wer sich auf die Stelle beworben hat, sollte jetzt prüfen, ob er oder sie in den vorläufigen Listen als zugelassen oder ausgeschlossen aufgeführt ist, um zu wissen, ob das Verfahren weitergeht.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
     "id": "denuncian-la-caida-de-un-arbol-en-el-rio-sella-que-nadie-recoge",
     "url": "/pilona/denuncian-la-caida-de-un-arbol-en-el-rio-sella-que-nadie-recoge/",
     "concejo": "Piloña",
@@ -46448,440 +47174,6 @@
         "cifra": null,
         "palabra": null,
         "porQue": "",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "villaviciosa-echa-a-rodar-su-historico-circuito-ciclista-del-portal",
-    "url": "/villaviciosa/villaviciosa-echa-a-rodar-su-historico-circuito-ciclista-del-portal/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "deporte-y-cultura",
-    "titular": "El Circuito del Portal vuelve a Villaviciosa",
-    "entradilla": "La prueba abre la puerta a jóvenes sin ficha federativa y espera unos 150 corredores en la salida.",
-    "cuerpo": [
-      "El Circuito Ciclista del Portal, una de las citas con más solera del calendario deportivo de Villaviciosa, está listo para celebrar una nueva edición. La organización da por cerrados los preparativos.",
-      "La novedad más destacada es que la carrera se estrena como punto de encuentro para jóvenes no federados, lo que amplía el acceso a una prueba que hasta ahora exigía licencia."
-    ],
-    "apunte": "150 ciclistas y un portal: el aforo más apretado del concejo no es ninguna sala de fiestas.",
-    "enVeinte": [
-      "El Circuito Ciclista del Portal de Villaviciosa regresa con todo preparado para su nueva edición.",
-      "Por primera vez, jóvenes sin licencia federativa podrán tomar la salida junto al resto de participantes.",
-      "Se esperan alrededor de 150 corredores en la prueba."
-    ],
-    "cifra": {
-      "numero": "150",
-      "unidad": "participantes",
-      "glosa": "Es el número de ciclistas que la organización prevé en la salida. Para una carrera local, es una cifra que habla bien de la tradición y del tirón que sigue teniendo el Circuito del Portal en el concejo."
-    },
-    "palabra": null,
-    "porQue": "Que la prueba se abra a jóvenes no federados significa que cualquier chaval del concejo con una bici y ganas puede competir sin tener que sacarse antes una licencia.",
-    "etiquetas": [
-      "ciclismo",
-      "Villaviciosa",
-      "Circuito del Portal",
-      "deporte base"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "Villaviciosa",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s2.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/27/portal-villaviciosa-RCwHKiRDxYBbasNDgN435IM-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-27T18:56:35.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-echa-rodar-historico-circuito-ciclista-portal-20260827205635-nt.html",
-      "titularOriginal": "Villaviciosa echa a rodar su histórico Circuito Ciclista del Portal"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "El Circuito del Portal returns to Villaviciosa",
-        "entradilla": "The race opens its doors to young riders without a federation licence and expects around 150 starters.",
-        "cuerpo": [
-          "El Circuito Ciclista del Portal, one of the most storied fixtures in Villaviciosa's sporting calendar, is ready for a new edition. The organisers say preparations are complete.",
-          "The most notable new feature is that the race is opening up for the first time to young non-registered riders, broadening access to an event that until now required a licence."
-        ],
-        "apunte": "150 cyclists and a portal: the tightest crowd in the municipality is no nightclub.",
-        "enVeinte": [
-          "El Circuito Ciclista del Portal de Villaviciosa is back, with everything in place for its new edition.",
-          "For the first time, young riders without a federation licence will be able to line up alongside the rest of the field.",
-          "Around 150 riders are expected to take the start."
-        ],
-        "cifra": {
-          "numero": "150",
-          "unidad": "participants",
-          "glosa": "This is the number of cyclists the organisers expect at the start line. For a local race, it is a figure that speaks well of the tradition and the pull that El Circuito del Portal still holds in the municipality."
-        },
-        "palabra": null,
-        "porQue": "Opening the race to young non-registered riders means that any kid in the municipality with a bike and the will to compete can do so without first having to obtain a licence.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "El Circuito del Portal revient à Villaviciosa",
-        "entradilla": "L'épreuve ouvre ses portes aux jeunes sans licence fédérale et attend environ 150 coureurs au départ.",
-        "cuerpo": [
-          "El Circuito Ciclista del Portal, l'une des rendez-vous les plus ancrés dans la tradition sportive de Villaviciosa, est prêt pour une nouvelle édition. Les organisateurs considèrent les préparatifs comme achevés.",
-          "La principale nouveauté est que la course s'ouvre pour la première fois aux jeunes non licenciés, ce qui élargit l'accès à une épreuve qui exigeait jusqu'à présent une licence."
-        ],
-        "apunte": "150 cyclistes et un portal : la plus grande concentration de la commune n'est pas une salle des fêtes.",
-        "enVeinte": [
-          "El Circuito Ciclista del Portal de Villaviciosa est de retour, avec tout en place pour sa nouvelle édition.",
-          "Pour la première fois, des jeunes sans licence fédérale pourront prendre le départ aux côtés des autres participants.",
-          "Environ 150 coureurs sont attendus au départ de l'épreuve."
-        ],
-        "cifra": {
-          "numero": "150",
-          "unidad": "participants",
-          "glosa": "C'est le nombre de cyclistes que les organisateurs prévoient au départ. Pour une course locale, c'est un chiffre qui témoigne de la tradition et de l'attrait qu'El Circuito del Portal conserve dans la commune."
-        },
-        "palabra": null,
-        "porQue": "Ouvrir l'épreuve aux jeunes non licenciés signifie que n'importe quel jeune de la commune avec un vélo et l'envie de concourir peut le faire sans avoir à obtenir au préalable une licence.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      },
-      "de": {
-        "titular": "El Circuito del Portal kehrt nach Villaviciosa zurück",
-        "entradilla": "Das Rennen öffnet seine Tore für Nachwuchsfahrer ohne Verbandslizenz und erwartet rund 150 Starter.",
-        "cuerpo": [
-          "El Circuito Ciclista del Portal, eines der traditionsreichsten Ereignisse im Sportkalender von Villaviciosa, ist bereit für eine neue Ausgabe. Die Veranstalter erklären die Vorbereitungen für abgeschlossen.",
-          "Die wichtigste Neuheit ist, dass das Rennen erstmals für junge Fahrer ohne Verbandslizenz zugänglich ist, was die Teilnahme an einem Wettbewerb ermöglicht, der bisher eine Lizenz voraussetzte."
-        ],
-        "apunte": "150 Radfahrer und ein Portal: die dichteste Menschenmenge der Gemeinde ist kein Festsaal.",
-        "enVeinte": [
-          "El Circuito Ciclista del Portal de Villaviciosa ist zurück – alles ist für die neue Ausgabe bereit.",
-          "Erstmals dürfen junge Fahrer ohne Verbandslizenz gemeinsam mit den übrigen Teilnehmern an den Start gehen.",
-          "Rund 150 Fahrer werden beim Rennen erwartet."
-        ],
-        "cifra": {
-          "numero": "150",
-          "unidad": "Teilnehmer",
-          "glosa": "So viele Radfahrer erwartet die Organisation am Start. Für ein lokales Rennen ist das eine Zahl, die für die Tradition und die Strahlkraft spricht, die El Circuito del Portal in der Gemeinde nach wie vor besitzt."
-        },
-        "palabra": null,
-        "porQue": "Dass das Rennen für junge Fahrer ohne Verbandslizenz geöffnet wird, bedeutet: Jeder Jugendliche in der Gemeinde, der ein Fahrrad und den Willen hat, kann teilnehmen – ohne sich zuvor eine Lizenz besorgen zu müssen.",
-        "lugar": "Villaviciosa",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "pilona-celebra-el-x-concurso-de-sidra-casera",
-    "url": "/pilona/pilona-celebra-el-x-concurso-de-sidra-casera/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "deporte-y-cultura",
-    "titular": "Piloña llega al X Concurso de Sidra Casera con Mieres de invitado",
-    "entradilla": "Décima edición, con Mieres invitado y programa festivo alrededor del concurso.",
-    "cuerpo": [
-      "El concurso de sidra casera de Piloña llega a la décima edición con un programa festivo montado alrededor. Mieres es el concejo invitado de este año.",
-      "Lo de invitar a otro concejo funciona mejor de lo que parece: saca la fiesta del círculo de siempre y trae gente que de otro modo no habría venido.",
-      "Diez ediciones son suficientes para que un concurso deje de ser una ocurrencia y pase a ser una cita."
-    ],
-    "etiquetas": [
-      "Sidra casera",
-      "Concurso",
-      "Mieres"
-    ],
-    "imagen": "",
-    "fecha": "2026-08-27T10:46:51.000Z",
-    "fechaEvento": "",
-    "fuente": {
-      "nombre": "El Fielato",
-      "url": "https://www.elfielato.es/articulo/pilona/pilona-x-concurso-sidra-casera/20260827124651102249.html",
-      "titularOriginal": "Piloña celebra el X Concurso de Sidra Casera con un completo programa festivo"
-    },
-    "reescrito": true,
-    "apunte": "",
-    "tipoEvento": "feria",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "trad": {
-      "en": {
-        "titular": "Piloña reaches its 10th Cider-Making Contest with Mieres as guest municipality",
-        "entradilla": "Tenth edition, with Mieres as guest and a festive programme built around the contest.",
-        "cuerpo": [
-          "Piloña's homemade cider contest reaches its tenth edition with a festive programme built around it. Mieres is this year's guest municipality.",
-          "Inviting another municipality works better than it sounds: it takes the event out of the usual circle and brings in people who would not have come otherwise.",
-          "Ten editions are enough for a contest to stop being a novelty and become a fixture."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Piloña atteint la 10e édition de son concours de cidre artisanal avec Mieres comme commune invitée",
-        "entradilla": "Dixième édition, avec Mieres comme invitée et un programme festif construit autour du concours.",
-        "cuerpo": [
-          "Le concours de cidre artisanal de Piloña atteint sa dixième édition avec un programme festif organisé autour de l'événement. Mieres est la commune invitée de cette année.",
-          "Inviter une autre commune fonctionne mieux qu'il n'y paraît : cela sort la fête de son cercle habituel et attire des gens qui ne seraient pas venus autrement.",
-          "Dix éditions suffisent pour qu'un concours cesse d'être une idée en l'air et devienne un rendez-vous."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Piloña erreicht die 10. Ausgabe seines Hausmacher-Ciderwettbewerbs mit Mieres als Gast-Gemeinde",
-        "entradilla": "Zehnte Ausgabe, mit Mieres als Gast und einem Festprogramm rund um den Wettbewerb.",
-        "cuerpo": [
-          "Der Hausmacher-Ciderwettbewerb von Piloña erreicht seine zehnte Ausgabe mit einem Festprogramm, das rund um den Wettbewerb aufgebaut ist. Mieres ist die Gast-Gemeinde in diesem Jahr.",
-          "Eine andere Gemeinde einzuladen funktioniert besser, als es klingt: Es holt das Fest aus dem gewohnten Kreis heraus und bringt Leute, die sonst nicht gekommen wären.",
-          "Zehn Ausgaben genügen, damit ein Wettbewerb aufhört, eine Schnapsidee zu sein, und zu einem festen Termin wird."
-        ],
-        "apunte": "",
-        "enVeinte": [],
-        "cifra": null,
-        "palabra": null,
-        "porQue": "",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "la-oposicion-insta-al-alcalde-de-villaviciosa-a-asumir-su-responsabili",
-    "url": "/villaviciosa/la-oposicion-insta-al-alcalde-de-villaviciosa-a-asumir-su-responsabili/",
-    "concejo": "Villaviciosa",
-    "concejoSlug": "villaviciosa",
-    "seccion": "trabajo",
-    "titular": "PP y edil no adscrita piden cuentas por la RPT",
-    "entradilla": "La oposición exige al alcalde que asuma su responsabilidad con la Relación de Puestos de Trabajo antes de que un funcionario la lleve a los tribunales.",
-    "cuerpo": [
-      "El PP y la concejala no adscrita del Ayuntamiento de Villaviciosa han pedido explicaciones al alcalde sobre la Relación de Puestos de Trabajo —el documento que fija qué empleos existen en la casa y qué condiciones tienen—. Le piden, según la oposición, que deje de señalar a otros y que asuma lo que le toca.",
-      "El asunto tiene mecha corta: un funcionario municipal estudia impugnar la RPT, lo que abriría un conflicto judicial con el Ayuntamiento como parte."
-    ],
-    "apunte": "Cuando el problema llega a los juzgados, buscar culpables fuera ya no sirve de mucho.",
-    "enVeinte": [
-      "El PP y la edil no adscrita exigen al alcalde de Villaviciosa que responda por la Relación de Puestos de Trabajo.",
-      "La oposición le reprocha que achaque los problemas a otros en lugar de asumir su responsabilidad.",
-      "Un funcionario municipal podría impugnar la RPT, lo que llevaría el conflicto a los tribunales."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "RPT",
-      "como": "erre-pe-te",
-      "definicion": "La Relación de Puestos de Trabajo es el catálogo oficial que detalla cada puesto del Ayuntamiento: quién lo ocupa, qué funciones tiene y qué cobra. Si un funcionario la impugna, un juez puede obligar al Ayuntamiento a modificarla."
-    },
-    "porQue": "Si la RPT llega a los juzgados, el Ayuntamiento de Villaviciosa podría verse obligado a reorganizar su plantilla, con efectos sobre los servicios que reciben los vecinos.",
-    "etiquetas": [
-      "Villaviciosa",
-      "Ayuntamiento",
-      "RPT",
-      "oposición"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/08/27/villaviciosa-ayuntamiento-R8mfPRfkJO7pWItSkJxlLzK-1200x840@El%20Comercio.jpg",
-    "fecha": "2026-08-27T10:13:30.000Z",
-    "fuente": {
-      "nombre": "El Comercio · Villaviciosa",
-      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/oposicion-insta-alcalde-villaviciosa-asumir-responsabilidad-rpt-20260827121330-nt.html",
-      "titularOriginal": "La oposición insta al alcalde de Villaviciosa a asumir su responsabilidad con la RPT: «Que deje de buscar culpables en nosotros»"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "PP and non-attached councillor demand answers over the RPT",
-        "entradilla": "The opposition is calling on the mayor to take responsibility for the Relación de Puestos de Trabajo before a council employee takes the matter to court.",
-        "cuerpo": [
-          "The PP and the non-attached councillor on the Villaviciosa council have asked the mayor to explain the Relación de Puestos de Trabajo — the document that sets out which posts exist in the organisation and on what terms. They are asking him, according to the opposition, to stop pointing the finger at others and to own his share of the problem.",
-          "The issue is close to boiling point: a municipal employee is considering challenging the RPT in court, which would open a legal dispute with the council as a party."
-        ],
-        "apunte": "Once the problem reaches the courts, looking for someone else to blame does not get you very far.",
-        "enVeinte": [
-          "The PP and the non-attached councillor are demanding that the mayor of Villaviciosa answer for the Relación de Puestos de Trabajo.",
-          "The opposition reproaches him for blaming others instead of taking responsibility.",
-          "A municipal employee could challenge the RPT, which would bring the dispute before the courts."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "The Relación de Puestos de Trabajo is the official catalogue listing every post in the council: who holds it, what its duties are, and what it pays. If a council employee challenges it in court, a judge may order the council to amend it."
-        },
-        "porQue": "If the RPT ends up in court, Villaviciosa council could be forced to reorganise its workforce, with knock-on effects on the services residents receive.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Le PP et l'élue non inscrite demandent des comptes sur la RPT",
-        "entradilla": "L'opposition demande au maire d'assumer sa responsabilité concernant la Relación de Puestos de Trabajo avant qu'un fonctionnaire ne saisisse la justice.",
-        "cuerpo": [
-          "Le PP et la conseillère municipale non inscrite de la mairie de Villaviciosa ont demandé des explications au maire sur la Relación de Puestos de Trabajo — le document qui fixe quels emplois existent dans la collectivité et à quelles conditions. Ils lui demandent, selon l'opposition, de cesser de mettre en cause d'autres personnes et d'assumer ce qui lui revient.",
-          "L'affaire est sur le point d'éclater : un fonctionnaire municipal envisage de contester la RPT en justice, ce qui ouvrirait un conflit judiciaire avec la mairie comme partie prenante."
-        ],
-        "apunte": "Quand le problème arrive devant les tribunaux, chercher des coupables ailleurs ne sert plus à grand-chose.",
-        "enVeinte": [
-          "Le PP et l'élue non inscrite exigent que le maire de Villaviciosa réponde de la Relación de Puestos de Trabajo.",
-          "L'opposition lui reproche d'imputer les problèmes à d'autres au lieu d'assumer sa responsabilité.",
-          "Un fonctionnaire municipal pourrait contester la RPT, ce qui porterait le conflit devant les tribunaux."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "La Relación de Puestos de Trabajo est le catalogue officiel qui détaille chaque poste de la mairie : qui l'occupe, quelles sont ses fonctions et quel est son salaire. Si un fonctionnaire la conteste en justice, un juge peut obliger la mairie à la modifier."
-        },
-        "porQue": "Si la RPT est portée devant les tribunaux, la mairie de Villaviciosa pourrait être contrainte de réorganiser ses effectifs, avec des conséquences sur les services dont bénéficient les habitants.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "PP und fraktionslose Stadträtin fordern Rechenschaft über die RPT",
-        "entradilla": "Die Opposition fordert den Bürgermeister auf, die Verantwortung für die Relación de Puestos de Trabajo zu übernehmen, bevor ein Verwaltungsangestellter die Sache vor Gericht bringt.",
-        "cuerpo": [
-          "Die PP und die fraktionslose Stadträtin des Rathauses von Villaviciosa haben den Bürgermeister um Erklärungen zur Relación de Puestos de Trabajo gebeten — dem Dokument, das festlegt, welche Stellen in der Verwaltung existieren und zu welchen Bedingungen. Sie fordern ihn laut Opposition auf, aufzuhören, auf andere zu zeigen, und das zu übernehmen, wofür er zuständig ist.",
-          "Die Angelegenheit steht kurz vor dem Ausbruch: Ein Verwaltungsangestellter erwägt, die RPT gerichtlich anzufechten, was einen Rechtsstreit eröffnen würde, in dem das Rathaus als Partei auftreten müsste."
-        ],
-        "apunte": "Wenn das Problem erst vor Gericht landet, bringt die Suche nach Schuldigen anderswo nicht mehr viel.",
-        "enVeinte": [
-          "Die PP und die fraktionslose Stadträtin fordern den Bürgermeister von Villaviciosa auf, Verantwortung für die Relación de Puestos de Trabajo zu übernehmen.",
-          "Die Opposition wirft ihm vor, die Probleme anderen anzulasten, statt selbst Verantwortung zu übernehmen.",
-          "Ein Verwaltungsangestellter könnte die RPT anfechten, was den Konflikt vor die Gerichte bringen würde."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "RPT",
-          "como": "erre-pe-te",
-          "definicion": "Die Relación de Puestos de Trabajo ist der offizielle Katalog, der jede Stelle im Rathaus aufführt: wer sie innehat, welche Aufgaben damit verbunden sind und wie viel sie einbringt. Ficht ein Verwaltungsangestellter sie gerichtlich an, kann ein Richter das Rathaus zur Änderung verpflichten."
-        },
-        "porQue": "Gelangt die RPT vor Gericht, könnte das Rathaus von Villaviciosa gezwungen sein, seine Belegschaft umzustrukturieren — mit Auswirkungen auf die Leistungen, die die Bewohner erhalten.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
-  },
-  {
-    "id": "los-ganaderos-piden-una-solucion-para-gestionar-los-residuos-de-las-qu",
-    "url": "/cabrales/los-ganaderos-piden-una-solucion-para-gestionar-los-residuos-de-las-qu/",
-    "concejo": "Cabrales",
-    "concejoSlug": "cabrales",
-    "seccion": "actualidad",
-    "titular": "COAG exige solución para los residuos de las queserías",
-    "entradilla": "Los ganaderos de Cabrales advierten de que sin un sistema claro para gestionar los desechos de la elaboración del queso, el sector tiene los días contados.",
-    "cuerpo": [
-      "La organización agraria COAG reclama a las administraciones que se sienten a hablar con el sector quesero de Cabrales y que den garantías a los vecinos sobre cómo se van a gestionar los residuos que genera la elaboración del queso.",
-      "El sindicato agrario pone el foco en la continuidad del sector: sin una solución acordada, las queserías del concejo quedan en una situación de incertidumbre que puede afectar tanto a quienes producen como a quienes viven cerca."
-    ],
-    "apunte": "El queso más famoso de Asturias necesita, además de cueva y paciencia, alguien que se ocupe de lo que sobra.",
-    "enVeinte": [
-      "La COAG pide a las administraciones que busquen una solución para gestionar los residuos que producen las queserías de Cabrales.",
-      "El sindicato reclama diálogo y garantías para los vecinos, y advierte de que el sector necesita certezas para seguir adelante.",
-      "Por ahora no hay acuerdo ni calendario: la pelota está en el tejado de las administraciones."
-    ],
-    "cifra": null,
-    "palabra": {
-      "termino": "quesería",
-      "como": "quesería, igual que en castellano, aunque en Cabrales muchas son familiares y artesanales",
-      "definicion": "En el concejo de Cabrales, una quesería es el obrador donde se elabora el queso azul con denominación de origen propia. El proceso genera suero y otros residuos que hay que tratar, y ahí es donde está el problema que denuncia la COAG."
-    },
-    "porQue": "Si no se resuelve la gestión de residuos, las queserías de Cabrales pueden verse obligadas a cerrar o a reducir su actividad, lo que golpea directamente a las familias ganaderas del concejo y a uno de los productos que más nombre le dan a la comarca.",
-    "etiquetas": [
-      "Cabrales",
-      "ganadería",
-      "queso",
-      "COAG"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2023/11/15/2023111515463019604.jpg",
-    "fecha": "2026-08-27T09:21:08.000Z",
-    "fuente": {
-      "nombre": "Cabrales · feed propio",
-      "url": "https://www.elfielato.es/articulo/cabrales/ganaderos-piden-solucion-gestionar-residuos-queserias-cabrales/20260827112108102243.html",
-      "titularOriginal": "Los ganaderos piden una solución para gestionar los residuos de las queserías de Cabrales"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "COAG demands a solution for cheese dairy waste",
-        "entradilla": "Cabrales livestock farmers warn that without a clear system for managing the waste produced during cheese-making, the sector is living on borrowed time.",
-        "cuerpo": [
-          "The farming organisation COAG is calling on the authorities to sit down with the Cabrales cheese sector and give local residents guarantees about how the waste generated during cheese production will be managed.",
-          "The agricultural union is focusing on the sector's survival: without an agreed solution, the cheese dairies in the municipality are left in a state of uncertainty that could affect both producers and people living nearby."
-        ],
-        "apunte": "Asturias's most famous cheese needs, besides a cave and patience, someone to take care of what is left over.",
-        "enVeinte": [
-          "COAG is asking the authorities to find a solution for managing the waste produced by Cabrales cheese dairies.",
-          "The union is calling for dialogue and guarantees for residents, and warns that the sector needs certainty to keep going.",
-          "For now there is no agreement or timetable: the ball is in the authorities' court."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesería",
-          "como": "quesería, pronounced the same as in Spanish; in Cabrales many are family-run and artisan operations",
-          "definicion": "In the municipality of Cabrales, a quesería is the workshop where blue cheese with its own protected designation of origin is made. The process generates whey and other waste that must be treated, and that is the core of the problem COAG is raising."
-        },
-        "porQue": "If waste management is not resolved, the cheese dairies of Cabrales may be forced to close or scale back their activity, which would hit livestock-farming families in the municipality directly and undermine one of the products that puts the area on the map.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "La COAG exige une solution pour les déchets des fromageries",
-        "entradilla": "Les éleveurs de Cabrales préviennent que sans un système clair de gestion des déchets issus de la fabrication du fromage, le secteur est condamné à court terme.",
-        "cuerpo": [
-          "L'organisation agricole COAG demande aux administrations de s'asseoir avec le secteur fromager de Cabrales et d'apporter aux habitants des garanties sur la manière dont seront gérés les déchets produits lors de la fabrication du fromage.",
-          "Le syndicat agricole met l'accent sur la pérennité du secteur : sans solution concertée, les fromageries de la commune se retrouvent dans une situation d'incertitude qui peut affecter aussi bien les producteurs que les riverains."
-        ],
-        "apunte": "Le fromage le plus célèbre des Asturies a besoin, en plus d'une grotte et de patience, de quelqu'un qui s'occupe de ce qui reste.",
-        "enVeinte": [
-          "La COAG demande aux administrations de trouver une solution pour gérer les déchets produits par les fromageries de Cabrales.",
-          "Le syndicat réclame le dialogue et des garanties pour les habitants, et prévient que le secteur a besoin de certitudes pour continuer.",
-          "Pour l'instant, il n'y a ni accord ni calendrier : la balle est dans le camp des administrations."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesería",
-          "como": "quesería, se prononce comme en espagnol ; à Cabrales, beaucoup sont des exploitations familiales et artisanales",
-          "definicion": "Dans la commune de Cabrales, une quesería est l'atelier où est fabriqué le fromage bleu bénéficiant d'une appellation d'origine protégée. Le processus génère du lactosérum et d'autres déchets qui doivent être traités, et c'est là que réside le problème dénoncé par la COAG."
-        },
-        "porQue": "Si la gestion des déchets n'est pas résolue, les fromageries de Cabrales pourraient être contraintes de fermer ou de réduire leur activité, ce qui toucherait directement les familles d'éleveurs de la commune et l'un des produits qui font la renommée de la région.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "COAG fordert Lösung für Abfälle der Käsereien",
-        "entradilla": "Die Viehhalter aus Cabrales warnen: Ohne ein klares System zur Entsorgung der bei der Käseherstellung anfallenden Abfälle hat der Sektor keine Zukunft.",
-        "cuerpo": [
-          "Die Landwirtschaftsorganisation COAG fordert die Behörden auf, sich mit dem Käsesektor in Cabrales an einen Tisch zu setzen und den Anwohnern Garantien darüber zu geben, wie die bei der Käseherstellung anfallenden Abfälle künftig gehandhabt werden.",
-          "Die Agrarggewerkschaft richtet ihr Augenmerk auf den Fortbestand des Sektors: Ohne eine gemeinsam erarbeitete Lösung befinden sich die Käsereien der Gemeinde in einer Lage der Ungewissheit, die sowohl die Produzenten als auch die Anwohner treffen kann."
-        ],
-        "apunte": "Asturiens berühmtester Käse braucht neben einer Höhle und Geduld auch jemanden, der sich um das kümmert, was übrig bleibt.",
-        "enVeinte": [
-          "Die COAG fordert die Behörden auf, eine Lösung für die Entsorgung der Abfälle zu finden, die in den Käsereien von Cabrales anfallen.",
-          "Die Gewerkschaft verlangt Dialog und Garantien für die Anwohner und warnt, der Sektor brauche Planungssicherheit, um weitermachen zu können.",
-          "Derzeit gibt es weder eine Einigung noch einen Zeitplan: Der Ball liegt bei den Behörden."
-        ],
-        "cifra": null,
-        "palabra": {
-          "termino": "quesería",
-          "como": "quesería, wird wie im Spanischen ausgesprochen; in Cabrales sind viele davon Familien- und Handwerksbetriebe",
-          "definicion": "In der Gemeinde Cabrales ist eine quesería die Werkstatt, in der Blauschimmelkäse mit eigener geschützter Ursprungsbezeichnung hergestellt wird. Bei dem Prozess fallen Molke und andere Abfälle an, die behandelt werden müssen — genau darin liegt das Problem, das die COAG anprangert."
-        },
-        "porQue": "Wenn die Abfallentsorgung nicht geregelt wird, könnten die Käsereien in Cabrales gezwungen sein, zu schließen oder ihre Tätigkeit einzuschränken. Das würde die Viehzüchterfamilien der Gemeinde unmittelbar treffen und eines der Produkte gefährden, das der Gegend ihren überregionalen Ruf verdankt.",
         "lugar": "",
         "precio": ""
       }

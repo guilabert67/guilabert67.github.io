@@ -946,6 +946,21 @@
       "motivo": "mismo hecho que /villaviciosa/la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-/",
       "fecha": "2026-11-25T00:11:02.949Z",
       "titulo": "La Plaza de Abastos de Villaviciosa estrena 48 taquillas inteligentes para recoger compras las 24 horas"
+    },
+    "elfielato.es/comarca-picos-europa/pilona/pilona-refuerza-sensibilizacion-violencia-machista-semana-actividades/20261125135142105815.html": {
+      "motivo": "mismo hecho que /pilona/pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti/",
+      "fecha": "2026-11-25T19:10:21.647Z",
+      "titulo": "Piloña refuerza la sensibilización contra la violencia machista con una semana de actividades"
+    },
+    "coperibadesella.com/25/11/2026/el-psoe-urge-una-solucion-a-los-problemas-de-calefaccion-en-el-colegio-publico-y-en-la-escuelina-de-llanes": {
+      "motivo": "duplicado de /cabrales/el-psoe-de-llanes-reclama-una-solucion-definitiva-a-los-problemas-de-c/",
+      "fecha": "2026-11-25T19:11:36.387Z",
+      "titulo": "El PSOE urge una solución a los problemas de calefacción en el Colegio Público y en la Escuelina de Llanes"
+    },
+    "elcomercio.es/area-metropolitana-asturias/villaviciosa/villaviciosa-concurso-decoracion-navidena-20261125131927-nt.html": {
+      "motivo": "duplicado de /villaviciosa/villaviciosa-convoca-su-concurso-de-decoracion-navidena-con-premios-de/",
+      "fecha": "2026-11-25T19:14:03.972Z",
+      "titulo": "Villaviciosa convoca el VII Concurso de Decoración Navideña: categorías, premios y plazos"
     }
   },
   "juicios": {
@@ -1128,6 +1143,10 @@
     "elbuscolu.com/noticias-villaviciosa/la-plaza-de-abastos-de-villaviciosa-estrena-48-taquillas-inteligentes-para-recoger-compras-las-24-horas-11277328.html|la-plaza-de-abastos-de-villaviciosa-abre-sus-puertas-las-24-horas-con-": {
       "r": "mismo",
       "fecha": "2026-11-25T00:11:02.949Z"
+    },
+    "elfielato.es/comarca-picos-europa/pilona/pilona-refuerza-sensibilizacion-violencia-machista-semana-actividades/20261125135142105815.html|pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti": {
+      "r": "mismo",
+      "fecha": "2026-11-25T19:10:21.647Z"
     }
   }
 }
