@@ -961,6 +961,16 @@
       "motivo": "duplicado de /villaviciosa/villaviciosa-convoca-su-concurso-de-decoracion-navidena-con-premios-de/",
       "fecha": "2026-11-25T19:14:03.972Z",
       "titulo": "Villaviciosa convoca el VII Concurso de Decoración Navideña: categorías, premios y plazos"
+    },
+    "elfielato.es/comarca-picos-europa/pilona/pilona-refuerza-sensibilizacion-violencia-machista-semana-actividades/20261126100356105837.html": {
+      "motivo": "mismo hecho que /pilona/pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti/",
+      "fecha": "2026-11-26T11:09:14.736Z",
+      "titulo": "Piloña refuerza la sensibilización contra la violencia machista con una semana de actividades"
+    },
+    "coperibadesella.com/26/11/2026/el-principado-concluye-las-obras-en-los-accesos-a-el-barru-en-la-localidad-pilonesa-de-miyares-tras-invertir-74-000-euros": {
+      "motivo": "duplicado de /pilona/concluyen-las-obras-de-acceso-a-el-barru-en-miyares-pilona/",
+      "fecha": "2026-11-26T11:10:05.180Z",
+      "titulo": "El Principado concluye las obras en los accesos a El Barru, en la localidad piloñesa de Miyares, tras invertir 74.000 euros"
     }
   },
   "juicios": {
@@ -1147,6 +1157,10 @@
     "elfielato.es/comarca-picos-europa/pilona/pilona-refuerza-sensibilizacion-violencia-machista-semana-actividades/20261125135142105815.html|pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti": {
       "r": "mismo",
       "fecha": "2026-11-25T19:10:21.647Z"
+    },
+    "elfielato.es/comarca-picos-europa/pilona/pilona-refuerza-sensibilizacion-violencia-machista-semana-actividades/20261126100356105837.html|pilona-se-moviliza-contra-la-violencia-machista-con-una-semana-de-acti": {
+      "r": "mismo",
+      "fecha": "2026-11-26T11:09:14.736Z"
     }
   }
 }
