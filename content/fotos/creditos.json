@@ -791,5 +791,41 @@
     "fuente": "wikimedia",
     "pie": "Carretera de Asturias en Invierno",
     "consulta": "carretera asturias Piloña"
+  },
+  "de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri": {
+    "archivo": "de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri.jpg",
+    "autor": "McBodes",
+    "licencia": "CC BY 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Bulnes_,_(_Cabrales_)_._Asturias_-_panoramio.jpg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Iglesia de Bulnes , ( Cabrales ) . Asturias - panoramio",
+    "consulta": "iglesia asturias Cabrales"
+  },
+  "los-retablos-barrocos-de-la-capilla-de-la-obra-pia-de-infiesto-se-inco": {
+    "archivo": "los-retablos-barrocos-de-la-capilla-de-la-obra-pia-de-infiesto-se-inco.jpg",
+    "autor": "Zarateman",
+    "licencia": "CC BY-SA 3.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/w/index.php?curid=27499622",
+    "fuente": "wikimedia",
+    "pie": "Infiesto - Iglesia de San Antonio de Padua 02",
+    "consulta": "iglesia asturias Piloña"
+  },
+  "los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union": {
+    "archivo": "los-cuatro-ases-del-queso-asturiano-proyecto-cofinanciado-por-la-union.jpg",
+    "autor": "Robot8A",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "atribucion": true,
+    "redimensionada": true,
+    "origen": "https://commons.wikimedia.org/wiki/File:Queso_Cabrales.jpeg",
+    "fuente": "Wikimedia Commons",
+    "pie": "Queso Cabrales",
+    "consulta": "queso cabrales asturias Cabrales"
   }
 }

@@ -1,5 +1,571 @@
 [
   {
+    "id": "malestar-en-el-psoe-tras-perder-una-votacion-por-ausencias-de-ediles-e",
+    "url": "/villaviciosa/malestar-en-el-psoe-tras-perder-una-votacion-por-ausencias-de-ediles-e/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "actualidad",
+    "titular": "El PSOE pierde un pleno por sus propias ausencias",
+    "entradilla": "El alcalde, que tampoco estaba en la sala, carga contra PP y la concejal no adscrita por no suplir los huecos socialistas.",
+    "cuerpo": [
+      "El grupo socialista de Villaviciosa salió derrotado en una votación del Pleno municipal después de que varios de sus ediles no acudieran a la sesión. La mayoría se rompió por dentro antes de que nadie la atacara desde fuera.",
+      "El alcalde, que tampoco estuvo presente, señaló después al PP y a la concejal no adscrita por no haberle compensado la diferencia. «No tiene un pase lo que han hecho», dijo según recoge El Comercio."
+    ],
+    "apunte": "Perder un pleno por las ausencias propias y luego mirar al vecino: clásico del género.",
+    "enVeinte": [
+      "El PSOE perdió una votación en el Pleno de Villaviciosa porque varios de sus concejales no fueron a la sesión.",
+      "El alcalde, ausente él también, culpó al PP y a la concejal no adscrita de no compensar esa falta.",
+      "El episodio deja al grupo de gobierno en una posición incómoda de cara a los próximos plenos."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Lo que se vote en el Pleno afecta al día a día del concejo: si el gobierno municipal no garantiza su mayoría, las decisiones sobre servicios, presupuestos o inversiones pueden bloquearse o cambiar de rumbo.",
+    "etiquetas": [
+      "Villaviciosa",
+      "PSOE",
+      "pleno municipal",
+      "política local"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://s3.ppllstatics.com/elcomercio/www/multimedia/local/2026/11/26/pleno%20villaviciosa-RidumncgLWCuTkx7CtDgFyI-1200x840@El%20Comercio.jpg",
+    "fecha": "2026-11-26T19:33:32.000Z",
+    "fuente": {
+      "nombre": "El Comercio · Villaviciosa",
+      "url": "https://www.elcomercio.es/area-metropolitana-asturias/villaviciosa/malestar-psoe-tras-perder-votacion-ausencias-ediles-20261126203331-nt.html",
+      "titularOriginal": "Malestar en el PSOE tras perder una votación por ausencias de ediles en el Pleno de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {},
+    "revisar": [
+      "pp y a la concejal no adscrita por",
+      "y a la concejal no adscrita por no",
+      "no tiene un pase lo que han hecho"
+    ]
+  },
+  {
+    "id": "de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri",
+    "url": "/cabrales/de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri/",
+    "concejo": "Cabrales",
+    "concejoSlug": "cabrales",
+    "seccion": "agenda",
+    "titular": "Cabrales, entre los diez premiados del patrimonio asturiano",
+    "entradilla": "La DOP Cabrales recibe uno de los galardones de la primera edición de los Premios del Patrimonio Cultural de Asturias, que reconocen diez referentes de la identidad regional.",
+    "cuerpo": [
+      "Asturias estrena unos premios propios para honrar su patrimonio cultural, y Cabrales tiene sitio en la primera lista. La DOP Cabrales es uno de los diez galardonados de esta edición inaugural, junto a otros referentes como el Archivu d'Ambás, el músico Héctor Braga o el Montepío de la Minería.",
+      "La gala se celebra el 9 de diciembre en el Teatro de la Laboral, con entrada libre para quien quiera acercarse."
+    ],
+    "apunte": "El queso llega adonde merece, y sin pagar entrada.",
+    "enVeinte": [
+      "Asturias crea los Premios del Patrimonio Cultural y la DOP Cabrales figura entre los diez primeros reconocidos.",
+      "La gala de entrega se celebra el 9 de diciembre en el Teatro de la Laboral con entrada libre.",
+      "También son galardonados el Archivu d'Ambás, Héctor Braga y el Montepío de la Minería, entre otros."
+    ],
+    "cifra": {
+      "numero": "10",
+      "unidad": "galardonados",
+      "glosa": "La primera edición de estos premios reconoce a diez referentes del patrimonio y la identidad asturiana. Desde la cultura musical hasta la memoria minera, pasando por una denominación de origen quesera del oriente de Asturias."
+    },
+    "palabra": {
+      "termino": "DOP",
+      "como": "de-o-pe",
+      "definicion": "Denominación de Origen Protegida: un sello europeo que garantiza que un producto —en este caso el queso de Cabrales— se elabora en un territorio concreto y siguiendo unas normas tradicionales reconocidas."
+    },
+    "porQue": "Que la DOP Cabrales reciba este reconocimiento en la primera edición de los premios pone en el mapa regional un producto que ya es seña del concejo, y lo hace con el respaldo de una nueva distinción oficial asturiana.",
+    "etiquetas": [
+      "Cabrales",
+      "patrimonio cultural",
+      "premios",
+      "DOP Cabrales"
+    ],
+    "fechaEvento": "2026-12-09",
+    "tipoEvento": "fiesta",
+    "lugar": "Teatro de la Laboral",
+    "hora": "",
+    "precio": "gratis",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/26/2026112616553315509.jpg",
+    "fecha": "2026-11-26T18:49:53.000Z",
+    "fuente": {
+      "nombre": "Cabrales · feed propio",
+      "url": "https://www.elfielato.es/comarca-picos-europa/cabrales/sidra-gaita-memoria-minera-nacen-premios-patrimonio-cultural-asturias-diez-referentes-identidad-regional/20261126195553105863.html",
+      "titularOriginal": "De la sidra y la gaita a la memoria minera: nacen los Premios del Patrimonio Cultural de Asturias con diez referentes de la identidad regional"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Cabrales among the ten winners of Asturian heritage prizes",
+        "entradilla": "The DOP Cabrales receives one of the awards in the first edition of the Premios del Patrimonio Cultural de Asturias, which recognise ten benchmarks of regional identity.",
+        "cuerpo": [
+          "Asturias has launched its own prizes to honour its cultural heritage, and Cabrales has a place on the first list. The DOP Cabrales is one of the ten winners in this inaugural edition, alongside other landmarks such as the Archivu d'Ambás, musician Héctor Braga, and the Montepío de la Minería.",
+          "The ceremony takes place on 9 December at the Teatro de la Laboral, with free entry for anyone who wants to attend."
+        ],
+        "apunte": "The cheese gets the recognition it deserves — and no ticket required.",
+        "enVeinte": [
+          "Asturias creates the Premios del Patrimonio Cultural and the DOP Cabrales is among the first ten recipients.",
+          "The award ceremony takes place on 9 December at the Teatro de la Laboral, with free entry.",
+          "Also honoured are the Archivu d'Ambás, Héctor Braga, and the Montepío de la Minería, among others."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "winners",
+          "glosa": "The first edition of these prizes recognises ten benchmarks of Asturian heritage and identity. From musical culture to mining memory, including a protected designation of origin for a cheese from eastern Asturias."
+        },
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe",
+          "definicion": "Denominación de Origen Protegida: a European label guaranteeing that a product — in this case Cabrales cheese — is made in a specific territory and according to recognised traditional standards."
+        },
+        "porQue": "The DOP Cabrales receiving this recognition in the first edition of the prizes puts on the regional map a product that is already a defining feature of the municipality, backed by a new official Asturian distinction.",
+        "lugar": "Teatro de la Laboral",
+        "precio": "free"
+      },
+      "fr": {
+        "titular": "Cabrales parmi les dix lauréats des prix du patrimoine asturien",
+        "entradilla": "La DOP Cabrales reçoit l'un des prix de la première édition des Premios del Patrimonio Cultural de Asturias, qui récompensent dix références de l'identité régionale.",
+        "cuerpo": [
+          "Les Asturies lancent leurs propres prix pour honorer leur patrimoine culturel, et Cabrales figure sur la première liste. La DOP Cabrales est l'un des dix lauréats de cette édition inaugurale, aux côtés d'autres références comme l'Archivu d'Ambás, le musicien Héctor Braga ou le Montepío de la Minería.",
+          "La cérémonie se tient le 9 décembre au Teatro de la Laboral, avec entrée libre pour tous ceux qui souhaitent y assister."
+        ],
+        "apunte": "Le fromage arrive là où il le mérite, et sans payer l'entrée.",
+        "enVeinte": [
+          "Les Asturies créent les Premios del Patrimonio Cultural et la DOP Cabrales figure parmi les dix premiers récompensés.",
+          "La cérémonie de remise des prix se tient le 9 décembre au Teatro de la Laboral avec entrée libre.",
+          "Sont également récompensés l'Archivu d'Ambás, Héctor Braga et le Montepío de la Minería, entre autres."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "lauréats",
+          "glosa": "La première édition de ces prix récompense dix références du patrimoine et de l'identité asturiens. De la culture musicale à la mémoire minière, en passant par une appellation d'origine protégée pour un fromage de l'est des Asturies."
+        },
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe",
+          "definicion": "Denominación de Origen Protegida : un label européen garantissant qu'un produit — en l'occurrence le fromage de Cabrales — est élaboré sur un territoire précis et selon des normes traditionnelles reconnues."
+        },
+        "porQue": "Que la DOP Cabrales reçoive cette récompense dès la première édition des prix place sur la carte régionale un produit qui est déjà l'emblème de la commune, avec l'appui d'une nouvelle distinction officielle asturienne.",
+        "lugar": "Teatro de la Laboral",
+        "precio": "gratuit"
+      },
+      "de": {
+        "titular": "Cabrales unter den zehn Preisträgern des asturischen Kulturerbes",
+        "entradilla": "Die DOP Cabrales erhält eine der Auszeichnungen der ersten Ausgabe der Premios del Patrimonio Cultural de Asturias, die zehn Referenzpunkte der regionalen Identität würdigen.",
+        "cuerpo": [
+          "Asturien verleiht erstmals eigene Preise zur Ehrung seines Kulturerbes — und Cabrales steht auf der ersten Liste. Die DOP Cabrales gehört zu den zehn Preisträgern dieser Auftaktausgabe, gemeinsam mit anderen Referenzgrößen wie dem Archivu d'Ambás, dem Musiker Héctor Braga und dem Montepío de la Minería.",
+          "Die Gala findet am 9. Dezember im Teatro de la Laboral statt, mit freiem Eintritt für alle Interessierten."
+        ],
+        "apunte": "Der Käse bekommt, was er verdient — und der Eintritt ist frei.",
+        "enVeinte": [
+          "Asturien schafft die Premios del Patrimonio Cultural, und die DOP Cabrales gehört zu den ersten zehn Ausgezeichneten.",
+          "Die Preisverleihung findet am 9. Dezember im Teatro de la Laboral mit freiem Eintritt statt.",
+          "Ebenfalls ausgezeichnet werden das Archivu d'Ambás, Héctor Braga und das Montepío de la Minería, unter anderen."
+        ],
+        "cifra": {
+          "numero": "10",
+          "unidad": "Preisträger",
+          "glosa": "Die erste Ausgabe dieser Preise würdigt zehn Referenzpunkte des asturischen Kulturerbes und der asturischen Identität. Von der Musikkultur bis zum Bergbaugedächtnis, einschließlich einer geschützten Ursprungsbezeichnung für einen Käse aus dem Osten Asturiens."
+        },
+        "palabra": {
+          "termino": "DOP",
+          "como": "de-o-pe",
+          "definicion": "Denominación de Origen Protegida: ein europäisches Siegel, das garantiert, dass ein Produkt — in diesem Fall der Käse aus Cabrales — in einem bestimmten Gebiet und nach anerkannten traditionellen Vorschriften hergestellt wird."
+        },
+        "porQue": "Dass die DOP Cabrales diese Anerkennung bereits in der ersten Ausgabe der Preise erhält, rückt ein Produkt, das bereits das Markenzeichen der Gemeinde ist, auf die regionale Landkarte — gestützt durch eine neue offizielle asturische Auszeichnung.",
+        "lugar": "Teatro de la Laboral",
+        "precio": "kostenlos"
+      }
+    },
+    "revisar": [
+      "el 9 de diciembre en el teatro de",
+      "9 de diciembre en el teatro de la",
+      "de diciembre en el teatro de la laboral",
+      "diciembre en el teatro de la laboral con",
+      "en el teatro de la laboral con entrada",
+      "el teatro de la laboral con entrada libre"
+    ]
+  },
+  {
+    "id": "los-retablos-barrocos-de-la-capilla-de-la-obra-pia-de-infiesto-se-inco",
+    "url": "/pilona/los-retablos-barrocos-de-la-capilla-de-la-obra-pia-de-infiesto-se-inco/",
+    "concejo": "Piloña",
+    "concejoSlug": "pilona",
+    "seccion": "deporte-y-cultura",
+    "titular": "Tres retablos barrocos de Infiesto, hacia el inventario patrimonial",
+    "entradilla": "La capilla de la Obra Pía suma reconocimiento oficial para unas piezas del siglo XVIII que hasta ahora no estaban protegidas formalmente.",
+    "cuerpo": [
+      "Los tres retablos barrocos de la capilla de la Obra Pía de Infiesto van a incorporarse al Inventario del Patrimonio Cultural de Asturias.",
+      "Las piezas datan del siglo XVIII y, con esta catalogación, pasan a contar con la protección que otorga ese registro oficial."
+    ],
+    "apunte": "Tres siglos esperando figurar en el papel.",
+    "enVeinte": [
+      "Los tres retablos barrocos de la capilla de la Obra Pía de Infiesto van a incluirse en el Inventario del Patrimonio Cultural de Asturias.",
+      "Las piezas son del siglo XVIII y la catalogación les dará protección oficial.",
+      "De momento no hay más detalles sobre plazos ni trámites concretos."
+    ],
+    "cifra": {
+      "numero": "3",
+      "unidad": "retablos del siglo XVIII",
+      "glosa": "Son las tres piezas barrocas de la capilla de la Obra Pía de Infiesto que se incorporarán al inventario. Fabricadas hace más de doscientos años, hasta ahora carecían de ese reconocimiento formal."
+    },
+    "palabra": {
+      "termino": "Obra Pía",
+      "como": "Obra Pía, tal cual",
+      "definicion": "Institución de origen eclesiástico destinada a fines benéficos o religiosos, sostenida con rentas o bienes donados. En Asturias dejaron capillas y edificios que hoy forman parte del paisaje patrimonial de muchos pueblos."
+    },
+    "porQue": "La catalogación protege legalmente estas piezas y obliga a tenerlas en cuenta ante cualquier obra o intervención en la capilla.",
+    "etiquetas": [
+      "patrimonio",
+      "Infiesto",
+      "barroco",
+      "Piloña"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/26/2026112617493486778.jpg",
+    "fecha": "2026-11-26T18:46:08.000Z",
+    "fuente": {
+      "nombre": "Piloña · feed propio",
+      "url": "https://www.elfielato.es/comarca-picos-europa/pilona/retablos-obra-pia-infiesto-patrimonio-cultural/20261126194608105865.html",
+      "titularOriginal": "Los retablos barrocos de la capilla de la Obra Pía de Infiesto se incorporarán al Inventario del Patrimonio Cultural"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Three baroque altarpieces from Infiesto to enter the heritage inventory",
+        "entradilla": "The chapel of the Obra Pía gains official recognition for a set of 18th-century pieces that until now had no formal protection.",
+        "cuerpo": [
+          "The three baroque altarpieces in the chapel of the Obra Pía in Infiesto are to be added to the Inventory of the Cultural Heritage of Asturias.",
+          "The pieces date from the 18th century and, with this listing, they will gain the protection conferred by that official register."
+        ],
+        "apunte": "Three centuries waiting to be put on record.",
+        "enVeinte": [
+          "The three baroque altarpieces in the chapel of the Obra Pía in Infiesto are to be included in the Inventory of the Cultural Heritage of Asturias.",
+          "The pieces date from the 18th century and the listing will give them official protection.",
+          "For now there are no further details on timelines or specific procedures."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "18th-century altarpieces",
+          "glosa": "These are the three baroque pieces in the chapel of the Obra Pía in Infiesto that will be added to the inventory. Made more than two hundred years ago, they had until now lacked that formal recognition."
+        },
+        "palabra": {
+          "termino": "Obra Pía",
+          "como": "Obra Pía, as written",
+          "definicion": "An institution of ecclesiastical origin set up for charitable or religious purposes, sustained by donated income or assets. Across Asturias they left behind chapels and buildings that today form part of the heritage landscape of many villages."
+        },
+        "porQue": "The listing gives these pieces legal protection and means they must be taken into account before any work or intervention in the chapel.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Trois retables baroques d'Infiesto bientôt inscrits à l'inventaire du patrimoine",
+        "entradilla": "La chapelle de l'Obra Pía obtient une reconnaissance officielle pour des pièces du XVIIIe siècle qui, jusqu'à présent, ne bénéficiaient d'aucune protection formelle.",
+        "cuerpo": [
+          "Les trois retables baroques de la chapelle de l'Obra Pía d'Infiesto vont être intégrés à l'Inventaire du Patrimoine Culturel des Asturies.",
+          "Les pièces datent du XVIIIe siècle et, grâce à ce classement, elles bénéficieront de la protection qu'offre ce registre officiel."
+        ],
+        "apunte": "Trois siècles à attendre de figurer dans les textes.",
+        "enVeinte": [
+          "Les trois retables baroques de la chapelle de l'Obra Pía d'Infiesto vont être inclus dans l'Inventaire du Patrimoine Culturel des Asturies.",
+          "Les pièces sont du XVIIIe siècle et le classement leur conférera une protection officielle.",
+          "Pour l'instant, aucun détail supplémentaire n'est disponible sur les délais ni sur les démarches concrètes."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "retables du XVIIIe siècle",
+          "glosa": "Ce sont les trois pièces baroques de la chapelle de l'Obra Pía d'Infiesto qui seront intégrées à l'inventaire. Fabriquées il y a plus de deux cents ans, elles ne bénéficiaient jusqu'ici d'aucune reconnaissance formelle."
+        },
+        "palabra": {
+          "termino": "Obra Pía",
+          "como": "Obra Pía, tel quel",
+          "definicion": "Institution d'origine ecclésiastique vouée à des fins caritatives ou religieuses, entretenue grâce à des revenus ou des biens légués. Dans les Asturies, ces institutions ont laissé des chapelles et des édifices qui font aujourd'hui partie du paysage patrimonial de nombreux villages."
+        },
+        "porQue": "Le classement protège légalement ces pièces et oblige à en tenir compte lors de tout travail ou intervention dans la chapelle.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Drei barocke Altaraufsätze aus Infiesto sollen ins Kulturerbe-Inventar aufgenommen werden",
+        "entradilla": "Die Kapelle der Obra Pía erhält offizielle Anerkennung für Stücke aus dem 18. Jahrhundert, die bislang keinen formalen Schutz genossen.",
+        "cuerpo": [
+          "Die drei barocken Altaraufsätze der Kapelle der Obra Pía in Infiesto sollen in das Inventar des Kulturerbes von Asturien aufgenommen werden.",
+          "Die Stücke stammen aus dem 18. Jahrhundert und erhalten durch diese Katalogisierung den Schutz, den dieses offizielle Register gewährt."
+        ],
+        "apunte": "Drei Jahrhunderte darauf gewartet, schriftlich festgehalten zu werden.",
+        "enVeinte": [
+          "Die drei barocken Altaraufsätze der Kapelle der Obra Pía in Infiesto sollen in das Inventar des Kulturerbes von Asturien aufgenommen werden.",
+          "Die Stücke stammen aus dem 18. Jahrhundert, und die Katalogisierung wird ihnen offiziellen Schutz verleihen.",
+          "Weitere Einzelheiten zu Fristen oder konkreten Verfahren liegen derzeit nicht vor."
+        ],
+        "cifra": {
+          "numero": "3",
+          "unidad": "Altaraufsätze aus dem 18. Jahrhundert",
+          "glosa": "Es handelt sich um die drei barocken Stücke der Kapelle der Obra Pía in Infiesto, die in das Inventar aufgenommen werden sollen. Sie wurden vor mehr als zweihundert Jahren gefertigt und entbehrten bislang jeglicher formaler Anerkennung."
+        },
+        "palabra": {
+          "termino": "Obra Pía",
+          "como": "Obra Pía, wie geschrieben",
+          "definicion": "Eine Institution kirchlichen Ursprungs, die wohltätigen oder religiösen Zwecken diente und durch gespendete Einkünfte oder Güter getragen wurde. In Asturien hinterließen diese Einrichtungen Kapellen und Gebäude, die heute zum kulturellen Erbe vieler Dörfer zählen."
+        },
+        "porQue": "Die Katalogisierung schützt diese Stücke rechtlich und verpflichtet dazu, sie bei jeglichen Bau- oder Eingriffmaßnahmen in der Kapelle zu berücksichtigen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "retablos barrocos de la capilla de la obra",
+      "barrocos de la capilla de la obra pia",
+      "de la capilla de la obra pia de",
+      "la capilla de la obra pia de infiesto"
+    ]
+  },
+  {
+    "id": "el-talento-infantil-de-villaviciosa-proyectara-la-navidad-maliaya-hast",
+    "url": "/villaviciosa/el-talento-infantil-de-villaviciosa-proyectara-la-navidad-maliaya-hast/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un niño de Villaviciosa ilustra la Navidad maliaya",
+    "entradilla": "El dibujo de Alejandro Bejan Rodríguez, alumno del Colegio San Rafael, llega este año hasta la Casa Real como felicitación oficial del municipio.",
+    "cuerpo": [
+      "Alejandro Bejan Rodríguez, estudiante del Colegio San Rafael de Villaviciosa, ha ganado el certamen escolar de Navidad con una ilustración de la Plaza del Ayuntamiento. El trabajo se convierte así en la tarjeta oficial de felicitación del concejo.",
+      "La pieza viajará este año hasta la Casa Real, que recibirá el saludo navideño de Villaviciosa con los trazos de un chaval del pueblo."
+    ],
+    "apunte": "La Plaza del Ayuntamiento, vista por un niño, ahora en el correo de los Reyes.",
+    "enVeinte": [
+      "Alejandro Bejan Rodríguez, del Colegio San Rafael, ha ganado el certamen escolar de Navidad de Villaviciosa.",
+      "Su ilustración de la Plaza del Ayuntamiento se usará como felicitación oficial del municipio.",
+      "La tarjeta llegará este año hasta la Casa Real."
+    ],
+    "cifra": null,
+    "palabra": {
+      "termino": "maliayo",
+      "como": "ma-LIA-yo (también en femenino, maliaya)",
+      "definicion": "Gentilicio asturiano de Villaviciosa. Viene del nombre antiguo del concejo, Maliayo, y lo usan con orgullo los de aquí para referirse a todo lo que es de la villa o del término municipal."
+    },
+    "porQue": "La felicitación navideña del concejo lleva este año la firma de un alumno local, lo que convierte un certamen escolar en la cara de Villaviciosa ante la Casa Real.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Navidad",
+      "certamen escolar",
+      "Colegio San Rafael"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elfielato.es/media/elfielato/images/2026/11/26/2026112616440239034.jpg",
+    "fecha": "2026-11-26T17:46:12.000Z",
+    "fuente": {
+      "nombre": "Villaviciosa · feed propio",
+      "url": "https://www.elfielato.es/comarca-de-la-sidra/villaviciosa/villaviciosa-elige-postal-que-felicitara-navidad/20261126164612105861.html",
+      "titularOriginal": "El talento infantil de Villaviciosa proyectará la Navidad maliaya hasta la Casa Real"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A child from Villaviciosa illustrates the maliaya Christmas",
+        "entradilla": "The drawing by Alejandro Bejan Rodríguez, a pupil at Colegio San Rafael, reaches the Royal Household this year as the municipality's official greeting.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, a student at Colegio San Rafael in Villaviciosa, has won the school Christmas competition with an illustration of the Plaza del Ayuntamiento. The work now becomes the municipality's official greeting card.",
+          "The card will travel this year to the Royal Household, which will receive Villaviciosa's Christmas wishes in the strokes of a local kid."
+        ],
+        "apunte": "The Plaza del Ayuntamiento, seen through a child's eyes, now in the Royal post.",
+        "enVeinte": [
+          "Alejandro Bejan Rodríguez, from Colegio San Rafael, has won Villaviciosa's school Christmas competition.",
+          "His illustration of the Plaza del Ayuntamiento will be used as the municipality's official greeting card.",
+          "The card will reach the Royal Household this year."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo (also in the feminine form, maliaya)",
+          "definicion": "The Asturian demonym for Villaviciosa. It comes from the old name of the municipality, Maliayo, and locals use it with pride to refer to everything that belongs to the town or its municipal area."
+        },
+        "porQue": "The municipality's Christmas greeting this year bears the signature of a local pupil, turning a school competition into Villaviciosa's face before the Royal Household.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un enfant de Villaviciosa illustre le Noël maliaya",
+        "entradilla": "Le dessin d'Alejandro Bejan Rodríguez, élève du Colegio San Rafael, parvient cette année à la Maison Royale comme vœu officiel de la commune.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, élève du Colegio San Rafael de Villaviciosa, a remporté le concours scolaire de Noël avec une illustration de la Plaza del Ayuntamiento. L'œuvre devient ainsi la carte de vœux officielle de la commune.",
+          "La carte voyagera cette année jusqu'à la Maison Royale, qui recevra les vœux de Noël de Villaviciosa tracés par la main d'un enfant du coin."
+        ],
+        "apunte": "La Plaza del Ayuntamiento vue par un enfant, désormais dans le courrier des Rois.",
+        "enVeinte": [
+          "Alejandro Bejan Rodríguez, du Colegio San Rafael, a remporté le concours scolaire de Noël de Villaviciosa.",
+          "Son illustration de la Plaza del Ayuntamiento sera utilisée comme carte de vœux officielle de la commune.",
+          "La carte parviendra cette année à la Maison Royale."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo (également au féminin, maliaya)",
+          "definicion": "Le gentilé asturien de Villaviciosa. Il vient de l'ancien nom de la commune, Maliayo, et les habitants l'emploient avec fierté pour désigner tout ce qui appartient à la ville ou à son territoire municipal."
+        },
+        "porQue": "La carte de vœux de la commune porte cette année la signature d'un élève local, transformant un concours scolaire en visage de Villaviciosa devant la Maison Royale.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Kind aus Villaviciosa illustriert das maliaya-Weihnachten",
+        "entradilla": "Die Zeichnung von Alejandro Bejan Rodríguez, Schüler des Colegio San Rafael, erreicht in diesem Jahr das Königshaus als offizielle Weihnachtsgrußkarte der Gemeinde.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, Schüler des Colegio San Rafael in Villaviciosa, hat den schulischen Weihnachtswettbewerb mit einer Illustration der Plaza del Ayuntamiento gewonnen. Die Arbeit wird damit zur offiziellen Grußkarte der Gemeinde.",
+          "Die Karte reist in diesem Jahr bis zum Königshaus, das die Weihnachtsgrüße von Villaviciosa in den Strichen eines Kindes aus dem Ort empfangen wird."
+        ],
+        "apunte": "Die Plaza del Ayuntamiento, durch Kinderaugen gesehen, jetzt in der Post der Könige.",
+        "enVeinte": [
+          "Alejandro Bejan Rodríguez vom Colegio San Rafael hat den schulischen Weihnachtswettbewerb von Villaviciosa gewonnen.",
+          "Seine Illustration der Plaza del Ayuntamiento wird als offizielle Grußkarte der Gemeinde verwendet.",
+          "Die Karte wird in diesem Jahr das Königshaus erreichen."
+        ],
+        "cifra": null,
+        "palabra": {
+          "termino": "maliayo",
+          "como": "ma-LIA-yo (auch in der weiblichen Form, maliaya)",
+          "definicion": "Der asturische Einwohnername für Villaviciosa. Er leitet sich vom alten Namen der Gemeinde, Maliayo, ab und wird von den Einheimischen mit Stolz verwendet, um alles zu bezeichnen, was zur Stadt oder ihrem Gemeindegebiet gehört."
+        },
+        "porQue": "Die Weihnachtsgrußkarte der Gemeinde trägt in diesem Jahr die Unterschrift eines lokalen Schülers und verwandelt so einen Schulwettbewerb in das Gesicht von Villaviciosa gegenüber dem Königshaus.",
+        "lugar": "",
+        "precio": ""
+      }
+    }
+  },
+  {
+    "id": "un-dibujo-de-la-plaza-del-ayuntamiento-ilustrara-la-postal-navidena-de",
+    "url": "/villaviciosa/un-dibujo-de-la-plaza-del-ayuntamiento-ilustrara-la-postal-navidena-de/",
+    "concejo": "Villaviciosa",
+    "concejoSlug": "villaviciosa",
+    "seccion": "deporte-y-cultura",
+    "titular": "Un escolar de Villaviciosa gana el concurso de postal navideña",
+    "entradilla": "El dibujo de Alejandro Bejan Rodríguez, del Colegio San Rafael, llegará este año a los buzones como imagen oficial de la Navidad maliayesa.",
+    "cuerpo": [
+      "Alejandro Bejan Rodríguez, alumno del Colegio San Rafael de Villaviciosa, ha ganado el VIII Concurso de Postales Escolares de Navidad. Su ilustración, que recoge la plaza del Ayuntamiento, será la cara de la postal navideña oficial del concejo.",
+      "El certamen reunió más de un centenar de trabajos. Con ocho ediciones ya a las espaldas, se ha convertido en una cita fija del calendario escolar de la villa."
+    ],
+    "apunte": "La plaza del Ayuntamiento, en papel y en manos de un crío: difícil hacerlo más de casa.",
+    "enVeinte": [
+      "Un alumno del Colegio San Rafael de Villaviciosa ha ganado el VIII Concurso de Postales Escolares de Navidad.",
+      "Su dibujo de la plaza del Ayuntamiento será la imagen oficial de la postal navideña del concejo.",
+      "El concurso recibió más de cien trabajos esta edición."
+    ],
+    "cifra": {
+      "numero": "más de 100",
+      "unidad": "trabajos presentados",
+      "glosa": "El concurso recibió más de un centenar de ilustraciones esta edición. Es una cifra que da idea del arraigo que ha cogido la iniciativa entre los colegios de Villaviciosa en sus ocho años de vida."
+    },
+    "palabra": null,
+    "porQue": "La postal navideña de Villaviciosa lleva este año la firma de un niño del pueblo, y la imagen que elige es uno de sus rincones más reconocibles: la plaza del Ayuntamiento.",
+    "etiquetas": [
+      "Villaviciosa",
+      "Navidad",
+      "concurso escolar",
+      "Colegio San Rafael"
+    ],
+    "fechaEvento": "",
+    "tipoEvento": "feria",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/un-dibujo-de-la-plaza-del-ayuntamiento-ilustrara-l-e0e5aaf8.jpg",
+    "fecha": "2026-11-26T16:38:00.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-villaviciosa/un-dibujo-de-la-plaza-del-ayuntamiento-ilustrara-la-postal-navidena-de-villaviciosa-11277351.html",
+      "titularOriginal": "Un dibujo de la plaza del Ayuntamiento ilustrará la postal navideña de Villaviciosa"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "A schoolchild from Villaviciosa wins the Christmas card competition",
+        "entradilla": "The drawing by Alejandro Bejan Rodríguez, from Colegio San Rafael, will reach letterboxes this year as the official Christmas image of Villaviciosa.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, a pupil at Colegio San Rafael in Villaviciosa, has won the VIII Concurso de Postales Escolares de Navidad. His illustration, depicting the plaza del Ayuntamiento (the town council square), will be the face of the official Christmas card for the municipality.",
+          "The competition brought together more than a hundred entries. Now in its eighth edition, it has become a fixed date in the village's school calendar."
+        ],
+        "apunte": "The plaza del Ayuntamiento, on paper and in a child's hands: hard to get more local than that.",
+        "enVeinte": [
+          "A pupil from Colegio San Rafael in Villaviciosa has won the VIII Concurso de Postales Escolares de Navidad.",
+          "His drawing of the plaza del Ayuntamiento will be the official image of the municipality's Christmas card.",
+          "The competition received more than a hundred entries this edition."
+        ],
+        "cifra": {
+          "numero": "more than 100",
+          "unidad": "entries submitted",
+          "glosa": "The competition received more than a hundred illustrations this edition. That figure gives a sense of how firmly the initiative has taken root among Villaviciosa's schools in its eight years of existence."
+        },
+        "palabra": null,
+        "porQue": "This year Villaviciosa's Christmas card bears the signature of a local child, and the image he chose is one of the town's most recognisable corners: the plaza del Ayuntamiento.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Un écolier de Villaviciosa remporte le concours de carte de vœux de Noël",
+        "entradilla": "Le dessin d'Alejandro Bejan Rodríguez, du Colegio San Rafael, arrivera cette année dans les boîtes aux lettres en tant qu'image officielle de Noël de Villaviciosa.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, élève du Colegio San Rafael de Villaviciosa, a remporté le VIII Concurso de Postales Escolares de Navidad. Son illustration, qui représente la plaza del Ayuntamiento (la place de la mairie), sera la carte de vœux officielle de la commune.",
+          "Le concours a réuni plus d'une centaine de travaux. À sa huitième édition, il est devenu un rendez-vous incontournable du calendrier scolaire de la ville."
+        ],
+        "apunte": "La plaza del Ayuntamiento, sur papier et entre les mains d'un enfant du coin : difficile de faire plus local.",
+        "enVeinte": [
+          "Un élève du Colegio San Rafael de Villaviciosa a remporté le VIII Concurso de Postales Escolares de Navidad.",
+          "Son dessin de la plaza del Ayuntamiento sera l'image officielle de la carte de vœux de la commune.",
+          "Le concours a reçu plus de cent travaux cette édition."
+        ],
+        "cifra": {
+          "numero": "plus de 100",
+          "unidad": "travaux présentés",
+          "glosa": "Le concours a reçu plus d'une centaine d'illustrations cette édition. Ce chiffre témoigne de l'ancrage qu'a pris l'initiative parmi les écoles de Villaviciosa en huit ans d'existence."
+        },
+        "palabra": null,
+        "porQue": "Cette année, la carte de vœux de Noël de Villaviciosa porte la signature d'un enfant du village, et l'image qu'il a choisie est l'un de ses coins les plus reconnaissables : la plaza del Ayuntamiento.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Ein Schüler aus Villaviciosa gewinnt den Weihnachtskarten-Wettbewerb",
+        "entradilla": "Die Zeichnung von Alejandro Bejan Rodríguez vom Colegio San Rafael wird in diesem Jahr als offizielles Weihnachtsmotiv von Villaviciosa in die Briefkästen flattern.",
+        "cuerpo": [
+          "Alejandro Bejan Rodríguez, Schüler des Colegio San Rafael in Villaviciosa, hat den VIII Concurso de Postales Escolares de Navidad gewonnen. Seine Illustration zeigt die Plaza del Ayuntamiento (den Rathausplatz) und wird das offizielle Weihnachtskartenmotiv der Gemeinde.",
+          "Der Wettbewerb versammelte mehr als hundert Einsendungen. In seiner achten Ausgabe ist er zu einem festen Termin im Schulkalender des Ortes geworden."
+        ],
+        "apunte": "Die Plaza del Ayuntamiento auf Papier und in Kinderhand – lokaler geht es kaum.",
+        "enVeinte": [
+          "Ein Schüler des Colegio San Rafael in Villaviciosa hat den VIII Concurso de Postales Escolares de Navidad gewonnen.",
+          "Seine Zeichnung der Plaza del Ayuntamiento wird das offizielle Motiv der Weihnachtskarte der Gemeinde.",
+          "Der Wettbewerb erhielt in dieser Ausgabe mehr als hundert Einsendungen."
+        ],
+        "cifra": {
+          "numero": "mehr als 100",
+          "unidad": "eingereichte Arbeiten",
+          "glosa": "Der Wettbewerb erhielt in dieser Ausgabe mehr als hundert Illustrationen. Diese Zahl zeigt, wie fest die Initiative in ihren acht Jahren Bestehen unter den Schulen von Villaviciosa verwurzelt ist."
+        },
+        "palabra": null,
+        "porQue": "Die Weihnachtskarte von Villaviciosa trägt in diesem Jahr die Handschrift eines Kindes aus dem Ort, und das gewählte Motiv ist eine der bekanntesten Ecken der Stadt: die Plaza del Ayuntamiento.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "alejandro bejan rodriguez alumno del colegio san rafael",
+      "el viii concurso de postales escolares de navidad"
+    ]
+  },
+  {
     "id": "pumar-la-sidra-al-ritmo-de-las-cuatro-estaciones",
     "url": "/nava/pumar-la-sidra-al-ritmo-de-las-cuatro-estaciones/",
     "concejo": "Nava",
@@ -188,6 +754,118 @@
         "precio": ""
       }
     }
+  },
+  {
+    "id": "abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-terror-e-histor",
+    "url": "/nava/abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-terror-e-histor/",
+    "concejo": "Nava",
+    "concejoSlug": "nava",
+    "seccion": "avisos",
+    "titular": "Nava convoca su VII Premio de Novela de Terror",
+    "entradilla": "El certamen acepta originales desde el 13 de agosto hasta el 13 de octubre de 2026.",
+    "cuerpo": [
+      "El VII Premio de Novela Corta de Terror e Historias Fantásticas abre su plazo de presentación el próximo 13 de agosto. Pueden concurrir mayores de edad que residan en España.",
+      "La convocatoria cierra el 13 de octubre de 2026, así que hay dos meses para darle forma a esa historia que lleva tiempo rondando."
+    ],
+    "apunte": "Dos meses para escribir el susto que siempre quisiste contar.",
+    "enVeinte": [
+      "El VII Premio de Novela Corta de Terror e Historias Fantásticas de Nava abre su plazo el 13 de agosto de 2026.",
+      "Pueden presentarse todos los mayores de edad residentes en España.",
+      "El plazo se cierra el 13 de octubre de 2026."
+    ],
+    "cifra": null,
+    "palabra": null,
+    "porQue": "Un premio de este tipo da visibilidad a los escritores del concejo y de la comarca; si tienes algo escrito en el cajón, esta es la ocasión de sacarlo.",
+    "etiquetas": [
+      "literatura",
+      "premio",
+      "terror",
+      "Nava"
+    ],
+    "fechaEvento": "2026-08-13",
+    "tipoEvento": "letras",
+    "lugar": "",
+    "hora": "",
+    "precio": "",
+    "imagen": "",
+    "imagenFuente": "https://www.elbuscolu.com/uploads/abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-51717.jpg",
+    "fecha": "2026-11-26T09:31:50.000Z",
+    "fuente": {
+      "nombre": "El Búscolu",
+      "url": "https://www.elbuscolu.com/noticias-nava/abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-terror-e-historias-fantasticas-11277347.html",
+      "titularOriginal": "Abierto el plazo para el VII Premio de Novela Corta de Terror e Historias Fantásticas"
+    },
+    "reescrito": true,
+    "trad": {
+      "en": {
+        "titular": "Nava launches its VII Horror Novel Prize",
+        "entradilla": "The competition accepts original works from 13 August to 13 October 2026.",
+        "cuerpo": [
+          "The VII Premio de Novela Corta de Terror e Historias Fantásticas opens its submission period on 13 August. Any adult resident in Spain may enter.",
+          "The competition closes on 13 October 2026, leaving two months to shape that story you have had in mind for a while."
+        ],
+        "apunte": "Two months to write the scare you always wanted to tell.",
+        "enVeinte": [
+          "The VII Premio de Novela Corta de Terror e Historias Fantásticas de Nava opens its submission period on 13 August 2026.",
+          "Any adult resident in Spain may enter.",
+          "The deadline is 13 October 2026."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "A prize of this kind puts writers from the municipality and the area on the map; if you have something sitting in a drawer, this is the moment to bring it out.",
+        "lugar": "",
+        "precio": ""
+      },
+      "fr": {
+        "titular": "Nava lance son VII Prix du Roman d'Horreur",
+        "entradilla": "Le concours accepte les œuvres originales du 13 août au 13 octobre 2026.",
+        "cuerpo": [
+          "Le VII Premio de Novela Corta de Terror e Historias Fantásticas ouvre sa période de dépôt des candidatures le 13 août prochain. Toute personne majeure résidant en Espagne peut participer.",
+          "Le concours se clôture le 13 octobre 2026, ce qui laisse deux mois pour donner forme à cette histoire qui vous trotte dans la tête depuis un moment."
+        ],
+        "apunte": "Deux mois pour écrire la frayeur que vous avez toujours voulu raconter.",
+        "enVeinte": [
+          "Le VII Premio de Novela Corta de Terror e Historias Fantásticas de Nava ouvre ses candidatures le 13 août 2026.",
+          "Toute personne majeure résidant en Espagne peut participer.",
+          "La date limite est fixée au 13 octobre 2026."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Un prix de ce type donne de la visibilité aux écrivains de la commune et de la zone ; si vous avez quelque chose qui dort dans un tiroir, c'est le moment de le sortir.",
+        "lugar": "",
+        "precio": ""
+      },
+      "de": {
+        "titular": "Nava schreibt seinen VII. Horrorroman-Preis aus",
+        "entradilla": "Der Wettbewerb nimmt Originalwerke vom 13. August bis zum 13. Oktober 2026 entgegen.",
+        "cuerpo": [
+          "Der VII Premio de Novela Corta de Terror e Historias Fantásticas öffnet seine Einreichungsphase am 13. August. Teilnehmen können alle Volljährigen mit Wohnsitz in Spanien.",
+          "Der Wettbewerb endet am 13. Oktober 2026 – zwei Monate also, um der Geschichte Form zu geben, die schon lange im Kopf herumschwirrt."
+        ],
+        "apunte": "Zwei Monate, um den Schrecken zu schreiben, den man schon immer erzählen wollte.",
+        "enVeinte": [
+          "Der VII Premio de Novela Corta de Terror e Historias Fantásticas de Nava öffnet seine Einreichungsphase am 13. August 2026.",
+          "Alle Volljährigen mit Wohnsitz in Spanien können teilnehmen.",
+          "Einsendeschluss ist der 13. Oktober 2026."
+        ],
+        "cifra": null,
+        "palabra": null,
+        "porQue": "Ein Preis dieser Art verschafft Schriftstellerinnen und Schriftstellern aus der Gemeinde und der Region Sichtbarkeit; wer etwas in der Schublade liegen hat, sollte diese Gelegenheit nutzen.",
+        "lugar": "",
+        "precio": ""
+      }
+    },
+    "revisar": [
+      "desde el 13 de agosto hasta el 13",
+      "el 13 de agosto hasta el 13 de",
+      "13 de agosto hasta el 13 de octubre",
+      "de agosto hasta el 13 de octubre de",
+      "agosto hasta el 13 de octubre de 2026",
+      "el vii premio de novela corta de terror",
+      "vii premio de novela corta de terror e",
+      "premio de novela corta de terror e historias",
+      "de novela corta de terror e historias fantasticas"
+    ]
   },
   {
     "id": "choca-contra-una-vivienda-tras-intentar-esquivar-a-un-animal-en-una-ca",
@@ -47439,126 +48117,5 @@
       "la victoria fue para la estadounidense lauren gregory",
       "los 44 kilometros entre los picos de europa"
     ]
-  },
-  {
-    "id": "comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-",
-    "url": "/pilona/comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-/",
-    "concejo": "Piloña",
-    "concejoSlug": "pilona",
-    "seccion": "avisos",
-    "titular": "Arrancan obras en la AS-334 a su paso por Piloña",
-    "entradilla": "Cuatro kilómetros de carretera llevan años esperando esta intervención y ya tienen máquinas trabajando.",
-    "cuerpo": [
-      "El Gobierno de Asturias ha puesto en marcha la reforma de un tramo de la AS-334, entre los puntos kilométricos 5,9 y 9,6, con un presupuesto de algo más de 1,09 millones de euros. Las obras durarán siete meses.",
-      "Los trabajos han arrancado con limpieza y desbroce. Después vendrá la renovación completa del firme, muy deteriorado por el tráfico y las escorrentías, y se mejorarán cunetas y sistemas de drenaje. También se renovará la señalización y los elementos de protección lateral.",
-      "La vicepresidenta del Principado, Gimena Llamedo, visitó ayer el inicio de las obras junto al consejero Alejandro Calvo, el viceconsejero Jorge García y el alcalde de Piloña, Iván Allende. Llamedo subrayó que cada euro puesto en la red de carreteras refuerza la vida diaria y la actividad económica de los concejos del oriente."
-    ],
-    "apunte": "Siete meses de obras y cuatro kilómetros de alivio: ya era hora.",
-    "enVeinte": [
-      "El Principado ha comenzado a reformar casi cuatro kilómetros de la AS-334 en Piloña con una inversión de 1,09 millones de euros.",
-      "Los trabajos incluyen nuevo firme, mejora del drenaje, cunetas y señalización, y se prolongarán durante siete meses.",
-      "La vicepresidenta Llamedo y el alcalde Allende visitaron el inicio de las obras, una actuación muy reclamada por los vecinos de la zona."
-    ],
-    "cifra": {
-      "numero": "1.098.149",
-      "unidad": "euros",
-      "glosa": "Es lo que el Principado destina a reformar menos de cuatro kilómetros de la AS-334. Sale a unos 275.000 euros por kilómetro, un coste habitual cuando hay que renovar el firme en profundidad y rehacer todo el sistema de drenaje."
-    },
-    "palabra": null,
-    "porQue": "Esta carretera conecta pueblos del interior de Piloña con la capital del concejo; mejorarla hace los desplazamientos diarios más seguros y reduce el deterioro de los vehículos en ese tramo.",
-    "etiquetas": [
-      "carreteras",
-      "Piloña",
-      "obras",
-      "AS-334"
-    ],
-    "fechaEvento": "",
-    "tipoEvento": "",
-    "lugar": "",
-    "hora": "",
-    "precio": "",
-    "imagen": "",
-    "imagenFuente": "https://coperibadesella.com/wp-content/uploads/2026/08/AS-334-PILONA-inicio-mejora-1.jpeg",
-    "fecha": "2026-08-28T12:20:44.000Z",
-    "fuente": {
-      "nombre": "Piloña · feed propio",
-      "url": "https://coperibadesella.com/28/08/2026/comienza-la-mejora-de-la-carretera-as-334-en-pilona-con-una-inversion-de-11-millones/",
-      "titularOriginal": "Comienza la mejora de la carretera AS-334, en Piloña, con una inversión de 1,1 millones"
-    },
-    "reescrito": true,
-    "trad": {
-      "en": {
-        "titular": "Works begin on the AS-334 through Piloña",
-        "entradilla": "Four kilometres of road have been waiting years for this work — and the machines are already on site.",
-        "cuerpo": [
-          "The Government of Asturias has launched the renovation of a stretch of the AS-334, between kilometre points 5.9 and 9.6, with a budget of just over 1.09 million euros. The works will last seven months.",
-          "The work has started with clearing and scrub removal. Next will come the complete resurfacing of the road, badly damaged by traffic and run-off, along with improvements to the drainage ditches and drainage systems. Signage and lateral protection elements will also be renewed.",
-          "The Vice-President of the Principality, Gimena Llamedo, visited the start of the works yesterday alongside the minister Alejandro Calvo, the deputy minister Jorge García and the mayor of Piloña, Iván Allende. Llamedo stressed that every euro invested in the road network strengthens daily life and economic activity in the municipalities of the east."
-        ],
-        "apunte": "Seven months of works and four kilometres of relief: not before time.",
-        "enVeinte": [
-          "The Principality has begun renovating nearly four kilometres of the AS-334 in Piloña with an investment of 1.09 million euros.",
-          "The work includes a new surface, improved drainage, ditches and signage, and will run for seven months.",
-          "Vice-President Llamedo and Mayor Allende visited the start of the works, an intervention that local residents had been calling for for a long time."
-        ],
-        "cifra": {
-          "numero": "1,098,149",
-          "unidad": "euros",
-          "glosa": "This is what the Principality is spending to renovate fewer than four kilometres of the AS-334. That works out at around 275,000 euros per kilometre, a typical cost when the road surface needs deep renewal and the entire drainage system has to be rebuilt."
-        },
-        "palabra": null,
-        "porQue": "This road connects villages in the interior of Piloña with the municipal capital; improving it makes daily journeys safer and reduces wear on vehicles along that stretch.",
-        "lugar": "",
-        "precio": ""
-      },
-      "fr": {
-        "titular": "Début des travaux sur la AS-334 dans le tronçon traversant Piloña",
-        "entradilla": "Quatre kilomètres de route attendaient depuis des années cette intervention — et les engins sont déjà à l'œuvre.",
-        "cuerpo": [
-          "Le Gouvernement des Asturies a lancé la réfection d'un tronçon de la AS-334, entre les points kilométriques 5,9 et 9,6, avec un budget de un peu plus de 1,09 million d'euros. Les travaux dureront sept mois.",
-          "Le chantier a démarré par des opérations de nettoyage et de débroussaillage. Viendra ensuite le renouvellement complet de la chaussée, très dégradée par le trafic et les ruissellements, ainsi que l'amélioration des fossés et des systèmes de drainage. La signalisation et les dispositifs de protection latérale seront également renouvelés.",
-          "La vice-présidente de la Principauté, Gimena Llamedo, a visité hier le démarrage des travaux aux côtés du conseiller Alejandro Calvo, du vice-conseiller Jorge García et du maire de Piloña, Iván Allende. Llamedo a souligné que chaque euro investi dans le réseau routier renforce le quotidien et l'activité économique des communes de l'est."
-        ],
-        "apunte": "Sept mois de travaux et quatre kilomètres de soulagement : il était temps.",
-        "enVeinte": [
-          "La Principauté a commencé à rénover près de quatre kilomètres de la AS-334 à Piloña pour un investissement de 1,09 million d'euros.",
-          "Les travaux comprennent une nouvelle chaussée, l'amélioration du drainage, des fossés et de la signalisation, et s'étaleront sur sept mois.",
-          "La vice-présidente Llamedo et le maire Allende ont visité le démarrage des travaux, une intervention très réclamée par les habitants de la zone."
-        ],
-        "cifra": {
-          "numero": "1 098 149",
-          "unidad": "euros",
-          "glosa": "C'est ce que la Principauté consacre à la réfection de moins de quatre kilomètres de la AS-334. Cela représente environ 275 000 euros par kilomètre, un coût habituel lorsqu'il faut renouveler la chaussée en profondeur et refaire l'ensemble du système de drainage."
-        },
-        "palabra": null,
-        "porQue": "Cette route relie les villages de l'intérieur de Piloña au chef-lieu de la commune ; l'améliorer rend les déplacements quotidiens plus sûrs et réduit l'usure des véhicules sur ce tronçon.",
-        "lugar": "",
-        "precio": ""
-      },
-      "de": {
-        "titular": "Bauarbeiten auf der AS-334 durch Piloña haben begonnen",
-        "entradilla": "Vier Kilometer Straße haben jahrelang auf diese Maßnahme gewartet — jetzt sind die Maschinen im Einsatz.",
-        "cuerpo": [
-          "Die Regierung Asturiens hat die Sanierung eines Abschnitts der AS-334 zwischen den Kilometerpunkten 5,9 und 9,6 mit einem Budget von etwas mehr als 1,09 Millionen Euro in Angriff genommen. Die Arbeiten dauern sieben Monate.",
-          "Begonnen wurde mit Reinigungs- und Rodungsarbeiten. Danach folgt die vollständige Erneuerung des Fahrbahnbelags, der durch Verkehr und Oberflächenwasser stark beschädigt wurde; außerdem werden Entwässerungsgräben und Drainagesysteme verbessert. Auch Beschilderung und seitliche Schutzeinrichtungen werden erneuert.",
-          "Die Vizepräsidentin des Fürstentums, Gimena Llamedo, besuchte gestern den Baubeginn gemeinsam mit dem Regionalminister Alejandro Calvo, dem Staatssekretär Jorge García und dem Bürgermeister von Piloña, Iván Allende. Llamedo betonte, dass jeder in das Straßennetz investierte Euro den Alltag und die Wirtschaftstätigkeit der Gemeinden im Osten stärke."
-        ],
-        "apunte": "Sieben Monate Bauarbeiten und vier Kilometer Erleichterung: höchste Zeit.",
-        "enVeinte": [
-          "Das Fürstentum hat mit der Sanierung von knapp vier Kilometern der AS-334 in Piloña begonnen — mit einer Investition von 1,09 Millionen Euro.",
-          "Die Arbeiten umfassen einen neuen Fahrbahnbelag, verbesserte Entwässerung, Gräben und Beschilderung und werden sieben Monate dauern.",
-          "Vizepräsidentin Llamedo und Bürgermeister Allende besuchten den Baubeginn — eine Maßnahme, die die Anwohner der Region seit Langem gefordert hatten."
-        ],
-        "cifra": {
-          "numero": "1.098.149",
-          "unidad": "Euro",
-          "glosa": "So viel investiert das Fürstentum in die Sanierung von weniger als vier Kilometern der AS-334. Das entspricht rund 275.000 Euro pro Kilometer — übliche Kosten, wenn der Fahrbahnbelag grundlegend erneuert und das gesamte Drainagesystem neu aufgebaut werden muss."
-        },
-        "palabra": null,
-        "porQue": "Diese Straße verbindet Dörfer im Inneren von Piloña mit dem Hauptort der Gemeinde; ihre Verbesserung macht die täglichen Fahrten sicherer und verringert den Verschleiß der Fahrzeuge auf diesem Abschnitt.",
-        "lugar": "",
-        "precio": ""
-      }
-    }
   }
 ]

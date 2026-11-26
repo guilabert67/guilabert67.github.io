@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-26T11:13:37.998Z",
+  "fecha": "2026-11-26T20:22:39.904Z",
   "puntos": [
     {
       "concejo": "Villaviciosa",
-      "frase": "Lidl abre este jueves en Villaviciosa, con veinte empleos nuevos.",
-      "enlace": "/villaviciosa/lidl-abre-su-primer-supermercado-en-villaviciosa-tras-invertir-6-2-mil/"
+      "frase": "El PSOE pierde un pleno en Villaviciosa por las ausencias de sus propios concejales.",
+      "enlace": "/villaviciosa/malestar-en-el-psoe-tras-perder-una-votacion-por-ausencias-de-ediles-e/"
     },
     {
-      "concejo": "Piloña",
-      "frase": "Un coche chocó esta madrugada contra una casa en Llanos de Sevares.",
-      "enlace": "/pilona/choca-contra-una-vivienda-tras-intentar-esquivar-a-un-animal-en-una-ca/"
+      "concejo": "Cabrales",
+      "frase": "La DOP Cabrales, premiada en la primera edición de los Premios del Patrimonio Cultural de Asturias.",
+      "enlace": "/cabrales/de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri/"
     },
     {
-      "concejo": "Villaviciosa",
-      "frase": "El Principado destina 1,4 millones a los montes de Villaviciosa.",
-      "enlace": "/villaviciosa/villaviciosa-recibe-mas-de-1-4-millones-de-euros-para-mejorar-montes-y/"
+      "concejo": "Nava",
+      "frase": "Nava busca novela de terror: originales hasta el 13 de octubre de 2026.",
+      "enlace": "/nava/abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-terror-e-histor/"
     }
   ]
 }
