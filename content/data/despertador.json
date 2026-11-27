@@ -1,20 +1,10 @@
 {
-  "fecha": "2026-11-27T12:05:37.168Z",
+  "fecha": "2026-11-27T21:09:55.364Z",
   "puntos": [
     {
-      "concejo": "Piloña",
-      "frase": "El Castañéu estrena semáforos provisionales mientras arrancan las obras antiinundaciones.",
-      "enlace": "/pilona/comienza-la-tercera-y-ultima-fase-contra-las-inundaciones-en-arriondas/"
-    },
-    {
       "concejo": "Villaviciosa",
-      "frase": "Villaviciosa busca coordinador de informática: el plazo se cierra el 17 de diciembre.",
-      "enlace": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/"
-    },
-    {
-      "concejo": "Cabranes",
-      "frase": "El mercadillo artesano de Torazo se alarga dos fines de semana más.",
-      "enlace": "/cabranes/torazo-enciende-la-navidad-con-un-mercadillo-de-artesania-local/"
+      "frase": "La sidra asturiana llega a 57 millones de personas con una campaña de 368.000 euros.",
+      "enlace": "/villaviciosa/la-nueva-campana-de-sidra-de-asturias-preve-unos-57-millones-de-impact/"
     }
   ]
 }
