@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-26T20:22:39.904Z",
+  "fecha": "2026-11-27T12:05:37.168Z",
   "puntos": [
     {
+      "concejo": "Piloña",
+      "frase": "El Castañéu estrena semáforos provisionales mientras arrancan las obras antiinundaciones.",
+      "enlace": "/pilona/comienza-la-tercera-y-ultima-fase-contra-las-inundaciones-en-arriondas/"
+    },
+    {
       "concejo": "Villaviciosa",
-      "frase": "El PSOE pierde un pleno en Villaviciosa por las ausencias de sus propios concejales.",
-      "enlace": "/villaviciosa/malestar-en-el-psoe-tras-perder-una-votacion-por-ausencias-de-ediles-e/"
+      "frase": "Villaviciosa busca coordinador de informática: el plazo se cierra el 17 de diciembre.",
+      "enlace": "/villaviciosa/procedimiento-selectivo-de-coordinador-a-de-informatica-del-ayuntamien/"
     },
     {
-      "concejo": "Cabrales",
-      "frase": "La DOP Cabrales, premiada en la primera edición de los Premios del Patrimonio Cultural de Asturias.",
-      "enlace": "/cabrales/de-la-sidra-y-la-gaita-a-la-memoria-minera-nacen-los-premios-del-patri/"
-    },
-    {
-      "concejo": "Nava",
-      "frase": "Nava busca novela de terror: originales hasta el 13 de octubre de 2026.",
-      "enlace": "/nava/abierto-el-plazo-para-el-vii-premio-de-novela-corta-de-terror-e-histor/"
+      "concejo": "Cabranes",
+      "frase": "El mercadillo artesano de Torazo se alarga dos fines de semana más.",
+      "enlace": "/cabranes/torazo-enciende-la-navidad-con-un-mercadillo-de-artesania-local/"
     }
   ]
 }
